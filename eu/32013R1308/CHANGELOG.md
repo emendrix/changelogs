@@ -10,6 +10,821 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20180101 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20170801` → `02013R1308-20180101`
+
+- **Act** `eu:32013R1308` · **In force** 2018-01-01 · **Detected** 2026-09-04
+- **Touched** 27 provisions — 27 substantive · 0 date-only · **9 disputed**
+- **Diff** 4 inserted · 23 modified · 0 deleted · 0 renumbered · 0 deferred · 225 unchanged
+- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20170801` · `v2` = `02013R1308-20180101`
+
+---
+
+**MODIFIED · Art. 33 — Operational programmes** · applies from: unchanged
+
+*within* `AR 33 PA 1 ALN 1 PTA (f)`, `AR 33 PA 3 ALN 1 PTA (c)`, `AR 33 PA 3 ALN 1 PTA (d)`, `AR 33 PA 3 ALN 1 PTA (h)`, `AR 33 PA 3 ALN 1 PTA (i)`, `AR 33 PA 5 ALN 2`, `AR 33 PA 5 ALN 3` · *amended by* `32017R2393`
+
+The crisis prevention and management objective in point (f) of Article 33(1) now also mentions coaching to other producer organisations, associations of producer organisations, producer groups or individual producers, and a corresponding new point (i) listing coaching is added to the list of covered actions in Article 33(3). [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_33)
+
+The promotion and communication point in Article 33(3)(c) now also refers to actions and activities aimed at diversification and consolidation on the fruit and vegetable markets, and the mutual funds support in Article 33(3)(d) now also covers financial contributions to replenish mutual funds following compensation paid to producer members experiencing a severe drop in income due to adverse market conditions. [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_33)
+
+The environmental provisions in Article 33(5) now refer to organic farming commitments and to Article 29(2) and (3) of Regulation (EU) No 1305/2013 in addition to the agri-environment-climate commitments and Article 28(3) reference that were already present. [Art. 33, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_33) [Art. 33, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_33)
+
+*before* (`02013R1308-20170801`)
+
+> Article 33
+> Operational programmes
+> 1. Operational programmes in the fruit and vegetables sector shall have a minimum duration of three years and a maximum duration of five years. They shall have at least two of the objectives referred to in point (c) of Article 152(1) or two of the following objectives:
+> (a) planning of production, including production and consumption forecasting and follow-up;
+> (b) improvement of product quality, whether in a fresh or processed form;
+> (c) boosting products' commercial value;
+> (d) promotion of the products, whether in a fresh or processed form;
+> (e) environmental measures, particularly those relating to water, and methods of production respecting the environment, including organic farming;
+> (f) crisis prevention and management.
+> Operational programmes shall be submitted to the Member States for their approval.
+> 2. Associations of producer organisations may also present an entire or partial operational programme composed of measures identified, but not carried out, by member organisations under their operational programmes. The operational programmes of associations of producer organisations shall be subject to the same rules as operational programmes of producer organisations and shall be considered with the operational programmes of member organisations.
+> To that end, the Member States shall ensure that:
+> (a) measures under operational programmes of an association of producer organisations are entirely financed by contributions of those member organisa […truncated by emendrix: 3655 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 33
+> Operational programmes
+> 1. Operational programmes in the fruit and vegetables sector shall have a minimum duration of three years and a maximum duration of five years. They shall have at least two of the objectives referred to in point (c) of Article 152(1) or two of the following objectives:
+> (a) planning of production, including production and consumption forecasting and follow-up;
+> (b) improvement of product quality, whether in a fresh or processed form;
+> (c) boosting products' commercial value;
+> (d) promotion of the products, whether in a fresh or processed form;
+> (e) environmental measures, particularly those relating to water, and methods of production respecting the environment, including organic farming;
+> (f) crisis prevention and management, including providing coaching to other producer organisations, associations of producer organisations, producer groups or individual producers.
+> Operational programmes shall be submitted to the Member States for their approval.
+> 2. Associations of producer organisations may also present an entire or partial operational programme composed of measures identified, but not carried out, by member organisations under their operational programmes. The operational programmes of associations of producer organisations shall be subject to the same rules as operational programmes of producer organisations and shall be considered with the operational programmes of member organisations.
+> To that end, the Member States shall ensure that:
+> (a) me […truncated by emendrix: 4318 characters omitted…]
+
+**MODIFIED · Art. 34 — Union financial assistance** · applies from: unchanged
+
+*within* `AR 34 PA 4 ALN 1`, `AR 34 PA 4 ALN 1 PTA (a)`, `AR 34 PA 4 ALN 1 PTA (a) PTI (i)`, `AR 34 PA 4 ALN 1 PTA (a) PTI (ii)`, `AR 34 PA 4 ALN 1 PTA (b)` · *amended by* `32017R2393`
+
+Paragraph 4 is restructured so that the increase to 100% now covers two listed cases rather than a single market-withdrawal rule: point (a) restates the market-withdrawal condition with its two disposal routes as sub-points (i) and (ii), expanding the free-distribution recipients in (ii) to include public education institutions alongside penal institutions, schools, the Article 22 establishments, children's holiday camps, hospitals and old people's homes. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_34)
+
+A new point (b) is added covering actions related to coaching of other producer organisations, of producer groups recognised under Article 125e of Regulation (EC) No 1234/2007 or Article 27 of Regulation (EU) No 1305/2013 from regions referred to in Article 35(1), or of individual producers. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_34)
+
+*before* (`02013R1308-20170801`)
+
+> Article 34
+> Union financial assistance
+> 1. The Union financial assistance shall be equal to the amount of the financial contributions referred to in point (a) of Article 32(1) actually paid and limited to 50 % of the actual expenditure incurred.
+> 2. The Union financial assistance shall be limited to 4,1 % of the value of the marketed production of each producer organisation or of their association.
+> However, in the case of producer organisations, that percentage may be increased to 4,6 % of the value of the marketed production, provided that the amount in excess of 4,1 % of the value of the marketed production is used solely for crisis prevention and management measures.
+> In the case of associations of producer organisations, that percentage may be increased to 4,7 % of the value of the marketed production, provided that the amount in excess of 4,1 % of the value of the marketed production is used solely for crisis prevention and management measures implemented by the association of producer organisations on behalf of its members.
+> 3. At the request of a producer organisation, the 50 % limit provided for in paragraph 1 shall be increased to 60 % for an operational programme or part of an operational programme satisfying at least one of the following conditions:
+> (a) it is submitted by several Union producer organisations operating in different Member States on transnational schemes;
+> (b) it is submitted by one or more producer organisations engaged in schemes operated on an interbran […truncated by emendrix: 1748 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 34
+> Union financial assistance
+> 1. The Union financial assistance shall be equal to the amount of the financial contributions referred to in point (a) of Article 32(1) actually paid and limited to 50 % of the actual expenditure incurred.
+> 2. The Union financial assistance shall be limited to 4,1 % of the value of the marketed production of each producer organisation or of their association.
+> However, in the case of producer organisations, that percentage may be increased to 4,6 % of the value of the marketed production, provided that the amount in excess of 4,1 % of the value of the marketed production is used solely for crisis prevention and management measures.
+> In the case of associations of producer organisations, that percentage may be increased to 4,7 % of the value of the marketed production, provided that the amount in excess of 4,1 % of the value of the marketed production is used solely for crisis prevention and management measures implemented by the association of producer organisations on behalf of its members.
+> 3. At the request of a producer organisation, the 50 % limit provided for in paragraph 1 shall be increased to 60 % for an operational programme or part of an operational programme satisfying at least one of the following conditions:
+> (a) it is submitted by several Union producer organisations operating in different Member States on transnational schemes;
+> (b) it is submitted by one or more producer organisations engaged in schemes operated on an interbran […truncated by emendrix: 2144 characters omitted…]
+
+**MODIFIED · Art. 35** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 37 — Delegated powers** · applies from: unchanged
+
+*within* `AR 37 ALN 1 PTA (d) PTI (ii)` · *amended by* `32017R2393`
+
+In point (d)(ii), the list of Article 33(3) first subparagraph points referenced has been expanded to include point (i), alongside the previously listed points (a), (b) and (c). [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_37)
+
+*before* (`02013R1308-20170801`)
+
+> Article 37
+> Delegated powers
+> In order to ensure an efficient, targeted and sustainable support of producer organisations and their associations in the fruit and vegetables sector, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 establishing rules on:
+> (a) operational funds and operational programmes, concerning:
+> (i) the estimated amounts, the decisions by producer organisations and their associations on the financial contributions and the use of operational funds;
+> (ii) the measures, actions, expenditure and administrative and personnel costs to be included or excluded under operational programmes, the modification thereof and the additional requirements to be determined by Member States;
+> (iii) the avoidance of double funding between operational programmes and rural development programmes;
+> (iv) operational programmes of associations of producer organisations;
+> (v) the specific rules applicable to cases in which associations of producer organisations manage, process, implement and present, wholly or in part, operational programmes;
+> (vi) the obligation to use common indicators for the purposes of monitoring and evaluation of operational programmes;
+> (b) the national framework and national strategy for operational programmes concerning the obligation to monitor and evaluate the effectiveness of the national frameworks and the national strategies;
+> (c) Union financial assistance, concerning:
+> (i) the basis for the calculation of Union financial a […truncated by emendrix: 2013 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 37
+> Delegated powers
+> In order to ensure an efficient, targeted and sustainable support of producer organisations and their associations in the fruit and vegetables sector, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 establishing rules on:
+> (a) operational funds and operational programmes, concerning:
+> (i) the estimated amounts, the decisions by producer organisations and their associations on the financial contributions and the use of operational funds;
+> (ii) the measures, actions, expenditure and administrative and personnel costs to be included or excluded under operational programmes, the modification thereof and the additional requirements to be determined by Member States;
+> (iii) the avoidance of double funding between operational programmes and rural development programmes;
+> (iv) operational programmes of associations of producer organisations;
+> (v) the specific rules applicable to cases in which associations of producer organisations manage, process, implement and present, wholly or in part, operational programmes;
+> (vi) the obligation to use common indicators for the purposes of monitoring and evaluation of operational programmes;
+> (b) the national framework and national strategy for operational programmes concerning the obligation to monitor and evaluate the effectiveness of the national frameworks and the national strategies;
+> (c) Union financial assistance, concerning:
+> (i) the basis for the calculation of Union financial a […truncated by emendrix: 2018 characters omitted…]
+
+**MODIFIED · Art. 38 — Implementing powers in accordance with the examination procedure** · applies from: unchanged
+
+*within* `AR 38 ALN 1 PTA (i)` · *amended by* `32017R2393`
+
+Point (i) now lists coaching alongside promotion, communication and training as measures covered in cases of crisis prevention and management, and the phrase was changed from singular 'case' to plural 'cases'. [Art. 38, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_38) [Art. 38, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_38)
+
+*before* (`02013R1308-20170801`)
+
+> Article 38
+> Implementing powers in accordance with the examination procedure
+> The Commission may adopt implementing acts laying down measures concerning:
+> (a) the management of operational funds;
+> (b) the information to be contained in operational programmes, national frameworks and national strategies referred to in Article 36, the submission of operational programmes to Member States, time limits, accompanying documents and approval by Member States;
+> (c) the implementation of operational programmes by producer organisations and associations of producer organisations;
+> (d) the submission, format and content of monitoring and evaluation reports of national strategies and operational programmes;
+> (e) aid applications and payments of aid, including advance and partial payments of aid;
+> (f) the practical arrangements for the display of the Union emblem on packages of products for free distribution;
+> (g) the respect for marketing standards in case of withdrawals;
+> (h) transport, sorting and packaging costs in case of free distribution;
+> (i) promotion, communication and training measures in case of crisis prevention and management;
+> (j) the implementation of withdrawal operations, green harvesting, non-harvesting and harvest insurance measures;
+> (k) the application, authorisation, payment and reimbursement of the national financial assistance;
+> (l) the procedures for, and the amount of, the security to be lodged where an advance payment is made.
+> Those implementing acts shall be adopted in acco […truncated by emendrix: 68 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 38
+> Implementing powers in accordance with the examination procedure
+> The Commission may adopt implementing acts laying down measures concerning:
+> (a) the management of operational funds;
+> (b) the information to be contained in operational programmes, national frameworks and national strategies referred to in Article 36, the submission of operational programmes to Member States, time limits, accompanying documents and approval by Member States;
+> (c) the implementation of operational programmes by producer organisations and associations of producer organisations;
+> (d) the submission, format and content of monitoring and evaluation reports of national strategies and operational programmes;
+> (e) aid applications and payments of aid, including advance and partial payments of aid;
+> (f) the practical arrangements for the display of the Union emblem on packages of products for free distribution;
+> (g) the respect for marketing standards in case of withdrawals;
+> (h) transport, sorting and packaging costs in case of free distribution;
+> (i) promotion, communication, training and coaching measures in cases of crisis prevention and management;
+> (j) the implementation of withdrawal operations, green harvesting, non-harvesting and harvest insurance measures;
+> (k) the application, authorisation, payment and reimbursement of the national financial assistance;
+> (l) the procedures for, and the amount of, the security to be lodged where an advance payment is made.
+> Those implementing acts shall be adop […truncated by emendrix: 79 characters omitted…]
+
+**MODIFIED · Art. 62 — Authorisations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 62 PA 5` · *dates* +2008-01-15 · *amended by* `32017R2393`
+
+A new paragraph 5 was added allowing Member States to apply this Chapter to areas producing wine suitable for producing wine spirits with a geographical indication registered under Regulation (EC) No 110/2008, with such areas able to be treated as areas eligible for wines with a protected designation of origin or protected geographical indication. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_62)
+
+Paragraphs 1 through 4, covering the granting, validity and exclusions of authorisations, remain unchanged between the two versions. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_62)
+
+*before* (`02013R1308-20170801`)
+
+> Article 62
+> Authorisations
+> 1. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+> 2. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+> 3. The authorisations referred to in paragraph 1 shall be valid for three years from the date on which they were granted. A producer who has not used an authorisation granted during its period of validity shall be subject to administrative penalties as provided for in Article 89(4) of Regulation (EU) No 1306/2013.
+> 4. This Chapter shall not apply to the planting or replanting of areas intended for experimental purposes or for graft nurseries, to areas whose wine or vine products are intended solely for the consumption by the wine-grower's household or to areas to be newly planted as a result of compulsory purchases in the public interest under national law.
+
+*after* (`02013R1308-20180101`)
+
+> Article 62
+> Authorisations
+> 1. Vines of wine grape varieties classified in accordance with Article 81(2) may only be planted or replanted if an authorisation is granted in accordance with Articles 64, 66 and 68 under the conditions laid down in this Chapter.
+> 2. Member States shall grant the authorisation referred to in paragraph 1, corresponding to a specific area expressed in hectares, upon submission of an application by producers which complies with objective and non-discriminatory eligibility criteria. Such authorisation shall be granted without a fee being charged to the producers.
+> 3. The authorisations referred to in paragraph 1 shall be valid for three years from the date on which they were granted. A producer who has not used an authorisation granted during its period of validity shall be subject to administrative penalties as provided for in Article 89(4) of Regulation (EU) No 1306/2013.
+> 4. This Chapter shall not apply to the planting or replanting of areas intended for experimental purposes or for graft nurseries, to areas whose wine or vine products are intended solely for the consumption by the wine-grower's household or to areas to be newly planted as a result of compulsory purchases in the public interest under national law.
+> 5. Member States may apply this Chapter to areas producing wine suitable for producing wine spirits with a geographical indication as registered in accordance with Annex III to Regulation (EC) No 110/2008 of the European Parliament and of the […truncated by emendrix: 475 characters omitted…]
+
+**MODIFIED · Art. 64 — Granting of authorisations for new plantings** · applies from: unchanged
+
+*within* `AR 64 PA 1 ALN 2 PTA (ca)`, `AR 64 PA 2 ALN 1`, `AR 64 PA 2a`, `AR 64 PA 3 ALN 1` · *amended by* `32017R2393`
+
+A new eligibility criterion is added allowing Member States to require that an applicant does not have vines planted without authorisation under Article 71 or without a planting right under Articles 85a and 85b of Regulation (EC) No 1234/2007. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_64)
+
+The provision on granting authorisations when applications exceed available area now also allows the granting to establish a minimum and/or maximum area per applicant, in addition to the existing priority criteria. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_64)
+
+A new paragraph 2a is inserted permitting Member States that apply one or more priority criteria under paragraph 2 to add a condition limiting eligibility to natural persons no more than 40 years of age in the year of application, and the publication and notification duty in paragraph 3 is extended to cover this new paragraph 2a. [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_64) [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_64)
+
+*before* (`02013R1308-20170801`)
+
+> Article 64
+> Granting of authorisations for new plantings
+> 1. If the total area covered by the eligible applications in a given year does not exceed the area made available by the Member State, all such applications shall be accepted.
+> Member States may, for the purpose of this Article, apply one or more of the following objective and non-discriminatory eligibility criteria:
+> (a) the applicant shall have an agricultural area which is not smaller than the area for which he requests the authorisation;
+> (b) the applicant shall possess adequate occupational skills and competence;
+> (c) the application shall not pose a significant risk of misappropriation of the reputation of specific protected designations of origin, which shall be presumed unless the existence of such risk is demonstrated by the public authorities;
+> (d) where duly justified, one or more of the criteria referred to in paragraph 2, provided that they are applied in an objective and non-discriminatory manner.
+> 2. If the total area covered by the eligible applications referred to in paragraph 1 in a given year exceeds the area made available by the Member State, authorisations shall be granted according to a pro-rata distribution of hectares to all applicants on the basis of the area for which they have requested the authorisation. Such granting may also be partially or completely made according to one or more of the following objective and non-discriminatory priority criteria:
+> (a) producers who are setting up vine plantings […truncated by emendrix: 875 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 64
+> Granting of authorisations for new plantings
+> 1. If the total area covered by the eligible applications in a given year does not exceed the area made available by the Member State, all such applications shall be accepted.
+> Member States may, for the purpose of this Article, apply one or more of the following objective and non-discriminatory eligibility criteria:
+> (a) the applicant shall have an agricultural area which is not smaller than the area for which he requests the authorisation;
+> (b) the applicant shall possess adequate occupational skills and competence;
+> (c) the application shall not pose a significant risk of misappropriation of the reputation of specific protected designations of origin, which shall be presumed unless the existence of such risk is demonstrated by the public authorities;
+> (ca) the applicant does not have vines planted without authorisation as referred to in Article 71 of this Regulation or without a planting right as referred to in Articles 85a and 85b of Regulation (EC) No 1234/2007;
+> (d) where duly justified, one or more of the criteria referred to in paragraph 2, provided that they are applied in an objective and non-discriminatory manner.
+> 2. If the total area covered by the eligible applications referred to in paragraph 1 in a given year exceeds the area made available by the Member State, authorisations shall be granted according to a pro-rata distribution of hectares to all applicants on the basis of the area for which they have requested […truncated by emendrix: 1435 characters omitted…]
+
+**MODIFIED · Art. 148 — Contractual relations in the milk and milk products sector** · applies from: unchanged
+
+*within* `AR 148 PA 1a`, `AR 148 PA 2 ALN 1`, `AR 148 PA 3 ALN 1`, `AR 148 PA 4 ALN 2`, `AR 148 PA 4 ALN 2 PTA (a)`, `AR 148 PA 4 ALN 2 PTA (a) PTI (i)`, `AR 148 PA 4 ALN 2 PTA (a) PTI (ii)` · *amended by* `32017R2393`
+
+A new paragraph 1a was inserted allowing a producer, producer organisation or association of producer organisations to require a written contract or written contract offer for raw milk deliveries where a Member State has not exercised the options in paragraph 1, with an exemption for first purchasers that are micro, small or medium-sized enterprises within the meaning of Recommendation 2003/361/EC. [Art. 148, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_148)
+
+References in paragraph 2 and paragraph 3 were expanded to also cover contracts or offers made under the new paragraph 1a, and paragraph 3's cooperative exemption now refers to a member of a cooperative delivering to that cooperative rather than simply a farmer who is a member. [Art. 148, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_148) [Art. 148, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_148)
+
+Paragraph 4's second subparagraph now allows one or more of the listed measures rather than one or both, and point (a) was restructured into two sub-points, adding a new possibility for Member States to require parties to agree on a relationship between quantity delivered and price payable, alongside the pre-existing minimum duration provision. [Art. 148, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_148) [Art. 148, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_148)
+
+*before* (`02013R1308-20170801`)
+
+> Article 148
+> Contractual relations in the milk and milk products sector
+> 1. Where a Member State decides that every delivery of raw milk in its territory by a farmer to a processor of raw milk must be covered by a written contract between the parties and/or decides that first purchasers must make a written offer for a contract for the delivery of raw milk by the farmers, such contract and/or such offer for a contract shall fulfil the conditions laid down in paragraph 2.
+> Where a Member State decides that deliveries of raw milk by a farmer to a processor of raw milk must be covered by a written contract between the parties, it shall also decide which stage or stages of the delivery shall be covered by such a contract if the delivery of raw milk is made through one or more collectors.
+> For the purposes of this Article, a "collector" means an undertaking which transports raw milk from a farmer or another collector to a processor of raw milk or another collector, where the ownership of the raw milk is transferred in each case.
+> 2. The contract and/or the offer for a contract referred to in paragraph 1 shall:
+> (a) be made in advance of the delivery,
+> (b) be made in writing, and
+> (c) include, in particular, the following elements:
+> (i) the price payable for the delivery, which shall:
+> be static and be set out in the contract, and/or
+> be calculated by combining various factors set out in the contract, which may include market indicators reflecting changes in market conditions, the volume deliv […truncated by emendrix: 2780 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 148
+> Contractual relations in the milk and milk products sector
+> 1. Where a Member State decides that every delivery of raw milk in its territory by a farmer to a processor of raw milk must be covered by a written contract between the parties and/or decides that first purchasers must make a written offer for a contract for the delivery of raw milk by the farmers, such contract and/or such offer for a contract shall fulfil the conditions laid down in paragraph 2.
+> Where a Member State decides that deliveries of raw milk by a farmer to a processor of raw milk must be covered by a written contract between the parties, it shall also decide which stage or stages of the delivery shall be covered by such a contract if the delivery of raw milk is made through one or more collectors.
+> For the purposes of this Article, a "collector" means an undertaking which transports raw milk from a farmer or another collector to a processor of raw milk or another collector, where the ownership of the raw milk is transferred in each case.
+> 1a. Where Member States do not make use of the possibilities provided for in paragraph 1 of this Article, a producer, a producer organisation, or an association of producer organisations may require that any delivery in raw milk to a processor of raw milk be the subject of a written contract between the parties and/or be the subject of a written offer for a contract from the first purchasers, under the conditions laid down in the first subparagraph of paragraph […truncated by emendrix: 3739 characters omitted…]
+
+**MODIFIED · Art. 149 — Contractual negotiations in the milk and milk products sector** · applies from: unchanged
+
+*within* `AR 149 PA 1 ALN 1` · *amended by* `32017R2393`
+
+The cross-reference for the recognition of a producer organisation in paragraph 1 was changed from Article 152(3) to Article 161(1). [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_149) [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_149)
+
+*before* (`02013R1308-20170801`)
+
+> Article 149
+> Contractual negotiations in the milk and milk products sector
+> 1. A producer organisation in the milk and milk products sector which is recognised under Article 152(3) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).
+> 2. The negotiations by the producer organisation may take place:
+> (a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;
+> (b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;
+> (c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:
+> (i) the volume of raw milk covered by such negotiations does not exceed 3,5 % of total Union production,
+> (ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 33 % of the total national production of that Member State, and
+> (iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 33 % of the total national production of that Member State;
+> (d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogat […truncated by emendrix: 3101 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 149
+> Contractual negotiations in the milk and milk products sector
+> 1. A producer organisation in the milk and milk products sector which is recognised under Article 161(1) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).
+> 2. The negotiations by the producer organisation may take place:
+> (a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;
+> (b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;
+> (c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:
+> (i) the volume of raw milk covered by such negotiations does not exceed 3,5 % of total Union production,
+> (ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 33 % of the total national production of that Member State, and
+> (iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 33 % of the total national production of that Member State;
+> (d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogat […truncated by emendrix: 3101 characters omitted…]
+
+**MODIFIED · Art. 152 — Producer organisations** · applies from: unchanged
+
+*within* `AR 152 PA 1 ALN 1 PTA (b)`, `AR 152 PA 1 ALN 1 PTA (b) PTI (i)`, `AR 152 PA 1 ALN 1 PTA (b) PTI (ii)`, `AR 152 PA 1 ALN 1 PTA (b) PTI (iii)`, `AR 152 PA 1 ALN 1 PTA (b) PTI (iv)`, `AR 152 PA 1 ALN 1 PTA (b) PTI (v)`, `AR 152 PA 1 ALN 1 PTA (b) PTI (vi)`, `AR 152 PA 1 ALN 1 PTA (b) PTI (vii)`, `AR 152 PA 1 ALN 1 PTA (b) PTI (viii)`, `AR 152 PA 1a`, `AR 152 PA 1b`, `AR 152 PA 1c` · *amended by* `32017R2393`
+
+Point (b) of Article 152(1)(1) now requires producer organisations to be formed on the initiative of producers and to carry out at least one of eight listed joint activities, such as joint processing, distribution, packaging, quality control, equipment or storage use, waste management, input procurement, or other joint service activities pursuing the objectives in point (c), whereas the earlier version contained no such list of joint activities and moved directly to the objectives clause. [Art. 152, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_152) [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_152)
+
+The objectives clause that previously sat at point (c) is renumbered without change of content, and three entirely new paragraphs, 1a, 1b and 1c, are added covering a derogation allowing recognised producer organisations to plan production and negotiate supply contracts on behalf of members under listed conditions, extending the term producer organisations to certain associations, and empowering national competition authorities and the Commission to require modification or discontinuation of such activities in specified circumstances. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_152)
+
+*before* (`02013R1308-20170801`)
+
+> Article 152
+> Producer organisations
+> 1. Member States may, on request, recognise producer organisations, which:
+> (a) are constituted, and controlled in accordance with point (c) of Article 153(2), by producers in a specific sector listed in Article 1(2);
+> (b) are formed on the initiative of the producers;
+> (c) pursue a specific aim which may include at least one of the following objectives:
+> (i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;
+> (ii) concentration of supply and the placing on the market of the products produced by its members, including through direct marketing;
+> (iii) optimising production costs and returns on investments in response to environmental and animal welfare standards, and stabilising producer prices;
+> (iv) carrying out research and developing initiatives on sustainable production methods, innovative practices, economic competitiveness and market developments;
+> (v) promoting, and providing technical assistance for, the use of environmentally sound cultivation practices and production techniques, and sound animal welfare practices and techniques;
+> (vi) promoting, and providing technical assistance for, the use of production standards, improving product quality and developing products with a protected designation of origin, with a protected geographical indication or covered by a national quality label;
+> (vii) the management of by-products and of waste in particular to protect the quality of water, soil a […truncated by emendrix: 1731 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 152
+> Producer organisations
+> 1. Member States may, on request, recognise producer organisations, which:
+> (a) are constituted, and controlled in accordance with point (c) of Article 153(2), by producers in a specific sector listed in Article 1(2);
+> (b) are formed on the initiative of the producers and which carry out at least one of the following activities:
+> (i) joint processing;
+> (ii) joint distribution, including by joint selling platforms or joint transportation;
+> (iii) joint packaging, labelling or promotion;
+> (iv) joint organising of quality control;
+> (v) joint use of equipment or storage facilities;
+> (vi) joint management of waste directly related to the production;
+> (vii) joint procurement of inputs;
+> (viii) any other joint service activities pursuing one of the objectives listed in point (c) of this paragraph;
+> (c) pursue a specific aim which may include at least one of the following objectives:
+> (i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;
+> (ii) concentration of supply and the placing on the market of the products produced by its members, including through direct marketing;
+> (iii) optimising production costs and returns on investments in response to environmental and animal welfare standards, and stabilising producer prices;
+> (iv) carrying out research and developing initiatives on sustainable production methods, innovative practices, economic competitiveness and market developments;
+> (v) promoting, and providin […truncated by emendrix: 5353 characters omitted…]
+
+**MODIFIED · Art. 154 — Recognition of producer organisations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 154 PA 1a`, `AR 154 PA 2 ALN 1`, `AR 154 PA 3 ALN 1` · *dates* -2014-01-01 -2015-01-01 +2018-01-01 +2020-12-31 · *amended by* `32017R2393`
+
+A new paragraph 1a was added allowing Member States to grant more than one recognition to a producer organisation operating in several sectors, provided it meets the paragraph 1 conditions for each sector concerned. [Art. 154, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_154)
+
+Paragraph 2's reference date for prior national recognition was changed from 1 January 2014 to 1 January 2018. [Art. 154, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_154) [Art. 154, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_154)
+
+Paragraph 3 was reworded so that instead of allowing non-conforming organisations recognised before 1 January 2014 to continue activities under national law until 1 January 2015, it now requires withdrawal of recognition for organisations recognised before 1 January 2018 that do not meet the paragraph 1 conditions, no later than 31 December 2020. [Art. 154, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_154) [Art. 154, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_154)
+
+*before* (`02013R1308-20170801`)
+
+> Article 154
+> Recognition of producer organisations
+> 1. In order to be recognised by a Member State, the producer organisation applying for such recognition shall be a legal entity or clearly defined part of a legal entity which:
+> (a) fulfils the requirements laid down in points (a), (b) and (c) of Article 152(1);
+> (b) has a minimum number of members and/or covers a minimum volume or value of marketable production, to be laid down by the Member State concerned, in the area where it operates;
+> (c) provides sufficient evidence that it can carry out its activities properly, both over time and in terms of effectiveness, provision of human, material and technical support to its members, and as appropriate concentration of supply;
+> (d) has statutes that are consistent with points (a), (b) and (c) of this paragraph.
+> 2. Member States may decide that producer organisations which have been recognised before 1 January 2014 on the basis of national law and which fulfil the conditions laid down in paragraph 1 of this Article are deemed to be recognised as producer organisations pursuant to Article 152.
+> 3. Producer organisations which have been recognised before 1 January 2014 on the basis of national law and which do not fulfil the conditions laid down in paragraph 1 may continue to exercise their activities under national law until 1 January 2015.
+> 4. Member States shall:
+> (a) decide whether to grant recognition to a producer organisation within four months of the lodging of an application, accom […truncated by emendrix: 719 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 154
+> Recognition of producer organisations
+> 1. In order to be recognised by a Member State, the producer organisation applying for such recognition shall be a legal entity or clearly defined part of a legal entity which:
+> (a) fulfils the requirements laid down in points (a), (b) and (c) of Article 152(1);
+> (b) has a minimum number of members and/or covers a minimum volume or value of marketable production, to be laid down by the Member State concerned, in the area where it operates;
+> (c) provides sufficient evidence that it can carry out its activities properly, both over time and in terms of effectiveness, provision of human, material and technical support to its members, and as appropriate concentration of supply;
+> (d) has statutes that are consistent with points (a), (b) and (c) of this paragraph.
+> 1a. Member States may, on request, decide to grant more than one recognition to a producer organisation operating in several sectors referred to in Article 1(2) provided the producer organisation fulfils the conditions referred to in paragraph 1 of this Article for each sector for which it seeks recognition.
+> 2. Member States may decide that producer organisations which have been recognised before 1 January 2018 and which fulfil the conditions laid down in paragraph 1 of this Article shall be deemed to be recognised as producer organisations pursuant to Article 152.
+> 3. Where producer organisations have been recognised before 1 January 2018 but do not fulfil the conditions set ou […truncated by emendrix: 981 characters omitted…]
+
+**MODIFIED · Art. 157 — Interbranch organisations** · applies from: unchanged
+
+*within* `AR 157 PA 1 ALN 1 PTA (c) PTI (xiv)`, `AR 157 PA 1 ALN 1 PTA (c) PTI (xv)`, `AR 157 PA 1 ALN 1 PTA (c) PTI (xvi)`, `AR 157 PA 1a`, `AR 157 PA 3 ALN 1 PTA (c) PTI (xi)`, `AR 157 PA 3 ALN 1 PTA (c) PTI (xii)`, `AR 157 PA 3 ALN 1 PTA (c) PTI (xiii)` · *amended by* `32017R2393`
+
+The list of objectives that an interbranch organisation may pursue under point (c) of paragraph 1 gains two new entries covering the establishment of standard value sharing clauses referred to in Article 172a and the implementation of measures to prevent and manage animal health, plant-protection and environmental risks. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_157)
+
+A new paragraph 1a is added allowing Member States, on request, to grant more than one recognition to an interbranch organisation active in several sectors, provided it meets the conditions of paragraph 1 and, where applicable, paragraph 3 for each sector concerned. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_157)
+
+The milk and milk products derogation in paragraph 3(c) is likewise extended with two new activities, matching the same standard value sharing clauses and animal-health, plant-protection and environmental risk measures added to paragraph 1. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_157) [Art. 157, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_157)
+
+*before* (`02013R1308-20170801`)
+
+> Article 157
+> Interbranch organisations
+> 1. Member States may, on request, recognise interbranch organisations in a specific sector listed in Article 1(2) which:
+> (a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;
+> (b) are formed on the initiative of all or some of the organisations or associations which constitute them;
+> (c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:
+> (i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;
+> (ii) forecasting of production potential, and recording public market prices;
+> (iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;
+> (iv) exploring potential export markets;
+> (v) without prejudice to Articles 148 and 168, drawing up standard forms of contract, compatible with Union rules, for the sale of agricultural products to purchasers and/or the supply […truncated by emendrix: 5240 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 157
+> Interbranch organisations
+> 1. Member States may, on request, recognise interbranch organisations in a specific sector listed in Article 1(2) which:
+> (a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;
+> (b) are formed on the initiative of all or some of the organisations or associations which constitute them;
+> (c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:
+> (i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;
+> (ii) forecasting of production potential, and recording public market prices;
+> (iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;
+> (iv) exploring potential export markets;
+> (v) without prejudice to Articles 148 and 168, drawing up standard forms of contract, compatible with Union rules, for the sale of agricultural products to purchasers and/or the supply […truncated by emendrix: 6324 characters omitted…]
+
+**MODIFIED · Art. 159 — Mandatory recognition** · applies from: unchanged
+
+*within* `AR 159` · *amended by* `32017R2393`
+
+The heading changed from "Obligatory recognition" to "Mandatory recognition", while the body text of the article listing the sectors requiring recognition remained the same. [Art. 159, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_159) [Art. 159, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_159)
+
+*before* (`02013R1308-20170801`)
+
+> Article 159
+> Obligatory recognition
+> By way of derogation from Articles 152 to 158, Member States shall, on request, recognise:
+> (a) producer organisations in:
+> (i) the fruit and vegetables sector in respect of one or more products of that sector and/or such products solely intended for processing,
+> (ii) the olive oil and table olives sector,
+> (iii) the silkworm sector,
+> (iv) the hops sector;
+> (b) interbranch organisations in the olive oil and table olives sector and the tobacco sector.
+
+*after* (`02013R1308-20180101`)
+
+> Article 159
+> Mandatory recognition
+> By way of derogation from Articles 152 to 158, Member States shall, on request, recognise:
+> (a) producer organisations in:
+> (i) the fruit and vegetables sector in respect of one or more products of that sector and/or such products solely intended for processing,
+> (ii) the olive oil and table olives sector,
+> (iii) the silkworm sector,
+> (iv) the hops sector;
+> (b) interbranch organisations in the olive oil and table olives sector and the tobacco sector.
+
+**MODIFIED · Art. 161 — Recognition of producer organisations in the milk and milk products sector** · applies from: unchanged
+
+*within* `AR 161 PA 1 ALN 1`, `AR 161 PA 1 ALN 1 PTA (a)`, `AR 161 PA 1 ALN 1 PTA (a) PTI (i)`, `AR 161 PA 1 ALN 1 PTA (a) PTI (ii)`, `AR 161 PA 1 ALN 1 PTA (a) PTI (iii)`, `AR 161 PA 2 ALN 1` · *amended by* `32017R2393`
+
+The recognition process now specifies that Member States act on request, and point (a) no longer refers to the general requirements of Article 152(3) but instead sets out its own criteria requiring that the entity be constituted by producers in the sector, formed on their own initiative, and pursuing a specific aim that may include one or more listed objectives on production planning, concentration of supply and placing products on the market, and optimising production costs and stabilising producer prices. [Art. 161, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_161) [Art. 161, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_161)
+
+Paragraph 2 was reworded so that qualifying organisations are described as being considered recognised producer organisations, dropping the earlier reference to being considered recognised pursuant to Article 152(3). [Art. 161, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_161) [Art. 161, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_161)
+
+*before* (`02013R1308-20170801`)
+
+> Article 161
+> Recognition of producer organisations in the milk and milk products sector
+> 1. Member States shall recognise as producer organisations in the milk and milk products sector all legal entities or clearly defined parts of legal entities applying for such recognition, provided that:
+> (a) they fulfil the requirements laid down in Article 152(3);
+> (b) they have a minimum number of members and/or cover a minimum volume of marketable production, to be laid down by the Member State concerned, in the area where they operate;
+> (c) there is sufficient evidence that they can carry out their activities properly, both over time and in terms of effectiveness and concentration of supply;
+> (d) they have statutes that are consistent with points (a), (b) and (c) of this paragraph.
+> 2. Member States may decide that producer organisations which have been recognised before 2 April 2012 on the basis of national law and which fulfil the conditions laid down in paragraph 1 of this Article are to be considered to be recognised as producer organisations pursuant to Article 152(3).
+> 3. Member States shall:
+> (a) decide whether to grant recognition to a producer organisation within four months of the lodging of an application, accompanied by all the relevant supporting evidence; this application shall be lodged with the Member State where the organisation has its headquarters;
+> (b) carry out, at intervals to be determined by them, checks to verify that recognised producer organisations and associations […truncated by emendrix: 528 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 161
+> Recognition of producer organisations in the milk and milk products sector
+> 1. Member States shall, on request, recognise as producer organisations in the milk and milk products sector all legal entities or clearly defined parts of such entities, provided that:
+> (a) they are constituted by producers in the milk and milk products sector, are formed on their initiative and pursue a specific aim which may include one or more of the following objectives:
+> (i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;
+> (ii) concentration of supply and the placing on the market of the products produced by their members;
+> (iii) optimising production costs and stabilising producer prices;
+> (b) they have a minimum number of members and/or cover a minimum volume of marketable production, to be laid down by the Member State concerned, in the area where they operate;
+> (c) there is sufficient evidence that they can carry out their activities properly, both over time and in terms of effectiveness and concentration of supply;
+> (d) they have statutes that are consistent with points (a), (b) and (c) of this paragraph.
+> 2. Member States may decide that producer organisations which have been recognised before 2 April 2012 on the basis of national law and which fulfil the conditions laid down in paragraph 1 are to be considered as recognised producer organisations.
+> 3. Member States shall:
+> (a) decide whether to grant recognition to a producer org […truncated by emendrix: 871 characters omitted…]
+
+**MODIFIED · Art. 168 — Contractual relations** · applies from: unchanged
+
+*within* `AR 168 PA 1a`, `AR 168 PA 4 ALN 1`, `AR 168 PA 5 ALN 1` · *amended by* `32017R2393`
+
+A new paragraph 1a is added, allowing a producer, a producer organisation or an association of producer organisations, in sectors other than milk, milk products and sugar, to require a written contract or a written offer of contract where the Member State has not exercised the option under paragraph 1, with an exception for cases where the first purchaser is a micro, small or medium-sized enterprise as defined in Recommendation 2003/361/EC, subject to the possibility of using a standard contract drawn up by an interbranch organisation. [Art. 168, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_168)
+
+Paragraph 4's opening reference is expanded from paragraph 1 alone to cover contracts or offers under both paragraphs 1 and 1a. [Art. 168, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_168) [Art. 168, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_168)
+
+Paragraph 5 is reworded so the derogation now refers to paragraphs 1 and 1a and to delivery by a member of a cooperative to the cooperative of which he is a member, rather than to delivery by a producer to a purchaser that is a cooperative of which the producer is a member. [Art. 168, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_168) [Art. 168, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_168)
+
+*before* (`02013R1308-20170801`)
+
+> Article 168
+> Contractual relations
+> 1. Without prejudice to Article 148 concerning the milk and milk products sector and Article 125 concerning the sugar sector, if a Member State decides, in respect of agricultural products from a sector listed in Article 1(2), other than milk and milk products and sugar:
+> (a) that every delivery in its territory of those products by a producer to a processor or distributor must be covered by a written contract between the parties; and/or
+> (b) that the first purchasers must make a written offer for a contract for the delivery in its territory of those agricultural products by the producer,
+> such a contract or such an offer for a contract shall fulfil the conditions laid down in paragraphs 4 and 6 of this Article.
+> 2. Where the Member State decides that deliveries of the products covered by this Article by a producer to a processor must be covered by a written contract between the parties, it shall also decide which stage or stages of the delivery shall be covered by such a contract if delivery of the products concerned is made through one or more intermediaries.
+> Member States shall ensure that the provisions that they adopt under this Article do not impair the proper functioning of the internal market.
+> 3. In the case described in paragraph 2, the Member State may establish a mediation mechanism to cover cases in which there is no mutual agreement to conclude such a contract, thereby ensuring fair contractual relations.
+> 4. Any contract or offer for […truncated by emendrix: 3533 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 168
+> Contractual relations
+> 1. Without prejudice to Article 148 concerning the milk and milk products sector and Article 125 concerning the sugar sector, if a Member State decides, in respect of agricultural products from a sector listed in Article 1(2), other than milk and milk products and sugar:
+> (a) that every delivery in its territory of those products by a producer to a processor or distributor must be covered by a written contract between the parties; and/or
+> (b) that the first purchasers must make a written offer for a contract for the delivery in its territory of those agricultural products by the producer,
+> such a contract or such an offer for a contract shall fulfil the conditions laid down in paragraphs 4 and 6 of this Article.
+> 1a. Where Member States do not make use of the possibilities provided for in paragraph 1 of this Article, a producer, a producer organisation or an association of producer organisations, in respect of agricultural products in a sector referred to in Article 1(2) other than the milk, milk products and sugar sector, may require that any delivery of its products to a processor or distributor be the subject of a written contract between the parties and/or be the subject of a written offer for a contract from the first purchasers, under the conditions laid down in paragraph 4 and in the first subparagraph of paragraph 6 of this Article.
+> If the first purchaser is a micro, small or medium-sized enterprise within the meaning of Recommendation 20 […truncated by emendrix: 4479 characters omitted…]
+
+**MODIFIED · Art. 169** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 170** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 171** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 172a — Value-sharing** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+This provision is entirely new, introducing a possibility for farmers, including associations of farmers, and their first purchaser to agree on value-sharing clauses covering market bonuses and losses, which set out how changes in relevant market prices for the products concerned or other commodity markets are to be allocated between them. [Art. 172a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_172a)
+
+The text notes that this possibility exists without prejudice to any specific value-sharing clauses already applicable in the sugar sector. [Art. 172a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_172a)
+
+*after* (`02013R1308-20180101`)
+
+> Article 172a
+> Value-sharing
+> Without prejudice to any specific value-sharing clauses in the sugar sector, farmers, including associations of farmers, and their first purchaser may agree on value sharing clauses, including market bonuses and losses, determining how any evolution of relevant market prices for the products concerned or other commodity markets is to be allocated between them.
+
+**MODIFIED · Art. 184 — Tariff quotas** · applies from: unchanged
+
+*within* `AR 184 PA 1 ALN 1` · *amended by* `32017R2393`
+
+The reference to implementing acts under this provision now cites only Article 187 of the Regulation, removing the earlier reference to Article 188. [Art. 184, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_184) [Art. 184, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_184)
+
+*before* (`02013R1308-20170801`)
+
+> Article 184
+> Tariff quotas
+> 1. Tariff quotas for the import of agricultural products for release into free circulation in the Union or a part thereof, or tariff quotas for imports of Union agricultural products into third countries, which are to be partly or fully administered by the Union, resulting from international agreements concluded in accordance with the TFEU or any other act adopted in accordance with Article 43(2) or Article 207 TFEU, shall be opened and/or administered by the Commission by means of delegated acts pursuant to Article 186 of this Regulation and implementing acts pursuant to Articles 187 and 188 of this Regulation.
+> 2. Tariff quotas shall be administered in a manner which avoids any discrimination between the operators concerned, by applying one of the following methods or a combination of them or another appropriate method:
+> (a) a method based on the chronological order of the submission of applications ("first come, first served" principle);
+> (b) a method of distribution in proportion to the quantities requested when the applications were submitted (the "simultaneous examination method");
+> (c) a method based on taking traditional trade patterns into account (the "traditional/newcomers method").
+> 3. The method of administration adopted shall:
+> (a) for import tariff quotas, give due weight to the supply requirements of the existing and emerging Union production, processing and consumption market in terms of competitiveness, certainty and continuity of supply […truncated by emendrix: 169 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 184
+> Tariff quotas
+> 1. Tariff quotas for the import of agricultural products for release into free circulation in the Union or a part thereof, or tariff quotas for imports of Union agricultural products into third countries, which are to be partly or fully administered by the Union, resulting from international agreements concluded in accordance with the TFEU or any other act adopted in accordance with Article 43(2) or Article 207 TFEU, shall be opened and/or administered by the Commission by means of delegated acts pursuant to Article 186 of this Regulation and implementing acts pursuant to Article 187 of this Regulation.
+> 2. Tariff quotas shall be administered in a manner which avoids any discrimination between the operators concerned, by applying one of the following methods or a combination of them or another appropriate method:
+> (a) a method based on the chronological order of the submission of applications ("first come, first served" principle);
+> (b) a method of distribution in proportion to the quantities requested when the applications were submitted (the "simultaneous examination method");
+> (c) a method based on taking traditional trade patterns into account (the "traditional/newcomers method").
+> 3. The method of administration adopted shall:
+> (a) for import tariff quotas, give due weight to the supply requirements of the existing and emerging Union production, processing and consumption market in terms of competitiveness, certainty and continuity of supply and the n […truncated by emendrix: 160 characters omitted…]
+
+**MODIFIED · Art. 188 — Allocation process for tariff quotas** · applies from: unchanged
+
+*within* `AR 188`, `AR 188 PA 1 ALN 1`, `AR 188 PA 2 ALN 1`, `AR 188 PA 3 ALN 1` · *amended by* `32017R2393`
+
+The heading changed from Other implementing powers to Allocation process for tariff quotas, and the substantive content of all three paragraphs was replaced. [Art. 188, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_188) [Art. 188, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_188)
+
+Where the earlier text described the Commission adopting implementing acts to manage quota quantities, allocation coefficients, rejection or suspension of applications, and reallocation of unused quantities, the later text instead describes the Commission publishing allocation results via web-publication, referencing rejection, suspension or unused-quantity allocation where appropriate, and Member States issuing import and export licences subject to allocation coefficients once published. [Art. 188, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_188) [Art. 188, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_188)
+
+The earlier text's paragraph stating that implementing acts under this Article are adopted without applying the procedure in Article 229(2) or (3) no longer appears in the later text. [Art. 188, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_188) [Art. 188, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_188)
+
+*before* (`02013R1308-20170801`)
+
+> Article 188
+> Other implementing powers
+> 1. The Commission shall adopt implementing acts concerning the management of the process guaranteeing that the quantities available within the tariff quota are not exceeded, in particular by fixing an allocation coefficient to each application when the available quantities are reached, rejecting pending applications and where necessary suspending the submission of applications.
+> 2. The Commission may adopt implementing acts concerning the reallocation of the unused quantities.
+> 3. Implementing acts referred to in this Article shall be adopted without applying the procedure referred to in Article 229(2) or (3).
+
+*after* (`02013R1308-20180101`)
+
+> Article 188
+> Allocation process for tariff quotas
+> 1. The Commission shall make public, via an appropriate web-publication, the results of tariff quota allocation for the applications notified taking into account the tariff quotas available and the applications notified.
+> 2. The publication referred to in paragraph 1 shall also make reference, when appropriate, to the need of rejecting pending applications, suspending the submission of applications or allocating unused quantities.
+> 3. Member States shall issue import licences and export licences for the quantities applied for within the import tariff quotas and export tariff quotas, subject to the respective allocation coefficients and after they are made public by the Commission in accordance with paragraph 1.
+
+**MODIFIED · Art. 209 — Exceptions for the objectives of the CAP and farmers and their associations** · applies from: unchanged
+
+*within* `AR 209 PA 1 ALN 2`, `AR 209 PA 2 ALN 2`, `AR 209 PA 2 ALN 3`, `AR 209 PA 2 ALN 4` · *amended by* `32017R2393`
+
+Paragraph 1 now also refers to producer organisations recognised under Article 161, in addition to those recognised under Article 152, as bodies whose agreements, decisions and concerted practices may fall outside Article 101(1) TFEU. [Art. 209, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_209)
+
+Paragraph 2 adds new text allowing farmers, farmers' associations, associations of such associations, or producer organisations recognised under Article 152 or Article 161, or associations of producer organisations recognised under Article 156, to request an opinion from the Commission on the compatibility of their agreements, decisions and concerted practices with the objectives set out in Article 39 TFEU, and sets out that the Commission shall deal with such requests promptly, send its opinion within four months of a complete request, and may change the content of an opinion on its own initiative or at the request of a Member State, in particular where the applicant provided inaccurate information or misused the opinion. [Art. 209, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_209)
+
+*before* (`02013R1308-20170801`)
+
+> Article 209
+> Exceptions for the objectives of the CAP and farmers and their associations
+> 1. Article 101(1) TFEU shall not apply to the agreements, decisions and practices referred to in Article 206 of this Regulation necessary for the attainment of the objectives set out in Article 39 TFEU.
+> Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of farmers, farmers' associations, or associations of such associations, or producer organisations recognised under Article 152 of this Regulation, or associations of producer organisations recognised under Article 156 of this Regulation, which concern the production or sale of agricultural products or the use of joint facilities for the storage, treatment or processing of agricultural products, unless the objectives of Article 39 TFEU are jeopardised.
+> This paragraph shall not apply to agreements, decisions and concerted practices which entail an obligation to charge an identical price or by which competition is excluded.
+> 2. Agreements, decisions and concerted practices which fulfil the conditions referred to in paragraph 1 of this Article shall not be prohibited, no prior decision to that effect being required.
+> In any national or Union proceedings for the application of Article 101 TFEU, the burden of proving an infringement of Article 101(1) TFEU shall rest on the party or the authority alleging the infringement. The party claiming the benefit of the exemptions provided in paragraph 1 of this Article shal […truncated by emendrix: 81 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 209
+> Exceptions for the objectives of the CAP and farmers and their associations
+> 1. Article 101(1) TFEU shall not apply to the agreements, decisions and practices referred to in Article 206 of this Regulation necessary for the attainment of the objectives set out in Article 39 TFEU.
+> Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of farmers, farmers' associations, or associations of such associations, or producer organisations recognised under Article 152 or Article 161 of this Regulation, or associations of producer organisations recognised under Article 156 of this Regulation, which concern the production or sale of agricultural products or the use of joint facilities for the storage, treatment or processing of agricultural products, unless the objectives set out in Article 39 TFEU are jeopardised.
+> This paragraph shall not apply to agreements, decisions and concerted practices which entail an obligation to charge an identical price or by which competition is excluded.
+> 2. Agreements, decisions and concerted practices which fulfil the conditions referred to in paragraph 1 of this Article shall not be prohibited, no prior decision to that effect being required.
+> However, farmers, farmers’ associations, or associations of such associations, or producer organisations recognised under Article 152 or Article 161 of this Regulation, or associations of producer organisations recognised under Article 156 of this Regulation, may request an op […truncated by emendrix: 891 characters omitted…]
+
+**MODIFIED · Art. 222 — Application of Article 101(1) TFEU** · applies from: unchanged
+
+*within* `AR 222 PA 1 ALN 1` · *amended by* `32017R2393`
+
+The list of entities whose agreements and decisions may be exempted from Article 101(1) TFEU during periods of severe market imbalance now also includes farmers, farmers' associations, and associations of such associations, alongside the previously named recognised producer organisations and recognised interbranch organisations. [Art. 222, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_222) [Art. 222, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_222)
+
+The reference to associations of recognised producer organisations is also made explicit, where the earlier text referred only to producer organisations and their associations. [Art. 222, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_222)
+
+*before* (`02013R1308-20170801`)
+
+> Article 222
+> Application of Article 101(1) TFEU
+> 1. During periods of severe imbalance in markets, the Commission may adopt implementing acts to the effect that Article 101(1) TFEU is not to apply to agreements and decisions of recognised producer organisations, their associations and recognised interbranch organisations in any of the sectors referred to in Article 1(2) of this Regulation, provided that such agreements and decisions do not undermine the proper functioning of the internal market, strictly aim to stabilise the sector concerned and fall under one or more of the following categories:
+> (a) market withdrawal or free distribution of their products;
+> (b) transformation and processing;
+> (c) storage by private operators;
+> (d) joint promotion measures;
+> (e) agreements on quality requirements;
+> (f) joint purchasing of inputs necessary to combat the spread of pests and diseases in animals and plants in the Union or of inputs necessary to address the effects of natural disasters in the Union;
+> (g) temporary planning of production taking into account the specific nature of the production cycle.
+> The Commission shall specify in implementing acts the substantive and geographic scope of this derogation and, subject to paragraph 3, the period for which the derogation applies.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+> 2. Paragraph 1 shall apply only if the Commission has already adopted one of the measures referred […truncated by emendrix: 539 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> Article 222
+> Application of Article 101(1) TFEU
+> 1. During periods of severe imbalance in markets, the Commission may adopt implementing acts to the effect that Article 101(1) TFEU is not to apply to agreements and decisions of farmers, farmers' associations, or associations of such associations, or recognised producer organisations, associations of recognised producer organisations and recognised interbranch organisations in any of the sectors referred to in Article 1(2) of this Regulation, provided that such agreements and decisions do not undermine the proper functioning of the internal market, strictly aim to stabilise the sector concerned and fall under one or more of the following categories:
+> (a) market withdrawal or free distribution of their products;
+> (b) transformation and processing;
+> (c) storage by private operators;
+> (d) joint promotion measures;
+> (e) agreements on quality requirements;
+> (f) joint purchasing of inputs necessary to combat the spread of pests and diseases in animals and plants in the Union or of inputs necessary to address the effects of natural disasters in the Union;
+> (g) temporary planning of production taking into account the specific nature of the production cycle.
+> The Commission shall specify in implementing acts the substantive and geographic scope of this derogation and, subject to paragraph 3, the period for which the derogation applies.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22 […truncated by emendrix: 643 characters omitted…]
+
+**MODIFIED · Art. 232** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Section 5a** · applies from: unknown
+
+*amended by* `32017R2393`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex VII — ANNEX VII** · applies from: unchanged
+
+*within* `AN VII` · *amended by* `32017R2393`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In Part II, point (1)(c), the exception allowing the total alcoholic strength of protected-designation-of-origin wines produced without enrichment to exceed 15% volume has been extended to also cover such wines enriched only by partial concentration processes listed in point 1 of Section B of Part I of Annex VIII, subject to the product specification in the technical file allowing that possibility. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#anx_VII)
+
+The corresponding earlier text only referred to wines produced without enrichment, without any mention of partial concentration processes or the technical file condition. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#anx_VII)
+
+Both texts provided are truncated before their end, so no comparison can be made of any further differences beyond the point shown. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#anx_VII)
+
+*before* (`02013R1308-20170801`)
+
+> ANNEX VII
+> DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78
+> For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+> PART I
+> Meat of bovine animals aged less than 12 months
+> I. Definition
+> For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+> II. Classification of bovine animals aged less than 12 months at the slaughterhouse
+> On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+> (A) Category V: bovine animals aged less than eight months
+> Category identification letter: V;
+> (B) Category Z: bovine animals aged from 8 months to less than 12 months
+> Category identification letter: Z.
+> This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council
+> R […truncated by emendrix: 51085 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> ANNEX VII
+> DEFINITIONS, DESIGNATIONS AND SALES DESCRIPTION OF PRODUCTS REFERRED TO IN ARTICLE 78
+> For the purposes of this Annex, the "sale description" means the name under which a foodstuff is sold, within the meaning of Article 5(1) of Directive 2000/13/EC, or the name of the food, within the meaning of Article 17 of Regulation (EU) No 1169/2011.
+> PART I
+> Meat of bovine animals aged less than 12 months
+> I. Definition
+> For the purposes of this Part of this Annex, "meat" means all carcases, meat on the bone or boned, and offal, whether or not cut, intended for human consumption, obtained from bovine animals aged less than 12 months, presented fresh, frozen or deep-frozen, whether or not wrapped or packed.
+> II. Classification of bovine animals aged less than 12 months at the slaughterhouse
+> On slaughter, all bovine animals aged less than 12 months shall be classified by the operators, under the supervision of the competent authority, in one of the following two categories:
+> (A) Category V: bovine animals aged less than eight months
+> Category identification letter: V;
+> (B) Category Z: bovine animals aged from 8 months to less than 12 months
+> Category identification letter: Z.
+> This classification shall be carried out on the basis of the information contained in the passport accompanying the bovine animals or, failing this, on the basis of the data contained in the computerised database provided for in Article 5 of Regulation (EC) No 1760/2000 of the European Parliament and of the Council
+> R […truncated by emendrix: 51333 characters omitted…]
+
+**MODIFIED · Annex VIII — ANNEX VIII** · applies from: unchanged
+
+*within* `AN VIII PO 3` · *amended by* `32017R2393`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In Part I, Section A, point 3, the mechanism for raising the enrichment limit by 0,5 % in exceptionally unfavourable years has changed from a Member State request followed by a Commission implementing act to a direct increase authorised by the Member State itself as an exception for the regions concerned, with notification to the Commission afterwards. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#anx_VIII)
+
+The earlier text's reference to the Commission adopting the implementing act as soon as possible and endeavouring to decide within four weeks of the request has been removed and replaced by the Member States' notification obligation. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#anx_VIII)
+
+*before* (`02013R1308-20170801`)
+
+> ANNEX VIII
+> OENOLOGICAL PRACTICES REFERRED TO IN ARTICLE 80
+> PART I
+> Enrichment, acidification and de-acidification in certain wine-growing zones
+> A. Enrichment limits
+> 1. Where climatic conditions have made it necessary in certain wine-growing zones of the Union, the Member States concerned may allow to supplement the natural alcoholic strength by volume of fresh grapes, grape must, grape must in fermentation, new wine still in fermentation and wine obtained from wine grape varieties classifiable according to Article 81.
+> 2. The increase in natural alcoholic strength by volume shall be achieved by means of the oenological practices referred to in Section B and shall not exceed the following limits:
+> (a) 3 % volume in wine-growing zone A;
+> (b) 2 % volume in wine-growing zone B;
+> (c) 1,5 % volume in wine-growing zones C.
+> 3. In years when climatic conditions have been exceptionally unfavourable, Member States may request that the limit(s) laid down in point 2 be raised by 0,5 %. In response to such a request, the Commission under the powers as referred to in Article 91 shall adopt the implementing act as soon as possible. The Commission shall endeavour to take a decision within four weeks after the request has been submitted.
+> B. Enrichment processes
+> 1. The increase in natural alcoholic strength by volume provided for in Section A shall only be effected:
+> (a) in respect of fresh grapes, grape must in fermentation or new wine still in fermentation, by adding sucrose, concentrated grape mus […truncated by emendrix: 10639 characters omitted…]
+
+*after* (`02013R1308-20180101`)
+
+> ANNEX VIII
+> OENOLOGICAL PRACTICES REFERRED TO IN ARTICLE 80
+> PART I
+> Enrichment, acidification and de-acidification in certain wine-growing zones
+> A. Enrichment limits
+> 1. Where climatic conditions have made it necessary in certain wine-growing zones of the Union, the Member States concerned may allow to supplement the natural alcoholic strength by volume of fresh grapes, grape must, grape must in fermentation, new wine still in fermentation and wine obtained from wine grape varieties classifiable according to Article 81.
+> 2. The increase in natural alcoholic strength by volume shall be achieved by means of the oenological practices referred to in Section B and shall not exceed the following limits:
+> (a) 3 % volume in wine-growing zone A;
+> (b) 2 % volume in wine-growing zone B;
+> (c) 1,5 % volume in wine-growing zones C.
+> 3. In years when climatic conditions have been exceptionally unfavourable, the limit(s) laid down in point 2 may be raised by 0,5 % by the Member States as an exception for the regions concerned. Member States shall notify the Commission of any such increase.
+> B. Enrichment processes
+> 1. The increase in natural alcoholic strength by volume provided for in Section A shall only be effected:
+> (a) in respect of fresh grapes, grape must in fermentation or new wine still in fermentation, by adding sucrose, concentrated grape must or rectified concentrated grape must;
+> (b) in respect of grape must, by adding sucrose, concentrated grape must or rectified concentrated grape must, o […truncated by emendrix: 10487 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20180101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20170801 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20160731` → `02013R1308-20170801`
