@@ -7201,7 +7201,7 @@ The text shown is truncated before the end of the section, so only these visible
 - **Act** `eu:32008R1272` · **In force** 2011-04-19 · **Detected** 2026-08-13
 - **Touched** 9 provisions — 9 substantive · 0 date-only · **8 disputed**
 - **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20101201` · `v2` = `02008R1272-20110419`
 
 ---
@@ -7352,7 +7352,11 @@ The explosives classification figures and notes in section 2.1.4 were altered, i
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Section 2.8 now sets the concentration threshold for the EUH208 statement by reference to Table 3.4.6 of Annex I instead of the fixed 0,1% figure or a specific note in part 3 of Annex VI, and it adds a new requirement that mixtures already classified as sensitising must name additional sensitising substances present above that threshold on the label. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_II)
+
+Section 2.10 expands the listed triggers for the EUH210 statement by adding separate threshold conditions for substances classified as skin or respiratory sensitiser category 1B, category 1A at 0,01%, and substances with a specific concentration limit below 0,1%, alongside the pre-existing carcinogenic category 2 and other conditions. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_II)
+
+Section 3.2.2.1 changes the aerosol exemption wording from referring to extremely flammable aerosols or flammable aerosols to referring to flammable aerosols Category 1 or Category 2, and adds that the provision also does not apply to transportable gas receptacles. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_II)
 
 *before* (`02008R1272-20101201`)
 
@@ -7432,7 +7436,11 @@ The explosives classification figures and notes in section 2.1.4 were altered, i
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Section 1 now states that hazard statements are applied in accordance with Parts 2, 3, 4 and 5 of Annex I, whereas the earlier text referred only to Parts 2, 3 and 4. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
+
+The revised section 1 also adds new text allowing suppliers to use combined hazard statements when selecting statements under Articles 21 and 27, sets out precedence principles for labelling under Article 27, including new points (a) and (b) on omitting H400 when H410 is assigned and omitting H318 when H314 is assigned, and adds a sentence on using the combined hazard statements in Table 1.2 to indicate the route of administration or exposure. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
+
+The text provided is truncated before section 3 can be compared, so no difference in that part can be described from what is shown. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
 
 *before* (`02008R1272-20101201`)
 
@@ -7629,7 +7637,11 @@ The explosives classification figures and notes in section 2.1.4 were altered, i
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The hazard-category entries for several codes were expanded to add "1A, 1B" alongside the existing category "1" for respiratory sensitisation and skin sensitisation, affecting statements such as P261, P272, P285, P302 through P313, P321, P332 through P342, P352, P363, P501 and related combination codes. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_IV)
+
+The labelling for the aquatic environment hazard class was changed from "chronic aquatic hazard" to "long-term aquatic hazard" in the entries for P273, P391 and P501, and the eye-damage category description under P280 was changed from "Serious eye damage/eye irritation" to "Severe eye damage". [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_IV)
+
+A new code, P502, was added to the disposal table with the text "Refer to manufacturer/supplier for information on recovery/recycling" applied to the hazardous-to-the-ozone-layer hazard class, category 1. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_IV)
 
 *before* (`02008R1272-20101201`)
 
