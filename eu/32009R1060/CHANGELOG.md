@@ -2778,7 +2778,7 @@ The separate steps previously split between CESR's transmission and advice role 
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02009R1060-20091207`)
 
@@ -3863,7 +3863,7 @@ It also provides for the transfer of files and records to ESMA, for ESMA to act 
 > 3.
 > The competent authorities and colleges referred to in paragraph 1 shall ensure that any existing records and working papers, or certified copies thereof, shall be transferred to ESMA as soon as possible and in any event by 1 July 2011. Those competent authorities and colleges shall also render all necessary assistance and advice to ESMA to facilitate effective and efficient transfer and taking-up of supervisory and enforcement activity in the field of […truncated by emendrix: 747 characters omitted…]
 
-**MODIFIED · TIT** · applies from: unknown
+**MODIFIED · Title** · applies from: unknown
 
 *amended by* `32011R0513`
 
@@ -3873,7 +3873,7 @@ It also provides for the transfer of files and records to ESMA, for ESMA to act 
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · TIT IV** · applies from: unknown
+**MODIFIED · Title IV** · applies from: unknown
 
 *amended by* `32011R0513`
 
