@@ -1,0 +1,2265 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32013R1308",
+    "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+  },
+  "from_version": "02013R1308-20260318",
+  "to_version": "02013R1308-20260818",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2026-08-18"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 1,
+    "modified": 14,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 15,
+    "unchanged_units": 248,
+    "disputed": 6
+  },
+  "counts": {
+    "touched": 15,
+    "substantive": 15,
+    "date_only": 0,
+    "disputed": 6,
+    "quoted": 0,
+    "unexplained": 5
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 75"
+        },
+        "heading": "Establishment and content",
+        "before": "Article 75\nEstablishment and content\n1. Marketing standards may apply to one or more of the following sectors and products:\n(a) olive oil and table olives;\n(b) fruit and vegetables;\n(c) processed fruit and vegetable products;\n(d) bananas;\n(e) live plants;\n(f) eggs;\n(g) poultrymeat;\n(h) spreadable fats intended for human consumption;\n(i) hops.\n2. In order to take into account the expectations of consumers and to improve the economic conditions for the production and marketing as well as the quality of the agricultural products covered by paragraphs 1 and 4 of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on marketing standards by sectors or products, at all stages of the marketing, as well as derogations and exemptions from such standards in order to adapt to constantly changing market conditions, to evolving consumer demands, to developments in relevant international standards and to avoid creating obstacles to product innovation.\n3. Without prejudice to Article 26 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council\nRegulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18)., the marketing standards referred to in paragraph 1 may cover one or more of the following, to be determined on a sectoral or product basis and based on the characteristics of each sector, the need to regulate the placing on the market and the conditions defined in paragraph 5 of this Article:\n(a) the technical definitions, designation and sales descriptions for sectors other than those set out in Article 78;\n(b) classification criteria such as grading into classes, weight, sizing, age and category;\n(c) the species, plant variety or animal race or the commercial type;\n(d) the presentation, labelling linked to obligatory marketing standards, packaging, rules to be applied in relation to packing centres, marking, year of harvesting and use of specific terms, without prejudice to Articles 92 to 123;\n(e) criteria such as appearance, consistency, conformation, product characteristics and the percentage of water content;\n(f) specific substances used in production, or components or constituents, including their quantitative content, purity and identification;\n(g) the type of farming and production method including oenological practices and advanced systems of sustainable production;\n(h) coupage of must and wine including definitions thereof, blending and restrictions thereof;\n(i) the frequency of collection, delivery, preservation and handling, the conservation method and temperature, storage and transport;\n(j) the place of farming and/or origin, excluding poultrymeat and spreadable fats;\n(k) restrictions as regards the use of certain substances and practices;\n(l) specific use;\n(m) the conditions governing the disposal, the holding, circulation and use of products not in conformity with the marketing standards adopted pursuant to paragraph 1 or with the definitions, designations and sales descriptions as referred to in Article 78, as well as the disposal of by-products.\n4. In addition to paragraph 1, marketing standards may apply to the wine sector. Points (f), (g), (h), (k) and (m) of paragraph 3 shall apply to that sector.\n5. The marketing standards by sectors or products adopted pursuant to paragraph 1 of this Article shall be established without prejudice to Articles 84 to 88 and Annex IX and shall take into account:\n(a) the specific characteristics of the product concerned;\n(b) the need to ensure the conditions to facilitate the placing of the products on the market;\n(c) the interest of producers to communicate the product and farming characteristics, and the interest of consumers to receive adequate and transparent product information, including the place of farming to be determined on a case-by-case basis at the appropriate geographical level, after conducting an evaluation, in particular, of the costs and administrative burdens for operators and the benefits offered to producers and the end consumer;\n(d) the methods available for determining physical, chemical and organoleptic characteristics of the products;\n(e) the standard recommendations adopted by international bodies;\n(f) the need to preserve the natural and essential characteristics of products and to avoid causing a substantial change in the composition of the product concerned.\n6. In order to take into account the expectations of consumers and the need to improve the quality and the economic conditions for the production and marketing of agricultural products, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to modify the list of sectors in paragraph 1. Such delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation, and shall be subject to a Commission report to the European Parliament and to the Council evaluating, in particular, the needs of the consumer, the costs and administrative burdens for operators, including the impact on the internal market and on international trade, and the benefits offered to producers and to the end consumer.",
+        "after": "Article 75\nEstablishment and content\n1. Marketing standards may apply to one or more of the following sectors and products:\n(a) olive oil and table olives;\n(b) fruit and vegetables;\n(c) processed fruit and vegetable products;\n(d) bananas;\n(e) live plants;\n(f) eggs;\n(g) poultrymeat;\n(h) spreadable fats intended for human consumption;\n(i) hops.\n2. In order to take into account the expectations of consumers and to improve the economic conditions for the production and marketing as well as the quality of the agricultural products covered by paragraphs 1 and 4 of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on marketing standards by sectors or products, at all stages of the marketing, as well as derogations and exemptions from such standards in order to adapt to constantly changing market conditions, to evolving consumer demands, to developments in relevant international standards and to avoid creating obstacles to product innovation.\n3. Without prejudice to Article 26 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council\nRegulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p. 18)., the marketing standards referred to in paragraph 1 may cover one or more of the following, to be determined on a sectoral or product basis and based on the characteristics of each sector, the need to regulate the placing on the market and the conditions defined in paragraph 5 of this Article:\n(a) the technical definitions, designation and sales descriptions for sectors other than those set out in Article 78;\n(b) classification criteria such as grading into classes, weight, sizing, age and category;\n(c) the species, plant variety or animal race or the commercial type;\n(d) the presentation, labelling linked to obligatory marketing standards, packaging, rules to be applied in relation to packing centres, marking, year of harvesting and use of specific terms, without prejudice to Articles 92 to 123;\n(e) criteria such as appearance, consistency, conformation, product characteristics and the percentage of water content;\n(f) specific substances used in production, or components or constituents, including their quantitative content, purity and identification;\n(g) the type of farming and production method including oenological practices and advanced systems of sustainable production;\n(h) coupage of must and wine including definitions thereof, blending and restrictions thereof;\n(i) the frequency of collection, delivery, preservation and handling, the conservation method and temperature, storage and transport;\n(j) the place of farming and/or origin;\n(k) restrictions as regards the use of certain substances and practices;\n(l) specific use;\n(m) the conditions governing the disposal, the holding, circulation and use of products not in conformity with the marketing standards adopted pursuant to paragraph 1 or with the definitions, designations and sales descriptions as referred to in Article 78, as well as the disposal of by-products.\n4. In addition to paragraph 1, marketing standards may apply to the wine sector. Points (f), (g), (h), (k) and (m) of paragraph 3 shall apply to that sector.\n5. The marketing standards by sectors or products adopted pursuant to paragraph 1 of this Article shall be established without prejudice to Articles 84 to 88 and Annex IX and shall take into account:\n(a) the specific characteristics of the product concerned;\n(b) the need to ensure the conditions to facilitate the placing of the products on the market;\n(c) the interest of producers to communicate the product and farming characteristics, and the interest of consumers to receive adequate and transparent product information, including the place of farming to be determined on a case-by-case basis at the appropriate geographical level, after conducting an evaluation, in particular, of the costs and administrative burdens for operators and the benefits offered to producers and the end consumer;\n(d) the methods available for determining physical, chemical and organoleptic characteristics of the products;\n(e) the standard recommendations adopted by international bodies;\n(f) the need to preserve the natural and essential characteristics of products and to avoid causing a substantial change in the composition of the product concerned.\n6. In order to take into account the expectations of consumers and the need to improve the quality and the economic conditions for the production and marketing of agricultural products, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to modify the list of sectors in paragraph 1. Such delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation, and shall be subject to a Commission report to the European Parliament and to the Council evaluating, in particular, the needs of the consumer, the costs and administrative burdens for operators, including the impact on the internal market and on international trade, and the benefits offered to producers and to the end consumer.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 75 PA 3 ALN 1 PTA (j)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (j) of Article 75(3) no longer excludes poultrymeat and spreadable fats from the marketing standard covering the place of farming and/or origin.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 75"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_75",
+              "label": "Art. 75, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 75"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_75",
+              "label": "Art. 75, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 78"
+        },
+        "heading": "Definitions, designations and sales descriptions for certain sectors and products",
+        "before": "Article 78\nDefinitions, designations and sales descriptions for certain sectors and products\n1. In addition, where relevant, to the applicable marketing standards, the definitions, designations and sales descriptions provided for in Annex VII shall apply to the following sectors or products:\n(a) beef and veal;\n(b) wine;\n(c) milk and milk products intended for human consumption;\n(d) poultrymeat;\n(e) eggs;\n(f) spreadable fats intended for human consumption; and\n(g) olive oil and table olives.\n2. The definitions, designations or sales descriptions provided for in Annex VII may be used in the Union only for the marketing of a product which conforms to the corresponding requirements laid down in that Annex.\n3. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the modifications, derogations or exemptions to the definitions and sales descriptions provided for in Annex VII. Those delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation.\n4. In order to ensure that operators and Member States have a clear and proper understanding of the definitions and sales descriptions provided for in Annex VII, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the rules on their specification and application.\n5. In order to take into account the expectations of consumers and the evolution of the milk products market, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to specify the milk products in respect of which the animal species from which the milk originates is to be stated, if it is not bovine, and to lay down the necessary rules.",
+        "after": "Article 78\nDefinitions, designations and sales descriptions for certain sectors and products\n1. In addition, where relevant, to the applicable marketing standards, the definitions, designations and sales descriptions provided for in Annex VII shall apply to the following sectors or products:\n(a) all sectors in which edible parts of animals are produced and in particular the beef and veal, pigmeat, sheepmeat and goatmeat, and poultrymeat sectors;\n(b) wine;\n(c) milk and milk products intended for human consumption;\n(d) poultrymeat;\n(e) eggs;\n(f) spreadable fats intended for human consumption; and\n(g) olive oil and table olives.\n2. The definitions, designations or sales descriptions provided for in Annex VII may be used in the Union only for the marketing of a product which conforms to the corresponding requirements laid down in that Annex.\n3. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the modifications, derogations or exemptions to the definitions and sales descriptions provided for in Annex VII. Those delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation.\nAs regards Part Ia, point 3, of Annex VII, the Commission is empowered to adopt delegated acts in accordance with Article 227 supplementing this Regulation by granting derogations allowing the use of designations reserved for products derived from meat, for other products the exact nature of which is clear due to an established long-term use and does not cause any possible confusion to the consumer.\n4. In order to ensure that operators and Member States have a clear and proper understanding of the definitions and sales descriptions provided for in Annex VII, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the rules on their specification and application.\n5. In order to take into account the expectations of consumers and the evolution of the milk products market, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 to specify the milk products in respect of which the animal species from which the milk originates is to be stated, if it is not bovine, and to lay down the necessary rules.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 78 PA 1 ALN 1 PTA (a)",
+          "AR 78 PA 3 ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 R; 32026R1739 J; 32026R1739 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2) (a) (i); AR 001 (2) (a) (ii); AR 001 (2) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (a) of paragraph 1 now describes the covered sector more broadly as all sectors producing edible parts of animals, naming beef and veal, pigmeat, sheepmeat, goatmeat and poultrymeat as examples, whereas the earlier text limited this point to beef and veal only.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 78"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_78",
+              "label": "Art. 78, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 78"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_78",
+              "label": "Art. 78, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 gains an added sentence empowering the Commission to adopt delegated acts under Article 227 supplementing the Regulation by granting derogations, specifically as regards Part Ia, point 3 of Annex VII, allowing use of designations reserved for meat-derived products for other products whose nature is clear through established long-term use and causes no consumer confusion.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 78"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_78",
+              "label": "Art. 78, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "INSERTED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 88a"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (3)",
+            "change_types": [
+              "INSERTED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 119"
+        },
+        "heading": "Compulsory particulars",
+        "before": "Article 119\nCompulsory particulars\n1. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII marketed in the Union or for export shall contain the following compulsory particulars:\n(a) the designation for the category of the grapevine product in accordance with Annex VII, Part II. For grapevine products categories defined under Annex VII, Part II, points (1) and points (4) to (9), where such products have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the designation of the category shall be accompanied by:\n(i) the term de-alcoholised if the actual alcoholic strength of the product is no more than 0,5 % by volume; or\n(ii) the term partially de-alcoholised if the actual alcoholic strength of the product is above 0,5 % by volume and is below the minimum actual alcoholic strength of the category before de-alcoholisation;\n(b) for wines with a protected designation of origin or a protected geographical indication:\n(i) the term \"protected designation of origin\" or \"protected geographical indication\"; and\n(ii) the name of the protected designation of origin or the protected geographical indication;\n(c) the actual alcoholic strength by volume;\n(d) an indication of provenance;\n(e) an indication of the bottler or, in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, the name of the producer or vendor;\n(f) an indication of the importer in the case of imported wines; and\n(g) in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, an indication of the sugar content;\n(h) the nutrition declaration pursuant to Article 9(1), point (l), of Regulation (EU) No 1169/2011;\n(i) the list of ingredients pursuant to Article 9(1), point (b), of Regulation (EU) No 1169/2011; and\n(j) in the case of grapevine products which have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E and that have an actual alcoholic strength by volume of less than 10 %, the date of minimum durability pursuant to Article 9(1), point (f), of Regulation (EU) No 1169/2011.\n2. By way of derogation from paragraph 1, point (a), for grapevine products other than those which have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the reference to the category of the grapevine product may be omitted for wines whose labels include the name of a protected designation of origin or protected geographical indication.\n3. By way of derogation from point (b) of paragraph 1, the reference to the terms \"protected designation of origin\" or \"protected geographical indication\" may be omitted in the following cases:\n(a) where a traditional term in accordance with point (a) of Article 112 is displayed on the label in accordance with the product specification referred to in Article 94(2);\n(b) in exceptional and duly justified circumstances to be determined by the Commission by means of delegated acts adopted in accordance with Article 227 in order to ensure compliance with existing labelling practices.\n4. By way of derogation from paragraph 1, point (h), the nutrition declaration on the package or on a label attached thereto may be limited to the energy value, which may be expressed by using the symbol E for energy. In such cases, the full nutrition declaration shall be provided by electronic means identified on the package or on a label attached thereto. That nutrition declaration shall not be displayed with other information intended for sales or marketing purposes and no user data shall be collected or tracked.\n5. By way of derogation from paragraph 1, point (i), the list of ingredients may be provided by electronic means identified on the package or on a label attached thereto. In such cases, the following requirements apply:\n(a) no user data shall be collected or tracked;\n(b) the list of ingredients shall not be displayed with other information intended for sales or marketing purposes; and\n(c) the indication of the particulars referred to in Article 9(1), point (c), of Regulation (EU) No 1169/2011 shall appear directly on the package or on a label attached thereto.\nThe indication referred to in the first subparagraph, point (c), of this paragraph shall comprise the word contains followed by the name of the substance or product as listed in Annex II to Regulation (EU) No 1169/2011.",
+        "after": "Article 119\nCompulsory particulars\n1. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII marketed in the Union or for export shall contain the following compulsory particulars:\n(a) the designation for the category of the grapevine product in accordance with Annex VII, Part II. For grapevine products categories defined under Annex VII, Part II, points (1) and points (4) to (9), where such products have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the designation of the category shall be accompanied by:\n(i) the term de-alcoholised if the actual alcoholic strength of the product is no more than 0,5 % by volume; or\n(ii) the term partially de-alcoholised if the actual alcoholic strength of the product is above 0,5 % by volume and is below the minimum actual alcoholic strength of the category before de-alcoholisation;\n(b) for wines with a protected designation of origin or a protected geographical indication:\n(i) the term \"protected designation of origin\" or \"protected geographical indication\"; and\n(ii) the name of the protected designation of origin or the protected geographical indication;\n(c) the actual alcoholic strength by volume;\n(d) an indication of provenance;\n(e) an indication of the bottler or, in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, the name of the producer or vendor;\n(f) an indication of the importer in the case of imported wines; and\n(g) in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, an indication of the sugar content;\n(h) the nutrition declaration pursuant to Article 9(1), point (l), of Regulation (EU) No 1169/2011;\n(i) the list of ingredients pursuant to Article 9(1), point (b), of Regulation (EU) No 1169/2011; and\n(j) in the case of grapevine products which have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E and that have an actual alcoholic strength by volume of less than 10 %, the date of minimum durability pursuant to Article 9(1), point (f), of Regulation (EU) No 1169/2011.\n2. By way of derogation from paragraph 1, point (a), for grapevine products other than those which have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the reference to the category of the grapevine product may be omitted for wines whose labels include the name of a protected designation of origin or protected geographical indication.\n3. By way of derogation from point (b) of paragraph 1, the reference to the terms \"protected designation of origin\" or \"protected geographical indication\" may be omitted in the following cases:\n(a) where a traditional term in accordance with point (a) of Article 112 is displayed on the label in accordance with the product specification referred to in Article 94(2);\n(b) in exceptional and duly justified circumstances to be determined by the Commission by means of delegated acts adopted in accordance with Article 227 in order to ensure compliance with existing labelling practices.\n4. By way of derogation from paragraph 1, point (h), the nutrition declaration on the package or on a label attached thereto may be limited to the energy value, which may be expressed by using the symbol E for energy. In such cases, the full nutrition declaration shall be provided by electronic means identified on the package or on a label attached thereto. That nutrition declaration shall not be displayed with other information intended for sales or marketing purposes and no user data shall be collected or tracked.\n5. By way of derogation from paragraph 1, point (i), the list of ingredients may be provided by electronic means identified on the package or on a label attached thereto. In such cases, the following requirements apply:\n(a) no user data shall be collected or tracked;\n(b) the list of ingredients shall not be displayed with other information intended for sales or marketing purposes; and\n(c) the indication of the particulars referred to in Article 9(1), point (c), of Regulation (EU) No 1169/2011 shall appear directly on the package or on a label attached thereto.\nThe indication referred to in the first subparagraph, point (c), of this paragraph shall comprise the word contains followed by the name of the substance or product as listed in Annex II to Regulation (EU) No 1169/2011.\n6. However, Article 1, point (8), shall apply from 19 March 2030 and Article 1, point (10)(a), shall apply from 19 September 2027.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 119 PA 6"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [
+          "2027-09-19",
+          "2030-03-19"
+        ],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32026R1739, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 6 has been added stating that Article 1, point (8), applies from 19 March 2030 and Article 1, point (10)(a), applies from 19 September 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 119"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_119",
+              "label": "Art. 119, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 148"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (4)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 149"
+        },
+        "heading": "Contractual negotiations in the milk and milk products sector",
+        "before": "Article 149\nContractual negotiations in the milk and milk products sector\n1. A producer organisation in the milk and milk products sector which is recognised under Article 161(1) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).\n2. The negotiations by the producer organisation may take place:\n(a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;\n(b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;\n(c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:\n(i) the volume of raw milk covered by such negotiations does not exceed 4 % of total Union production,\n(ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 33 % of the total national production of that Member State, and\n(iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 33 % of the total national production of that Member State;\n(d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogate from this condition in duly justified cases where farmers hold two distinct production units located in different geographic areas;\n(e) provided that the raw milk is not covered by an obligation to deliver arising from the farmer's membership of a cooperative in accordance with the conditions set out in the cooperative's statutes or the rules and decisions provided for in or derived from these statutes; and\n(f) provided that the producer organisation notifies the competent authorities of the Member State or Member States in which it operates of the volume of raw milk covered by such negotiations.\n3. Notwithstanding the conditions set out in of point (c)(ii) and (iii) of paragraph 2, a producer organisation may negotiate pursuant to paragraph 1 provided that, with regard to that producer organisation, the volume of raw milk covered by the negotiations which is produced in or delivered in a Member State having a total annual raw milk production of less than 500000 tonnes does not exceed 45 % of the total national production of that Member State.\n4. For the purposes of this Article, references to producer organisations include associations of such producer organisations.\n5. For the purposes of applying point (c) of paragraph 2 and paragraph 3, the Commission shall publish, by such means as it considers appropriate, the amounts of raw milk production in the Union and the Member States using the most up-to-date information available.\n6. By way of derogation from point (c) of paragraph 2 and paragraph 3, even where the thresholds set out therein are not exceeded, the competition authority referred to in the second subparagraph of this paragraph may decide in an individual case that a particular negotiation by the producer organisation should either be reopened or should not take place at all if it considers that this is necessary in order to prevent competition from being excluded or in order to avoid seriously damaging SME processors of raw milk in its territory.\nFor negotiations covering more than one Member State, the decision referred to in the first subparagraph shall be taken by the Commission without applying the procedure referred to in Article 229(2) or (3). In other cases, that decision shall be taken by the national competition authority of the Member State to which the negotiations relate.\nThe decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.\n7. For the purposes of this Article:\n(a) a \"national competition authority\" means the authority referred to in Article 5 of Council Regulation (EC) No 1/2003\nCouncil Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 101 and 102 of the Treaty (OJ L 1, 4.1.2003, p. 1).;\n(b) a \"SME\" means a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC.\n8. The Member States in which negotiations take place in accordance with this Article shall notify the Commission of the application of point (f) of paragraph 2 and of paragraph 6.",
+        "after": "Article 149\nContractual negotiations in the milk and milk products sector\n1. A producer organisation in the milk and milk products sector which is recognised under Article 161(1) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).\n2. The negotiations by the producer organisation may take place:\n(a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;\n(b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;\n(c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:\n(i) the volume of raw milk covered by such negotiations does not exceed 7 % of total Union production;\n(ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 36 % of the total national production of that Member State; and\n(iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 36 % of the total national production of that Member State;\n(d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogate from this condition in duly justified cases where farmers hold two distinct production units located in different geographic areas;\n(e) provided that the raw milk is not covered by an obligation to deliver arising from the farmer's membership of a cooperative in accordance with the conditions set out in the cooperative's statutes or the rules and decisions provided for in or derived from these statutes; and\n(f) provided that the producer organisation notifies the competent authorities of the Member State or Member States in which it operates of the volume of raw milk covered by such negotiations.\n3. Notwithstanding the conditions set out in of point (c)(ii) and (iii) of paragraph 2, a producer organisation may negotiate pursuant to paragraph 1 provided that, with regard to that producer organisation, the volume of raw milk covered by the negotiations which is produced in or delivered in a Member State having a total annual raw milk production of less than 500000 tonnes does not exceed 45 % of the total national production of that Member State.\n4. For the purposes of this Article, references to producer organisations include associations of such producer organisations.\n5. For the purposes of applying point (c) of paragraph 2 and paragraph 3, the Commission shall publish, by such means as it considers appropriate, the amounts of raw milk production in the Union and the Member States using the most up-to-date information available.\n6. By way of derogation from point (c) of paragraph 2 and paragraph 3, even where the thresholds set out therein are not exceeded, the competition authority referred to in the second subparagraph of this paragraph may decide in an individual case that a particular negotiation by the producer organisation should either be reopened or should not take place at all if it considers that this is necessary in order to prevent competition from being excluded or in order to avoid seriously damaging SME processors of raw milk in its territory.\nFor negotiations covering more than one Member State, the decision referred to in the first subparagraph shall be taken by the Commission without applying the procedure referred to in Article 229(2) or (3). In other cases, that decision shall be taken by the national competition authority of the Member State to which the negotiations relate.\nThe decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.\n7. For the purposes of this Article:\n(a) a \"national competition authority\" means the authority referred to in Article 5 of Council Regulation (EC) No 1/2003\nCouncil Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 101 and 102 of the Treaty (OJ L 1, 4.1.2003, p. 1).;\n(b) a \"SME\" means a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC.\n8. The Member States in which negotiations take place in accordance with this Article shall notify the Commission of the application of point (f) of paragraph 2 and of paragraph 6.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 149 PA 2 ALN 1 PTA (c) PTI (i)",
+          "AR 149 PA 2 ALN 1 PTA (c) PTI (ii)",
+          "AR 149 PA 2 ALN 1 PTA (c) PTI (iii)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (5)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The threshold for the volume of raw milk covered by negotiations, expressed as a share of total Union production, is raised from 4% to 7%.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 149"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149",
+              "label": "Art. 149, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 149"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149",
+              "label": "Art. 149, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "The two thresholds concerning the share of raw milk produced or delivered within a particular Member State are each raised from 33% to 36%.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 149"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149",
+              "label": "Art. 149, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 149"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149",
+              "label": "Art. 149, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 152"
+        },
+        "heading": "Producer organisations",
+        "before": "Article 152\nProducer organisations\n1. Member States may, on request, recognise producer organisations, which:\n(a) are constituted, and controlled in accordance with point (c) of Article 153(2), by producers in a specific sector listed in Article 1(2);\n(b) are formed on the initiative of the producers and which carry out at least one of the following activities:\n(i) joint processing;\n(ii) joint distribution, including by joint selling platforms or joint transportation;\n(iii) joint packaging, labelling or promotion;\n(iv) joint organising of quality control;\n(v) joint use of equipment or storage facilities;\n(vi) joint management of waste directly related to the production;\n(vii) joint procurement of inputs;\n(viii) any other joint service activities pursuing one of the objectives listed in point (c) of this paragraph;\n(c) pursue a specific aim which may include at least one of the following objectives:\n(i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;\n(ii) concentration of supply and the placing on the market of the products produced by its members, including through direct marketing;\n(iii) optimising production costs and returns on investments in response to environmental and animal welfare standards, and stabilising producer prices;\n(iv) carrying out research and developing initiatives on sustainable production methods, innovative practices, economic competitiveness and market developments;\n(v) promoting, and providing technical assistance for, the use of environmentally sound cultivation practices and production techniques, and sound animal welfare practices and techniques;\n(vi) promoting, and providing technical assistance for, the use of production standards, improving product quality and developing products with a protected designation of origin, with a protected geographical indication or covered by a national quality label;\n(vii) the management and valorisation of by-products, of residual flows and of waste, in particular to protect the quality of water, soil and landscape, preserving or encouraging biodiversity, and boosting circularity;\n(viii) contributing to a sustainable use of natural resources and to climate change mitigation;\n(ix) developing initiatives in the area of promotion and marketing;\n(x) managing mutual funds;\n(xi) providing the necessary technical assistance for the use of the futures markets and of insurance schemes.\n1a. By way of derogation from Article 101(1) TFEU, a producer organisation recognised under paragraph 1 of this Article may plan production, optimise the production costs, place on the market and negotiate contracts for the supply of agricultural products, on behalf of its members for all or part of their total production.\nThe activities referred to in the first subparagraph may take place:\n(a) provided that one or more of the activities referred to in point (b)(i) to (vii) of paragraph 1 is genuinely exercised, thus contributing to the fulfilment of the objectives set out in Article 39 TFEU;\n(b) provided that the producer organisation concentrates supply and places the products of its members on the market, whether or not there is a transfer of ownership of agricultural products by the producers to the producer organisation;\n(c) whether or not the price negotiated is the same as regards the aggregate production of some or all of the members;\n(d) provided that the producers concerned are not members of any other producer organisation as regards the products covered by the activities referred to in the first subparagraph;\n(e) provided that the agricultural product is not covered by an obligation to deliver arising from the farmer's membership of a cooperative, which is not itself a member of the producer organisations concerned, in accordance with the conditions set out in the cooperative's statutes or the rules and decisions provided for in or derived from those statutes.\nHowever, Member States may derogate from the condition set out in point (d) of the second subparagraph in duly justified cases where producer members hold two distinct production units located in different geographical areas.\n1b. For the purposes of this Article, references to producer organisations shall also include associations of producer organisations recognised under Article 156(1) if such associations meet the requirements set out in paragraph 1 of this Article.\n1c. The national competition authority referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, for the future, one or more of the activities referred to in the first subparagraph of paragraph 1a are to be modified, discontinued or not take place at all if it considers that this is necessary in order to prevent competition from being excluded or if it considers that the objectives set out in Article 39 TFEU are jeopardised.\nFor negotiations covering more than one Member State, the decision referred to in the first subparagraph of this paragraph shall be taken by the Commission without applying the procedure referred to in Article 229(2) or (3).\nWhen acting under the first subparagraph of this paragraph, the national competition authority shall inform the Commission in writing before or without delay after initiating the first formal measure of the investigation and shall notify the Commission of the decisions without delay after their adoption.\nThe decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.\n2. A producer organisation recognised under paragraph 1 may continue to be recognised if it engages in the marketing of products falling within CN code ex2208 other than those referred to in Annex I to the Treaties, provided that the proportion of such products does not exceed 49 % of the total value of marketed production of the producer organisation and that such products do not benefit from Union support. Those products do not count, for producer organisations in the fruit and vegetables sector, towards the calculation of the value of marketed production for the purposes of Article 34(2).\n3. By way of derogation from paragraph 1, Member States shall recognise producer organisations, constituted by producers in the milk and milk products sector, which:\n(a) are formed on the initiative of the producers;\n(b) pursue a specific aim which may include one or more of the following objectives:\n(i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;\n(ii) concentration of supply and the placing on the market of the products produced by its members;\n(iii) optimising production costs and stabilising producer prices.",
+        "after": "Article 152\nProducer organisations\n1. Member States may, on request, recognise producer organisations, which:\n(a) are constituted by producers in a specific sector listed in Article 1(2) and are controlled by farmer members producing agricultural products of the soil or of stockfarming, in accordance with Article 153(2), point (c); a recognition may be granted for one or more of the specific sectors listed in Article 1(2) provided that the producer organisation fulfils the conditions for recognition for all of them;\nMember States may decide that the control by the farmer members referred to in this point can be exercised by associations of farmers producing agricultural products of the soil or stockfarming provided that these associations are controlled by those farmers;\n(b) are formed on the initiative of farmers producing agricultural products of the soil or of stockfarming and carry out at least one of the following activities:\n(i) joint processing;\n(ii) joint distribution, including by joint selling platforms or joint transportation;\n(iii) joint packaging, labelling or promotion;\n(iv) joint organising of quality control;\n(v) joint use of equipment or storage facilities;\n(vi) joint management of waste directly related to the production;\n(vii) joint procurement of inputs;\n(viii) any other joint service activities pursuing one of the objectives listed in point (c) of this paragraph;\n(c) pursue a specific aim which may include at least one of the following objectives:\n(i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;\n(ii) concentration of supply and the placing on the market of the products produced by its members, including through direct marketing;\n(iii) optimising production costs and returns on investments in response to environmental and animal welfare standards, and stabilising producer prices;\n(iv) carrying out research and developing initiatives on sustainable production methods, innovative practices, economic competitiveness and market developments;\n(v) promoting, and providing technical assistance for, the use of environmentally sound cultivation practices and production techniques, and sound animal welfare practices and techniques;\n(vi) promoting and providing technical assistance for the use of production standards, improving product quality, developing products with a protected designation of origin, with a protected geographical indication or covered by a national quality label, and carrying out initiatives promoting short supply chains or the use of the optional terms referred to in Article 88a;\n(vii) the management and valorisation of by-products, of residual flows and of waste, in particular to protect the quality of water, soil and landscape, preserving or encouraging biodiversity, and boosting circularity;\n(viii) contributing to a sustainable use of natural resources and to climate change mitigation;\n(ix) developing initiatives in the area of promotion and marketing;\n(x) managing mutual funds;\n(xi) providing the necessary technical assistance for the use of the futures markets and of insurance schemes.\n1a. By way of derogation from Article 101(1) TFEU, a producer organisation recognised under paragraph 1 of this Article, or a producer organisation, including a cooperative or any other equivalent legal form recognised by national law that has applied for recognition and has not yet been recognised as a producer organisation by a Member State, provided that it meets the requirements set out in paragraph 1 of this Article and in Article 154 of this Regulation, may plan production, optimise the production costs, place on the market and negotiate contracts for the supply of agricultural products, on behalf of its members for all or part of their total production. Such a producer organisation may avail itself of that derogation within the period provided for in Article 154(4), point (a), of this Regulation, or, if the Member State has not taken any decision on the application for recognition by the end of that period, within the period of five years from the date of submission of the application for recognition, unless the Member State concerned has decided to refuse the recognition.\nThe activities referred to in the first subparagraph may take place:\n(a) provided that one or more of the activities referred to in point (b)(i) to (vii) of paragraph 1 is genuinely exercised, thus contributing to the fulfilment of the objectives set out in Article 39 TFEU;\n(b) provided that the producer organisation concentrates supply and places the products of its members on the market, whether or not there is a transfer of ownership of agricultural products by the producers to the producer organisation;\n(c) whether or not the price negotiated is the same as regards the aggregate production of some or all of the members;\n(d) provided that the producers concerned are not members of any other producer organisation as regards the products covered by the activities referred to in the first subparagraph;\n(e) provided that the agricultural product is not covered by an obligation to deliver arising from the farmer's membership of a cooperative, which is not itself a member of the producer organisations concerned, in accordance with the conditions set out in the cooperative's statutes or the rules and decisions provided for in or derived from those statutes.\nHowever, Member States may derogate from the condition set out in point (d) of the second subparagraph in duly justified cases where producer members hold two distinct production units located in different geographical areas.\n1b. For the purposes of this Article, references to producer organisations shall also include associations of producer organisations recognised under Article 156(1) if such associations meet the requirements set out in paragraph 1 of this Article.\nWhere an association of producer organisations recognised under Article 156(1) does not comply with the conditions set out in paragraph 1a, second subparagraph, points (a) and (b), of this Article, but its members do comply with those conditions, it may also carry out the activities referred to in the first subparagraph of paragraph 1a, of this Article, provided that:\n(a) its members have been recognised in accordance with paragraph 1 of this Article;\n(b) its members are not members of another recognised association of producer organisations as regards the products covered by the activities referred to in the first subparagraph of paragraph 1a, of this Article; and\n(c) the volume of the product covered by the activities referred to in the first subparagraph of paragraph 1a, of this Article does not exceed 36 % of the total national production of that product in the Member State concerned.\n1c. The national competition authority referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, for the future, one or more of the activities referred to in the first subparagraph of paragraph 1a are to be modified, discontinued or not take place at all if it considers that this is necessary in order to prevent competition from being excluded or if it considers that the objectives set out in Article 39 TFEU are jeopardised.\nFor negotiations covering more than one Member State, the decision referred to in the first subparagraph of this paragraph shall be taken by the Commission without applying the procedure referred to in Article 229(2) or (3).\nWhen acting under the first subparagraph of this paragraph, the national competition authority shall inform the Commission in writing before or without delay after initiating the first formal measure of the investigation and shall notify the Commission of the decisions without delay after their adoption.\nThe decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.\n2. A producer organisation recognised under paragraph 1 may continue to be recognised if it engages in the marketing of products falling within CN code ex2208 other than those referred to in Annex I to the Treaties, provided that the proportion of such products does not exceed 49 % of the total value of marketed production of the producer organisation and that such products do not benefit from Union support. Those products do not count, for producer organisations in the fruit and vegetables sector, towards the calculation of the value of marketed production for the purposes of Article 34(2).\n3. By way of derogation from paragraph 1, Member States shall recognise producer organisations, constituted by producers in the milk and milk products sector, which:\n(a) are formed on the initiative of the producers;\n(b) pursue a specific aim which may include one or more of the following objectives:\n(i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;\n(ii) concentration of supply and the placing on the market of the products produced by its members;\n(iii) optimising production costs and stabilising producer prices.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 152 PA 1 ALN 1 PTA (a)",
+          "AR 152 PA 1 ALN 1 PTA (b)",
+          "AR 152 PA 1 ALN 1 PTA (c) PTI (vi)",
+          "AR 152 PA 1a ALN 1",
+          "AR 152 PA 1b ALN 2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 R; 32026R1739 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (6) (a) (i); AR 001 (6) (a) (ii); AR 001 (6) (a) (iii); AR 001 (6) (b); AR 001 (6) (c)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (a) of Article 152(1)(1) now specifies that producer organisations must be controlled by farmer members producing agricultural products of the soil or of stockfarming, adds that recognition may be granted for one or more listed sectors provided the organisation meets the conditions for all of them, and allows Member States to permit that control to be exercised through associations of such farmers.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 152"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152",
+              "label": "Art. 152, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "Point (b) of Article 152(1)(1) now describes the organisations as formed on the initiative of farmers producing agricultural products of the soil or of stockfarming rather than simply producers, and point (c)(vi) now also refers to carrying out initiatives promoting short supply chains or use of the optional terms referred to in Article 88a.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 152"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152",
+              "label": "Art. 152, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "Article 152(1a)(1) now extends the derogation to producer organisations, including cooperatives or equivalent legal forms, that have applied for but not yet received recognition, subject to meeting the requirements of paragraph 1 and Article 154, and sets time limits for using that derogation tied to the recognition period or a five-year window from the application date, while Article 152(1b)(2) adds a new rule allowing associations of producer organisations that do not meet certain conditions in paragraph 1a to still carry out the paragraph 1a activities if their members individually satisfy specified conditions including a 36% national production volume cap.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 152"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152",
+              "label": "Art. 152, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 153"
+        },
+        "heading": "Statutes of producer organisations",
+        "before": "Article 153\nStatutes of producer organisations\n1. The statutes of a producer organisation shall require its producer members, in particular, to:\n(a) apply the rules adopted by the producer organisation relating to production reporting, production, marketing and protection of the environment;\n(b) be members of only one producer organisation for any given product of the holding; however Member States may derogate from this condition in duly justified cases where producer members hold two distinct production units located in different geographical areas;\n(c) provide the information requested by the producer organisation for statistical purposes.\n2. The statutes of a producer organisation shall also provide for:\n(a) procedures for determining, adopting and amending the rules referred to in point (a) of paragraph 1;\n(b) the imposition on members of financial contributions needed to finance the producer organisation;\n(c) rules enabling the producer members to scrutinise democratically their organisation and its decisions as well as its accounts and budgets;\n(d) penalties for infringement of obligations under the statutes, particularly for non-payment of financial contributions, or of the rules laid down by the producer organisation;\n(e) rules on the admission of new members, and in particular the minimum period of membership which may not be less than one year;\n(f) the accounting and budgetary rules necessary for the operation of the organisation.\n2a. The statutes of a producer organisation may provide for the possibility of producer members being in direct contact with purchasers, provided that such direct contact does not jeopardise the concentration of supply and placing of products on the market by the producer organisation. Concentration of supply shall be deemed to have been ensured if the essential elements of the sales such as price, quality and volume are negotiated and determined by the producer organisation.\n3. Paragraphs 1, 2 and 2a shall not apply to producer organisations in the milk and milk products sector.",
+        "after": "Article 153\nStatutes of producer organisations\n1. The statutes of a producer organisation shall require its producer members, in particular, to:\n(a) apply the rules adopted by the producer organisation relating to production reporting, production, marketing and protection of the environment;\n(b) be members of only one producer organisation for any given product of the holding, where any given product refers to products which are sufficiently distinct, in particular on the basis of their characteristics or intended final uses;\nhowever, Member States may derogate from this condition in duly justified cases where producer members hold two distinct production units located in different geographical areas;\n(c) provide the information requested by the producer organisation for statistical purposes.\n2. The statutes of a producer organisation shall also provide for:\n(a) procedures for determining, adopting and amending the rules referred to in point (a) of paragraph 1;\n(b) the imposition on members of financial contributions needed to finance the producer organisation;\n(c) rules enabling the farmer members producing agricultural products of the soil or of stockfarming to scrutinise democratically their organisation and its decisions as well as its accounts and budgets;\n(d) penalties for infringement of obligations under the statutes, particularly for non-payment of financial contributions, or of the rules laid down by the producer organisation;\n(e) rules on the admission of new members, and in particular the minimum period of membership which may not be less than one year;\n(f) the accounting and budgetary rules necessary for the operation of the organisation.\n2a. The statutes of a producer organisation may provide for the possibility of members being in direct contact with purchasers, provided that such direct contact does not jeopardise the objectives pursued by the producer organisation, including the concentration of supply and placing of products on the market by the producer organisation. Concentration of supply and the placing of products on the market shall be deemed to have been ensured if the essential elements of the sales, such as price, quality and volume, are negotiated and determined by the producer organisation. The statutes of a producer organisation that allows direct contact between members and purchasers may include internal control and prevention mechanisms to ensure that such contact does not adversely affect the objectives of the producer organisation, including the concentration of supply.\n3. Paragraphs 1, 2 and 2a shall not apply to producer organisations in the milk and milk products sector.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 153 PA 1 ALN 1 PTA (b)",
+          "AR 153 PA 2 ALN 1 PTA (c)",
+          "AR 153 PA 2a ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (7) (a); AR 001 (7) (b); AR 001 (7) (c); AR 001 (7) (d)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (b) of paragraph 1 now adds a clarification that any given product refers to products that are sufficiently distinct, in particular on the basis of their characteristics or intended final uses.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 153"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153",
+              "label": "Art. 153, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "Point (c) of paragraph 2 now refers to farmer members producing agricultural products of the soil or of stockfarming having democratic scrutiny rights, rather than to producer members generally.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 153"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153",
+              "label": "Art. 153, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 153"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153",
+              "label": "Art. 153, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2a now speaks of members generally rather than producer members being in direct contact with purchasers, extends the safeguard to cover the objectives pursued by the producer organisation including concentration of supply and placing of products on the market, and adds a new sentence allowing the statutes to include internal control and prevention mechanisms to ensure such contact does not adversely affect the organisation's objectives, including concentration of supply.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 153"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153",
+              "label": "Art. 153, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 153"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153",
+              "label": "Art. 153, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 157"
+        },
+        "heading": "Interbranch organisations",
+        "before": "Article 157\nInterbranch organisations\n1. Member States may, on request, recognise interbranch organisations at national and regional levels and at the level of the economic areas referred to in Article 164(2) in a specific sector listed in Article 1(2) which:\n(a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;\n(b) are formed on the initiative of all or some of the organisations or associations which constitute them;\n(c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:\n(i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;\n(ii) forecasting of production potential, and recording public market prices;\n(iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;\n(iv) exploring potential export markets;\n(v) without prejudice to Articles 148 and 168, drawing up standard forms of contract, compatible with Union rules, for the sale of agricultural products to purchasers and/or the supply of processed products to distributors and retailers, taking into account the need to achieve fair competitive conditions and to avoid market distortions;\n(vi) exploiting to a fuller extent the potential of the products, including at the level of market outlets, and developing initiatives to strengthen economic competitiveness and innovation;\n(vii) providing the information and carrying out the research necessary to innovate, rationalise, improve and adjust production and, where applicable, the processing and marketing, towards products more suited to market requirements and consumer tastes and expectations, in particular with regard to product quality, including the specific characteristics of products with a protected designation of origin or protected geographical indication, and protection of the environment, climate action, animal health and animal welfare;\n(viii) seeking ways of restricting the use of animal-health or plant protection products, better managing other inputs, ensuring product quality and soil and water conservation, promoting food safety, in particular through traceability of products, and improving animal health and welfare;\n(ix) developing methods and instruments for improving product quality at all stages of production and, where applicable, of processing and marketing;\n(x) taking all possible actions to uphold, protect and promote organic farming and designations of origin, quality labels and geographical indications;\n(xi) promoting and carrying out research into integrated, sustainable production or other environmentally sound production methods;\n(xii) encouraging healthy and responsible consumption of the products on the internal market and/or informing about the harm linked to hazardous consumption patterns;\n(xiii) promoting consumption of, and/or furnishing information concerning, products on the internal market and external markets;\n(xiv) contributing to the management and developing initiatives for the valorisation of by-products and the reduction and management of waste;\n(xv) establishing standard value sharing clauses within the meaning of Article 172a, including market bonuses and losses, determining how any evolution of relevant market prices of the products concerned or other commodity markets is to be allocated between them;\n(xvi) promoting and implementing measures to prevent, control and manage animal health, plant-protection and environmental risks, including by setting up and managing mutual funds or by contributing to such funds with a view to paying financial compensation to farmers for costs and economic losses arising from the promotion and implementation of such measures;\n1a. Member States may, on request, decide to grant more than one recognition to an interbranch organisation operating in several sectors referred to in Article 1(2) provided the interbranch organisation fulfils the conditions referred to in paragraph 1 for each sector for which it seeks recognition.\n2. In duly justified cases, Member States may decide on the basis of objective and non-discriminatory criteria that the condition in point (c) of Article 158(1) is fulfilled by limiting the number of interbranch organisations on a regional or national level if so provided for by national rules in place before 1 January 2014, and where this does not impair the proper functioning of the internal market.\n3. By way of derogation from paragraph 1, as regards the milk and milk products sector, Member States may recognise interbranch organisations which:\n(a) have formally requested recognition and are made up of representatives of economic activities linked to the production of raw milk and linked to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products of the milk and milk products sector;\n(b) are formed on the initiative of all or some of the representatives referred to in point (a);\n(c) carry out, in one or more regions of the Union, taking into account the interests of the members of those interbranch organisations and of consumers, one or more of the following activities:\n(i) improving the knowledge and the transparency of production and the market, including by publication of statistical data on the prices, volumes and durations of contracts for the delivery of raw milk which have been previously concluded, and by providing analyses of potential future market developments at regional, national and international level;\n(ii) helping to coordinate better the way the products of the milk and milk products sector are placed on the market, in particular by means of research and market studies;\n(iii) promoting consumption of, and providing information on, milk and milk products in both internal and external markets;\n(iv) exploring potential export markets;\n(v) drawing up standard forms of contract compatible with Union rules for the sale of raw milk to purchasers or the supply of processed products to distributors and retailers, taking into account the need to achieve fair competitive conditions and to avoid market distortions;\n(vi) providing the information and carrying out the research necessary to adjust production in favour of products more suited to market requirements and consumer tastes and expectations, in particular with regard to product quality and protection of the environment;\n(vii) maintaining and developing the production potential of the dairy sector, inter alia, by promoting innovation and supporting programmes for applied research and development in order to exploit the full potential of milk and milk products, especially in order to create products with added value which are more attractive to the consumer;\n(viii) seeking ways of restricting the use of animal health products, improving the management of other inputs and enhancing food safety and animal health;\n(ix) developing methods and instruments for improving product quality at all stages of production and marketing;\n(x) exploiting the potential of organic farming and protecting and promoting such farming as well as the production of products with designations of origin, quality labels and geographical indications; and\n(xi) promoting integrated production or other environmentally sound production methods;\n(xii) establishing standard value sharing clauses within the meaning of Article 172a, including market bonuses and losses, determining how any evolution of relevant market prices of the products concerned or other commodity markets is to be allocated between them; and\n(xiii) implementing measures to prevent and manage animal health, plant-protection and environmental risks.",
+        "after": "Article 157\nInterbranch organisations\n1. Member States may, on request, recognise interbranch organisations at national and regional levels and at the level of the economic areas referred to in Article 164(2) in a specific sector listed in Article 1(2) which:\n(a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;\n(b) are formed on the initiative of all or some of the organisations or associations which constitute them;\n(c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:\n(i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;\n(ii) forecasting of production potential, and recording public market prices;\n(iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;\n(iv) exploring potential export markets;\n(v) without prejudice to Articles 148 and 168, drawing up standard forms of contract, compatible with Union rules, for the sale of agricultural products to purchasers and/or the supply of processed products to distributors and retailers, taking into account the need to achieve fair competitive conditions and to avoid market distortions;\n(vi) exploiting to a fuller extent the potential of the products, including at the level of market outlets, and developing initiatives to strengthen economic competitiveness and innovation;\n(vii) providing the information and carrying out the research necessary to innovate, rationalise, improve and adjust production and, where applicable, the processing and marketing, towards products more suited to market requirements and consumer tastes and expectations, in particular with regard to product quality, including the specific characteristics of products with a protected designation of origin or protected geographical indication, and protection of the environment, climate action, animal health and animal welfare;\n(viii) seeking ways of restricting the use of animal-health or plant protection products, better managing other inputs, ensuring product quality and soil and water conservation, promoting food safety, in particular through traceability of products, and improving animal health and welfare;\n(ix) developing methods and instruments for improving product quality at all stages of production and, where applicable, of processing and marketing;\n(x) taking all possible actions to uphold, protect and promote organic farming and designations of origin, quality labels and geographical indications;\n(xi) promoting and carrying out research into integrated, sustainable production or other environmentally sound production methods;\n(xii) encouraging healthy and responsible consumption of the products on the internal market and/or informing about the harm linked to hazardous consumption patterns;\n(xiii) promoting consumption of, and/or furnishing information concerning, products on the internal market and external markets;\n(xiv) contributing to the management and developing initiatives for the valorisation of by-products and the reduction and management of waste;\n(xv) establishing standard value sharing clauses within the meaning of Article 172a, including market bonuses and losses, determining how any evolution of relevant market prices of the products concerned or other commodity markets is to be allocated between them;\n(xvi) promoting and implementing measures to prevent, control and manage animal health, plant-protection and environmental risks, including by setting up and managing mutual funds or by contributing to such funds with a view to paying financial compensation to farmers for costs and economic losses arising from the promotion and implementation of such measures;\n(xvii) promoting the use of the optional terms referred to in Article 88a.\n1a. Member States may, on request, decide to grant more than one recognition to an interbranch organisation operating in several sectors referred to in Article 1(2) provided the interbranch organisation fulfils the conditions referred to in paragraph 1 for each sector for which it seeks recognition.\n2. In duly justified cases, Member States may decide on the basis of objective and non-discriminatory criteria that the condition in point (c) of Article 158(1) is fulfilled by limiting the number of interbranch organisations on a regional or national level if so provided for by national rules in place before 1 January 2014, and where this does not impair the proper functioning of the internal market.\n3. By way of derogation from paragraph 1, as regards the milk and milk products sector, Member States may recognise interbranch organisations which:\n(a) have formally requested recognition and are made up of representatives of economic activities linked to the production of raw milk and linked to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products of the milk and milk products sector;\n(b) are formed on the initiative of all or some of the representatives referred to in point (a);\n(c) carry out, in one or more regions of the Union, taking into account the interests of the members of those interbranch organisations and of consumers, one or more of the following activities:\n(i) improving the knowledge and the transparency of production and the market, including by publication of statistical data on the prices, volumes and durations of contracts for the delivery of raw milk which have been previously concluded, and by providing analyses of potential future market developments at regional, national and international level;\n(ii) helping to coordinate better the way the products of the milk and milk products sector are placed on the market, in particular by means of research and market studies;\n(iii) promoting consumption of, and providing information on, milk and milk products in both internal and external markets;\n(iv) exploring potential export markets;\n(v) drawing up standard forms of contract compatible with Union rules for the sale of raw milk to purchasers or the supply of processed products to distributors and retailers, taking into account the need to achieve fair competitive conditions and to avoid market distortions;\n(vi) providing the information and carrying out the research necessary to adjust production in favour of products more suited to market requirements and consumer tastes and expectations, in particular with regard to product quality and protection of the environment;\n(vii) maintaining and developing the production potential of the dairy sector, inter alia, by promoting innovation and supporting programmes for applied research and development in order to exploit the full potential of milk and milk products, especially in order to create products with added value which are more attractive to the consumer;\n(viii) seeking ways of restricting the use of animal health products, improving the management of other inputs and enhancing food safety and animal health;\n(ix) developing methods and instruments for improving product quality at all stages of production and marketing;\n(x) exploiting the potential of organic farming and protecting and promoting such farming as well as the production of products with designations of origin, quality labels and geographical indications; and\n(xi) promoting integrated production or other environmentally sound production methods;\n(xii) establishing standard value sharing clauses within the meaning of Article 172a, including market bonuses and losses, determining how any evolution of relevant market prices of the products concerned or other commodity markets is to be allocated between them; and\n(xiii) implementing measures to prevent and manage animal health, plant-protection and environmental risks.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 157 PA 1 ALN 1 PTA (c) PTI (xvii)"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (8)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new point (xvii) has been added to the list of objectives in Article 157(1)(c), covering the promotion of the use of the optional terms referred to in Article 88a.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 157"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_157",
+              "label": "Art. 157, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 168"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (9)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 210a"
+        },
+        "heading": "Vertical and horizontal initiatives for sustainability",
+        "before": "Article 210a\nVertical and horizontal initiatives for sustainability\n1. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of producers of agricultural products that relate to the production of or trade in agricultural products and that aim to apply a sustainability standard higher than mandated by Union or national law, provided that those agreements, decisions and concerted practices only impose restrictions of competition that are indispensable to the attainment of that standard.\n2. Paragraph 1 applies to agreements, decisions and concerted practices of producers of agricultural products to which several producers are party or to which one or more producers and one or more operators at different levels of the production, processing, and trade in the food supply chain, including distribution, are party.\n3. For the purposes of paragraph 1, sustainability standard means a standard which aims to contribute to one or more of the following objectives:\n(a) environmental objectives, including climate change mitigation and adaptation, the sustainable use and protection of landscapes, water and soil, the transition to a circular economy, including the reduction of food waste, pollution prevention and control, and the protection and restoration of biodiversity and ecosystems;\n(b) the production of agricultural products in ways that reduce the use of pesticides and manage risks resulting from such use, or that reduce the danger of antimicrobial resistance in agricultural production; and\n(c) animal health and animal welfare.\n4. Agreements, decisions and concerted practices that fulfil the conditions referred to in this Article shall not be prohibited, no prior decision to that effect being required.\n5. The Commission shall issue guidelines for operators concerning the conditions for the application of this Article by 8 December 2023.\n6. From 8 December 2023, producers as referred to in paragraph 1 may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with this Article. The Commission shall send the applicant its opinion within four months of receipt of a complete request.\nIf the Commission finds at any time after issuing an opinion that the conditions referred to in paragraphs 1, 3 and 7 of this Article are no longer met, it shall declare that Article 101(1) TFEU shall apply in the future to the agreement, decision or concerted practice in question and inform the producers accordingly.\nThe Commission may change the content of an opinion at its own initiative or at the request of a Member State, in particular if the applicant has provided inaccurate information or misused the opinion.\n7. The national competition authority as referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, in the future, one or more of the agreements, decisions and concerted practices referred to in paragraph 1 are to be modified, discontinued or not take place at all, if it considers that such a decision is necessary in order to prevent competition from being excluded or if it considers that the objectives set out in Article 39 TFEU are jeopardised.\nFor agreements, decisions and concerted practices covering more than one Member State, the decision referred to in the first subparagraph of this paragraph shall be taken by the Commission without applying the procedures referred to in Article 229(2) and (3).\nWhen acting under the first subparagraph of this paragraph, the national competition authority shall inform the Commission in writing after initiating the first formal measure of the investigation and shall notify the Commission of any resulting decisions without delay after their adoption.\nThe decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.",
+        "after": "Article 210a\nVertical and horizontal initiatives for sustainability\n1. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of producers of agricultural products that relate to the production of or trade in agricultural products and that aim to apply a sustainability standard higher than mandated by Union or national law, provided that those agreements, decisions and concerted practices only impose restrictions of competition that are indispensable to the attainment of that standard.\n2. Paragraph 1 applies to agreements, decisions and concerted practices of producers of agricultural products to which several producers are party or to which one or more producers and one or more operators at different levels of the production, processing, and trade in the food supply chain, including distribution, are party.\n3. For the purposes of paragraph 1, sustainability standard means a standard which aims to contribute to one or more of the following objectives:\n(a) environmental objectives, including: climate change mitigation and adaptation; the sustainable use and protection of landscapes, water and soil, including through irrigation systems; the transition to a circular economy, including the reduction of food waste and the nutrient recycling of livestock manure into organic fertilisers or energy production; and pollution prevention and control; as well as the protection and restoration of biodiversity and ecosystems;\n(b) the production of agricultural products in ways that reduce the use of pesticides and manage risks resulting from such use, or that reduce the danger of antimicrobial resistance in agricultural production; and\n(c) animal health and animal welfare;\n(d) supporting the economic viability of small farms predominantly relying on family labour with a standard output as defined in Article 2, point (8), of Council Regulation (EC) No 1217/2009\nCouncil Regulation (EC) No 1217/2009 of 30 November 2009 setting up the Farm Sustainability Data Network (OJ L 328, 15.12.2009, p. 27, ELI: http://data.europa.eu/eli/reg/2009/1217/oj). that are not to exceed EUR 100000;\n(e) attracting and supporting young producers of agricultural products; or\n(f) improving working and safety conditions in agricultural or processing activities.\n4. Agreements, decisions and concerted practices that fulfil the conditions referred to in this Article shall not be prohibited, no prior decision to that effect being required.\n5. The Commission shall issue guidelines for operators concerning the conditions for the application of this Article by 8 December 2023.\n6. From 8 December 2023, producers referred to in paragraph 1 may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with regard to the implementation of sustainability standards that aim to contribute to one or more of the objectives laid down in paragraph 3, points (a), (b) and (c), with this Article.\nFrom 19 August 2028, producers referred to in paragraph 1 may request an opinion from the Commission concerning the compatibility of agreements, decisions and concerted practices as referred to in paragraph 1 with regard to the implementation of sustainability standards that aim to contribute to one or more of the objectives laid down in paragraph 3, points (d), (e) and (f), with this Article.\nThe Commission shall send its opinion to the applicant within four months of the receipt of a complete request.\nIf the Commission finds at any time after issuing an opinion that the conditions referred to in paragraphs 1, 3 and 7 of this Article are no longer met, it shall declare that Article 101(1) TFEU is to apply in the future to the agreement, decision or concerted practice in question and inform the producers accordingly.\nThe Commission may change the content of an opinion on its own initiative or at the request of a Member State, in particular if the applicant has provided inaccurate information or misused the opinion.\n7. The national competition authority as referred to in Article 5 of Regulation (EC) No 1/2003 may decide in individual cases that, in the future, one or more of the agreements, decisions and concerted practices referred to in paragraph 1 are to be modified, discontinued or not take place at all, if it considers that such a decision is necessary in order to prevent competition from being excluded or if it considers that the objectives set out in Article 39 TFEU are jeopardised.\nFor agreements, decisions and concerted practices covering more than one Member State, the decision referred to in the first subparagraph of this paragraph shall be taken by the Commission without applying the procedures referred to in Article 229(2) and (3).\nWhen acting under the first subparagraph of this paragraph, the national competition authority shall inform the Commission in writing after initiating the first formal measure of the investigation and shall notify the Commission of any resulting decisions without delay after their adoption.\nThe decisions referred to in this paragraph shall not apply earlier than the date of their notification to the undertakings concerned.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 210a PA 3 ALN 1 PTA (a)",
+          "AR 210a PA 3 ALN 1 PTA (c)",
+          "AR 210a PA 3 ALN 1 PTA (d)",
+          "AR 210a PA 3 ALN 1 PTA (e)",
+          "AR 210a PA 3 ALN 1 PTA (f)",
+          "AR 210a PA 6 ALN 1",
+          "AR 210a PA 6 ALN 2",
+          "AR 210a PA 6 ALN 3",
+          "AR 210a PA 6 ALN 4",
+          "AR 210a PA 6 ALN 5"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2009-11-30",
+          "2028-08-19"
+        ],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 J; 32026R1739 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (10) (a) (i); AR 001 (10) (a) (ii); AR 001 (10) (b)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 3 expands the list of objectives a sustainability standard can contribute to: point (a) is elaborated with references to irrigation systems and nutrient recycling of livestock manure, and three new points are added covering the economic viability of small family farms with standard output not exceeding EUR 100000 as defined by reference to Council Regulation (EC) No 1217/2009, attracting and supporting young producers, and improving working and safety conditions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 210a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a",
+              "label": "Art. 210a, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 6 now distinguishes two opinion-request windows for producers: one from 8 December 2023 covering the objectives in paragraph 3 points (a), (b) and (c), and a new one from 19 August 2028 covering the objectives in paragraph 3 points (d), (e) and (f).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 210a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a",
+              "label": "Art. 210a, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "The wording on the Commission sending its opinion and on declaring future application of Article 101(1) TFEU, and on amending an opinion, is rephrased without changing its substance compared with the earlier version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 210a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_210a",
+              "label": "Art. 210a, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 210a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a",
+              "label": "Art. 210a, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 222"
+        },
+        "heading": "Application of Article 101(1) TFEU",
+        "before": "Article 222\nApplication of Article 101(1) TFEU\n1. During periods of severe imbalance in markets, the Commission may adopt implementing acts to the effect that Article 101(1) TFEU is not to apply to agreements and decisions of farmers, farmers' associations, or associations of such associations, or recognised producer organisations, associations of recognised producer organisations and recognised interbranch organisations in any of the sectors referred to in Article 1(2) of this Regulation, provided that such agreements and decisions do not undermine the proper functioning of the internal market, strictly aim to stabilise the sector concerned and fall under one or more of the following categories:\n(a) market withdrawal or free distribution of their products;\n(b) transformation and processing;\n(c) storage by private operators;\n(d) joint promotion measures;\n(e) agreements on quality requirements;\n(f) joint purchasing of inputs necessary to combat the spread of pests and diseases in animals and plants in the Union or of inputs necessary to address the effects of natural disasters in the Union;\n(g) temporary planning of production taking into account the specific nature of the production cycle.\nThe Commission shall specify in implementing acts the substantive and geographic scope of this derogation and, subject to paragraph 3, the period for which the derogation applies.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).\n2. Paragraph 1 shall apply only if the Commission has already adopted one of the measures referred to in this Chapter, if products have been bought in under public intervention or if aid for private storage referred to in Chapter I of Title I of Part II has been granted.\n3. The agreements and decisions referred to in paragraph 1 shall only be valid for a period of up to six months.\nHowever, the Commission may adopt implementing acts authorising such agreements and decisions for a further period of up to six-months. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).",
+        "after": "Article 222\nApplication of Article 101(1) TFEU\n1. During periods of severe imbalance in markets, the Commission may adopt implementing acts to the effect that Article 101(1) TFEU is not to apply to agreements and decisions of farmers, farmers’ associations, or associations of such associations, or recognised producer organisations, associations of recognised producer organisations and recognised interbranch organisations in any of the sectors referred to in Article 1(2) of this Regulation, provided that such agreements and decisions do not undermine the proper functioning of the internal market, strictly aim to stabilise the sector concerned and fall under one or more of the following categories:\n(a) market withdrawal or free distribution of their products;\n(b) transformation and processing;\n(c) storage by private operators;\n(d) joint promotion measures;\n(e) agreements on quality requirements;\n(f) joint purchasing of inputs necessary to combat the spread of pests and diseases in animals and plants in the Union or of inputs necessary to address the effects of natural disasters in the Union;\n(g) temporary planning of production taking into account the specific nature of the production cycle.\nWhere the Commission adopts implementing acts in accordance with the first subparagraph of this paragraph, it may decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned. Such financial support shall provide the means necessary for the implementation without delay of those agreements and decisions by the operators concerned.\nThe Commission shall adopt implementing acts specifying the scope of the derogation of the first subparagraph of this paragraph, and, subject to paragraph 3, the period for which the derogation applies, as well as, where applicable, the amount of the agricultural reserve allocated to the Member State concerned under the second subparagraph of this paragraph.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).\n2. Paragraph 1 shall apply only if the Commission has already adopted one of the measures referred to in this Chapter, if products have been bought in under public intervention or if aid for private storage referred to in Chapter I of Title I of Part II has been granted.\n3. The agreements and decisions referred to in paragraph 1 shall only be valid for a period of up to six months.\nHowever, the Commission may adopt implementing acts authorising such agreements and decisions for a further period of up to six-months. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).",
+        "previous_location": null,
+        "changed_within": [
+          "AR 222 PA 1 ALN 1",
+          "AR 222 PA 1 ALN 2",
+          "AR 222 PA 1 ALN 3",
+          "AR 222 PA 1 ALN 4"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (11)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new subparagraph was added stating that where the Commission adopts such implementing acts, it may decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned, with such financial support providing the means necessary for the implementation without delay of those agreements and decisions by the operators concerned.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 222"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222",
+              "label": "Art. 222, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "The following subparagraph on implementing acts was revised to add that the Commission shall also specify, where applicable, the amount of the agricultural reserve allocated to the Member State concerned under the newly inserted subparagraph, alongside the previously specified scope and duration of the derogation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 222"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_222",
+              "label": "Art. 222, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 222"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222",
+              "label": "Art. 222, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AR 222a"
+        },
+        "heading": "Union market observatories",
+        "before": "Article 222a\nUnion market observatories\n1. In order to improve transparency within the food supply chain, to inform the choices of economic operators and public authorities, to facilitate the monitoring of market developments and threats of market disturbance, the Commission shall establish Union market observatories.\n2. The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established.\n3. The Union market observatories shall make available the statistical data and information necessary for the monitoring of market developments and threats of market disturbance, in particular:\n(a) production, supply and stocks;\n(b) prices, costs and, as far as possible, profit margins at all levels of the food supply chain;\n(c) short- and medium-term market forecasts;\n(d) imports and exports of agricultural products, in particular the filling of tariff quotas for the import of agricultural products into the Union.\nThe Union market observatories shall produce reports containing the elements referred to in the first subparagraph.\n4. The Member States shall collect the information referred to in paragraph 3 and provide it to the Commission.",
+        "after": "Article 222a\nUnion market observatories\n1. In order to improve transparency within the food supply chain, to inform the choices of economic operators and public authorities, to facilitate the monitoring of market developments and threats of market disturbance, the Commission shall establish Union market observatories.\n2. The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established. The Commission may make a specific distinction between organic and non-organic production within those observatories.\n3. The Union market observatories shall make available the statistical data and information necessary for the monitoring of market developments and threats of market disturbance, in particular:\n(a) production, supply and stocks;\n(b) prices, costs and, as far as possible, profit margins at all levels of the food supply chain;\n(c) short- and medium-term market forecasts;\n(d) imports and exports of agricultural products, in particular the filling of tariff quotas for the import of agricultural products into the Union.\nThe Union market observatories shall produce reports containing the elements referred to in the first subparagraph.\n4. The Member States shall collect the information referred to in paragraph 3 and provide it to the Commission.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 222a PA 2 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-08-18",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R1739 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (12)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 now adds a sentence stating that the Commission may make a specific distinction between organic and non-organic production within the Union market observatories.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 222a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222a",
+              "label": "Art. 222a, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "The rest of Article 222a, including paragraphs 1, 3 and 4, remains textually unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 222a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_222a",
+              "label": "Art. 222a, 02013R1308-20260318"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 222a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222a",
+              "label": "Art. 222a, 02013R1308-20260818"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AN VII"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (13)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32013R1308",
+            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+          },
+          "version": "02013R1308-20260818",
+          "location": "AN X"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R1739",
+            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (14) (a); AR 001 (14) (b); AR 001 (14) (c); AR 001 (14) (d)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32013R1308",
+      "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+    },
+    "from_version": "02013R1308-20260318",
+    "to_version": "02013R1308-20260818",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 75",
+          "AR 78",
+          "AR 119",
+          "AR 149",
+          "AR 152",
+          "AR 153",
+          "AR 157",
+          "AR 210a",
+          "AR 222",
+          "AR 222a"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 75",
+          "AR 78",
+          "AR 149",
+          "AR 152",
+          "AR 153",
+          "AR 157",
+          "AR 210a",
+          "AR 222",
+          "AR 222a"
+        ],
+        "note": "21 annotations in (2026-03-18, 2026-08-18]",
+        "claims": [
+          {
+            "location": "AR 152 PA 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 149 PA 2 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 210a PA 3 PTA (f)",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 75 PA 3 PTA (j)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 157 PA 1 PTA (c) PTI (xvii)",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 210a PA 6",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 153 PA 2a",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 210a PA 3 PTA (d)",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 153 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 222 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 78 PA 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 152 PA 1 PTA (c) PTI (vi)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 152 PA 1b ALN",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 210a PA 3 PTA (e)",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 78 PA 3 ALN",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 222a PA 2",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 152 PA 1 PTA (b) TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 210a PA 3 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 152 PA 1a ALN",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 78 PA 1 PTA (d)",
+            "change_type": "DELETED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 153 PA 2 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 75",
+          "AR 78",
+          "AR 88a",
+          "AR 148",
+          "AR 149",
+          "AR 152",
+          "AR 153",
+          "AR 157",
+          "AR 168",
+          "AR 210a",
+          "AR 222",
+          "AR 222a",
+          "AN VII",
+          "AN X"
+        ],
+        "note": "32026R1739, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 75 PA 3 PTA (j)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 78 PA 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (2) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 78 PA 1 PTA (d)",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (2) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 78 PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 88a",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (3)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 148",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (4)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 149 PA 2 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (5)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 152 PA 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (6) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 152 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (6) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 152 PA 1 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (6) (a) (iii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 152 PA 1a ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (6) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 152 PA 1b ALN 1",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (6) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 153 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (7) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 153 PA 2 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (7) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 153 PA 2a",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (7) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 153 PA 3",
+            "change_type": "DELETED",
+            "in_force": null,
+            "source": "AR 001 (7) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 157 PA 1 PTA (c)",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (8)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 168",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (9)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 210a PA 3 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (10) (a) (i)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 210a PA 3",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (10) (a) (ii)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 210a PA 6",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (10) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 222 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (11)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AR 222a PA 2",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (12)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AN VII",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (13)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AN X PO 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (14) (a)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AN X PO 2",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (14) (b)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AN X",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (14) (c)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          },
+          {
+            "location": "AN X",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (14) (d)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 10,
+        "right_units": 9,
+        "shared": 9,
+        "precision": 0.9,
+        "recall": 1.0,
+        "f1": 0.9473684210526316,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 10,
+        "right_units": 14,
+        "shared": 9,
+        "precision": 0.9,
+        "recall": 0.6428571428571429,
+        "f1": 0.75,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 9,
+        "right_units": 14,
+        "shared": 9,
+        "precision": 1.0,
+        "recall": 0.6428571428571429,
+        "f1": 0.782608695652174,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 88a",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "INSERTED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 119",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "observed_by": [
+          "structural_diff"
+        ],
+        "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 148",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 168",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN VII",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AN X",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 88a",
+      "AR 148",
+      "AR 168",
+      "AN VII",
+      "AN X"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 15,
+    "explained": 10,
+    "unavailable": 5,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 5,
+    "usage": {
+      "input_tokens": 64470,
+      "output_tokens": 4074,
+      "requests": 13,
+      "schema_repairs": 3
+    }
+  },
+  "gate": {
+    "changes": 15,
+    "passed_first": 10,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 5,
+    "retries": 0,
+    "sentences": 21,
+    "citations": 30,
+    "citations_rejected": 0,
+    "notes_dropped": 1,
+    "coordinates_unsupported": 0
+  }
+}

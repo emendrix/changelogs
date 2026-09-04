@@ -10,6 +10,459 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20260818 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20260318` → `02013R1308-20260818`
+
+- **Act** `eu:32013R1308` · **In force** 2026-08-18 · **Detected** 2026-09-04
+- **Touched** 15 provisions — 15 substantive · 0 date-only · **6 disputed**
+- **Diff** 1 inserted · 14 modified · 0 deleted · 0 renumbered · 0 deferred · 248 unchanged
+- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20260318` · `v2` = `02013R1308-20260818`
+
+---
+
+**MODIFIED · Art. 75 — Establishment and content** · applies from: unchanged
+
+*within* `AR 75 PA 3 ALN 1 PTA (j)` · *amended by* `32026R1739`
+
+Point (j) of Article 75(3) no longer excludes poultrymeat and spreadable fats from the marketing standard covering the place of farming and/or origin. [Art. 75, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_75) [Art. 75, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_75)
+
+*before* (`02013R1308-20260318`)
+
+> Article 75
+> Establishment and content
+> 1. Marketing standards may apply to one or more of the following sectors and products:
+> (a) olive oil and table olives;
+> (b) fruit and vegetables;
+> (c) processed fruit and vegetable products;
+> (d) bananas;
+> (e) live plants;
+> (f) eggs;
+> (g) poultrymeat;
+> (h) spreadable fats intended for human consumption;
+> (i) hops.
+> 2. In order to take into account the expectations of consumers and to improve the economic conditions for the production and marketing as well as the quality of the agricultural products covered by paragraphs 1 and 4 of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on marketing standards by sectors or products, at all stages of the marketing, as well as derogations and exemptions from such standards in order to adapt to constantly changing market conditions, to evolving consumer demands, to developments in relevant international standards and to avoid creating obstacles to product innovation.
+> 3. Without prejudice to Article 26 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council
+> Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC o […truncated by emendrix: 4178 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 75
+> Establishment and content
+> 1. Marketing standards may apply to one or more of the following sectors and products:
+> (a) olive oil and table olives;
+> (b) fruit and vegetables;
+> (c) processed fruit and vegetable products;
+> (d) bananas;
+> (e) live plants;
+> (f) eggs;
+> (g) poultrymeat;
+> (h) spreadable fats intended for human consumption;
+> (i) hops.
+> 2. In order to take into account the expectations of consumers and to improve the economic conditions for the production and marketing as well as the quality of the agricultural products covered by paragraphs 1 and 4 of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 on marketing standards by sectors or products, at all stages of the marketing, as well as derogations and exemptions from such standards in order to adapt to constantly changing market conditions, to evolving consumer demands, to developments in relevant international standards and to avoid creating obstacles to product innovation.
+> 3. Without prejudice to Article 26 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council
+> Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC o […truncated by emendrix: 4135 characters omitted…]
+
+**MODIFIED · Art. 78 — Definitions, designations and sales descriptions for certain sectors and products** · applies from: unchanged
+
+*within* `AR 78 PA 1 ALN 1 PTA (a)`, `AR 78 PA 3 ALN 2` · *amended by* `32026R1739`
+
+Point (a) of paragraph 1 now describes the covered sector more broadly as all sectors producing edible parts of animals, naming beef and veal, pigmeat, sheepmeat, goatmeat and poultrymeat as examples, whereas the earlier text limited this point to beef and veal only. [Art. 78, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_78) [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_78)
+
+Paragraph 3 gains an added sentence empowering the Commission to adopt delegated acts under Article 227 supplementing the Regulation by granting derogations, specifically as regards Part Ia, point 3 of Annex VII, allowing use of designations reserved for meat-derived products for other products whose nature is clear through established long-term use and causes no consumer confusion. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_78)
+
+*before* (`02013R1308-20260318`)
+
+> Article 78
+> Definitions, designations and sales descriptions for certain sectors and products
+> 1. In addition, where relevant, to the applicable marketing standards, the definitions, designations and sales descriptions provided for in Annex VII shall apply to the following sectors or products:
+> (a) beef and veal;
+> (b) wine;
+> (c) milk and milk products intended for human consumption;
+> (d) poultrymeat;
+> (e) eggs;
+> (f) spreadable fats intended for human consumption; and
+> (g) olive oil and table olives.
+> 2. The definitions, designations or sales descriptions provided for in Annex VII may be used in the Union only for the marketing of a product which conforms to the corresponding requirements laid down in that Annex.
+> 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the modifications, derogations or exemptions to the definitions and sales descriptions provided for in Annex VII. Those delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation.
+> 4. In order to ensure that operators and Member States have a clear and proper understanding of the definitions and sales descriptions provided for in Annex VII, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the rules on their specification and application.
+> 5. In order to take into account the expectations of consumers and the evolution of the milk p […truncated by emendrix: 278 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 78
+> Definitions, designations and sales descriptions for certain sectors and products
+> 1. In addition, where relevant, to the applicable marketing standards, the definitions, designations and sales descriptions provided for in Annex VII shall apply to the following sectors or products:
+> (a) all sectors in which edible parts of animals are produced and in particular the beef and veal, pigmeat, sheepmeat and goatmeat, and poultrymeat sectors;
+> (b) wine;
+> (c) milk and milk products intended for human consumption;
+> (d) poultrymeat;
+> (e) eggs;
+> (f) spreadable fats intended for human consumption; and
+> (g) olive oil and table olives.
+> 2. The definitions, designations or sales descriptions provided for in Annex VII may be used in the Union only for the marketing of a product which conforms to the corresponding requirements laid down in that Annex.
+> 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the modifications, derogations or exemptions to the definitions and sales descriptions provided for in Annex VII. Those delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation.
+> As regards Part Ia, point 3, of Annex VII, the Commission is empowered to adopt delegated acts in accordance with Article 227 supplementing this Regulation by granting derogations allowing the use of designations reserved for products derived from meat, for other prod […truncated by emendrix: 819 characters omitted…]
+
+**INSERTED · Art. 88a** · applies from: unknown
+
+*amended by* `32026R1739`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 119 — Compulsory particulars** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 119 PA 6` · *dates* +2027-09-19 +2030-03-19
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new paragraph 6 has been added stating that Article 1, point (8), applies from 19 March 2030 and Article 1, point (10)(a), applies from 19 September 2027. [Art. 119, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_119)
+
+*before* (`02013R1308-20260318`)
+
+> Article 119
+> Compulsory particulars
+> 1. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII marketed in the Union or for export shall contain the following compulsory particulars:
+> (a) the designation for the category of the grapevine product in accordance with Annex VII, Part II. For grapevine products categories defined under Annex VII, Part II, points (1) and points (4) to (9), where such products have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the designation of the category shall be accompanied by:
+> (i) the term de-alcoholised if the actual alcoholic strength of the product is no more than 0,5 % by volume; or
+> (ii) the term partially de-alcoholised if the actual alcoholic strength of the product is above 0,5 % by volume and is below the minimum actual alcoholic strength of the category before de-alcoholisation;
+> (b) for wines with a protected designation of origin or a protected geographical indication:
+> (i) the term "protected designation of origin" or "protected geographical indication"; and
+> (ii) the name of the protected designation of origin or the protected geographical indication;
+> (c) the actual alcoholic strength by volume;
+> (d) an indication of provenance;
+> (e) an indication of the bottler or, in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, the name of the producer or vendor;
+> (f) an indication of the i […truncated by emendrix: 2983 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 119
+> Compulsory particulars
+> 1. Labelling and presentation of the products referred to in points 1 to 11, 13, 15 and 16 of Part II of Annex VII marketed in the Union or for export shall contain the following compulsory particulars:
+> (a) the designation for the category of the grapevine product in accordance with Annex VII, Part II. For grapevine products categories defined under Annex VII, Part II, points (1) and points (4) to (9), where such products have undergone a de-alcoholisation treatment in accordance with Annex VIII, Part I, Section E, the designation of the category shall be accompanied by:
+> (i) the term de-alcoholised if the actual alcoholic strength of the product is no more than 0,5 % by volume; or
+> (ii) the term partially de-alcoholised if the actual alcoholic strength of the product is above 0,5 % by volume and is below the minimum actual alcoholic strength of the category before de-alcoholisation;
+> (b) for wines with a protected designation of origin or a protected geographical indication:
+> (i) the term "protected designation of origin" or "protected geographical indication"; and
+> (ii) the name of the protected designation of origin or the protected geographical indication;
+> (c) the actual alcoholic strength by volume;
+> (d) an indication of provenance;
+> (e) an indication of the bottler or, in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, the name of the producer or vendor;
+> (f) an indication of the i […truncated by emendrix: 3114 characters omitted…]
+
+**MODIFIED · Art. 148** · applies from: unknown
+
+*amended by* `32026R1739`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 149 — Contractual negotiations in the milk and milk products sector** · applies from: unchanged
+
+*within* `AR 149 PA 2 ALN 1 PTA (c) PTI (i)`, `AR 149 PA 2 ALN 1 PTA (c) PTI (ii)`, `AR 149 PA 2 ALN 1 PTA (c) PTI (iii)` · *amended by* `32026R1739`
+
+The threshold for the volume of raw milk covered by negotiations, expressed as a share of total Union production, is raised from 4% to 7%. [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149) [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149)
+
+The two thresholds concerning the share of raw milk produced or delivered within a particular Member State are each raised from 33% to 36%. [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149) [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149)
+
+*before* (`02013R1308-20260318`)
+
+> Article 149
+> Contractual negotiations in the milk and milk products sector
+> 1. A producer organisation in the milk and milk products sector which is recognised under Article 161(1) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).
+> 2. The negotiations by the producer organisation may take place:
+> (a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;
+> (b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;
+> (c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:
+> (i) the volume of raw milk covered by such negotiations does not exceed 4 % of total Union production,
+> (ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 33 % of the total national production of that Member State, and
+> (iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 33 % of the total national production of that Member State;
+> (d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogate […truncated by emendrix: 3099 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 149
+> Contractual negotiations in the milk and milk products sector
+> 1. A producer organisation in the milk and milk products sector which is recognised under Article 161(1) may negotiate on behalf of its farmer members, in respect of part or all of their joint production, contracts for the delivery of raw milk by a farmer to a processor of raw milk, or to a collector within the meaning of the third subparagraph of Article 148(1).
+> 2. The negotiations by the producer organisation may take place:
+> (a) whether or not there is a transfer of ownership of the raw milk by the farmers to the producer organisation;
+> (b) whether or not the price negotiated is the same as regards the joint production of some or all of the farmer members;
+> (c) provided that, for a particular producer organisation, all of the following conditions are fulfilled:
+> (i) the volume of raw milk covered by such negotiations does not exceed 7 % of total Union production;
+> (ii) the volume of raw milk covered by such negotiations which is produced in any particular Member State does not exceed 36 % of the total national production of that Member State; and
+> (iii) the volume of raw milk covered by such negotiations which is delivered in any particular Member State does not exceed 36 % of the total national production of that Member State;
+> (d) provided that the farmers concerned are not members of any other producer organisation which also negotiates such contracts on their behalf; however, Member States may derogate […truncated by emendrix: 3099 characters omitted…]
+
+**MODIFIED · Art. 152 — Producer organisations** · applies from: unchanged
+
+*within* `AR 152 PA 1 ALN 1 PTA (a)`, `AR 152 PA 1 ALN 1 PTA (b)`, `AR 152 PA 1 ALN 1 PTA (c) PTI (vi)`, `AR 152 PA 1a ALN 1`, `AR 152 PA 1b ALN 2` · *amended by* `32026R1739`
+
+Point (a) of Article 152(1)(1) now specifies that producer organisations must be controlled by farmer members producing agricultural products of the soil or of stockfarming, adds that recognition may be granted for one or more listed sectors provided the organisation meets the conditions for all of them, and allows Member States to permit that control to be exercised through associations of such farmers. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
+
+Point (b) of Article 152(1)(1) now describes the organisations as formed on the initiative of farmers producing agricultural products of the soil or of stockfarming rather than simply producers, and point (c)(vi) now also refers to carrying out initiatives promoting short supply chains or use of the optional terms referred to in Article 88a. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
+
+Article 152(1a)(1) now extends the derogation to producer organisations, including cooperatives or equivalent legal forms, that have applied for but not yet received recognition, subject to meeting the requirements of paragraph 1 and Article 154, and sets time limits for using that derogation tied to the recognition period or a five-year window from the application date, while Article 152(1b)(2) adds a new rule allowing associations of producer organisations that do not meet certain conditions in paragraph 1a to still carry out the paragraph 1a activities if their members individually satisfy specified conditions including a 36% national production volume cap. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
+
+*before* (`02013R1308-20260318`)
+
+> Article 152
+> Producer organisations
+> 1. Member States may, on request, recognise producer organisations, which:
+> (a) are constituted, and controlled in accordance with point (c) of Article 153(2), by producers in a specific sector listed in Article 1(2);
+> (b) are formed on the initiative of the producers and which carry out at least one of the following activities:
+> (i) joint processing;
+> (ii) joint distribution, including by joint selling platforms or joint transportation;
+> (iii) joint packaging, labelling or promotion;
+> (iv) joint organising of quality control;
+> (v) joint use of equipment or storage facilities;
+> (vi) joint management of waste directly related to the production;
+> (vii) joint procurement of inputs;
+> (viii) any other joint service activities pursuing one of the objectives listed in point (c) of this paragraph;
+> (c) pursue a specific aim which may include at least one of the following objectives:
+> (i) ensuring that production is planned and adjusted to demand, particularly in terms of quality and quantity;
+> (ii) concentration of supply and the placing on the market of the products produced by its members, including through direct marketing;
+> (iii) optimising production costs and returns on investments in response to environmental and animal welfare standards, and stabilising producer prices;
+> (iv) carrying out research and developing initiatives on sustainable production methods, innovative practices, economic competitiveness and market developments;
+> (v) promoting, and providin […truncated by emendrix: 5219 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 152
+> Producer organisations
+> 1. Member States may, on request, recognise producer organisations, which:
+> (a) are constituted by producers in a specific sector listed in Article 1(2) and are controlled by farmer members producing agricultural products of the soil or of stockfarming, in accordance with Article 153(2), point (c); a recognition may be granted for one or more of the specific sectors listed in Article 1(2) provided that the producer organisation fulfils the conditions for recognition for all of them;
+> Member States may decide that the control by the farmer members referred to in this point can be exercised by associations of farmers producing agricultural products of the soil or stockfarming provided that these associations are controlled by those farmers;
+> (b) are formed on the initiative of farmers producing agricultural products of the soil or of stockfarming and carry out at least one of the following activities:
+> (i) joint processing;
+> (ii) joint distribution, including by joint selling platforms or joint transportation;
+> (iii) joint packaging, labelling or promotion;
+> (iv) joint organising of quality control;
+> (v) joint use of equipment or storage facilities;
+> (vi) joint management of waste directly related to the production;
+> (vii) joint procurement of inputs;
+> (viii) any other joint service activities pursuing one of the objectives listed in point (c) of this paragraph;
+> (c) pursue a specific aim which may include at least one of the following objectives:
+> (i) ens […truncated by emendrix: 7589 characters omitted…]
+
+**MODIFIED · Art. 153 — Statutes of producer organisations** · applies from: unchanged
+
+*within* `AR 153 PA 1 ALN 1 PTA (b)`, `AR 153 PA 2 ALN 1 PTA (c)`, `AR 153 PA 2a ALN 1` · *amended by* `32026R1739`
+
+Point (b) of paragraph 1 now adds a clarification that any given product refers to products that are sufficiently distinct, in particular on the basis of their characteristics or intended final uses. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153)
+
+Point (c) of paragraph 2 now refers to farmer members producing agricultural products of the soil or of stockfarming having democratic scrutiny rights, rather than to producer members generally. [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153) [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153)
+
+Paragraph 2a now speaks of members generally rather than producer members being in direct contact with purchasers, extends the safeguard to cover the objectives pursued by the producer organisation including concentration of supply and placing of products on the market, and adds a new sentence allowing the statutes to include internal control and prevention mechanisms to ensure such contact does not adversely affect the organisation's objectives, including concentration of supply. [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153) [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153)
+
+*before* (`02013R1308-20260318`)
+
+> Article 153
+> Statutes of producer organisations
+> 1. The statutes of a producer organisation shall require its producer members, in particular, to:
+> (a) apply the rules adopted by the producer organisation relating to production reporting, production, marketing and protection of the environment;
+> (b) be members of only one producer organisation for any given product of the holding; however Member States may derogate from this condition in duly justified cases where producer members hold two distinct production units located in different geographical areas;
+> (c) provide the information requested by the producer organisation for statistical purposes.
+> 2. The statutes of a producer organisation shall also provide for:
+> (a) procedures for determining, adopting and amending the rules referred to in point (a) of paragraph 1;
+> (b) the imposition on members of financial contributions needed to finance the producer organisation;
+> (c) rules enabling the producer members to scrutinise democratically their organisation and its decisions as well as its accounts and budgets;
+> (d) penalties for infringement of obligations under the statutes, particularly for non-payment of financial contributions, or of the rules laid down by the producer organisation;
+> (e) rules on the admission of new members, and in particular the minimum period of membership which may not be less than one year;
+> (f) the accounting and budgetary rules necessary for the operation of the organisation.
+> 2a. The statutes of a producer org […truncated by emendrix: 552 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 153
+> Statutes of producer organisations
+> 1. The statutes of a producer organisation shall require its producer members, in particular, to:
+> (a) apply the rules adopted by the producer organisation relating to production reporting, production, marketing and protection of the environment;
+> (b) be members of only one producer organisation for any given product of the holding, where any given product refers to products which are sufficiently distinct, in particular on the basis of their characteristics or intended final uses;
+> however, Member States may derogate from this condition in duly justified cases where producer members hold two distinct production units located in different geographical areas;
+> (c) provide the information requested by the producer organisation for statistical purposes.
+> 2. The statutes of a producer organisation shall also provide for:
+> (a) procedures for determining, adopting and amending the rules referred to in point (a) of paragraph 1;
+> (b) the imposition on members of financial contributions needed to finance the producer organisation;
+> (c) rules enabling the farmer members producing agricultural products of the soil or of stockfarming to scrutinise democratically their organisation and its decisions as well as its accounts and budgets;
+> (d) penalties for infringement of obligations under the statutes, particularly for non-payment of financial contributions, or of the rules laid down by the producer organisation;
+> (e) rules on the admission of new membe […truncated by emendrix: 1155 characters omitted…]
+
+**MODIFIED · Art. 157 — Interbranch organisations** · applies from: unchanged
+
+*within* `AR 157 PA 1 ALN 1 PTA (c) PTI (xvii)` · *amended by* `32026R1739`
+
+A new point (xvii) has been added to the list of objectives in Article 157(1)(c), covering the promotion of the use of the optional terms referred to in Article 88a. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_157)
+
+*before* (`02013R1308-20260318`)
+
+> Article 157
+> Interbranch organisations
+> 1. Member States may, on request, recognise interbranch organisations at national and regional levels and at the level of the economic areas referred to in Article 164(2) in a specific sector listed in Article 1(2) which:
+> (a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;
+> (b) are formed on the initiative of all or some of the organisations or associations which constitute them;
+> (c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:
+> (i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;
+> (ii) forecasting of production potential, and recording public market prices;
+> (iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;
+> (iv) exploring potential export markets;
+> (v) without prejudice to Articles 148 and 168, drawing up standard forms of contract […truncated by emendrix: 6742 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 157
+> Interbranch organisations
+> 1. Member States may, on request, recognise interbranch organisations at national and regional levels and at the level of the economic areas referred to in Article 164(2) in a specific sector listed in Article 1(2) which:
+> (a) are constituted of representatives of economic activities linked to the production and to at least one of the following stages of the supply chain: the processing of or trade in, including distribution of, products in one or more sectors;
+> (b) are formed on the initiative of all or some of the organisations or associations which constitute them;
+> (c) pursue a specific aim taking account of the interests of their members and of consumers, which may include, in particular, one of the following objectives:
+> (i) improving knowledge and the transparency of production and the market, including by publication of aggregated statistical data on production costs, prices, including, where appropriate, price indices, volumes and duration of contracts which have been previously concluded, and by providing analyses of potential future market developments at regional, national or international level;
+> (ii) forecasting of production potential, and recording public market prices;
+> (iii) helping to coordinate better the way the products are placed on the market, in particular by means of research and market studies;
+> (iv) exploring potential export markets;
+> (v) without prejudice to Articles 148 and 168, drawing up standard forms of contract […truncated by emendrix: 6817 characters omitted…]
+
+**MODIFIED · Art. 168** · applies from: unknown
+
+*amended by* `32026R1739`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 210a — Vertical and horizontal initiatives for sustainability** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 210a PA 3 ALN 1 PTA (a)`, `AR 210a PA 3 ALN 1 PTA (c)`, `AR 210a PA 3 ALN 1 PTA (d)`, `AR 210a PA 3 ALN 1 PTA (e)`, `AR 210a PA 3 ALN 1 PTA (f)`, `AR 210a PA 6 ALN 1`, `AR 210a PA 6 ALN 2`, `AR 210a PA 6 ALN 3`, `AR 210a PA 6 ALN 4`, `AR 210a PA 6 ALN 5` · *dates* +2009-11-30 +2028-08-19 · *amended by* `32026R1739`
+
+Paragraph 3 expands the list of objectives a sustainability standard can contribute to: point (a) is elaborated with references to irrigation systems and nutrient recycling of livestock manure, and three new points are added covering the economic viability of small family farms with standard output not exceeding EUR 100000 as defined by reference to Council Regulation (EC) No 1217/2009, attracting and supporting young producers, and improving working and safety conditions. [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
+
+Paragraph 6 now distinguishes two opinion-request windows for producers: one from 8 December 2023 covering the objectives in paragraph 3 points (a), (b) and (c), and a new one from 19 August 2028 covering the objectives in paragraph 3 points (d), (e) and (f). [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
+
+The wording on the Commission sending its opinion and on declaring future application of Article 101(1) TFEU, and on amending an opinion, is rephrased without changing its substance compared with the earlier version. [Art. 210a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_210a) [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
+
+*before* (`02013R1308-20260318`)
+
+> Article 210a
+> Vertical and horizontal initiatives for sustainability
+> 1. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of producers of agricultural products that relate to the production of or trade in agricultural products and that aim to apply a sustainability standard higher than mandated by Union or national law, provided that those agreements, decisions and concerted practices only impose restrictions of competition that are indispensable to the attainment of that standard.
+> 2. Paragraph 1 applies to agreements, decisions and concerted practices of producers of agricultural products to which several producers are party or to which one or more producers and one or more operators at different levels of the production, processing, and trade in the food supply chain, including distribution, are party.
+> 3. For the purposes of paragraph 1, sustainability standard means a standard which aims to contribute to one or more of the following objectives:
+> (a) environmental objectives, including climate change mitigation and adaptation, the sustainable use and protection of landscapes, water and soil, the transition to a circular economy, including the reduction of food waste, pollution prevention and control, and the protection and restoration of biodiversity and ecosystems;
+> (b) the production of agricultural products in ways that reduce the use of pesticides and manage risks resulting from such use, or that reduce the danger of antimicrobial resista […truncated by emendrix: 2420 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 210a
+> Vertical and horizontal initiatives for sustainability
+> 1. Article 101(1) TFEU shall not apply to agreements, decisions and concerted practices of producers of agricultural products that relate to the production of or trade in agricultural products and that aim to apply a sustainability standard higher than mandated by Union or national law, provided that those agreements, decisions and concerted practices only impose restrictions of competition that are indispensable to the attainment of that standard.
+> 2. Paragraph 1 applies to agreements, decisions and concerted practices of producers of agricultural products to which several producers are party or to which one or more producers and one or more operators at different levels of the production, processing, and trade in the food supply chain, including distribution, are party.
+> 3. For the purposes of paragraph 1, sustainability standard means a standard which aims to contribute to one or more of the following objectives:
+> (a) environmental objectives, including: climate change mitigation and adaptation; the sustainable use and protection of landscapes, water and soil, including through irrigation systems; the transition to a circular economy, including the reduction of food waste and the nutrient recycling of livestock manure into organic fertilisers or energy production; and pollution prevention and control; as well as the protection and restoration of biodiversity and ecosystems;
+> (b) the production of agricultural […truncated by emendrix: 3705 characters omitted…]
+
+**MODIFIED · Art. 222 — Application of Article 101(1) TFEU** · applies from: unchanged
+
+*within* `AR 222 PA 1 ALN 1`, `AR 222 PA 1 ALN 2`, `AR 222 PA 1 ALN 3`, `AR 222 PA 1 ALN 4` · *amended by* `32026R1739`
+
+A new subparagraph was added stating that where the Commission adopts such implementing acts, it may decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned, with such financial support providing the means necessary for the implementation without delay of those agreements and decisions by the operators concerned. [Art. 222, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222)
+
+The following subparagraph on implementing acts was revised to add that the Commission shall also specify, where applicable, the amount of the agricultural reserve allocated to the Member State concerned under the newly inserted subparagraph, alongside the previously specified scope and duration of the derogation. [Art. 222, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_222) [Art. 222, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222)
+
+*before* (`02013R1308-20260318`)
+
+> Article 222
+> Application of Article 101(1) TFEU
+> 1. During periods of severe imbalance in markets, the Commission may adopt implementing acts to the effect that Article 101(1) TFEU is not to apply to agreements and decisions of farmers, farmers' associations, or associations of such associations, or recognised producer organisations, associations of recognised producer organisations and recognised interbranch organisations in any of the sectors referred to in Article 1(2) of this Regulation, provided that such agreements and decisions do not undermine the proper functioning of the internal market, strictly aim to stabilise the sector concerned and fall under one or more of the following categories:
+> (a) market withdrawal or free distribution of their products;
+> (b) transformation and processing;
+> (c) storage by private operators;
+> (d) joint promotion measures;
+> (e) agreements on quality requirements;
+> (f) joint purchasing of inputs necessary to combat the spread of pests and diseases in animals and plants in the Union or of inputs necessary to address the effects of natural disasters in the Union;
+> (g) temporary planning of production taking into account the specific nature of the production cycle.
+> The Commission shall specify in implementing acts the substantive and geographic scope of this derogation and, subject to paragraph 3, the period for which the derogation applies.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22 […truncated by emendrix: 643 characters omitted…]
+
+*after* (`02013R1308-20260818`)
+
+> Article 222
+> Application of Article 101(1) TFEU
+> 1. During periods of severe imbalance in markets, the Commission may adopt implementing acts to the effect that Article 101(1) TFEU is not to apply to agreements and decisions of farmers, farmers’ associations, or associations of such associations, or recognised producer organisations, associations of recognised producer organisations and recognised interbranch organisations in any of the sectors referred to in Article 1(2) of this Regulation, provided that such agreements and decisions do not undermine the proper functioning of the internal market, strictly aim to stabilise the sector concerned and fall under one or more of the following categories:
+> (a) market withdrawal or free distribution of their products;
+> (b) transformation and processing;
+> (c) storage by private operators;
+> (d) joint promotion measures;
+> (e) agreements on quality requirements;
+> (f) joint purchasing of inputs necessary to combat the spread of pests and diseases in animals and plants in the Union or of inputs necessary to address the effects of natural disasters in the Union;
+> (g) temporary planning of production taking into account the specific nature of the production cycle.
+> Where the Commission adopts implementing acts in accordance with the first subparagraph of this paragraph, it may decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned. Such financial suppor […truncated by emendrix: 1250 characters omitted…]
+
+**MODIFIED · Art. 222a — Union market observatories** · applies from: unchanged
+
+*within* `AR 222a PA 2 ALN 1` · *amended by* `32026R1739`
+
+Paragraph 2 now adds a sentence stating that the Commission may make a specific distinction between organic and non-organic production within the Union market observatories. [Art. 222a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222a)
+
+The rest of Article 222a, including paragraphs 1, 3 and 4, remains textually unchanged between the two versions. [Art. 222a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_222a) [Art. 222a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222a)
+
+*before* (`02013R1308-20260318`)
+
+> Article 222a
+> Union market observatories
+> 1. In order to improve transparency within the food supply chain, to inform the choices of economic operators and public authorities, to facilitate the monitoring of market developments and threats of market disturbance, the Commission shall establish Union market observatories.
+> 2. The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established.
+> 3. The Union market observatories shall make available the statistical data and information necessary for the monitoring of market developments and threats of market disturbance, in particular:
+> (a) production, supply and stocks;
+> (b) prices, costs and, as far as possible, profit margins at all levels of the food supply chain;
+> (c) short- and medium-term market forecasts;
+> (d) imports and exports of agricultural products, in particular the filling of tariff quotas for the import of agricultural products into the Union.
+> The Union market observatories shall produce reports containing the elements referred to in the first subparagraph.
+> 4. The Member States shall collect the information referred to in paragraph 3 and provide it to the Commission.
+
+*after* (`02013R1308-20260818`)
+
+> Article 222a
+> Union market observatories
+> 1. In order to improve transparency within the food supply chain, to inform the choices of economic operators and public authorities, to facilitate the monitoring of market developments and threats of market disturbance, the Commission shall establish Union market observatories.
+> 2. The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established. The Commission may make a specific distinction between organic and non-organic production within those observatories.
+> 3. The Union market observatories shall make available the statistical data and information necessary for the monitoring of market developments and threats of market disturbance, in particular:
+> (a) production, supply and stocks;
+> (b) prices, costs and, as far as possible, profit margins at all levels of the food supply chain;
+> (c) short- and medium-term market forecasts;
+> (d) imports and exports of agricultural products, in particular the filling of tariff quotas for the import of agricultural products into the Union.
+> The Union market observatories shall produce reports containing the elements referred to in the first subparagraph.
+> 4. The Member States shall collect the information referred to in paragraph 3 and provide it to the Commission.
+
+**MODIFIED · Annex VII** · applies from: unknown
+
+*amended by* `32026R1739`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex X** · applies from: unknown
+
+*amended by* `32026R1739`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20260818 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20260318 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20241108` → `02013R1308-20260318`
