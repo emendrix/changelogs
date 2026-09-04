@@ -607,10 +607,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
 ### `02019R1021-20200704` → `02019R1021-20200907`
 
-- **Act** `eu:32019R1021` · **In force** 2020-09-07 · **Detected** 2026-08-13
+- **Act** `eu:32019R1021` · **In force** 2020-09-07 · **Detected** 2026-09-04
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20200704` · `v2` = `02019R1021-20200907`
 
 ---
@@ -619,21 +619,35 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I` · *dates* +2024-09-07 +2025-09-07 · *amended by* `32020R1204`, `32020R1203`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The PFOS entry's point 4 changed from an open-ended derogation for mist suppressant use in non-decorative hard chromium (VI) plating with four-yearly Member State progress reports, to a derogation for that same use running only until 7 September 2025, paired with a requirement for Member States using PFOS to report to the Commission by 7 September 2024 and justify continued need, and a Commission review by 7 September 2025 of whether to prolong the derogation for up to five years. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200704#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200907#anx_I)
+
+A new line item for Dicofol, with CAS number 115-32-2, EC number 204-082-0 and no specific exemption listed, was added at the end of Part A before the Part B heading. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200907#anx_I)
 
 *before* (`02019R1021-20200704`)
 
 > ANNEX I
 > Part A
 > Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
-> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).OJ C 10, 13.1.2016, p. 3.Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced […truncated by emendrix: 21483 characters omitted…]
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).
+> Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+> Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).
+> Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).
+> OJ C 10, 13.1.2016, p. 3.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been rep […truncated by emendrix: 21497 characters omitted…]
 
 *after* (`02019R1021-20200907`)
 
 > ANNEX I
 > Part A
 > Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
-> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).OJ C 10, 13.1.2016, p. 3.Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced […truncated by emendrix: 21739 characters omitted…]
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).
+> Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+> Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).
+> Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).
+> OJ C 10, 13.1.2016, p. 3.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been rep […truncated by emendrix: 21753 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1021-20200907 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20200704 -->
