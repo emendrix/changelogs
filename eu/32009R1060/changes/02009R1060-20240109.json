@@ -134,7 +134,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -215,7 +216,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -277,7 +279,7 @@
           "AR 11a",
           "AR 13a"
         ],
-        "note": "32023R2869, 1.000 of its instruction clauses read",
+        "note": "32023R2869, 0.100 of its instruction clauses read",
         "claims": [
           {
             "location": "AR 11a PA 2",
@@ -351,6 +353,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 6736,
       "output_tokens": 468,
@@ -370,5 +375,21 @@
     "citations_rejected": 0,
     "notes_dropped": 1,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 0,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
