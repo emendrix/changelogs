@@ -442,28 +442,16 @@ In the list of provisions tied to Eudamed functionality under point (d), the ref
 ### `02017R0745-20200424` → `02017R0745-20230311`
 
 - **Act** `eu:32017R0745` · **In force** 2023-03-11 · **Detected** 2026-08-12
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 139 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 139 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02017R0745-20200424` · `v2` = `02017R0745-20230311`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32023R0502`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 44 — Monitoring and re-assessment of notified bodies** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 44 PA 10 ALN 1`, `AR 44 PA 10 ALN 2`, `AR 44 PA 10 ALN 3` · *dates* +2023-03-11 · *amended by* `32023R0502`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — ModelAPIError: Connection error..*
 
