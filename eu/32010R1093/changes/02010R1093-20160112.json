@@ -15,21 +15,21 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 4,
+    "modified": 3,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 4,
+    "touched_units": 3,
     "unchanged_units": 84,
-    "disputed": 2
+    "disputed": 1
   },
   "counts": {
-    "touched": 4,
-    "substantive": 4,
+    "touched": 3,
+    "substantive": 3,
     "date_only": 0,
-    "disputed": 2,
+    "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -162,7 +162,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -213,7 +214,7 @@
           },
           "instruction_parse": {
             "status": "observed",
-            "detail": "AR 112 (2)",
+            "detail": "AR 110; AR 112 (2)",
             "change_types": [
               "MODIFIED"
             ]
@@ -289,7 +290,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -301,64 +303,7 @@
             "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
           },
           "version": "02010R1093-20160112",
-          "location": "AR 110"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32015L2366",
-            "display_name": "Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "2 annotations in (2014-08-19, 2016-01-12]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 110",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32010R1093",
-            "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
-          },
-          "version": "02010R1093-20160112",
-          "location": "AR 113"
+          "location": "AN I"
         },
         "heading": null,
         "before": null,
@@ -403,7 +348,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -464,13 +410,12 @@
         "units": [
           "AR 1",
           "AR 4",
-          "AR 110",
-          "AR 113"
+          "AN I"
         ],
         "note": "32015L2366, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 110 PA 5",
+            "location": "AR 4 PA 5",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 110",
@@ -503,7 +448,7 @@
             }
           },
           {
-            "location": "AR 113 PO 4",
+            "location": "AN I PO 4",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 113",
@@ -532,47 +477,28 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 2,
-        "right_units": 4,
+        "right_units": 3,
         "shared": 2,
         "precision": 1.0,
-        "recall": 0.5,
-        "f1": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.8,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 2,
-        "right_units": 4,
+        "right_units": 3,
         "shared": 2,
         "precision": 1.0,
-        "recall": 0.5,
-        "f1": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.8,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
       {
-        "unit": "AR 110",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 113",
+        "unit": "AN I",
         "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
         "observed_by": [
           "instruction_parse"
@@ -592,8 +518,7 @@
       }
     ],
     "metadata_only_units": [
-      "AR 110",
-      "AR 113"
+      "AN I"
     ]
   },
   "explain": {
@@ -605,6 +530,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 16374,
       "output_tokens": 1109,
@@ -624,5 +552,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 4,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
