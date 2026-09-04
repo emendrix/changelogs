@@ -1402,7 +1402,7 @@ The provision also adds rating outlooks alongside credit ratings as the subject 
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02009R1060-20110721`)
 
@@ -1676,7 +1676,7 @@ Paragraph 3 gains an added subparagraph requiring a credit rating agency to noti
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02009R1060-20110721`)
 
@@ -2026,7 +2026,7 @@ It also requires a report by 31 December 2014 on a European creditworthiness ass
 > Taking into consideration the findings of the report referred to in the first subparagraph and the situation of the market, the Commission shall, by 31 December 2016, submit a report to the European Parliament and to the Council, on the appropriateness and feasibility of supporting a European credit rating agency dedicated to assessing the creditworthiness of Member States’ sovereign debt and/or a European credit rating foundation for all other credit ratings.
 > 3. The Commission shall, by 31 December 2013, submit a re […truncated by emendrix: 509 characters omitted…]
 
-**MODIFIED · TIT III** · applies from: unknown
+**MODIFIED · Title III** · applies from: unknown
 
 *amended by* `32013R0462`
 
