@@ -134,9 +134,9 @@ In point (q) of section 1, the cross-reference to the marking requirements chang
 ### `02023R1542-20230728` → `02023R1542-20240718`
 
 - **Act** `eu:32023R1542` · **In force** 2024-07-18 · **Detected** 2026-08-12
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02023R1542-20230728` · `v2` = `02023R1542-20240718`
 
 ---
@@ -144,8 +144,6 @@ In point (q) of section 1, the cross-reference to the marking requirements chang
 **MODIFIED · Art. 77 — Battery passport** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 77 PA 10` · *dates* +2024-06-13 · *amended by* `32024R1781`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new paragraph 10 has been added requiring the economic operator that places the battery on the market or puts it into service to upload the unique identifier into the registry referred to in Article 13(1) of Regulation (EU) 2024/1781. [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20240718#art_77)
 
@@ -178,16 +176,6 @@ This paragraph was absent from the earlier version of Article 77, which ended at
 > The purposes for accessing and processing the information as referred to in point (c) of the second subparagraph, shall:
 > (a) concern dismantling of the battery, including safety measures to be taken during the dismantling, and the detailed composition of the battery model and be essential to allow repairers, remanufacturers, second-life operators and recyclers to conduct their respective economic activities in accordance with this Regulation; or
 > (b) in the case of in […truncated by emendrix: 4960 characters omitted…]
-
-**MODIFIED · Art. 78** · applies from: unknown
-
-*amended by* `32024R1781`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1542-20240718 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02023R1542-20230728 -->
