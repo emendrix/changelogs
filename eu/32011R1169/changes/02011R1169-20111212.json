@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R1169",
+    "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+  },
+  "from_version": "32011R1169",
+  "to_version": "02011R1169-20111212",
+  "detected_on": "2026-09-04",
+  "in_force": [],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 69,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R1169",
+            "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+          },
+          "version": "02011R1169-20111212",
+          "location": "AN X"
+        },
+        "heading": "ANNEX X",
+        "before": "ANNEX X\nDATE OF MINIMUM DURABILITY, USE BY DATE AND DATE OF FREEZING\n1. The date of minimum durability shall be indicated as follows:\n(a) the date shall be preceded by the words:\nBest before … when the date includes an indication of the day,\nBest before end … in other cases,\n(b) the words referred to in point (a) shall be accompanied by:\neither the date itself, or,\na reference to where the date is given on the labelling,\nIf need be, these particulars shall be followed by a description of the storage conditions which must be observed if the product is to keep for the specified period;\n(c) the date shall consist of the day, the month and possibly, the year, in that order and in uncoded form.\nHowever, in the case of foods:\nwhich will not keep for more than 3 months, an indication of the day and the month shall be sufficient,\nwhich will keep for more than 3 months but not more than 18 months, an indication of the month and year shall be sufficient,\nwhich will keep for more than 18 months, an indication of the year shall be sufficient,\n(d) subject to Union provisions imposing other types of date indication, an indication of the date of minimum durability shall not be required for:\nfresh fruit and vegetables, including potatoes, which have not been peeled, cut or similarly treated; this derogation shall not apply to sprouting seeds and similar products such as legume sprouts,\nwines, liqueur wines, sparkling wines, aromatised wines, and similar products obtained from fruit other than grapes, and beverages falling within CN code 220600 obtained from grapes or grape musts,\nbeverages containing 10 % or more by volume of alcohol,\nbakers’ or pastry cooks’ wares which, given the nature of their content, are normally consumed within 24 hours of their manufacture,\nvinegar,\ncooking salt,\nsolid sugar,\nconfectionery products consisting almost solely of flavoured and/or coloured sugars,\nchewing gums and similar chewing products,\n2. The use by date shall be indicated as follows:\n(a) it shall be preceded by the words use by …;\n(b) the words in point (a) shall be accompanied by:\neither the date itself, or,\na reference to where the date is given on the labelling,\nThose particulars shall be followed by a description of the storage conditions which must be observed;\n(c) the date shall consist of the day, the month and, possibly, the year, in that order and in uncoded form;\n(d) the use by date shall be indicated on each individual prepacked portion.\n3. The date of freezing or the date of first freezing as referred to in point 6 of Annex III shall be indicated as follows:\n(a) it shall be preceded by the words Frozen on …;\n(b) the words referred to in point (a) shall be accompanied by:\nthe date itself, or,\na reference to where the date is given on the labelling,\n(c) the date shall consist of the day, the month and the year, in that order and in uncoded form.",
+        "after": "\nANNEX X\n\n\nDATE OF MINIMUM DURABILITY, USE BY DATE AND DATE OF FREEZING\n1. The date of minimum durability shall be indicated as follows:\n\n(a) the date shall be preceded by the words:\n\nBest before … when the date includes an indication of the day,\nBest before end … in other cases,\n\n(b) the words referred to in point (a) shall be accompanied by:\n\neither the date itself, or,\na reference to where the date is given on the labelling,\nIf need be, these particulars shall be followed by a description of the storage conditions which must be observed if the product is to keep for the specified period;\n\n(c) the date shall consist of the day, the month and possibly, the year, in that order and in uncoded form.\nHowever, in the case of foods:\n\nwhich will not keep for more than 3 months, an indication of the day and the month shall be sufficient,\nwhich will keep for more than 3 months but not more than 18 months, an indication of the month and year shall be sufficient,\nwhich will keep for more than 18 months, an indication of the year shall be sufficient,\n\n(d) subject to Union provisions imposing other types of date indication, an indication of the date of minimum durability shall not be required for:\n\nfresh fruit and vegetables, including potatoes, which have not been peeled, cut or similarly treated; this derogation shall not apply to sprouting seeds and similar products such as legume sprouts,\nwines, liqueur wines, sparkling wines, aromatised wines, and similar products obtained from fruit other than grapes, and beverages falling within CN code 220600 obtained from grapes or grape musts,\nbeverages containing 10 % or more by volume of alcohol,\nbakers’ or pastry cooks’ wares which, given the nature of their content, are normally consumed within 24 hours of their manufacture,\nvinegar,\ncooking salt,\nsolid sugar,\nconfectionery products consisting almost solely of flavoured and/or coloured sugars,\n\nchewing gums and similar chewing products.\n\n2. The use by date shall be indicated as follows:\n\n(a) it shall be preceded by the words use by …;\n\n(b) the words in point (a) shall be accompanied by:\n\neither the date itself, or,\na reference to where the date is given on the labelling,\nThose particulars shall be followed by a description of the storage conditions which must be observed;\n\n\n(c) the date shall consist of the day, the month and, possibly, the year, in that order and in uncoded form;\n\n(d) the use by date shall be indicated on each individual prepacked portion.\n3. The date of freezing or the date of first freezing as referred to in point 6 of Annex III shall be indicated as follows:\n\n(a) it shall be preceded by the words Frozen on …;\n\n(b) the words referred to in point (a) shall be accompanied by:\n\nthe date itself, or,\na reference to where the date is given on the labelling,\n\n(c) the date shall consist of the day, the month and the year, in that order and in uncoded form.",
+        "previous_location": null,
+        "changed_within": [
+          "AN X PO 1 PTA (d)"
+        ],
+        "amending_acts": [],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "unavailable",
+            "detail": "0 annotations in (the act itself, 2011-12-12]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "unavailable",
+            "detail": "no amending act in this window",
+            "change_types": []
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The list of exemptions in point 1(d) now ends with a full stop after the reference to chewing gums and similar chewing products, where it previously ended with a comma.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "32011R1169",
+                "location": "AN X"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32011R1169#anx_X",
+              "label": "Annex X, 32011R1169"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20111212",
+                "location": "AN X"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20111212#anx_X",
+              "label": "Annex X, 02011R1169-20111212"
+            }
+          ]
+        },
+        {
+          "text": "This is a formatting change to the punctuation closing the list, with no wording added or removed from the exemptions themselves.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R1169",
+                  "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+                },
+                "version": "02011R1169-20111212",
+                "location": "AN X"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R1169-20111212#anx_X",
+              "label": "Annex X, 02011R1169-20111212"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R1169",
+      "display_name": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance"
+    },
+    "from_version": "32011R1169",
+    "to_version": "02011R1169-20111212",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN X"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": false,
+        "units": [],
+        "note": "0 annotations in (the act itself, 2011-12-12]",
+        "claims": []
+      },
+      {
+        "signal": "instruction_parse",
+        "available": false,
+        "units": [],
+        "note": "no amending act in this window",
+        "claims": []
+      }
+    ],
+    "agreements": [],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 4271,
+      "output_tokens": 195,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 3,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
