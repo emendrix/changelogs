@@ -10,6 +10,299 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20170801 -->
+## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
+### `02013R1308-20160731` → `02013R1308-20170801`
+
+- **Act** `eu:32013R1308` · **In force** not stated · **Detected** 2026-09-04
+- **Touched** 11 provisions — 11 substantive · 0 date-only · **0 disputed**
+- **Diff** 1 inserted · 7 modified · 3 deleted · 0 renumbered · 0 deferred · 237 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02013R1308-20160731` · `v2` = `02013R1308-20170801`
+
+---
+
+**MODIFIED · Art. 22 — Target group** · applies from: unchanged
+
+*within* `AR 22 ALN 1`
+
+The provision changes from referring to plural 'aid schemes' to a single 'aid scheme', with matching adjustment of the verb from plural to singular. [Art. 22, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_22) [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_22)
+
+*before* (`02013R1308-20160731`)
+
+> Article 22
+> Target group
+> Aid schemes intended to improve the distribution of agricultural products and improving children's eating habits are aimed at children who regularly attend nurseries, pre-schools or primary or secondary-level educational establishments which are administered or recognised by the competent authorities of Member States.
+
+*after* (`02013R1308-20170801`)
+
+> Article 22
+> Target group
+> The aid scheme intended to improve the distribution of agricultural products and improving children's eating habits is aimed at children who regularly attend nurseries, pre-schools or primary or secondary-level educational establishments which are administered or recognised by the competent authorities of Member States.
+
+**MODIFIED · Art. 23 — Aid for the supply of school fruit and vegetables and of school milk, accompanying educational measures and related costs** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 23`, `AR 23 PA 1 ALN 1`, `AR 23 PA 1 ALN 1 PTA (a)`, `AR 23 PA 1 ALN 1 PTA (b)`, `AR 23 PA 1 ALN 1 PTA (c)`, `AR 23 PA 1 ALN 2`, `AR 23 PA 2 ALN 1`, `AR 23 PA 2 ALN 1 PTA (a)`, `AR 23 PA 2 ALN 1 PTA (b)`, `AR 23 PA 3 ALN 1`, `AR 23 PA 3 ALN 1 PTA (a)`, `AR 23 PA 3 ALN 1 PTA (b)`, `AR 23 PA 3 ALN 2`, `AR 23 PA 3 ALN 3`, `AR 23 PA 3 ALN 4`, `AR 23 PA 4 ALN 1`, `AR 23 PA 4 ALN 1 PTA (a)`, `AR 23 PA 4 ALN 1 PTA (b)`, `AR 23 PA 5 ALN 1`, `AR 23 PA 5 ALN 2`, `AR 23 PA 5 ALN 3`, `AR 23 PA 6 ALN 1`, `AR 23 PA 6 ALN 1 PTA (a)`, `AR 23 PA 6 ALN 1 PTA (b)`, `AR 23 PA 6 ALN 1 PTA (c)`, `AR 23 PA 6 ALN 1 PTA (d)`, `AR 23 PA 6 ALN 1 PTA (e)`, `AR 23 PA 6 ALN 2`, `AR 23 PA 7 ALN 1`, `AR 23 PA 8 ALN 1`, `AR 23 PA 8 ALN 2`, `AR 23 PA 9 ALN 1`, `AR 23 PA 10 ALN 1`, `AR 23 PA 11` · *dates* +2008-12-16
+
+The provision's title, scope and structure changed from an aid scheme limited to fruit, vegetables, processed fruit and vegetables, and bananas to a combined scheme covering both school fruit and vegetables and school milk, with expanded definitions, product groupings, and accompanying educational measures. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_23)
+
+The aid categories, eligibility criteria, health and additive restrictions, strategy requirements and the involvement of national health and nutrition authorities were all substantially rewritten and expanded compared to the earlier text, which addressed only fruit, vegetables and bananas without such added-ingredient restrictions or milk provisions. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_23)
+
+The provisions on national aid, non-replacement of existing schemes, and public information on Union financing found in the earlier text are absent from the later text, which instead sets out new rules on strategy periodicity, product selection criteria, and educational measures. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_23)
+
+*before* (`02013R1308-20160731`)
+
+> Article 23
+> Aid for the supply of fruit and vegetables, processed fruit and vegetables and banana products to children
+> 1. Union aid shall be granted for:
+> (a) the supply to children in the educational establishments referred to in Article 22 of products of the fruit and vegetables, processed fruit and vegetables, and bananas sectors; and
+> (b) certain related costs linked to logistics and distribution, equipment, publicity, monitoring, evaluation and accompanying measures.
+> 2. Member States wishing to participate in the scheme shall draw up, at national or regional level, a prior strategy for its implementation. They shall also provide for the accompanying measures necessary to make the scheme effective, which may include information on measures for education about healthy eating habits, about local food chains and about combating food wastage.
+> 3. When drawing up their strategies, Member States shall draw up a list of products of the fruit and vegetables, processed fruit and vegetables, and bananas sectors that will be eligible under their respective schemes. This list shall not include products that are listed in Annex V.
+> However, in duly justified cases, such as where a Member State wants to ensure a broad assortment of products under its scheme or wants to make its scheme more attractive, its strategy may provide that such products may become eligible if only limited amounts of the substances referred to in that Annex are added.
+> Member States shall ensure that their competent h […truncated by emendrix: 2719 characters omitted…]
+
+*after* (`02013R1308-20170801`)
+
+> Article 23
+> Aid for the supply of school fruit and vegetables and of school milk, accompanying educational measures and related costs
+> 1. Union aid shall be granted in respect of children in the educational establishments referred to in Article 22:
+> (a) for the supply and distribution of eligible products referred to in paragraphs 3, 4 and 5 of this Article;
+> (b) for accompanying educational measures; and
+> (c) to cover certain related costs linked to equipment, publicity, monitoring and evaluation, and, insofar as those costs are not covered by point (a) of this subparagraph, logistics and distribution.
+> The Council shall, in accordance with Article 43(3) TFEU, lay down limits for the proportion of Union aid covering measures and costs referred to in points (b) and (c) of the first subparagraph of this paragraph.
+> 2. For the purposes of this Section:
+> (a) school fruit and vegetables means the products referred to in point (a) of paragraph 3 and point (a) of paragraph 4;
+> (b) school milk means the products referred to in point (b) of paragraph 3 and point (b) of paragraph 4, as well as the products referred to in Annex V.
+> 3. Member States wishing to participate in the aid scheme established pursuant to paragraph 1 (the school scheme) and requesting the corresponding Union aid shall, taking into account national circumstances, prioritise the distribution of products of either or both of the following groups:
+> (a) fruit and vegetables and fresh products of the banana sector;
+> (b) drinking […truncated by emendrix: 5118 characters omitted…]
+
+**INSERTED · Art. 23a — Financing provisions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+This provision is entirely new, setting out financing rules for the school scheme, including an overall aid ceiling of EUR 250 million per school year split between school fruit and vegetables and school milk, criteria for allocating aid among Member States, rules on requesting and transferring allocations, the relationship with national school schemes, optional national aid, and provisions on Union financing of information and publicity measures. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_23a)
+
+It also requires Member States participating in the scheme to publicise their involvement and the Union subsidy at school premises or other relevant places. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_23a)
+
+*after* (`02013R1308-20170801`)
+
+> Article 23a
+> Financing provisions
+> 1. Without prejudice to paragraph 4 of this Article, the aid under the school scheme allocated for the distribution of products, the accompanying educational measures and the related costs referred to in Article 23(1) shall not exceed EUR 250 million per school year.
+> Within that overall limit, the aid shall not exceed:
+> (a) for school fruit and vegetables: EUR 150 million per school year;
+> (b) for school milk: EUR 100 million per school year.
+> 2. The aid referred to in paragraph 1 shall be allocated to each Member State taking into account the following:
+> (a) the number of six- to ten-year-old children in the Member State concerned;
+> (b) the degree of development of the regions within the Member State concerned so as to ensure that higher aid is allocated to less developed regions and to the smaller Aegean Islands within the meaning of Article 1(2) of Regulation (EU) No 229/2013; and
+> (c) for school milk, in addition to the criteria referred to in points (a) and (b), the historical use of the Union aid for the supply of milk and milk products to children.
+> The allocations for the Member States concerned shall ensure that higher aid is allocated to the outermost regions listed in Article 349 TFEU in order to take into account the specific situation of those regions in the sourcing of products and to promote such sourcing between outermost regions that are in geographical proximity to each other.
+> The allocations for school milk resulting from the appli […truncated by emendrix: 4189 characters omitted…]
+
+**MODIFIED · Art. 24 — Delegated powers** · applies from: unchanged
+
+*within* `AR 24 PA 1 ALN 1`, `AR 24 PA 1 ALN 1 PTA (a)`, `AR 24 PA 1 ALN 1 PTA (c)`, `AR 24 PA 2 ALN 1`, `AR 24 PA 2 ALN 1 PTA (a)`, `AR 24 PA 2 ALN 1 PTA (b)`, `AR 24 PA 2 ALN 1 PTA (c)`, `AR 24 PA 3 ALN 1`, `AR 24 PA 3 ALN 2`, `AR 24 PA 4`, `AR 24 PA 5`, `AR 24 PA 6`
+
+The provision now refers to the 'school scheme' rather than the earlier 'school fruit and vegetables scheme', and paragraph 1's rules on additional criteria now concern eligibility of the target group in Article 22 rather than targeting of aid by Member States, with the accompanying-measures reference now qualified as 'educational' measures. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_24)
+
+Paragraph 2 drops the former point on reallocating indicative aid allocations between Member States and instead addresses identification of eligible costs and measures, retaining only a modified obligation on monitoring and evaluation. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_24)
+
+Paragraph 3 is replaced with new delegated-power subject matter on artificial flavour-enhancers and maximum levels of added sugar, salt and fat, and the text adds new paragraphs 4, 5 and 6 covering publicity and visibility requirements, distribution rules relative to other meals, and an obligation on Member States to explain in their strategies how Union aid is reflected in product prices. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_24)
+
+*before* (`02013R1308-20160731`)
+
+> Article 24
+> Delegated powers
+> 1. In order to promote the healthy eating habits of children and to ensure that the aid is aimed at children in the target group referred to in Article 22, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules on:
+> (a) the additional criteria related to the targeting of aid by Member States;
+> (b) the approval and selection of aid applicants by Member States;
+> (c) the drawing-up of the national or regional strategies and on accompanying measures.
+> 2. In order to ensure the efficient and targeted use of Union funds, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning:
+> (a) the method for reallocating the indicative allocation of aid referred to in Article 23(5) between Member States on the basis of requests for aid received;
+> (b) the costs in Member States' strategies that are eligible for Union aid and the possibility of fixing an overall ceiling for specific costs;
+> (c) the obligation for Member States to monitor and evaluate the effectiveness of their school fruit and vegetables schemes.
+> 3. In order to promote awareness of the scheme, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 requiring Member States with a school fruit and vegetables scheme to publicise the subsidising role of the Union aid.
+
+*after* (`02013R1308-20170801`)
+
+> Article 24
+> Delegated powers
+> 1. In order to promote the healthy eating habits of children and to ensure that the aid under the school scheme is aimed at children in the target group referred to in Article 22, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning rules on:
+> (a) the additional criteria related to the eligibility of the target group referred to in Article 22;
+> (b) the approval and selection of aid applicants by Member States;
+> (c) the drawing up of the national or regional strategies and on the accompanying educational measures.
+> 2. In order to ensure the efficient and targeted use of Union funds and to facilitate the implementation of the school scheme, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning:
+> (a) the identification of costs and measures that are eligible for Union aid;
+> (b) the obligation for Member States to monitor and evaluate the effectiveness of their school scheme.
+> 3. In order to take account of scientific developments, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 in order to supplement the list of artificial flavour-enhancers referred to in point (e) of the first subparagraph of Article 23(6).
+> In order to ensure that products distributed in accordance with Article 23(3), (4) and (5) meet the objectives of the school scheme, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 […truncated by emendrix: 1469 characters omitted…]
+
+**MODIFIED · Art. 25 — Implementing powers in accordance with the examination procedure** · applies from: unchanged
+
+*within* `AR 25 ALN 1`, `AR 25 ALN 1 PTA (b)`, `AR 25 ALN 1 PTA (c)`, `AR 25 ALN 1 PTA (d)`, `AR 25 ALN 1 PTA (e)`
+
+The introductory sentence now refers to 'this Section' rather than 'this Subsection' and describes the Commission adopting measures by means of implementing acts rather than adopting implementing acts laying down measures, and it refers throughout to the 'school scheme' rather than 'the scheme'. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_25)
+
+Point (b) now adds a reference to simplification of procedures resulting from the common framework for the school scheme, and point (d) now adds annual requests for aid alongside monitoring and evaluation reports. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_25)
+
+A new point (e) has been added covering the application of Article 23a(4), including deadlines for transfers and the submission, format and content of transfer notifications. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_25)
+
+*before* (`02013R1308-20160731`)
+
+> Article 25
+> Implementing powers in accordance with the examination procedure
+> The Commission may adopt implementing acts laying down the measures necessary for the application of this Subsection, including:
+> (a) the information to be contained in Member States' strategies;
+> (b) the aid applications and payments;
+> (c) the methods of publicising, and networking measures in respect of, the scheme;
+> (d) the submission, format and content of monitoring and evaluation reports by Member States participating in the Union school fruit and vegetables scheme.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+*after* (`02013R1308-20170801`)
+
+> Article 25
+> Implementing powers in accordance with the examination procedure
+> The Commission may, by means of implementing acts, adopt the measures necessary for the application of this Section, including those concerning:
+> (a) the information to be contained in Member States' strategies;
+> (b) the aid applications and payments, including the simplification of procedures resulting from the common framework for the school scheme;
+> (c) the methods of publicising, and networking measures in respect of, the school scheme;
+> (d) the submission, format and content of annual requests for aid, monitoring and evaluation reports by Member States participating in the school scheme;
+> (e) the application of Article 23a(4), including on the deadlines for the transfers and on the submission, format and content of transfer notifications.
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+**DELETED · Art. 26 — Aid for the supply of milk and milk products to children** · applies from: unknown (a deleted provision has no application date to move)
+
+Article 26, which set out the rules for Union aid supporting the supply of milk and milk products to children in educational establishments, has been removed entirely and no longer appears in the text. [Art. 26, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_26)
+
+*before* (`02013R1308-20160731`)
+
+> Article 26
+> Aid for the supply of milk and milk products to children
+> 1. Union aid shall be granted for supplying to children in educational establishments referred to in Article 22 certain milk and processed milk products falling within CN codes 0401, 0403, 040490 and 0406 or CN code 220290.
+> 2. From 1 August 2015, Member States, at national or regional level, wishing to participate in the scheme shall have a prior strategy for its implementation. They may also provide for the accompanying measures, which may include information on measures for education about healthy eating habits, about local food chains and about combating food wastage, that are necessary to make the programme effective.
+> 3. When drawing up their strategies, Member States shall draw up a list of milk and milk products that will be eligible under their respective schemes, in accordance with the rules adopted by the Commission pursuant to Article 27.
+> 4. Except for free distribution of meals to children in educational establishments, Union aid referred to in paragraph 1 shall not be used to replace funding for any existing national milk and milk products schemes or other school distribution schemes that include milk or milk products. However, if a Member State already has a scheme in place that would be eligible for Union aid under this Article and intends to extend it or make it more effective, including as regards the target group of the scheme, its duration or eligible products, Union aid may be granted. In s […truncated by emendrix: 848 characters omitted…]
+
+**DELETED · Art. 27 — Delegated powers** · applies from: unknown (a deleted provision has no application date to move)
+
+Article 27, which had set out the Commission's delegated powers concerning the school dairy products scheme, including provisions on eligible products, national strategies, aid eligibility rules, security requirements, publicity conditions, and price monitoring, was removed entirely and no longer appears in the later version. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_27)
+
+*before* (`02013R1308-20160731`)
+
+> Article 27
+> Delegated powers
+> 1. In order to take into account the evolution in consumption patterns for dairy products, the innovations and developments on the dairy products market, the availability of products on the different markets of the Union, and nutritional aspects, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 determining:
+> (a) the products that are eligible for the scheme, in accordance with the provisions laid down in Article 26(1) and taking into account nutritional aspects;
+> (b) the drawing up of the national or regional strategies by Member States, including accompanying measures where applicable; and
+> (c) measures necessary for monitoring and evaluation.
+> 2. In order to ensure the efficient and effective use of Union aid, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning:
+> (a) rules on the eligibility for the aid of beneficiaries and applicants;
+> (b) the requirement for the applicants to be approved by the Member States;
+> (c) the use of dairy products benefiting from the aid in the preparation of meals in educational establishments.
+> 3. In order to ensure that aid applicants respect their obligations, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the requirement to lodge a security where an advance of aid is paid.
+> 4. In order to promote awareness of the aid scheme, the Commission shall be empowered to adopt delegated acts in […truncated by emendrix: 478 characters omitted…]
+
+**DELETED · Art. 28 — Implementing powers in accordance with the examination procedure** · applies from: unknown (a deleted provision has no application date to move)
+
+Article 28, which set out the Commission's power to adopt implementing acts on procedures for the maximum aid quantity, security for advance payments, information for Member States, publicity methods, and price monitoring management, has been removed entirely and no longer appears in the text. [Art. 28, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_28)
+
+*before* (`02013R1308-20160731`)
+
+> Article 28
+> Implementing powers in accordance with the examination procedure
+> The Commission may adopt implementing acts laying down the measures necessary for the application of this Subsection including on:
+> (a) the procedures to ensure the respect of the maximum quantity eligible for the aid;
+> (b) the procedures for, and the amount of, the security to be lodged where an advance payment is made;
+> (c) the information to be supplied to Member States for approval of applicants, aid applications and payments;
+> (d) the methods of publicising the scheme;
+> (e) the management of price monitoring pursuant to Article 27(5).
+> Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 229(2).
+
+**MODIFIED · Art. 217 — National payments for the distribution of products to children** · applies from: unchanged
+
+*within* `AR 217`, `AR 217 ALN 1`, `AR 217 ALN 2`, `AR 217 ALN 3`
+
+The heading changed slightly, from "National payments for distribution of products to children" to "National payments for the distribution of products to children". [Art. 217, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_217) [Art. 217, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_217)
+
+The first sentence dropped the reference to Union aid under Articles 23 and 26 and now instead describes national payments for supplying eligible product groups referred to in Article 23, for accompanying educational measures related to those products, and for related costs referred to in point (c) of Article 23(1), rather than costs referred to in Article 23(1) generally. [Art. 217, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_217) [Art. 217, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_217)
+
+The second sentence now reads that Member States may finance those payments by means of a levy on the sector concerned or by means of any other contribution from the private sector, and the third paragraph concerning national payments for accompanying measures under Article 23(2) is no longer present. [Art. 217, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_217) [Art. 217, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_217)
+
+*before* (`02013R1308-20160731`)
+
+> Article 217
+> National payments for distribution of products to children
+> Member States may, in addition to Union aid provided for in Articles 23 and 26, make national payments for supplying the products to children in educational establishments or for the related costs referred to in Article 23(1).
+> Member States may finance those payments by means of a levy on the sector concerned or by any other contribution from the private sector.
+> Member States may, in addition to Union aid provided for in Article 23, make national payments for financing accompanying measures necessary to make the Union scheme for the supply of fruit and vegetable, processed fruit and vegetable and banana products effective, as referred to in Article 23(2).
+
+*after* (`02013R1308-20170801`)
+
+> Article 217
+> National payments for the distribution of products to children
+> Member States may make national payments for supplying to children in educational establishments the groups of eligible products referred to in Article 23, for accompanying educational measures related to such products and for the related costs referred to in point (c) of Article 23(1).
+> Member States may finance those payments by means of a levy on the sector concerned or by means of any other contribution from the private sector.
+
+**MODIFIED · Art. 225 — Reporting obligation of the Commission** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 225 ALN 1 PTA (d)`, `AR 225 ALN 1 PTA (e)`, `AR 225 ALN 1 PTA (f)` · *dates* +2023-07-31
+
+The list of reports the Commission must present to the European Parliament and to the Council now includes two additional items, both due by 31 July 2023, one on the application of the allocation criteria referred to in Article 23a(2) and one on the impact of the transfers referred to in Article 23a(4) on the effectiveness of the school scheme in relation to the distribution of school fruit and vegetables and school milk. [Art. 225, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#art_225)
+
+The prior version ended with the point on the application of competition rules to the agricultural sector due by 31 December 2017, without any further points. [Art. 225, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#art_225)
+
+*before* (`02013R1308-20160731`)
+
+> Article 225
+> Reporting obligation of the Commission
+> The Commission shall present a report to the European Parliament and to the Council:
+> (a) every three years and for the first time by21 December 2016 the implementation of the measures concerning the apiculture sector as set out in Articles 55, 56 and 57, including on the latest developments on beehive identification systems;
+> (b) by 30 June 2014 and also by 31 December 2018, on the development of the market situation in the milk and milk products sector, and in particular on the operation of Articles 148 to 151, Article 152(3) and Article 157(3), assessing in particular the effects on milk producers and milk production in disadvantaged regions in connection with the general objective of maintaining production in such regions, and covering potential incentives to encourage farmers to enter into joint production agreements, together with any appropriate proposals;
+> (c) by 31 December 2014, on the possibility of extending the scope of the school schemes to include olive oil and table olives;
+> (d) by 31 December 2017, on the application of the competition rules to the agricultural sector in all Member States, in particular on the operation of Articles 209 and 210, and of Articles 169, 170 and 171 in the sectors concerned.
+
+*after* (`02013R1308-20170801`)
+
+> Article 225
+> Reporting obligation of the Commission
+> The Commission shall present a report to the European Parliament and to the Council:
+> (a) every three years and for the first time by21 December 2016 the implementation of the measures concerning the apiculture sector as set out in Articles 55, 56 and 57, including on the latest developments on beehive identification systems;
+> (b) by 30 June 2014 and also by 31 December 2018, on the development of the market situation in the milk and milk products sector, and in particular on the operation of Articles 148 to 151, Article 152(3) and Article 157(3), assessing in particular the effects on milk producers and milk production in disadvantaged regions in connection with the general objective of maintaining production in such regions, and covering potential incentives to encourage farmers to enter into joint production agreements, together with any appropriate proposals;
+> (c) by 31 December 2014, on the possibility of extending the scope of the school schemes to include olive oil and table olives;
+> (d) by 31 December 2017, on the application of the competition rules to the agricultural sector in all Member States, in particular on the operation of Articles 209 and 210, and of Articles 169, 170 and 171 in the sectors concerned;
+> (e) by 31 July 2023, on the application of the allocation criteria referred to in Article 23a(2);
+> (f) by 31 July 2023, on the impact of the transfers referred to in Article 23a(4) on the effectiveness of the school […truncated by emendrix: 87 characters omitted…]
+
+**MODIFIED · Annex V — ANNEX V** · applies from: unchanged
+
+*within* `AN V`
+
+The heading and content of Annex V changed from a list of products excluded from a co-financed school fruit and vegetables scheme referencing Article 23(3), to a list of milk-based products referencing Article 23(5), organised into Category I and Category II. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#anx_V)
+
+The earlier text listed exclusions based on added sugar, fat, salt or sweeteners, while the later text instead lists specific fermented and non-fermented milk products, some with fruit juice or flavouring, without any reference to added sugar, fat, salt or sweeteners. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20160731#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#anx_V)
+
+*before* (`02013R1308-20160731`)
+
+> ANNEX V
+> LIST OF PRODUCTS EXCLUDED FROM A SCHOOL FRUIT AND VEGETABLES SCHEME THAT IS CO-FINANCED WITH UNION AID REFERRED TO IN ARTICLE 23(3)
+> Products with any of the following:
+> added sugar,
+> added fat,
+> added salt,
+> added sweeteners.
+
+*after* (`02013R1308-20170801`)
+
+> ANNEX V
+> PRODUCTS REFERRED TO IN ARTICLE 23(5)
+> Category I
+> Fermented milk products without fruit juice, naturally flavoured
+> Fermented milk products with fruit juice, naturally flavoured or non-flavoured
+> Milk-based drinks with cocoa, with fruit juice or naturally flavoured
+> Category II
+> Fermented or non-fermented milk products with fruit, naturally flavoured or non-flavoured.
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20170801 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20160731 -->
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20160726` → `02013R1308-20160731`
