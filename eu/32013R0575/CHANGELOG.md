@@ -37112,7 +37112,7 @@ The new provision also states that the report shall take into account regulatory
 - **Act** `eu:32013R0575` · **In force** 2018-01-01 · **Detected** 2026-08-13
 - **Touched** 6 provisions — 6 substantive · 0 date-only · **3 disputed**
 - **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 522 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20160719` · `v2` = `02013R0575-20180101`
 
 ---
@@ -37123,7 +37123,9 @@ The new provision also states that the report shall take into account regulatory
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The formulas in paragraph 3, points (b) and (c), have minor spacing changes in how the term DF* is written, with no change to the symbols, variables, or structure of the calculation. [Art. 308, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_308) [Art. 308, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_308)
+
+The definition of DFCM* in paragraph 3 drops a trailing double semicolon after the formula, leaving a single semicolon. [Art. 308, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_308) [Art. 308, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_308)
 
 *before* (`02013R0575-20160719`)
 
