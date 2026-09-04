@@ -17285,7 +17285,7 @@ The only visible difference in Article 501(2)(1)(b) is the removal of a duplicat
 - **Act** `eu:32013R0575` · **In force** 2021-09-30 · **Detected** 2026-08-13
 - **Touched** 61 provisions — 61 substantive · 0 date-only · **56 disputed**
 - **Diff** 0 inserted · 61 modified · 0 deleted · 0 renumbered · 0 deferred · 666 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20210629` · `v2` = `02013R0575-20210930`
 
 ---
@@ -18054,7 +18054,9 @@ These new paragraphs cover, among other things, how upward and downward net curv
 
 *within* `AR 325h PA 2 ALN 1 PTA (c)` · *amended by* `32021R0424`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Point (c) of Article 325h(2) no longer refers readers to the delegated act under Article 461a for the low correlations scenario, and instead states that the correlation parameters ρkl and γbc specified in Section 6 are replaced by other values. [Art. 325h, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_325h) [Art. 325h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_325h)
+
+The specific replacement values appear as blank or unrendered symbols in the after text rather than as spelled-out figures. [Art. 325h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_325h)
 
 *before* (`02013R0575-20210629`)
 
