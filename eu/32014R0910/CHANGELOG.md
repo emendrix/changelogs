@@ -363,7 +363,7 @@ It also directs the Commission to work with Member States on codes of conduct to
 
 *within* `AR 7 ALN 1 PTA (g)` · *amended by* `32024R1183`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32014R0910`)
 
@@ -507,7 +507,7 @@ It also requires Member States to put in place technical and organisational meas
 
 *within* `AR 12`, `AR 12 PA 3 ALN 1 PTA (c)`, `AR 12 PA 4 ALN 1 PTA (d)`, `AR 12 PA 5 ALN 1`, `AR 12 PA 5 ALN 1 PTA (a)`, `AR 12 PA 5 ALN 1 PTA (b)`, `AR 12 PA 6 ALN 1`, `AR 12 PA 6 ALN 1 PTA (a)`, `AR 12 PA 6 ALN 1 PTA (b)`, `AR 12 PA 6 ALN 1 PTA (c)`, `AR 12 PA 6 ALN 1 PTA (d)`, `AR 12 PA 8 ALN 1` · *dates* -2015-09-18 +2025-03-18 +2025-09-18 · *amended by* `32024R1183`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32014R0910`)
 
@@ -798,7 +798,7 @@ Paragraph 4 now sets a deadline of 21 May 2025 for the Commission to establish, 
 
 *within* `AR 24 PA 1 ALN 1`, `AR 24 PA 1 ALN 2`, `AR 24 PA 1a`, `AR 24 PA 1b`, `AR 24 PA 1c`, `AR 24 PA 2 ALN 1 PTA (a)`, `AR 24 PA 2 ALN 1 PTA (d)`, `AR 24 PA 2 ALN 1 PTA (e)`, `AR 24 PA 2 ALN 1 PTA (fa)`, `AR 24 PA 2 ALN 1 PTA (fb)`, `AR 24 PA 2 ALN 1 PTA (g)`, `AR 24 PA 2 ALN 1 PTA (h)`, `AR 24 PA 2 ALN 1 PTA (i)`, `AR 24 PA 2 ALN 2`, `AR 24 PA 4a`, `AR 24 PA 4b`, `AR 24 PA 5 ALN 1` · *dates* +2025-05-21 · *amended by* `32024R1183`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32014R0910`)
 
@@ -1337,7 +1337,7 @@ Two new paragraphs, 2a and 2b, have been added covering interoperability agreeme
 
 *within* `AR 45 PA 1 ALN 1`, `AR 45 PA 1a`, `AR 45 PA 1b`, `AR 45 PA 2 ALN 1` · *dates* +2025-05-21 · *amended by* `32024R1183`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32014R0910`)
 
@@ -1793,7 +1793,7 @@ Paragraph 3 no longer concerns a certification-service-provider's submission of 
 > 3. The management of remote qualified electronic signature and seal creation devices by qualified trust service providers other than qualified trust service providers providing qualified trust services for the management of remote qualified electronic signature and seal creation devices in accordance with Articles 29a and 39a may be carried out without the need to obtain the qualified status for the provision of these management services until 21 May 2026.
 > 4. Qualified trust service providers that have been granted their qualified status under this Regulation before 20 May 2024 shall submit a conformity assessment report to the supervisory body proving compliance with Article 24(1), (1a) and (1b) as soon as possible and in any event by 21 May 2026.
 
-**INSERTED · TIT** · applies from: unknown
+**INSERTED · Title** · applies from: unknown
 
 *amended by* `32024R1183`
 
@@ -1803,7 +1803,7 @@ Paragraph 3 no longer concerns a certification-service-provider's submission of 
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · SCT 2** · applies from: unknown
+**MODIFIED · Section 2** · applies from: unknown
 
 *amended by* `32024R1183`
 
@@ -1873,7 +1873,7 @@ Point (i) now refers to the information or the location of the services that can
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32014R0910`)
 
