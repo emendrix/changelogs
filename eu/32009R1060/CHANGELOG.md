@@ -2212,18 +2212,18 @@ Entries concerning information requests and inspections are also reworded to add
 ### `02009R1060-20110601` → `02009R1060-20110721`
 
 - **Act** `eu:32009R1060` · **In force** 2011-07-21 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20110601` · `v2` = `02009R1060-20110721`
 
 ---
 
 **MODIFIED · Art. 4 — Use of credit ratings** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
-*within* `AR 4 PA 1 ALN 1` · *dates* +2011-06-08
+*within* `AR 4 PA 1 ALN 1` · *dates* +2011-06-08 · *amended by* `32011L0061`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The list of entities in paragraph 1 now specifies that alternative investment funds are those defined in Directive 2011/61/EU of 8 June 2011 on Alternative Investment Fund Managers, a definitional reference not present in the earlier text. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4)
 
@@ -2251,16 +2251,6 @@ A minor wording change also appears earlier in the same paragraph, where the phr
 *amended by* `32011L0061`
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 64** · applies from: unknown
-
-*amended by* `32011L0061`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
 
