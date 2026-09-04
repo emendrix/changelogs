@@ -217,28 +217,16 @@ No other wording, category, or field in the certificate model was altered betwee
 ### `02018R0848-20220101` → `02018R0848-20230221`
 
 - **Act** `eu:32018R0848` · **In force** 2023-02-21 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02018R0848-20220101` · `v2` = `02018R0848-20230221`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32023R0207`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex VI — ANNEX VI** · applies from: unchanged
 
 *within* `AN VI`, `AN VI SCT 1`, `AN VI SCT 2`, `AN VI SCT 3`, `AN VI SCT 4`, `AN VI SCT 5`, `AN VI SCT 6`, `AN VI SCT 7`, `AN VI SCT 8`, `AN VI SCT 9`, `AN VI PO 1`, `AN VI PO 2`, `AN VI PO 3`, `AN VI PO 4`, `AN VI PO 5`, `AN VI PO 6`, `AN VI PO 7`, `AN VI PO 8` · *amended by* `32023R0207`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The title line changes from referring to 'organic production and labelling of organic products' to 'organic production and the labelling of organic products'. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20220101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_VI)
 
