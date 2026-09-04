@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 4,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -1201,11 +1201,63 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 6 now sets a reporting deadline of 15 June 2023 instead of 1 April 2020, and its subject matter shifts from the impact on third-country benchmark operations and endorsement, recognition or equivalence arrangements to the scope of the Regulation, focused on continued use of third-country benchmarks by supervised entities and possible narrowing of scope to certain benchmark types or widely used benchmarks.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20191210",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_54",
+              "label": "Art. 54, 02016R1011-20191210"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_54",
+              "label": "Art. 54, 02016R1011-20210213"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph 7 is added empowering the Commission to adopt a delegated act by 15 June 2023 to extend the transitional period under Article 51(5) until 31 December 2025 at the latest, conditioned on the paragraph 6 report showing that continued use of certain third-country benchmarks would otherwise be significantly impaired or pose a threat to financial stability.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32016R1011",
+                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
+                },
+                "version": "02016R1011-20210213",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_54",
+              "label": "Art. 54, 02016R1011-20210213"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1809,6 +1861,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 9729,
+        "output_tokens": 751,
+        "requests": 2,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }

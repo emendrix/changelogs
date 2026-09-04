@@ -1892,7 +1892,7 @@ Paragraph 2 now groups the evidence power with Article 51(2) and Article 25(2) d
 - **Act** `eu:32016R1011` · **In force** 2021-02-13 · **Detected** 2026-08-13
 - **Touched** 12 provisions — 12 substantive · 0 date-only · **4 disputed**
 - **Diff** 4 inserted · 8 modified · 0 deleted · 0 renumbered · 0 deferred · 59 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20191210` · `v2` = `02016R1011-20210213`
 
 ---
@@ -2167,7 +2167,9 @@ A new subparagraph has been added to paragraph 5 stating that the first subparag
 
 *within* `AR 54 PA 6 ALN 1`, `AR 54 PA 7` · *dates* -2020-04-01 +2023-06-15 +2025-12-31 · *amended by* `32021R0168`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 6 now sets a reporting deadline of 15 June 2023 instead of 1 April 2020, and its subject matter shifts from the impact on third-country benchmark operations and endorsement, recognition or equivalence arrangements to the scope of the Regulation, focused on continued use of third-country benchmarks by supervised entities and possible narrowing of scope to certain benchmark types or widely used benchmarks. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_54)
+
+A new paragraph 7 is added empowering the Commission to adopt a delegated act by 15 June 2023 to extend the transitional period under Article 51(5) until 31 December 2025 at the latest, conditioned on the paragraph 6 report showing that continued use of certain third-country benchmarks would otherwise be significantly impaired or pose a threat to financial stability. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_54)
 
 *before* (`02016R1011-20191210`)
 
