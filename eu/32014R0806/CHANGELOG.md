@@ -1655,7 +1655,7 @@ The new provision sets out an assessment and monthly review process for the Boar
 
 *within* `AR 12 PA 1 ALN 1`, `AR 12 PA 2 ALN 1`, `AR 12 PA 2 ALN 2`, `AR 12 PA 3 ALN 1`, `AR 12 PA 4 ALN 1`, `AR 12 PA 4 ALN 2`, `AR 12 PA 5 ALN 1`, `AR 12 PA 5 ALN 1 PTA (a)`, `AR 12 PA 5 ALN 1 PTA (b)`, `AR 12 PA 6 ALN 1`, `AR 12 PA 6 ALN 2`, `AR 12 PA 6 ALN 3`, `AR 12 PA 7 ALN 1`, `AR 12 PA 7 ALN 1 PTA (a)`, `AR 12 PA 7 ALN 1 PTA (b)`, `AR 12 PA 7 ALN 1 PTA (c)`, `AR 12 PA 8`, `AR 12 PA 9`, `AR 12 PA 10`, `AR 12 PA 11`, `AR 12 PA 12`, `AR 12 PA 13`, `AR 12 PA 14`, `AR 12 PA 15`, `AR 12 PA 16`, `AR 12 PA 17`, `AR 12 PA 18` · *amended by* `32019R0877`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32014R0806`)
 
