@@ -1,0 +1,363 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32011R0305",
+    "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+  },
+  "from_version": "02011R0305-20140616",
+  "to_version": "02011R0305-20210716",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2021-07-16"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 72,
+    "disputed": 2
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 2,
+    "quoted": 0,
+    "unexplained": 1
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20210716",
+          "location": "AR 40"
+        },
+        "heading": null,
+        "before": null,
+        "after": null,
+        "previous_location": null,
+        "changed_within": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": null,
+        "applies_from": {
+          "kind": "unknown",
+          "reason": null
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "absent",
+            "detail": "structural_diff",
+            "change_types": []
+          },
+          "corpus_metadata": {
+            "status": "absent",
+            "detail": "1 annotations in (2014-06-16, 2021-07-16]",
+            "change_types": []
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 040",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "unexplained",
+      "sentences": [],
+      "applicability_note": null,
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32011R0305",
+            "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+          },
+          "version": "02011R0305-20210716",
+          "location": "AR 56"
+        },
+        "heading": "Procedure to deal at national level with construction products presenting a risk",
+        "before": "Article 56\nProcedure to deal at national level with construction products presenting a risk\n1. Where the market surveillance authorities of one Member State have taken action pursuant to Article 20 of Regulation (EC) No 765/2008 or where they have sufficient reason to believe that a construction product covered by a harmonised standard or for which a European Technical Assessment has been issued does not achieve the declared performance and presents a risk for the fulfilment of the basic requirements for construction works covered by this Regulation, they shall carry out an evaluation in relation to the product concerned covering the respective requirements laid down by this Regulation. The relevant economic operators shall cooperate as necessary with the market surveillance authorities.\nWhere, in the course of that evaluation, the market surveillance authorities find that the construction product does not comply with the requirements laid down in this Regulation, they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the product into compliance with those requirements, notably with the declared performance, or to withdraw the product from the market, or recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.\nThe market surveillance authorities shall inform the notified body accordingly, if a notified body is involved.\nArticle 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in the second subparagraph of this paragraph.\n2. Where the market surveillance authorities consider that the non-compliance is not limited to their national territory, they shall inform the Commission and the other Member States of the results of the evaluation and of the actions which they have required the economic operator to take.\n3. The economic operator shall ensure that all appropriate corrective action is taken in respect of all the construction products concerned which that economic operator has made available on the market throughout the Union.\n4. Where the relevant economic operator, within the period referred to in the second subparagraph of paragraph 1, does not take adequate corrective action, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the making available of the construction product on the national market or to withdraw the construction product from that market or to recall it.\nThe market surveillance authorities shall inform the Commission and the other Member States, without delay, of those measures.\n5. The information referred to in paragraph 4 shall include all available details, in particular the data necessary for the identification of the non-compliant construction product, the origin of the construction product, the nature of the non-compliance alleged and the risk involved, the nature and duration of national measures taken as well as the arguments put forward by the relevant economic operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to either of the following:\n(a) failure of the product to achieve the declared performance and/or to meet the requirements related to the fulfilment of basic requirements for construction works laid down in this Regulation;\n(b) shortcomings in the harmonised technical specifications or in the Specific Technical Documentation.\n6. Member States other than the Member State initiating the procedure shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the construction product concerned, and, in the event of disagreement with the notified national measure, of their objections.\n7. Where, within 15 working days of receipt of the information referred to in paragraph 4, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State in relation to the construction product concerned, that measure shall be deemed justified.\n8. Member States shall ensure that appropriate restrictive measures are taken without delay in respect of the construction product concerned, such as withdrawal of the product from their market.",
+        "after": "Article 56\nProcedure to deal at national level with construction products presenting a risk\n1. Where the market surveillance authorities of one Member State have sufficient reason to believe that a construction product covered by a harmonised standard or for which a European Technical Assessment has been issued does not achieve the declared performance and presents a risk for the fulfilment of the basic requirements for construction works covered by this Regulation, they shall carry out an evaluation in relation to the product concerned covering the respective requirements laid down by this Regulation. The relevant economic operators shall cooperate as necessary with the market surveillance authorities.\nWhere, in the course of that evaluation, the market surveillance authorities find that the construction product does not comply with the requirements laid down in this Regulation, they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the product into compliance with those requirements, notably with the declared performance, or to withdraw the product from the market, or recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.\nThe market surveillance authorities shall inform the notified body accordingly, if a notified body is involved.\nArticle 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in the second subparagraph of this paragraph.\n2. Where the market surveillance authorities consider that the non-compliance is not limited to their national territory, they shall inform the Commission and the other Member States of the results of the evaluation and of the actions which they have required the economic operator to take.\n3. The economic operator shall ensure that all appropriate corrective action is taken in respect of all the construction products concerned which that economic operator has made available on the market throughout the Union.\n4. Where the relevant economic operator, within the period referred to in the second subparagraph of paragraph 1, does not take adequate corrective action, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the making available of the construction product on the national market or to withdraw the construction product from that market or to recall it.\nThe market surveillance authorities shall inform the Commission and the other Member States, without delay, of those measures.\n5. The information referred to in paragraph 4 shall include all available details, in particular the data necessary for the identification of the non-compliant construction product, the origin of the construction product, the nature of the non-compliance alleged and the risk involved, the nature and duration of national measures taken as well as the arguments put forward by the relevant economic operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to either of the following:\n(a) failure of the product to achieve the declared performance and/or to meet the requirements related to the fulfilment of basic requirements for construction works laid down in this Regulation;\n(b) shortcomings in the harmonised technical specifications or in the Specific Technical Documentation.\n6. Member States other than the Member State initiating the procedure shall without delay inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the construction product concerned, and, in the event of disagreement with the notified national measure, of their objections.\n7. Where, within 15 working days of receipt of the information referred to in paragraph 4, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State in relation to the construction product concerned, that measure shall be deemed justified.\n8. Member States shall ensure that appropriate restrictive measures are taken without delay in respect of the construction product concerned, such as withdrawal of the product from their market.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 56 PA 1 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32019R1020",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2021-07-16",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32019R1020 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The opening clause of paragraph 1 no longer refers to market surveillance authorities having taken action pursuant to Article 20 of Regulation (EC) No 765/2008, leaving only the condition that they have sufficient reason to believe the product does not achieve its declared performance and presents a risk.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20140616",
+                "location": "AR 56"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#art_56",
+              "label": "Art. 56, 02011R0305-20140616"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32011R0305",
+                  "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+                },
+                "version": "02011R0305-20210716",
+                "location": "AR 56"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20210716#art_56",
+              "label": "Art. 56, 02011R0305-20210716"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32011R0305",
+      "display_name": "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC  Text with EEA relevance"
+    },
+    "from_version": "02011R0305-20140616",
+    "to_version": "02011R0305-20210716",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 56"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 56"
+        ],
+        "note": "1 annotations in (2014-06-16, 2021-07-16]",
+        "claims": [
+          {
+            "location": "AR 56 PA 1 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": "2021-07-16",
+            "source": "32019R1020 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 40"
+        ],
+        "note": "32019R1020, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 40 PA 1 ALN 1",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 040",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32019R1020",
+              "display_name": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AR 40",
+        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "observed_by": [
+          "instruction_parse"
+        ],
+        "absent_from": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "kinds": [
+          [
+            "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 56",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": [
+      "AR 40"
+    ]
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 1,
+    "unavailable": 1,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 1,
+    "usage": {
+      "input_tokens": 4810,
+      "output_tokens": 180,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 1,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}

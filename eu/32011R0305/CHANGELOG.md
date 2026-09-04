@@ -10,6 +10,56 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20210716 -->
+## Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised […]
+### `02011R0305-20140616` → `02011R0305-20210716`
+
+- **Act** `eu:32011R0305` · **In force** 2021-07-16 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02011R0305-20140616` · `v2` = `02011R0305-20210716`
+
+---
+
+**MODIFIED · Art. 40** · applies from: unknown
+
+*amended by* `32019R1020`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 56 — Procedure to deal at national level with construction products presenting a risk** · applies from: unchanged
+
+*within* `AR 56 PA 1 ALN 1` · *amended by* `32019R1020`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The opening clause of paragraph 1 no longer refers to market surveillance authorities having taken action pursuant to Article 20 of Regulation (EC) No 765/2008, leaving only the condition that they have sufficient reason to believe the product does not achieve its declared performance and presents a risk. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20140616#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20210716#art_56)
+
+*before* (`02011R0305-20140616`)
+
+> Article 56
+> Procedure to deal at national level with construction products presenting a risk
+> 1. Where the market surveillance authorities of one Member State have taken action pursuant to Article 20 of Regulation (EC) No 765/2008 or where they have sufficient reason to believe that a construction product covered by a harmonised standard or for which a European Technical Assessment has been issued does not achieve the declared performance and presents a risk for the fulfilment of the basic requirements for construction works covered by this Regulation, they shall carry out an evaluation in relation to the product concerned covering the respective requirements laid down by this Regulation. The relevant economic operators shall cooperate as necessary with the market surveillance authorities.
+> Where, in the course of that evaluation, the market surveillance authorities find that the construction product does not comply with the requirements laid down in this Regulation, they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the product into compliance with those requirements, notably with the declared performance, or to withdraw the product from the market, or recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
+> The market surveillance authorities shall inform the notified body accordingly, if a notified body is involved.
+> Article 21 of Regulation (EC) No 765/2008 shall app […truncated by emendrix: 2851 characters omitted…]
+
+*after* (`02011R0305-20210716`)
+
+> Article 56
+> Procedure to deal at national level with construction products presenting a risk
+> 1. Where the market surveillance authorities of one Member State have sufficient reason to believe that a construction product covered by a harmonised standard or for which a European Technical Assessment has been issued does not achieve the declared performance and presents a risk for the fulfilment of the basic requirements for construction works covered by this Regulation, they shall carry out an evaluation in relation to the product concerned covering the respective requirements laid down by this Regulation. The relevant economic operators shall cooperate as necessary with the market surveillance authorities.
+> Where, in the course of that evaluation, the market surveillance authorities find that the construction product does not comply with the requirements laid down in this Regulation, they shall without delay require the relevant economic operator to take all appropriate corrective actions to bring the product into compliance with those requirements, notably with the declared performance, or to withdraw the product from the market, or recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
+> The market surveillance authorities shall inform the notified body accordingly, if a notified body is involved.
+> Article 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in the second subparagraph of this paragraph.
+> 2. Where […truncated by emendrix: 2765 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02011R0305-20210716 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20140616 -->
 ## Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised […]
 ### `32011R0305` → `02011R0305-20140616`
