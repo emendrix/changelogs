@@ -14,10 +14,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
 ### `02019R1021-20251203` → `02019R1021-20260101`
 
-- **Act** `eu:32019R1021` · **In force** 2026-01-01 · **Detected** 2026-08-13
+- **Act** `eu:32019R1021` · **In force** 2026-01-01 · **Detected** 2026-09-04
 - **Touched** 6 provisions — 6 substantive · 0 date-only · **0 disputed**
 - **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 25 unchanged
-- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20251203` · `v2` = `02019R1021-20260101`
 
 ---
@@ -26,7 +26,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 8 PA 1 ALN 1 PTA (h)`, `AR 8 PA 1 ALN 1 PTA (i)`, `AR 8 PA 1a` · *amended by* `32025R2457`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The text adds a new task in point (i) of Article 8(1), under which the Agency, upon request by the Commission, draws up and submits within 12 months a report on the impacts on human health, the environment and socioeconomic impacts of introducing or amending concentration limit values in Annex IV or V. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_8)
+
+A new paragraph 1a is inserted, setting out the required content of that report, describing a public notice and comment process the Agency must run, requiring an opinion from the Committee for Socioeconomic Analysis within 9 months of the report's submission, and requiring the Agency to forward the report and that opinion to the Commission. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_8)
+
+The prior version of Article 8(1) ended at point (h) and contained no paragraph 1a. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#art_8)
 
 *before* (`02019R1021-20251203`)
 
@@ -54,7 +58,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 13 PA 2 ALN 1`, `AR 13 PA 2 ALN 2` · *amended by* `32025R2457`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 2 now refers to a Member State sharing information with the European Environmental Agency (the EEA) rather than with the Information Platform for Chemical Monitoring, and the cross-reference to point (e) of paragraph 1 is rephrased as "paragraph 1, point (e)". [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_13) [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#art_13)
+
+The second subparagraph of paragraph 2 changes the Agency's role from using the Information Platform for Chemical Monitoring to compile, store and share the information, to transmitting that information to the EEA for compiling, storing and sharing. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_13) [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#art_13)
 
 *before* (`02019R1021-20251203`)
 
@@ -90,7 +96,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 15 PA 2 ALN 1` · *amended by* `32025R2457`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 2 now empowers the Commission to adopt delegated acts under Article 18 to amend Annexes IV and V, rather than requiring the Commission merely to keep those Annexes under review and make legislative proposals to amend them. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_15)
+
+The basis for adapting Annexes IV and V is changed to changes to the list of substances set out in Annexes I, II or III, whereas before it referred to changes to the list of substances in the Annexes to the Convention or the Protocol. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_15)
+
+The scientific and technical progress ground for modifying existing entries in Annexes IV and V is expanded to expressly include developments in waste treatment and decontamination technologies or new scientific information on health and environmental impacts associated with a substance's presence in waste. [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_15)
 
 *before* (`02019R1021-20251203`)
 
@@ -112,7 +122,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 18 PA 2 ALN 1`, `AR 18 PA 3 ALN 1`, `AR 18 PA 6 ALN 1` · *dates* -2019-07-15 +2026-01-01 · *amended by* `32025R2457`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The five-year delegation start date was changed from 15 July 2019 to 1 January 2026, and the cross-references in paragraphs 2, 3 and 6 were updated from citing Article 15(1) to citing Article 15 generally. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_18) [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#art_18)
+
+In paragraph 6, the connector between the listed articles was changed from 'and' to 'or'. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_18)
 
 *before* (`02019R1021-20251203`)
 
@@ -138,7 +150,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *amended by* `32025R2457`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+A new Article 21b, titled Review, has been added, directing the Commission to monitor the tasks, workload and remit of the scientific committees of the European Chemicals Agency, taking into account regulatory developments concerning the status of resources and the governance of those committees, and to present a legislative proposal to amend the Regulation accordingly where appropriate. [Art. 21b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#art_21b)
 
 *after* (`02019R1021-20260101`)
 
@@ -150,41 +162,51 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN IV` · *amended by* `32025R2457`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In each of the five review clauses concerning concentration limits (for short-chain chlorinated paraffins, PCDD/PCDF and dl-PCBs, hexabromocyclododecane, PFOA, and PFHxS), the wording changed from stating that the Commission shall adopt a legislative proposal to lower the value, to stating that the Commission shall adopt a delegated act in accordance with Article 15(2) to lower the value. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#anx_IV)
+
+The deadline reference in each clause was also rephrased from ending with the words no later than 30 December 2027 to beginning with the words by 30 December 2027, without changing the date itself. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#anx_IV)
 
 *before* (`02019R1021-20251203`)
 
 > ANNEX IV
 > List of substances subject to waste management provisions set out in Article 7
-> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.
+> The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.
+> The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.
+> Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.
 > Substance CAS No EC No Concentration limit referred to in Article 7(4)(a)
 > Endosulfan 115-29-7
 > 959-98-8
 > 33213-65-9 204-079-4 50 mg/kg
 > Hexachlorobutadiene 87-68-3 201-765-5 100 mg/kg
-> Polychlorinated naphthalenes 10 mg/kg
+> Polychlorinated naphthalenes
+> 10 mg/kg
 > Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 1500 mg/kg
 > The Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value no later than 30 December 2027.
 > Tetrabromodiphenyl ether C12H6Br4O 40088-47-9
 > and others 254-787-2
-> and others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12Br1 […truncated by emendrix: 3954 characters omitted…]
+> and others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12 […truncated by emendrix: 3957 characters omitted…]
 
 *after* (`02019R1021-20260101`)
 
 > ANNEX IV
 > List of substances subject to waste management provisions set out in Article 7
-> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.
+> The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.
+> The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.
+> Hexabromocyclododecane means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane.
 > Substance CAS No EC No Concentration limit referred to in Article 7(4)(a)
 > Endosulfan 115-29-7
 > 959-98-8
 > 33213-65-9 204-079-4 50 mg/kg
 > Hexachlorobutadiene 87-68-3 201-765-5 100 mg/kg
-> Polychlorinated naphthalenes 10 mg/kg
+> Polychlorinated naphthalenes
+> 10 mg/kg
 > Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs) 85535-84-8 287-476-5 1500 mg/kg
 > By 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.
 > Tetrabromodiphenyl ether C12H6Br4O 40088-47-9
 > and others 254-787-2
-> and others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphe […truncated by emendrix: 3773 characters omitted…]
+> and others Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodi […truncated by emendrix: 3776 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1021-20260101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20251203 -->
