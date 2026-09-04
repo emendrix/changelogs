@@ -10,6 +10,245 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20230316 -->
+## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
+### `02019R1009-20221003` → `02019R1009-20230316`
+
+- **Act** `eu:32019R1009` · **In force** 2023-03-16 · **Detected** 2026-09-04
+- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02019R1009-20221003` · `v2` = `02019R1009-20230316`
+
+---
+
+**MODIFIED · Art. 1** · applies from: unknown
+
+*amended by* `32023R0409`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unchanged
+
+*within* `AN I`, `AN I PTA (e)` · *amended by* `32023R0409`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+In the table of minimum macronutrient content for a straight solid inorganic macronutrient fertiliser containing only one declared macronutrient, the minimum calcium oxide (CaO) content value under point (e) was changed from 12% by mass to 9% by mass. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20230316#anx_I)
+
+The remaining visible text of Annex I, including the other PFC definitions and limit values, appears unchanged between the two versions, and the shown text is truncated before the end of PFC 6(B), so any further differences beyond that point cannot be described. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20230316#anx_I)
+
+*before* (`02019R1009-20221003`)
+
+> ANNEX I
+> Product Function Categories (PFCs) of EU fertilising products
+> PART I
+> DESIGNATION OF PFCS
+> 1. Fertiliser
+> A. Organic fertiliser
+> I. Solid organic fertiliser
+> II. Liquid organic fertiliser
+> B. Organo-mineral fertiliser
+> I. Solid organo-mineral fertiliser
+> II. Liquid organo-mineral fertiliser
+> C. Inorganic fertiliser
+> I. Inorganic macronutrient fertiliser
+> (a) Solid inorganic macronutrient fertiliser
+> (i) Straight solid inorganic macronutrient fertiliser
+> (A) Straight solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content
+> (ii) Compound solid inorganic macronutrient fertiliser
+> (A) Compound solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content
+> (b) Liquid inorganic macronutrient fertiliser
+> (i) Straight liquid inorganic macronutrient fertiliser
+> (ii) Compound liquid inorganic macronutrient fertiliser
+> II. Inorganic micronutrient fertiliser
+> (a) Straight inorganic micronutrient fertiliser
+> (b) Compound inorganic micronutrient fertiliser
+> 2. Liming material
+> 3. Soil improver
+> A. Organic soil improver
+> B. Inorganic soil improver
+> 4. Growing medium
+> 5. Inhibitor
+> A. Nitrification inhibitor
+> B. Denitrification inhibitor
+> C. Urease inhibitor
+> 6. Plant biostimulant
+> A. Microbial plant biostimulant
+> B. Non-microbial plant biostimulant
+> 7. Fertilising product blend
+> PART II
+> REQUIREMENTS RELATED TO PFCS
+> 1. This Part sets out the requirements related to the PFCs to which EU fertilising products belong by virtue of their claimed function.
+> 2. The requirements l […truncated by emendrix: 41396 characters omitted…]
+
+*after* (`02019R1009-20230316`)
+
+> ANNEX I
+> Product Function Categories (PFCs) of EU fertilising products
+> PART I
+> DESIGNATION OF PFCS
+> 1. Fertiliser
+> A. Organic fertiliser
+> I. Solid organic fertiliser
+> II. Liquid organic fertiliser
+> B. Organo-mineral fertiliser
+> I. Solid organo-mineral fertiliser
+> II. Liquid organo-mineral fertiliser
+> C. Inorganic fertiliser
+> I. Inorganic macronutrient fertiliser
+> (a) Solid inorganic macronutrient fertiliser
+> (i) Straight solid inorganic macronutrient fertiliser
+> (A) Straight solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content
+> (ii) Compound solid inorganic macronutrient fertiliser
+> (A) Compound solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content
+> (b) Liquid inorganic macronutrient fertiliser
+> (i) Straight liquid inorganic macronutrient fertiliser
+> (ii) Compound liquid inorganic macronutrient fertiliser
+> II. Inorganic micronutrient fertiliser
+> (a) Straight inorganic micronutrient fertiliser
+> (b) Compound inorganic micronutrient fertiliser
+> 2. Liming material
+> 3. Soil improver
+> A. Organic soil improver
+> B. Inorganic soil improver
+> 4. Growing medium
+> 5. Inhibitor
+> A. Nitrification inhibitor
+> B. Denitrification inhibitor
+> C. Urease inhibitor
+> 6. Plant biostimulant
+> A. Microbial plant biostimulant
+> B. Non-microbial plant biostimulant
+> 7. Fertilising product blend
+> PART II
+> REQUIREMENTS RELATED TO PFCS
+> 1. This Part sets out the requirements related to the PFCs to which EU fertilising products belong by virtue of their claimed function.
+> 2. The requirements l […truncated by emendrix: 41394 characters omitted…]
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unchanged
+
+*within* `AN II PTA (g)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+Both the before and after texts of Annex II are cut off before the point where CMC 12, point 6 concludes, so the visible portions of CMC 1 through the start of CMC 12 appear identical in structure and wording. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20230316#anx_II)
+
+Because the passage identified as containing the difference, Annex II(g), falls within the truncated portion of both supplied texts, no textual difference in that sub-provision can be observed from what was provided. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20230316#anx_II)
+
+*before* (`02019R1009-20221003`)
+
+> ANNEX II
+> Component Material Categories (CMCs)
+> An EU fertilising product shall consist solely of component materials complying with the requirements for one or more of the CMCs listed in this Annex.
+> The component materials, and the input materials used to produce them, shall not contain any of the substances for which maximum limit values are indicated in Annex I in such quantities as to jeopardise the EU fertilising product’s compliance with the applicable requirements of that Annex.
+> PART I
+> DESIGNATION OF CMCS
+> CMC 1: Virgin material substances and mixtures
+> CMC 2: Plants, plant parts or plant extracts
+> CMC 3: Compost
+> CMC 4: Fresh crop digestate
+> CMC 5: Digestate other than fresh crop digestate
+> CMC 6: Food industry by-products
+> CMC 7: Micro-organisms
+> CMC 8: Nutrient polymers
+> CMC 9: Polymers other than nutrient polymers
+> CMC 10: Derived products within the meaning of Regulation (EC) No 1069/2009
+> CMC 11: By-products within the meaning of Directive 2008/98/EC
+> CMC 12: Precipitated phosphate salts and derivates
+> CMC 13: Thermal oxidation materials and derivates
+> CMC 14: Pyrolysis and gasification materials
+> CMC 15: Recovered high purity materials
+> PART II
+> REQUIREMENTS RELATED TO CMCS
+> This Part defines the component materials of which EU fertilising products shall solely consist.
+> CMC 1: VIRGIN MATERIAL SUBSTANCES AND MIXTURES
+> 1. An EU fertilising product may contain substances and mixtures, except
+> The exclusion of a material from CMC 1 does not prevent it from being an eligible component mat […truncated by emendrix: 67008 characters omitted…]
+
+*after* (`02019R1009-20230316`)
+
+> ANNEX II
+> Component Material Categories (CMCs)
+> An EU fertilising product shall consist solely of component materials complying with the requirements for one or more of the CMCs listed in this Annex.
+> The component materials, and the input materials used to produce them, shall not contain any of the substances for which maximum limit values are indicated in Annex I in such quantities as to jeopardise the EU fertilising product’s compliance with the applicable requirements of that Annex.
+> PART I
+> DESIGNATION OF CMCS
+> CMC 1: Virgin material substances and mixtures
+> CMC 2: Plants, plant parts or plant extracts
+> CMC 3: Compost
+> CMC 4: Fresh crop digestate
+> CMC 5: Digestate other than fresh crop digestate
+> CMC 6: Food industry by-products
+> CMC 7: Micro-organisms
+> CMC 8: Nutrient polymers
+> CMC 9: Polymers other than nutrient polymers
+> CMC 10: Derived products within the meaning of Regulation (EC) No 1069/2009
+> CMC 11: By-products within the meaning of Directive 2008/98/EC
+> CMC 12: Precipitated phosphate salts and derivates
+> CMC 13: Thermal oxidation materials and derivates
+> CMC 14: Pyrolysis and gasification materials
+> CMC 15: Recovered high purity materials
+> PART II
+> REQUIREMENTS RELATED TO CMCS
+> This Part defines the component materials of which EU fertilising products shall solely consist.
+> CMC 1: VIRGIN MATERIAL SUBSTANCES AND MIXTURES
+> 1. An EU fertilising product may contain substances and mixtures, except
+> The exclusion of a material from CMC 1 does not prevent it from being an eligible component mat […truncated by emendrix: 67009 characters omitted…]
+
+**MODIFIED · Annex IV — ANNEX IV** · applies from: unchanged
+
+*within* `AN IV`, `AN IV SCT 3 PTA (ba)`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new point (ba) was inserted into section 3.1 of Part I, adding micro-organisms as specified in CMC 7 in Part II of Annex II to the list of component materials for which Module B followed by Module C may be used. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20230316#anx_IV)
+
+This point did not appear in the earlier version of that list, which moved directly from plants, plant parts or plant extracts (point (b)) to polymers other than nutrient polymers (point (c)). [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_IV)
+
+*before* (`02019R1009-20221003`)
+
+> ANNEX IV
+> Conformity assessment procedures
+> PART I
+> APPLICABILITY OF CONFORMITY ASSESSMENT PROCEDURES
+> This Part sets out the applicability of conformity assessment procedure modules, as specified in Part II of this Annex, to EU fertilising products depending on their CMCs as specified in Annex II, and their PFCs as specified in Annex I.
+> 1. APPLICABILITY OF INTERNAL PRODUCTION CONTROL (MODULE A)
+> 1.1. Module A may be used for an EU fertilising product composed solely of one or more of the following component materials:
+> (a) virgin material substances or mixtures as specified in CMC 1 in Part II of Annex II, except a nitrification, a denitrification or a urease inhibiting compound,
+> (b) fresh crop digestates as specified in CMC 4 in Part II of Annex II,
+> (c) food industry by-products as specified in CMC 6 in Part II of Annex II,
+> (d) micro-organisms as specified in CMC 7 in Part II of Annex II,
+> (e) nutrient polymers as specified in CMC 8 in Part II of Annex II,
+> (f) by-products within the meaning of Directive 2008/98/EC as specified in CMC 11 in Part II of Annex II.
+> 1.2. Module A may also be used for a fertilising product blend as specified in PFC 7.
+> 1.3. By derogation from points 1.1 and 1.2, Module A must not be used for:
+> (a) a straight or compound solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content, as specified in PFC 1(C)(I)(a)(i-ii)(A), or a fertilising product blend as specified in PFC 7 containing 28 % or more by mass of nitrogen (N) from an EU fer […truncated by emendrix: 69707 characters omitted…]
+
+*after* (`02019R1009-20230316`)
+
+> ANNEX IV
+> Conformity assessment procedures
+> PART I
+> APPLICABILITY OF CONFORMITY ASSESSMENT PROCEDURES
+> This Part sets out the applicability of conformity assessment procedure modules, as specified in Part II of this Annex, to EU fertilising products depending on their CMCs as specified in Annex II, and their PFCs as specified in Annex I.
+> 1. APPLICABILITY OF INTERNAL PRODUCTION CONTROL (MODULE A)
+> 1.1. Module A may be used for an EU fertilising product composed solely of one or more of the following component materials:
+> (a) virgin material substances or mixtures as specified in CMC 1 in Part II of Annex II, except a nitrification, a denitrification or a urease inhibiting compound,
+> (b) fresh crop digestates as specified in CMC 4 in Part II of Annex II,
+> (c) food industry by-products as specified in CMC 6 in Part II of Annex II,
+> (d) micro-organisms as specified in CMC 7 in Part II of Annex II,
+> (e) nutrient polymers as specified in CMC 8 in Part II of Annex II,
+> (f) by-products within the meaning of Directive 2008/98/EC as specified in CMC 11 in Part II of Annex II.
+> 1.2. Module A may also be used for a fertilising product blend as specified in PFC 7.
+> 1.3. By derogation from points 1.1 and 1.2, Module A must not be used for:
+> (a) a straight or compound solid inorganic macronutrient ammonium nitrate fertiliser of high nitrogen content, as specified in PFC 1(C)(I)(a)(i-ii)(A), or a fertilising product blend as specified in PFC 7 containing 28 % or more by mass of nitrogen (N) from an EU fer […truncated by emendrix: 69775 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1009-20230316 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20221003 -->
 ## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
 ### `02019R1009-20220716` → `02019R1009-20221003`
