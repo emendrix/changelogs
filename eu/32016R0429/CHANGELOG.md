@@ -301,7 +301,7 @@ In paragraph 2, the reference to official control under Article 3 of Directive 9
 - **Act** `eu:32016R0429` · **In force** not stated · **Detected** 2026-09-04
 - **Touched** 8 provisions — 8 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 8 modified · 0 deleted · 0 renumbered · 0 deferred · 280 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R0429` · `v2` = `02016R0429-20160331`
 
 ---
@@ -470,7 +470,9 @@ The list of cross-referenced provisions in point (b)(i) of Article 223(1) no lon
 
 *within* `AR 264 PA 3 ALN 1`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The list of articles in paragraph 3 for which delegated-act power is conferred on the Commission was adjusted, replacing the single reference to Article 47 with Article 47(1), replacing Article 118 with Articles 118(1) and 118(2), replacing Article 119 with Article 119(1), and adding Article 162(3) alongside the existing Article 162(4). [Art. 264, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_264) [Art. 264, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_264)
+
+Aside from these added and revised cross-references within the list of empowering provisions, the remainder of Article 264 is unchanged. [Art. 264, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0429#art_264) [Art. 264, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_264)
 
 *before* (`32016R0429`)
 
