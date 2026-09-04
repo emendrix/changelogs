@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32012R0648` · **In force** 2025-01-17 · **Detected** 2026-08-13
 - **Touched** 10 provisions — 10 substantive · 0 date-only · **4 disputed**
 - **Diff** 0 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 132 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20241224` · `v2` = `02012R0648-20250117`
 
 ---
@@ -190,7 +190,9 @@ The prior version of both paragraphs contained no such references to ICT busines
 
 *within* `AR 56 PA 3 ALN 1` · *amended by* `32022R2554`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The introductory wording of paragraph 3 now states that ESMA's draft regulatory technical standards are to specify the details of the application for registration referred to in paragraph 1, excluding requirements related to ICT risk management, whereas the earlier version simply introduced the same list without that exclusion. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_56)
+
+The two sub-points (a) and (b) listing the details for the registration application and the simplified extension application remain present and unchanged in wording in both versions. [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_56)
 
 *before* (`02012R0648-20241224`)
 
