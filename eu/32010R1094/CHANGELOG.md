@@ -329,7 +329,7 @@ The earlier version only provided that the Board of Supervisors may decide to ad
 - **Act** `eu:32010R1094` · **In force** 2020-01-01 · **Detected** 2026-09-04
 - **Touched** 66 provisions — 66 substantive · 0 date-only · **7 disputed**
 - **Diff** 11 inserted · 55 modified · 0 deleted · 0 renumbered · 0 deferred · 30 unchanged
-- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02010R1094-20140523` · `v2` = `02010R1094-20200101`
 
 ---
@@ -837,7 +837,11 @@ Paragraph 3 now ties the development of draft regulatory and implementing techni
 
 *within* `AR 22`, `AR 22 PA 2 ALN 1`, `AR 22 PA 4 ALN 1`, `AR 22 PA 4 ALN 2`, `AR 22 PA 4 ALN 3` · *amended by* `32019R2175`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading changes from "General provisions" to "General provisions on systemic risk". [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_22)
+
+In paragraph 2 the cross-reference to Article 23(1) is shortened to a reference to Article 23. [Art. 22, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_22) [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_22)
+
+Paragraph 4 now describes the inquiry as assessing potential threats to the stability of the financial system or to the protection of customers or consumers, rather than referring only to the stability of the financial system, and it adds that following such an inquiry the Board of Supervisors may make appropriate recommendations to the competent authorities concerned, a step previously stated as being made directly by the Authority within the same sentence as the inquiry. [Art. 22, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_22) [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_22)
 
 *before* (`02010R1094-20140523`)
 
@@ -1023,7 +1027,11 @@ This is a new article requiring the Authority, together with the European Bankin
 
 *within* `AR 32`, `AR 32 PA 1 ALN 1`, `AR 32 PA 2 ALN 1`, `AR 32 PA 2 ALN 1 PTA (a)`, `AR 32 PA 2 ALN 1 PTA (aa)`, `AR 32 PA 2 ALN 1 PTA (c)`, `AR 32 PA 2 ALN 1 PTA (d)`, `AR 32 PA 3 ALN 1` · *amended by* `32019R2175`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading now adds a reference to stress tests, and paragraph 1 changes 'economic analysis' to 'analysis' of the markets and separates the ESRB from the European Parliament, Council and Commission with a comma. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_32)
+
+Paragraph 2 removes the opening reference to cooperating with the ESRB and instead places that cooperation statement after the list, adds a new point (aa) on methodologies for identifying institutions for Union-wide assessments, adds a new point (d) on methodologies for assessing environmental risks to financial stability, and amends point (a) to require that economic-scenario methodologies take into account risks from adverse environmental developments. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_32)
+
+Paragraph 3 changes 'at least once a year' to 'once a year' and adds that the assessments are to be provided in combination with the indicators referred to in Article 22(2) of the Regulation. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_32)
 
 *before* (`02010R1094-20140523`)
 
@@ -1840,7 +1848,11 @@ A new closing sub-paragraph was added stating that voluntary contributions refer
 
 *within* `AR 63 PA 1 ALN 1`, `AR 63 PA 2 ALN 1`, `AR 63 PA 3 ALN 1`, `AR 63 PA 4 ALN 1`, `AR 63 PA 5 ALN 1`, `AR 63 PA 6 ALN 1`, `AR 63 PA 7 ALN 1`, `AR 63 PA 8` · *dates* -2011-12-31 · *amended by* `32019R2175`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision changes from an annual statement of estimates process to a provisional draft single programming document covering three financial years, with revised deadlines and recipients for its transmission. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_63)
+
+The body approving and authorising the establishment plan and the balancing contribution is changed from the budgetary authority to the European Parliament and the Council directly, and the notification and opinion procedure for significant financial projects is replaced by a requirement of authorisation from the European Parliament and the Council, with a new reference to Articles 266 and 267 of the Financial Regulation. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_63)
+
+The paragraph addressing the first year of operation ending 31 December 2011 and its reference to the Interinstitutional Agreement is no longer present. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_63)
 
 *before* (`02010R1094-20140523`)
 

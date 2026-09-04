@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 7,
     "quoted": 0,
-    "unexplained": 6
+    "unexplained": 3
   },
   "changes": [
     {
@@ -176,7 +176,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -311,7 +312,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -434,7 +436,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -561,7 +564,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -694,7 +698,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -855,7 +860,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1028,7 +1034,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1128,7 +1135,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1290,7 +1298,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1349,7 +1358,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1503,7 +1513,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1653,7 +1664,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1753,7 +1765,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1853,7 +1866,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1991,7 +2005,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2072,7 +2087,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2186,7 +2202,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2340,7 +2357,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2502,7 +2520,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2565,10 +2584,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading changes from \"General provisions\" to \"General provisions on systemic risk\".",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20200101",
+                "location": "AR 22"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_22",
+              "label": "Art. 22, 02010R1094-20200101"
+            }
+          ]
+        },
+        {
+          "text": "In paragraph 2 the cross-reference to Article 23(1) is shortened to a reference to Article 23.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20140523",
+                "location": "AR 22"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_22",
+              "label": "Art. 22, 02010R1094-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20200101",
+                "location": "AR 22"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_22",
+              "label": "Art. 22, 02010R1094-20200101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 4 now describes the inquiry as assessing potential threats to the stability of the financial system or to the protection of customers or consumers, rather than referring only to the stability of the financial system, and it adds that following such an inquiry the Board of Supervisors may make appropriate recommendations to the competent authorities concerned, a step previously stated as being made directly by the Authority within the same sentence as the inquiry.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20140523",
+                "location": "AR 22"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_22",
+              "label": "Art. 22, 02010R1094-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20200101",
+                "location": "AR 22"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_22",
+              "label": "Art. 22, 02010R1094-20200101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2695,7 +2799,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2834,7 +2939,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2953,7 +3059,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3129,7 +3236,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3278,7 +3386,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3359,7 +3468,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3425,10 +3535,108 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading now adds a reference to stress tests, and paragraph 1 changes 'economic analysis' to 'analysis' of the markets and separates the ESRB from the European Parliament, Council and Commission with a comma.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20140523",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_32",
+              "label": "Art. 32, 02010R1094-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20200101",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_32",
+              "label": "Art. 32, 02010R1094-20200101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2 removes the opening reference to cooperating with the ESRB and instead places that cooperation statement after the list, adds a new point (aa) on methodologies for identifying institutions for Union-wide assessments, adds a new point (d) on methodologies for assessing environmental risks to financial stability, and amends point (a) to require that economic-scenario methodologies take into account risks from adverse environmental developments.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20140523",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_32",
+              "label": "Art. 32, 02010R1094-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20200101",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_32",
+              "label": "Art. 32, 02010R1094-20200101"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 changes 'at least once a year' to 'once a year' and adds that the assessments are to be provided in combination with the indicators referred to in Article 22(2) of the Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20140523",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_32",
+              "label": "Art. 32, 02010R1094-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20200101",
+                "location": "AR 32"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_32",
+              "label": "Art. 32, 02010R1094-20200101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3597,7 +3805,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3656,7 +3865,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3788,7 +3998,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3948,7 +4159,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4112,7 +4324,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4227,7 +4440,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4398,7 +4612,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4547,7 +4762,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4695,7 +4911,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4795,7 +5012,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4948,7 +5166,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5110,7 +5329,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5191,7 +5411,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5291,7 +5512,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5452,7 +5674,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5588,7 +5811,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5752,7 +5976,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5880,7 +6105,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -5980,7 +6206,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6039,7 +6266,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6187,7 +6415,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6335,7 +6564,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6482,7 +6712,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6630,7 +6861,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6793,7 +7025,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6894,7 +7127,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7022,7 +7256,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7103,7 +7338,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7244,7 +7480,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7313,10 +7550,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The provision changes from an annual statement of estimates process to a provisional draft single programming document covering three financial years, with revised deadlines and recipients for its transmission.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20140523",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_63",
+              "label": "Art. 63, 02010R1094-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20200101",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_63",
+              "label": "Art. 63, 02010R1094-20200101"
+            }
+          ]
+        },
+        {
+          "text": "The body approving and authorising the establishment plan and the balancing contribution is changed from the budgetary authority to the European Parliament and the Council directly, and the notification and opinion procedure for significant financial projects is replaced by a requirement of authorisation from the European Parliament and the Council, with a new reference to Articles 266 and 267 of the Financial Regulation.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20140523",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_63",
+              "label": "Art. 63, 02010R1094-20140523"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20200101",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20200101#art_63",
+              "label": "Art. 63, 02010R1094-20200101"
+            }
+          ]
+        },
+        {
+          "text": "The paragraph addressing the first year of operation ending 31 December 2011 and its reference to the Interinstitutional Agreement is no longer present.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1094",
+                  "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
+                },
+                "version": "02010R1094-20140523",
+                "location": "AR 63"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_63",
+              "label": "Art. 63, 02010R1094-20140523"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7471,7 +7793,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7601,7 +7924,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7699,7 +8023,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7855,7 +8180,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7985,7 +8311,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -8083,7 +8410,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -8210,7 +8538,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -8361,7 +8690,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -8517,7 +8847,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -12771,6 +13102,7 @@
     "no_evidence": 0,
     "model_failed": 3,
     "nothing_to_explain": 3,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 293853,
       "output_tokens": 28842,
@@ -12790,5 +13122,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 3,
+      "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 16465,
+        "output_tokens": 1538,
+        "requests": 4,
+        "schema_repairs": 1
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
