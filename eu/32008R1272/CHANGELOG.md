@@ -3182,10 +3182,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20210510` → `02008R1272-20211001`
 
-- **Act** `eu:32008R1272` · **In force** 2021-06-08, 2021-10-01 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2021-06-08, 2021-10-01 · **Detected** 2026-09-04
 - **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 70 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20210510` · `v2` = `02008R1272-20211001`
 
 ---
@@ -3194,7 +3194,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN II SCT 2`, `AN II SCT 2 SCT 2.12` · *amended by* `32021R0797`, `32020R0217`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The introductory sentence of Part 2 now includes section 2.12 among the statements assigned to mixtures under Article 25(6), where before it only referenced sections 2.1 to 2.10. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20210510#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20211001#anx_II)
+
+A new section 2.12 has been added covering mixtures containing titanium dioxide, setting out label statements EUH211 for liquid mixtures and EUH212 for solid mixtures containing 1% or more of titanium dioxide, and requiring statement EUH210 in addition for such mixtures not intended for the general public and not classified as hazardous. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20211001#anx_II)
 
 *before* (`02008R1272-20210510`)
 
@@ -3260,7 +3262,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -3290,7 +3293,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -3310,7 +3314,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2`, `AN VI SCT 3` · *amended by* `32021R0797`, `32020R0217`, `32021R1962`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The list of notes on identification, classification and labelling of substances gains two new entries, Note V and Note W, which were not present before. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20211001#anx_VI)
+
+Note V addresses evaluation of the substance when placed on the market as fibres or particles meeting certain criteria, including consideration of a higher category or additional routes of exposure, while Note W describes a carcinogenic hazard arising from inhalation of respirable dust and states that it does not constitute a classification criterion. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20211001#anx_VI)
+
+The notes relating to classification and labelling of mixtures also gain a new Note 10 concerning classification as a carcinogen by inhalation for powder mixtures containing titanium dioxide, and the truncated Table 3 material prevents further comparison of section 3 beyond what is shown. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20211001#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20210510#anx_VI)
 
 *before* (`02008R1272-20210510`)
 
@@ -3323,7 +3331,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2001644 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2001646 characters omitted…]
 
 *after* (`02008R1272-20211001`)
 
@@ -3336,7 +3344,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2006697 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2006699 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20211001 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20210510 -->
