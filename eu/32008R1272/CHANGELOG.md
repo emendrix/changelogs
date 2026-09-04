@@ -3492,10 +3492,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20200501` → `02008R1272-20201017`
 
-- **Act** `eu:32008R1272` · **In force** 2020-10-17 · **Detected** 2026-08-13
+- **Act** `eu:32008R1272` · **In force** 2020-10-17 · **Detected** 2026-09-04
 - **Touched** 6 provisions — 6 substantive · 0 date-only · **6 disputed**
 - **Diff** 0 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
-- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20200501` · `v2` = `02008R1272-20201017`
 
 ---
@@ -3506,7 +3506,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Table 1.1 gains two new generic cut-off value entries, for specific target organ toxicity single exposure Category 3 and for aspiration toxicity, each set at 1%, along with an added footnote reference to section 3.8.3.4.6. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_I)
+
+Section 1.1.3.7 on aerosols drops the requirement for scientific evidence demonstrating the aerosolised form is not more hazardous, instead simply referring to the tested non-aerosolised form of the mixture. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_I)
+
+Section 2.1.1.1(c) rewords the phrase describing articles manufactured with a view to producing a practical explosive or pyrotechnic effect, section 2.1.2.2(f) changes the description of Division 1.6 articles from containing extremely insensitive detonating substances to predominantly containing extremely insensitive substances, section 2.1.4.1 replaces the wording on wetted or diluted explosive substances with a reference to desensitised explosives in section 2.17, and section 2.1.4.3 changes the opening condition from stating a substance shall not be classified as explosive to stating the acceptance procedure need not be applied, while Figure 2.1.3 is restructured with a reordered list of questions and a new reference to special provision 347 and a footnote to Chapter 3.3 of the UN RTDG Model Regulations. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_I)
 
 *before* (`02008R1272-20200501`)
 
@@ -3527,7 +3531,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 311925 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 311950 characters omitted…]
 
 *after* (`02008R1272-20201017`)
 
@@ -3548,7 +3552,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 324269 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 324296 characters omitted…]
 
 **MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
 
@@ -3556,7 +3560,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The sub-point numbers for the EUH014, EUH018, EUH019 and EUH044 entries under section 1.1 were changed from 1.1.3, 1.1.4, 1.1.5 and 1.1.6 to 1.1.1, 1.1.2, 1.1.3 and 1.1.4 respectively, duplicating the numbering already used for EUH001 and EUH006. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_II)
+
+In section 2.10, the qualifying phrase describing sensitisers with a specific concentration limit lower than 0,1 % was shortened to refer simply to a substance with a specific concentration limit, removing the numeric threshold wording. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_II)
 
 *before* (`02008R1272-20200501`)
 
@@ -3608,7 +3614,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The after text adds new hazard statement entries H206, H207 and H208 for desensitised explosives, each given with translations across the listed languages, which are not present in the before text. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_III)
+
+The entries for H220, H221, H230 and H231 are relabelled with revised hazard category descriptors (for example H220 now reads Hazard Category 1A and H221 now reads Hazard Category 1B, 2, and H230/H231 now reference chemically unstable gas A/B rather than the prior category letters A and B), while the translated statement text itself is unchanged. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_III)
+
+A new entry H232 for pyrophoric gas under Hazard Category 1A, with its full set of language translations, appears in the after text where it did not appear before; the visible portion of the text is truncated before the remainder of the section can be compared. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_III)
 
 *before* (`02008R1272-20200501`)
 
@@ -3624,7 +3634,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -3654,7 +3665,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -3676,7 +3688,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The introductory guidance before the tables has been expanded, adding statements about a matrix guiding selection of precautionary statements, encouragement to combine or consolidate phrases to save label space, and allowance for minor textual variations in precautionary statements that assist communication without diluting safety advice. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_IV)
+
+Within the tables, several codes are altered or added, including P103 wording changing from a simple instruction to a fuller instruction with a condition tied to P202, a new P212 statement for desensitised explosives, added hazard-category references such as desensitised explosives (section 2.17) and pyrophoric gas across multiple codes like P210, P222, P280, P370, P371, P375, P377, P380, P381, P401 and P403, and revised wording for P332 that ties omission to P333 instead of listing category 3. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_IV)
+
+The text provided is truncated before the remainder of the tables can be compared, so further differences beyond these points cannot be described. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_IV)
 
 *before* (`02008R1272-20200501`)
 
@@ -3709,7 +3725,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In section 1.2, the entry for flammable gases under GHS02 changes from referring to hazard category 1 to referring to hazard categories 1A and 1B. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_V)
+
+Section 1.2 also adds a new entry under GHS02 for Section 2.17, desensitised explosives, covering hazard categories 1, 2, 3, and 4, which was not present before. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_V)
 
 *before* (`02008R1272-20200501`)
 
@@ -3829,7 +3847,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In Table 1.1 the row for flammable gases now lists the codes Flam. Gas 1A, Flam. Gas 1B, Flam. Gas 2 and Pyr. Gas in place of the earlier Flam. Gas 1 and Flam. Gas 2 codes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_VI)
+
+Table 1.1 also gains a new row for desensitised explosives, listing the codes Desen. Expl. 1, Desen. Expl. 2, Desen. Expl. 3 and Desen. Expl. 4, which did not appear in the earlier text. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_VI)
+
+The text shown is truncated before the rest of the entries in Table 3, so any further differences beyond section 1.1.2.1.1 cannot be described. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_VI)
 
 *before* (`02008R1272-20200501`)
 
@@ -3842,7 +3864,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2000766 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2000767 characters omitted…]
 
 *after* (`02008R1272-20201017`)
 
@@ -3855,7 +3877,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2000875 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 2000876 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20201017 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20200501 -->
