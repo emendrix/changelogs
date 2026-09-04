@@ -15,22 +15,12 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02012R0236-20240109` → `02012R0236-20240116`
 
 - **Act** `eu:32012R0236` · **In force** 2024-01-16 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **3 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **2 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0236-20240109` · `v2` = `02012R0236-20240116`
 
 ---
-
-**MODIFIED · Art. 2** · applies from: unknown
-
-*amended by* `32023R2845`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 15 — Buy-in procedures** · applies from: unchanged
 
