@@ -305,28 +305,16 @@ All entries and wording present in the earlier version, including entries 1 thro
 ### `32017R0852` → `02017R0852-20221225`
 
 - **Act** `eu:32017R0852` · **In force** 2022-12-25 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 1 substantive · 1 date-only · **2 disputed**
-- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 1 deferred · 28 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 0 substantive · 1 date-only · **0 disputed**
+- **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 1 deferred · 28 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32017R0852` · `v2` = `02017R0852-20221225`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32022R2526`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **DEFERRED · Art. 13 — Storage of mercury waste** · applies from: 2026-01-01
 
 *within* `AR 13 PA 1 ALN 2` · *dates* -2023-01-01 +2026-01-01 · *amended by* `32022R2526`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The date on which the derogation for temporary storage of mercury waste in liquid form ceases to apply is changed from 1 January 2023 to 1 January 2026. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0852#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20221225#art_13)
 
