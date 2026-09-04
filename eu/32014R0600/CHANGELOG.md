@@ -2755,9 +2755,9 @@ A new sentence was added stating that services and activities not covered by a C
 ### `02014R0600-20200326` → `02014R0600-20200704`
 
 - **Act** `eu:32014R0600` · **In force** 2020-07-04 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20200326` · `v2` = `02014R0600-20200704`
 
 ---
@@ -2765,8 +2765,6 @@ A new sentence was added stating that services and activities not covered by a C
 **MODIFIED · Art. 54 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 54 PA 2 ALN 1` · *dates* -2020-07-03 +2021-02-11 +2021-07-03 · *amended by* `32021R0023`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The deadline by which a CCP or trading venue may apply to its competent authority for permission to use transitional arrangements is changed from a reference to the entry into application of the Regulation to a fixed date of 11 February 2021. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20200704#art_54)
 
@@ -2789,16 +2787,6 @@ The wording describing what happens once a transitional period is approved is re
 > 1. Third-country firms shall be able to continue to provide services and activities in Member States, in accordance with national regimes until three years after the adoption by the Commission of a decision in relation to the relevant third country in accordance with Article 47.
 > 2. If the Commission assesses that there is no need to exclude exchange-traded derivatives from the scope of Articles 35 and 36 in accordance with Article 52(12), a CCP or a trading venue may, before 11 February 2021, apply to its competent authority for permission to avail itself of transitional arrangements. The competent authority, taking into account the risks resulting from the application of the access rights under Article 35 or 36 as regards exchange-traded derivatives to the orderly functioning of the relevant CCP or trading venue, may decide that Article 35 or 36 would not apply to the relevant CCP or trading venue, respectively, in respect of exchange-traded derivatives, for a transitional period until 3 July 2021. Where such a transitional period is approved, the CCP or trading venue shall not benefit from the access rights under Article 35 or 36, as regards exchange-traded derivatives for the duration of that period. The competent authority shall notify ESMA and, in the case of a CCP, the college of competent authorities for that CCP, when a transitional period is approved.
 > Where a CCP which has been approved for the transitional arrangements, is connecte […truncated by emendrix: 486 characters omitted…]
-
-**MODIFIED · Art. 95** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20200704 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20200326 -->
