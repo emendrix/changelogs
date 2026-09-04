@@ -31,7 +31,7 @@
     "date_only": 0,
     "disputed": 0,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -660,11 +660,95 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Section 1.1 now adds a statement that data generated as from 1 June 2008 is not to be treated as existing data subject to the adaptation rules of that point, and section 1.1.1 drops the reference to GLP as an alternative basis for equivalence of physical-chemical data.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20220108",
+                "location": "AN XI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220108#anx_XI",
+              "label": "Annex XI, 02006R1907-20220108"
+            }
+          ]
+        },
+        {
+          "text": "Section 1.2 on weight of evidence is rewritten to describe sufficiency of evidence in terms of a reasoned justification enabling a conclusion on the information requirement, to remove the earlier reference to test methods recognised by the Commission or Agency as equivalent, and to add required documentation elements including robust study summaries and an explanation of why the sources together support a conclusion.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20211001",
+                "location": "AN XI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20211001#anx_XI",
+              "label": "Annex XI, 02006R1907-20211001"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20220108",
+                "location": "AN XI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220108#anx_XI",
+              "label": "Annex XI, 02006R1907-20220108"
+            }
+          ]
+        },
+        {
+          "text": "Section 1.5 adds criteria for establishing structural similarity for UVCB substances, removes the reference to Agency guidance on grouping methodology, and adds new documentation requirements including a robust study summary and supporting justification; section 3.1 changes the scope of testing that may be omitted by adding a tonnage-based limitation for Section 8.6.1 of Annex VIII, and section 3.2(a)(ii) reorders and revises the DNEL-related exception, replacing the two-generation reproductive toxicity study reference with an extended one-generation reproductive toxicity study reference.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20211001",
+                "location": "AN XI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20211001#anx_XI",
+              "label": "Annex XI, 02006R1907-20211001"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32006R1907",
+                  "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
+                },
+                "version": "02006R1907-20220108",
+                "location": "AN XI"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220108#anx_XI",
+              "label": "Annex XI, 02006R1907-20220108"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1376,6 +1460,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 23437,
+        "output_tokens": 1127,
+        "requests": 2,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }

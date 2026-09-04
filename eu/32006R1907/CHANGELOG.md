@@ -723,7 +723,7 @@ The BEFORE text ends at entry 54 and does not contain these five additional entr
 - **Act** `eu:32006R1907` · **In force** 2021-12-12, 2021-12-14, 2022-01-08 · **Detected** 2026-08-13
 - **Touched** 7 provisions — 7 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 151 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20211001` · `v2` = `02006R1907-20220108`
 
 ---
@@ -842,7 +842,11 @@ The two subsequent paragraphs on adverse effects on fertility and on development
 
 *within* `AN XI SCT 1 SCT 1.1`, `AN XI SCT 1 SCT 1.1 SCT 1.1.1`, `AN XI SCT 1 SCT 1.2`, `AN XI SCT 1 SCT 1.5`, `AN XI SCT 1 SCT 1.5 PO 2`, `AN XI SCT 3 SCT 3.1`, `AN XI SCT 3 SCT 3.2 PTA (a) PTI (ii)` · *dates* +2008-06-01 · *amended by* `32021R0979`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Section 1.1 now adds a statement that data generated as from 1 June 2008 is not to be treated as existing data subject to the adaptation rules of that point, and section 1.1.1 drops the reference to GLP as an alternative basis for equivalence of physical-chemical data. [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220108#anx_XI)
+
+Section 1.2 on weight of evidence is rewritten to describe sufficiency of evidence in terms of a reasoned justification enabling a conclusion on the information requirement, to remove the earlier reference to test methods recognised by the Commission or Agency as equivalent, and to add required documentation elements including robust study summaries and an explanation of why the sources together support a conclusion. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20211001#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220108#anx_XI)
+
+Section 1.5 adds criteria for establishing structural similarity for UVCB substances, removes the reference to Agency guidance on grouping methodology, and adds new documentation requirements including a robust study summary and supporting justification; section 3.1 changes the scope of testing that may be omitted by adding a tonnage-based limitation for Section 8.6.1 of Annex VIII, and section 3.2(a)(ii) reorders and revises the DNEL-related exception, replacing the two-generation reproductive toxicity study reference with an extended one-generation reproductive toxicity study reference. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20211001#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220108#anx_XI)
 
 *before* (`02006R1907-20211001`)
 
