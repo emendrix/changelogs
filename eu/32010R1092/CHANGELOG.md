@@ -10,6 +10,79 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1092-20251110 -->
+## Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union […]
+### `02010R1092-20191230` → `02010R1092-20251110`
+
+- **Act** `eu:32010R1092` · **In force** 2025-11-10 · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 19 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02010R1092-20191230` · `v2` = `02010R1092-20251110`
+
+---
+
+**MODIFIED · Art. 8 — Professional secrecy** · applies from: unchanged
+
+*within* `AR 8 PA 3 ALN 1` · *amended by* `32025R2088`
+
+Paragraph 3 now refers to Articles 15 and 16, adding a reference to Article 15 alongside the existing reference to Article 16. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20191230#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_8)
+
+Paragraph 3 also now specifies that the persons referred to in paragraph 1 are those of this Article, a wording not present before. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20191230#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_8)
+
+*before* (`02010R1092-20191230`)
+
+> Article 8
+> Professional secrecy
+> 1. Members of the General Board and any other persons who work or who have worked for or in connection with the ESRB (including the relevant staff of central banks, the Advisory Scientific Committee, the Advisory Technical Committee, the ESAs and the Member States’ competent national supervisory authorities) shall not disclose information that is subject to professional secrecy, even after their duties have ceased.
+> This paragraph is without prejudice to the confidential oral discussions held in accordance with Article 19(5).
+> 2. Information received by members of the ESRB shall be used only in the course of their duties and in performing the tasks set out in Article 3(2).
+> 2a. The members of the ESRB from national central banks, national supervisory authorities and national authorities entrusted with the conduct of macroprudential policy may, in their capacity as members of the ESRB provide to national authorities or to bodies responsible for the stability of the financial system in accordance with Union law or with national arrangements information related to the performance of the tasks entrusted to the ESRB which is necessary for the exercise of statutory tasks of those authorities or bodies, provided that sufficient safeguards are established to ensure full respect of relevant Union law and national arrangements.
+> 2b. Where information originates from other authorities than those referred to in paragraph 2a, members of the ESRB from national ce […truncated by emendrix: 849 characters omitted…]
+
+*after* (`02010R1092-20251110`)
+
+> Article 8
+> Professional secrecy
+> 1. Members of the General Board and any other persons who work or who have worked for or in connection with the ESRB (including the relevant staff of central banks, the Advisory Scientific Committee, the Advisory Technical Committee, the ESAs and the Member States’ competent national supervisory authorities) shall not disclose information that is subject to professional secrecy, even after their duties have ceased.
+> This paragraph is without prejudice to the confidential oral discussions held in accordance with Article 19(5).
+> 2. Information received by members of the ESRB shall be used only in the course of their duties and in performing the tasks set out in Article 3(2).
+> 2a. The members of the ESRB from national central banks, national supervisory authorities and national authorities entrusted with the conduct of macroprudential policy may, in their capacity as members of the ESRB provide to national authorities or to bodies responsible for the stability of the financial system in accordance with Union law or with national arrangements information related to the performance of the tasks entrusted to the ESRB which is necessary for the exercise of statutory tasks of those authorities or bodies, provided that sufficient safeguards are established to ensure full respect of relevant Union law and national arrangements.
+> 2b. Where information originates from other authorities than those referred to in paragraph 2a, members of the ESRB from national ce […truncated by emendrix: 873 characters omitted…]
+
+**MODIFIED · Art. 15 — Collection and exchange of information** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 15 PA 8`, `AR 15 PA 9`, `AR 15 PA 10`, `AR 15 PA 11`, `AR 15 PA 12`, `AR 15 PA 13`, `AR 15 PA 14`, `AR 15 PA 15`, `AR 15 PA 16`, `AR 15 PA 17` · *dates* +2016-04-27 +2018-10-23 +2024-05-31 +2027-11-11 · *amended by* `32025R2088`
+
+The later text adds ten new paragraphs, numbered 8 to 17, to Article 15, none of which appear in the earlier version. [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_15) [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20191230#art_15)
+
+These added paragraphs set out rules on the ESRB sharing information obtained from other authorities, conditions and exceptions for notifying the source authority of such sharing, memoranda of understanding, discretionary release of information for research and re-use, a reporting obligation to the Commission, and a list defining which bodies count as 'other authorities' for the Article. [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_15)
+
+The new paragraph 16 states that the ESRB shall report to the Commission by 11 November 2027. [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_15)
+
+*before* (`02010R1092-20191230`)
+
+> Article 15
+> Collection and exchange of information
+> 1. The ESRB shall provide the ESAs with the information on risks necessary for the achievement of their tasks.
+> 2. The ESAs, the European System of Central Banks (ESCB), the Commission, the national supervisory authorities and national statistics authorities shall cooperate closely with the ESRB and shall provide it with all the information necessary for the fulfilment of its tasks in accordance with Union legislation.
+> 3. Subject to Article 36(2) of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010, the ESRB may request information from the ESAs, as a rule in summary or aggregate form such that individual financial institutions cannot be identified.
+> 4. Before requesting information in accordance with this Article, the ESRB shall first take account of the existing statistics produced, disseminated and developed by the European Statistical System and the ESCB.
+> 5. If the requested information is not available or is not made available in a timely manner, the ESRB may request the information from the ESCB, the national supervisory authorities or the national statistics authorities. If the information remains unavailable, the ESRB may request it from the Member State concerned, without prejudice to the prerogatives conferred, respectively, on the Council, the Commission (Eurostat), the ECB, the Eurosystem and the ESCB in the field of statistics and data collection.
+> 6. If the ESRB reques […truncated by emendrix: 972 characters omitted…]
+
+*after* (`02010R1092-20251110`)
+
+> Article 15
+> Collection and exchange of information
+> 1. The ESRB shall provide the ESAs with the information on risks necessary for the achievement of their tasks.
+> 2. The ESAs, the European System of Central Banks (ESCB), the Commission, the national supervisory authorities and national statistics authorities shall cooperate closely with the ESRB and shall provide it with all the information necessary for the fulfilment of its tasks in accordance with Union legislation.
+> 3. Subject to Article 36(2) of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010, the ESRB may request information from the ESAs, as a rule in summary or aggregate form such that individual financial institutions cannot be identified.
+> 4. Before requesting information in accordance with this Article, the ESRB shall first take account of the existing statistics produced, disseminated and developed by the European Statistical System and the ESCB.
+> 5. If the requested information is not available or is not made available in a timely manner, the ESRB may request the information from the ESCB, the national supervisory authorities or the national statistics authorities. If the information remains unavailable, the ESRB may request it from the Member State concerned, without prejudice to the prerogatives conferred, respectively, on the Council, the Commission (Eurostat), the ECB, the Eurosystem and the ESCB in the field of statistics and data collection.
+> 6. If the ESRB reques […truncated by emendrix: 9076 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1092-20251110 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1092-20191230 -->
 ## Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union […]
 ### `32010R1092` → `02010R1092-20191230`

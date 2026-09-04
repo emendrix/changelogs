@@ -1,0 +1,664 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32010R1092",
+    "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+  },
+  "from_version": "02010R1092-20191230",
+  "to_version": "02010R1092-20251110",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2025-11-10"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 2,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 2,
+    "unchanged_units": 19,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 2,
+    "substantive": 2,
+    "date_only": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1092",
+            "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+          },
+          "version": "02010R1092-20251110",
+          "location": "AR 8"
+        },
+        "heading": "Professional secrecy",
+        "before": "Article 8\nProfessional secrecy\n1. Members of the General Board and any other persons who work or who have worked for or in connection with the ESRB (including the relevant staff of central banks, the Advisory Scientific Committee, the Advisory Technical Committee, the ESAs and the Member States’ competent national supervisory authorities) shall not disclose information that is subject to professional secrecy, even after their duties have ceased.\nThis paragraph is without prejudice to the confidential oral discussions held in accordance with Article 19(5).\n2. Information received by members of the ESRB shall be used only in the course of their duties and in performing the tasks set out in Article 3(2).\n2a. The members of the ESRB from national central banks, national supervisory authorities and national authorities entrusted with the conduct of macroprudential policy may, in their capacity as members of the ESRB provide to national authorities or to bodies responsible for the stability of the financial system in accordance with Union law or with national arrangements information related to the performance of the tasks entrusted to the ESRB which is necessary for the exercise of statutory tasks of those authorities or bodies, provided that sufficient safeguards are established to ensure full respect of relevant Union law and national arrangements.\n2b. Where information originates from other authorities than those referred to in paragraph 2a, members of the ESRB from national central banks, national supervisory authorities and national authorities entrusted with the conduct of macroprudential policy shall use that information for the exercise of their statutory tasks only with the explicit agreement of those authorities.\n3. Without prejudice to Article 16 and the application of criminal law, no confidential information received by the persons referred to in paragraph 1 whilst performing their duties shall be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial institutions cannot be identified.\n4. The ESRB shall, together with the ESAs, agree on and establish specific confidentiality procedures in order to safeguard information regarding individual financial institutions and information from which individual financial institutions can be identified.",
+        "after": "Article 8\nProfessional secrecy\n1. Members of the General Board and any other persons who work or who have worked for or in connection with the ESRB (including the relevant staff of central banks, the Advisory Scientific Committee, the Advisory Technical Committee, the ESAs and the Member States’ competent national supervisory authorities) shall not disclose information that is subject to professional secrecy, even after their duties have ceased.\nThis paragraph is without prejudice to the confidential oral discussions held in accordance with Article 19(5).\n2. Information received by members of the ESRB shall be used only in the course of their duties and in performing the tasks set out in Article 3(2).\n2a. The members of the ESRB from national central banks, national supervisory authorities and national authorities entrusted with the conduct of macroprudential policy may, in their capacity as members of the ESRB provide to national authorities or to bodies responsible for the stability of the financial system in accordance with Union law or with national arrangements information related to the performance of the tasks entrusted to the ESRB which is necessary for the exercise of statutory tasks of those authorities or bodies, provided that sufficient safeguards are established to ensure full respect of relevant Union law and national arrangements.\n2b. Where information originates from other authorities than those referred to in paragraph 2a, members of the ESRB from national central banks, national supervisory authorities and national authorities entrusted with the conduct of macroprudential policy shall use that information for the exercise of their statutory tasks only with the explicit agreement of those authorities.\n3. Without prejudice to Articles 15 and 16 and the application of criminal law, no confidential information received by the persons referred to in paragraph 1 of this Article whilst performing their duties shall be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial institutions cannot be identified.\n4. The ESRB shall, together with the ESAs, agree on and establish specific confidentiality procedures in order to safeguard information regarding individual financial institutions and information from which individual financial institutions can be identified.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 8 PA 3 ALN 1"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R2088",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2025-11-10",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R2088 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (1)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 3 now refers to Articles 15 and 16, adding a reference to Article 15 alongside the existing reference to Article 16.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1092",
+                  "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+                },
+                "version": "02010R1092-20191230",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20191230#art_8",
+              "label": "Art. 8, 02010R1092-20191230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1092",
+                  "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+                },
+                "version": "02010R1092-20251110",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_8",
+              "label": "Art. 8, 02010R1092-20251110"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 also now specifies that the persons referred to in paragraph 1 are those of this Article, a wording not present before.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1092",
+                  "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+                },
+                "version": "02010R1092-20191230",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20191230#art_8",
+              "label": "Art. 8, 02010R1092-20191230"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1092",
+                  "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+                },
+                "version": "02010R1092-20251110",
+                "location": "AR 8"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_8",
+              "label": "Art. 8, 02010R1092-20251110"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    },
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32010R1092",
+            "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+          },
+          "version": "02010R1092-20251110",
+          "location": "AR 15"
+        },
+        "heading": "Collection and exchange of information",
+        "before": "Article 15\nCollection and exchange of information\n1. The ESRB shall provide the ESAs with the information on risks necessary for the achievement of their tasks.\n2. The ESAs, the European System of Central Banks (ESCB), the Commission, the national supervisory authorities and national statistics authorities shall cooperate closely with the ESRB and shall provide it with all the information necessary for the fulfilment of its tasks in accordance with Union legislation.\n3. Subject to Article 36(2) of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010, the ESRB may request information from the ESAs, as a rule in summary or aggregate form such that individual financial institutions cannot be identified.\n4. Before requesting information in accordance with this Article, the ESRB shall first take account of the existing statistics produced, disseminated and developed by the European Statistical System and the ESCB.\n5. If the requested information is not available or is not made available in a timely manner, the ESRB may request the information from the ESCB, the national supervisory authorities or the national statistics authorities. If the information remains unavailable, the ESRB may request it from the Member State concerned, without prejudice to the prerogatives conferred, respectively, on the Council, the Commission (Eurostat), the ECB, the Eurosystem and the ESCB in the field of statistics and data collection.\n6. If the ESRB requests information that is not in summary or aggregate form, the reasoned request shall explain why data on the respective individual financial institution is deemed to be systemically relevant, and necessary, considering the prevailing market situation.\n7. Before each request for information of a supervisory nature which is not in summary or aggregate form, the ESRB shall duly consult the relevant European Supervisory Authority in order to ensure that the request is justified and proportionate. If the relevant European Supervisory Authority does not consider the request to be justified and proportionate, it shall, without delay, send the request back to the ESRB and ask for additional justification. After the ESRB has provided the relevant European Supervisory Authority with such additional justification, the requested information shall be transmitted to the ESRB by the addressees of the request, provided that they have legal access to the relevant information.",
+        "after": "Article 15\nCollection and exchange of information\n1. The ESRB shall provide the ESAs with the information on risks necessary for the achievement of their tasks.\n2. The ESAs, the European System of Central Banks (ESCB), the Commission, the national supervisory authorities and national statistics authorities shall cooperate closely with the ESRB and shall provide it with all the information necessary for the fulfilment of its tasks in accordance with Union legislation.\n3. Subject to Article 36(2) of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010, the ESRB may request information from the ESAs, as a rule in summary or aggregate form such that individual financial institutions cannot be identified.\n4. Before requesting information in accordance with this Article, the ESRB shall first take account of the existing statistics produced, disseminated and developed by the European Statistical System and the ESCB.\n5. If the requested information is not available or is not made available in a timely manner, the ESRB may request the information from the ESCB, the national supervisory authorities or the national statistics authorities. If the information remains unavailable, the ESRB may request it from the Member State concerned, without prejudice to the prerogatives conferred, respectively, on the Council, the Commission (Eurostat), the ECB, the Eurosystem and the ESCB in the field of statistics and data collection.\n6. If the ESRB requests information that is not in summary or aggregate form, the reasoned request shall explain why data on the respective individual financial institution is deemed to be systemically relevant, and necessary, considering the prevailing market situation.\n7. Before each request for information of a supervisory nature which is not in summary or aggregate form, the ESRB shall duly consult the relevant European Supervisory Authority in order to ensure that the request is justified and proportionate. If the relevant European Supervisory Authority does not consider the request to be justified and proportionate, it shall, without delay, send the request back to the ESRB and ask for additional justification. After the ESRB has provided the relevant European Supervisory Authority with such additional justification, the requested information shall be transmitted to the ESRB by the addressees of the request, provided that they have legal access to the relevant information.\n8. The ESRB shall share, on a regular or case-by-case basis, information that it obtained from one of the other authorities when carrying out its duties and that stems from the application and implementation of Union law, with the other authorities upon request, provided that the requesting authority is entitled to obtain that information from financial institutions or the other authorities pursuant to Union law.\n9. A request to exchange information pursuant to paragraph 8 of this Article shall indicate the legal basis under Union law that entitles the requesting authority to obtain the information from financial institutions or the other authorities.\nThe requesting authority and the ESRB shall be subject to the obligations of professional secrecy and data protection laid down in Article 8 and in sectoral legislation which apply to the sharing of information between the financial institution or the other authorities and the requesting authority, and between the other authorities and the ESRB.\n10. Where the ESRB exchanges information pursuant to paragraph 8, it shall, without undue delay, inform each authority from which it obtained the information about the exchange. In the case of recurring or periodic exchanges of information, the ESRB shall be obliged to inform the authority from which it obtained the information only once.\n11. By way of derogation from paragraph 10, the ESRB shall not be obliged to inform the authority about the exchange of information where either of the following conditions is met:\n(a) the information has been anonymised in such a manner that it no longer relates to any identified or identifiable natural person and that the financial institution or other legal entities are no longer identifiable; or\n(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets, and to protect personal data through appropriate technical and organisational measures in accordance with Regulations (EU) 2016/679\nRegulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/679/oj). and (EU) 2018/1725\nRegulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39, ELI: http://data.europa.eu/eli/reg/2018/1725/oj). of the European Parliament and of the Council.\n12. Paragraphs 8 to 11 shall also apply to information that the ESRB has received from the other authorities and upon which the ESRB has subsequently performed quality checks or which the ESRB has otherwise processed.\n13. To facilitate exchanges of information as referred to in paragraphs 8 to 12, the ESRB and the other authorities may enter into memoranda of understanding regarding the arrangements for such exchanges. The memoranda of understanding may also specify arrangements for the sharing of resources for the collection and processing of shared information. The Commission may, after consulting the ESRB and the other authorities, develop guidance on the main elements of such memoranda of understanding.\n14. Paragraphs 8 to 13 shall be without prejudice to the protection of intellectual property rights and shall not prevent or restrict the exchange of information between the ESRB and the other authorities in accordance with other provisions of this Regulation or with other Union legislation.\nIn the event of a conflict between paragraphs 8 to 13 and other provisions of this Regulation or other Union legislation that govern the exchange of information between the ESRB and the other authorities, such other provisions shall prevail.\n15. The ESRB may, at its own discretion, grant access to information obtained when carrying out its duties for re-use by financial institutions, researchers and other entities that have a legitimate interest in that information for research and innovation purposes, provided that the ESRB has ensured that all of the following conditions have been complied with:\n(a) the necessary measures have been taken to anonymise the information in a manner that prevents individual financial institutions, entities, data subjects and Member States from being identified;\n(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets, or content covered by intellectual property rights.\nInformation received from any authority shall be shared pursuant to the first subparagraph only with the consent of the authority that initially obtained that information.\n16. By 11 November 2027, the ESRB shall report to the Commission on all legal obstacles in sectoral legislation that prevent it, in any way, from exchanging information with the other authorities or with other entities. The report may also address non-material, obsolete, duplicative or otherwise irrelevant reporting requirements. It may also include suggestions for improving consistency between reporting requirements for financial and non-financial entities. The report shall be updated on a regular basis, where necessary.\nTaking into account the report referred to in the first subparagraph, the protection of intellectual property rights and the obligations of professional secrecy and data protection, the Commission shall, where appropriate, submit to the European Parliament and to the Council a legislative proposal to remove such legal obstacles in sectoral legislation, to foster the exchange of information between authorities and with other entities.\n17. For the purposes of this Article, other authorities means any of the following authorities:\n(a) the European Supervisory Authority (European Banking Authority);\n(b) the European Supervisory Authority (European Insurance and Occupational Pensions Authority);\n(c) the European Supervisory Authority (European Securities and Markets Authority);\n(d) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1093/2010;\n(e) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1094/2010;\n(f) competent authorities, as defined in Article 4, point (3), of Regulation (EU) No 1095/2010;\n(g) the authorities composing the Single supervisory mechanism, as defined in Article 2, point (9), of Regulation (EU) No 1024/2013;\n(h) the Single Resolution Board, as established by Regulation (EU) No 806/2014;\n(i) resolution authorities, such as those referred to in Article 3(3) of Directive 2014/59/EU;\n(j) the Authority for Anti-Money Laundering and Countering the Financing of Terrorism, as established by Regulation (EU) 2024/1620 of the European Parliament and of the Council\nRegulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (OJ L, 2024/1620, 19.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1620/oj).;\n(k) financial supervisors, as defined in Article 2, second subparagraph, point (1), of Directive (EU) 2024/1640 of the European Parliament and of the Council\nDirective (EU) 2024/1640 of the European Parliament and of the Council of 31 May 2024 on the mechanisms to be put in place by Member States for the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Directive (EU) 2019/1937, and amending and repealing Directive (EU) 2015/849 (OJ L, 2024/1640, 19.6.2024, ELI: http://data.europa.eu/eli/dir/2024/1640/oj)..",
+        "previous_location": null,
+        "changed_within": [
+          "AR 15 PA 8",
+          "AR 15 PA 9",
+          "AR 15 PA 10",
+          "AR 15 PA 11",
+          "AR 15 PA 12",
+          "AR 15 PA 13",
+          "AR 15 PA 14",
+          "AR 15 PA 15",
+          "AR 15 PA 16",
+          "AR 15 PA 17"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025R2088",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2016-04-27",
+          "2018-10-23",
+          "2024-05-31",
+          "2027-11-11"
+        ],
+        "in_force": "2025-11-10",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025R2088 J",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 001 (2)",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The later text adds ten new paragraphs, numbered 8 to 17, to Article 15, none of which appear in the earlier version.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1092",
+                  "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+                },
+                "version": "02010R1092-20251110",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_15",
+              "label": "Art. 15, 02010R1092-20251110"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1092",
+                  "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+                },
+                "version": "02010R1092-20191230",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20191230#art_15",
+              "label": "Art. 15, 02010R1092-20191230"
+            }
+          ]
+        },
+        {
+          "text": "These added paragraphs set out rules on the ESRB sharing information obtained from other authorities, conditions and exceptions for notifying the source authority of such sharing, memoranda of understanding, discretionary release of information for research and re-use, a reporting obligation to the Commission, and a list defining which bodies count as 'other authorities' for the Article.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1092",
+                  "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+                },
+                "version": "02010R1092-20251110",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_15",
+              "label": "Art. 15, 02010R1092-20251110"
+            }
+          ]
+        },
+        {
+          "text": "The new paragraph 16 states that the ESRB shall report to the Commission by 11 November 2027.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1092",
+                  "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+                },
+                "version": "02010R1092-20251110",
+                "location": "AR 15"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1092-20251110#art_15",
+              "label": "Art. 15, 02010R1092-20251110"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32010R1092",
+      "display_name": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board"
+    },
+    "from_version": "02010R1092-20191230",
+    "to_version": "02010R1092-20251110",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 8",
+          "AR 15"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 8",
+          "AR 15"
+        ],
+        "note": "11 annotations in (2019-12-30, 2025-11-10]",
+        "claims": [
+          {
+            "location": "AR 15 PA 11",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 16",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 14",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 12",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 17",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 8 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 8",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 13",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 15",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 9",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 15 PA 10",
+            "change_type": "INSERTED",
+            "in_force": "2025-11-10",
+            "source": "32025R2088 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 8",
+          "AR 15"
+        ],
+        "note": "32025R2088, 1.000 of its instruction clauses read",
+        "claims": [
+          {
+            "location": "AR 8 PA 3",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 001 (1)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 8",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 9",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 10",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 11",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 12",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 13",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 14",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 15",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 16",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          },
+          {
+            "location": "AR 15 PA 17",
+            "change_type": "INSERTED",
+            "in_force": null,
+            "source": "AR 001 (2)",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025R2088",
+              "display_name": "Regulation (EU) 2025/2088 of the European Parliament and of the Council of 8 October 2025 amending Regulations (EU) No 1092/2010, (EU) No 1093/2010, (EU) No 1094/2010, (EU) No 1095/2010, (EU) No 806/2014, (EU) 2021/523 and (EU) 2024/1620 as regards certain reporting requirements in the fields of financial services and investment support (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 2,
+        "right_units": 2,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 2,
+    "explained": 2,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 10383,
+      "output_tokens": 551,
+      "requests": 2,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 2,
+    "passed_first": 2,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 5,
+    "citations": 8,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
