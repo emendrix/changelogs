@@ -924,22 +924,12 @@ No other paragraphs of Article 6 differ between the two texts. [Art. 6, v1](http
 ### `02016R1011-20220101` → `02016R1011-20240109`
 
 - **Act** `eu:32016R1011` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20220101` · `v2` = `02016R1011-20240109`
 
 ---
-
-**MODIFIED · Art. 12** · applies from: unknown
-
-*amended by* `32023R2869`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **INSERTED · Art. 28a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
