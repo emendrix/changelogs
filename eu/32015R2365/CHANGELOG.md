@@ -60,9 +60,9 @@ The article specifies that certain submissions and accessibility obligations und
 ### `32015R2365` → `02015R2365-20220812`
 
 - **Act** `eu:32015R2365` · **In force** 2022-08-12 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 31 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 31 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32015R2365` · `v2` = `02015R2365-20220812`
 
 ---
@@ -122,8 +122,6 @@ Point (b), which exempts the Bank for International Settlements, is otherwise un
 
 *within* `AR 12 PA 2 ALN 1 PTA (m)`, `AR 12 PA 2 ALN 1 PTA (n)` · *dates* +2020-12-16 +2021-01-22 · *amended by* `32021R0023`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 A new point (n) is added to the list of entities in Article 12(2) with direct and immediate access to trade repository data, naming resolution authorities designated under Article 3 of Regulation (EU) 2021/23. [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20220812#art_12)
 
 The preceding point (m), referring to the authorities mentioned in Article 16(1), is unchanged in substance but its closing punctuation is altered to a semicolon to accommodate the new point that follows. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2365#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20220812#art_12)
@@ -159,15 +157,5 @@ The preceding point (m), referring to the authorities mentioned in Article 16(1)
 > (g) the relevant authorities of a third country in respect of which an implementing act pursuant to Article 19(1) has been adopted;
 > (h) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).;
 > (i) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover transactions, markets, participants and assets which fall within the sco […truncated by emendrix: 3355 characters omitted…]
-
-**MODIFIED · Art. 88** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02015R2365-20220812 -->
 
