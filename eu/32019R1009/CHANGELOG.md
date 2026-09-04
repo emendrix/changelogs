@@ -10,6 +10,131 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20240703 -->
+## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
+### `02019R1009-20230316` → `02019R1009-20240703`
+
+- **Act** `eu:32019R1009` · **In force** not stated · **Detected** 2026-09-04
+- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 56 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02019R1009-20230316` · `v2` = `02019R1009-20240703`
+
+---
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN II` · *dates* +2023-05-22
+
+CMC 10, which in the earlier text was left as a placeholder table to be established by a future delegated act, now sets out a substantive table naming processed manure fulfilling conditions in Delegated Regulation (EU) 2023/1605 as a component material, together with detailed conditions on treatment timing, additional processing methods, additive limits, a PAH16 contamination limit, storage requirements, and a compliance-presumption rule. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20230316#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20240703#anx_II)
+
+Because both supplied texts are truncated before the end of Annex II, further differences beyond CMC 10 and into CMC 12 cannot be described from the material shown. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20240703#anx_II)
+
+*before* (`02019R1009-20230316`)
+
+> ANNEX II
+> Component Material Categories (CMCs)
+> An EU fertilising product shall consist solely of component materials complying with the requirements for one or more of the CMCs listed in this Annex.
+> The component materials, and the input materials used to produce them, shall not contain any of the substances for which maximum limit values are indicated in Annex I in such quantities as to jeopardise the EU fertilising product’s compliance with the applicable requirements of that Annex.
+> PART I
+> DESIGNATION OF CMCS
+> CMC 1: Virgin material substances and mixtures
+> CMC 2: Plants, plant parts or plant extracts
+> CMC 3: Compost
+> CMC 4: Fresh crop digestate
+> CMC 5: Digestate other than fresh crop digestate
+> CMC 6: Food industry by-products
+> CMC 7: Micro-organisms
+> CMC 8: Nutrient polymers
+> CMC 9: Polymers other than nutrient polymers
+> CMC 10: Derived products within the meaning of Regulation (EC) No 1069/2009
+> CMC 11: By-products within the meaning of Directive 2008/98/EC
+> CMC 12: Precipitated phosphate salts and derivates
+> CMC 13: Thermal oxidation materials and derivates
+> CMC 14: Pyrolysis and gasification materials
+> CMC 15: Recovered high purity materials
+> PART II
+> REQUIREMENTS RELATED TO CMCS
+> This Part defines the component materials of which EU fertilising products shall solely consist.
+> CMC 1: VIRGIN MATERIAL SUBSTANCES AND MIXTURES
+> 1. An EU fertilising product may contain substances and mixtures, except
+> The exclusion of a material from CMC 1 does not prevent it from being an eligible component mat […truncated by emendrix: 67009 characters omitted…]
+
+*after* (`02019R1009-20240703`)
+
+> ANNEX II
+> Component Material Categories (CMCs)
+> An EU fertilising product shall consist solely of component materials complying with the requirements for one or more of the CMCs listed in this Annex.
+> The component materials, and the input materials used to produce them, shall not contain any of the substances for which maximum limit values are indicated in Annex I in such quantities as to jeopardise the EU fertilising product’s compliance with the applicable requirements of that Annex.
+> PART I
+> DESIGNATION OF CMCS
+> CMC 1: Virgin material substances and mixtures
+> CMC 2: Plants, plant parts or plant extracts
+> CMC 3: Compost
+> CMC 4: Fresh crop digestate
+> CMC 5: Digestate other than fresh crop digestate
+> CMC 6: Food industry by-products
+> CMC 7: Micro-organisms
+> CMC 8: Nutrient polymers
+> CMC 9: Polymers other than nutrient polymers
+> CMC 10: Derived products within the meaning of Regulation (EC) No 1069/2009
+> CMC 11: By-products within the meaning of Directive 2008/98/EC
+> CMC 12: Precipitated phosphate salts and derivates
+> CMC 13: Thermal oxidation materials and derivates
+> CMC 14: Pyrolysis and gasification materials
+> CMC 15: Recovered high purity materials
+> PART II
+> REQUIREMENTS RELATED TO CMCS
+> This Part defines the component materials of which EU fertilising products shall solely consist.
+> CMC 1: VIRGIN MATERIAL SUBSTANCES AND MIXTURES
+> 1. An EU fertilising product may contain substances and mixtures, except
+> The exclusion of a material from CMC 1 does not prevent it from being an eligible component mat […truncated by emendrix: 70110 characters omitted…]
+
+**MODIFIED · Annex III — ANNEX III** · applies from: unchanged
+
+*within* `AN III PO 7c`, `AN III PO 7d`
+
+Two new points, 7c and 7d, have been added to Part I of Annex III, which did not appear in the earlier version. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20240703#anx_III)
+
+Point 7c requires that where an EU fertilising product contains processed manure as referred to in CMC 10 of Annex II, the label must include information on possible air quality impacts from ammonia release with a remediation invitation, and a warning about possible aminopyralid or clopyralid content and its use restrictions, with an exception for products containing no more than 50 micrograms of aminopyralid or clopyralid per kilogram of dry matter. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20240703#anx_III)
+
+Point 7d requires that where an EU fertilising product contains a component material out of manure, the total content of nitrogen originating from manure must be indicated, a requirement absent from the earlier text. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20240703#anx_III) [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20230316#anx_III)
+
+*before* (`02019R1009-20230316`)
+
+> ANNEX III
+> Labelling requirements
+> This Annex sets out the labelling requirements for EU fertilising products. The requirements laid down in Part II and Part III of this Annex for a given PFC, as specified in Annex I, apply to EU fertilising products in all subcategories of that PFC.
+> PART I
+> GENERAL LABELLING REQUIREMENTS
+> 1. The following information shall be provided:
+> (a) for EU fertilising products in PFC 1 to PFC 6, the designation as indicated in Part I of Annex I of the PFC corresponding to the product’s claimed function;
+> (b) for EU fertilising products in PFC 7, the designations as indicated in Part I of Annex I of all the PFCs corresponding to the claimed functions of the component EU fertilising products;
+> (c) the quantity of the EU fertilising product, indicated by mass or volume;
+> (d) instructions for intended use, including application rates, timing and frequency, and target plants or mushrooms;
+> (e) recommended storage conditions;
+> (f) for products containing a polymer belonging to CMC 9 in Part II of Annex II, the time period following use during which the nutrient release is being controlled or the water retention capacity is being increased (the functionality period), which shall not be longer than the period between two applications in accordance with the use instructions referred to in point (d);
+> (g) any relevant information on measures recommended to manage risks to human, animal or plant health, to safety or to the environment; and
+> (h) a list of all ingredients ab […truncated by emendrix: 45296 characters omitted…]
+
+*after* (`02019R1009-20240703`)
+
+> ANNEX III
+> Labelling requirements
+> This Annex sets out the labelling requirements for EU fertilising products. The requirements laid down in Part II and Part III of this Annex for a given PFC, as specified in Annex I, apply to EU fertilising products in all subcategories of that PFC.
+> PART I
+> GENERAL LABELLING REQUIREMENTS
+> 1. The following information shall be provided:
+> (a) for EU fertilising products in PFC 1 to PFC 6, the designation as indicated in Part I of Annex I of the PFC corresponding to the product’s claimed function;
+> (b) for EU fertilising products in PFC 7, the designations as indicated in Part I of Annex I of all the PFCs corresponding to the claimed functions of the component EU fertilising products;
+> (c) the quantity of the EU fertilising product, indicated by mass or volume;
+> (d) instructions for intended use, including application rates, timing and frequency, and target plants or mushrooms;
+> (e) recommended storage conditions;
+> (f) for products containing a polymer belonging to CMC 9 in Part II of Annex II, the time period following use during which the nutrient release is being controlled or the water retention capacity is being increased (the functionality period), which shall not be longer than the period between two applications in accordance with the use instructions referred to in point (d);
+> (g) any relevant information on measures recommended to manage risks to human, animal or plant health, to safety or to the environment; and
+> (h) a list of all ingredients ab […truncated by emendrix: 46477 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1009-20240703 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1009-20230316 -->
 ## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
 ### `02019R1009-20221003` → `02019R1009-20230316`
