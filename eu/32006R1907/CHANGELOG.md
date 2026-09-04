@@ -1881,7 +1881,7 @@ Both the before and after texts are truncated before the full extent of the chan
 - **Act** `eu:32006R1907` · **In force** 2017-07-04 · **Detected** 2026-08-13
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20170302` · `v2` = `02006R1907-20170704`
 
 ---
@@ -1890,7 +1890,11 @@ Both the before and after texts are truncated before the full extent of the chan
 
 *within* `AN XIV` · *dates* +2019-01-04 +2019-04-04 +2019-07-04 +2019-09-01 +2020-07-04 +2020-10-04 +2021-01-04 +2021-03-01 · *amended by* `32017R0999`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The updated Annex adds new introductory transitional-use text concerning spare parts and repair of articles, tied to 1 September 2019 and 1 March 2021 dates, and adds a note on a benzo[a]pyrene concentration threshold, none of which appeared in the earlier version. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV)
+
+The later text also adds twelve new numbered entries, numbers 32 through 43, covering substances such as 1-Bromopropane, several phthalate esters, anthracene oil, coal tar pitch, and two nonylphenol/octylphenol ethoxylate entries, each with its own latest application and sunset dates, which are not present in the earlier version. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV)
+
+Entries 1 through 31 remain textually the same in both versions. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV)
 
 *before* (`02006R1907-20170302`)
 
