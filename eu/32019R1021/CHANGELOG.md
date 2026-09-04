@@ -675,10 +675,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
 ### `32019R1021` → `02019R1021-20190625`
 
-- **Act** `eu:32019R1021` · **In force** not stated · **Detected** 2026-08-13
+- **Act** `eu:32019R1021` · **In force** not stated · **Detected** 2026-09-04
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 27 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32019R1021` · `v2` = `02019R1021-20190625`
 
 ---
@@ -687,27 +687,45 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+References to Directive 2011/65/EC in the entries for tetra-, penta-, hexa- and heptabromodiphenyl ether and decaBDE were corrected to Directive 2011/65/EU, and lowercase forms of the substance names replaced some initial-capitalised forms in those entries. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1021#anx_I)
+
+In the decaBDE entry, cross-references to point 2(b)(ii) and point 2 were changed to point 3(b)(ii) and point 3, and the wording on pyrotechnical devices and applications was adjusted to place "only if airbag relevant" in parentheses after seat covers/fabrics and to add "and" before airbags. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1021#anx_I)
+
+The numeral "1" preceding the Hexabromocyclododecane entry heading was removed. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1021#anx_I)
 
 *before* (`32019R1021`)
 
 > ANNEX I
 > Part A
 > Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
-> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).OJ C 10, 13.1.2016, p. 3.Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced […truncated by emendrix: 15578 characters omitted…]
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).
+> Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+> Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).
+> Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).
+> OJ C 10, 13.1.2016, p. 3.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been rep […truncated by emendrix: 15590 characters omitted…]
 
 *after* (`02019R1021-20190625`)
 
 > ANNEX I
 > Part A
 > Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
-> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).OJ C 10, 13.1.2016, p. 3.Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced […truncated by emendrix: 15578 characters omitted…]
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).
+> Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+> Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).
+> Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).
+> OJ C 10, 13.1.2016, p. 3.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been rep […truncated by emendrix: 15590 characters omitted…]
 
 **MODIFIED · Annex III — ANNEX III** · applies from: unchanged
 
 *within* `AN III`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+In Part B of Annex III, a header line reading "Substance (CAS No)" was added directly above the Hexachlorobenzene entry, matching the header already present in Part A. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1021#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20190625#anx_III)
+
+No substances were added or removed from the list, and no other wording changed. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1021#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20190625#anx_III)
 
 *before* (`32019R1021`)
 
@@ -719,7 +737,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Polychlorinated biphenyls (PCB)
 > PART B
 > Hexachlorobenzene (HCB) (CAS No 118-74-1)
-> Polycyclic aromatic hydrocarbons (PAHs)For the purpose of emission inventories, the following four compound indicators shall be used: benzo(a)pyrene, benzo(b) fluoranthene, benzo(k)fluoranthene and indeno(1,2,3-cd)pyrene.
+> Polycyclic aromatic hydrocarbons (PAHs)
+> For the purpose of emission inventories, the following four compound indicators shall be used: benzo(a)pyrene, benzo(b) fluoranthene, benzo(k)fluoranthene and indeno(1,2,3-cd)pyrene.
 > Pentachlorobenzene (CAS No 608-93-5)
 > Hexachlorobutadiene (CAS No 87-68-3)
 > Polychlorinated naphthalenes (CAS No 70776-03-3 and others)
@@ -735,7 +754,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > PART B
 > Substance (CAS No)
 > Hexachlorobenzene (HCB) (CAS No 118-74-1)
-> Polycyclic aromatic hydrocarbons (PAHs)For the purpose of emission inventories, the following four compound indicators shall be used: benzo(a)pyrene, benzo(b) fluoranthene, benzo(k)fluoranthene and indeno(1,2,3-cd)pyrene.
+> Polycyclic aromatic hydrocarbons (PAHs)
+> For the purpose of emission inventories, the following four compound indicators shall be used: benzo(a)pyrene, benzo(b) fluoranthene, benzo(k)fluoranthene and indeno(1,2,3-cd)pyrene.
 > Pentachlorobenzene (CAS No 608-93-5)
 > Hexachlorobutadiene (CAS No 87-68-3)
 > Polychlorinated naphthalenes (CAS No 70776-03-3 and others)
