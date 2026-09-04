@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 15,
     "quoted": 1,
-    "unexplained": 8
+    "unexplained": 7
   },
   "changes": [
     {
@@ -2292,11 +2292,108 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 2 now covers offers or admissions sought in more than one Member State including the home Member State, or in one or more Member States excluding it, rather than only the latter case, and its language rule now refers to a language accepted by the competent authorities of the home Member State, where relevant, and each host Member State, instead of separately addressing host-authority acceptance and home-authority scrutiny.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20241204",
+                "location": "AR 27"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_27",
+              "label": "Art. 27, 02017R1129-20241204"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20240109",
+                "location": "AR 27"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_27",
+              "label": "Art. 27, 02017R1129-20240109"
+            }
+          ]
+        },
+        {
+          "text": "The summary-availability rule in paragraph 2 is now stated generally for the official language of each Member State rather than being framed as a requirement imposed by the competent authority of each host Member State, and the prohibition on requiring translation of other parts of the prospectus is now addressed to Member States rather than to that competent authority.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20241204",
+                "location": "AR 27"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_27",
+              "label": "Art. 27, 02017R1129-20241204"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20240109",
+                "location": "AR 27"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_27",
+              "label": "Art. 27, 02017R1129-20240109"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 4 no longer states that the summary of the individual issue must be drawn up in the same language as the base prospectus, and instead separately provides that the summary of the individual issue must be available in the official language of the home Member State or another accepted language, with the former subparagraphs (a) and (b) on translation requirements for the summary annexed to final terms replaced by a single sentence addressing availability in the host Member State's language under paragraph 2, second subparagraph.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20241204",
+                "location": "AR 27"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_27",
+              "label": "Art. 27, 02017R1129-20241204"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20240109",
+                "location": "AR 27"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_27",
+              "label": "Art. 27, 02017R1129-20240109"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -6599,6 +6696,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 17502,
+        "output_tokens": 1649,
+        "requests": 3,
+        "schema_repairs": 2
       },
       "coordinates_checked": false
     }

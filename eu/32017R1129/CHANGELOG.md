@@ -829,7 +829,7 @@ It also directs the Commission to adopt delegated acts specifying the reduced co
 - **Act** `eu:32017R1129` · **In force** 2024-12-04 · **Detected** 2026-08-13
 - **Touched** 39 provisions — 39 substantive · 0 date-only · **15 disputed**
 - **Diff** 5 inserted · 31 modified · 3 deleted · 0 renumbered · 0 deferred · 30 unchanged
-- **Gate** 1 sentences quoted verbatim · 8 changes shipped without an explanation
+- **Gate** 1 sentences quoted verbatim · 7 changes shipped without an explanation
 - **Citations** `v1` = `02017R1129-20240109` · `v2` = `02017R1129-20241204`
 
 ---
@@ -1365,7 +1365,11 @@ A new paragraph 4a restricts the use of a base-prospectus supplement to introduc
 
 *within* `AR 27 PA 2 ALN 1`, `AR 27 PA 2 ALN 2`, `AR 27 PA 4 ALN 1`, `AR 27 PA 4 ALN 1 PTA (a)`, `AR 27 PA 4 ALN 1 PTA (b)`, `AR 27 PA 4 ALN 2`, `AR 27 PA 4 ALN 3` · *amended by* `32024R2809`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+Paragraph 2 now covers offers or admissions sought in more than one Member State including the home Member State, or in one or more Member States excluding it, rather than only the latter case, and its language rule now refers to a language accepted by the competent authorities of the home Member State, where relevant, and each host Member State, instead of separately addressing host-authority acceptance and home-authority scrutiny. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_27) [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_27)
+
+The summary-availability rule in paragraph 2 is now stated generally for the official language of each Member State rather than being framed as a requirement imposed by the competent authority of each host Member State, and the prohibition on requiring translation of other parts of the prospectus is now addressed to Member States rather than to that competent authority. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_27) [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_27)
+
+Paragraph 4 no longer states that the summary of the individual issue must be drawn up in the same language as the base prospectus, and instead separately provides that the summary of the individual issue must be available in the official language of the home Member State or another accepted language, with the former subparagraphs (a) and (b) on translation requirements for the summary annexed to final terms replaced by a single sentence addressing availability in the host Member State's language under paragraph 2, second subparagraph. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_27) [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_27)
 
 *before* (`02017R1129-20240109`)
 
