@@ -28489,7 +28489,7 @@ A new paragraph 7 introduces a six-month transitional period for institutions to
 
 *within* `AR 458 PA 2 ALN 1`, `AR 458 PA 2 ALN 1 PTA (a)`, `AR 458 PA 2 ALN 1 PTA (b)`, `AR 458 PA 2 ALN 1 PTA (c)`, `AR 458 PA 2 ALN 1 PTA (d)`, `AR 458 PA 2 ALN 1 PTA (e)`, `AR 458 PA 2 ALN 1 PTA (f)`, `AR 458 PA 2 ALN 2`, `AR 458 PA 4 ALN 2`, `AR 458 PA 4 ALN 6`, `AR 458 PA 4 ALN 6 PTA (b)`, `AR 458 PA 4 ALN 6 PTA (c)`, `AR 458 PA 4 ALN 6 PTA (d)`, `AR 458 PA 4 ALN 6 PTA (e)`, `AR 458 PA 4 ALN 7`, `AR 458 PA 4 ALN 8`, `AR 458 PA 5 ALN 1`, `AR 458 PA 9 ALN 1`, `AR 458 PA 10 ALN 1` · *amended by* `32019R0876`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20200627`)
 
@@ -28630,7 +28630,7 @@ The reference to the prior directive not applying on 31 December 2006 now names 
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20200627`)
 
@@ -28788,7 +28788,7 @@ The reference to the prior directive not applying on 31 December 2006 now names 
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · TIT** · applies from: unknown
+**MODIFIED · Title** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -28798,7 +28798,7 @@ The reference to the prior directive not applying on 31 December 2006 now names 
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · SCT 3** · applies from: unknown
+**MODIFIED · Section 3** · applies from: unknown
 
 *amended by* `32019R0876`
 
