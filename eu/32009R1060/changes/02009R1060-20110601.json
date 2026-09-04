@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 66,
     "quoted": 0,
-    "unexplained": 27
+    "unexplained": 26
   },
   "changes": [
     {
@@ -2283,11 +2283,95 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading and body of Article 16 change the examining actor from the competent authority of the home Member State and the members of the relevant college, coordinated by a facilitator, to ESMA acting alone.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20091207",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_16",
+              "label": "Art. 16, 02009R1060-20091207"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20110601",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_16",
+              "label": "Art. 16, 02009R1060-20110601"
+            }
+          ]
+        },
+        {
+          "text": "The process is shortened and restructured: the joint examination and agreement-seeking steps, the CESR advice step, and the separate refusal-decision procedure for continued disagreement are removed, and the examination period, extension period, and cross-references to Article 15 timings are all changed to new figures tied to Article 15(4) instead of Article 15(5).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20091207",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_16",
+              "label": "Art. 16, 02009R1060-20091207"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20110601",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_16",
+              "label": "Art. 16, 02009R1060-20110601"
+            }
+          ]
+        },
+        {
+          "text": "A new paragraph is added stating that the decision adopted by ESMA under paragraph 3 takes effect on the fifth working day following its adoption, a provision not present in the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1060",
+                  "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
+                },
+                "version": "02009R1060-20110601",
+                "location": "AR 16"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_16",
+              "label": "Art. 16, 02009R1060-20110601"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -10352,6 +10436,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 8653,
+        "output_tokens": 777,
+        "requests": 2,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }

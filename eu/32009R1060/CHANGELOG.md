@@ -2264,7 +2264,7 @@ A minor wording change also appears earlier in the same paragraph, where the phr
 - **Act** `eu:32009R1060` · **In force** 2011-06-01 · **Detected** 2026-08-13
 - **Touched** 75 provisions — 75 substantive · 0 date-only · **66 disputed**
 - **Diff** 19 inserted · 54 modified · 2 deleted · 0 renumbered · 0 deferred · 13 unchanged
-- **Gate** 0 sentences quoted verbatim · 27 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 26 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20091207` · `v2` = `02009R1060-20110601`
 
 ---
@@ -2778,7 +2778,11 @@ The separate steps previously split between CESR's transmission and advice role 
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading and body of Article 16 change the examining actor from the competent authority of the home Member State and the members of the relevant college, coordinated by a facilitator, to ESMA acting alone. [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_16)
+
+The process is shortened and restructured: the joint examination and agreement-seeking steps, the CESR advice step, and the separate refusal-decision procedure for continued disagreement are removed, and the examination period, extension period, and cross-references to Article 15 timings are all changed to new figures tied to Article 15(4) instead of Article 15(5). [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_16)
+
+A new paragraph is added stating that the decision adopted by ESMA under paragraph 3 takes effect on the fifth working day following its adoption, a provision not present in the earlier text. [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_16)
 
 *before* (`02009R1060-20091207`)
 
