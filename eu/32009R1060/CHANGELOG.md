@@ -916,21 +916,21 @@ It also directs ESMA to publish the submitted individual credit ratings on a web
 
 ---
 
-**MODIFIED · Art. 2.3** · applies from: unknown
+**MODIFIED · Art. 2** · applies from: unknown
 
 *amended by* `32014L0051`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · Art. 3** · applies from: unknown
+**MODIFIED · Art. 2.3** · applies from: unknown
 
 *amended by* `32014L0051`
 
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
 
