@@ -31,7 +31,7 @@
     "date_only": 0,
     "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -208,11 +208,63 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The formula for the hypothetical capital calculation was rewritten, replacing the earlier expression that used exposure value before risk mitigation, initial margin and pre-funded contribution as separate terms with a single exposure amount (EADi) that is defined to already include the clearing member's own transactions, guaranteed client transactions, and all collateral held including the pre-funded default fund contribution.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20210213",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_50a",
+              "label": "Art. 50a, 02012R0648-20210213"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20210628",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a",
+              "label": "Art. 50a, 02012R0648-20210628"
+            }
+          ]
+        },
+        {
+          "text": "The valuation reference point was changed from the end of the day before the final margin call to the end of the regulatory reporting date before the final margin call.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20210628",
+                "location": "AR 50a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a",
+              "label": "Art. 50a, 02012R0648-20210628"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1033,6 +1085,20 @@
         "output_tokens": 0,
         "requests": 0,
         "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 8221,
+        "output_tokens": 567,
+        "requests": 2,
+        "schema_repairs": 1
       },
       "coordinates_checked": false
     }

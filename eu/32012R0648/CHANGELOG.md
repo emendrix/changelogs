@@ -2266,7 +2266,7 @@ Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, 
 - **Act** `eu:32012R0648` · **In force** 2021-06-17, 2021-06-18, 2021-06-28 · **Detected** 2026-08-13
 - **Touched** 7 provisions — 7 substantive · 0 date-only · **1 disputed**
 - **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 121 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20210213` · `v2` = `02012R0648-20210628`
 
 ---
@@ -2309,7 +2309,9 @@ This paragraph 3a did not appear in the earlier version of Article 4, which move
 
 *within* `AR 50a PA 2 ALN 1` · *amended by* `32019R0876`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The formula for the hypothetical capital calculation was rewritten, replacing the earlier expression that used exposure value before risk mitigation, initial margin and pre-funded contribution as separate terms with a single exposure amount (EADi) that is defined to already include the clearing member's own transactions, guaranteed client transactions, and all collateral held including the pre-funded default fund contribution. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a)
+
+The valuation reference point was changed from the end of the day before the final margin call to the end of the regulatory reporting date before the final margin call. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a)
 
 *before* (`02012R0648-20210213`)
 
