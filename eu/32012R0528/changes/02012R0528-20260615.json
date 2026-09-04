@@ -8,7 +8,7 @@
   },
   "from_version": "02012R0528-20240611",
   "to_version": "02012R0528-20260615",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-04",
   "in_force": [
     "2026-06-15"
   ],
@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 0,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 0
   },
   "changes": [
     {
@@ -89,11 +89,44 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The second subparagraph of paragraph 1 was reworded: instead of stating that data protected under the Article, or for which the protection period has expired, shall not be protected again, it now states that protection periods under the Article which have expired shall not start to run again, and it adds a cross-reference making this without prejudice to the second subparagraph of Article 95(5).",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20240611",
+                "location": "AR 60"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240611#art_60",
+              "label": "Art. 60, 02012R0528-20240611"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20260615",
+                "location": "AR 60"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260615#art_60",
+              "label": "Art. 60, 02012R0528-20260615"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -159,11 +192,50 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 5 now adds a further derogation stating that data protection periods for active substance/product-type combinations lacking an approval decision under Article 89(1), third subparagraph, by 7 June 2018 will end on 31 December 2030.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20260615",
+                "location": "AR 95"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260615#art_95",
+              "label": "Art. 95, 02012R0528-20260615"
+            }
+          ]
+        },
+        {
+          "text": "A new provision also allows data owners to claim compensation for access to their data for the period from 1 January 2026 to 15 June 2026 from a substance or product supplier that benefitted from the absence of protection and was included in the list under paragraph 1 during that period.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20260615",
+                "location": "AR 95"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260615#art_95",
+              "label": "Art. 95, 02012R0528-20260615"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}",
-      "unexplained_kind": "provider_unavailable"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -293,31 +365,31 @@
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
     "changes": 2,
-    "explained": 0,
-    "unavailable": 2,
+    "explained": 2,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 0,
-    "provider_unavailable": 2,
+    "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 0,
-      "output_tokens": 0,
-      "requests": 0,
+      "input_tokens": 9110,
+      "output_tokens": 453,
+      "requests": 2,
       "schema_repairs": 0
     }
   },
   "gate": {
     "changes": 2,
-    "passed_first": 0,
+    "passed_first": 2,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 2,
+    "unexplained": 0,
     "retries": 0,
-    "sentences": 0,
-    "citations": 0,
+    "sentences": 3,
+    "citations": 4,
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0

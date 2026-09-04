@@ -14,10 +14,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20240611` → `02012R0528-20260615`
 
-- **Act** `eu:32012R0528` · **In force** 2026-06-15 · **Detected** 2026-08-13
+- **Act** `eu:32012R0528` · **In force** 2026-06-15 · **Detected** 2026-09-04
 - **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 102 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20240611` · `v2` = `02012R0528-20260615`
 
 ---
@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 60 PA 1 ALN 2` · *amended by* `32026R1165`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+The second subparagraph of paragraph 1 was reworded: instead of stating that data protected under the Article, or for which the protection period has expired, shall not be protected again, it now states that protection periods under the Article which have expired shall not start to run again, and it adds a cross-reference making this without prejudice to the second subparagraph of Article 95(5). [Art. 60, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240611#art_60) [Art. 60, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260615#art_60)
 
 *before* (`02012R0528-20240611`)
 
@@ -54,7 +54,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 95 PA 5 ALN 2`, `AR 95 PA 5 ALN 3` · *dates* +2018-06-07 +2026-01-01 +2026-06-15 +2030-12-31 · *amended by* `32026R1165`
 
-*No explanation shipped — ModelHTTPError: status_code: 402, model_name: anthropic/claude-sonnet-5, body: {'message': 'Insufficient credits. Add more using https://openrouter.ai/settings/credits', 'code': 402, 'metadata': {'limit_source': 'openrouter_credits', 'remedy_hint': 'Add credits at https://openrouter.ai/settings/credits, or lower max_tokens / prompt size to fit your remaining balance.'}}.*
+Paragraph 5 now adds a further derogation stating that data protection periods for active substance/product-type combinations lacking an approval decision under Article 89(1), third subparagraph, by 7 June 2018 will end on 31 December 2030. [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260615#art_95)
+
+A new provision also allows data owners to claim compensation for access to their data for the period from 1 January 2026 to 15 June 2026 from a substance or product supplier that benefitted from the absence of protection and was included in the list under paragraph 1 during that period. [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260615#art_95)
 
 *before* (`02012R0528-20240611`)
 
