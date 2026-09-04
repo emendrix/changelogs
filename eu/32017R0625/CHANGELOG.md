@@ -388,7 +388,7 @@ A new separate sentence is added stating that provisions of Directive 97/78/EC g
 - **Act** `eu:32017R0625` · **In force** not stated · **Detected** 2026-09-04
 - **Touched** 12 provisions — 12 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 12 modified · 0 deleted · 0 renumbered · 0 deferred · 160 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32017R0625` · `v2` = `02017R0625-20170407`
 
 ---
@@ -658,7 +658,9 @@ The blank official journal citation for the referenced regulation is filled in w
 
 *within* `AR 162 ALN 1 PO 1 PTA (c)`, `AR 162 ALN 1 PO 2 PTA (a)`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The placeholder references to Regulation (EU) 2017/… were filled in with the actual number 2017/625 in the amended text of Article 36(3) and Article 37(1)(a) and (b) of Regulation (EU) No 1151/2012. [Art. 162, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_162)
+
+The blank Official Journal publication reference for that Regulation was also completed, giving the volume, date and page as OJ L 95, 7.4.2017, p. 1. [Art. 162, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20170407#art_162)
 
 *before* (`32017R0625`)
 
