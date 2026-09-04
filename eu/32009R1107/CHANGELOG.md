@@ -10,6 +10,53 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20181110 -->
+## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
+### `02009R1107-20170828` → `02009R1107-20181110`
+
+- **Act** `eu:32009R1107` · **In force** 2018-11-10 · **Detected** 2026-09-04
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1107-20170828` · `v2` = `02009R1107-20181110`
+
+---
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN II SCT 3 SCT 3.6`, `AN II SCT 3 SCT 3.6 PO 1`, `AN II SCT 3 SCT 3.6 PO 2`, `AN II SCT 3 SCT 3.6 PO 3`, `AN II SCT 3 SCT 3.6 PTA (a)`, `AN II SCT 3 SCT 3.6 PTA (b)`, `AN II SCT 3 SCT 3.6 PTA (c)`, `AN II SCT 3 SCT 3.6 PTA (d)`, `AN II SCT 3 SCT 3.6 PTA (e)`, `AN II SCT 3 SCT 3.6 PO 4`, `AN II SCT 3 SCT 3.8`, `AN II SCT 3 SCT 3.8 PO 1`, `AN II SCT 3 SCT 3.8 PO 2`, `AN II SCT 3 SCT 3.8 PO 3`, `AN II SCT 3 SCT 3.8 PTA (a)`, `AN II SCT 3 SCT 3.8 PTA (b)`, `AN II SCT 3 SCT 3.8 PTA (c)`, `AN II SCT 3 SCT 3.8 PTA (d)`, `AN II SCT 3 SCT 3.8 PTA (e)`, `AN II SCT 3 SCT 3.8 PO 4` · *dates* +2018-11-10 · *amended by* `32018R0605`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+Section 3.6 gains new paragraphs setting out detailed scientific criteria for identifying an active substance, safener or synergist as having endocrine disrupting properties that may cause adverse effects in humans, including a list of factors to weigh in assessing available scientific data. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20181110#anx_II)
+
+Section 3.8 similarly gains new paragraphs setting out parallel criteria for identifying endocrine disrupting properties that may cause adverse effects on non-target organisms, with its own list of assessment factors adapted to that context. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20181110#anx_II)
+
+These additions do not appear in the earlier version of Annex II, which ends section 3.6 and section 3.8 without any such criteria. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20170828#anx_II)
+
+*before* (`02009R1107-20170828`)
+
+> ANNEX II
+> Procedure and criteria for the approval of active substances, safeners and synergists pursuant to Chapter II
+> 1. Evaluation
+> 1.1. During the process of evaluation and decision-making provided for in Articles 4 to 21, the rapporteur Member State and the Authority shall cooperate with applicants to resolve any questions on the dossier quickly or to identify at an early stage any further explanations or additional studies necessary for the evaluation of the dossier, including information to eliminate the need for a restriction of the approval, or to amend any proposed conditions for the use of the plant protection product or to modify its nature or its composition in order to ensure full satisfaction of the requirements of this Regulation.
+> 1.2. The evaluation by the Authority and the rapporteur Member State must be based on scientific principles and be made with the benefit of expert advice.
+> 1.3. During the process of evaluation and decision-making provided for in Articles 4 to 21, Member States and the Authority shall take into consideration any further guidance developed in the framework of the Standing Committee on the Food Chain and Animal Health for the purposes of refining, where relevant, the risk assessments.
+> 2. General decision-making criteria
+> 2.1. Article 4 shall only be considered as complied with, where, on the basis of the dossier submitted, authorisation in at least one Member State is expected to be possible for at least one plant protection product contain […truncated by emendrix: 20170 characters omitted…]
+
+*after* (`02009R1107-20181110`)
+
+> ANNEX II
+> Procedure and criteria for the approval of active substances, safeners and synergists pursuant to Chapter II
+> 1. Evaluation
+> 1.1. During the process of evaluation and decision-making provided for in Articles 4 to 21, the rapporteur Member State and the Authority shall cooperate with applicants to resolve any questions on the dossier quickly or to identify at an early stage any further explanations or additional studies necessary for the evaluation of the dossier, including information to eliminate the need for a restriction of the approval, or to amend any proposed conditions for the use of the plant protection product or to modify its nature or its composition in order to ensure full satisfaction of the requirements of this Regulation.
+> 1.2. The evaluation by the Authority and the rapporteur Member State must be based on scientific principles and be made with the benefit of expert advice.
+> 1.3. During the process of evaluation and decision-making provided for in Articles 4 to 21, Member States and the Authority shall take into consideration any further guidance developed in the framework of the Standing Committee on the Food Chain and Animal Health for the purposes of refining, where relevant, the risk assessments.
+> 2. General decision-making criteria
+> 2.1. Article 4 shall only be considered as complied with, where, on the basis of the dossier submitted, authorisation in at least one Member State is expected to be possible for at least one plant protection product contain […truncated by emendrix: 27482 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1107-20181110 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1107-20170828 -->
 ## Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of […]
 ### `02009R1107-20140630` → `02009R1107-20170828`
