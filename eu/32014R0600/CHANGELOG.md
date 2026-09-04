@@ -120,28 +120,16 @@ Correspondingly, the list of paragraphs referenced in paragraph 5(b) as containi
 ### `02014R0600-20240328` → `02014R0600-20241204`
 
 - **Act** `eu:32014R0600` · **In force** 2024-12-04 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 94 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 94 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20240328` · `v2` = `02014R0600-20241204`
 
 ---
 
-**MODIFIED · Art. 3** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 25 — Obligation to maintain records** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 25 PA 2 ALN 1`, `AR 25 PA 3 ALN 1`, `AR 25 PA 3 ALN 3`, `AR 25 PA 3 ALN 4` · *dates* -2015-07-03 +2025-09-05 · *amended by* `32024R2809`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 2 now adds a sentence allowing the competent authority of the trading venue to request the order data on an ongoing basis, alongside minor wording changes from 'pursuant to this paragraph' to 'under this paragraph'. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_25) [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25)
 
