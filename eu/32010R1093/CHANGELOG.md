@@ -492,9 +492,9 @@ The reference to Directive 2013/36/EU also drops the phrase describing prudentia
 ### `02010R1093-20200101` → `02010R1093-20210626`
 
 - **Act** `eu:32010R1093` · **In force** 2021-06-26 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 97 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 97 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20200101` · `v2` = `02010R1093-20210626`
 
 ---
@@ -502,8 +502,6 @@ The reference to Directive 2013/36/EU also drops the phrase describing prudentia
 **MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 4 ALN 1 PO 2 PTI (vii)`, `AR 4 ALN 1 PO 2 PTI (viii)` · *dates* +2019-11-27 +2019-12-05 · *amended by* `32019R2033`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of competent authorities in point (2) now ends with a semicolon after item (vii) instead of a full stop, and a new item (viii) has been added covering competent authorities as defined in point (5) of Article 3(1) of Directive (EU) 2019/2034, referenced together with Regulation (EU) 2019/2033. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20210626#art_4)
 
@@ -534,16 +532,6 @@ The earlier version of Article 4 ended its list of competent authorities at item
 > (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by financial institutions;
 > (iii) with regard to Directive (EU) 2015/849, the authorities and bodies that supervise financial sector operators and are competent for ensuring their compliance with the requirements of that Directive;
 > (iv) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 3698 characters omitted…]
-
-**MODIFIED · Art. 61** · applies from: unknown
-
-*amended by* `32019R2033`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20210626 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20200101 -->
