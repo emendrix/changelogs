@@ -612,28 +612,16 @@ The only change is that the word 'situation' in the earlier text has been replac
 ### `02013R0952-20131030` → `02013R0952-20161224`
 
 - **Act** `eu:32013R0952` · **In force** 2016-12-24 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 287 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 287 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0952-20131030` · `v2` = `02013R0952-20161224`
 
 ---
 
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32016R2339`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 136 — Goods that have temporarily left the customs territory of the Union by sea or air** · applies from: unchanged
 
 *within* `AR 136`, `AR 136 PA 1`, `AR 136 PA 2`, `AR 136 PA 3`, `AR 136 ALN 1` · *amended by* `32016R2339`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading changed from referring to intra-Union air and sea services to referring to goods that have temporarily left the customs territory of the Union by sea or air. [Art. 136, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_136) [Art. 136, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20161224#art_136)
 
