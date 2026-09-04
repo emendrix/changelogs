@@ -1479,7 +1479,7 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 - **Act** `eu:32014R0806` · **In force** 2020-12-28 · **Detected** 2026-08-13
 - **Touched** 24 provisions — 24 substantive · 0 date-only · **11 disputed**
 - **Diff** 12 inserted · 12 modified · 0 deleted · 0 renumbered · 0 deferred · 87 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32014R0806` · `v2` = `02014R0806-20201228`
 
 ---
@@ -1655,7 +1655,11 @@ The new provision sets out an assessment and monthly review process for the Boar
 
 *within* `AR 12 PA 1 ALN 1`, `AR 12 PA 2 ALN 1`, `AR 12 PA 2 ALN 2`, `AR 12 PA 3 ALN 1`, `AR 12 PA 4 ALN 1`, `AR 12 PA 4 ALN 2`, `AR 12 PA 5 ALN 1`, `AR 12 PA 5 ALN 1 PTA (a)`, `AR 12 PA 5 ALN 1 PTA (b)`, `AR 12 PA 6 ALN 1`, `AR 12 PA 6 ALN 2`, `AR 12 PA 6 ALN 3`, `AR 12 PA 7 ALN 1`, `AR 12 PA 7 ALN 1 PTA (a)`, `AR 12 PA 7 ALN 1 PTA (b)`, `AR 12 PA 7 ALN 1 PTA (c)`, `AR 12 PA 8`, `AR 12 PA 9`, `AR 12 PA 10`, `AR 12 PA 11`, `AR 12 PA 12`, `AR 12 PA 13`, `AR 12 PA 14`, `AR 12 PA 15`, `AR 12 PA 16`, `AR 12 PA 17`, `AR 12 PA 18` · *amended by* `32019R0877`
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The provision has been substantially shortened and reorganized, replacing the earlier detailed rules on calculation, exemptions, criteria, waivers and contractual bail-in instruments (formerly paragraphs 4 through 18) with a shorter set of provisions that now cross-refer to requirements set out in Articles 12a to 12i rather than defining them within Article 12 itself. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0806#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12)
+
+A new reporting obligation has been added, requiring entities referred to in paragraph 1, including those in groups, to report information under Article 45i(1), (2) and (4) of Directive 2014/59/EU to their national resolution authority, which must then transmit that information to the Board without undue delay. [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12)
+
+The remaining paragraphs on the Board addressing determinations to national resolution authorities, informing the ECB and EBA, and issuing guidelines have been retained but renumbered and reworded to refer to entities and groups generally rather than to institutions and parent undertakings specifically. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0806#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12)
 
 *before* (`32014R0806`)
 
