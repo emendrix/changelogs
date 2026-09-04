@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 38,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 3
   },
   "changes": [
     {
@@ -1510,11 +1510,63 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The heading changes from a general calculation-of-risk-weighted-exposure-amounts title to one specifically labelled Synthetic securitisation, and the article's content is replaced entirely: the earlier version covered both traditional and synthetic securitisation calculation rules along with tranche treatment and total risk weight determination, while the later version instead sets out detailed conditions for when an originator institution of a synthetic securitisation may calculate risk-weighted exposure amounts, including significant credit risk transfer tests, competent authority derogation procedures, documentation and legal opinion requirements, and EBA reporting and monitoring obligations.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20180101",
+                "location": "AR 245"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_245",
+              "label": "Art. 245, 02013R0575-20180101"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190101",
+                "location": "AR 245"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_245",
+              "label": "Art. 245, 02013R0575-20190101"
+            }
+          ]
+        },
+        {
+          "text": "The later version adds a specific reporting deadline requiring the EBA to report its findings to the Commission by 2 January 2021, a provision absent from the earlier text.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20190101",
+                "location": "AR 245"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_245",
+              "label": "Art. 245, 02013R0575-20190101"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -7106,6 +7158,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 5380,
+        "output_tokens": 371,
+        "requests": 1,
         "schema_repairs": 0
       },
       "coordinates_checked": false

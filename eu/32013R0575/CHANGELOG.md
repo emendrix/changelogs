@@ -35436,7 +35436,7 @@ The new article also states that if an institution modifies the terms of such a 
 - **Act** `eu:32013R0575` · **In force** 2019-01-01 · **Detected** 2026-08-13
 - **Touched** 50 provisions — 50 substantive · 0 date-only · **38 disputed**
 - **Diff** 7 inserted · 43 modified · 0 deleted · 0 renumbered · 0 deferred · 487 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20180101` · `v2` = `02013R0575-20190101`
 
 ---
@@ -35852,7 +35852,9 @@ The closing paragraphs replace the EBA guideline-issuance and Member State revie
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The heading changes from a general calculation-of-risk-weighted-exposure-amounts title to one specifically labelled Synthetic securitisation, and the article's content is replaced entirely: the earlier version covered both traditional and synthetic securitisation calculation rules along with tranche treatment and total risk weight determination, while the later version instead sets out detailed conditions for when an originator institution of a synthetic securitisation may calculate risk-weighted exposure amounts, including significant credit risk transfer tests, competent authority derogation procedures, documentation and legal opinion requirements, and EBA reporting and monitoring obligations. [Art. 245, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_245) [Art. 245, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_245)
+
+The later version adds a specific reporting deadline requiring the EBA to report its findings to the Commission by 2 January 2021, a provision absent from the earlier text. [Art. 245, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_245)
 
 *before* (`02013R0575-20180101`)
 
