@@ -19831,7 +19831,7 @@ Several later points are also altered, including the addition of investment firm
 
 *within* `AR 6 PA 1 ALN 1`, `AR 6 PA 3 ALN 2`, `AR 6 PA 4 ALN 1`, `AR 6 PA 4 ALN 1 PTA (a)`, `AR 6 PA 4 ALN 1 PTA (b)`, `AR 6 PA 4 ALN 1 PTA (c)`, `AR 6 PA 5 ALN 1` · *dates* +2014-07-23 · *amended by* `32019R0876`, `32019R2033`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20201228`)
 
@@ -22485,7 +22485,7 @@ The operative text replaced the formula-based calculation of Ki using trade expo
 
 *within* `AR 311 PA 1 ALN 1`, `AR 311 PA 1 ALN 1 PTA (a)`, `AR 311 PA 1 ALN 1 PTA (b)`, `AR 311 PA 2 ALN 1`, `AR 311 PA 2 ALN 1 PTA (a)`, `AR 311 PA 2 ALN 1 PTA (b)`, `AR 311 PA 2 ALN 1 PTA (c)`, `AR 311 PA 2 ALN 2`, `AR 311 PA 2 ALN 3`, `AR 311 PA 3` · *amended by* `32019R0876`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20201228`)
 
@@ -23151,7 +23151,7 @@ Paragraph 3 drops the sentence allowing competent authorities to continue collec
 
 *within* `AR 416 PA 3 ALN 1 PTA (a)`, `AR 416 PA 3 ALN 1 PTA (b)`, `AR 416 PA 3 ALN 1 PTA (c)`, `AR 416 PA 3 ALN 1 PTA (d)`, `AR 416 PA 3 ALN 1 PTA (e)`, `AR 416 PA 3 ALN 2`, `AR 416 PA 3 ALN 3`, `AR 416 PA 5 ALN 1`, `AR 416 PA 5 ALN 2`, `AR 416 PA 5 ALN 3`, `AR 416 PA 5 ALN 4`, `AR 416 PA 6 ALN 1`, `AR 416 PA 6 ALN 2` · *dates* -2014-01-01 -2014-03-31 · *amended by* `32019R0876`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02013R0575-20201228`)
 
@@ -25723,7 +25723,7 @@ The new point (e) adds an item to the assessment list concerning how environment
 > (d) the effects on the ability of financial institutions to provide a sustainable and stable funding channel to the real economy, with particular attention to SMEs; and
 > (e) how environmental sustainability criteria could be integrated into the securitisation framework, including for exposures to NPE […truncated by emendrix: 178 characters omitted…]
 
-**MODIFIED · TIT** · applies from: unknown
+**MODIFIED · Title** · applies from: unknown
 
 *amended by* `32019R2033`
 
@@ -25733,7 +25733,7 @@ The new point (e) adds an item to the assessment list concerning how environment
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 1** · applies from: unknown
+**MODIFIED · Part 1** · applies from: unknown
 
 *amended by* `32019R2033`
 
@@ -25743,7 +25743,7 @@ The new point (e) adds an item to the assessment list concerning how environment
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 3** · applies from: unknown
+**MODIFIED · Part 3** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -25753,7 +25753,7 @@ The new point (e) adds an item to the assessment list concerning how environment
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 6** · applies from: unknown
+**MODIFIED · Part 6** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -25763,7 +25763,7 @@ The new point (e) adds an item to the assessment list concerning how environment
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 7** · applies from: unknown
+**MODIFIED · Part 7** · applies from: unknown
 
 *amended by* `32019R0876`
 
@@ -25773,7 +25773,7 @@ The new point (e) adds an item to the assessment list concerning how environment
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · PRT 8** · applies from: unknown
+**MODIFIED · Part 8** · applies from: unknown
 
 *amended by* `32019R0876`
 
