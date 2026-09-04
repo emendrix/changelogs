@@ -15,137 +15,23 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 6,
+    "modified": 4,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 6,
+    "touched_units": 4,
     "unchanged_units": 156,
-    "disputed": 6
+    "disputed": 4
   },
   "counts": {
-    "touched": 6,
-    "substantive": 6,
+    "touched": 4,
+    "substantive": 4,
     "date_only": 0,
-    "disputed": 6,
+    "disputed": 4,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 2
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32006R1907",
-            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
-          },
-          "version": "02006R1907-20081012",
-          "location": "AR 1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32008R0987",
-            "display_name": "Commission Regulation (EC) No 987/2008 of 8 October 2008 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes IV and V (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "2 annotations in (2007-11-23, 2008-10-12]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32006R1907",
-            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
-          },
-          "version": "02006R1907-20081012",
-          "location": "AR 2"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32008R0987",
-            "display_name": "Commission Regulation (EC) No 987/2008 of 8 October 2008 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes IV and V (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "2 annotations in (2007-11-23, 2008-10-12]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 002",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -165,7 +51,13 @@
         "changed_within": [
           "AN IV"
         ],
-        "amending_acts": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32008R0987",
+            "display_name": "Commission Regulation (EC) No 987/2008 of 8 October 2008 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes IV and V (Text with EEA relevance)"
+          }
+        ],
         "dates_removed": [],
         "dates_added": [],
         "in_force": null,
@@ -186,9 +78,11 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R0987, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 001",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
         "disputed": true
@@ -280,7 +174,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -337,7 +232,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -364,7 +260,13 @@
           "AN V PO 12",
           "AN V PO 13"
         ],
-        "amending_acts": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32008R0987",
+            "display_name": "Commission Regulation (EC) No 987/2008 of 8 October 2008 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes IV and V (Text with EEA relevance)"
+          }
+        ],
         "dates_removed": [],
         "dates_added": [],
         "in_force": null,
@@ -385,9 +287,11 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R0987, 1.000 of its instruction clauses read",
-            "change_types": []
+            "status": "observed",
+            "detail": "AR 002",
+            "change_types": [
+              "MODIFIED"
+            ]
           }
         },
         "disputed": true
@@ -479,7 +383,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -536,7 +441,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -595,13 +501,13 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 1",
-          "AR 2"
+          "AN IV",
+          "AN V"
         ],
         "note": "32008R0987, 1.000 of its instruction clauses read",
         "claims": [
           {
-            "location": "AR 1",
+            "location": "AN IV",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001",
@@ -612,7 +518,7 @@
             }
           },
           {
-            "location": "AR 2",
+            "location": "AN V",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 002",
@@ -642,10 +548,10 @@
         "right": "instruction_parse",
         "left_units": 2,
         "right_units": 2,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
@@ -662,56 +568,24 @@
     ],
     "disagreements": [
       {
-        "unit": "AR 1",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 2",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AN IV",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
         "observed_by": [
-          "structural_diff"
+          "structural_diff",
+          "instruction_parse"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
             "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
             [
               "MODIFIED"
             ]
@@ -739,17 +613,23 @@
       },
       {
         "unit": "AN V",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
         "observed_by": [
-          "structural_diff"
+          "structural_diff",
+          "instruction_parse"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
             "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "instruction_parse",
             [
               "MODIFIED"
             ]
@@ -777,8 +657,6 @@
       }
     ],
     "metadata_only_units": [
-      "AR 1",
-      "AR 2",
       "AN 4",
       "AN 5"
     ]
@@ -792,6 +670,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 11644,
       "output_tokens": 854,
@@ -811,5 +692,21 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-04",
+      "addressed": 6,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ]
 }
