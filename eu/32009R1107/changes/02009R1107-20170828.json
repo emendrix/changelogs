@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32009R1107",
+    "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+  },
+  "from_version": "02009R1107-20140630",
+  "to_version": "02009R1107-20170828",
+  "detected_on": "2026-09-04",
+  "in_force": [
+    "2017-08-28"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 88,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32009R1107",
+            "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+          },
+          "version": "02009R1107-20170828",
+          "location": "AN II"
+        },
+        "heading": "ANNEX II",
+        "before": "ANNEX II\nProcedure and criteria for the approval of active substances, safeners and synergists pursuant to Chapter II\n1. Evaluation\n1.1. During the process of evaluation and decision-making provided for in Articles 4 to 21, the rapporteur Member State and the Authority shall cooperate with applicants to resolve any questions on the dossier quickly or to identify at an early stage any further explanations or additional studies necessary for the evaluation of the dossier, including information to eliminate the need for a restriction of the approval, or to amend any proposed conditions for the use of the plant protection product or to modify its nature or its composition in order to ensure full satisfaction of the requirements of this Regulation.\n1.2. The evaluation by the Authority and the rapporteur Member State must be based on scientific principles and be made with the benefit of expert advice.\n1.3. During the process of evaluation and decision-making provided for in Articles 4 to 21, Member States and the Authority shall take into consideration any further guidance developed in the framework of the Standing Committee on the Food Chain and Animal Health for the purposes of refining, where relevant, the risk assessments.\n2. General decision-making criteria\n2.1. Article 4 shall only be considered as complied with, where, on the basis of the dossier submitted, authorisation in at least one Member State is expected to be possible for at least one plant protection product containing that active substance for at least one of the representative uses.\n2.2. Submission of further information\nIn principle an active substance, safener or synergist shall only be approved where a complete dossier is submitted.\nIn exceptional cases an active substance, safener or synergist may be approved even though certain information is still to be submitted where:\n(a) the data requirements have been amended or refined after the submission of the dossier; or\n(b) the information is considered to be confirmatory in nature, as required to increase confidence in the decision.\n2.3. Restrictions on approval\nWhere necessary, the approval may be subject to conditions and restrictions as referred to in Article 6.\nWhere the rapporteur Member State considers that the dossier provided lacks certain information, to the effect that the active substance could only be approved subject to restrictions, it shall contact the applicant at an early stage to obtain more information which may possibly enable these restrictions to be removed.\n3. Criteria for the approval of an active substance\n3.1. Dossier\nThe dossiers submitted pursuant to Article 7(1) shall contain the information needed to establish, where relevant, Acceptable Daily Intake (ADI), Acceptable Operator Exposure Level (AOEL) and Acute Reference Dose (ARfD).\nIn the case of an active substance, safener or synergist for which one or more representative uses includes use on feed or food crops or leads indirectly to residues in food or feed, the dossier submitted pursuant to Article 7(1) shall contain the information necessary to carry out a risk assessment and for enforcement purposes.\nThe dossier shall in particular:\n(a) permit any residue of concern to be defined;\n(b) reliably predict the residues in food and feed, including succeeding crops;\n(c) reliably predict, where relevant, the corresponding residue level reflecting the effects of processing and/or mixing;\n(d) permit a maximum residue level to be defined and to be determined by appropriate methods in general use for the commodity and, where appropriate, for products of animal origin where the commodity or parts of it is fed to animals;\n(e) permit, where relevant, concentration or dilution factors due to processing and/or mixing to be defined.\nThe dossier submitted pursuant to Article 7(1) shall be sufficient to permit, where relevant, an estimate of the fate and distribution of the active substance in the environment, and its impact on non-target species.\n3.2. Efficacy\nAn active substance alone or associated with a safener or synergist shall only be approved where it has been established for one or more representative uses that the plant protection product, consequent on application consistent with good plant protection practice and having regard to realistic conditions of use is sufficiently effective. This requirement shall be evaluated in accordance with the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).\n3.3. Relevance of metabolites\nWhere applicable the documentation submitted shall be sufficient to permit the establishment of the toxicological, ecotoxicological or environmental relevance of metabolites.\n3.4. Composition of the active substance, safener or synergist\n3.4.1. The specification shall define the minimum degree of purity, the identity and maximum content of impurities and, where relevant, of isomers/diastereo-isomers and additives, and the content of impurities of toxicological, ecotoxicological or environmental concern within acceptable limits.\n3.4.2. The specification shall be in compliance with the relevant Food and Agriculture Organisation specification as appropriate, where such specification exists. However, where necessary for reasons of protection of human or animal health or the environment, stricter specifications may be adopted.\n3.5. Methods of analysis\n3.5.1. The methods of analysis of the active substance, safener or synergist as manufactured and of determination of impurities of toxicological, ecotoxicological or environmental concern or which are present in quantities greater than 1 g/kg in the active substance, safener or synergist as manufactured, shall have been validated and shown to be sufficiently specific, correctly calibrated, accurate and precise.\n3.5.2. The methods of residue analysis for the active substance and relevant metabolites in plant, animal and environmental matrices and drinking water, as appropriate, shall have been validated and shown to be sufficiently sensitive with respect to the levels of concern.\n3.5.3. The evaluation has been carried out in accordance with the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).\n3.6. Impact on human health\n3.6.1. Where relevant, an ADI, AOEL and ARfD shall be established. When establishing such values an appropriate safety margin of at least 100 shall be ensured taking into account the type and severity of effects and the vulnerability of specific groups of the population. When the critical effect is judged of particular significance, such as developmental neurotoxic or immunotoxic effects, an increased margin of safety shall be considered, and applied if necessary.\n3.6.2. An active substance, safener or synergist shall only be approved if, on the basis of assessment of higher tier genotoxicity testing carried out in accordance with the data requirements for the active substances, safeners or synergists and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as mutagen category 1A or 1B.\n3.6.3. An active substance, safener or synergist shall only be approved, if, on the basis of assessment of carcinogenicity testing carried out in accordance with the data requirements for the active substances, safener or synergist and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogen category 1A or 1B, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with Article 18(1)(b) of Regulation (EC) No 396/2005.\n3.6.4. An active substance, safener or synergist shall only be approved if, on the basis of assessment of reproductive toxicity testing carried out in accordance with the data requirements for the active substances, safeners or synergists and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 1A or 1B, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with point (b) of Article 18(1) of Regulation (EC) No 396/2005.\n3.6.5. An active substance, safener or synergist shall only be approved if, on the basis of the assessment of Community or internationally agreed test guidelines or other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not considered to have endocrine disrupting properties that may cause adverse effect in humans, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with point (b) of Article 18(1) of Regulation (EC) No 396/2005.\nBy 14 December 2013, the Commission shall present to the Standing Committee on the Food Chain and Animal Health a draft of the measures concerning specific scientific criteria for the determination of endocrine disrupting properties to be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).\nPending the adoption of these criteria, substances that are or have to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogenic category 2 and toxic for reproduction category 2, shall be considered to have endocrine disrupting properties.\nIn addition, substances such as those that are or have to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 2 and which have toxic effects on the endocrine organs, may be considered to have such endocrine disrupting properties.\n3.7. Fate and behaviour in the environment\n3.7.1. An active substance, safener or synergist shall only be approved where it is not considered to be a persistent organic pollutant (POP).\nA substance that fulfils all three of the criteria of the points below is a POP.\n3.7.1.1. Persistence\nAn active substance, safener or synergist fulfils the persistence criterion where there is evidence that the time it takes for a degradation of 50 % (DT50) in water is greater than 2 months, or that its DT50 in soil is greater than 6 months, or that its DT50 in sediment is greater than 6 months.\n3.7.1.2. Bioaccumulation\nAn active substance, safener or synergist fulfils the bioaccumulation criterion where there is:\nevidence that its bio-concentration factor or bioaccumulation factor in aquatic species is greater than 5000 or, in the absence of such data, that the partition coefficient n-octanol/water (log Ko/w) is greater than 5, or\nevidence that the active substance, safener or synergist present other reasons for concern, such as high bioaccumulation in other non-target species, high toxicity or ecotoxicity.\n3.7.1.3. Potential for long-range environmental transport:\nAn active substance, safener or synergist fulfils the potential for long-range environmental transport criterion where:\nmeasured levels of the active substance, safener or synergist in locations distant from the sources of its release are of potential concern,\nmonitoring data show that long-range environmental transport of the active substance, safener or synergist, with the potential for transfer to a receiving environment, may have occurred via air, water or migratory species, or\nenvironmental fate properties and/or model results demonstrate that the active substance, safener or synergist has a potential for long-range environmental transport through air, water or migratory species, with the potential for transfer to a receiving environment in locations distant from the sources of its release. For an active substance safener or synergist that migrates significantly through the air, its DT50 in air is to be greater than 2 days.\n3.7.2. An active substance, safener or synergist shall only be approved if it is not considered to be a persistent, bioaccumulative and toxic (PBT) substance.\nA substance that fulfils all three of the criteria of the points below is a PBT substance.\n3.7.2.1. Persistence\nAn active substance, safener or synergist fulfils the persistence criterion where:\nthe half-life in marine water is higher than 60 days,\nthe half-life in fresh or estuarine water is higher than 40 days,\nthe half-life in marine sediment is higher than 180 days,\nthe half-life in fresh or estuarine water sediment is higher than 120 days, or\nthe half-life in soil is higher than 120 days.\nAssessment of persistency in the environment shall be based on available half-life data collected under appropriate conditions, which shall be described by the applicant.\n3.7.2.2. Bioaccumulation\nAn active substance, safener or synergist fulfils the bioaccumulation criterion where the bioconcentration factor is higher than 2000.\nAssessment of bioaccumulation shall be based on measured data on bioconcentration in aquatic species. Data from both freshwater and marine water species can be used.\n3.7.2.3. Toxicity\nAn active substance, safener or synergist fulfils the toxicity criterion where:\nthe long-term no-observed effect concentration for marine or freshwater organisms is less than 0,01 mg/l,\nthe substance is classified as carcinogenic (category 1A or 1B), mutagenic (category 1A or 1B), or toxic for reproduction (category 1A, 1B or 2) pursuant to Regulation (EC) No 1272/2008, or\nthere is other evidence of chronic toxicity, as identified by the classifications STOT RE 1 or STOT RE 2 pursuant to Regulation (EC) No 1272/2008.\n3.7.3. An active substance, safener or synergist shall only be approved if it is not considered to be a very persistent and very bioaccumulative substance (vPvB).\nA substance that fulfils both of the criteria of the points below is a vPvB substance.\n3.7.3.1. Persistence\nAn active substance, safener or synergist fulfils the very persistent criterion where:\nthe half-life in marine, fresh- or estuarine water is higher than 60 days,\nthe half-life in marine, fresh- or estuarine water sediment is higher than 180 days, or\nthe half-life in soil is higher than 180 days.\n3.7.3.2. Bioaccumulation\nAn active substance, safener or synergist fulfils the very bioaccumulative criterion where the bioconcentration factor is greater than 5000.\n3.8. Ecotoxicology\n3.8.1. An active substance, safener or synergist shall only be approved if the risk assessment demonstrates risks to be acceptable in accordance with the criteria laid down in the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6) under realistic proposed conditions of use of a plant protection product containing the active substance, safener or synergist. The assessment must take into account the severity of effects, the uncertainty of the data, and the number of organism groups which the active substance, safener or synergist is expected to affect adversely by the intended use.\n3.8.2. An active substance, safener or synergist shall only be approved if, on the basis of the assessment of Community or internationally agreed test guidelines, it is not considered to have endocrine disrupting properties that may cause adverse effects on non-target organisms unless the exposure of non-target organisms to that active substance in a plant protection product under realistic proposed conditions of use is negligible.\n3.8.3. An active substance, safener or synergist shall be approved only if it is established following an appropriate risk assessment on the basis of Community or internationally agreed test guidelines, that the use under the proposed conditions of use of plant protection products containing this active substance, safener or synergist:\nwill result in a negligible exposure of honeybees, or\nhas no unacceptable acute or chronic effects on colony survival and development, taking into account effects on honeybee larvae and honeybee behaviour.\n3.9. Residue definition\nAn active substance, safener or synergist shall only be approved if, where relevant, a residue definition can be established for the purposes of risk assessment and for enforcement purposes.\n3.10. Fate and behaviour concerning groundwater\nAn active substance shall only be approved where it has been established for one or more representative uses, that consequently after application of the plant protection product consistent with realistic conditions on use, the predicted concentration of the active substance or of metabolites, degradation or reaction products in groundwater complies with the respective criteria of the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).\n4. Candidate for substitution\nAn active substance shall be approved as a candidate for substitution pursuant to Article 24 where any of the following conditions are met:\nits ADI, ARfD or AOEL is significantly lower than those of the majority of the approved active substances within groups of substances/use categories,\nit meets two of the criteria to be considered as a PBT substance,\nthere are reasons for concern linked to the nature of the critical effects (such as developmental neurotoxic or immunotoxic effects) which, in combination with the use/exposure patterns, amount to situations of use that could still cause concern, for example, high potential of risk to groundwater; even with very restrictive risk management measures (such as extensive personal protective equipment or very large buffer zones),\nit contains a significant proportion of non-active isomers,\nit is or is to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogen category 1A or 1B, if the substance has not been excluded in accordance with the criteria laid down in point 3.6.3,\nit is or is to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 1A or 1B if the substance has not been excluded in accordance with the criteria laid down in point 3.6.4,\nif, on the basis of the assessment of Community or internationally agreed test guidelines or other available data and information, reviewed by the Authority, it is considered to have endocrine disrupting properties that may cause adverse effects in humans if the substance has not been excluded in accordance with the criteria laid down in point 3.6.5.\n5. Low-risk active substances\nAn active substance shall not be considered of low risk where it is or has to be classified in accordance with Regulation (EC) No 1272/2008 as at least one of the following:\ncarcinogenic,\nmutagenic,\ntoxic to reproduction,\nsensitising chemicals,\nvery toxic or toxic,\nexplosive,\ncorrosive.\nIt shall also not be considered as of low risk if:\npersistent (half-life in soil is more than 60 days),\nbioconcentration factor is higher than 100,\nit is deemed to be an endocrine disrupter, or\nit has neurotoxic or immunotoxic effects.",
+        "after": "ANNEX II\nProcedure and criteria for the approval of active substances, safeners and synergists pursuant to Chapter II\n1. Evaluation\n1.1. During the process of evaluation and decision-making provided for in Articles 4 to 21, the rapporteur Member State and the Authority shall cooperate with applicants to resolve any questions on the dossier quickly or to identify at an early stage any further explanations or additional studies necessary for the evaluation of the dossier, including information to eliminate the need for a restriction of the approval, or to amend any proposed conditions for the use of the plant protection product or to modify its nature or its composition in order to ensure full satisfaction of the requirements of this Regulation.\n1.2. The evaluation by the Authority and the rapporteur Member State must be based on scientific principles and be made with the benefit of expert advice.\n1.3. During the process of evaluation and decision-making provided for in Articles 4 to 21, Member States and the Authority shall take into consideration any further guidance developed in the framework of the Standing Committee on the Food Chain and Animal Health for the purposes of refining, where relevant, the risk assessments.\n2. General decision-making criteria\n2.1. Article 4 shall only be considered as complied with, where, on the basis of the dossier submitted, authorisation in at least one Member State is expected to be possible for at least one plant protection product containing that active substance for at least one of the representative uses.\n2.2. Submission of further information\nIn principle an active substance, safener or synergist shall only be approved where a complete dossier is submitted.\nIn exceptional cases an active substance, safener or synergist may be approved even though certain information is still to be submitted where:\n(a) the data requirements have been amended or refined after the submission of the dossier; or\n(b) the information is considered to be confirmatory in nature, as required to increase confidence in the decision.\n2.3. Restrictions on approval\nWhere necessary, the approval may be subject to conditions and restrictions as referred to in Article 6.\nWhere the rapporteur Member State considers that the dossier provided lacks certain information, to the effect that the active substance could only be approved subject to restrictions, it shall contact the applicant at an early stage to obtain more information which may possibly enable these restrictions to be removed.\n3. Criteria for the approval of an active substance\n3.1. Dossier\nThe dossiers submitted pursuant to Article 7(1) shall contain the information needed to establish, where relevant, Acceptable Daily Intake (ADI), Acceptable Operator Exposure Level (AOEL) and Acute Reference Dose (ARfD).\nIn the case of an active substance, safener or synergist for which one or more representative uses includes use on feed or food crops or leads indirectly to residues in food or feed, the dossier submitted pursuant to Article 7(1) shall contain the information necessary to carry out a risk assessment and for enforcement purposes.\nThe dossier shall in particular:\n(a) permit any residue of concern to be defined;\n(b) reliably predict the residues in food and feed, including succeeding crops;\n(c) reliably predict, where relevant, the corresponding residue level reflecting the effects of processing and/or mixing;\n(d) permit a maximum residue level to be defined and to be determined by appropriate methods in general use for the commodity and, where appropriate, for products of animal origin where the commodity or parts of it is fed to animals;\n(e) permit, where relevant, concentration or dilution factors due to processing and/or mixing to be defined.\nThe dossier submitted pursuant to Article 7(1) shall be sufficient to permit, where relevant, an estimate of the fate and distribution of the active substance in the environment, and its impact on non-target species.\n3.2. Efficacy\nAn active substance alone or associated with a safener or synergist shall only be approved where it has been established for one or more representative uses that the plant protection product, consequent on application consistent with good plant protection practice and having regard to realistic conditions of use is sufficiently effective. This requirement shall be evaluated in accordance with the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).\n3.3. Relevance of metabolites\nWhere applicable the documentation submitted shall be sufficient to permit the establishment of the toxicological, ecotoxicological or environmental relevance of metabolites.\n3.4. Composition of the active substance, safener or synergist\n3.4.1. The specification shall define the minimum degree of purity, the identity and maximum content of impurities and, where relevant, of isomers/diastereo-isomers and additives, and the content of impurities of toxicological, ecotoxicological or environmental concern within acceptable limits.\n3.4.2. The specification shall be in compliance with the relevant Food and Agriculture Organisation specification as appropriate, where such specification exists. However, where necessary for reasons of protection of human or animal health or the environment, stricter specifications may be adopted.\n3.5. Methods of analysis\n3.5.1. The methods of analysis of the active substance, safener or synergist as manufactured and of determination of impurities of toxicological, ecotoxicological or environmental concern or which are present in quantities greater than 1 g/kg in the active substance, safener or synergist as manufactured, shall have been validated and shown to be sufficiently specific, correctly calibrated, accurate and precise.\n3.5.2. The methods of residue analysis for the active substance and relevant metabolites in plant, animal and environmental matrices and drinking water, as appropriate, shall have been validated and shown to be sufficiently sensitive with respect to the levels of concern.\n3.5.3. The evaluation has been carried out in accordance with the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).\n3.6. Impact on human health\n3.6.1. Where relevant, an ADI, AOEL and ARfD shall be established. When establishing such values an appropriate safety margin of at least 100 shall be ensured taking into account the type and severity of effects and the vulnerability of specific groups of the population. When the critical effect is judged of particular significance, such as developmental neurotoxic or immunotoxic effects, an increased margin of safety shall be considered, and applied if necessary.\n3.6.2. An active substance, safener or synergist shall only be approved if, on the basis of assessment of higher tier genotoxicity testing carried out in accordance with the data requirements for the active substances, safeners or synergists and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as mutagen category 1A or 1B.\n3.6.3. An active substance, safener or synergist shall only be approved, if, on the basis of assessment of carcinogenicity testing carried out in accordance with the data requirements for the active substances, safener or synergist and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogen category 1A or 1B, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with Article 18(1)(b) of Regulation (EC) No 396/2005.\n3.6.4. An active substance, safener or synergist shall only be approved if, on the basis of assessment of reproductive toxicity testing carried out in accordance with the data requirements for the active substances, safeners or synergists and other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not or has not to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 1A or 1B, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with point (b) of Article 18(1) of Regulation (EC) No 396/2005.\n3.6.5. An active substance, safener or synergist shall only be approved if, on the basis of the assessment of Community or internationally agreed test guidelines or other available data and information, including a review of the scientific literature, reviewed by the Authority, it is not considered to have endocrine disrupting properties that may cause adverse effect in humans, unless the exposure of humans to that active substance, safener or synergist in a plant protection product, under realistic proposed conditions of use, is negligible, that is, the product is used in closed systems or in other conditions excluding contact with humans and where residues of the active substance, safener or synergist concerned on food and feed do not exceed the default value set in accordance with point (b) of Article 18(1) of Regulation (EC) No 396/2005.\nBy 14 December 2013, the Commission shall present to the Standing Committee on the Food Chain and Animal Health a draft of the measures concerning specific scientific criteria for the determination of endocrine disrupting properties to be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 79(4).\nPending the adoption of these criteria, substances that are or have to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogenic category 2 and toxic for reproduction category 2, shall be considered to have endocrine disrupting properties.\nIn addition, substances such as those that are or have to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 2 and which have toxic effects on the endocrine organs, may be considered to have such endocrine disrupting properties.\n3.7. Fate and behaviour in the environment\n3.7.1. An active substance, safener or synergist shall only be approved where it is not considered to be a persistent organic pollutant (POP).\nA substance that fulfils all three of the criteria of the points below is a POP.\n3.7.1.1. Persistence\nAn active substance, safener or synergist fulfils the persistence criterion where there is evidence that the time it takes for a degradation of 50 % (DT50) in water is greater than 2 months, or that its DT50 in soil is greater than 6 months, or that its DT50 in sediment is greater than 6 months.\n3.7.1.2. Bioaccumulation\nAn active substance, safener or synergist fulfils the bioaccumulation criterion where there is:\nevidence that its bio-concentration factor or bioaccumulation factor in aquatic species is greater than 5000 or, in the absence of such data, that the partition coefficient n-octanol/water (log Ko/w) is greater than 5, or\nevidence that the active substance, safener or synergist present other reasons for concern, such as high bioaccumulation in other non-target species, high toxicity or ecotoxicity.\n3.7.1.3. Potential for long-range environmental transport:\nAn active substance, safener or synergist fulfils the potential for long-range environmental transport criterion where:\nmeasured levels of the active substance, safener or synergist in locations distant from the sources of its release are of potential concern,\nmonitoring data show that long-range environmental transport of the active substance, safener or synergist, with the potential for transfer to a receiving environment, may have occurred via air, water or migratory species, or\nenvironmental fate properties and/or model results demonstrate that the active substance, safener or synergist has a potential for long-range environmental transport through air, water or migratory species, with the potential for transfer to a receiving environment in locations distant from the sources of its release. For an active substance safener or synergist that migrates significantly through the air, its DT50 in air is to be greater than 2 days.\n3.7.2. An active substance, safener or synergist shall only be approved if it is not considered to be a persistent, bioaccumulative and toxic (PBT) substance.\nA substance that fulfils all three of the criteria of the points below is a PBT substance.\n3.7.2.1. Persistence\nAn active substance, safener or synergist fulfils the persistence criterion where:\nthe half-life in marine water is higher than 60 days,\nthe half-life in fresh or estuarine water is higher than 40 days,\nthe half-life in marine sediment is higher than 180 days,\nthe half-life in fresh or estuarine water sediment is higher than 120 days, or\nthe half-life in soil is higher than 120 days.\nAssessment of persistency in the environment shall be based on available half-life data collected under appropriate conditions, which shall be described by the applicant.\n3.7.2.2. Bioaccumulation\nAn active substance, safener or synergist fulfils the bioaccumulation criterion where the bioconcentration factor is higher than 2000.\nAssessment of bioaccumulation shall be based on measured data on bioconcentration in aquatic species. Data from both freshwater and marine water species can be used.\n3.7.2.3. Toxicity\nAn active substance, safener or synergist fulfils the toxicity criterion where:\nthe long-term no-observed effect concentration for marine or freshwater organisms is less than 0,01 mg/l,\nthe substance is classified as carcinogenic (category 1A or 1B), mutagenic (category 1A or 1B), or toxic for reproduction (category 1A, 1B or 2) pursuant to Regulation (EC) No 1272/2008, or\nthere is other evidence of chronic toxicity, as identified by the classifications STOT RE 1 or STOT RE 2 pursuant to Regulation (EC) No 1272/2008.\n3.7.3. An active substance, safener or synergist shall only be approved if it is not considered to be a very persistent and very bioaccumulative substance (vPvB).\nA substance that fulfils both of the criteria of the points below is a vPvB substance.\n3.7.3.1. Persistence\nAn active substance, safener or synergist fulfils the very persistent criterion where:\nthe half-life in marine, fresh- or estuarine water is higher than 60 days,\nthe half-life in marine, fresh- or estuarine water sediment is higher than 180 days, or\nthe half-life in soil is higher than 180 days.\n3.7.3.2. Bioaccumulation\nAn active substance, safener or synergist fulfils the very bioaccumulative criterion where the bioconcentration factor is greater than 5000.\n3.8. Ecotoxicology\n3.8.1. An active substance, safener or synergist shall only be approved if the risk assessment demonstrates risks to be acceptable in accordance with the criteria laid down in the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6) under realistic proposed conditions of use of a plant protection product containing the active substance, safener or synergist. The assessment must take into account the severity of effects, the uncertainty of the data, and the number of organism groups which the active substance, safener or synergist is expected to affect adversely by the intended use.\n3.8.2. An active substance, safener or synergist shall only be approved if, on the basis of the assessment of Community or internationally agreed test guidelines, it is not considered to have endocrine disrupting properties that may cause adverse effects on non-target organisms unless the exposure of non-target organisms to that active substance in a plant protection product under realistic proposed conditions of use is negligible.\n3.8.3. An active substance, safener or synergist shall be approved only if it is established following an appropriate risk assessment on the basis of Community or internationally agreed test guidelines, that the use under the proposed conditions of use of plant protection products containing this active substance, safener or synergist:\nwill result in a negligible exposure of honeybees, or\nhas no unacceptable acute or chronic effects on colony survival and development, taking into account effects on honeybee larvae and honeybee behaviour.\n3.9. Residue definition\nAn active substance, safener or synergist shall only be approved if, where relevant, a residue definition can be established for the purposes of risk assessment and for enforcement purposes.\n3.10. Fate and behaviour concerning groundwater\nAn active substance shall only be approved where it has been established for one or more representative uses, that consequently after application of the plant protection product consistent with realistic conditions on use, the predicted concentration of the active substance or of metabolites, degradation or reaction products in groundwater complies with the respective criteria of the uniform principles for evaluation and authorisation of plant protection products referred to in Article 29(6).\n4. Candidate for substitution\nAn active substance shall be approved as a candidate for substitution pursuant to Article 24 where any of the following conditions are met:\nits ADI, ARfD or AOEL is significantly lower than those of the majority of the approved active substances within groups of substances/use categories,\nit meets two of the criteria to be considered as a PBT substance,\nthere are reasons for concern linked to the nature of the critical effects (such as developmental neurotoxic or immunotoxic effects) which, in combination with the use/exposure patterns, amount to situations of use that could still cause concern, for example, high potential of risk to groundwater; even with very restrictive risk management measures (such as extensive personal protective equipment or very large buffer zones),\nit contains a significant proportion of non-active isomers,\nit is or is to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as carcinogen category 1A or 1B, if the substance has not been excluded in accordance with the criteria laid down in point 3.6.3,\nit is or is to be classified, in accordance with the provisions of Regulation (EC) No 1272/2008, as toxic for reproduction category 1A or 1B if the substance has not been excluded in accordance with the criteria laid down in point 3.6.4,\nif, on the basis of the assessment of Community or internationally agreed test guidelines or other available data and information, reviewed by the Authority, it is considered to have endocrine disrupting properties that may cause adverse effects in humans if the substance has not been excluded in accordance with the criteria laid down in point 3.6.5.\n5. Low-risk active substances\n5.1. Active substances other than micro-organisms\n5.1.1. An active substance, other than a micro-organism, shall not be considered as being of low-risk where it corresponds to any of the following:\n(a) it is or has to be classified in accordance with Regulation (EC) No 1272/2008 as any of the following:\ncarcinogenic category 1A, 1B or 2,\nmutagenic category 1A, 1B or 2,\ntoxic to reproduction category 1A, 1B or 2,\nskin sensitiser category 1,\nserious damage to eye category 1,\nrespiratory sensitiser category 1,\nacute toxicity category 1, 2 or 3,\nspecific Target Organ Toxicant, category 1 or 2,\ntoxic to aquatic life of acute and chronic category 1 on the basis of appropriate standard tests,\nexplosive,\nskin corrosive, category 1A, 1B or 1C;\n(b) it has been identified as priority substance under Directive 2000/60/EC;\n(c) it is deemed to be an endocrine disruptor;\n(d) it has neurotoxic or immunotoxic effects.\n5.1.2. An active substance, other than a micro-organism, shall not be considered as being of low-risk where it is persistent (half-life in soil is more than 60 days) or its bio-concentration factor is higher than 100.\nHowever, a naturally occurring active substance which does not correspond to any of points (a) to (d) of point 5.1.1 may be considered as being of low-risk, even if it is persistent (half-life in soil is more than 60 days) or its bio-concentration factor is higher than 100.\n5.1.3. An active substance, other than a micro-organism, emitted and used by plants, animals and other organisms for communication, shall be considered as being of low- risk where it does not correspond to any of points (a) to (d) of point 5.1.1.\n5.2. Micro-organisms\n5.2.1. An active substance which is a micro-organism may be considered as being of low-risk unless at strain level it has demonstrated multiple resistance to anti-microbials used in human or veterinary medicine.\n5.2.2. Baculoviruses shall be considered as being of low-risk unless at strain level they have demonstrated adverse effects on non-target insects.",
+        "previous_location": null,
+        "changed_within": [
+          "AN II SCT 5",
+          "AN II SCT 5 SCT 5.1",
+          "AN II SCT 5 SCT 5.2"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32017R1432",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2017-08-28",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32017R1432 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32017R1432, 0.000 of its instruction clauses read",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Section 5 on low-risk active substances is restructured into two new subsections, 5.1 covering active substances other than micro-organisms and 5.2 covering micro-organisms, replacing the single undivided list of disqualifying properties.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20140630",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20140630#anx_II",
+              "label": "Annex II, 02009R1107-20140630"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20170828",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20170828#anx_II",
+              "label": "Annex II, 02009R1107-20170828"
+            }
+          ]
+        },
+        {
+          "text": "The classification criteria for excluding a substance from low-risk status are expanded and made more granular, listing specific hazard categories such as carcinogenic, mutagenic and toxic to reproduction categories 1A, 1B or 2, skin and respiratory sensitisation categories, acute toxicity categories, specific target organ toxicity, aquatic toxicity, and skin corrosion sub-categories, along with identification as a priority substance under Directive 2000/60/EC, in place of the shorter prior list of hazard classes.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20170828",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20170828#anx_II",
+              "label": "Annex II, 02009R1107-20170828"
+            }
+          ]
+        },
+        {
+          "text": "New text also addresses naturally occurring substances and substances used for communication by organisms as potentially qualifying for low-risk status despite persistence or bioaccumulation, and adds separate low-risk criteria for micro-organisms and baculoviruses based on antimicrobial resistance and effects on non-target insects.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32009R1107",
+                  "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+                },
+                "version": "02009R1107-20170828",
+                "location": "AN II"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20170828#anx_II",
+              "label": "Annex II, 02009R1107-20170828"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32009R1107",
+      "display_name": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC"
+    },
+    "from_version": "02009R1107-20140630",
+    "to_version": "02009R1107-20170828",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN II"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN II"
+        ],
+        "note": "1 annotations in (2014-06-30, 2017-08-28]",
+        "claims": [
+          {
+            "location": "AN II PO 5",
+            "change_type": "MODIFIED",
+            "in_force": "2017-08-28",
+            "source": "32017R1432 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32017R1432",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32017R1432, 0.000 of its instruction clauses read",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN II",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "usage": {
+      "input_tokens": 15607,
+      "output_tokens": 477,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  }
+}
