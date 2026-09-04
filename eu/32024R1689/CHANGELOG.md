@@ -331,7 +331,7 @@ Paragraph 2 now adds language specifying that proportionality to the size of the
 
 *within* `AR 25 PA 2 ALN 1`, `AR 25 PA 2 ALN 2`, `AR 25 PA 2 ALN 3`, `AR 25 PA 2 ALN 4`, `AR 25 PA 4 ALN 1` · *amended by* `32026R1744`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32024R1689`)
 
@@ -626,7 +626,7 @@ The sentence in the earlier text authorizing the Commission to approve a code of
 
 *within* `AR 57 PA 1 ALN 1`, `AR 57 PA 3 ALN 1`, `AR 57 PA 3a`, `AR 57 PA 5 ALN 1`, `AR 57 PA 9 ALN 1 PTA (e)`, `AR 57 PA 10 ALN 1`, `AR 57 PA 14 ALN 1` · *dates* -2026-08-02 +2027-08-02 · *amended by* `32026R1744`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`32024R1689`)
 
