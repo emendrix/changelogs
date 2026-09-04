@@ -37677,7 +37677,7 @@ All other text of paragraph 1 and the remainder of the article, including paragr
 - **Act** `eu:32013R0575` · **In force** 2015-01-18 · **Detected** 2026-08-13
 - **Touched** 31 provisions — 31 substantive · 0 date-only · **30 disputed**
 - **Diff** 2 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 496 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20130628` · `v2` = `02013R0575-20150118`
 
 ---
@@ -37955,7 +37955,9 @@ Aside from this formatting difference in the formula, the surrounding text of pa
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The formula notation in paragraphs 2, 3, 5 and 7 is rendered differently between the two versions, with spacing, symbols and line breaks around the CVA, EVA, E* and H equations changed, though the underlying variable definitions and surrounding text remain the same. [Art. 223, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_223) [Art. 223, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_223)
+
+The paragraph numbering format also changes slightly, with paragraph markers such as 1., 2., 3. and so on now appearing on the same line as the following text rather than on a separate line. [Art. 223, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_223) [Art. 223, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_223)
 
 *before* (`02013R0575-20130628`)
 
@@ -39121,7 +39123,9 @@ It also addresses reversal of sale-accounting entries for repurchase transaction
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
+The formatting of the numbered paragraph markers changed from a period-plus-line-break style to an inline period style, with no wording change to the substantive text of paragraphs 1 through 3. [Art. 497, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_497) [Art. 497, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_497)
+
+In paragraph 4, the presentation of the Ki formula changed from a spaced expression using an equals sign and multiplication dots to a run-together string of characters without those symbols, while the surrounding definitions of IMi and IM remain the same. [Art. 497, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_497) [Art. 497, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_497)
 
 *before* (`02013R0575-20130628`)
 

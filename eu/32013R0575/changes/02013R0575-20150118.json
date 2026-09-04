@@ -29,7 +29,7 @@
     "date_only": 0,
     "disputed": 30,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 0
   },
   "changes": [
     {
@@ -718,11 +718,76 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The formula notation in paragraphs 2, 3, 5 and 7 is rendered differently between the two versions, with spacing, symbols and line breaks around the CVA, EVA, E* and H equations changed, though the underlying variable definitions and surrounding text remain the same.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20130628",
+                "location": "AR 223"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_223",
+              "label": "Art. 223, 02013R0575-20130628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20150118",
+                "location": "AR 223"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_223",
+              "label": "Art. 223, 02013R0575-20150118"
+            }
+          ]
+        },
+        {
+          "text": "The paragraph numbering format also changes slightly, with paragraph markers such as 1., 2., 3. and so on now appearing on the same line as the following text rather than on a separate line.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20130628",
+                "location": "AR 223"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_223",
+              "label": "Art. 223, 02013R0575-20130628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20150118",
+                "location": "AR 223"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_223",
+              "label": "Art. 223, 02013R0575-20150118"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -3389,11 +3454,76 @@
         },
         "disputed": true
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The formatting of the numbered paragraph markers changed from a period-plus-line-break style to an inline period style, with no wording change to the substantive text of paragraphs 1 through 3.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20130628",
+                "location": "AR 497"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_497",
+              "label": "Art. 497, 02013R0575-20130628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20150118",
+                "location": "AR 497"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_497",
+              "label": "Art. 497, 02013R0575-20150118"
+            }
+          ]
+        },
+        {
+          "text": "In paragraph 4, the presentation of the Ki formula changed from a spaced expression using an equals sign and multiplication dots to a run-together string of characters without those symbols, while the surrounding definitions of IMi and IM remain the same.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20130628",
+                "location": "AR 497"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_497",
+              "label": "Art. 497, 02013R0575-20130628"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R0575",
+                  "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
+                },
+                "version": "02013R0575-20150118",
+                "location": "AR 497"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_497",
+              "label": "Art. 497, 02013R0575-20150118"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected",
-      "unexplained_kind": "model_failed"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -4247,6 +4377,20 @@
         "input_tokens": 0,
         "output_tokens": 0,
         "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "explanations",
+      "repaired_on": "2026-09-04",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 9260,
+        "output_tokens": 545,
+        "requests": 2,
         "schema_repairs": 0
       },
       "coordinates_checked": false
