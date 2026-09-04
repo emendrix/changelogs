@@ -1995,7 +1995,7 @@ The credit-institution exemption previously located at point (k) with the same w
 
 *within* `AR 1 PA 4 ALN 1 PTA (j) PTI (ii)`, `AR 1 PA 4 ALN 1 PTA (l)`, `AR 1 PA 5 ALN 1 PTA (j) PTI (vi)`, `AR 1 PA 5 ALN 1 PTA (k)` · *dates* +2021-03-18 +2022-12-31 · *amended by* `32021R0337`
 
-*No explanation shipped — UnexpectedModelBehavior: Exceeded maximum output retries (1).*
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02017R1129-20191231`)
 
