@@ -10,6 +10,63 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0852-20260320 -->
+## Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing […]
+### `02017R0852-20240730` → `02017R0852-20260320`
+
+- **Act** `eu:32017R0852` · **In force** 2026-03-20 · **Detected** 2026-09-04
+- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02017R0852-20240730` · `v2` = `02017R0852-20260320`
+
+---
+
+**MODIFIED · Annex II — ANNEX II** · applies from: unchanged
+
+*within* `AN II` · *amended by* `32026R0055`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new entry 2a is added to Part A, covering very high accuracy capacitance and loss measurement bridges and high frequency radio frequency switches and relays in monitoring and control instruments with a maximum mercury content of 20 mg per bridge, switch or relay, excluding those used for research and development purposes, with a prohibition date of 31.12.2025. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20260320#anx_II)
+
+This category of devices was previously only referenced as an exception within entry 2 in the earlier text, without its own listing or prohibition date. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20240730#anx_II)
+
+*before* (`02017R0852-20240730`)
+
+> ANNEX II
+> Mercury-added products referred to in Article 5
+> Part A — Mercury-added products
+> Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ L 342, 22.12.2009, p. 59).
+> Mercury-added products Date from which the export, import and manufacturing of the mercury-added products are prohibited
+> 1. Batteries or accumulators that contain more than 0,0005 % of mercury by weight. 31.12.2020
+> 2. Switches and relays, except very high accuracy capacitance and loss measurement bridges and high frequency radio frequency switches and relays in monitoring and control instruments with a maximum mercury content of 20 mg per bridge, switch or relay. 31.12.2020
+> 3. Compact fluorescent lamps (CFLs) for general lighting purposes:
+> (a) CFL.i ≤ 30 watts with a mercury content exceeding 2,5 mg per lamp burner;
+> (b) CFL.ni ≤ 30 watts with a mercury content exceeding 3,5 mg per lamp burner. 31.12.2018
+> 3a. Compact fluorescent lamps with an integrated ballast (CFL.i) for general lighting purposes that are ≤ 30 watts with a mercury content not exceeding 2,5 mg per lamp burner. 31.12.2025
+> 3b. All other compact fluorescent lamps (CFLs) for general lighting purposes that are not included in entries 3 and 3a. 31.12.2025
+> 4. The following linear fluorescent lamps (LFLs) for general lighting purposes:
+> (a) Triband phosphor < 60 watts with a mercury content exceeding 5 mg per lamp;
+> (b) Halophosphate phosphor ≤ 40 watts with a mercury content exceeding 1 […truncated by emendrix: 3379 characters omitted…]
+
+*after* (`02017R0852-20260320`)
+
+> ANNEX II
+> Mercury-added products referred to in Article 5
+> Part A — Mercury-added products
+> Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ L 342, 22.12.2009, p. 59).
+> Mercury-added products Date from which the export, import and manufacturing of the mercury-added products are prohibited
+> 1. Batteries or accumulators that contain more than 0,0005 % of mercury by weight. 31.12.2020
+> 2. Switches and relays, except very high accuracy capacitance and loss measurement bridges and high frequency radio frequency switches and relays in monitoring and control instruments with a maximum mercury content of 20 mg per bridge, switch or relay. 31.12.2020
+> 2a. Very high accuracy capacitance and loss measurement bridges and high frequency radio frequency switches and relays in monitoring and control instruments with a maximum mercury content of 20 mg per bridge, switch or relay, except those used for research and development purposes. 31.12.2025
+> 3. Compact fluorescent lamps (CFLs) for general lighting purposes:
+> (a) CFL.i ≤ 30 watts with a mercury content exceeding 2,5 mg per lamp burner;
+> (b) CFL.ni ≤ 30 watts with a mercury content exceeding 3,5 mg per lamp burner. 31.12.2018
+> 3a. Compact fluorescent lamps with an integrated ballast (CFL.i) for general lighting purposes that are ≤ 30 watts with a mercury content not exceeding 2,5 mg per lamp burner. 31.12.2025
+> 3b. All other compact fluorescent lamps (CFLs) for general lighting p […truncated by emendrix: 3673 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0852-20260320 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0852-20240730 -->
 ## Regulation (EU) 2017/852 of the European Parliament and of the Council of 17 May 2017 on mercury, and repealing […]
 ### `02017R0852-20231016` → `02017R0852-20240730`
