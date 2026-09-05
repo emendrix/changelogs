@@ -7445,7 +7445,7 @@ The earlier text listed exclusions based on added sugar, fat, salt or sweeteners
 ### `02013R1308-20160726` → `02013R1308-20160731`
 
 - **Act** `eu:32013R1308` · **In force** 2016-07-31 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 246 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20160726` · `v2` = `02013R1308-20160731`
