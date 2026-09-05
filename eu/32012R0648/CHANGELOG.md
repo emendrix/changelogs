@@ -5302,7 +5302,7 @@ The date until which the clearing obligation exemption for pension scheme arrang
 ### `02012R0648-20160112` → `02012R0648-20170103`
 
 - **Act** `eu:32012R0648` · **In force** 2017-01-03 · **Detected** 2026-08-13
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **5 disputed**
+- **Touched** 6 provisions — 3 substantive · 0 date-only · 3 with no text · **5 disputed**
 - **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20160112` · `v2` = `02012R0648-20170103`
@@ -5351,7 +5351,7 @@ No other wording in Article 5, including paragraph 3, differs between the two ve
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5397,7 +5397,7 @@ These additions do not appear in the earlier version of Article 7. [Art. 7, v1](
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5407,7 +5407,7 @@ These additions do not appear in the earlier version of Article 7. [Art. 7, v1](
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
