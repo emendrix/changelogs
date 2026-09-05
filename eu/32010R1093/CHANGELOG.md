@@ -2798,11 +2798,11 @@ In paragraph 2, the description of the information a competent authority must pr
 
 *within* `AR 1 PA 2 ALN 1`, `AR 1 PA 5 ALN 1` · *dates* +2013-06-26 +2013-10-15 · *amended by* `32013R1022`
 
-The list of acts defining the Authority's scope of action in paragraph 2 was changed to remove references to Directive 2006/48/EC and Directive 2006/49/EC and to add Regulation (EU) No 575/2013 and Directive 2013/36/EU, along with a new sentence stating the Authority shall also act in accordance with Council Regulation (EU) No 1024/2013. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_1)
+The list of acts defining the scope of the Authority's action in paragraph 2 was revised by removing references to Directive 2006/48/EC and Directive 2006/49/EC and adding references to Regulation (EU) No 575/2013 and Directive 2013/36/EU, and a new sentence was added stating that the Authority shall also act in accordance with Council Regulation (EU) No 1024/2013. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_1)
 
-In paragraph 5, the closing sentence on how the Authority acts when carrying out its tasks was changed from acting independently and objectively in the interest of the Union alone, to acting independently, objectively and in a non-discriminatory manner, in the interests of the Union as a whole. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_1)
+In the same paragraph the order of some directives listed was rearranged, with Directive 94/19/EC moved earlier and Directive 2002/65/EC and Directive 2005/60/EC repositioned relative to each other, compared with the earlier text. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_1)
 
-The earlier version of Article 1 referenced Directive 2006/48/EC and Directive 2006/49/EC and did not contain any reference to Regulation (EU) No 1024/2013. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_1)
+In paragraph 5, the closing sentence on how the Authority shall act was changed from acting independently and objectively and in the interest of the Union alone to acting independently, objectively and in a non-discriminatory manner, in the interests of the Union as a whole. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_1)
 
 *before* (`32010R1093`)
 
@@ -2822,18 +2822,21 @@ The earlier version of Article 1 referenced Directive 2006/48/EC and Directive 2
 > This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).
 >
 > 2.
-> The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 94/19/EC, Directive 2002/87/EC, Regulation (EC) No 1781/2006, Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013, p. 1., Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firmsOJ L 176, 27.6.2013, p. 338. and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, Directive 2005/60/EC, Directive 2007/64/EC and Directive 2009/110/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..
+> The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 94/19/EC, Directive 2002/87/EC, Regulation (EC) No 1781/2006, Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013, p. 1., Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms
+> OJ L 176, 27.6.2013, p. 338. and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, Directive 2005/60/EC, Directive 2007/64/EC and Directive 2009/110/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..
 >
 > 3.
-> The Authority shall […truncated by emendrix: 2175 characters omitted…]
+> The Authority sh […truncated by emendrix: 2178 characters omitted…]
 
 **MODIFIED · Art. 2 — European System of Financial Supervision** · applies from: unchanged
 
 *within* `AR 2 PA 2 ALN 1 PTA (f)` · *amended by* `32013R1022`
 
-Point (f) of Article 2(2) drops the reference to authorities being located 'in the Member States' and instead refers simply to competent or supervisory authorities specified in the listed Union acts. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_2)
+Point (f) of Article 2(2) no longer refers to authorities specifically in the Member States, instead referring to competent or supervisory authorities as specified in the relevant Union acts. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_2)
 
-The revised point (f) also adds a clause including the European Central Bank with regard to the tasks conferred on it by Regulation (EU) No 1024/2013, which was not present before. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_2)
+Point (f) also adds a reference including the European Central Bank with regard to tasks conferred on it by Regulation (EU) No 1024/2013. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_2)
 
 *before* (`32010R1093`)
 
@@ -2843,10 +2846,12 @@ The revised point (f) also adds a clause including the European Central Bank wit
 > 2. The ESFS shall comprise the following:
 > (a) the European Systemic Risk Board (ESRB), for the purposes of the tasks as specified in Regulation (EU) No 1092/2010 and this Regulation;
 > (b) the Authority;
-> (c) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilSee page 48 of this Official Journal.;
-> (d) the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010 of the European Parliament and of the CouncilSee page 84 of this Official Journal.;
+> (c) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council
+> See page 48 of this Official Journal.;
+> (d) the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council
+> See page 84 of this Official Journal.;
 > (e) the Joint Committee of the European Supervisory Authorities (Joint Committee) for the purposes of carrying out the tasks as specified in Articles 54 to 57 of this Regulation, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010;
-> (f) the competent or supervisory authorities in the Member States as specified in the Union acts referred to in Article 1(2) of this Regulation, of Regulation (EU) No 1094/2010 and of Regulat […truncated by emendrix: 949 characters omitted…]
+> (f) the competent or supervisory authorities in the Member States as specified in the Union acts referred to in Article 1(2) of this Regulation, of Regulation (EU) No 1094/2010 and of Regul […truncated by emendrix: 951 characters omitted…]
 
 *after* (`02010R1093-20131030`)
 
@@ -2862,14 +2867,16 @@ The revised point (f) also adds a clause including the European Central Bank wit
 >
 > (b) the Authority;
 >
-> (c) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilSee page 48 of this Official Journal.;
+> (c) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council
+> See page 48 of this Official Journal.;
 >
-> (d) the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010 of the European Parliament and of the CouncilSee page 84 of this Official Journal.;
+> (d) the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council
+> See page 84 of this Official Journal.;
 >
 > (e) the Joint Committee of the European Supervisory Authorities (Joint Committee) for the purposes of carrying out the tasks as specified in Articles 54 to 57 of this Regulation, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010;
 >
 >
-> (f) the competent or supervisory authorities as specified in the Union acts referred to in Article 1(2) of this Regulation, including the European Central Bank with regard to the task […truncated by emendrix: 1047 characters omitted…]
+> (f) the competent or supervisory authorities as specified in the Union acts referred to in Article 1(2) of this Regulation, including the European Central Bank with regard to the ta […truncated by emendrix: 1049 characters omitted…]
 
 **MODIFIED · Art. 3 — Accountability of the Authorities** · applies from: unchanged
 
@@ -3480,11 +3487,11 @@ In paragraph 5, the description of how the competent authority informs the Counc
 
 *within* `AR 37 PA 1 ALN 1`, `AR 37 PA 1 ALN 2`, `AR 37 PA 4 ALN 1` · *amended by* `32013R1022`
 
-The meeting frequency requirement for the Banking Stakeholder Group was changed from a flat minimum of four meetings a year to meeting on its own initiative as necessary, with at least four meetings a year still required. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_37)
+The requirement on how often the Banking Stakeholder Group meets now adds that it meets on its own initiative as necessary, in addition to the existing minimum of four times a year. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_37)
 
-A new sentence was added specifying that compensation for members representing non-profit organisations must be at least equivalent to the reimbursement rates for officials under Title V, Chapter 1, Section 2 of the Staff Regulations laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68. [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_37)
+The provision on compensation for members representing non-profit organisations now specifies that such compensation must be at least equivalent to the reimbursement rates for officials under Title V, Chapter 1, Section 2 of the Staff Regulations set out in Council Regulation (EEC, Euratom, ECSC) No 259/68, a specification absent from the earlier text. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_37)
 
-The phrase describing the term of service was reworded from "2 1/2 years" to "two-and-a-half years" without altering the duration stated. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_37)
+The term length for members is expressed as "two-and-a-half years" rather than "2 1/2 years," a wording change with no numerical difference. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1093#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_37)
 
 *before* (`32010R1093`)
 
@@ -3507,7 +3514,7 @@ The phrase describing the term of service was reworded from "2 1/2 years" to "tw
 > 2.
 > The Banking Stakeholder Group shall be composed of 30 members, representing in balanced proportions credit and investment institutions operating in the Union, their employees’ representatives as well as consumers, users of banking services and representatives of SMEs. At least five of its members shall be independent top-ranking academics. Ten of its members shall represent financial institutions, three of whom shall represent cooperative and savings banks.
 > 3.
-> The members of the Banking Stakeholder Group shall be appointed by the Board of Supervisors, following proposals from the relevant stakeholders. In making its decision, the Board of Supervisors shall, to the extent possible, ensure an appropriate geographical and […truncated by emendrix: 1561 characters omitted…]
+> The members of the Banking Stakeholder Group shall be appointed by the Board of Supervisors, following proposals from the relevant stakeholders. In making its decision, the Board of Supervisors shall, to the extent possible, ensure an appropriate geographical and […truncated by emendrix: 1562 characters omitted…]
 
 **MODIFIED · Art. 40 — Composition** · applies from: unchanged
 
