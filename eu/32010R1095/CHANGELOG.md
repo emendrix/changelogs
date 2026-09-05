@@ -2420,7 +2420,7 @@ The earlier version of that same sentence in Article 17(2) did not include this 
 ### `32010R1095` → `02010R1095-20110721`
 
 - **Act** `eu:32010R1095` · **In force** 2011-07-21 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **3 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 80 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32010R1095` · `v2` = `02010R1095-20110721`
@@ -2457,7 +2457,7 @@ The reference to "any future legislation in the area of Alternative Investment F
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
