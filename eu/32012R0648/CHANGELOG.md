@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02012R0648-20241224` → `02012R0648-20250117`
 
 - **Act** `eu:32012R0648` · **In force** 2025-01-17 · **Detected** 2026-08-13
-- **Touched** 10 provisions — 10 substantive · 0 date-only · **4 disputed**
+- **Touched** 10 provisions — 9 substantive · 0 date-only · 1 with no text · **4 disputed**
 - **Diff** 0 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 132 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20241224` · `v2` = `02012R0648-20250117`
@@ -259,7 +259,7 @@ Paragraph 2 adds that the business continuity policy and disaster recovery plan 
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
