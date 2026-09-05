@@ -3017,7 +3017,7 @@ The earlier version did not contain paragraphs 1a, 1b, 1c or 1d at all, moving d
 ### `02012R0648-20191218` → `02012R0648-20200101`
 
 - **Act** `eu:32012R0648` · **In force** 2020-01-01 · **Detected** 2026-08-13
-- **Touched** 41 provisions — 40 substantive · 1 date-only · **8 disputed**
+- **Touched** 41 provisions — 39 substantive · 1 date-only · 1 with no text · **8 disputed**
 - **Diff** 26 inserted · 14 modified · 0 deleted · 0 renumbered · 1 deferred · 86 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20191218` · `v2` = `02012R0648-20200101`
@@ -3989,7 +3989,7 @@ The text states that these coefficients apply cumulatively to the basic amounts 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20200101 -->
