@@ -5247,9 +5247,9 @@ The date until which the clearing obligation exemption for pension scheme arrang
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-A new sentence has been added at the end of paragraph 2 stating that, in developing the draft regulatory technical standards under that paragraph, ESMA shall not prejudice the transitional provision relating to C6 energy derivative contracts laid down in Article 95 of Directive 2014/65/EU. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_5)
+A new sentence has been added at the end of paragraph 2 stating that, when developing the draft regulatory technical standards under that paragraph, ESMA shall not prejudice the transitional provision relating to C6 energy derivative contracts laid down in Article 95 of Directive 2014/65/EU. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_5)
 
-No other wording in Article 5, including paragraph 3, differs between the two versions shown. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_5)
+This sentence, along with an accompanying footnote citing Directive 2014/65/EU, does not appear in the earlier version of paragraph 2. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_5)
 
 *before* (`02012R0648-20160112`)
 
@@ -5275,7 +5275,7 @@ No other wording in Article 5, including paragraph 3, differs between the two ve
 > 2. Within six months of receiving notification in accordance with paragraph 1 or accomplishing a procedure for recognition set out in Article 25, ESMA shall, after conducting a public consultation and after consulting the ESRB and, where appropriate, the competent authorities of third countries, develop and submit to the Commission for endorsement draft regulatory technical standards specifying the following:
 > (a) the class of OTC derivatives that should be subject to the clearing obligation referred to in Article 4;
 > (b) the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies; and
-> (c) the minimum remaining maturity of the OTC derivative contracts referred to in Article 4(1)(b)(ii). […truncated by emendrix: 3834 characters omitted…]
+> (c) the minimum remaining maturity of the OTC derivative contracts referred to in Article 4(1)(b)(ii). […truncated by emendrix: 3835 characters omitted…]
 
 **MODIFIED · Art. 5.2** · applies from: unknown
 
@@ -5293,11 +5293,11 @@ No other wording in Article 5, including paragraph 3, differs between the two ve
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-Paragraph 1 now specifies that non-discriminatory and transparent treatment extends to collateral requirements and fees related to access, and it adds two new points describing non-discriminatory treatment of contracts in terms of collateral requirements and netting of economically equivalent contracts, and cross-margining with correlated contracts cleared by the same CCP under a risk model complying with Article 41. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_7)
+Paragraph 1 now adds that non-discriminatory and transparent treatment covers collateral requirements and fees related to access, and it introduces new points (a) and (b) specifying non-discriminatory treatment regarding collateral requirements and netting of economically equivalent contracts, and cross-margining with correlated contracts cleared by the same CCP under a risk model complying with Article 41. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_7)
 
-A new paragraph 6 was added stating that the conditions on non-discriminatory treatment regarding collateral requirements, netting of economically equivalent contracts, and cross-margining with correlated contracts are to be further specified by technical standards adopted under Article 35(6)(e) of Regulation (EU) No 600/2014. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_7)
+A new paragraph 6 is added stating that the conditions in paragraph 1 on non-discriminatory treatment for collateral requirements, netting of economically equivalent contracts, and cross-margining with correlated contracts are to be further specified by technical standards adopted under Article 35(6)(e) of Regulation (EU) No 600/2014. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_7)
 
-These additions do not appear in the earlier version of Article 7. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_7)
+The earlier version of Article 7 contained neither this expanded wording in paragraph 1 nor any paragraph 6. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_7)
 
 *before* (`02012R0648-20160112`)
 
@@ -5321,7 +5321,7 @@ These additions do not appear in the earlier version of Article 7. [Art. 7, v1](
 > A CCP may require that a trading venue comply with the operational and technical requirements established by the CCP, including the risk-management requirements.
 > 2. A CCP shall accede to or refuse a formal request for access by a trading venue within three months of such a request.
 > 3. Where a CCP refuses access under paragraph 2, it shall provide the trading venue with full reasons for such refusal.
-> 4. Save where the competent authority of the trading venue and that of the CCP refuse access, the CCP shall, subject to the second subparagraph, grant access within three months of a decision ac […truncated by emendrix: 1140 characters omitted…]
+> 4. Save where the competent authority of the trading venue and that of the CCP refuse access, the CCP shall, subject to the second subparagraph, grant access within three months of a decision ac […truncated by emendrix: 1141 characters omitted…]
 
 **MODIFIED · Art. 7.1** · applies from: unknown
 
@@ -5347,9 +5347,9 @@ These additions do not appear in the earlier version of Article 7. [Art. 7, v1](
 
 *within* `AR 81 PA 3 ALN 2` · *amended by* `32014R0600`
 
-A new sentence is added at the end of paragraph 3, stating that a trade repository shall transmit data to competent authorities in accordance with the requirements under Article 26 of Regulation (EU) No 600/2014. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_81)
+A new sentence has been added at the end of paragraph 3, stating that a trade repository shall transmit data to competent authorities in accordance with the requirements under Article 26 of Regulation (EU) No 600/2014. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_81)
 
-The rest of Article 81, including the list of entities in paragraph 3 and paragraphs 1, 2, 4 and 5, is unchanged between the two versions. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_81)
+This sentence does not appear in the earlier version of Article 81. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
 
 *before* (`02012R0648-20160112`)
 
@@ -5364,9 +5364,11 @@ The rest of Article 81, including the list of entities in paragraph 3 and paragr
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 2884 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 2888 characters omitted…]
 
 *after* (`02012R0648-20170103`)
 
@@ -5381,9 +5383,11 @@ The rest of Article 81, including the list of entities in paragraph 3 and paragr
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3228 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 3233 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20170103 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20160112 -->
