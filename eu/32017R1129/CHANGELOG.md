@@ -2003,11 +2003,11 @@ The credit-institution exemption previously located at point (k) with the same w
 
 *within* `AR 1 PA 4 ALN 1 PTA (j) PTI (ii)`, `AR 1 PA 4 ALN 1 PTA (l)`, `AR 1 PA 5 ALN 1 PTA (j) PTI (vi)`, `AR 1 PA 5 ALN 1 PTA (k)` · *dates* +2021-03-18 +2022-12-31 · *amended by* `32021R0337`
 
-A new point (l) is added to paragraph 4, exempting non-equity securities issued continuously or repeatedly by a credit institution where the total aggregated consideration in the Union is less than EUR 150000000 per credit institution over 12 months, applicable from 18 March 2021 to 31 December 2022, alongside the existing point (j) exemption for such securities under the EUR 75000000 threshold. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1)
+A new point (l) is added to paragraph 4, creating a temporary prospectus exemption for non-equity securities issued repeatedly by a credit institution where the aggregated Union consideration is below EUR 150000000 per credit institution over 12 months, applicable from 18 March 2021 to 31 December 2022, subject to the same non-subordination and non-derivative-linkage conditions as the existing point (j). [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1)
 
-A parallel new point (k) is added to paragraph 5 with the same EUR 150000000 threshold and the same 18 March 2021 to 31 December 2022 window, sitting alongside the existing point (i) exemption for the EUR 75000000 threshold. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1)
+A parallel new point (k) is added to paragraph 5 introducing the same temporary EUR 150000000 threshold exemption from the admission-to-trading prospectus obligation, running from 18 March 2021 to 31 December 2022, with identical conditions on the securities not being subordinated, convertible, exchangeable or linked to a derivative instrument. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1)
 
-These additions did not exist in the earlier text, which only contained the lower EUR 75000000 thresholds in point (j) of paragraph 4 and point (i) of paragraph 5. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
+The corresponding text in the earlier version contains neither point (l) in paragraph 4 nor point (k) in paragraph 5. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
 
 *before* (`02017R1129-20191231`)
 
@@ -2021,7 +2021,7 @@ These additions did not exist in the earlier text, which only contained the lowe
 > (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
 > (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
 > (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
-> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 13281 characters omitted…]
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 13287 characters omitted…]
 
 *after* (`02017R1129-20210318`)
 
@@ -2035,7 +2035,7 @@ These additions did not exist in the earlier text, which only contained the lowe
 > (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
 > (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
 > (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
-> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14321 characters omitted…]
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14327 characters omitted…]
 
 **MODIFIED · Art. 6 — The prospectus** · applies from: unchanged
 
@@ -2117,9 +2117,9 @@ No such paragraph 12a appears in the earlier version of the article. [Art. 7, v1
 
 *amended by* `32021R0337`
 
-A new Article 14a is added, introducing an EU Recovery prospectus as a simplified disclosure regime available to certain issuers and offerors of shares that have been admitted to trading on a regulated market or SME growth market for at least the preceding 18 months, subject to a limit on the number of shares offered under this regime. [Art. 14a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_14a)
+This provision is entirely new, introducing Article 14a which creates an EU Recovery prospectus as a simplified disclosure regime for certain issuers and offerors of shares. [Art. 14a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_14a)
 
-The article sets out the reduced content the EU Recovery prospectus must contain, requires it to be a single document of at most 30 sides of A4 paper following the minimum information listed in Annex Va, and lets issuers choose the order of that information. [Art. 14a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_14a)
+It sets out eligibility conditions based on prior trading history and share issuance limits, specifies the reduced content requirements including a COVID-19 impact reference, and imposes a maximum length of 30 sides of A4 paper along with rules on document structure and ordering of information. [Art. 14a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_14a)
 
 *after* (`02017R1129-20210318`)
 
@@ -2131,7 +2131,7 @@ The article sets out the reduced content the EU Recovery prospectus must contain
 > (c) offerors of shares admitted to trading on a regulated market or an SME growth market continuously for at least the last 18 months.
 > Issuers may only draw up an EU Recovery prospectus provided that the number of shares intended to be offered represents, together with the number of shares already offered via an EU Recovery prospectus over a period of 12 months, if any, no more than 150 % of the number of shares already admitted to trading on a regulated market or an SME growth market, as the case may be, on the date of approval of the EU Recovery prospectus.
 > The period of 12 months referred to in the second subparagraph shall begin on the date of approval of the EU Recovery prospectus.
-> 2. By way of derogation from Ar […truncated by emendrix: 2476 characters omitted…]
+> 2. By way of derogation from Ar […truncated by emendrix: 2477 characters omitted…]
 
 **MODIFIED · Art. 20 — Scrutiny and approval of the prospectus** · applies from: unchanged
 
