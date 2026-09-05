@@ -120,7 +120,7 @@ Point (e) of paragraph 6 is expanded from a single assessment of market liquidit
 ### `02013R0575-20240709` → `02013R0575-20250101`
 
 - **Act** `eu:32013R0575` · **In force** 2024-12-24, 2025-01-01 · **Detected** 2026-08-13
-- **Touched** 283 provisions — 283 substantive · 0 date-only · **41 disputed**
+- **Touched** 283 provisions — 268 substantive · 0 date-only · 15 with no text · **41 disputed**
 - **Diff** 44 inserted · 232 modified · 7 deleted · 0 renumbered · 0 deferred · 523 unchanged
 - **Gate** 0 sentences quoted verbatim · 15 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20240709` · `v2` = `02013R0575-20250101`
@@ -131,11 +131,11 @@ Point (e) of paragraph 6 is expanded from a single assessment of market liquidit
 
 *within* `AR 4 PA 1 ALN 1 PO 1 PTA (b)`, `AR 4 PA 1 ALN 1 PO 1 PTA (b) PTI (i)`, `AR 4 PA 1 ALN 1 PO 1 PTA (b) PTI (ii)`, `AR 4 PA 1 ALN 1 PO 1 PTA (b) PTI (iii)`, `AR 4 PA 1 ALN 1 PO 15`, `AR 4 PA 1 ALN 1 PO 15 PTA (a)`, `AR 4 PA 1 ALN 1 PO 15 PTA (b)`, `AR 4 PA 1 ALN 1 PO 16`, `AR 4 PA 1 ALN 1 PO 16 PTA (a)`, `AR 4 PA 1 ALN 1 PO 16 PTA (b)`, `AR 4 PA 1 ALN 1 PO 20`, `AR 4 PA 1 ALN 1 PO 20 PTA (a)`, `AR 4 PA 1 ALN 1 PO 20 PTA (b)`, `AR 4 PA 1 ALN 1 PO 20 PTA (c)`, `AR 4 PA 1 ALN 1 PO 20 PTA (d)`, `AR 4 PA 1 ALN 1 PO 20a`, `AR 4 PA 1 ALN 1 PO 26`, `AR 4 PA 1 ALN 1 PO 26 PTA (a)`, `AR 4 PA 1 ALN 1 PO 26 PTA (b)`, `AR 4 PA 1 ALN 1 PO 26a`, `AR 4 PA 1 ALN 1 PO 28`, `AR 4 PA 1 ALN 1 PO 35`, `AR 4 PA 1 ALN 1 PO 37`, `AR 4 PA 1 ALN 1 PO 52`, `AR 4 PA 1 ALN 1 PO 52a`, `AR 4 PA 1 ALN 1 PO 52b`, `AR 4 PA 1 ALN 1 PO 52c`, `AR 4 PA 1 ALN 1 PO 52d`, `AR 4 PA 1 ALN 1 PO 52e`, `AR 4 PA 1 ALN 1 PO 52f`, `AR 4 PA 1 ALN 1 PO 52g`, `AR 4 PA 1 ALN 1 PO 52h`, `AR 4 PA 1 ALN 1 PO 52i`, `AR 4 PA 1 ALN 1 PO 54`, `AR 4 PA 1 ALN 1 PO 55`, `AR 4 PA 1 ALN 1 PO 56`, `AR 4 PA 1 ALN 1 PO 58`, `AR 4 PA 1 ALN 1 PO 59`, `AR 4 PA 1 ALN 1 PO 60`, `AR 4 PA 1 ALN 1 PO 60a`, `AR 4 PA 1 ALN 1 PO 74a`, `AR 4 PA 1 ALN 1 PO 75`, `AR 4 PA 1 ALN 1 PO 75 PTA (a)`, `AR 4 PA 1 ALN 1 PO 75 PTA (b)`, `AR 4 PA 1 ALN 1 PO 75 PTA (c)`, `AR 4 PA 1 ALN 1 PO 75 PTA (d)`, `AR 4 PA 1 ALN 1 PO 75a`, `AR 4 PA 1 ALN 1 PO 75b`, `AR 4 PA 1 ALN 1 PO 75c`, `AR 4 PA 1 ALN 1 PO 75d`, `AR 4 PA 1 ALN 1 PO 75e`, `AR 4 PA 1 ALN 1 PO 75f`, `AR 4 PA 1 ALN 1 PO 78`, `AR 4 PA 1 ALN 1 PO 78a`, `AR 4 PA 1 ALN 1 PO 78b`, `AR 4 PA 1 ALN 1 PO 114`, `AR 4 PA 1 ALN 1 PO 126`, `AR 4 PA 1 ALN 1 PO 127 PTA (b)`, `AR 4 PA 1 ALN 1 PO 144`, `AR 4 PA 1 ALN 1 PO 145 PTA (f)`, `AR 4 PA 1 ALN 1 PO 151`, `AR 4 PA 1 ALN 1 PO 152`, `AR 4 PA 1 ALN 1 PO 153`, `AR 4 PA 1 ALN 1 PO 154`, `AR 4 PA 1 ALN 1 PO 155`, `AR 4 PA 1 ALN 2`, `AR 4 PA 1 ALN 3`, `AR 4 PA 1 ALN 4`, `AR 4 PA 1 ALN 5` · *dates* -1978-07-25 +2002-07-19 +2006-12-20 +2020-06-18 +2021-03-15 · *amended by* `32024R1623`
 
-The definitions of parent undertaking and subsidiary are rewritten to be shorter, defining them by reference to the new definition of control rather than by reference to Directive 83/349/EEC, and the definition of control itself is changed to refer to Article 22 of Directive 2013/34/EU instead of Article 1 of Directive 83/349/EEC. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_4)
+The definitions of parent undertaking and subsidiary are shortened to short cross-references keyed to the reworked definition of control, replacing the earlier text that referred to Directive 83/349/EEC and to a dominant-influence test. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
 
-The definitions of financial holding company and financial institution are substantially rewritten with new multi-part conditions and indicators, new definitions of investment holding company and pure industrial holding company are added, and the definition of participation is changed to refer to Directive 2013/34/EU instead of the 1978 Fourth Council Directive. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_4)
+The definitions of financial holding company and financial institution are rewritten with new multi-part conditions and lettered sub-points, and new definitions are added, including investment holding company, pure industrial holding company, several sub-definitions under operational risk (legal risk, model risk, ICT risk, and ESG-related risks), gold bullion, property value, an expanded residential property definition with new related property-exposure definitions, and land acquisition, development and construction exposure terms, while the participation and control definitions now reference Directive 2013/34/EU instead of the earlier company-law directives. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
 
-Several new and expanded definitions are added or altered, including operational risk, legal risk, model risk, ICT risk, ESG-related risks, gold bullion, property value, residential property, commercial immovable property, IPRE and non-IPRE exposures, ADC and non-ADC exposures, and revised definitions of probability of default, loss given default, conversion factor, funded and unfunded credit protection, cash assimilated instrument, and one-year default rate, and the credit institution definition in point (b) and its sub-points (i) to (iii) is reworded to refer to undertakings established in the Union including their third-country branches and subsidiaries and to add an exclusion for certain investment firms. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_4)
+The credit institution definition in point (1)(b) and its sub-points (i) to (iii) are revised to refer to assets of the undertaking established in the Union including branches and subsidiaries in third countries, and to add an exclusion for investment firms whose authorisation as a credit institution is waived under Article 8a of Directive 2013/36/EU; the text shown is truncated, so further differences in the remaining definitions cannot be described. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
 
 *before* (`02013R0575-20240709`)
 
@@ -144,10 +144,11 @@ Several new and expanded definitions are added or altered, including operational
 > 1. For the purposes of this Regulation, the following definitions shall apply:
 > (1) credit institution means an undertaking the business of which consists of any of the following:
 > (a) to take deposits or other repayable funds from the public and to grant credits for its own account;
-> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
+> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
 > (i) the total value of the consolidated assets of the undertaking is equal to or exceeds EUR 30 billion;
 > (ii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in that group that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU is equal to or exceeds EUR 30 billion; or
-> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46873 characters omitted…]
+> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46883 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
@@ -156,9 +157,10 @@ Several new and expanded definitions are added or altered, including operational
 > 1. For the purposes of this Regulation, the following definitions shall apply:
 > (1) credit institution means an undertaking the business of which consists of any of the following:
 > (a) to take deposits or other repayable funds from the public and to grant credits for its own account;
-> (b) to carry out any of the activities referred to in Annex I, Section A, points (3) and (6), to Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking, an insurance undertaking, or an investment firm for which the authorisation as a credit institution is waived in accordance with Article 8a of Directive 2013/36/EU:
+> (b) to carry out any of the activities referred to in Annex I, Section A, points (3) and (6), to Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking, an insurance undertaking, or an investment firm for which the authorisation as a credit institution is waived in accordance with Article 8a of Directive 2013/36/EU:
 > (i) the total value of the consolidated assets of the undertaking established in the Union, including any of its branches and subsidiaries established in a third country, is equal to or exceeds EUR 30 billion;
-> (ii) the total value of the assets of the undertaking established in the Union, including any of its branches and subsidiaries established in a third country, is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in tha […truncated by emendrix: 63029 characters omitted…]
+> (ii) the total value of the assets of the undertaking established in the Union, including any of its branches and subsidiaries established in a third country, is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in th […truncated by emendrix: 63043 characters omitted…]
 
 **MODIFIED · Art. 13 — Application of disclosure requirements on a consolidated basis** · applies from: unchanged
 
@@ -315,7 +317,7 @@ Paragraph 2 similarly adds subsidiary intermediate financial holding companies a
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -351,11 +353,11 @@ Paragraph 4, referencing extraordinary circumstances and reductions under paragr
 
 *within* `AR 36 PA 1 ALN 1 PTA (d)`, `AR 36 PA 1 ALN 1 PTA (k) PTI (vi)`, `AR 36 PA 5` · *dates* +2028-12-31 · *amended by* `32024R1623`
 
-Point (d) of Article 36(1) no longer refers to negative amounts resulting from the calculation of expected loss amounts under Articles 158 and 159, and instead refers to the IRB shortfall, where applicable, calculated in accordance with Article 159. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_36)
+The deduction described in point (d) for institutions using the IRB Approach now refers to the IRB shortfall calculated under Article 159, replacing the earlier reference to negative amounts resulting from the calculation of expected loss amounts under Articles 158 and 159. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_36)
 
-A new point (vi) has been added to Article 36(1)(k), covering exposures in the form of units or shares in a CIU that are assigned a risk weight of 1250% in accordance with the second subparagraph of Article 132(2). [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_36)
+A new item (vi) has been added to the list in point (k), covering exposures in the form of units or shares in a CIU that are assigned a risk weight of 1250 percent in accordance with Article 132(2), second subparagraph. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_36)
 
-A new paragraph 5 has been added setting the applicable amount of insufficient coverage for non-performing exposures purchased by a specialised debt restructurer to zero under stated conditions, defining what qualifies an institution as a specialised debt restructurer, requiring notification duties toward competent authorities and EBA, and requiring EBA to maintain a public list and report to the Commission by 31 December 2028. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_36)
+A new paragraph 5 has been added setting out a derogation from Article 47c under which the applicable amount of insufficient coverage for non-performing exposures purchased by a specialised debt restructurer is zero, defining the conditions for that status, requiring notification and EBA list maintenance, and calling for an EBA report to the Commission by 31 December 2028. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_36)
 
 *before* (`02013R0575-20240709`)
 
@@ -369,7 +371,7 @@ A new paragraph 5 has been added setting the applicable amount of insufficient c
 > (e) defined benefit pension fund assets on the balance sheet of the institution;
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
-> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have […truncated by emendrix: 4028 characters omitted…]
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have […truncated by emendrix: 4029 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
@@ -383,7 +385,7 @@ A new paragraph 5 has been added setting the applicable amount of insufficient c
 > (e) defined benefit pension fund assets on the balance sheet of the institution;
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
-> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in […truncated by emendrix: 6822 characters omitted…]
+> (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in […truncated by emendrix: 6823 characters omitted…]
 
 **MODIFIED · Art. 46 — Deduction of holdings of Common Equity Tier 1 instruments where an institution does not have a significant investment in a financial sector entity** · applies from: unchanged
 
@@ -487,9 +489,9 @@ In both point (a)(ii) and point (b)(ii), the cross-reference to Article 36(1) po
 
 *within* `AR 49 PA 4 ALN 1`, `AR 49 PA 4 ALN 2` · *amended by* `32024R1623`
 
-Paragraph 4 now splits the previous single sentence into two: holdings not deducted under paragraph 1 are to be risk weighted under Part Three, Title II, Chapter 2, referencing only that chapter rather than 'Chapter 2 or 3, as applicable'. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_49)
+Paragraph 4 now splits into two separate rules instead of one combined provision: holdings not deducted under paragraph 1 are treated as exposures and risk weighted specifically under Part Three, Title II, Chapter 2, while holdings not deducted under paragraph 2 or 3 are treated as exposures risk weighted at 100%. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_49)
 
-A separate new sentence states that holdings not deducted under paragraph 2 or 3 are to be risk weighted at 100%, a specific weighting that did not appear in the prior text. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_49) [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_49)
+The earlier version had applied a single risk-weighting rule to holdings not deducted under any of paragraphs 1, 2 or 3, referring generally to Chapter 2 or 3 of Title II of Part Three as applicable. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_49)
 
 *before* (`02013R0575-20240709`)
 
@@ -499,7 +501,7 @@ A separate new sentence states that holdings not deducted under paragraph 2 or 3
 > (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
 > (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
 > (c) the institution has received the prior permission of the competent authorities;
-> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5677 characters omitted…]
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5678 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
@@ -509,7 +511,7 @@ A separate new sentence states that holdings not deducted under paragraph 2 or 3
 > (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
 > (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
 > (c) the institution has received the prior permission of the competent authorities;
-> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5800 characters omitted…]
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5801 characters omitted…]
 
 **MODIFIED · Art. 60 — Deduction of holdings of Additional Tier 1 instruments where an institution does not have a significant investment in a financial sector entity** · applies from: unchanged
 
@@ -1514,7 +1516,7 @@ The revised text also adds a specific rule assigning a 50% risk weight to such e
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1873,27 +1875,29 @@ The 150% risk weight assignment is retained in the after text but is now applied
 
 *within* `AR 129 PA 1 ALN 4`, `AR 129 PA 3 ALN 2`, `AR 129 PA 4 ALN 1`, `AR 129 PA 5 ALN 1`, `AR 129 PA 5 ALN 1 PTA (aa)`, `AR 129 PA 5 ALN 1 PTA (ab)`, `AR 129 PA 5 ALN 1 PTA (b)`, `AR 129 PA 5 ALN 1 PTA (ba)` · *dates* +2027-07-01 · *amended by* `32024R1623`
 
-Paragraph 1 now adds a new subparagraph on indirect exposures to unrated credit institutions that guarantee mortgage loans pending registration, treating such exposures as credit quality step 1 under point (c) of the first subparagraph, subject to conditions on short-term grade A classification and eventual eligibility of the guaranteed loans under points (d), (e) and (f), with this treatment stated to apply until 1 July 2027. [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
+A new subparagraph was added at the end of paragraph 1, stating that until 1 July 2027 indirect exposures to unrated credit institutions that guarantee mortgage loans pending their registration are to be treated as credit quality step 1 exposures for the purposes of point (c), subject to conditions on short-term grade A exposures under Article 121 and eventual eligibility of the underlying guaranteed loans under points (d), (e) and (f). [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
 
-Paragraph 3 gains a new subparagraph allowing competent authorities designated under Directive (EU) 2019/2162 to permit valuation of immovable property at or below market value, or at mortgage lending value where rigorous statutory criteria exist, without applying the limits in Article 229(1), point (e). [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
+Paragraph 3 now includes an added subparagraph permitting competent authorities designated under Directive (EU) 2019/2162 to allow valuation of immovable property at or below market value, or at mortgage lending value where rigorous statutory valuation criteria exist, without applying the limits in Article 229(1), point (e). [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
 
-Paragraphs 4 and 5 now refer to a 'directly applicable' credit assessment and to Table 1 instead of Table 6a, and paragraph 5's correspondence table gains new points (aa), (ab) and (ba) for risk weights of 30 %, 40 % and 75 % respectively, while the risk weight for a 50 % institution exposure changes from 20 % to 25 % under point (b). [Art. 129, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_129) [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
+In paragraphs 4 and 5, the reference to "a credit assessment" was changed to "a directly applicable credit assessment," the table reference was renamed from Table 6a to Table 1, and paragraph 5 gained new correspondence rows (aa), (ab) and (ba) while the risk weight assigned when the institution's exposure risk weight is 50% changed from 20% to 25%. [Art. 129, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_129) [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_129)
 
 *before* (`02013R0575-20240709`)
 
 > Article 129
 > Exposures in the form of covered bonds
-> 1. To be eligible for the preferential treatment set out in paragraphs 4 and 5 of this Article, covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the CouncilDirective (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29). shall meet the requirements set out in paragraphs 3, 3a and 3b of this Article and shall be collateralised by any of the following eligible assets:
+> 1. To be eligible for the preferential treatment set out in paragraphs 4 and 5 of this Article, covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the Council
+> Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29). shall meet the requirements set out in paragraphs 3, 3a and 3b of this Article and shall be collateralised by any of the following eligible assets:
 > (a) exposures to or guaranteed by central governments, the ESCB central banks, public sector entities, regional governments or local authorities in the Union;
-> (b) exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify […truncated by emendrix: 10515 characters omitted…]
+> (b) exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify […truncated by emendrix: 10516 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
 > Article 129
 > Exposures in the form of covered bonds
-> 1. To be eligible for the preferential treatment set out in paragraphs 4 and 5 of this Article, covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the CouncilDirective (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29). shall meet the requirements set out in paragraphs 3, 3a and 3b of this Article and shall be collateralised by any of the following eligible assets:
+> 1. To be eligible for the preferential treatment set out in paragraphs 4 and 5 of this Article, covered bonds as defined in point (1) of Article 3 of Directive (EU) 2019/2162 of the European Parliament and of the Council
+> Directive (EU) 2019/2162 of the European Parliament and of the Council of 27 November 2019 on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU (OJ L 328, 18.12.2019, p. 29). shall meet the requirements set out in paragraphs 3, 3a and 3b of this Article and shall be collateralised by any of the following eligible assets:
 > (a) exposures to or guaranteed by central governments, the ESCB central banks, public sector entities, regional governments or local authorities in the Union;
-> (b) exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify […truncated by emendrix: 12065 characters omitted…]
+> (b) exposures to or guaranteed by third country central governments, third-country central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Chapter, and exposures to or guaranteed by third-country public sector entities, third-country regional governments or third-country local authorities that are risk weighted as exposures to institutions or central governments and central banks in accordance with Article 115(1) or (2), or Article 116(1), (2) or (4) respectively and that qualify for the credit quality step 1 as set out in this Chapter, and exposures within the meaning of this point that qualify […truncated by emendrix: 12066 characters omitted…]
 
 **MODIFIED · Art. 132a — Approaches for calculating risk-weighted exposure amounts of CIUs** · applies from: unchanged
 
@@ -2577,7 +2581,7 @@ Paragraph 4 replaces the earlier list of conditions (a) to (e) for qualifying re
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2863,7 +2867,7 @@ New paragraphs 8a, 8b and 8c have been added, setting out how the SA-CCF and IRB
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3378,7 +3382,7 @@ The earlier version contained no equivalent paragraph 7 and ended with paragraph
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3546,7 +3550,7 @@ Paragraph 2 is restructured so that internally rated corporate entities under th
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3807,7 +3811,7 @@ Paragraphs 1 and 2 remain textually identical between the two versions. [Art. 21
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4020,7 +4024,7 @@ Table 3's percentages for main index equities and convertible bonds, other liste
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4897,11 +4901,11 @@ The earlier version set out conditions under which institutions could revert fro
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The article was retitled from 'Combined use of different approaches' to 'Business indicator' and its substance was replaced: instead of rules on combining the Basic Indicator, Standardised and Advanced Measurement Approaches, it now sets out formulas for calculating the business indicator from an interest, leases and dividend component, a services component and a financial component. [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_314)
+The article has been entirely rewritten: its heading changed from Combined use of different approaches to Business indicator, and the former content on combining approaches such as the Advanced Measurement Approach, Basic Indicator Approach and Standardised Approach has been replaced with a formula-based calculation of the business indicator using an interest, leases and dividend component, a services component and a financial component. [Art. 314, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314) [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_314)
 
-New transitional and derogation provisions were added allowing an EU parent institution, until 31 December 2027, to request permission to calculate a separate interest, leases and dividend component for certain subsidiaries, subject to biennial reassessment and EBA notification, and allowing continued use of the alternative standardised approach as it stood on 8 July 2024 for retail and commercial banking business lines until 31 December 2027 or an earlier permission date. [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_314)
+New transitional provisions were added allowing an EU parent institution to request, until 31 December 2027, permission to calculate a separate interest, leases and dividend component for certain subsidiaries, with the derogation's use to be reported by EBA to the Commission by 31 December 2031 and a possible legislative proposal by 31 December 2032, and allowing continued use, until 31 December 2027 or an earlier permission date, of the alternative standardised approach as it stood on 8 July 2024 for retail and commercial banking business lines. [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_314)
 
-The former paragraph 5 mandate for EBA to develop regulatory technical standards on approach-combination conditions, due to the Commission by 31 December 2016, no longer appears, while the EBA reporting obligation on the new derogation is set for 31 December 2031 with a possible Commission legislative proposal by 31 December 2032, and paragraphs 9 and 10 on regulatory and implementing technical standards for business indicator components remain present in both versions. [Art. 314, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314) [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_314)
+The former paragraphs on regulatory technical standards for combined-approach permission conditions, previously due to the Commission by 31 December 2016, have been removed, while the regulatory and implementing technical standards provisions on business indicator components and reporting-cell mapping, due by 10 January 2026, remain present in both versions. [Art. 314, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314) [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_314)
 
 *before* (`02013R0575-20240709`)
 
@@ -4913,7 +4917,7 @@ The former paragraph 5 mandate for EBA to develop regulatory technical standards
 > (b) the criteria set out in Article 320 and the standards set out in Articles 321 and 322 are fulfilled for the part of activities covered by the Standardised Approach and the Advanced Measurement Approaches respectively.
 > 3. For institutions that want to use an Advanced Measurement Approach in combination with either the Basic Indicator Approach or the Standardised Approach competent authorities shall impose the following additional conditions for granting permission:
 > (a) on the date of implementation of an Advanced Measurement Approach, a significant part of the institution's operational risks are captured by that Approach;
-> (b) the institution takes a commitment to apply the Advanced Measu […truncated by emendrix: 2950 characters omitted…]
+> (b) the institution takes a commitment to apply the Advanced Measu […truncated by emendrix: 2951 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
@@ -4937,7 +4941,7 @@ The former paragraph 5 mandate for EBA to develop regulatory technical standards
 > IC
 > = the interest component, which is the institution’s interest income from all financial assets and other interest income, including finance income from financial leases and income from operating leases and profits from leased assets, minus the institution’s interest expenses from all financial liabilities and other interest expenses, including interest expense from financial and operating leases, depreciation and impairment of, and losses from, operating leased assets, calculated as the annual average of the absolute values of the differences over the last three financial years;
 > AC
-> = the asset component, which is the sum of the institution’s total gross outstanding loans, advances, interest bearing securities, including governm […truncated by emendrix: 8978 characters omitted…]
+> = the asset component, which is the sum of the institution’s total gross outstanding loans, advances, interest bearing securities, including governm […truncated by emendrix: 8979 characters omitted…]
 
 **MODIFIED · Art. 315 — Adjustments to the business indicator** · applies from: unchanged
 
@@ -5360,7 +5364,7 @@ Paragraphs 5 and 6 are reworded from describing cessation and reinstatement of t
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5405,7 +5409,7 @@ This new paragraph 4 distinguishes calculation using the offsetting treatment fo
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5512,7 +5516,7 @@ The list of maturities is also reworded slightly, replacing the comma before the
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -6656,7 +6660,7 @@ The remaining wording, including the 2% threshold and the 8% multiplication, is 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -7682,11 +7686,11 @@ In paragraph 6, the term 'security' has been replaced with 'financial asset' in 
 
 *within* `AR 429a PA 1 ALN 1 PTA (ca)`, `AR 429a PA 1 ALN 1 PTA (da)` · *amended by* `32024R1623`
 
-A new point (ca) is added allowing a network member referred to in Article 113(7) to exclude exposures assigned a 0% risk weight under Article 114 that arise from assets equivalent to deposits, in the same currency, of other network members stemming from legal or statutory minimum deposits under Article 422(3)(b), with those other members' corresponding exposures no longer covered by point (c). [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_429a)
+A new point (ca) has been added allowing an institution that is a member of the network referred to in Article 113(7) to exclude exposures assigned a 0% risk weight under Article 114 arising from assets equivalent to deposits in the same currency held by other network members under legal or statutory minimum deposit arrangements referred to in Article 422(3), point (b), while stating that such other members' equivalent exposures are not covered by point (c). [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_429a)
 
-A new point (da) is added permitting exclusion of an institution's exposures to its shareholders where those exposures are collateralised to at least 125% by assets referred to in Article 129(1)(d) and (e), those assets are accounted for in the shareholders' leverage ratio requirement, and the institution meets a set of listed conditions concerning shareholder control, compliance with paragraph 2 points (a), (b), (c) and (e), location of exposures, oversight, and a pass-through covered-bond business model. [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_429a)
+A new point (da) has been added permitting exclusion of an institution's exposures to its shareholders where those exposures are collateralised to at least 125% by assets referred to in Article 129(1), points (d) and (e), and are accounted for in the shareholders' leverage ratio requirement, subject to conditions concerning shareholder identity and control, compliance with certain sub-points of paragraph 2, location of exposures, oversight by a Member State's central government, and a business model limited to passing through covered bond issuance proceeds. [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_429a)
 
-All other points and paragraphs of Article 429a, including the definitions and conditions in paragraphs 2 through 7, remain textually unchanged between the two versions. [Art. 429a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_429a) [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_429a)
+The corresponding before text of Article 429a contains neither point (ca) nor point (da). [Art. 429a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_429a)
 
 *before* (`02013R0575-20240709`)
 
@@ -7701,7 +7705,7 @@ All other points and paragraphs of Article 429a, including the definitions and c
 > (f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:
 > (i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;
 > (ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);
-> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8408 characters omitted…]
+> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8409 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
@@ -7713,7 +7717,7 @@ All other points and paragraphs of Article 429a, including the definitions and c
 > (c) exposures that are assigned a risk weight of 0 % in accordance with Article 113(6) or (7);
 > (ca) where the institution is a member of the network referred to in Article 113(7), the exposures that are assigned a risk weight of 0 % in accordance with Article 114 and arising from assets being an equivalent of deposits in the same currency of other members of that network stemming from legal or statutory minimum deposit in accordance with Article 422(3), point (b); in such a case exposures of other members of that network being legal or statutory minimum deposit are not subject to point (c) of this paragraph;
 > (d) where the institution is a public development credit institution, the exposures arising from assets that constitute claims on central governments, regional governments, local authorities or public sector entities in relation to public sector investments, and promotional loans;
-> (da) the institution’s exposures to its shareholders, provided that such exposures are collateralised to the level of at least 125 % by assets referred to in Article 129(1), points (d) and (e), and tho […truncated by emendrix: 9852 characters omitted…]
+> (da) the institution’s exposures to its shareholders, provided that such exposures are collateralised to the level of at least 125 % by assets referred to in Article 129(1), points (d) and (e), and tho […truncated by emendrix: 9853 characters omitted…]
 
 **MODIFIED · Art. 429c — Calculation of the exposure value of derivatives** · applies from: unchanged
 
@@ -7803,11 +7807,11 @@ The cross-reference to Article 429(4), point (a) is also reformatted, moving the
 
 *within* `AR 430 PA 2a`, `AR 430 PA 2b` · *amended by* `32024R1623`
 
-Two new paragraphs, 2a and 2b, are inserted after paragraph 2, requiring institutions to separately report certain own funds requirement calculations for market risk. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_430)
+The revised text inserts two new paragraphs, 2a and 2b, requiring institutions to separately report certain own funds requirement calculations for market risk. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_430)
 
-Paragraph 2a requires separate reporting of the calculations set out in Article 325c(2), points (a), (b) and (c), for trading book and non-trading book positions subject to foreign exchange and commodity risk, while paragraph 2b requires separate reporting of the calculations set out in Article 325ba(1), points (a)(i) and (ii) and (b)(i) and (ii), for positions assigned to trading desks with permission to use the alternative internal model approach under Article 325az(2). [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_430)
+Paragraph 2a covers the calculations set out in Article 325c(2), points (a), (b) and (c), for trading book and non-trading book positions exposed to foreign exchange and commodity risk, while paragraph 2b covers the calculations set out in Article 325ba(1), points (a)(i) and (ii) and (b)(i) and (ii), for the portfolio of positions assigned to trading desks with permission to use the alternative internal model approach under Article 325az(2). [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_430)
 
-No such provisions on separate reporting of these market risk calculations appear in the earlier version of Article 430. [Art. 430, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_430)
+No such separate reporting obligations for these market risk calculations appeared in the earlier version of Article 430. [Art. 430, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_430)
 
 *before* (`02013R0575-20240709`)
 
@@ -7826,7 +7830,7 @@ No such provisions on separate reporting of these market risk calculations appea
 > (ii) their exposures to physical risks and transition risks;
 > (i) their crypto-asset exposures;
 > Institutions exempted in accordance with Article 6(5) shall not be subject to the reporting requirement on the leverage ratio set out in point (a) of the first subparagraph of this paragraph on an individual basis.
-> 1a. For the purposes of point (a) of paragraph 1 of this Article, when institutions report on own funds requirements on securitisations, the infor […truncated by emendrix: 9042 characters omitted…]
+> 1a. For the purposes of point (a) of paragraph 1 of this Article, when institutions report on own funds requirements on securitisations, the infor […truncated by emendrix: 9043 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
@@ -7845,7 +7849,7 @@ No such provisions on separate reporting of these market risk calculations appea
 > (ii) their exposures to physical risks and transition risks;
 > (i) their crypto-asset exposures;
 > Institutions exempted in accordance with Article 6(5) shall not be subject to the reporting requirement on the leverage ratio set out in point (a) of the first subparagraph of this paragraph on an individual basis.
-> 1a. For the purposes of point (a) of paragraph 1 of this Article, when institutions report on own funds requirements on securitisations, the infor […truncated by emendrix: 9986 characters omitted…]
+> 1a. For the purposes of point (a) of paragraph 1 of this Article, when institutions report on own funds requirements on securitisations, the infor […truncated by emendrix: 9987 characters omitted…]
 
 **MODIFIED · Art. 430a — Specific reporting obligations** · applies from: unchanged
 
@@ -7886,7 +7890,7 @@ Paragraph 3 now refers to paragraph 1, points (a) to (f), instead of points (a) 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -8434,27 +8438,29 @@ The new text also adds detailed notification, verification and limitation rules,
 
 *within* `AR 493 PA 3 ALN 1 PTA (i)` · *amended by* `32024R1623`
 
-In point (i) of paragraph 3, the categories of off-balance-sheet items eligible for the 50% treatment were changed from 'medium/low risk' documentary credits and 'medium/low risk' undrawn credit facilities to 'bucket 4' documentary credits and 'bucket 3' undrawn credit facilities. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_493)
+Point (i) of Article 493(3) now describes the exempted off-balance-sheet items using the terms 'bucket 4' and 'bucket 3' instead of the earlier 'medium/low risk' classification for documentary credits and undrawn credit facilities. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_493) [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_493)
 
-The revised text also adds a qualification limiting the undrawn credit facilities covered to those with an original maturity of up to and including one year, a restriction not present in the earlier wording. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_493)
+The revised text also adds a qualification limiting the undrawn credit facilities referred to Annex I to those with an original maturity of up to and including one year, a restriction absent from the earlier wording. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_493)
 
 *before* (`02013R0575-20240709`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the CouncilDirective 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
+> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the Council
+> Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fir […truncated by emendrix: 7121 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fi […truncated by emendrix: 7122 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the CouncilDirective 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
+> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the Council
+> Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fir […truncated by emendrix: 7165 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fi […truncated by emendrix: 7166 characters omitted…]
 
 **INSERTED · Art. 494d — Reversion to less sophisticated approaches** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -8693,9 +8699,9 @@ The remaining wording, including the conditions on overshootings not resulting f
 
 *within* `AR 501 PA 2 ALN 1 PTA (a)`, `AR 501 PA 2 ALN 1 PTA (b)` · *dates* -2003-05-06 · *amended by* `32024R1623`
 
-Point (a) of Article 501(2)(1) now excludes ADC exposures from the retail, corporates or secured-by-mortgages-on-immovable-property exposure classes to which SME exposures may be assigned, a carve-out absent from the earlier version. [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_501) [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_501)
+Point (a) of paragraph 2 now excludes ADC exposures from the retail, corporates, or secured-by-mortgages-on-immovable-property exposure classes to which an SME exposure may be assigned, whereas the earlier text listed those classes without any such exclusion. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_501)
 
-Point (b) of Article 501(2)(1) no longer defines an SME by reference to Commission Recommendation 2003/361/EC and its turnover criterion, and instead points to the meaning given in Article 5, point (9). [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_501) [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_501)
+Point (b) of paragraph 2 now defines an SME by reference to the meaning laid down in Article 5, point (9), replacing the earlier reference to Commission Recommendation 2003/361/EC and its turnover-only criterion. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_501)
 
 *before* (`02013R0575-20240709`)
 
@@ -8710,7 +8716,8 @@ Point (b) of Article 501(2)(1) no longer defines an SME by reference to Commissi
 > (b) where the total amount referred to in point (a) is equal to 0, the amount of claims or contingent claims against the SME or the group of connected clients of the SME that are secured on residential property collateral and that are excluded from the calculation of the total amount referred to in that point.
 > 2. For the purposes of this Article:
 > (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.200 […truncated by emendrix: 264 characters omitted…]
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC
+> Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.20 […truncated by emendrix: 265 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
@@ -8766,11 +8773,11 @@ Point (o) is rewritten and its six numbered sub-points on individual environment
 
 *within* `AR 505`, `AR 505 PA 1`, `AR 505 PA 2`, `AR 505 PA 3`, `AR 505 ALN 1` · *dates* -2014-12-31 +2018-05-30 +2020-05-20 +2027-12-31 +2030-12-31 · *amended by* `32024R1623`
 
-The heading and subject change from a review of long-term financing to a review of agricultural financing, and the single unnumbered paragraph is replaced by three numbered paragraphs. [Art. 505, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_505) [Art. 505, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_505)
+The heading and subject of the article changed from a review of long-term financing to a review of agricultural financing, and the responsibility for producing the report shifted from the Commission alone to EBA preparing a report, with the Commission then submitting it to the European Parliament and Council. [Art. 505, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_505) [Art. 505, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_505)
 
-The reporting task shifts from the Commission producing a report by 31 December 2014 on long-term financing needs, to EBA preparing a report by 31 December 2030 on the impact of the requirements on agricultural financing, covering a dedicated risk weight, prudential criteria, and alignment with the Farm to Fork strategy and related environmental indicators. [Art. 505, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_505)
+The single unstructured paragraph of the earlier text was replaced with three numbered paragraphs, the first listing specific matters the report must address including a dedicated risk weight, farming practices, alignment with the Farm to Fork strategy, and organic production indicators, the second describing the Commission's follow-up submission and possible legislative proposal, and the third requiring an intermediate EBA report. [Art. 505, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_505)
 
-The new text also adds a step where the Commission submits a report to the European Parliament and Council based on EBA's findings, possibly with a legislative proposal, and requires EBA to prepare an intermediate report by 31 December 2027. [Art. 505, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_505)
+The reporting deadline changed from 31 December 2014 to 31 December 2030 for the main report, with an added intermediate deadline of 31 December 2027, and new reference dates of 30 May 2018 and 20 May 2020 appear in connection with the cited organic production and Farm to Fork instruments. [Art. 505, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_505) [Art. 505, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_505)
 
 *before* (`02013R0575-20240709`)
 
@@ -8790,7 +8797,7 @@ The new text also adds a step where the Commission submits a report to the Europ
 > (ii) pesticides and fertilisers usage per hectare;
 > (iii) soil’s minerals efficiency ratios, including carbon, ammonia, phosphate and nitrogen per hectare;
 > (iv) water use efficiency;
-> (v) a confirmation of positive impact on the indicators referred to in points (i) to (iv) of this point with an organic production logo of the European Union referred to in Regulation (EU) 2018/848 […truncated by emendrix: 740 characters omitted…]
+> (v) a confirmation of positive impact on the indicators referred to in points (i) to (iv) of this point with an organic production logo of the European Union referred to in Regulation (EU) 2018/848 […truncated by emendrix: 741 characters omitted…]
 
 **INSERTED · Art. 506c — Credit risk — interaction between Common Equity Tier 1 capital reductions and credit risk parameters** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -8831,7 +8838,7 @@ It also states that the Commission, based on that report and relevant BCBS stand
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The two versions of Article 520(1)(3) are textually identical in substance, with the only visible difference being the removal of a stray trailing period and space after the final sentence of the inserted paragraph 5a in Article 89. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_520)
+The two versions of Article 520(1)(3) are textually identical apart from a trailing stray period after the final sentence, which is removed in the later version. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_520)
 
 *before* (`02013R0575-20240709`)
 
@@ -8843,7 +8850,8 @@ The two versions of Article 520(1)(3) are textually identical in substance, with
 > Calculations and reporting for the purposes of Regulation (EU) No 575/2013
 > Article 50a
 > Calculation of KCCP
-> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013, p. 1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013, p. 1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 > 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  captial ratio
 > where:
 > EBRMi
@@ -8857,7 +8865,7 @@ The two versions of Article 520(1)(3) are textually identical in substance, with
 > capital ratio
 > 8 %.
 > All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
-> 3. A CCP shall undertake the calculation required by paragraph 2 at lea […truncated by emendrix: 9890 characters omitted…]
+> 3. A CCP shall undertake the calculation required by paragraph 2 at le […truncated by emendrix: 9891 characters omitted…]
 
 *after* (`02013R0575-20250101`)
 
@@ -8869,7 +8877,8 @@ The two versions of Article 520(1)(3) are textually identical in substance, with
 > Calculations and reporting for the purposes of Regulation (EU) No 575/2013
 > Article 50a
 > Calculation of KCCP
-> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013, p. 1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013, p. 1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 > 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  captial ratio
 > where:
 > EBRMi
@@ -8883,7 +8892,7 @@ The two versions of Article 520(1)(3) are textually identical in substance, with
 > capital ratio
 > 8 %.
 > All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
-> 3. A CCP shall undertake the calculation required by paragraph 2 at lea […truncated by emendrix: 9888 characters omitted…]
+> 3. A CCP shall undertake the calculation required by paragraph 2 at le […truncated by emendrix: 9889 characters omitted…]
 
 **INSERTED · Art. 520a — Application of own funds requirements for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -8905,7 +8914,7 @@ A new Article 520a has been added, stating that institutions shall continue appl
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -8969,7 +8978,7 @@ Some wording was also altered, such as replacing the phrase 'without notice' wit
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20250101 -->
