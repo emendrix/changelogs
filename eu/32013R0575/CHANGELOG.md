@@ -37376,7 +37376,7 @@ Aside from removing that date restriction, the wording describing the waiver and
 ### `02013R0575-20150118` → `02013R0575-20160719`
 
 - **Act** `eu:32013R0575` · **In force** 2016-07-19 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 7 substantive · 2 date-only · **7 disputed**
+- **Touched** 9 provisions — 7 substantive · 2 date-only · 0 with no text · **7 disputed**
 - **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 2 deferred · 518 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20150118` · `v2` = `02013R0575-20160719`
