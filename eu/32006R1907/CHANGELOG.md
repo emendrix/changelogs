@@ -3337,9 +3337,9 @@ Entry 23, paragraph 1 also gains a new final subparagraph directing the Commissi
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Both versions carry the same restriction text for Annex XVII, with only whitespace and line-break formatting differing between the two renderings shown. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII)
+The visible portion of the two texts is essentially identical in substance, with the only differences being formatting artifacts such as line breaks, spacing and paragraph wrapping around entry headings and sub-items. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII)
 
-Both texts are truncated at the same point, cutting off before entry 40 on substances classified as flammable, so no substantive difference can be identified within the visible portions. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII)
+Both versions are cut off before the end of the annex, so any substantive differences that may exist beyond the truncation point cannot be described here. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII)
 
 *before* (`02006R1907-20120601`)
 
@@ -3380,14 +3380,26 @@ Both texts are truncated at the same point, cutting off before entry 40 on subst
 > EC No 200-831-0
 > Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Dir […truncated by emendrix: 540356 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Dir […truncated by emendrix: 540371 characters omitted…]
 
 *after* (`02006R1907-20120605`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -3398,7 +3410,7 @@ Both texts are truncated at the same point, cutting off before entry 40 on subst
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1999/45/EC or […truncated by emendrix: 539647 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1 […truncated by emendrix: 539673 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20120605 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20120601 -->
