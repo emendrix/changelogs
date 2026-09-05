@@ -874,9 +874,9 @@ The prior version of entry 51 contained no such restriction on releasable formal
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The entry for Titanium dioxide (No 143) now adds a second line covering titanium dioxide in powder form containing 1% or more of particles with aerodynamic diameter of 10 micrometres or less, with a cross-reference to Annex III, No 321. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_IV)
+The entry for Titanium dioxide (reference number 143) adds a new line stating that titanium dioxide in powder form containing 1% or more of particles with aerodynamic diameter of 10 micrometres or less is to be used in compliance with Annex III, No 321. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_IV)
 
-The preamble note on UV-filter use also has minor wording changes, replacing 'UV-Filter' with 'UV filter' and removing a comma before the cross-reference to Annex VI, No 27. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210823#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_IV)
+The introductory UV-filter cross-reference wording is also tightened, changing "For use as a UV-Filter, see Annex VI, No. 27." to "For use as a UV filter, see Annex VI, No 27" with punctuation and capitalization altered but the cross-reference itself unchanged. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210823#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_IV)
 
 *before* (`02009R1223-20210823`)
 
@@ -884,11 +884,12 @@ The preamble note on UV-filter use also has minor wording changes, replacing 'UV
 > LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS
 > Preamble
 > Without prejudice to other provisions in this Regulation, a colorant shall include its salts and lakes and when a colorant is expressed as a specific salt, its other salts and lakes shall also be included.
-> For use as a UV-Filter, see Annex VI, No. 27.For use as a UV-filter, see Annex VI, No 30 and No 30a.
+> For use as a UV-Filter, see Annex VI, No. 27.
+> For use as a UV-filter, see Annex VI, No 30 and No 30a.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical Name Colour index Number/Name of Common Ingredients Glossary CAS number EC number Colour Product type, Body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i j
-> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4- […truncated by emendrix: 20150 characters omitted…]
+> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4 […truncated by emendrix: 20151 characters omitted…]
 
 *after* (`02009R1223-20211001`)
 
@@ -896,11 +897,12 @@ The preamble note on UV-filter use also has minor wording changes, replacing 'UV
 > LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS
 > Preamble
 > Without prejudice to other provisions in this Regulation, a colorant shall include its salts and lakes and when a colorant is expressed as a specific salt, its other salts and lakes shall also be included.
-> For use as a UV filter, see Annex VI, No 27For use as a UV-filter, see Annex VI, No 30 and No 30a.
+> For use as a UV filter, see Annex VI, No 27
+> For use as a UV-filter, see Annex VI, No 30 and No 30a.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical Name Colour index Number/Name of Common Ingredients Glossary CAS number EC number Colour Product type, Body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i j
-> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4-[( […truncated by emendrix: 20298 characters omitted…]
+> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4-[ […truncated by emendrix: 20299 characters omitted…]
 
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
@@ -908,33 +910,41 @@ The preamble note on UV-filter use also has minor wording changes, replacing 'UV
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-In entry 27 for Titanium Dioxide, the "Other" column has been changed from blank to a new statement noting that titanium dioxide in powder form containing 1% or more of particles with aerodynamic diameter of 10 micrometres or less is to be used in compliance with Annex III, No 321, and that for the product types under letter (c) of column (f) in Annex III, No 321, the maximum concentration in the ready-for-use preparation given in column (g) of this entry applies. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_VI)
+In the entry for Titanium Dioxide (entry 27), the after text adds a new column (i) note stating that titanium dioxide in powder form containing 1% or more of particles with aerodynamic diameter of 10 micrometres or less is to be used in compliance with Annex III, No 321, and that for the product types under letter (c) of column (f) in Annex III, No 321, the maximum concentration in ready for use preparation given in column (g) of this entry applies. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_VI)
 
-The corresponding entry 27 in the earlier text contained no such wording in that column. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210823#anx_VI)
+The corresponding entry 27 in the before text contains no such note in column (i) for Titanium Dioxide. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210823#anx_VI)
 
 *before* (`02009R1223-20210823`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as ac […truncated by emendrix: 6881 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(a […truncated by emendrix: 6885 characters omitted…]
 
 *after* (`02009R1223-20211001`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as ac […truncated by emendrix: 7205 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(a […truncated by emendrix: 7209 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20211001 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20210823 -->
