@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02010R1093-20251110` → `02010R1093-20251231`
 
 - **Act** `eu:32010R1093` · **In force** 2025-12-31 · **Detected** 2026-08-13
-- **Touched** 10 provisions — 10 substantive · 0 date-only · **6 disputed**
+- **Touched** 10 provisions — 4 substantive · 0 date-only · 6 with no text · **6 disputed**
 - **Diff** 0 inserted · 8 modified · 2 deleted · 0 renumbered · 0 deferred · 96 unchanged
 - **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20251110` · `v2` = `02010R1093-20251231`
@@ -50,7 +50,7 @@ As a result, the 'and' that previously linked point (g) to point (h) no longer a
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -60,7 +60,7 @@ As a result, the 'and' that previously linked point (g) to point (h) no longer a
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -70,7 +70,7 @@ As a result, the 'and' that previously linked point (g) to point (h) no longer a
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -80,7 +80,7 @@ As a result, the 'and' that previously linked point (g) to point (h) no longer a
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -146,7 +146,7 @@ The second subparagraph of paragraph 4, which had allowed the Authority to adopt
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -196,7 +196,7 @@ The prior text only stated that the Board of Supervisors may decide to admit obs
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20251231 -->
