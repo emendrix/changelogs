@@ -2511,9 +2511,9 @@ The new article also states that good-faith disclosure of such facts or decision
 ### `02014R0600-20200704` → `02014R0600-20210626`
 
 - **Act** `eu:32014R0600` · **In force** 2021-06-26 · **Detected** 2026-08-13
-- **Touched** 8 provisions — 8 substantive · 0 date-only · **2 disputed**
-- **Diff** 1 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 7 provisions — 7 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20200704` · `v2` = `02014R0600-20210626`
 
 ---
@@ -2553,16 +2553,6 @@ This paragraph does not appear in the earlier version of Article 1. [Art. 1, v1]
 > (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch.
 > 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
 > 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterparties […truncated by emendrix: 3417 characters omitted…]
-
-**INSERTED · Art. 17a** · applies from: unknown
-
-*amended by* `32019R2033`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 46 — General provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
