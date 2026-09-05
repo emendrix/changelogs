@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -25,6 +25,7 @@
     "touched": 14,
     "substantive": 13,
     "date_only": 1,
+    "textless": 0,
     "disputed": 0,
     "quoted": 0,
     "unexplained": 0
@@ -113,7 +114,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -128,8 +130,8 @@
           "location": "AR 116"
         },
         "heading": "General provisions",
-        "before": "Article 116\nGeneral provisions\n1. Subject to the conditions laid down in this Section, amounts of import or export duty shall be repaid or remitted on any of the following grounds:\n(a) overcharged amounts of import or export duty;\n(b) defective goods or goods not complying with the terms of the contract;\n(c) error by the competent authorities;\n(d) equity.\nWhere an amount of import or export duty has been paid and the corresponding customs declaration is invalidated in accordance with Article 174, that amount shall be repaid.\n2. The customs authorities shall repay or remit the amount of import or export duty referred to in paragraph 1 where it is EUR 10 or more, except where the person concerned requests the repayment or remission of a lower amount.\n3. Where the customs authorities consider that repayment or remission should be granted on the basis of Article 119 or 120, the Member State concerned shall transmit the file to the Commission for decision in any of the following cases:\n(a) where the customs authorities consider that the special circumstances are the result of the Commission failing in its obligations;\n(b) where the customs authorities consider that the Commission committed an error within the meaning of Article 119;\n(c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural mattersOJ L 82, 22.3.1997, p. 1., or under any other Union legislation or any agreement concluded by the Union with countries or groups of countries in which provision is made for carrying out such Union investigations;\n(d) where the amount for which the person concerned may be liable in respect of one or more import or export operations equals or exceeds EUR 500000 as a result of an error or special circumstances.\nNotwithstanding the first subparagraph, files shall not be transmitted in either of the following situations:\n(a) where the Commission has already adopted a decision on a case involving comparable issues of fact and of law;\n(b) where the Commission is already considering a case involving comparable issues of fact and of law.\n4. Subject to the rules of competence for a decision, where the customs authorities themselves discover within the periods referred to in Article 121(1) that an amount of import or export duty is repayable or remissible pursuant to Articles 117, 119 or 120 they shall repay or remit on their own initiative.\n5. No repayment or remission shall be granted when the situation which led to the notification of the customs debt results from deception by the debtor.\n6. Repayment shall not give rise to the payment of interest by the customs authorities concerned.\nHowever, interest shall be paid where a decision granting repayment is not implemented within three months of the date on which that decision was taken, unless the failure to meet the deadline was outside the control of the customs authorities.\nIn such cases, the interest shall be paid from the date of expiry of the three-month period until the date of repayment. The rate of interest shall be established in accordance with Article 112.\n7. Where the customs authorities have granted repayment or remission in error, the original customs debt shall be reinstated insofar as it is not time-barred under Article 103.\nIn such cases, any interest paid under the second subparagraph of paragraph 5 shall be reimbursed.",
-        "after": "Article 116\nGeneral provisions\n1. Subject to the conditions laid down in this Section, amounts of import or export duty shall be repaid or remitted on any of the following grounds:\n(a) overcharged amounts of import or export duty;\n(b) defective goods or goods not complying with the terms of the contract;\n(c) error by the competent authorities;\n(d) equity.\nWhere an amount of import or export duty has been paid and the corresponding customs declaration is invalidated in accordance with Article 174, that amount shall be repaid.\n2. The customs authorities shall repay or remit the amount of import or export duty referred to in paragraph 1 where it is EUR 10 or more, except where the person concerned requests the repayment or remission of a lower amount.\n3. Where the customs authorities consider that repayment or remission should be granted on the basis of Article 119 or 120, the Member State concerned shall transmit the file to the Commission for decision in any of the following cases:\n(a) where the customs authorities consider that the special circumstances are the result of the Commission failing in its obligations;\n(b) where the customs authorities consider that the Commission committed an error within the meaning of Article 119;\n(c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural mattersOJ L 82, 22.3.1997, p. 1., or under any other Union legislation or any agreement concluded by the Union with countries or groups of countries in which provision is made for carrying out such Union investigations;\n(d) where the amount for which the person concerned may be liable in respect of one or more import or export operations equals or exceeds EUR 500000 as a result of an error or special circumstances.\nNotwithstanding the first subparagraph, files shall not be transmitted in either of the following situations:\n(a) where the Commission has already adopted a decision on a case involving comparable issues of fact and of law;\n(b) where the Commission is already considering a case involving comparable issues of fact and of law.\n4. Subject to the rules of competence for a decision, where the customs authorities themselves discover within the periods referred to in Article 121(1) that an amount of import or export duty is repayable or remissible pursuant to Articles 117, 119 or 120 they shall repay or remit on their own initiative.\n5. No repayment or remission shall be granted when the situation which led to the notification of the customs debt results from deception by the debtor.\n6. Repayment shall not give rise to the payment of interest by the customs authorities concerned.\nHowever, interest shall be paid where a decision granting repayment is not implemented within three months of the date on which that decision was taken, unless the failure to meet the deadline was outside the control of the customs authorities.\nIn such cases, the interest shall be paid from the date of expiry of the three-month period until the date of repayment. The rate of interest shall be established in accordance with Article 112.\n7. Where the customs authorities have granted repayment or remission in error, the original customs debt shall be reinstated insofar as it is not time-barred under Article 103.\nIn such cases, any interest paid under the second subparagraph of paragraph 6 shall be reimbursed.",
+        "before": "Article 116\nGeneral provisions\n1. Subject to the conditions laid down in this Section, amounts of import or export duty shall be repaid or remitted on any of the following grounds:\n(a) overcharged amounts of import or export duty;\n(b) defective goods or goods not complying with the terms of the contract;\n(c) error by the competent authorities;\n(d) equity.\nWhere an amount of import or export duty has been paid and the corresponding customs declaration is invalidated in accordance with Article 174, that amount shall be repaid.\n2. The customs authorities shall repay or remit the amount of import or export duty referred to in paragraph 1 where it is EUR 10 or more, except where the person concerned requests the repayment or remission of a lower amount.\n3. Where the customs authorities consider that repayment or remission should be granted on the basis of Article 119 or 120, the Member State concerned shall transmit the file to the Commission for decision in any of the following cases:\n(a) where the customs authorities consider that the special circumstances are the result of the Commission failing in its obligations;\n(b) where the customs authorities consider that the Commission committed an error within the meaning of Article 119;\n(c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural matters\nOJ L 82, 22.3.1997, p. 1., or under any other Union legislation or any agreement concluded by the Union with countries or groups of countries in which provision is made for carrying out such Union investigations;\n(d) where the amount for which the person concerned may be liable in respect of one or more import or export operations equals or exceeds EUR 500000 as a result of an error or special circumstances.\nNotwithstanding the first subparagraph, files shall not be transmitted in either of the following situations:\n(a) where the Commission has already adopted a decision on a case involving comparable issues of fact and of law;\n(b) where the Commission is already considering a case involving comparable issues of fact and of law.\n4. Subject to the rules of competence for a decision, where the customs authorities themselves discover within the periods referred to in Article 121(1) that an amount of import or export duty is repayable or remissible pursuant to Articles 117, 119 or 120 they shall repay or remit on their own initiative.\n5. No repayment or remission shall be granted when the situation which led to the notification of the customs debt results from deception by the debtor.\n6. Repayment shall not give rise to the payment of interest by the customs authorities concerned.\nHowever, interest shall be paid where a decision granting repayment is not implemented within three months of the date on which that decision was taken, unless the failure to meet the deadline was outside the control of the customs authorities.\nIn such cases, the interest shall be paid from the date of expiry of the three-month period until the date of repayment. The rate of interest shall be established in accordance with Article 112.\n7. Where the customs authorities have granted repayment or remission in error, the original customs debt shall be reinstated insofar as it is not time-barred under Article 103.\nIn such cases, any interest paid under the second subparagraph of paragraph 5 shall be reimbursed.",
+        "after": "Article 116\nGeneral provisions\n1. Subject to the conditions laid down in this Section, amounts of import or export duty shall be repaid or remitted on any of the following grounds:\n(a) overcharged amounts of import or export duty;\n(b) defective goods or goods not complying with the terms of the contract;\n(c) error by the competent authorities;\n(d) equity.\nWhere an amount of import or export duty has been paid and the corresponding customs declaration is invalidated in accordance with Article 174, that amount shall be repaid.\n2. The customs authorities shall repay or remit the amount of import or export duty referred to in paragraph 1 where it is EUR 10 or more, except where the person concerned requests the repayment or remission of a lower amount.\n3. Where the customs authorities consider that repayment or remission should be granted on the basis of Article 119 or 120, the Member State concerned shall transmit the file to the Commission for decision in any of the following cases:\n(a) where the customs authorities consider that the special circumstances are the result of the Commission failing in its obligations;\n(b) where the customs authorities consider that the Commission committed an error within the meaning of Article 119;\n(c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural matters\nOJ L 82, 22.3.1997, p. 1., or under any other Union legislation or any agreement concluded by the Union with countries or groups of countries in which provision is made for carrying out such Union investigations;\n(d) where the amount for which the person concerned may be liable in respect of one or more import or export operations equals or exceeds EUR 500000 as a result of an error or special circumstances.\nNotwithstanding the first subparagraph, files shall not be transmitted in either of the following situations:\n(a) where the Commission has already adopted a decision on a case involving comparable issues of fact and of law;\n(b) where the Commission is already considering a case involving comparable issues of fact and of law.\n4. Subject to the rules of competence for a decision, where the customs authorities themselves discover within the periods referred to in Article 121(1) that an amount of import or export duty is repayable or remissible pursuant to Articles 117, 119 or 120 they shall repay or remit on their own initiative.\n5. No repayment or remission shall be granted when the situation which led to the notification of the customs debt results from deception by the debtor.\n6. Repayment shall not give rise to the payment of interest by the customs authorities concerned.\nHowever, interest shall be paid where a decision granting repayment is not implemented within three months of the date on which that decision was taken, unless the failure to meet the deadline was outside the control of the customs authorities.\nIn such cases, the interest shall be paid from the date of expiry of the three-month period until the date of repayment. The rate of interest shall be established in accordance with Article 112.\n7. Where the customs authorities have granted repayment or remission in error, the original customs debt shall be reinstated insofar as it is not time-barred under Article 103.\nIn such cases, any interest paid under the second subparagraph of paragraph 6 shall be reimbursed.",
         "previous_location": null,
         "changed_within": [
           "AR 116 PA 7 ALN 2"
@@ -165,7 +167,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "In paragraph 7, the cross-reference to the second subparagraph of paragraph 5 was changed to refer instead to the second subparagraph of paragraph 6.",
+          "text": "In the second subparagraph of paragraph 7, the cross-reference to interest paid under the second subparagraph of paragraph 5 has been changed to refer instead to interest paid under the second subparagraph of paragraph 6.",
           "fallback": false,
           "citations": [
             {
@@ -185,7 +187,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -270,7 +273,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -355,7 +359,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -440,7 +445,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -525,7 +531,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -610,7 +617,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -695,7 +703,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -780,7 +789,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -865,7 +875,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -950,7 +961,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1035,7 +1047,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1109,7 +1122,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1196,7 +1210,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -1258,6 +1273,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 46566,
       "output_tokens": 1944,
@@ -1277,5 +1295,28 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 1
-  }
+  },
+  "repairs": [
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 4550,
+        "output_tokens": 142,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
+    }
+  ],
+  "evidence": [
+    {
+      "location": "AR 116",
+      "occurrence": 0,
+      "digest": "sha256:089de48287b51015c8add608f4041b07103e697847e1a9ee5aae648580b6b382"
+    }
+  ]
 }

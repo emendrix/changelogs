@@ -649,7 +649,7 @@ Each of the three new paragraphs conditions non-application on the goods having 
 ### `32013R0952` → `02013R0952-20131030`
 
 - **Act** `eu:32013R0952` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 14 provisions — 13 substantive · 1 date-only · **0 disputed**
+- **Touched** 14 provisions — 13 substantive · 1 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 13 modified · 0 deleted · 0 renumbered · 1 deferred · 274 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32013R0952` · `v2` = `02013R0952-20131030`
@@ -678,7 +678,7 @@ The reference has been narrowed from point (d) of Article 102(1) generally to po
 
 *within* `AR 116 PA 7 ALN 2`
 
-In paragraph 7, the cross-reference to the second subparagraph of paragraph 5 was changed to refer instead to the second subparagraph of paragraph 6. [Art. 116, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_116)
+In the second subparagraph of paragraph 7, the cross-reference to interest paid under the second subparagraph of paragraph 5 has been changed to refer instead to interest paid under the second subparagraph of paragraph 6. [Art. 116, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20131030#art_116)
 
 *before* (`32013R0952`)
 
@@ -694,7 +694,7 @@ In paragraph 7, the cross-reference to the second subparagraph of paragraph 5 wa
 > 3. Where the customs authorities consider that repayment or remission should be granted on the basis of Article 119 or 120, the Member State concerned shall transmit the file to the Commission for decision in any of the following cases:
 > (a) where the customs authorities consider that the special circumstances are the result of the Commission failing in its obligations;
 > (b) where the customs authorities consider that the Commission committed an error within the meaning of Article 119;
-> (c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperatio […truncated by emendrix: 2133 characters omitted…]
+> (c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperatio […truncated by emendrix: 2134 characters omitted…]
 
 *after* (`02013R0952-20131030`)
 
@@ -710,7 +710,7 @@ In paragraph 7, the cross-reference to the second subparagraph of paragraph 5 wa
 > 3. Where the customs authorities consider that repayment or remission should be granted on the basis of Article 119 or 120, the Member State concerned shall transmit the file to the Commission for decision in any of the following cases:
 > (a) where the customs authorities consider that the special circumstances are the result of the Commission failing in its obligations;
 > (b) where the customs authorities consider that the Commission committed an error within the meaning of Article 119;
-> (c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperatio […truncated by emendrix: 2133 characters omitted…]
+> (c) where the circumstances of the case relate to the findings of a Union investigation carried out under Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperatio […truncated by emendrix: 2134 characters omitted…]
 
 **MODIFIED · Art. 117 — Overcharged amounts of import or export duty** · applies from: unchanged
 
