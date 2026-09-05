@@ -26,9 +26,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I SCT A SCT 4` · *dates* +2022-12-14 · *amended by* `32022R2554`
 
-In Section A, point 4, the requirement for effective control and safeguard arrangements for information processing systems is replaced with a requirement for effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20240109#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20250117#anx_I)
+In Section A point 4, the reference to control and safeguard arrangements for information processing systems was replaced with a reference to arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554, with a footnote citing that Regulation. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20250117#anx_I)
 
-The revised text adds a footnote identifying that regulation as the one of 14 December 2022 on digital operational resilience for the financial sector, which also amends several other named regulations. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20250117#anx_I)
+The rest of the point, concerning internal control mechanisms and decision-making procedures, remains worded as before. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20240109#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20250117#anx_I)
 
 *before* (`02009R1060-20240109`)
 
@@ -43,7 +43,7 @@ The revised text adds a footnote identifying that regulation as the one of 14 De
 > 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34416 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34420 characters omitted…]
 
 *after* (`02009R1060-20250117`)
 
@@ -58,7 +58,7 @@ The revised text adds a footnote identifying that regulation as the one of 14 De
 > 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34793 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34798 characters omitted…]
 
 **MODIFIED · Annex III — ANNEX III** · applies from: unchanged
 
