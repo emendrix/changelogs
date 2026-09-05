@@ -8,7 +8,7 @@
   },
   "from_version": "32024R1620",
   "to_version": "02024R1620-20251110",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-05",
   "in_force": [
     "2025-11-10"
   ],
@@ -93,7 +93,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Article 5(1) now adds a new point (k) giving the Authority a task of assisting the Commission in reviewing the application of relevant regulatory and implementing technical standards it has adopted, and of reviewing the Authority's own guidelines and recommendations to propose amendments.",
+          "text": "Article 5(1) adds a new point (k) directing the Authority to assist the Commission in reviewing the application of relevant regulatory and implementing technical standards, to review the application of its own guidelines and recommendations, and to propose amendments where appropriate.",
           "fallback": false,
           "citations": [
             {
@@ -112,7 +112,7 @@
           ]
         },
         {
-          "text": "This new point (k) further specifies that such proposed amendments may include removing redundant or obsolete reporting requirements while preserving data usability and quality, ensuring proportionate and consistent reporting requirements, and addressing regulatory gaps related to reporting requirements.",
+          "text": "The new point (k) further specifies that such proposed amendments may include removing redundant or obsolete reporting requirements while preserving data usability and quality, ensuring proportionate and consistent reporting requirements, and addressing regulatory gaps related to reporting requirements.",
           "fallback": false,
           "citations": [
             {
@@ -131,7 +131,7 @@
           ]
         },
         {
-          "text": "The prior version of Article 5(1) ended at point (j), with no equivalent point (k) present.",
+          "text": "The prior version of Article 5(1) ended at point (j) without any equivalent task on reviewing standards, guidelines or reporting requirements.",
           "fallback": false,
           "citations": [
             {
@@ -151,7 +151,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -214,7 +215,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Two new subparagraphs are added after the first sentence of paragraph 1, stating that the Authority may, where appropriate, address the functioning of legislative acts in force, including whether redundant or obsolete reporting requirements in Union law or national transposing measures could be removed.",
+          "text": "Two new subparagraphs have been added to paragraph 1, allowing the Authority's opinions to address the functioning of legislative acts in force, including whether redundant or obsolete reporting requirements should be removed from Union law or national transposing measures.",
           "fallback": false,
           "citations": [
             {
@@ -233,7 +234,7 @@
           ]
         },
         {
-          "text": "A further new subparagraph states that the Authority may consult relevant stakeholders on such opinions concerning legislative acts in force and take their input into account, and that the Commission may, after considering those opinions, submit a legislative proposal to the European Parliament and the Council where appropriate.",
+          "text": "A further new subparagraph allows the Authority to consult relevant stakeholders specifically on such opinions concerning legislative acts in force and to take their input into account, and states that the Commission may, after considering those opinions, submit a legislative proposal to the European Parliament and the Council.",
           "fallback": false,
           "citations": [
             {
@@ -252,7 +253,7 @@
           ]
         },
         {
-          "text": "Paragraphs 2 and 3 remain textually unchanged between the two versions.",
+          "text": "Paragraphs 2 and 3 remain unchanged from the earlier version.",
           "fallback": false,
           "citations": [
             {
@@ -285,7 +286,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -300,8 +302,8 @@
           "location": "AR 88"
         },
         "heading": "Obligation of professional secrecy",
-        "before": "Article 88\nObligation of professional secrecy\n1. Members of the General Board and the Executive Board, and all members of staff of the Authority, including officials seconded by Member States on a temporary basis, as well as all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and Article 67 of Directive (EU) 2024/1640, including after their duties have ceased.\n2. The Executive Board shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Executive Board or appointed by the public authorities and FIUs for that purpose, are subject to requirements of professional secrecy equivalent to those provided for in paragraph 1.\n3. For the purpose of carrying out the tasks conferred on it by this Regulation, the Authority shall be authorised, within the limits and under the conditions set out in the acts referred to in Article 1(2), to exchange information with Union or national authorities and bodies in the cases where those acts allow financial supervisors to disclose information to those entities or where Member States can provide for such disclosure under the applicable Union law.\n4. The Authority shall establish practical arrangements for implementing the confidentiality rules referred to in paragraphs 1 and 2.\n5. The Authority shall apply Commission Decision (EU, Euratom) 2015/444Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53)..",
-        "after": "Article 88\nObligation of professional secrecy\n1. Members of the General Board and the Executive Board, and all members of staff of the Authority, including officials seconded by Member States on a temporary basis, as well as all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and Article 67 of Directive (EU) 2024/1640, including after their duties have ceased.\n2. The Executive Board shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Executive Board or appointed by the public authorities and FIUs for that purpose, are subject to requirements of professional secrecy equivalent to those provided for in paragraph 1.\n3. For the purpose of carrying out the tasks conferred on it by this Regulation, the Authority shall be authorised, within the limits and under the conditions set out in the acts referred to in Article 1(2), to exchange information with Union or national authorities and bodies in the cases where those acts allow financial supervisors to disclose information to those entities or where Member States can provide for such disclosure under the applicable Union law.\n3a. This Article shall not prevent the Authority from exchanging information with other authorities as defined in Article 92a(12).\n4. The Authority shall establish practical arrangements for implementing the confidentiality rules referred to in paragraphs 1 and 2.\n5. The Authority shall apply Commission Decision (EU, Euratom) 2015/444Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53)..",
+        "before": "Article 88\nObligation of professional secrecy\n1. Members of the General Board and the Executive Board, and all members of staff of the Authority, including officials seconded by Member States on a temporary basis, as well as all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and Article 67 of Directive (EU) 2024/1640, including after their duties have ceased.\n2. The Executive Board shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Executive Board or appointed by the public authorities and FIUs for that purpose, are subject to requirements of professional secrecy equivalent to those provided for in paragraph 1.\n3. For the purpose of carrying out the tasks conferred on it by this Regulation, the Authority shall be authorised, within the limits and under the conditions set out in the acts referred to in Article 1(2), to exchange information with Union or national authorities and bodies in the cases where those acts allow financial supervisors to disclose information to those entities or where Member States can provide for such disclosure under the applicable Union law.\n4. The Authority shall establish practical arrangements for implementing the confidentiality rules referred to in paragraphs 1 and 2.\n5. The Authority shall apply Commission Decision (EU, Euratom) 2015/444\nCommission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53)..",
+        "after": "Article 88\nObligation of professional secrecy\n1. Members of the General Board and the Executive Board, and all members of staff of the Authority, including officials seconded by Member States on a temporary basis, as well as all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and Article 67 of Directive (EU) 2024/1640, including after their duties have ceased.\n2. The Executive Board shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Executive Board or appointed by the public authorities and FIUs for that purpose, are subject to requirements of professional secrecy equivalent to those provided for in paragraph 1.\n3. For the purpose of carrying out the tasks conferred on it by this Regulation, the Authority shall be authorised, within the limits and under the conditions set out in the acts referred to in Article 1(2), to exchange information with Union or national authorities and bodies in the cases where those acts allow financial supervisors to disclose information to those entities or where Member States can provide for such disclosure under the applicable Union law.\n3a. This Article shall not prevent the Authority from exchanging information with other authorities as defined in Article 92a(12).\n4. The Authority shall establish practical arrangements for implementing the confidentiality rules referred to in paragraphs 1 and 2.\n5. The Authority shall apply Commission Decision (EU, Euratom) 2015/444\nCommission Decision (EU, Euratom) 2015/444 of 13 March 2015 on the security rules for protecting EU classified information (OJ L 72, 17.3.2015, p. 53)..",
         "previous_location": null,
         "changed_within": [
           "AR 88 PA 3a"
@@ -347,7 +349,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new paragraph 3a is inserted stating that this Article does not prevent the Authority from exchanging information with other authorities as defined in Article 92a(12).",
+          "text": "A new paragraph 3a has been added stating that the Article does not prevent the Authority from exchanging information with other authorities as defined in Article 92a(12).",
           "fallback": false,
           "citations": [
             {
@@ -367,7 +369,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -383,7 +386,7 @@
         },
         "heading": "Exchange of information between authorities and with other entities",
         "before": null,
-        "after": "Article 92a\nExchange of information between authorities and with other entities\n1. The Authority shall share, on a regular or case-by-case basis, information that it obtained from obliged entities or the other authorities when carrying out its duties, and that stems from the application and implementation of Union law, with the other authorities upon request, provided that the requesting authority is entitled to obtain that information from obliged entities or the other authorities pursuant to Union law.\n2. The Authority shall request information from any of the other authorities that have obtained that information, instead of requesting it directly from obliged entities, provided that the Authority is entitled to obtain that information pursuant to Union law.\nThe first subparagraph of this paragraph shall be without prejudice to the powers of the Authority to obtain the requested information from obliged entities where the other authority is unable to share the information, where urgent action is needed or where obtaining information directly from obliged entities is necessary for the performance of the Authority’s tasks pursuant to Union law.\n3. A request to exchange information pursuant to paragraph 1 of this Article shall indicate the legal basis under Union law that entitles the requesting authority to obtain the information from obliged entities or the other authorities.\nThe requesting authority and the Authority shall be subject to the obligations of professional secrecy and data protection laid down in Articles 88 and 98 and in sectoral legislation which apply to the sharing of information between the obliged entity and the requesting authority and between the obliged entity and the Authority.\n4. Where the Authority exchanges information pursuant to paragraph 1, it shall, without undue delay, inform each authority from which it obtained the information or each obliged entity if the information was obtained from obliged entities directly, about the exchange. In the case of recurring or periodic exchanges of information, the Authority shall be obliged to inform the obliged entity or the authority from which it obtained the information only once.\n5. By way of derogation from paragraph 4, the Authority shall not be obliged to inform the authority or the obliged entity, as applicable, about the exchange of information where either of the following conditions is met:\n(a) the information has been anonymised in such a manner that it no longer relates to any identified or identifiable natural person and that the obliged entity or other legal entities are no longer identifiable; or\n(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets, and to protect personal data through appropriate technical and organisational measures in accordance with Regulations (EU) 2016/679 and (EU) 2018/1725.\n6. By way of derogation from paragraph 4, the Authority shall not inform the obliged entity about the exchange of information if it determines, or is informed by the requesting authority, that doing so could compromise supervisory or resolution proceedings, actions or investigations.\n7. Paragraphs 1 to 6 shall also apply to information that the Authority has received from an obliged entity or the other authorities and upon which the Authority has subsequently performed quality checks or which the Authority has otherwise processed.\n8. To facilitate exchanges of information as referred to in paragraphs 1 to 7, the Authority and the other authorities may enter into memoranda of understanding regarding the arrangements for such exchanges. The memoranda of understanding may also specify arrangements for the sharing of resources for the collection and processing of shared information. The Commission may after consulting the Authority and the other authorities, develop guidance on the main elements of such memoranda of understanding.\n9. Paragraphs 1 to 8 shall be without prejudice to the protection of intellectual property rights and shall not prevent or restrict the exchange of information between the Authority and the other authorities in accordance with other provisions of this Regulation or with other Union legislation.\nIn the event of a conflict between this Article and other provisions of this Regulation or other Union legislation that govern the exchange of information between the Authority and the other authorities, such other provisions shall prevail.\n10. The Authority and the financial supervisors may, at their own discretion, grant access to information obtained when carrying out their duties for re-use by obliged entities, researchers and other entities that have a legitimate interest in that information for research and innovation purposes, provided that the Authority or the financial supervisors granting access have ensured that all of the following conditions have been complied with:\n(a) the necessary measures have been taken to anonymise the information, in a manner that prevents individual obliged entities, data subjects, and, where it is the Authority which grants access to the information, Member States from being identified;\n(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets or content covered by intellectual property rights;\nInformation received from any authority shall be shared pursuant to the first subparagraph only with the consent of the authority that initially obtained that information.\n11. By 11 November 2027, the Authority shall, in close cooperation with the financial supervisors, report to the Commission on all legal obstacles in sectoral legislation that prevent them, in any way, from exchanging information with the other authorities or with other entities. The report may also address non-material, obsolete, duplicative or otherwise irrelevant reporting requirements. It may also include suggestions for improving consistency between reporting requirements for financial and non-financial entities. The report shall be updated on a regular basis, where necessary.\nTaking into account the report referred to in the first subparagraph, the protection of intellectual property rights and the obligations of professional secrecy and data protection, the Commission shall, where appropriate, submit to the European Parliament and to the Council a legislative proposal to remove such legal obstacles in sectoral legislation, to foster the exchange of information between authorities and with other entities.\n12. For the purposes of this Article, other authorities means any of the following authorities:\n(a) the European Systemic Risk Board, as established by Regulation (EU) No 1092/2010 of the European Parliament and of the CouncilRegulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board (OJ L 331, 15.12.2010, p. 1, ELI: http://data.europa.eu/eli/reg/2010/1092/oj).;\n(b) the EBA;\n(c) the EIOPA;\n(d) the ESMA;\n(e) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1093/2010;\n(f) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1094/2010;\n(g) competent authorities, as defined in Article 4, point (3), of Regulation (EU) No 1095/2010;\n(h) the authorities composing the Single supervisory mechanism, as defined in Article 2, point (9), of Regulation (EU) No 1024/2013;\n(i) the Single Resolution Board, as established by Regulation (EU) No 806/2014 of the European Parliament and of the CouncilRegulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 (OJ L 225, 30.7.2014, p. 1, ELI: http://data.europa.eu/eli/reg/2014/806/oj).;\n(j) resolution authorities, such as those referred to in Article 3(3) of Directive 2014/59/EU.",
+        "after": "Article 92a\nExchange of information between authorities and with other entities\n1. The Authority shall share, on a regular or case-by-case basis, information that it obtained from obliged entities or the other authorities when carrying out its duties, and that stems from the application and implementation of Union law, with the other authorities upon request, provided that the requesting authority is entitled to obtain that information from obliged entities or the other authorities pursuant to Union law.\n2. The Authority shall request information from any of the other authorities that have obtained that information, instead of requesting it directly from obliged entities, provided that the Authority is entitled to obtain that information pursuant to Union law.\nThe first subparagraph of this paragraph shall be without prejudice to the powers of the Authority to obtain the requested information from obliged entities where the other authority is unable to share the information, where urgent action is needed or where obtaining information directly from obliged entities is necessary for the performance of the Authority’s tasks pursuant to Union law.\n3. A request to exchange information pursuant to paragraph 1 of this Article shall indicate the legal basis under Union law that entitles the requesting authority to obtain the information from obliged entities or the other authorities.\nThe requesting authority and the Authority shall be subject to the obligations of professional secrecy and data protection laid down in Articles 88 and 98 and in sectoral legislation which apply to the sharing of information between the obliged entity and the requesting authority and between the obliged entity and the Authority.\n4. Where the Authority exchanges information pursuant to paragraph 1, it shall, without undue delay, inform each authority from which it obtained the information or each obliged entity if the information was obtained from obliged entities directly, about the exchange. In the case of recurring or periodic exchanges of information, the Authority shall be obliged to inform the obliged entity or the authority from which it obtained the information only once.\n5. By way of derogation from paragraph 4, the Authority shall not be obliged to inform the authority or the obliged entity, as applicable, about the exchange of information where either of the following conditions is met:\n(a) the information has been anonymised in such a manner that it no longer relates to any identified or identifiable natural person and that the obliged entity or other legal entities are no longer identifiable; or\n(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets, and to protect personal data through appropriate technical and organisational measures in accordance with Regulations (EU) 2016/679 and (EU) 2018/1725.\n6. By way of derogation from paragraph 4, the Authority shall not inform the obliged entity about the exchange of information if it determines, or is informed by the requesting authority, that doing so could compromise supervisory or resolution proceedings, actions or investigations.\n7. Paragraphs 1 to 6 shall also apply to information that the Authority has received from an obliged entity or the other authorities and upon which the Authority has subsequently performed quality checks or which the Authority has otherwise processed.\n8. To facilitate exchanges of information as referred to in paragraphs 1 to 7, the Authority and the other authorities may enter into memoranda of understanding regarding the arrangements for such exchanges. The memoranda of understanding may also specify arrangements for the sharing of resources for the collection and processing of shared information. The Commission may after consulting the Authority and the other authorities, develop guidance on the main elements of such memoranda of understanding.\n9. Paragraphs 1 to 8 shall be without prejudice to the protection of intellectual property rights and shall not prevent or restrict the exchange of information between the Authority and the other authorities in accordance with other provisions of this Regulation or with other Union legislation.\nIn the event of a conflict between this Article and other provisions of this Regulation or other Union legislation that govern the exchange of information between the Authority and the other authorities, such other provisions shall prevail.\n10. The Authority and the financial supervisors may, at their own discretion, grant access to information obtained when carrying out their duties for re-use by obliged entities, researchers and other entities that have a legitimate interest in that information for research and innovation purposes, provided that the Authority or the financial supervisors granting access have ensured that all of the following conditions have been complied with:\n(a) the necessary measures have been taken to anonymise the information, in a manner that prevents individual obliged entities, data subjects, and, where it is the Authority which grants access to the information, Member States from being identified;\n(b) the information has been modified, aggregated or treated by any other method of disclosure control to protect confidential information, including trade secrets or content covered by intellectual property rights;\nInformation received from any authority shall be shared pursuant to the first subparagraph only with the consent of the authority that initially obtained that information.\n11. By 11 November 2027, the Authority shall, in close cooperation with the financial supervisors, report to the Commission on all legal obstacles in sectoral legislation that prevent them, in any way, from exchanging information with the other authorities or with other entities. The report may also address non-material, obsolete, duplicative or otherwise irrelevant reporting requirements. It may also include suggestions for improving consistency between reporting requirements for financial and non-financial entities. The report shall be updated on a regular basis, where necessary.\nTaking into account the report referred to in the first subparagraph, the protection of intellectual property rights and the obligations of professional secrecy and data protection, the Commission shall, where appropriate, submit to the European Parliament and to the Council a legislative proposal to remove such legal obstacles in sectoral legislation, to foster the exchange of information between authorities and with other entities.\n12. For the purposes of this Article, other authorities means any of the following authorities:\n(a) the European Systemic Risk Board, as established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council\nRegulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board (OJ L 331, 15.12.2010, p. 1, ELI: http://data.europa.eu/eli/reg/2010/1092/oj).;\n(b) the EBA;\n(c) the EIOPA;\n(d) the ESMA;\n(e) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1093/2010;\n(f) competent authorities, as defined in Article 4, point (2), of Regulation (EU) No 1094/2010;\n(g) competent authorities, as defined in Article 4, point (3), of Regulation (EU) No 1095/2010;\n(h) the authorities composing the Single supervisory mechanism, as defined in Article 2, point (9), of Regulation (EU) No 1024/2013;\n(i) the Single Resolution Board, as established by Regulation (EU) No 806/2014 of the European Parliament and of the Council\nRegulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 (OJ L 225, 30.7.2014, p. 1, ELI: http://data.europa.eu/eli/reg/2014/806/oj).;\n(j) resolution authorities, such as those referred to in Article 3(3) of Directive 2014/59/EU.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -428,7 +431,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new Article 92a has been added, setting out rules on how the Authority shares and requests information with other named authorities and on granting access to obtained information for re-use by obliged entities, researchers and other entities with a legitimate interest.",
+          "text": "This is an entirely new article setting out rules for how the Authority and other named authorities exchange information they have obtained from obliged entities or from each other, including request procedures, professional secrecy and data protection obligations, notification duties, exceptions to notification, memoranda of understanding, and reporting to the Commission on legal obstacles to information exchange.",
           "fallback": false,
           "citations": [
             {
@@ -447,7 +450,7 @@
           ]
         },
         {
-          "text": "The article also sets exceptions to the duty to inform about information exchanges, requires a report from the Authority to the Commission by 11 November 2027 on legal obstacles to information exchange, and defines the list of 'other authorities' covered by the article.",
+          "text": "It also newly addresses discretionary access to information for research and innovation purposes and defines the term other authorities for purposes of the article.",
           "fallback": false,
           "citations": [
             {
@@ -467,7 +470,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -653,9 +657,12 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 19753,
-      "output_tokens": 1036,
+      "input_tokens": 19747,
+      "output_tokens": 1035,
       "requests": 4,
       "schema_repairs": 0
     }
@@ -672,5 +679,6 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": []
 }
