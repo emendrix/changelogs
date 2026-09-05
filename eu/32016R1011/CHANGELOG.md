@@ -1902,7 +1902,7 @@ Paragraph 2 now groups the evidence power with Article 51(2) and Article 25(2) d
 ### `02016R1011-20191210` → `02016R1011-20210213`
 
 - **Act** `eu:32016R1011` · **In force** 2021-02-13 · **Detected** 2026-08-13
-- **Touched** 12 provisions — 12 substantive · 0 date-only · **4 disputed**
+- **Touched** 12 provisions — 11 substantive · 0 date-only · 1 with no text · **4 disputed**
 - **Diff** 4 inserted · 8 modified · 0 deleted · 0 renumbered · 0 deferred · 59 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20191210` · `v2` = `02016R1011-20210213`
@@ -2211,7 +2211,7 @@ A new paragraph 7 is added empowering the Commission to adopt a delegated act by
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20210213 -->
