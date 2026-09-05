@@ -2390,7 +2390,7 @@ The earlier version of the annex, by contrast, ends after entry 29 and its nanom
 ### `02009R1223-20150810` → `02009R1223-20150818`
 
 - **Act** `eu:32009R1223` · **In force** 2015-08-18 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 1 substantive · 0 date-only · 1 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20150810` · `v2` = `02009R1223-20150818`
@@ -2461,7 +2461,7 @@ The earlier version of the annex, by contrast, ends after entry 29 and its nanom
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20150818 -->
