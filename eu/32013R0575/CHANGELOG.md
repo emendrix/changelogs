@@ -13348,7 +13348,7 @@ The new provision states that when considering options for changes to the pruden
 ### `02013R0575-20230628` → `02013R0575-20240109`
 
 - **Act** `eu:32013R0575` · **In force** 2024-01-01, 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **0 disputed**
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 725 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20230628` · `v2` = `02013R0575-20240109`
@@ -13359,9 +13359,9 @@ The new provision states that when considering options for changes to the pruden
 
 *within* `AR 49 PA 2 ALN 4` · *amended by* `32022R2036`
 
-Paragraph 2 now adds a new sentence stating that the paragraph does not apply with regard to the deductions set out in Article 72e(5). [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_49)
+Paragraph 2 now adds a further exception stating that the paragraph does not apply with regard to the deductions set out in Article 72e(5), alongside the existing exception concerning Articles 92a and 92b. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_49)
 
-The prior version of paragraph 2 contained only the earlier exclusion referring to Articles 92a, 92b and the deduction framework in Article 72e(4), without any reference to Article 72e(5). [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_49)
+The prior version of paragraph 2 only excluded application of the deduction non-requirement for the calculations under Articles 92a and 92b referencing Article 72e(4), without mentioning Article 72e(5). [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_49)
 
 *before* (`02013R0575-20230628`)
 
@@ -13371,7 +13371,7 @@ The prior version of paragraph 2 contained only the earlier exclusion referring 
 > (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
 > (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
 > (c) the institution has received the prior permission of the competent authorities;
-> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5589 characters omitted…]
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5590 characters omitted…]
 
 *after* (`02013R0575-20240109`)
 
@@ -13381,7 +13381,7 @@ The prior version of paragraph 2 contained only the earlier exclusion referring 
 > (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
 > (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
 > (c) the institution has received the prior permission of the competent authorities;
-> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5677 characters omitted…]
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5678 characters omitted…]
 
 **MODIFIED · Art. 72e — Deductions from eligible liabilities items** · applies from: unchanged
 
@@ -13475,9 +13475,7 @@ The cross-reference to the exposure classes was also reformatted from citing poi
 
 *within* `AR 429a PA 1 ALN 1 PTA (p)`, `AR 429a PA 1 ALN 1 PTA (q)` · *amended by* `32022R2036`
 
-The point (p) list item now ends with a semicolon instead of a full stop, reflecting that an additional item follows it. [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_429a)
-
-A new point (q) has been added to the list of exposures that an institution may exclude from its total exposure measure, covering exposures subject to the treatment set out in the first subparagraph of Article 72e(5). [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_429a)
+Point (p) of Article 429a(1) now ends with a semicolon instead of a full stop, and a new point (q) has been added listing exposures that are subject to the treatment set out in Article 72e(5), first subparagraph, as an additional category that may be excluded from the total exposure measure. [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_429a) [Art. 429a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230628#art_429a)
 
 *before* (`02013R0575-20230628`)
 
@@ -13492,7 +13490,7 @@ A new point (q) has been added to the list of exposures that an institution may 
 > (f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:
 > (i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;
 > (ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);
-> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8309 characters omitted…]
+> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8310 characters omitted…]
 
 *after* (`02013R0575-20240109`)
 
@@ -13507,27 +13505,28 @@ A new point (q) has been added to the list of exposures that an institution may 
 > (f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:
 > (i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;
 > (ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);
-> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8408 characters omitted…]
+> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8409 characters omitted…]
 
 **INSERTED · Art. 434b — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32023R2869`
 
-This is a newly inserted article requiring institutions to submit information disclosed under Part Eight of the Regulation to a designated collection body so it can be made accessible on the European single access point (ESAP), along with specified metadata and format requirements. [Art. 434b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_434b)
+This is a new provision requiring institutions to submit information disclosed under Part Eight also to a collection body so it can be made accessible on the European single access point, together with specified metadata and format requirements. [Art. 434b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_434b)
 
-It also designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines to ensure correctness of submitted metadata. [Art. 434b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_434b)
+It also designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines on the correctness of submitted metadata. [Art. 434b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_434b)
 
 *after* (`02013R0575-20240109`)
 
 > Article 434b
 > Accessibility of information on the European single access point
-> 1. From 10 January 2030, when making public any information referred to in Part Eight of this Regulation, the institutions shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> 1. From 10 January 2030, when making public any information referred to in Part Eight of this Regulation, the institutions shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the institution to which the information relates;
 > (ii) the legal entity identifier of the institution, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
-> (iii) the size of the institution by category, as specified pursuant to Article 7(4), point (d), of that Regula […truncated by emendrix: 1513 characters omitted…]
+> (iii) the size of the institution by category, as specified pursuant to Article 7(4), point (d), of that Regul […truncated by emendrix: 1514 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20240109 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20230628 -->
