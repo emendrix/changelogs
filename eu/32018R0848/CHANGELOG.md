@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02018R0848-20241201` → `02018R0848-20250325`
 
 - **Act** `eu:32018R0848` · **In force** 2025-03-18 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02018R0848-20241201` · `v2` = `02018R0848-20250325`
