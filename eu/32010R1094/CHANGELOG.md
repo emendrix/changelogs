@@ -254,7 +254,7 @@ The paragraph also adds the words "of this Article" after the reference to parag
 ### `02010R1094-20200101` → `02010R1094-20250701`
 
 - **Act** `eu:32010R1094` · **In force** 2025-07-01 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Touched** 3 provisions — 1 substantive · 0 date-only · 2 with no text · **2 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 92 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02010R1094-20200101` · `v2` = `02010R1094-20250701`
@@ -267,7 +267,7 @@ The paragraph also adds the words "of this Article" after the reference to parag
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -317,7 +317,7 @@ The earlier version only provided that the Board of Supervisors may decide to ad
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1094-20250701 -->
