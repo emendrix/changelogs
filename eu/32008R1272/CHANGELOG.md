@@ -6690,7 +6690,7 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 ### `02008R1272-20110419` → `02008R1272-20131201`
 
 - **Act** `eu:32008R1272` · **In force** 2012-07-31, 2013-06-21 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 9 substantive · 0 date-only · **5 disputed**
+- **Touched** 9 provisions — 4 substantive · 0 date-only · 5 with no text · **5 disputed**
 - **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
 - **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20110419` · `v2` = `02008R1272-20131201`
@@ -6703,7 +6703,7 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -6713,7 +6713,7 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -6799,7 +6799,7 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -6807,9 +6807,11 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 
 *within* `AN III SCT 1`, `AN III SCT 2`, `AN III SCT 3` · *amended by* `32013R0487`, `32013R0517`
 
-The after text adds a Croatian-language (HR) translation line for each hazard statement entry in Annex III sections 1 through 3, inserted alongside the existing language versions such as BG, ES, CS and the others. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III)
+Throughout the tables of hazard statements in sections 1, 2 and 3 of Annex III, a Croatian-language (HR) translation entry has been inserted after each existing GA entry for every hazard statement code shown, where none existed before. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III) [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
 
-Aside from the addition of these Croatian translations, the wording of the hazard statements themselves, including the English-language text, remains the same between the two versions shown. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III)
+The other language versions and the substantive hazard statement content for each code remain the same across both texts as far as shown. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III)
+
+Because the provided text is truncated partway through the health hazards table, any further changes beyond the point where the text was cut off cannot be described. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_III)
 
 *before* (`02008R1272-20110419`)
 
@@ -6838,6 +6840,7 @@ Aside from the addition of these Croatian translations, the wording of the hazar
 >
 >
 > H200
+>
 > Language
 > 2.1 — Explosives, Unstable explosives
 >
@@ -6878,7 +6881,7 @@ Aside from the addition of these Croatian translations, the wording of the hazar
 > Nestabili sprādzienbīstami materiāli.
 >
 > LT
-> Nestabilios sprogi […truncated by emendrix: 160325 characters omitted…]
+> Nestabilios sprog […truncated by emendrix: 160326 characters omitted…]
 
 *after* (`02008R1272-20131201`)
 
@@ -6907,6 +6910,7 @@ Aside from the addition of these Croatian translations, the wording of the hazar
 >
 >
 > H200
+>
 > Language
 > 2.1 — Explosives, Unstable explosives
 >
@@ -6949,7 +6953,7 @@ Aside from the addition of these Croatian translations, the wording of the hazar
 > Esplosivo instabile.
 >
 > LV
-> Nestabili sprādzienbīstami mate […truncated by emendrix: 167040 characters omitted…]
+> Nestabili sprādzienbīstami mat […truncated by emendrix: 167041 characters omitted…]
 
 **MODIFIED · Annex IV — LIST OF PRECAUTIONARY STATEMENTS** · applies from: unchanged
 
@@ -7123,7 +7127,7 @@ Both versions being shown are truncated before the full extent of the added or c
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -7131,11 +7135,11 @@ Both versions being shown are truncated before the full extent of the added or c
 
 *within* `AN VI SCT 3` · *amended by* `32012R0618`, `32013R0487`, `32013R0758`, `32013R0944`
 
-In entry 005-007-00-2, the description of the second boric acid substance was simplified from a longer descriptive phrase naming crude natural boric acid with a purity limit to simply repeating the name boric acid. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI)
+In the entry for boric acid (005-007-00-2), the description of the second listed substance was simplified from a longer technical description of crude natural boric acid with a purity qualifier to simply 'boric acid'. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI)
 
-Several entries for sodium perborate and sodium peroxoborate substances (005-017-00-7, 005-017-01-4, 005-019-00-8, 005-019-01-5) had their oxidising solid classification code changed from the abbreviation Oxid. Sol. to Ox. Sol. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI)
+Several entries had their hazard class code for oxidising solids changed from the abbreviation 'Oxid. Sol.' to 'Ox. Sol.' in entries such as 005-017-00-7, 005-017-01-4, 005-019-00-8 and 005-019-01-5. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI)
 
-The text shown is truncated before the end of the section, so only these visible formatting and abbreviation differences in Table 3.1 entries can be described. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI)
+The text shown is truncated at the same point in both versions, so further differences beyond entry 006-003-00-3 cannot be described. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI)
 
 *before* (`02008R1272-20110419`)
 
@@ -7157,7 +7161,7 @@ The text shown is truncated before the end of the section, so only these visible
 >
 >
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968925 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968927 characters omitted…]
 
 *after* (`02008R1272-20131201`)
 
@@ -7179,7 +7183,7 @@ The text shown is truncated before the end of the section, so only these visible
 >
 >
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1974858 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1974860 characters omitted…]
 
 **MODIFIED · Annex VII** · applies from: unknown
 
@@ -7187,7 +7191,7 @@ The text shown is truncated before the end of the section, so only these visible
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20131201 -->
