@@ -163,7 +163,7 @@ The new article also sets out requirements for that information, including submi
 ### `32017R1131` → `02017R1131-20190101`
 
 - **Act** `eu:32017R1131` · **In force** 2019-01-01 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32017R1131` · `v2` = `02017R1131-20190101`
