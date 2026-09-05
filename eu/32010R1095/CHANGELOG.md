@@ -434,7 +434,7 @@ The only textual difference is the removal of the trailing word "and" at the end
 ### `02010R1095-20200101` → `02010R1095-20220812`
 
 - **Act** `eu:32010R1095` · **In force** 2022-08-12 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 92 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1095-20200101` · `v2` = `02010R1095-20220812`
