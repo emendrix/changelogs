@@ -87,22 +87,12 @@ Economic operators who receive this information are in turn required to pass it 
 ### `02017R0746-20230320` → `02017R0746-20240709`
 
 - **Act** `eu:32017R0746` · **In force** 2024-07-09 · **Detected** 2026-08-12
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **1 disputed**
-- **Diff** 1 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 124 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 124 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0746-20230320` · `v2` = `02017R0746-20240709`
 
 ---
-
-**INSERTED · Art. 10a** · applies from: unknown
-
-*amended by* `32024R1860`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 74 — Coordinated assessment procedure for performance studies** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 

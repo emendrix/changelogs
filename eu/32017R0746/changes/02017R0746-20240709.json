@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -14,81 +14,25 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 1,
+    "inserted": 0,
     "modified": 4,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 5,
+    "touched_units": 4,
     "unchanged_units": 124,
-    "disputed": 1
+    "disputed": 0
   },
   "counts": {
-    "touched": 5,
-    "substantive": 5,
+    "touched": 4,
+    "substantive": 4,
     "date_only": 0,
-    "disputed": 1,
+    "textless": 0,
+    "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R0746",
-            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
-          },
-          "version": "02017R0746-20240709",
-          "location": "AR 10a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R1860",
-            "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "24 annotations in (2023-03-20, 2024-07-09]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 002 (1)",
-            "change_types": [
-              "INSERTED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -206,7 +150,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -374,7 +319,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -523,7 +469,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -679,7 +626,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -984,25 +932,13 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 10a",
           "AR 74",
           "AR 110",
           "AR 112",
           "AR 113"
         ],
-        "note": "32024R1860, 1.000 of its instruction clauses read",
+        "note": "32024R1860, 1.000 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
         "claims": [
-          {
-            "location": "AR 10a",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (1)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
           {
             "location": "AR 74 PA 14",
             "change_type": "MODIFIED",
@@ -1253,49 +1189,27 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 4,
-        "right_units": 5,
+        "right_units": 4,
         "shared": 4,
         "precision": 1.0,
-        "recall": 0.8,
-        "f1": 0.888888888888889,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 4,
-        "right_units": 5,
+        "right_units": 4,
         "shared": 4,
         "precision": 1.0,
-        "recall": 0.8,
-        "f1": 0.888888888888889,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
-    "disagreements": [
-      {
-        "unit": "AR 10a",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
-      }
-    ],
-    "metadata_only_units": [
-      "AR 10a"
-    ]
+    "disagreements": [],
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1306,6 +1220,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 28534,
       "output_tokens": 2380,
@@ -1325,5 +1242,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 5,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
