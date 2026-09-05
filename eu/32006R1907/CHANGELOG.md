@@ -89,7 +89,7 @@ Both texts are cut off before their end, so any further differences beyond the a
 ### `02006R1907-20250623` → `02006R1907-20250901`
 
 - **Act** `eu:32006R1907` · **In force** 2025-08-31 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20250623` · `v2` = `02006R1907-20250901`
