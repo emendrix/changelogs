@@ -3075,7 +3075,7 @@ The earlier version of these two points referred only to the three accession dat
 ### `02006R1907-20130306` → `02006R1907-20130421`
 
 - **Act** `eu:32006R1907` · **In force** 2013-04-21 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20130306` · `v2` = `02006R1907-20130421`
