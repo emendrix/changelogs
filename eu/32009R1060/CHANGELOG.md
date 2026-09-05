@@ -107,9 +107,7 @@ In point 12 of Section I, the reference to safeguard arrangements for 'informati
 
 *within* `AR 11a PA 2 ALN 3` · *dates* +2023-12-13 · *amended by* `32023R2869`
 
-A new sentence has been added to paragraph 2 stating that the European single access point (ESAP) established under Regulation (EU) 2023/2859 may fulfil the functions of the European rating platform. [Art. 11a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20240109#art_11a)
-
-The earlier version's paragraph 2 contained no reference to ESAP or to Regulation (EU) 2023/2859. [Art. 11a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#art_11a)
+Paragraph 2 now adds that the European single access point (ESAP) established under Regulation (EU) 2023/2859 may fulfil the functions of the European rating platform, alongside the existing provisions on ESMA publishing individual credit ratings and incorporating the central repository referred to in Article 11(2). [Art. 11a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20240109#art_11a) [Art. 11a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#art_11a)
 
 *before* (`02009R1060-20190101`)
 
@@ -127,7 +125,8 @@ The earlier version's paragraph 2 contained no reference to ESAP or to Regulatio
 > 1. A registered or certified credit rating agency shall, when issuing a credit rating or a rating outlook, submit to ESMA rating information, including the credit rating and rating outlook of the rated instrument, information on the type of credit rating, the type of rating action, and date and hour of publication.
 > 2. ESMA shall publish the individual credit ratings submitted to it pursuant to paragraph 1 on a website (European rating platform).
 > The central repository referred to in Article 11(2) shall be incorporated in the European rating platform.
-> The European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj). may fulfil the functions of the European rating platform.
+> The European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj). may fulfil the functions of the European rating platform.
 > 3. This Article shall not apply to credit ratings or rating outlooks which are exclusively produced for and disclosed to investors for a fee.
 
 **INSERTED · Art. 13a — Accessibility of information on ESAP** · applies from: unknown (an inserted provision states its own application date only in prose)
