@@ -141,11 +141,11 @@ Point (c) now lists additional items covered by the legal framework, namely elec
 
 *within* `AR 2 PA 1 ALN 1`, `AR 2 PA 3 ALN 1`, `AR 2 PA 4` · *dates* +2016-04-27 · *amended by* `32024R1183`
 
-Paragraph 1 now adds European Digital Identity Wallets provided by a Member State to the list of things the Regulation applies to, alongside notified electronic identification schemes and trust service providers established in the Union. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_2)
+Paragraph 1 now extends the Regulation's scope to European Digital Identity Wallets provided by a Member State, in addition to notified electronic identification schemes and trust service providers established in the Union. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_2)
 
-Paragraph 3 now also states that the Regulation does not affect sector-specific requirements relating to form, in addition to contracts and other legal or procedural obligations relating to form. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_2)
+Paragraph 3 now also refers to sector-specific requirements relating to form, alongside the conclusion and validity of contracts and other legal or procedural obligations relating to form, and reorders the reference to Union or national law. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_2)
 
-A new paragraph 4 has been added stating that the Regulation is without prejudice to Regulation (EU) 2016/679, a provision not present in the earlier text. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_2)
+A new paragraph 4 has been added stating that the Regulation is without prejudice to Regulation (EU) 2016/679, with a citation to that Regulation's full title and Official Journal reference. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_2)
 
 *before* (`32014R0910`)
 
@@ -162,17 +162,18 @@ A new paragraph 4 has been added stating that the Regulation is without prejudic
 > 1. This Regulation applies to electronic identification schemes notified by a Member State, to European Digital Identity Wallets provided by a Member State and to trust service providers established in the Union.
 > 2. This Regulation does not apply to the provision of trust services that are used exclusively within closed systems resulting from national law or from agreements between a defined set of participants.
 > 3. This Regulation does not affect Union or national law related to the conclusion and validity of contracts, other legal or procedural obligations relating to form, or sector-specific requirements relating to form.
-> 4. This Regulation is without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the CouncilRegulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1)..
+> 4. This Regulation is without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council
+> Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1)..
 
 **MODIFIED · Art. 3 — Definitions** · applies from: unchanged
 
 *within* `AR 3 ALN 1 PO 1`, `AR 3 ALN 1 PO 2`, `AR 3 ALN 1 PO 3`, `AR 3 ALN 1 PO 4`, `AR 3 ALN 1 PO 5`, `AR 3 ALN 1 PO 5a`, `AR 3 ALN 1 PO 6`, `AR 3 ALN 1 PO 16`, `AR 3 ALN 1 PO 16 PTA (a)`, `AR 3 ALN 1 PO 16 PTA (b)`, `AR 3 ALN 1 PO 16 PTA (c)`, `AR 3 ALN 1 PO 16 PTA (d)`, `AR 3 ALN 1 PO 16 PTA (e)`, `AR 3 ALN 1 PO 16 PTA (f)`, `AR 3 ALN 1 PO 16 PTA (g)`, `AR 3 ALN 1 PO 16 PTA (h)`, `AR 3 ALN 1 PO 16 PTA (i)`, `AR 3 ALN 1 PO 16 PTA (j)`, `AR 3 ALN 1 PO 16 PTA (k)`, `AR 3 ALN 1 PO 16 PTA (l)`, `AR 3 ALN 1 PO 16 PTA (m)`, `AR 3 ALN 1 PO 16 PTA (n)`, `AR 3 ALN 1 PO 18`, `AR 3 ALN 1 PO 21`, `AR 3 ALN 1 PO 23a`, `AR 3 ALN 1 PO 23b`, `AR 3 ALN 1 PO 38`, `AR 3 ALN 1 PO 41`, `AR 3 ALN 1 PO 42`, `AR 3 ALN 1 PO 43`, `AR 3 ALN 1 PO 44`, `AR 3 ALN 1 PO 45`, `AR 3 ALN 1 PO 46`, `AR 3 ALN 1 PO 47`, `AR 3 ALN 1 PO 48`, `AR 3 ALN 1 PO 49`, `AR 3 ALN 1 PO 50`, `AR 3 ALN 1 PO 51`, `AR 3 ALN 1 PO 52`, `AR 3 ALN 1 PO 53`, `AR 3 ALN 1 PO 54`, `AR 3 ALN 1 PO 55`, `AR 3 ALN 1 PO 56`, `AR 3 ALN 1 PO 57` · *amended by* `32024R1183`
 
-Several existing definitions in Article 3(1) are broadened, including those for electronic identification, electronic identification means, person identification data, electronic identification scheme, authentication, relying party, conformity assessment body, product, certificate for website authentication and validation, to also cover natural persons representing other natural persons, offline services, European Digital Identity Wallets, and additional attestation and archiving concepts. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_3)
+Several existing definitions in Article 3 were reworded, including those for electronic identification, electronic identification means, person identification data, electronic identification scheme, authentication, relying party, conformity assessment body, product, certificate for website authentication, and validation, and the definition of trust service was restructured from three broad categories into a longer list of fourteen specific service types. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_3)
 
-The definition of trust service in point (16) is restructured from a three-part list into a fourteen-part list of activities such as issuance and validation of certificates, creation and validation of signatures, seals, timestamps, electronic registered delivery data, attestations of attributes, archiving and ledger recording. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_3)
+New defined terms were added that did not appear before, such as user, remote qualified electronic signature creation device, remote qualified electronic seal creation device, European Digital Identity Wallet, attribute, electronic attestation of attributes and its qualified variant, authentic source, electronic archiving and its qualified service variant, EU Digital Identity Wallet Trust Mark, strong user authentication, electronic ledger and its qualified variant, personal data, identity matching, data record, and offline mode. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_3)
 
-New definitions are added, including point (5a) for user, points (23a) and (23b) for remote qualified electronic signature and seal creation devices, and points (42) through (57) covering terms such as European Digital Identity Wallet, attribute, authentic source, electronic archiving, electronic ledger, personal data, identity matching, data record and offline mode. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_3)
+The prior single definition numbered (41), validation, was replaced with new wording, and the numbering after point (23) was expanded with additional lettered and numbered entries not present in the earlier version. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_3)
 
 *before* (`32014R0910`)
 
@@ -185,7 +186,7 @@ New definitions are added, including point (5a) for user, points (23a) and (23b)
 > (4) electronic identification scheme means a system for electronic identification under which electronic identification means are issued to natural or legal persons, or natural persons representing legal persons;
 > (5) authentication means an electronic process that enables the electronic identification of a natural or legal person, or the origin and integrity of data in electronic form to be confirmed;
 > (6) relying party means a natural or legal person that relies upon an electronic identification or a trust service;
-> (7) public sector body means a state, regional or local authority, a body governed by public law or an association formed by one or several such authorities or one or several such bodies governed by public law, or a private entity mandated by at least one of those authorities, bodies or associations to provide public services, when a […truncated by emendrix: 6072 characters omitted…]
+> (7) public sector body means a state, regional or local authority, a body governed by public law or an association formed by one or several such authorities or one or several such bodies governed by public law, or a private entity mandated by at least one of those authorities, bodies or associations to provide public services, when a […truncated by emendrix: 6073 characters omitted…]
 
 *after* (`02014R0910-20240520`)
 
@@ -198,7 +199,7 @@ New definitions are added, including point (5a) for user, points (23a) and (23b)
 > (4) electronic identification scheme means a system for electronic identification under which electronic identification means are issued to natural or legal persons or natural persons representing other natural persons or legal persons;
 > (5) authentication means an electronic process that enables the confirmation of the electronic identification of a natural or legal person or the confirmation of the origin and integrity of data in electronic form;
 > (5a) user means a natural or legal person, or a natural person representing another natural person or a legal person, that uses trust services or electronic identification means provided in accordance with this Regulation;
-> (6) relying p […truncated by emendrix: 12166 characters omitted…]
+> (6) relying p […truncated by emendrix: 12167 characters omitted…]
 
 **MODIFIED · Art. 5 — Pseudonyms in electronic transaction** · applies from: unchanged
 
@@ -227,9 +228,11 @@ The remaining text, formerly paragraph 2, now adds an exception for specific rul
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-This is an entirely new article, absent from the earlier version, setting out detailed provisions on the establishment, functionalities, security, and governance of European Digital Identity Wallets. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a)
+This entry adds a new Article 5a on European Digital Identity Wallets, which did not previously exist in the legislation. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a)
 
-It covers matters such as Member States' obligation to provide wallets, open-source licensing of the source code, the functions wallets must enable for users, security breach notification, revocation grounds, data protection safeguards, accessibility requirements, and implementing acts to be adopted by the Commission. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a)
+The new article sets out obligations for Member States to provide such Wallets, describes how they may be provided, what functionalities and technical requirements they must meet, and rules on data protection, accessibility, revocation, voluntariness of use, and related implementing acts. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a)
+
+It further requires the Commission to adopt implementing acts by 21 November 2024 establishing reference standards and specifications for several of the requirements listed in the article. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a)
 
 *after* (`02014R0910-20240520`)
 
@@ -242,7 +245,7 @@ It covers matters such as Member States' obligation to provide wallets, open-sou
 > (c) independently of a Member State but recognised by that Member State.
 > 3. The source code of the application software components of European Digital Identity Wallets shall be open-source licensed. Member States may provide that, for duly justified reasons, the source code of specific components other than those installed on user devices shall not be disclosed.
 > 4. European Digital Identity Wallets shall enable the user, in a manner that is user-friendly, transparent, and traceable by the user, to:
-> (a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, wh […truncated by emendrix: 12073 characters omitted…]
+> (a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, wh […truncated by emendrix: 12074 characters omitted…]
 
 **INSERTED · Art. 5b — European Digital Identity Wallet-Relying Parties** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -276,15 +279,18 @@ It sets out obligations covering registration in the Member State of establishme
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-This is a newly inserted article setting out requirements for certifying European Digital Identity Wallets, covering conformity assessment by designated bodies, cybersecurity certification schemes, national certification schemes, certification validity periods, data-processing certification, Commission implementing and delegated acts, and communication of assessment-body details. [Art. 5c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5c)
+This is a newly inserted article setting out a certification framework for European Digital Identity Wallets, covering conformity assessment by designated bodies, cybersecurity certification schemes, national certification schemes, certification validity and renewal, personal data processing certification, Commission implementing acts, communication of assessment body details, and delegated acts on assessment criteria. [Art. 5c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5c)
+
+The text specifies that the Commission's implementing acts establishing reference standards and certification specifications are to be adopted by 21 November 2024. [Art. 5c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5c)
 
 *after* (`02014R0910-20240520`)
 
 > Article 5c
 > Certification of European Digital Identity Wallets
 > 1. The conformity of European Digital Identity Wallets and the electronic identification scheme under which they are provided with the requirements laid down in Article 5a(4), (5), (8), the requirement for logical separation laid down in Article 5a(14) and, where applicable, with the standards and technical specifications referred to in Article 5a(24), shall be certified by conformity assessment bodies designated by Member States.
-> 2. Certification of the conformity of European Digital Identity Wallets with requirements referred to in paragraph 1 of this Article, or parts thereof, that are relevant for cybersecurity shall be carried out in accordance with European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 of the European Parliament and of the CouncilRegulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15). and referred to in the implementing acts referred to in paragraph 6 of this Article.
-> 3. For requirements referred to in paragraph 1 of this Article that are not relevant for cybersecurity, and, for requirements referred to in paragraph 1 of this Article that are relevant for cybersecurity, to the extent that cybersecurity certif […truncated by emendrix: 1857 characters omitted…]
+> 2. Certification of the conformity of European Digital Identity Wallets with requirements referred to in paragraph 1 of this Article, or parts thereof, that are relevant for cybersecurity shall be carried out in accordance with European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 of the European Parliament and of the Council
+> Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (OJ L 151, 7.6.2019, p. 15). and referred to in the implementing acts referred to in paragraph 6 of this Article.
+> 3. For requirements referred to in paragraph 1 of this Article that are not relevant for cybersecurity, and, for requirements referred to in paragraph 1 of this Article that are relevant for cybersecurity, to the extent that cybersecurity certi […truncated by emendrix: 1858 characters omitted…]
 
 **INSERTED · Art. 5d — Publication of a list of certified European Digital Identity Wallets** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -337,17 +343,18 @@ It also directs the Commission to publish corresponding amendments to the list r
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-This is a newly inserted article setting out obligations for public sector bodies, certain private relying parties, and providers of very large online platforms to accept European Digital Identity Wallets under specified conditions. [Art. 5f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5f)
+Article 5f is a newly added provision setting out obligations for public sector bodies, certain private relying parties, and providers of very large online platforms to accept European Digital Identity Wallets for authentication purposes, along with related Commission tasks on codes of conduct and assessment of wallet demand and usability. [Art. 5f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5f)
 
-It also directs the Commission to work with Member States on codes of conduct to support the availability and usability of the Wallets, and to assess demand, availability and usability within a stated period after deployment. [Art. 5f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5f)
+The provision states that private relying parties covered by its second paragraph must comply no later than 36 months from the date of entry into force of the implementing acts referred to in Article 5a(23) and Article 5c(6). [Art. 5f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5f)
 
 *after* (`02014R0910-20240520`)
 
 > Article 5f
 > Cross-border reliance on European Digital Identity Wallets
 > 1. Where Member States require electronic identification and authentication to access an online service provided by a public sector body, they shall also accept European Digital Identity Wallets that are provided in accordance with this Regulation.
-> 2. Where private relying parties that provide services, with the exception of microenterprises and small enterprises as defined in Article 2 of the Annex to Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36)., are required by Union or national law to use strong user authentication for online identification or where strong user authentication for online identification is required by contractual obligation, including in the areas of transport, energy, banking, financial services, social security, health, drinking water, postal services, digital infrastructure, education or telecommunications, those private relying parties shall, no later than 36 months from the date of entry into force of the implementing acts referred to in Article 5a(23) and Article 5c(6) and only upon the voluntary request of the user, also accept European Digital Identity Wallets that are provided in accordance with this Regulation.
-> 3. Where providers of very large online platforms as referred to in Article 33 of Regulation (EU) 2022/2065 of the European Parli […truncated by emendrix: 1394 characters omitted…]
+> 2. Where private relying parties that provide services, with the exception of microenterprises and small enterprises as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC
+> Commission Recommendation 2003/361/EC of 6 May 2003concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36)., are required by Union or national law to use strong user authentication for online identification or where strong user authentication for online identification is required by contractual obligation, including in the areas of transport, energy, banking, financial services, social security, health, drinking water, postal services, digital infrastructure, education or telecommunications, those private relying parties shall, no later than 36 months from the date of entry into force of the implementing acts referred to in Article 5a(23) and Article 5c(6) and only upon the voluntary request of the user, also accept European Digital Identity Wallets that are provided in accordance with this Regulation.
+> 3. Where providers of very large online platforms as referred to in Article 33 of Regulation (EU) 2022/2065 of the European Parl […truncated by emendrix: 1396 characters omitted…]
 
 **MODIFIED · Art. 6** · applies from: unknown
 
@@ -584,17 +591,16 @@ The new text specifies that such certification is carried out under a cybersecur
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-Article 12b is a new provision addressing access to hardware and software features for providers of European Digital Identity Wallets and issuers of notified electronic identification means that use core platform services covered by the Digital Markets Act. [Art. 12b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12b)
+Article 12b is a newly added provision addressing access to hardware and software features, covering providers of European Digital Identity Wallets and issuers of notified electronic identification means that act as business users of gatekeeper core platform services under Regulation (EU) 2022/1925. [Art. 12b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12b)
 
-It states that gatekeepers must allow such providers and issuers, when they qualify as business users under that Regulation, effective interoperability with, and access to, the same operating system, hardware or software features, free of charge and regardless of whether those features are part of the gatekeeper's own operating system or are used by the gatekeeper, referencing Article 6(7) of Regulation (EU) 2022/1925. [Art. 12b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12b)
-
-The text also states that this Article applies without prejudice to Article 5a(14) of the same Regulation. [Art. 12b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12b)
+It states that gatekeepers must allow such business users effective interoperability with, and access to, the same operating system, hardware or software features free of charge, regardless of whether those features are part of the operating system or are used by the gatekeeper itself, within the meaning of Article 6(7) of that Regulation, and it notes that the Article is without prejudice to Article 5a(14) of this Regulation. [Art. 12b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12b)
 
 *after* (`02014R0910-20240520`)
 
 > Article 12b
 > Access to hardware and software features
-> Where providers of European Digital Identity Wallets and issuers of notified electronic identification means that act in a commercial or professional capacity and use core platform services as defined in Article 2, point (2), of Regulation (EU) 2022/1925 of the European Parliament and of the CouncilRegulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 12.10.2022, p. 1). for the purpose or in the course of providing European Digital Identity Wallet services and electronic identification means to end-users are business users as defined in Article 2, point (21), of that Regulation, gatekeepers shall in particular allow them effective interoperability with, and, for the purposes of interoperability, access to, the same operating system, hardware or software features. Such effective interoperability and access shall be allowed free of charge and regardless of whether the hardware or software features are part of the operating system, are available to, or are used by, that gatekeeper when providing such services, within the meaning of Article 6(7) of Regulation (EU) 2022/1925. This Article is without prejudice to Article 5a(14) of this Regulation.
+> Where providers of European Digital Identity Wallets and issuers of notified electronic identification means that act in a commercial or professional capacity and use core platform services as defined in Article 2, point (2), of Regulation (EU) 2022/1925 of the European Parliament and of the Council
+> Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (OJ L 265, 12.10.2022, p. 1). for the purpose or in the course of providing European Digital Identity Wallet services and electronic identification means to end-users are business users as defined in Article 2, point (21), of that Regulation, gatekeepers shall in particular allow them effective interoperability with, and, for the purposes of interoperability, access to, the same operating system, hardware or software features. Such effective interoperability and access shall be allowed free of charge and regardless of whether the hardware or software features are part of the operating system, are available to, or are used by, that gatekeeper when providing such services, within the meaning of Article 6(7) of Regulation (EU) 2022/1925. This Article is without prejudice to Article 5a(14) of this Regulation.
 
 **MODIFIED · Art. 13 — Liability and burden of proof** · applies from: unchanged
 
@@ -682,9 +688,9 @@ The operative sentence changes from a feasibility-qualified accessibility requir
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The single sentence on penalties in the earlier text is replaced by a numbered structure with three paragraphs, the first stating that Member States shall lay down penalty rules without prejudice to Article 31 of Directive (EU) 2022/2555, the second setting minimum maximum administrative fine amounts for qualified and non-qualified trust service providers, and the third addressing how fines may be initiated and imposed under national legal systems. [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_16)
+The single-paragraph provision requiring Member States to lay down effective, proportionate and dissuasive penalties has become paragraph 1, now prefaced by a reference to Article 31 of Directive (EU) 2022/2555 and otherwise rephrasing the penalty description as 'those penalties' rather than 'the penalties provided for'. [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_16)
 
-The earlier text contained no reference to Directive (EU) 2022/2555, no fine amounts, and no provision on the division of roles between supervisory bodies and courts, all of which appear only in the later text. [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_16)
+Two new paragraphs have been added: paragraph 2 requires Member States to ensure that infringements by qualified and non-qualified trust service providers are subject to administrative fines of a maximum of at least EUR 5000000 for a natural person, or EUR 5000000 or 1% of total worldwide annual turnover for a legal person, whichever is higher, and paragraph 3 addresses how, depending on the legal system of the Member State, such fines may be initiated by a competent supervisory body and imposed by competent national courts, with a requirement that such remedies be effective and have an equivalent effect to administrative fines imposed directly by supervisory authorities. [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_16)
 
 *before* (`32014R0910`)
 
@@ -696,11 +702,12 @@ The earlier text contained no reference to Directive (EU) 2022/2555, no fine amo
 
 > Article 16
 > Penalties
-> 1. Without prejudice to Article 31 of Directive (EU) 2022/2555 of the European Parliament and of the CouncilDirective (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80)., Member States shall lay down the rules on penalties applicable to infringements of this Regulation. Those penalties shall be effective, proportionate and dissuasive.
+> 1. Without prejudice to Article 31 of Directive (EU) 2022/2555 of the European Parliament and of the Council
+> Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (OJ L 333, 27.12.2022, p. 80)., Member States shall lay down the rules on penalties applicable to infringements of this Regulation. Those penalties shall be effective, proportionate and dissuasive.
 > 2. Member States shall ensure that infringements of this Regulation by qualified and non-qualified trust service providers be subject to administrative fines of a maximum of at least:
 > (a) EUR 5000000 where the trust service provider is a natural person; or
 > (b) where the trust service provider is a legal person, EUR 5000000 or 1 % of the total worldwide annual turnover of the undertaking to which the trust service provider belonged in the financial year preceding the year in which the infringement occurred, whichever is higher.
-> 3. Depending on the legal system of the Member States, the rules on administrative fines may be applied in such a manner that the fine is initiated by the competent supervisory body and imposed by competent national courts. The application of such rules in those Member States shall ensure that those legal remedies are effective and have an equivalent ef […truncated by emendrix: 73 characters omitted…]
+> 3. Depending on the legal system of the Member States, the rules on administrative fines may be applied in such a manner that the fine is initiated by the competent supervisory body and imposed by competent national courts. The application of such rules in those Member States shall ensure that those legal remedies are effective and have an equivalent e […truncated by emendrix: 74 characters omitted…]
 
 **DELETED · Art. 17** · applies from: unknown
 
