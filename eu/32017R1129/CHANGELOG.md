@@ -1939,7 +1939,7 @@ The provision sets out format and metadata requirements for the submitted inform
 ### `02017R1129-20210318` → `02017R1129-20211110`
 
 - **Act** `eu:32017R1129` · **In force** 2021-11-10 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 56 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R1129-20210318` · `v2` = `02017R1129-20211110`
