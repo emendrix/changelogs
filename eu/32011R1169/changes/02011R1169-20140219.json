@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 3,
     "substantive": 3,
     "date_only": 0,
+    "textless": 0,
     "disputed": 1,
     "quoted": 0,
     "unexplained": 0
@@ -265,7 +266,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0078, 1.000 of its instruction clauses read",
+            "detail": "32014R0078, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -403,7 +404,7 @@
           "AN II",
           "AN III"
         ],
-        "note": "32014R0078, 1.000 of its instruction clauses read",
+        "note": "32014R0078, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
         "claims": [
           {
             "location": "AN II PO 1",
@@ -534,6 +535,21 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 3,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
-  ]
+  ],
+  "evidence": []
 }

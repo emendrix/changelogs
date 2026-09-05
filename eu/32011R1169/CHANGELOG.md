@@ -185,7 +185,7 @@ The only change in this provision is to the Italian-language indication in point
 ### `02011R1169-20131206` → `02011R1169-20140219`
 
 - **Act** `eu:32011R1169` · **In force** 2014-02-19 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **1 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R1169-20131206` · `v2` = `02011R1169-20140219`
