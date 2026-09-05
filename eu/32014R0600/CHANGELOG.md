@@ -166,11 +166,11 @@ Paragraph 3 changes the deadline for ESMA to submit draft regulatory technical s
 
 *within* `AR 1 PA 3 ALN 1`, `AR 1 PA 5b`, `AR 1 PA 6 ALN 1`, `AR 1 PA 6 ALN 1 PTA (a)`, `AR 1 PA 6 ALN 1 PTA (b)`, `AR 1 PA 6 ALN 1 PTA (c)`, `AR 1 PA 7 ALN 1`, `AR 1 PA 8 ALN 1`, `AR 1 PA 8 ALN 2`, `AR 1 PA 8 ALN 3` · *dates* -2015-07-03 +2026-03-29 · *amended by* `32024R0791`
 
-Paragraph 3 now applies Title V to financial and non-financial counterparties subject to the clearing obligation under Title II of Regulation (EU) No 648/2012, rather than to financial counterparties defined by Article 2(8) of that Regulation and non-financial counterparties falling under Article 10(1)(b) of it. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_1)
+Paragraph 3 now defines the counterparties to which Title V applies by reference to financial and non-financial counterparties subject to the clearing obligation under Title II of Regulation (EU) No 648/2012, rather than by the earlier cross-references to Article 2(8) and Article 10(1)(b) of that Regulation. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_1) [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_1)
 
-A new paragraph 5b was added describing how multilateral systems, systematic internalisers, and investment firms concluding transactions outside multilateral systems or systematic internalisers must operate, a provision absent from the earlier text. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_1)
+A new paragraph 5b has been added setting out how multilateral systems, systematic internalisers, and investment firms concluding transactions outside multilateral systems or systematic internalisers must operate under Titles II and III of Directive 2014/65/EU and Articles 20, 21, 23 and 28 of this Regulation. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_1)
 
-Paragraph 6 was rewritten to reference Articles 8, 8a, 8b, 10 and 21 instead of Articles 8, 10, 18 and 21, and to distinguish ESCB members that are members of the Eurosystem from those that are not, while paragraphs 7 and 8 were correspondingly adjusted to limit their scope to ESCB members outside the Eurosystem and the regulatory technical standards submission date was changed from 3 July 2015 to 29 March 2026, with the Commission's delegated power now framed as supplementing rather than adopting the standards. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_1)
+Paragraphs 6 to 8 have been rewritten to distinguish Eurosystem members from other ESCB members, to add Articles 8a and 8b and remove Article 18 from the list of provisions disapplied, to add conditions (a) to (c) describing when the exemption applies, and to change the regulatory technical standards submission date from 3 July 2015 to 29 March 2026 while recasting the Commission's delegated power as one to supplement rather than adopt the standards. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_1) [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_1)
 
 *before* (`02014R0600-20240109`)
 
@@ -184,8 +184,9 @@ Paragraph 6 was rewritten to reference Articles 8, 8a, 8b, 10 and 21 instead of 
 > (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
 > (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch;
 > (g) the authorisation and supervision of data reporting services providers.
-> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
-> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article […truncated by emendrix: 3493 characters omitted…]
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the Council
+> Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Articl […truncated by emendrix: 3495 characters omitted…]
 
 *after* (`02014R0600-20240328`)
 
@@ -199,18 +200,17 @@ Paragraph 6 was rewritten to reference Articles 8, 8a, 8b, 10 and 21 instead of 
 > (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
 > (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch;
 > (g) the authorisation and supervision of data reporting services providers.
-> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
-> 3. Title V of this Regulation also applies to all financial counterparties and non-financial cou […truncated by emendrix: 4758 characters omitted…]
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the Council
+> Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties and non-financial co […truncated by emendrix: 4760 characters omitted…]
 
 **MODIFIED · Art. 2 — Definitions** · applies from: unchanged
 
 *within* `AR 2 PA 1 ALN 1 PO 8a`, `AR 2 PA 1 ALN 1 PO 11`, `AR 2 PA 1 ALN 1 PO 16a`, `AR 2 PA 1 ALN 1 PO 17 PTA (a)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (i)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (ii)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (b)`, `AR 2 PA 1 ALN 1 PO 17 PTA (a) PTI (iii)`, `AR 2 PA 1 ALN 1 PO 17 PTA (b)`, `AR 2 PA 1 ALN 1 PO 32a`, `AR 2 PA 1 ALN 1 PO 35`, `AR 2 PA 1 ALN 1 PO 36b`, `AR 2 PA 1 ALN 1 PO 36c` · *amended by* `32024R0791`
 
-New defined terms are added, including SME growth market, designated publishing entity, OTC derivative, core market data and regulatory data, and the definitions of multilateral system and consolidated tape provider are rewritten with different wording and cross-references. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2)
+New defined terms are added, including SME growth market, designated publishing entity, OTC derivative, core market data and regulatory data, none of which appeared in the earlier list. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2)
 
-The liquid market definition in point 17 is restructured, with the criteria for Articles 9, 11 and now 11a split between bonds and other instruments and a new issuance-size criterion, while the Articles 4, 5 and 14 limb replaces free float with market capitalisation. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2)
-
-The consolidated tape provider definition changes what is collected and consolidated, from trade reports for specified articles into core market data and regulatory data referenced under Title IVa, Chapter 1. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2)
+The definition of multilateral system is rewritten from a cross-reference to Directive 2014/65/EU into a self-contained description of a system or facility where multiple third-party buying and selling interests interact, and the liquid market and consolidated tape provider definitions are also reworded, with liquid market now referencing Article 11a and bond-specific criteria and consolidated tape provider now referencing authorisation under Title IVa, Chapter 1 and collection of data from trading venues and APAs into core market data and regulatory data. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_2)
 
 *before* (`02014R0600-20240109`)
 
@@ -229,7 +229,7 @@ The consolidated tape provider definition changes what is collected and consolid
 > (10) market operator means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;
 > (11) multilateral system means a multilateral system as defined in Article 4(1)(19) of Directive 2014/65/EU;
 > (12) systematic internaliser means a systematic internaliser as defined in Article 4(1)(20) of Directive 2014/65/EU;
-> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 12164 characters omitted…]
+> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 12171 characters omitted…]
 
 *after* (`02014R0600-20240328`)
 
@@ -248,7 +248,7 @@ The consolidated tape provider definition changes what is collected and consolid
 > (9) financial instrument means a financial instrument as defined in Article 4(1)(15) of Directive 2014/65/EU;
 > (10) market operator means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;
 > (11) multilateral system means any system or facility in which multiple third-party buying and selling trading interests in financial instruments are able to interact;
-> (12) systematic internaliser means a systemati […truncated by emendrix: 15088 characters omitted…]
+> (12) systematic internaliser means a systemati […truncated by emendrix: 15095 characters omitted…]
 
 **MODIFIED · Art. 4 — Waivers for equity instruments** · applies from: unchanged
 
@@ -875,25 +875,25 @@ Point (b) was reworded from referring to trades carried out between eligible and
 
 *within* `AR 25 PA 2 ALN 1`, `AR 25 PA 3 ALN 1` · *amended by* `32024R0791`
 
-Paragraph 2 now specifies that the records of orders advertised through the trading venue's systems must be kept in a machine-readable format and using a common template, and refers to executed transactions stemming from an order rather than transaction(s) stemming from that order, with a minor wording change from 'under this paragraph' to 'pursuant to this paragraph'. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25)
+Paragraph 2 now specifies that orders advertised through trading venue systems must be kept in a machine-readable format and using a common template, and refers to executed transactions in the plural rather than transaction(s), with a minor wording change from 'under this paragraph' to 'pursuant to this paragraph'. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25)
 
-Paragraph 3 now directs ESMA to specify the formats, in addition to the details, of the relevant order data to be maintained, with slight rewording of the reference to paragraph 2 and Article 26. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25)
-
-The earlier version's paragraph 2 and 3 text did not include these format and machine-readability requirements. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_25)
+Paragraph 3 now directs ESMA to specify both the details and the formats of the relevant order data, whereas previously only the details were mentioned, and the phrasing 'required to be maintained under paragraph 2' becomes 'required to be maintained pursuant to paragraph 2' with the addition of 'and that are' before the reference to Article 26. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_25)
 
 *before* (`02014R0600-20240109`)
 
 > Article 25
 > Obligation to maintain records
-> 1. Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the CouncilDirective 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).. ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.
-> 2. The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transaction(s) that stems from that order and the details of which shall be reported in accordance with Article 26(1) and (3). ESMA shall perform a facilitation and coordination role in rela […truncated by emendrix: 1059 characters omitted…]
+> 1. Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the Council
+> Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).. ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.
+> 2. The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transaction(s) that stems from that order and the details of which shall be reported in accordance with Article 26(1) and (3). ESMA shall perform a facilitation and coordination role in rel […truncated by emendrix: 1060 characters omitted…]
 
 *after* (`02014R0600-20240328`)
 
 > Article 25
 > Obligation to maintain records
-> 1. Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the CouncilDirective 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).. ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.
-> 2. The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems in a machine-readable format and using a common template. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transactions that stem from that order and the details of which shall be reported in accordance with Article 26(1) and (3). ESMA shal […truncated by emendrix: 1151 characters omitted…]
+> 1. Investment firms shall keep at the disposal of the competent authority, for five years, the relevant data relating to all orders and all transactions in financial instruments which they have carried out, whether on own account or on behalf of a client. In the case of transactions carried out on behalf of clients, the records shall contain all the information and details of the identity of the client, and the information required under Directive 2005/60/EC of the European Parliament and of the Council
+> Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).. ESMA may request access to that information in accordance with the procedure and under the conditions set out in Article 35 of Regulation (EU) No 1095/2010.
+> 2. The operator of a trading venue shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in financial instruments which are advertised through their systems in a machine-readable format and using a common template. The records shall contain the relevant data that constitute the characteristics of the order, including those that link an order with the executed transactions that stem from that order and the details of which shall be reported in accordance with Article 26(1) and (3). ESMA sha […truncated by emendrix: 1152 characters omitted…]
 
 **MODIFIED · Art. 26 — Obligation to report transactions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -1556,11 +1556,11 @@ In paragraph 5 the conjunctions linking the listed articles were changed from "a
 
 *within* `AR 52 PA 14 ALN 1`, `AR 52 PA 14 ALN 2`, `AR 52 PA 14 ALN 3`, `AR 52 PA 14a`, `AR 52 PA 14b`, `AR 52 PA 14c`, `AR 52 PA 15 ALN 1`, `AR 52 PA 15 ALN 1 PTA (e)`, `AR 52 PA 15 ALN 1 PTA (g)`, `AR 52 PA 15 ALN 1 PTA (h)` · *dates* -2018-07-18 -2019-09-03 -2021-09-03 +2025-03-29 +2026-06-30 +2028-03-29 · *amended by* `32024R0791`
 
-Paragraph 14 no longer requires the Commission to present reports on the consolidated tape by 3 September 2019 and 3 September 2021, and instead directs ESMA, working with the expert stakeholder group under Article 22b(2), to assess the consolidated tape for shares and ETFs by 30 June 2026 and report to the Commission, which may then submit a legislative proposal. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_52)
+Paragraph 14 no longer sets deadlines for Commission reports on the consolidated tape by 3 September 2019 and 2021, and instead requires ESMA, working with the expert stakeholder group under Article 22b(2), to assess by 30 June 2026 the market demand and impact of the consolidated tape for shares and ETFs and to report to the Commission on adding features such as a market identifier code, with the Commission then to submit a legislative proposal where appropriate. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_52)
 
-New paragraphs 14a, 14b and 14c are added, requiring a Commission report three years after the first consolidated tape authorisation on a list of listed criteria, a Commission assessment by 29 March 2025 on extending Article 26 requirements with possible delegated acts, and an ESMA report to the Commission by 29 March 2028 on the volume cap under Article 5(1). [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_52)
+New paragraphs 14a, 14b and 14c have been added, covering a post-authorisation report on consolidated tape criteria, a 29 March 2025 Commission assessment on extending Article 26 reporting duties to AIFMs and management companies with an associated delegated-act power, and a 29 March 2028 ESMA report on the appropriateness of the Article 5(1) volume cap. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_52)
 
-Paragraph 15's introductory wording drops the reference to the procedure in paragraph 14 having been initiated and the reference to the Regulation (EU, Euratom) 2018/1046 procurement rules disappears, while points (e), (g) and (h) are reworded to refer to core market data and regulatory data, to a CTP no longer fulfilling selection criteria, and to continued operation pending a new selection procedure rather than a public procurement outcome. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_52)
+Paragraph 15 removes the earlier condition tying the delegated-act power to initiation of the procedure in former paragraph 14, rewords point (e) to refer to core market data and regulatory data rather than post-trade information, and replaces points (g) and (h) so they refer to a CTP no longer meeting selection criteria and to continuation where no new entity is authorised through the selection procedure, rather than to public-procurement tender conditions. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240328#art_52)
 
 *before* (`02014R0600-20240109`)
 
@@ -1573,7 +1573,7 @@ Paragraph 15's introductory wording drops the reference to the procedure in para
 > (c) the impact on the depth of liquidity on lit order books;
 > (d) the impact on competition and on investors within the Union;
 > (e) the impact on trading of shares of small and mid-cap companies;
-> (f) developments at international level […truncated by emendrix: 9354 characters omitted…]
+> (f) developments at international level […truncated by emendrix: 9355 characters omitted…]
 
 *after* (`02014R0600-20240328`)
 
