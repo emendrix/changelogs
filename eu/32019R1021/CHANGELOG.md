@@ -632,7 +632,7 @@ The waste code table adds new entries for fly ash from peat and untreated wood (
 ### `02019R1021-20210315` → `02019R1021-20221213`
 
 - **Act** `eu:32019R1021` · **In force** 2022-12-13 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20210315` · `v2` = `02019R1021-20221213`
