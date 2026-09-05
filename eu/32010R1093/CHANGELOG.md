@@ -2386,32 +2386,41 @@ The revised text adds statements that the seat's location does not affect the Au
 
 *within* `AR 1 PA 2 ALN 1` · *dates* +2014-04-16 +2015-05-20 +2015-11-25 · *amended by* `32015L2366`
 
-Paragraph 2's list of acts within the Authority's scope of action was revised: references to Directive 94/19/EC and Regulation (EC) No 1781/2006 were removed, and Directive 2014/49/EU, Regulation (EU) 2015/847 and Directive (EU) 2015/2366 were added among the acts within the Authority's scope. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_1)
+The list of legislative acts within the Authority's scope of action in paragraph 2 has been revised, removing references to Directive 94/19/EC, Regulation (EC) No 1781/2006, Directive 2007/64/EC and Directive 2005/60/EC. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_1)
 
-In the same paragraph, the reference to Directive 2005/60/EC among the acts applying to credit and financial institutions was replaced with a reference to Directive (EU) 2015/849, while Directive 2007/64/EC and Directive 2009/110/EC were removed from that clause, with Directive 2009/110/EC instead appearing earlier in the list of directly scoped acts. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_1)
+In their place, the provision now names Directive 2014/49/EU, Regulation (EU) 2015/847, Directive (EU) 2015/2366 and Directive (EU) 2015/849, alongside the previously listed acts. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_1)
+
+The full citation details for Regulation (EU) No 575/2013 and Directive 2013/36/EU have also been expanded with fuller footnote text. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_1)
 
 *before* (`02010R1093-20140819`)
 
 > Article 1
 > Establishment and scope of action
 > 1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).
-> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 94/19/EC, Directive 2002/87/EC, Regulation (EC) No 1781/2006, Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013, p. 1., Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firmsOJ L 176, 27.6.2013, p. 338. and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, Directive 2005/60/EC, Directive 2007/64/EC and Directive 2009/110/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..
-> 3. The Authority shall a […truncated by emendrix: 2167 characters omitted…]
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 94/19/EC, Directive 2002/87/EC, Regulation (EC) No 1781/2006, Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013, p. 1., Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms
+> OJ L 176, 27.6.2013, p. 338. and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, Directive 2005/60/EC, Directive 2007/64/EC and Directive 2009/110/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)..
+> 3. The Authority shal […truncated by emendrix: 2170 characters omitted…]
 
 *after* (`02010R1093-20160112`)
 
 > Article 1
 > Establishment and scope of action
 > 1. This Regulation establishes a European Supervisory Authority (European Banking Authority) (hereinafter the Authority).
-> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of, Directive 2002/87/EC, Directive 2009/110/EC, Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Regulation (EU) 2015/847 of the European Parliament and the CouncilRegulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1)., Directive (EU) […truncated by emendrix: 3687 characters omitted…]
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of, Directive 2002/87/EC, Directive 2009/110/EC, Regulation (EU) No 575/2013 of the European Parliament and of the Council
+> Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)., Directive 2013/36/EU of the European Parliament and of the Council
+> Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338)., Directive 2014/49/EU of the European Parliament and of the Council
+> Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., Regulation (EU) 2015/847 of the European Parliament and the Council
+> Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1)., Directive […truncated by emendrix: 3694 characters omitted…]
 
 **MODIFIED · Art. 4 — Definitions** · applies from: unchanged
 
 *within* `AR 4 ALN 1 PO 1` · *amended by* `32015L2366`
 
-The definition of financial institutions in point (1) now cites credit institutions and investment firms by reference to points (1) and (2) of Article 4(1) of Regulation (EU) No 575/2013 instead of the earlier references to Directives 2006/48/EC and 2006/49/EC, and it adds payment service providers as defined in Directive (EU) 2015/2366 and electronic money institutions as defined in Directive 2009/110/EC to the list. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+The definition of financial institutions in point (1) now refers to credit institutions and investment firms as defined in Regulation (EU) No 575/2013 rather than in the earlier directives, and it adds payment service providers as defined in Directive (EU) 2015/2366 and electronic money institutions as defined in Directive 2009/110/EC to the list. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_4)
 
-The carve-out for financial institutions is now expressed by reference to Directive (EU) 2015/849 and its points (1) and (2) of Article 3, replacing the prior reference to Directive 2005/60/EC and its Article 3(1) and (2). [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+The exception concerning financial institutions under the anti-money-laundering directive now cites Directive (EU) 2015/849 instead of Directive 2005/60/EC. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20160112#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
 
 *before* (`02010R1093-20140819`)
 
@@ -2422,7 +2431,8 @@ The carve-out for financial institutions is now expressed by reference to Direct
 > (2) competent authorities means:
 > (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;
 > (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
-> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee scheme (OJ L 173, 12.6.2014, p. 149)., or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 1364 characters omitted…]
+> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the Council
+> Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee scheme (OJ L 173, 12.6.2014, p. 149)., or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 1367 characters omitted…]
 
 *after* (`02010R1093-20160112`)
 
@@ -2433,7 +2443,8 @@ The carve-out for financial institutions is now expressed by reference to Direct
 > (2) competent authorities means:
 > (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;
 > (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
-> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the Euro […truncated by emendrix: 1609 characters omitted…]
+> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the Council
+> Directive 2014/49/EU of the Eur […truncated by emendrix: 1612 characters omitted…]
 
 **MODIFIED · Annex I** · applies from: unknown
 
