@@ -5581,7 +5581,7 @@ The remainder of Article 25, including paragraphs 1 and 3 through 8, is unchange
 ### `02012R0648-20140101` → `02012R0648-20140702`
 
 - **Act** `eu:32012R0648` · **In force** 2014-04-01, 2014-07-02 · **Detected** 2026-08-13
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **4 disputed**
+- **Touched** 5 provisions — 4 substantive · 0 date-only · 1 with no text · **4 disputed**
 - **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 93 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20140101` · `v2` = `02012R0648-20140702`
@@ -5594,16 +5594,17 @@ The remainder of Article 25, including paragraphs 1 and 3 through 8, is unchange
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The formula for KCCP in paragraph 2 lost its mathematical symbols (the summation sign, minus signs, and multiplication dots), rendering the expression as a run of terms without those operators. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50a)
+The formula for calculating KCCP in paragraph 2 lost the mathematical symbols and formatting (such as the minus signs, multiplication dots, and equals sign) that separated the variable terms, leaving the expression as a run of characters without those operators. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50a)
 
-The surrounding wording of the article, including the paragraph text and the list of defined terms, is otherwise unchanged between the two versions. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50a)
+The numbering style of paragraphs 1 through 4 also changed from a numeral followed by a line break to a numeral followed directly by the paragraph text on the same line. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_50a)
 
 *before* (`02012R0648-20140101`)
 
 > Article 50a
 > Calculation of KCCP
 > 1.
-> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 >
 > 2.
 > A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio
@@ -5623,13 +5624,14 @@ The surrounding wording of the article, including the paragraph text and the lis
 > 3.
 > A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
 > 4.
-> For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to […truncated by emendrix: 575 characters omitted…]
+> For the purpose of paragraph 3, EBA shall develop draft implementing technical standards t […truncated by emendrix: 576 characters omitted…]
 
 *after* (`02012R0648-20140702`)
 
 > Article 50a
 > Calculation of KCCP
-> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 > 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  capital ratio
 > where:
 > EBRMi
@@ -5644,7 +5646,7 @@ The surrounding wording of the article, including the paragraph text and the lis
 > 8 %.
 > All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
 > 3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
-> 4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the […truncated by emendrix: 560 characters omitted…]
+> 4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the […truncated by emendrix: 561 characters omitted…]
 
 **MODIFIED · Art. 50b — General rules for the calculation of K CCP** · applies from: unchanged
 
@@ -5737,7 +5739,9 @@ In point (c), the formula for the concentration factor beta likewise loses its e
 
 *within* `AR 81 PA 3 ALN 1 PTA (j)`, `AR 81 PA 3 ALN 1 PTA (k)` · *dates* +2014-05-15 · *amended by* `32014L0059`
 
-The list of entities entitled to receive necessary information from a trade repository under paragraph 3 has been changed so that point (j), previously ending the list with the Agency for the Cooperation of Energy Regulators, is followed by a new point (k) naming resolution authorities designated under Article 3 of Directive 2014/59/EU. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_81)
+The list of entities to which a trade repository must make necessary information available now includes a new point (k) covering resolution authorities designated under Article 3 of Directive 2014/59/EU, alongside a citation to that directive. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_81)
+
+Point (j), which previously ended the list with the Agency for the Cooperation of Energy Regulators, is unchanged in substance but is followed by this new addition rather than closing the list. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_81)
 
 *before* (`02012R0648-20140101`)
 
@@ -5763,7 +5767,8 @@ The list of entities entitled to receive necessary information from a trade repo
 >
 > (f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
 >
-> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;
+> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids
+> OJ L 142, 30.4.2004, p. 12.;
 >
 > (h) the relevant Union securities and market authorities;
 >
@@ -5771,7 +5776,7 @@ The list of entities entitled to receive necessary information from a trade repo
 >
 > (j) the Agency for the Cooperation of Energy Regulators.
 > 4.
-> ESMA shall share the information necessary for the ex […truncated by emendrix: 966 characters omitted…]
+> ESMA shall share the information necessary for the e […truncated by emendrix: 967 characters omitted…]
 
 *after* (`02012R0648-20140702`)
 
@@ -5786,11 +5791,12 @@ The list of entities entitled to receive necessary information from a trade repo
 > (d) the competent authority supervising the trading venues of the reported contracts;
 > (e) the relevant members of the ESCB;
 > (f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;
+> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids
+> OJ L 142, 30.4.2004, p. 12.;
 > (h) the relevant Union securities and market authorities;
 > (i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;
 > (j) the Agency for the Cooperation of Energy Regulators;
-> (k) the resolution authorities designated under Article 3 of Direct […truncated by emendrix: 1552 characters omitted…]
+> (k) the resolution authorities designated under Article 3 of Direc […truncated by emendrix: 1554 characters omitted…]
 
 **MODIFIED · Art. 89** · applies from: unknown
 
@@ -5798,7 +5804,7 @@ The list of entities entitled to receive necessary information from a trade repo
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20140702 -->

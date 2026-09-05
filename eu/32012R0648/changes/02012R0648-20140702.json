@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -26,8 +26,9 @@
   },
   "counts": {
     "touched": 5,
-    "substantive": 5,
+    "substantive": 4,
     "date_only": 0,
+    "textless": 1,
     "disputed": 4,
     "quoted": 0,
     "unexplained": 1
@@ -46,8 +47,8 @@
           "location": "AR 50a"
         },
         "heading": "Calculation of K CCP",
-        "before": "Article 50a\nCalculation of KCCP\n1.\nFor the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n\n2.\nA CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio\nwhere:\n\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3.\nA CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4.\nFor the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
-        "after": "Article 50a\nCalculation of KCCP\n1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  capital ratio\nwhere:\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
+        "before": "Article 50a\nCalculation of KCCP\n1.\nFor the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms\nOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n\n2.\nA CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio\nwhere:\n\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3.\nA CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4.\nFor the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
+        "after": "Article 50a\nCalculation of KCCP\n1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms\nOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  capital ratio\nwhere:\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
         "previous_location": null,
         "changed_within": [
           "AR 50a PA 2 ALN 1"
@@ -83,7 +84,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The formula for KCCP in paragraph 2 lost its mathematical symbols (the summation sign, minus signs, and multiplication dots), rendering the expression as a run of terms without those operators.",
+          "text": "The formula for calculating KCCP in paragraph 2 lost the mathematical symbols and formatting (such as the minus signs, multiplication dots, and equals sign) that separated the variable terms, leaving the expression as a run of characters without those operators.",
           "fallback": false,
           "citations": [
             {
@@ -115,7 +116,7 @@
           ]
         },
         {
-          "text": "The surrounding wording of the article, including the paragraph text and the list of defined terms, is otherwise unchanged between the two versions.",
+          "text": "The numbering style of paragraphs 1 through 4 also changed from a numeral followed by a line break to a numeral followed directly by the paragraph text on the same line.",
           "fallback": false,
           "citations": [
             {
@@ -148,7 +149,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -265,7 +267,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -383,7 +386,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -398,8 +402,8 @@
           "location": "AR 81"
         },
         "heading": "Transparency and data availability",
-        "before": "Article 81\nTransparency and data availability\n1.\nA trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2.\nA trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3.\nA trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n\n(a) ESMA;\n\n(b) the ESRB;\n\n\n(c) the competent authority supervising CCPs accessing the trade repository;\n\n(d) the competent authority supervising the trading venues of the reported contracts;\n\n(e) the relevant members of the ESCB;\n\n(f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n\n(g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;\n\n(h) the relevant Union securities and market authorities;\n\n(i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;\n\n(j) the Agency for the Cooperation of Energy Regulators.\n4.\nESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5.\nIn order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the frequency and the details of the information referred to in paragraphs 1 and 3 as well as operational standards required in order to aggregate and compare data across repositories and for the entities referred to in paragraph 3 to have access to information as necessary. Those draft regulatory technical standards shall aim to ensure that the information published under paragraph 1 is not capable of identifying a party to any contract.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
-        "after": "Article 81\nTransparency and data availability\n1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n(a) ESMA;\n(b) the ESRB;\n(c) the competent authority supervising CCPs accessing the trade repository;\n(d) the competent authority supervising the trading venues of the reported contracts;\n(e) the relevant members of the ESCB;\n(f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n(g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;\n(h) the relevant Union securities and market authorities;\n(i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;\n(j) the Agency for the Cooperation of Energy Regulators;\n(k) the resolution authorities designated under Article 3 of Directive 2014/59/EU of the European Parliament and the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190)..\n4. ESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5. In order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the frequency and the details of the information referred to in paragraphs 1 and 3 as well as operational standards required in order to aggregate and compare data across repositories and for the entities referred to in paragraph 3 to have access to information as necessary. Those draft regulatory technical standards shall aim to ensure that the information published under paragraph 1 is not capable of identifying a party to any contract.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "before": "Article 81\nTransparency and data availability\n1.\nA trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2.\nA trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3.\nA trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n\n(a) ESMA;\n\n(b) the ESRB;\n\n\n(c) the competent authority supervising CCPs accessing the trade repository;\n\n(d) the competent authority supervising the trading venues of the reported contracts;\n\n(e) the relevant members of the ESCB;\n\n(f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n\n(g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids\nOJ L 142, 30.4.2004, p. 12.;\n\n(h) the relevant Union securities and market authorities;\n\n(i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;\n\n(j) the Agency for the Cooperation of Energy Regulators.\n4.\nESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5.\nIn order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the frequency and the details of the information referred to in paragraphs 1 and 3 as well as operational standards required in order to aggregate and compare data across repositories and for the entities referred to in paragraph 3 to have access to information as necessary. Those draft regulatory technical standards shall aim to ensure that the information published under paragraph 1 is not capable of identifying a party to any contract.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 81\nTransparency and data availability\n1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.\n2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.\n3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:\n(a) ESMA;\n(b) the ESRB;\n(c) the competent authority supervising CCPs accessing the trade repository;\n(d) the competent authority supervising the trading venues of the reported contracts;\n(e) the relevant members of the ESCB;\n(f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;\n(g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids\nOJ L 142, 30.4.2004, p. 12.;\n(h) the relevant Union securities and market authorities;\n(i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;\n(j) the Agency for the Cooperation of Energy Regulators;\n(k) the resolution authorities designated under Article 3 of Directive 2014/59/EU of the European Parliament and the Council\nDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190)..\n4. ESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.\n5. In order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the frequency and the details of the information referred to in paragraphs 1 and 3 as well as operational standards required in order to aggregate and compare data across repositories and for the entities referred to in paragraph 3 to have access to information as necessary. Those draft regulatory technical standards shall aim to ensure that the information published under paragraph 1 is not capable of identifying a party to any contract.\nESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
         "previous_location": null,
         "changed_within": [
           "AR 81 PA 3 ALN 1 PTA (j)",
@@ -447,7 +451,26 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The list of entities entitled to receive necessary information from a trade repository under paragraph 3 has been changed so that point (j), previously ending the list with the Agency for the Cooperation of Energy Regulators, is followed by a new point (k) naming resolution authorities designated under Article 3 of Directive 2014/59/EU.",
+          "text": "The list of entities to which a trade repository must make necessary information available now includes a new point (k) covering resolution authorities designated under Article 3 of Directive 2014/59/EU, alongside a citation to that directive.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0648",
+                  "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
+                },
+                "version": "02012R0648-20140702",
+                "location": "AR 81"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_81",
+              "label": "Art. 81, 02012R0648-20140702"
+            }
+          ]
+        },
+        {
+          "text": "Point (j), which previously ended the list with the Agency for the Cooperation of Energy Regulators, is unchanged in substance but is followed by this new addition rather than closing the list.",
           "fallback": false,
           "citations": [
             {
@@ -480,7 +503,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -537,7 +561,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -702,6 +727,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 16891,
       "output_tokens": 918,
@@ -721,5 +749,33 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 8127,
+        "output_tokens": 510,
+        "requests": 2,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
+    }
+  ],
+  "evidence": [
+    {
+      "location": "AR 50a",
+      "occurrence": 0,
+      "digest": "sha256:31f1fb9eaf28c9fa9a700cbab5a7850b31c190388da40053046996f1dabf48a2"
+    },
+    {
+      "location": "AR 81",
+      "occurrence": 0,
+      "digest": "sha256:75f7922f0e0f6fcd53d03cbf9d05bbcd83da453f1ca081ca5cc9cb2fb3a27e74"
+    }
+  ]
 }
