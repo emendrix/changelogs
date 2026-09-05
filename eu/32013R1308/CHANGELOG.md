@@ -468,7 +468,7 @@ The rest of Article 222a, including paragraphs 1, 3 and 4, remains textually unc
 ### `02013R1308-20241108` → `02013R1308-20260318`
 
 - **Act** `eu:32013R1308` · **In force** 2026-03-18 · **Detected** 2026-09-04
-- **Touched** 15 provisions — 15 substantive · 0 date-only · **2 disputed**
+- **Touched** 15 provisions — 13 substantive · 0 date-only · 2 with no text · **2 disputed**
 - **Diff** 0 inserted · 15 modified · 0 deleted · 0 renumbered · 0 deferred · 245 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20241108` · `v2` = `02013R1308-20260318`
@@ -681,7 +681,7 @@ A new paragraph 3a is added setting out conditions a Member State may attach to 
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -724,7 +724,7 @@ The former point (d) on co-existence of vines is retained in substance but is no
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
