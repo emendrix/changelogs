@@ -4518,7 +4518,7 @@ No other wording, table entries, or structure in section 1 of Annex VII changed 
 ### `02008R1272-20181201` → `02008R1272-20190726`
 
 - **Act** `eu:32008R1272` · **In force** 2019-07-26 · **Detected** 2026-09-04
-- **Touched** 7 provisions — 7 substantive · 0 date-only · **7 disputed**
+- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **7 disputed**
 - **Diff** 3 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20181201` · `v2` = `02008R1272-20190726`
@@ -4672,7 +4672,7 @@ A new Article 53c has been added, stating that the Commission shall adopt a sepa
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20190726 -->
