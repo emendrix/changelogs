@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -25,8 +25,9 @@
   },
   "counts": {
     "touched": 6,
-    "substantive": 6,
+    "substantive": 1,
     "date_only": 0,
+    "textless": 5,
     "disputed": 6,
     "quoted": 0,
     "unexplained": 5
@@ -78,7 +79,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "detail": "32019R1020, 1.000 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
             "change_types": []
           }
         },
@@ -87,8 +88,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -136,7 +137,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "detail": "32019R1020, 1.000 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
             "change_types": []
           }
         },
@@ -145,8 +146,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -199,7 +200,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "detail": "32019R1020, 1.000 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
             "change_types": []
           }
         },
@@ -354,7 +355,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "detail": "32019R1020, 1.000 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
             "change_types": []
           }
         },
@@ -363,8 +364,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -421,7 +422,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -471,7 +472,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32019R1020, 1.000 of its instruction clauses read",
+            "detail": "32019R1020, 1.000 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
             "change_types": []
           }
         },
@@ -480,8 +481,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -863,7 +864,7 @@
         "units": [
           "AN III"
         ],
-        "note": "32019R1020, 1.000 of its instruction clauses read",
+        "note": "32019R1020, 1.000 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
         "claims": [
           {
             "location": "AN III",
@@ -1091,6 +1092,21 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 6,
+      "repaired": 6,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
-  ]
+  ],
+  "evidence": []
 }
