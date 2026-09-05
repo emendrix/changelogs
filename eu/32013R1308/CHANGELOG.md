@@ -7633,7 +7633,7 @@ This point did not appear in the earlier version of the Annex, which ended at po
 ### `32013R1308` → `02013R1308-20140101`
 
 - **Act** `eu:32013R1308` · **In force** 2014-01-01 · **Detected** 2026-09-04
-- **Touched** 19 provisions — 19 substantive · 0 date-only · **18 disputed**
+- **Touched** 19 provisions — 18 substantive · 0 date-only · 1 with no text · **18 disputed**
 - **Diff** 1 inserted · 16 modified · 2 deleted · 0 renumbered · 0 deferred · 231 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `32013R1308` · `v2` = `02013R1308-20140101`
@@ -7966,7 +7966,7 @@ The rest of paragraph 1, and paragraphs 2 and 3, remain textually identical betw
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
