@@ -5808,7 +5808,7 @@ The list of entities entitled to receive necessary information from a trade repo
 ### `32012R0648` → `02012R0648-20140101`
 
 - **Act** `eu:32012R0648` · **In force** 2013-11-08, 2014-01-01 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 9 substantive · 0 date-only · **8 disputed**
+- **Touched** 9 provisions — 6 substantive · 0 date-only · 3 with no text · **8 disputed**
 - **Diff** 4 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 91 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `32012R0648` · `v2` = `02012R0648-20140101`
@@ -5876,7 +5876,7 @@ The list of entities to which the Regulation does not apply in Article 1(4) now 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5886,7 +5886,7 @@ The list of entities to which the Regulation does not apply in Article 1(4) now 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5894,16 +5894,17 @@ The list of entities to which the Regulation does not apply in Article 1(4) now 
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-This provision, Article 50a on the calculation of K CCP, is newly added and sets out a formula and methodology for a CCP to calculate hypothetical capital for the purposes of Article 308 of Regulation (EU) No 575/2013. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a)
+This provision is entirely new, adding Article 50a which sets out how a CCP must calculate the hypothetical capital figure KCCP, including the formula and its components, for purposes of Article 308 of Regulation (EU) No 575/2013. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a)
 
-It specifies the inputs to the formula, requires the calculation to be performed at least quarterly or more often if required by competent authorities of clearing members that are institutions, and directs EBA to develop implementing technical standards on the frequency, dates, and situations requiring higher-frequency calculation, to be submitted to the Commission by 1 January 2014. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a)
+It also specifies that the calculation must be performed at least quarterly or more often if required by the competent authorities of clearing members that are institutions, and it directs EBA to develop implementing technical standards on the frequency and timing of the calculation and on when higher frequencies may be required, to be submitted to the Commission by 1 January 2014. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a)
 
 *after* (`02012R0648-20140101`)
 
 > Article 50a
 > Calculation of KCCP
 > 1.
-> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 >
 > 2.
 > A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio
@@ -5923,7 +5924,7 @@ It specifies the inputs to the formula, requires the calculation to be performed
 > 3.
 > A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
 > 4.
-> For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to […truncated by emendrix: 575 characters omitted…]
+> For the purpose of paragraph 3, EBA shall develop draft implementing technical standards t […truncated by emendrix: 576 characters omitted…]
 
 **INSERTED · Art. 50b — General rules for the calculation of K CCP** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -6039,13 +6040,13 @@ This paragraph 5a did not appear in the earlier version of Article 89. [Art. 89,
 > 2.
 > In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of e […truncated by emendrix: 7291 characters omitted…]
 
-**MODIFIED · TIT IV** · applies from: unknown
+**MODIFIED · Title IV** · applies from: unknown
 
 *amended by* `32013R0575`
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20140101 -->

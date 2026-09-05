@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -26,8 +26,9 @@
   },
   "counts": {
     "touched": 9,
-    "substantive": 9,
+    "substantive": 6,
     "date_only": 0,
+    "textless": 3,
     "disputed": 8,
     "quoted": 0,
     "unexplained": 3
@@ -117,7 +118,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -174,7 +176,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -229,7 +232,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -245,7 +249,7 @@
         },
         "heading": "Calculation of K CCP",
         "before": null,
-        "after": "Article 50a\nCalculation of KCCP\n1.\nFor the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n\n2.\nA CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio\nwhere:\n\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3.\nA CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4.\nFor the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
+        "after": "Article 50a\nCalculation of KCCP\n1.\nFor the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms\nOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.\n\n2.\nA CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · capital ratio\nwhere:\n\nEBRMi\nexposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member;\nIMi\nthe initial margin posted to the CCP by clearing member i;\nDFi\nthe pre-funded contribution of clearing member i;\nRW\na risk weight of 20 %;\ncapital ratio\n8 %.\nAll values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.\n3.\nA CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.\n4.\nFor the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:\n\n(a) the frequency and dates of the calculation laid down in paragraph 2;\n\n(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).\nEBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [],
@@ -280,7 +284,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "This provision, Article 50a on the calculation of K CCP, is newly added and sets out a formula and methodology for a CCP to calculate hypothetical capital for the purposes of Article 308 of Regulation (EU) No 575/2013.",
+          "text": "This provision is entirely new, adding Article 50a which sets out how a CCP must calculate the hypothetical capital figure KCCP, including the formula and its components, for purposes of Article 308 of Regulation (EU) No 575/2013.",
           "fallback": false,
           "citations": [
             {
@@ -299,7 +303,7 @@
           ]
         },
         {
-          "text": "It specifies the inputs to the formula, requires the calculation to be performed at least quarterly or more often if required by competent authorities of clearing members that are institutions, and directs EBA to develop implementing technical standards on the frequency, dates, and situations requiring higher-frequency calculation, to be submitted to the Commission by 1 January 2014.",
+          "text": "It also specifies that the calculation must be performed at least quarterly or more often if required by the competent authorities of clearing members that are institutions, and it directs EBA to develop implementing technical standards on the frequency and timing of the calculation and on when higher frequencies may be required, to be submitted to the Commission by 1 January 2014.",
           "fallback": false,
           "citations": [
             {
@@ -319,7 +323,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -390,7 +395,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -480,7 +486,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -551,7 +558,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -669,7 +677,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -726,7 +735,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -984,6 +994,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 24153,
       "output_tokens": 1551,
@@ -1003,5 +1016,28 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3083,
+        "output_tokens": 284,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
+    }
+  ],
+  "evidence": [
+    {
+      "location": "AR 50a",
+      "occurrence": 0,
+      "digest": "sha256:007b3f8ba61d1212db1b18ae7074b9f6ad388ef97b65527b72991d7b5c553742"
+    }
+  ]
 }
