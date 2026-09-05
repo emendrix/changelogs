@@ -158,7 +158,7 @@ This is a new Article 13a establishing rules for making information under this R
 ### `02009R1060-20150621` → `02009R1060-20190101`
 
 - **Act** `eu:32009R1060` · **In force** 2018-06-01, 2019-01-01 · **Detected** 2026-08-13
-- **Touched** 24 provisions — 24 substantive · 0 date-only · **16 disputed**
+- **Touched** 24 provisions — 8 substantive · 0 date-only · 16 with no text · **16 disputed**
 - **Diff** 2 inserted · 22 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 16 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20150621` · `v2` = `02009R1060-20190101`
@@ -191,9 +191,9 @@ It also now refers to securitisation instruments instead of structured finance i
 
 *within* `AR 3 PA 1 ALN 1 PTA (l)` · *amended by* `32017R2402`
 
-Point (l) renames the term previously called "structured finance instrument" to "securitisation instrument". [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20150621#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#art_3)
+The defined term in point (l) is renamed from 'structured finance instrument' to 'securitisation instrument'. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20150621#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#art_3)
 
-The definition's cross-reference also changes from Article 4(36) of Directive 2006/48/EC to Article 2(1) of Regulation (EU) 2017/2402, the Securitisation Regulation. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#art_3)
+The cross-reference for that definition changes from Article 4(36) of Directive 2006/48/EC to Article 2(1) of Regulation (EU) 2017/2402, referred to as the Securitisation Regulation. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#art_3)
 
 *before* (`02009R1060-20150621`)
 
@@ -206,7 +206,7 @@ The definition's cross-reference also changes from Article 4(36) of Directive 20
 > (d) rating analyst means a person who performs analytical functions that are necessary for the issuing of a credit rating;
 > (e) lead rating analyst means a person with primary responsibility for elaborating a credit rating or for communicating with the issuer with respect to a particular credit rating or, generally, with respect to the credit rating of a financial instrument issued by that issuer and, where relevant, for preparing recommendations to the rating committee in relation to such rating;
 > (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
-> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 7835 characters omitted…]
+> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 7844 characters omitted…]
 
 *after* (`02009R1060-20190101`)
 
@@ -219,7 +219,7 @@ The definition's cross-reference also changes from Article 4(36) of Directive 20
 > (d) rating analyst means a person who performs analytical functions that are necessary for the issuing of a credit rating;
 > (e) lead rating analyst means a person with primary responsibility for elaborating a credit rating or for communicating with the issuer with respect to a particular credit rating or, generally, with respect to the credit rating of a financial instrument issued by that issuer and, where relevant, for preparing recommendations to the rating committee in relation to such rating;
 > (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
-> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 7863 characters omitted…]
+> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 7872 characters omitted…]
 
 **MODIFIED · Art. 4** · applies from: unknown
 
@@ -227,7 +227,7 @@ The definition's cross-reference also changes from Article 4(36) of Directive 20
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -237,7 +237,7 @@ The definition's cross-reference also changes from Article 4(36) of Directive 20
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -247,7 +247,7 @@ The definition's cross-reference also changes from Article 4(36) of Directive 20
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -257,7 +257,7 @@ The definition's cross-reference also changes from Article 4(36) of Directive 20
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -293,7 +293,7 @@ The only change is a terminology substitution in the first paragraph of Article 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -303,7 +303,7 @@ The only change is a terminology substitution in the first paragraph of Article 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -313,7 +313,7 @@ The only change is a terminology substitution in the first paragraph of Article 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -323,7 +323,7 @@ The only change is a terminology substitution in the first paragraph of Article 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -333,7 +333,7 @@ The only change is a terminology substitution in the first paragraph of Article 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -407,7 +407,7 @@ In paragraph 3, the term used for the type of instrument covered by the addition
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -417,7 +417,7 @@ In paragraph 3, the term used for the type of instrument covered by the addition
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -427,7 +427,7 @@ In paragraph 3, the term used for the type of instrument covered by the addition
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -461,11 +461,11 @@ The rest of the provision, including all other paragraphs and reporting deadline
 
 *within* `AN I SCT A SCT 2`, `AN I SCT B SCT 5`, `AN I SCT D` · *amended by* `32017R2402`, `32013R0462`
 
-In Section A point 2, references to structured finance instruments are replaced with references to securitisation instruments in the passage on board member expertise. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#anx_I)
+In Section A point 2, the reference to credit ratings and markets in structured finance instruments was replaced with a reference to securitisation instruments. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20150621#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#anx_I)
 
-In Section B point 5, the wording on rating analysts not making proposals or recommendations regarding the design of instruments is changed from structured finance instruments to securitisation instruments. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#anx_I)
+In Section B point 5, the reference to the design of structured finance instruments was replaced with a reference to securitisation instruments. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20150621#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#anx_I)
 
-In Section D, Part II, the heading and points 1 and 2 replace mentions of structured finance instruments with securitisation instruments, while point 3 and point 4 of the same part continue to refer to structured finance instruments and structured finance products respectively. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#anx_I)
+In Section D, Part II's heading and points 1 and 2 now refer to securitisation instruments and rating a securitisation instrument, rather than structured finance instruments and rating a structured finance instrument, while points 3 and 4 of that Part still refer to structured finance instruments and structured finance products. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20150621#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#anx_I)
 
 *before* (`02009R1060-20150621`)
 
@@ -480,7 +480,7 @@ In Section D, Part II, the heading and points 1 and 2 replace mentions of struct
 > 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34440 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34444 characters omitted…]
 
 *after* (`02009R1060-20190101`)
 
@@ -495,7 +495,7 @@ In Section D, Part II, the heading and points 1 and 2 replace mentions of struct
 > 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34416 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34420 characters omitted…]
 
 **MODIFIED · Annex III — ANNEX III** · applies from: unchanged
 
@@ -537,7 +537,7 @@ The same substitution of "structured finance instruments" with "securitisation i
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -547,7 +547,7 @@ The same substitution of "structured finance instruments" with "securitisation i
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -557,7 +557,7 @@ The same substitution of "structured finance instruments" with "securitisation i
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -567,7 +567,7 @@ The same substitution of "structured finance instruments" with "securitisation i
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20190101 -->
