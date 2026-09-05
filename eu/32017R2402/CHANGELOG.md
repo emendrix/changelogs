@@ -26,9 +26,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 2 ALN 1 PO 23`, `AR 2 ALN 1 PO 24`, `AR 2 ALN 1 PO 25`, `AR 2 ALN 1 PO 26`, `AR 2 ALN 1 PO 27`, `AR 2 ALN 1 PO 28`, `AR 2 ALN 1 PO 29`, `AR 2 ALN 1 PO 30`, `AR 2 ALN 1 PO 31` · *dates* +2019-11-27 · *amended by* `32021R0557`
 
-The list of definitions is extended with nine new points, numbered (24) through (31), covering terms such as non-performing exposure, NPE securitisation, credit protection agreement, credit protection premium, credit protection payment, synthetic excess spread, sustainability factors and non-refundable purchase price discount. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_2)
+The later version adds nine new defined terms, numbered (24) through (31), covering non-performing exposure, NPE securitisation, credit protection agreement, credit protection premium, credit protection payment, synthetic excess spread, sustainability factors, and non-refundable purchase price discount, none of which appeared in the earlier list of definitions. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_2)
 
-The prior text ended after point (23) on securitisation repository and the related cross-reference to Regulation (EU) No 648/2012, whereas the later text keeps that same point (23) and cross-reference but continues on with the additional definitions. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_2)
+All twenty-three definitions previously set out, including securitisation repository, remain worded the same in both versions. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_2)
 
 *before* (`32017R2402`)
 
@@ -43,7 +43,7 @@ The prior text ended after point (23) on securitisation repository and the relat
 > (3) originator means an entity which:
 > (a) itself or through related entities, directly or indirectly, was involved in the original agreement which created the obligations or potential obligations of the debtor or potential debtor giving rise to the exposures being securitised; or
 > (b) purchases a third party’s exposures on its own account and then securitises them;
-> (4) resecuritisation means securitisation where at least o […truncated by emendrix: 6938 characters omitted…]
+> (4) resecuritisation means securitisation where at least o […truncated by emendrix: 6939 characters omitted…]
 
 *after* (`02017R2402-20210409`)
 
@@ -58,17 +58,17 @@ The prior text ended after point (23) on securitisation repository and the relat
 > (3) originator means an entity which:
 > (a) itself or through related entities, directly or indirectly, was involved in the original agreement which created the obligations or potential obligations of the debtor or potential debtor giving rise to the exposures being securitised; or
 > (b) purchases a third party’s exposures on its own account and then securitises them;
-> (4) resecuritisation means securitisation where at least o […truncated by emendrix: 9300 characters omitted…]
+> (4) resecuritisation means securitisation where at least o […truncated by emendrix: 9302 characters omitted…]
 
 **MODIFIED · Art. 4 — Requirements for SSPEs** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 4 ALN 1`, `AR 4 ALN 1 PTA (a)`, `AR 4 ALN 1 PTA (aa)` · *dates* +2015-05-20 +2021-04-09 · *amended by* `32021R0557`
 
-Point (a) previously referred to a third country being listed as high-risk and non-cooperative by the FATF, but now instead refers to a third country being listed as high-risk with strategic deficiencies in its anti-money laundering and counter-terrorist financing regime under Article 9 of Directive (EU) 2015/849. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_4)
+Point (a) no longer refers to FATF high-risk and non-cooperative jurisdiction listings, and instead refers to a third country being listed as high-risk with strategic deficiencies in its anti-money laundering and counter terrorist financing regime under Article 9 of Directive (EU) 2015/849. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_4)
 
-A new point (aa) has been added covering a third country listed in Annex I of the EU list of non-cooperative jurisdictions for tax purposes. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_4)
+A new point (aa) has been added, covering third countries listed in Annex I of the EU list of non-cooperative jurisdictions for tax purposes. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_4)
 
-A new final paragraph has also been added requiring an investor in an SSPE established after 9 April 2021 in a jurisdiction listed in Annex II for operating a harmful tax regime to notify the investment to the competent tax authorities of the Member State where the investor is resident for tax purposes. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_4)
+A new final paragraph has been added requiring notification by the investor to competent tax authorities where an SSPE is established after 9 April 2021 in a jurisdiction mentioned in Annex II for operating a harmful tax regime, a paragraph not present in the earlier version. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_4)
 
 *before* (`32017R2402`)
 
@@ -83,10 +83,11 @@ A new final paragraph has also been added requiring an investor in an SSPE estab
 > Article 4
 > Requirements for SSPEs
 > SSPEs shall not be established in a third country to which any of the following applies:
-> (a) the third country is listed as a high-risk third country that has strategic deficiencies in its regime on anti-money laundering and counter terrorist financing, in accordance with Article 9 of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).;
+> (a) the third country is listed as a high-risk third country that has strategic deficiencies in its regime on anti-money laundering and counter terrorist financing, in accordance with Article 9 of Directive (EU) 2015/849 of the European Parliament and of the Council
+> Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).;
 > (aa) the third country is listed in Annex I of the EU list of non-cooperative jurisdictions for tax purposes;
 > (b) the third country has not signed an agreement with a Member State to ensure that that third country fully complies with the standards provided for in Article 26 of the Organisation for Economic Cooperation and Development (OECD) Model Tax Convention on Income and on Capital or in the OECD Model Agreement on the Exchange of Information on Tax Matters, and ensures an effective exchange of information on tax matters, including any multilateral tax agreements.
-> For an SSPE established, after 9 April 2021, in a jurisdiction mentioned in Annex II for the reason of oper […truncated by emendrix: 207 characters omitted…]
+> For an SSPE established, after 9 April 2021, in a jurisdiction mentioned in Annex II for the reason of ope […truncated by emendrix: 208 characters omitted…]
 
 **MODIFIED · Art. 5 — Due-diligence requirements for institutional investors** · applies from: unchanged
 
@@ -118,11 +119,11 @@ This point is absent from the earlier version of Article 5(1), which ends at poi
 
 *within* `AR 6 PA 1 ALN 3`, `AR 6 PA 1 ALN 4`, `AR 6 PA 3a`, `AR 6 PA 7 ALN 1 PTA (f)`, `AR 6 PA 7 ALN 1 PTA (g)`, `AR 6 PA 7 ALN 2` · *dates* -2018-07-18 +2021-10-10 · *amended by* `32021R0557`
 
-Paragraph 1 now adds that a retainer must take into account fees that may in practice reduce the effective material net economic interest, and it adds a provision allowing the requirement to be fulfilled by the servicer in the case of traditional NPE securitisations under specified conditions. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_6)
+Paragraph 1 now adds that any fees usable to reduce the effective material net economic interest must be taken into account when measuring that interest, and that for traditional NPE securitisations the retention requirement may also be fulfilled by the servicer if it can show relevant expertise and adequate policies, procedures and risk-management controls. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_6)
 
-A new paragraph 3a is inserted setting out how the retention of a material net economic interest is to be calculated in the case of NPE securitisations where a non-refundable purchase price discount has been agreed, including how the net value of a non-performing exposure is to be determined. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_6)
+A new paragraph 3a is added setting out how the material net economic interest is to be calculated for NPE securitisations where a non-refundable purchase price discount has been agreed, including how the net value of a non-performing exposure is derived and what the discount may include. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_6)
 
-Paragraph 7 adds two new points, (f) and (g), concerning the modalities of retaining risk for NPE securitisations under paragraphs 3 and 3a and the impact of fees on the effective material net economic interest, and the deadline for EBA to submit the draft regulatory technical standards to the Commission is changed from 18 July 2018 to 10 October 2021. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_6)
+Paragraph 7 gains two new points, (f) and (g), covering the modalities of retaining risk under paragraphs 3 and 3a for NPE securitisations and the impact of fees on the effective material net economic interest, and the deadline for EBA to submit the draft regulatory technical standards to the Commission is changed from 18 July 2018 to 10 October 2021. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_6)
 
 *before* (`32017R2402`)
 
@@ -130,7 +131,7 @@ Paragraph 7 adds two new points, (f) and (g), concerning the modalities of retai
 > Risk retention
 > 1. The originator, sponsor or original lender of a securitisation shall retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 %. That interest shall be measured at the origination and shall be determined by the notional value for off-balance-sheet items. Where the originator, sponsor or original lender have not agreed between them who will retain the material net economic interest, the originator shall retain the material net economic interest. There shall be no multiple applications of the retention requirements for any given securitisation. The material net economic interest shall not be split amongst different types of retainers and not be subject to any credit-risk mitigation or hedging.
 > For the purposes of this Article, an entity shall not be considered to be an originator where the entity has been established or operates for the sole purpose of securitising exposures.
-> 2. Originators shall not select assets to be transferred to the SSPE with the aim of rendering losses on the assets transferred to the SSPE, measured over the life of the transaction, or over a maximum of 4 years where the life of the transaction is longer than four years, higher than the losses over the same period on comparable assets held on the balance sheet of the originator. Where the competent authority finds evidence suggesting contravention of that prohibition, the competent authority shall investigate the performance of asset […truncated by emendrix: 6656 characters omitted…]
+> 2. Originators shall not select assets to be transferred to the SSPE with the aim of rendering losses on the assets transferred to the SSPE, measured over the life of the transaction, or over a maximum of 4 years where the life of the transaction is longer than four years, higher than the losses over the same period on comparable assets held on the balance sheet of the originator. Where the competent authority finds evidence suggesting contravention of that prohibition, the competent authority shall investigate the performance of asset […truncated by emendrix: 6660 characters omitted…]
 
 *after* (`02017R2402-20210409`)
 
@@ -139,7 +140,7 @@ Paragraph 7 adds two new points, (f) and (g), concerning the modalities of retai
 > 1. The originator, sponsor or original lender of a securitisation shall retain on an ongoing basis a material net economic interest in the securitisation of not less than 5 %. That interest shall be measured at the origination and shall be determined by the notional value for off-balance-sheet items. Where the originator, sponsor or original lender have not agreed between them who will retain the material net economic interest, the originator shall retain the material net economic interest. There shall be no multiple applications of the retention requirements for any given securitisation. The material net economic interest shall not be split amongst different types of retainers and not be subject to any credit-risk mitigation or hedging.
 > For the purposes of this Article, an entity shall not be considered to be an originator where the entity has been established or operates for the sole purpose of securitising exposures.
 > When measuring the material net economic interest, the retainer shall take into account any fees that may in practice be used to reduce the effective material net economic interest.
-> In the case of traditional NPE securitisations, the requirement of this paragraph may also be fulfilled by the servicer provided that the servicer can demonstrate that it has expertise in servicing exposures of a similar nature to those securitised and that it has well-documented and adequate policies, procedures and risk-management controls in place relati […truncated by emendrix: 8752 characters omitted…]
+> In the case of traditional NPE securitisations, the requirement of this paragraph may also be fulfilled by the servicer provided that the servicer can demonstrate that it has expertise in servicing exposures of a similar nature to those securitised and that it has well-documented and adequate policies, procedures and risk-management controls in place relati […truncated by emendrix: 8756 characters omitted…]
 
 **MODIFIED · Art. 9 — Criteria for credit-granting** · applies from: unchanged
 
@@ -406,9 +407,9 @@ The phrasing describing the third party changed from 'a third party referred to 
 
 *within* `AR 29 PA 5 ALN 1` · *dates* -2019-01-18 +2021-04-08 +2021-10-10 · *amended by* `32021R0557`
 
-The deadline by which Member States must inform the Commission and ESMA of the designation of competent authorities under paragraph 5 is changed from 18 January 2019 to 10 October 2021. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_29)
+In paragraph 5, the deadline for Member States to inform the Commission and ESMA of designated competent authorities was changed from 18 January 2019 to 10 October 2021. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_29)
 
-A new sentence is added to paragraph 5 providing that, until a competent authority is designated to supervise compliance with Articles 26a to 26e, the competent authority already designated to supervise compliance with Articles 18 to 27 as applicable at 8 April 2021 is also to supervise compliance with Articles 26a to 26e. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_29)
+A new sentence was added to paragraph 5 providing that, until a competent authority is designated to supervise compliance with Articles 26a to 26e, the competent authority designated to supervise compliance with Articles 18 to 27 as applicable at 8 April 2021 shall also supervise compliance with Articles 26a to 26e. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_29)
 
 *before* (`32017R2402`)
 
@@ -418,9 +419,10 @@ A new sentence is added to paragraph 5 providing that, until a competent authori
 > (a) for insurance and reinsurance undertakings, the competent authority designated in accordance with point (10) of Article 13 of Directive 2009/138/EC;
 > (b) for alternative investment fund managers, the competent authority responsible designated in accordance with Article 44 of Directive 2011/61/EU;
 > (c) for UCITS and UCITS management companies, the competent authority designated in accordance with Article 97 of Directive 2009/65/EC;
-> (d) for institutions for occupational retirement provision, the competent authority designated in accordance with point (g) of Article 6 of Directive 2003/41/EC of the European Parliament and of the CouncilDirective 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for occupational retirement provision (OJ L 235, 23.9.2003, p. 10).;
+> (d) for institutions for occupational retirement provision, the competent authority designated in accordance with point (g) of Article 6 of Directive 2003/41/EC of the European Parliament and of the Council
+> Directive 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for occupational retirement provision (OJ L 235, 23.9.2003, p. 10).;
 > (e) for credit institutions or investments firms, the competent authority designated in accordance with Article 4 of Directive 2013/36/EU, including the ECB with regard to specific tasks conferred on it by Regulation (EU) No 1024/2013.
-> 2. Competent authorities responsible for the supervision of sponsors in accordance with Article 4 of Directive 2013/36/EU, including the ECB with regard to specific tasks c […truncated by emendrix: 2923 characters omitted…]
+> 2. Competent authorities responsible for the supervision of sponsors in accordance with Article 4 of Directive 2013/36/EU, including the ECB with regard to specific tasks […truncated by emendrix: 2925 characters omitted…]
 
 *after* (`02017R2402-20210409`)
 
@@ -430,9 +432,10 @@ A new sentence is added to paragraph 5 providing that, until a competent authori
 > (a) for insurance and reinsurance undertakings, the competent authority designated in accordance with point (10) of Article 13 of Directive 2009/138/EC;
 > (b) for alternative investment fund managers, the competent authority responsible designated in accordance with Article 44 of Directive 2011/61/EU;
 > (c) for UCITS and UCITS management companies, the competent authority designated in accordance with Article 97 of Directive 2009/65/EC;
-> (d) for institutions for occupational retirement provision, the competent authority designated in accordance with point (g) of Article 6 of Directive 2003/41/EC of the European Parliament and of the CouncilDirective 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for occupational retirement provision (OJ L 235, 23.9.2003, p. 10).;
+> (d) for institutions for occupational retirement provision, the competent authority designated in accordance with point (g) of Article 6 of Directive 2003/41/EC of the European Parliament and of the Council
+> Directive 2003/41/EC of the European Parliament and of the Council of 3 June 2003 on the activities and supervision of institutions for occupational retirement provision (OJ L 235, 23.9.2003, p. 10).;
 > (e) for credit institutions or investments firms, the competent authority designated in accordance with Article 4 of Directive 2013/36/EU, including the ECB with regard to specific tasks conferred on it by Regulation (EU) No 1024/2013.
-> 2. Competent authorities responsible for the supervision of sponsors in accordance with Article 4 of Directive 2013/36/EU, including the ECB with regard to specific tasks c […truncated by emendrix: 3282 characters omitted…]
+> 2. Competent authorities responsible for the supervision of sponsors in accordance with Article 4 of Directive 2013/36/EU, including the ECB with regard to specific tasks […truncated by emendrix: 3284 characters omitted…]
 
 **MODIFIED · Art. 30 — Powers of the competent authorities** · applies from: unchanged
 
@@ -500,9 +503,9 @@ The new paragraph 4 restates the warning and recommendation mechanism under Arti
 
 *within* `AR 32 PA 1 ALN 1 PTA (e)`, `AR 32 PA 2 ALN 1 PTA (d)`, `AR 32 PA 2 ALN 1 PTA (h)` · *amended by* `32021R0557`
 
-In point (e) of Article 32(1) and point (d) of Article 32(2), the reference to the requirements for STS designation now also includes Articles 26a to 26e, alongside the previously listed Articles 19 to 22 and 23 to 26. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_32)
+In point (e) of Article 32(1), the list of provisions whose failure can trigger sanctions now also includes Articles 26a to 26e, alongside the previously listed Articles 19 to 22 and 23 to 26. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_32)
 
-Point (h) of Article 32(2) now refers to a third party authorised to assess compliance with Articles 19 to 22, 23 to 26 or 26a to 26e, whereas the earlier text referred to a third party authorised to check compliance with Articles 19 to 22 or 23 to 26. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_32)
+The same addition of Articles 26a to 26e is made in Article 32(2)(d) and Article 32(2)(h), and in point (h) the third party's role is described as assessing compliance rather than checking it. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_32)
 
 *before* (`32017R2402`)
 
@@ -517,7 +520,7 @@ Point (h) of Article 32(2) now refers to a third party authorised to assess comp
 > (f) an originator or sponsor makes a misleading notification pursuant to Article 27(1);
 > (g) an originator or sponsor has failed to meet the requirements provided for in Article 27(4); or
 > (h) a third party authorised pursuant to Article 28 has failed to notify material changes to the information provided in accordance with Article 28(1), or any other changes that could reasonably be considered to affect the assessment of its competent authority.
-> Member States shall also ensure that administrative sanctions an […truncated by emendrix: 3739 characters omitted…]
+> Member States shall also ensure that administrative sanctions an […truncated by emendrix: 3740 characters omitted…]
 
 *after* (`02017R2402-20210409`)
 
@@ -532,7 +535,7 @@ Point (h) of Article 32(2) now refers to a third party authorised to assess comp
 > (f) an originator or sponsor makes a misleading notification pursuant to Article 27(1);
 > (g) an originator or sponsor has failed to meet the requirements provided for in Article 27(4); or
 > (h) a third party authorised pursuant to Article 28 has failed to notify material changes to the information provided in accordance with Article 28(1), or any other changes that could reasonably be considered to affect the assessment of its competent authority.
-> Member States shall also ensure that admini […truncated by emendrix: 3804 characters omitted…]
+> Member States shall also ensure that admini […truncated by emendrix: 3805 characters omitted…]
 
 **INSERTED · Art. 43a — Transitional provisions for STS on-balance-sheet securitisations** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -596,9 +599,9 @@ The prior version of the article, which listed only points (a) through (d) and c
 
 *amended by* `32021R0557`
 
-A new Article 45a has been inserted, requiring EBA, working closely with ESMA and EIOPA, to publish by 1 November 2021 a report examining the development of a specific sustainable securitisation framework, covering disclosure and due diligence requirements, sustainability-factor content and methodology, alignment with existing sustainable-finance regulations, and possible effects on financial stability and market growth. [Art. 45a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_45a)
+A new Article 45a is added, requiring EBA, working closely with ESMA and EIOPA, to publish by 1 November 2021 a report examining the development of a specific sustainable securitisation framework covering disclosure and due diligence requirements, sustainability-factor information, alignment with other EU sustainable-finance measures, and possible effects on financial stability and market growth. [Art. 45a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_45a)
 
-The new article also directs EBA to draw on transparency requirements from Regulation (EU) 2019/2088 and seek input from the European Environment Agency and the Joint Research Centre, and directs the Commission to submit a further report to the European Parliament and Council, alongside the Article 46 review, possibly accompanied by a legislative proposal. [Art. 45a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_45a)
+The new article also directs EBA to draw on transparency requirements from Regulation (EU) 2019/2088 and to seek input from the European Environment Agency and the Joint Research Centre, and requires the Commission to submit a related report to the European Parliament and Council, potentially with a legislative proposal. [Art. 45a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_45a)
 
 *after* (`02017R2402-20210409`)
 
@@ -607,17 +610,18 @@ The new article also directs EBA to draw on transparency requirements from Regul
 > 1. By 1 November 2021, EBA, in close cooperation with ESMA and EIOPA, shall publish a report on developing a specific sustainable securitisation framework for the purpose of integrating sustainability-related transparency requirements into this Regulation. That report shall duly assess in particular:
 > (a) the implementation of proportionate disclosure and due diligence requirements relating to potential positive and adverse impacts of the assets financed by the underlying exposures on sustainability factors;
 > (b) the content, methodologies and presentation of information in respect of sustainability factors in relation to positive and adverse impacts on environmental, social and governance-related matters;
-> (c) how to establish a specific sustainable securitisation framework that mirrors or draws upon financial products covered under Articles 8 and 9 of Regulation (EU) 2019/2088 and takes into account, where appropriate, Regulation (EU) 2020/852 of the European Parliament and of the CouncilRegulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).;
+> (c) how to establish a specific sustainable securitisation framework that mirrors or draws upon financial products covered under Articles 8 and 9 of Regulation (EU) 2019/2088 and takes into account, where appropriate, Regulation (EU) 2020/852 of the European Parliament and of the Council
+> Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).;
 > (d) possible effects of a sustainable securitisation framework on financial stability, the scaling up of the Union securitisation market and of bank lending capacity.
-> 2. In drafting the report referred […truncated by emendrix: 658 characters omitted…]
+> 2. In drafting the report referre […truncated by emendrix: 659 characters omitted…]
 
 **MODIFIED · Art. 46 — Review** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 46 ALN 2 PTA (f)`, `AR 46 ALN 2 PTA (h)`, `AR 46 ALN 2 PTA (i)` · *dates* +2017-06-14 · *amended by* `32021R0557`
 
-Point (f) now refers to the requirements set out in both Article 22(4) and Article 26d(4), rather than to Article 22(4) alone, and changes the phrase about extending those requirements from 'need to be extended' to 'may be extended'. [Art. 46, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_46) [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_46)
+Point (f) now refers to the requirements set out in Articles 22(4) and 26d(4), rather than only Article 22(4), and changes wording from requiring an assessment of whether they need to be extended to whether they may be extended, with the underlying exposures wording otherwise similar. [Art. 46, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R2402#art_46) [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_46)
 
-Point (h) now ends with 'and' rather than a full stop, connecting it to a newly added point (i), which addresses further standardisation and disclosure requirements for traditional and synthetic securitisations, including bespoke private securitisations without a prospectus under Regulation (EU) 2017/1129. [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_46)
+Point (h) now ends with 'and' rather than concluding the list, and a new point (i) has been added addressing the possibility for further standardisation and disclosure requirements in view of evolving market practices, including through templates for traditional and synthetic securitisations and for bespoke private securitisations where no prospectus must be drawn up under Regulation (EU) 2017/1129. [Art. 46, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_46)
 
 *before* (`32017R2402`)
 
@@ -639,7 +643,7 @@ Point (h) now ends with 'and' rather than a full stop, connecting it to a newly 
 > (a) the effects of this Regulation, including the introduction of the STS securitisation designation, on the functioning of the market for securitisations in the Union, the contribution of securitisation to the real economy, in particular on access to credit for SMEs and investments, and interconnectedness between financial institutions and the stability of the financial sector;
 > (b) the differences in use of the modalities referred to in Article 6(3), based on the data reported pursuant to point (e)(iii) of the first subparagraph of Article 7(1). If the findings show an increase in prudential risks caused by the use of the modalities referred to in points (a), (b), (c) and (e) of Article 6(3), then suitable redress shall be considered;
 > (c) whether there has been a disproportionate rise of the number of transactions referred to in the third subparagraph of Article 7(2), since the application of this Regulation and whether market participants structured transactions in a way to circumvent the obligation under Article 7 to make available information through securitisation repositories;
-> (d) whether there is a need to extend disclosure requirements under Artic […truncated by emendrix: 2029 characters omitted…]
+> (d) whether there is a need to extend disclosure requirements under Artic […truncated by emendrix: 2030 characters omitted…]
 
 **MODIFIED · Section 1** · applies from: unknown
 
