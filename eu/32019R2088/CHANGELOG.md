@@ -116,11 +116,11 @@ The new article also sets a deadline of 30 December 2020 for submitting those dr
 
 *within* `AR 8 PA 2a`, `AR 8 PA 3 ALN 1`, `AR 8 PA 4` · *dates* +2020-06-18 +2020-06-22 +2021-06-01 +2022-06-01 · *amended by* `32020R0852`
 
-A new paragraph 2a is added requiring financial market participants that make available a financial product referred to in Article 6 of Regulation (EU) 2020/852 to include, in the disclosures under Article 6(1) and (3) of this Regulation, the information required under Article 6 of that Regulation. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20200712#art_8)
+A new paragraph 2a has been added requiring financial market participants making available a financial product referred to in Article 6 of Regulation (EU) 2020/852 to include in the Article 6(1) and (3) disclosures the information required under Article 6 of that Regulation. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_8)
 
-Paragraph 3 is altered to limit the mandate for regulatory technical standards on content and presentation of disclosures to information under paragraphs 1 and 2, rather than the whole Article. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20200712#art_8) [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_8)
+Paragraph 3 has been changed so that the regulatory technical standards it mandates now specify content and presentation of information disclosed under paragraphs 1 and 2 specifically, rather than under the Article generally. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20200712#art_8)
 
-A new paragraph 4 is added instructing the ESAs to develop draft regulatory technical standards on the content and presentation of the information referred to in paragraph 2a, including possible amendments to the paragraph 3 standards, with submission deadlines of 1 June 2021 for the objectives in points (a) and (b) of Article 9 of Regulation (EU) 2020/852 and 1 June 2022 for the objectives in points (c) to (f) of that Article. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20200712#art_8)
+A new paragraph 4 has been added directing the ESAs to develop regulatory technical standards on the content and presentation of the information referred to in paragraph 2a, including possible amendments to the paragraph 3 standards, with submission deadlines of 1 June 2021 for certain environmental objectives and 1 June 2022 for others. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_8)
 
 *before* (`32019R2088`)
 
@@ -142,18 +142,19 @@ A new paragraph 4 is added instructing the ESAs to develop draft regulatory tech
 > (a) information on how those characteristics are met;
 > (b) if an index has been designated as a reference benchmark, information on whether and how this index is consistent with those characteristics.
 > 2. Financial market participants shall include in the information to be disclosed pursuant to Article 6(1) and (3) an indication of where the methodology used for the calculation of the index referred to in paragraph 1 of this Article is to be found.
-> 2a. Where financial market participants make available a financial product as referred to in Article 6 of Regulation (EU) 2020/852 of the European Parliament and of the CouncilRegulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13)., they shall include in the information to be disclosed pursuant to Article 6(1) and (3) of this Regulation the information required under Article 6 of Regulation (EU) 2020/852.
-> 3. The ESA […truncated by emendrix: 2631 characters omitted…]
+> 2a. Where financial market participants make available a financial product as referred to in Article 6 of Regulation (EU) 2020/852 of the European Parliament and of the Council
+> Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13)., they shall include in the information to be disclosed pursuant to Article 6(1) and (3) of this Regulation the information required under Article 6 of Regulation (EU) 2020/852.
+> 3. The ES […truncated by emendrix: 2632 characters omitted…]
 
 **MODIFIED · Art. 9 — Transparency of sustainable investments in pre‐contractual disclosures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 9 PA 4a`, `AR 9 PA 5 ALN 1`, `AR 9 PA 6` · *dates* +2021-06-01 +2022-06-01 · *amended by* `32020R0852`
 
-A new paragraph 4a was added requiring financial market participants to include, alongside the disclosures under Article 6(1) and (3), the information required under Article 5 of Regulation (EU) 2020/852. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_9)
+A new paragraph 4a has been added requiring financial market participants to include, in the information disclosed under Article 6(1) and (3), the information required under Article 5 of Regulation (EU) 2020/852. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_9)
 
-Paragraph 5 was narrowed to limit the regulatory technical standards it describes to the details of content and presentation of information disclosed under paragraphs 1 to 4, rather than under the whole Article. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_9)
+Paragraph 5 has been amended so that the regulatory technical standards it mandates now cover the content and presentation of information disclosed under paragraphs 1 to 4 of the Article, rather than under the Article as a whole. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_9)
 
-A new paragraph 6 was added directing the ESAs to develop separate draft regulatory technical standards on the information referred to in paragraph 4a, including possible amendments to the paragraph 5 standards, with submission deadlines of 1 June 2021 for the objectives in points (a) and (b) of Article 9 of Regulation (EU) 2020/852 and 1 June 2022 for the objectives in points (c) to (f) of that Article. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_9)
+A new paragraph 6 has been added directing the ESAs to develop separate draft regulatory technical standards on the content and presentation of the information referred to in paragraph 4a, including possible amendments to the standards under paragraph 5, with submission deadlines of 1 June 2021 for the objectives in points (a) and (b) of Article 9 of Regulation (EU) 2020/852 and 1 June 2022 for the objectives in points (c) to (f) of that Article. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2088#art_9)
 
 *before* (`32019R2088`)
 
@@ -164,7 +165,8 @@ A new paragraph 6 was added directing the ESAs to develop separate draft regulat
 > (b) an explanation as to why and how the designated index aligned with that objective differs from a broad market index.
 > 2. Where a financial product has sustainable investment as its objective and no index has been designated as a reference benchmark, the information to be disclosed pursuant to Article 6(1) and (3) shall include an explanation on how that objective is to be attained.
 > 3. Where a financial product has a reduction in carbon emissions as its objective, the information to be disclosed pursuant to Article 6(1) and (3) shall include the objective of low carbon emission exposure in view of achieving the long‐term global warming objectives of the Paris Agreement.
-> By way of derogation from paragraph 2 of this Article, where no EU Climate Transition Benchmark or EU Paris‐aligned Benchmark in accordance with Regulation (EU) 2016/1011 of the European Parliament and of the CouncilRegulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment […truncated by emendrix: 1733 characters omitted…]
+> By way of derogation from paragraph 2 of this Article, where no EU Climate Transition Benchmark or EU Paris‐aligned Benchmark in accordance with Regulation (EU) 2016/1011 of the European Parliament and of the Council
+> Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment […truncated by emendrix: 1734 characters omitted…]
 
 *after* (`02019R2088-20200712`)
 
@@ -175,7 +177,8 @@ A new paragraph 6 was added directing the ESAs to develop separate draft regulat
 > (b) an explanation as to why and how the designated index aligned with that objective differs from a broad market index.
 > 2. Where a financial product has sustainable investment as its objective and no index has been designated as a reference benchmark, the information to be disclosed pursuant to Article 6(1) and (3) shall include an explanation on how that objective is to be attained.
 > 3. Where a financial product has a reduction in carbon emissions as its objective, the information to be disclosed pursuant to Article 6(1) and (3) shall include the objective of low carbon emission exposure in view of achieving the long‐term global warming objectives of the Paris Agreement.
-> By way of derogation from paragraph 2 of this Article, where no EU Climate Transition Benchmark or EU Paris‐aligned Benchmark in accordance with Regulation (EU) 2016/1011 of the European Parliament and of the CouncilRegulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment […truncated by emendrix: 3670 characters omitted…]
+> By way of derogation from paragraph 2 of this Article, where no EU Climate Transition Benchmark or EU Paris‐aligned Benchmark in accordance with Regulation (EU) 2016/1011 of the European Parliament and of the Council
+> Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment […truncated by emendrix: 3671 characters omitted…]
 
 **MODIFIED · Art. 11 — Transparency of the promotion of environmental or social characteristics and of sustainable investments in periodic reports** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
