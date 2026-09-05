@@ -188,7 +188,7 @@ A new paragraph 2a has been inserted between paragraphs 2 and 3, stating that wh
 ### `02011R0305-20210716` → `02011R0305-20241117`
 
 - **Act** `eu:32011R0305` · **In force** 2024-11-17 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R0305-20210716` · `v2` = `02011R0305-20241117`
