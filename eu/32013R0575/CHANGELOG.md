@@ -8990,11 +8990,11 @@ Some wording was also altered, such as replacing the phrase 'without notice' wit
 
 *within* `AR 4 PA 1 ALN 1 PO 18`, `AR 4 PA 1 ALN 1 PO 18 PTA (a)`, `AR 4 PA 1 ALN 1 PO 18 PTA (b)`, `AR 4 PA 1 ALN 1 PO 18 PTA (c)`, `AR 4 PA 5` · *dates* +2026-01-10 · *amended by* `32024R1623`
 
-The definition of "ancillary services undertaking" in point (18) changed from a general description of an undertaking whose principal activity is owning or managing property, managing data-processing services, or a similar ancillary activity, to a structured definition listing a direct extension of banking, operational leasing or ownership/management of property or provision of data-processing services, and any other activity EBA considers similar, and it now also specifies that the activity may be provided to undertakings inside or outside the group. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
+The definition of "ancillary services undertaking" in point (18) is rewritten from a single descriptive sentence about owning or managing property, managing data-processing services, or a similar ancillary activity into a structured definition covering activities whether provided inside or outside the group, split into three lettered sub-points: a direct extension of banking, operational leasing or ownership/management of property or provision of data processing services or other activities ancillary to banking, and any other activity considered similar by EBA to the first two. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
 
-The point is now split into three lettered sub-points (a), (b) and (c) where previously it was a single unbroken sentence. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
+The rest of the visible Article 4(1) definitions, including point (1) through the material subsidiary definition in point (135), remain textually identical between the two versions. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
 
-The remainder of Article 4, including Article 4(5), is shown only up to a truncation point in both texts, so no further difference beyond what is quoted above can be described. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
+Both texts are cut off before the end of the article, so any differences in the remaining points of Article 4(1) or in Article 4(5) cannot be described from what is shown. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_4)
 
 *before* (`02013R0575-20240109`)
 
@@ -9003,10 +9003,11 @@ The remainder of Article 4, including Article 4(5), is shown only up to a trunca
 > 1. For the purposes of this Regulation, the following definitions shall apply:
 > (1) credit institution means an undertaking the business of which consists of any of the following:
 > (a) to take deposits or other repayable funds from the public and to grant credits for its own account;
-> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
+> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
 > (i) the total value of the consolidated assets of the undertaking is equal to or exceeds EUR 30 billion;
 > (ii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in that group that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU is equal to or exceeds EUR 30 billion; or
-> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46364 characters omitted…]
+> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46374 characters omitted…]
 
 *after* (`02013R0575-20240709`)
 
@@ -9015,10 +9016,11 @@ The remainder of Article 4, including Article 4(5), is shown only up to a trunca
 > 1. For the purposes of this Regulation, the following definitions shall apply:
 > (1) credit institution means an undertaking the business of which consists of any of the following:
 > (a) to take deposits or other repayable funds from the public and to grant credits for its own account;
-> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
+> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
 > (i) the total value of the consolidated assets of the undertaking is equal to or exceeds EUR 30 billion;
 > (ii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in that group that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU is equal to or exceeds EUR 30 billion; or
-> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46873 characters omitted…]
+> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46883 characters omitted…]
 
 **MODIFIED · Art. 5 — Definitions specific to capital requirements for credit risk** · applies from: unchanged
 
@@ -9056,23 +9058,25 @@ A series of new points (4) to (11) is added defining credit obligation, credit e
 
 *amended by* `32024R1623`
 
-Article 5a is a new provision introducing a set of definitions specific to crypto-assets, covering terms such as crypto-asset, electronic money token, crypto-asset exposure, traditional asset, tokenised traditional asset, asset-referenced token and crypto-asset service. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_5a)
+This provision is entirely new, adding a set of definitions specific to crypto-assets that did not previously exist in the Regulation, covering terms such as crypto-asset, electronic money token, crypto-asset exposure, traditional asset, tokenised traditional asset, asset-referenced token, and crypto-asset service. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_5a)
 
-Several of these definitions incorporate by reference definitions found in other legal instruments, including Regulation (EU) 2023/1114, Directive (EU) 2015/2366, Directive 2014/49/EU, Regulation (EU) 2017/2402, Directive 2009/138/EC, Directive (EU) 2016/2341, Regulation (EU) 2019/1238, Regulation (EC) No 883/2004 and Regulation (EC) No 987/2009. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_5a)
+The definitions rely on cross-references to other instruments, including Regulation (EU) 2023/1114 for terms like crypto-asset, e-money token, asset-referenced token and crypto-asset service, and list various categories of traditional assets drawn from multiple other EU directives and regulations. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_5a)
 
 *after* (`02013R0575-20240709`)
 
 > Article 5a
 > Definitions specific to crypto-assets
 > For the purposes of this Regulation, the following definitions apply:
-> (1) crypto-asset means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the CouncilRegulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40). that is not a central bank digital currency;
+> (1) crypto-asset means a crypto-asset as defined in Article 3(1), point (5), of Regulation (EU) 2023/1114 of the European Parliament and of the Council
+> Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40). that is not a central bank digital currency;
 > (2) electronic money token or e-money token means an electronic money token or e-money token as defined in Article 3(1), point (7), of Regulation (EU) 2023/1114;
 > (3) crypto-asset exposure means an asset or an off-balance-sheet item related to a crypto-asset that gives rise to credit risk, counterparty credit risk, market risk, operational risk or liquidity risk;
 > (4) traditional asset means any asset other than a crypto-asset, including:
 > (a) financial instruments as defined in Article 4(1), point (50), of this Regulation;
 > (b) funds as defined in Article 4, point (25), of Directive (EU) 2015/2366;
-> (c) deposits as defined in Article 2(1), point (3), of Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., including structured deposits;
-> (d) securitisation positions i […truncated by emendrix: 2396 characters omitted…]
+> (c) deposits as defined in Article 2(1), point (3), of Directive 2014/49/EU of the European Parliament and of the Council
+> Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149)., including structured deposits;
+> (d) securitisation positions […truncated by emendrix: 2402 characters omitted…]
 
 **MODIFIED · Art. 10a — Application of prudential requirements on a consolidated basis where investment firms are parent undertakings** · applies from: unchanged
 
@@ -11172,11 +11176,11 @@ The only change is the date by which EBA must submit the draft regulatory techni
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The revised version adds two new paragraphs, 9 and 10, that were not present before, mandating EBA to develop draft regulatory technical standards on business indicator components and draft implementing technical standards mapping business indicator items to reporting cells in Commission Implementing Regulation (EU) 2021/451. [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314)
+The after text adds two new paragraphs, numbered 9 and 10, to the article, which retains its original paragraphs 1 through 5 unchanged. [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314)
 
-Both new paragraphs set 10 January 2026 as the deadline for EBA to submit the respective draft standards to the Commission, and paragraph 10 references the Implementing Regulation dated 17 December 2020. [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314)
+New paragraph 9 directs EBA to develop draft regulatory technical standards on business indicator components and the elements listed in paragraph 7, with submission to the Commission by 10 January 2026, and describes delegation of power to the Commission to adopt them. [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314)
 
-Paragraphs 1 through 5, including their text and cross-references, remain unchanged between the two versions. [Art. 314, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_314) [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314)
+New paragraph 10 directs EBA to develop draft implementing technical standards mapping business indicator items to reporting cells in Commission Implementing Regulation (EU) 2021/451, with submission to the Commission by 10 January 2026, and describes conferral of power on the Commission to adopt them. [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314)
 
 *before* (`02013R0575-20240109`)
 
@@ -11200,7 +11204,7 @@ Paragraphs 1 through 5, including their text and cross-references, remain unchan
 > (b) the criteria set out in Article 320 and the standards set out in Articles 321 and 322 are fulfilled for the part of activities covered by the Standardised Approach and the Advanced Measurement Approaches respectively.
 > 3. For institutions that want to use an Advanced Measurement Approach in combination with either the Basic Indicator Approach or the Standardised Approach competent authorities shall impose the following additional conditions for granting permission:
 > (a) on the date of implementation of an Advanced Measurement Approach, a significant part of the institution's operational risks are captured by that Approach;
-> (b) the institution takes a commitment to apply the Advanced Measu […truncated by emendrix: 2950 characters omitted…]
+> (b) the institution takes a commitment to apply the Advanced Measu […truncated by emendrix: 2951 characters omitted…]
 
 **MODIFIED · Art. 315 — Own funds requirement** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -12291,11 +12295,11 @@ The text shown is truncated, beginning at paragraph 4, so earlier paragraphs of 
 
 *within* `AR 395 PA 2a` · *dates* +2027-01-10 +2027-12-31 +2028-12-31 · *amended by* `32024R1623`
 
-A new paragraph 2a is inserted requiring EBA, after consulting ESMA, to issue guidelines by 10 January 2027 updating the guidelines mentioned in paragraph 2, taking into account shadow banking entities' contribution to the capital markets union and potential adverse impacts of any changes. [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_395)
+A new paragraph 2a has been inserted requiring EBA, after consulting ESMA, to issue updated guidelines by 10 January 2027 building on the guidelines mentioned in paragraph 2, taking account of shadow banking entities' contribution to the capital markets union and the potential impact of any changes on institutions' business models, risk profiles, and market stability. [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_395)
 
-The new paragraph also requires EBA to submit a report to the Commission by 31 December 2027 on institutions' exposures to shadow banking entities and the appropriateness of limits, and requires the Commission, where appropriate, to submit a legislative proposal to the European Parliament and Council by 31 December 2028. [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_395)
+The new paragraph also requires EBA, after consulting ESMA, to submit a report to the Commission by 31 December 2027 on shadow banking entities' contribution to the capital markets union and on institutions' exposures to such entities, including the appropriateness of aggregate or tighter individual limits, and requires the Commission, where appropriate and based on that report, to submit a legislative proposal on exposure limits to shadow banking entities to the European Parliament and Council by 31 December 2028. [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_395)
 
-The rest of the article, including paragraphs 1 through 2 and 3 through 8, is unchanged between the two versions. [Art. 395, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_395) [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_395)
+The rest of the article, including paragraphs 1 and 2 and paragraphs 3 through 8, remains unchanged between the two versions. [Art. 395, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_395) [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_395)
 
 *before* (`02013R0575-20240109`)
 
@@ -12303,7 +12307,7 @@ The rest of the article, including paragraphs 1 through 2 and 3 through 8, is un
 > Limits to large exposures
 > 1. An institution shall not incur an exposure to a client or group of connected clients the value of which exceeds 25 % of its Tier 1 capital, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403. Where that client is an institution or an investment firm, or where a group of connected clients includes one or more institutions or investment firms, that value shall not exceed 25 % of the institution’s Tier 1 capital or EUR 150 million, whichever is higher, provided that the sum of exposure values, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403, to all connected clients that are not institutions or investment firms, does not exceed 25 % of the institution’s Tier 1 capital.
 > Where the amount of EUR 150 million is higher than 25 % of the institution's Tier 1 capital, the value of the exposure, after having taken into account the effect of credit risk mitigation in accordance with Articles 399 to 403 of this Regulation, shall not exceed a reasonable limit in terms of that institution's Tier 1 capital. That limit shall be determined by the institution in accordance with the policies and procedures referred to in Article 81 of Directive 2013/36/EU in order to address and control concentration risk. That limit shall not exceed 100 % of the institution's Tier 1 capital.
-> Competent authorities may set a lower limit than EUR 150 million, in w […truncated by emendrix: 8719 characters omitted…]
+> Competent authorities may set a lower limit than EUR 150 million, in w […truncated by emendrix: 8720 characters omitted…]
 
 *after* (`02013R0575-20240709`)
 
@@ -12311,7 +12315,7 @@ The rest of the article, including paragraphs 1 through 2 and 3 through 8, is un
 > Limits to large exposures
 > 1. An institution shall not incur an exposure to a client or group of connected clients the value of which exceeds 25 % of its Tier 1 capital, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403. Where that client is an institution or an investment firm, or where a group of connected clients includes one or more institutions or investment firms, that value shall not exceed 25 % of the institution’s Tier 1 capital or EUR 150 million, whichever is higher, provided that the sum of exposure values, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403, to all connected clients that are not institutions or investment firms, does not exceed 25 % of the institution’s Tier 1 capital.
 > Where the amount of EUR 150 million is higher than 25 % of the institution's Tier 1 capital, the value of the exposure, after having taken into account the effect of credit risk mitigation in accordance with Articles 399 to 403 of this Regulation, shall not exceed a reasonable limit in terms of that institution's Tier 1 capital. That limit shall be determined by the institution in accordance with the policies and procedures referred to in Article 81 of Directive 2013/36/EU in order to address and control concentration risk. That limit shall not exceed 100 % of the institution's Tier 1 capital.
-> Competent authorities may set a lower limit than EUR 150 million, in w […truncated by emendrix: 9961 characters omitted…]
+> Competent authorities may set a lower limit than EUR 150 million, in w […truncated by emendrix: 9962 characters omitted…]
 
 **MODIFIED · Art. 400 — Exemptions** · applies from: unchanged
 
@@ -12425,9 +12429,11 @@ In point (i) of paragraph 2, the earlier reference to 'medium/low risk' off-bala
 
 *within* `AR 430 PA 1 ALN 1 PTA (g)`, `AR 430 PA 1 ALN 1 PTA (h)`, `AR 430 PA 1 ALN 1 PTA (i)`, `AR 430 PA 7 ALN 1`, `AR 430 PA 7 ALN 4 PTA (b)`, `AR 430 PA 7 ALN 4 PTA (c)` · *dates* +2025-07-10 · *amended by* `32024R1623`
 
-Paragraph 1 now adds new reporting items requiring institutions to report on their exposures to ESG risks, including existing and new exposures to fossil fuel sector entities and exposures to physical and transition risks, as well as on their crypto-asset exposures, in addition to the previously listed asset encumbrance reporting. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_430)
+Paragraph 1 now adds two new reporting items after the existing point on asset encumbrance: exposures to ESG risks, broken down into existing and new exposures to fossil fuel sector entities and exposures to physical and transition risks, and separately crypto-asset exposures. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_430)
 
-Paragraph 7's description of what EBA's implementing technical standards must specify has been reworded, and a new deadline of 10 July 2025 has been added for EBA to submit the draft standards concerning exposures to ESG risks. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_430)
+Paragraph 7's first subparagraph is reworded to describe EBA developing draft implementing technical standards on formats, frequency, dates, definitions and IT solutions including templates and instructions, replacing the earlier phrasing about templates, instructions and methodology. [Art. 430, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_430) [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_430)
+
+Paragraph 7 also adds a new submission deadline of 10 July 2025 for the draft implementing technical standards on exposures to ESG risks, alongside the existing deadlines for the leverage ratio and the Articles 92a and 92b obligations. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_430)
 
 *before* (`02013R0575-20240109`)
 
@@ -12442,7 +12448,7 @@ Paragraph 7's description of what EBA's implementing technical standards must sp
 > (f) the requirements and guidance set out in Directive 2013/36/EU qualified for standardised reporting, except for any additional reporting requirement under point (j) of Article 104(1) of that Directive;
 > (g) the level of asset encumbrance, including a breakdown by the type of asset encumbrance, such as repurchase agreements, securities lending, securitised exposures or loans.
 > Institutions exempted in accordance with Article 6(5) shall not be subject to the reporting requirement on the leverage ratio set out in point (a) of the first subparagraph of this paragraph on an individual basis.
-> 1a. For the purposes of point (a) of paragraph 1 of this Article, when institutions report on own funds requirements on securitisations, the information they report shall include information on NPE securitisations benefitting from the treatment set out in Article 269a, on STS on-balance sheet securitisations that they originate, and on the breakdown of […truncated by emendrix: 8771 characters omitted…]
+> 1a. For the purposes of point (a) of paragraph 1 of this Article, when institutions report on own funds requirements on securitisations, the information they report shall include information on NPE securitisations benefitting from the treatment set out in Article 269a, on STS on-balance sheet securitisations that they originate, and on the breakdown of […truncated by emendrix: 8772 characters omitted…]
 
 *after* (`02013R0575-20240709`)
 
@@ -12461,7 +12467,7 @@ Paragraph 7's description of what EBA's implementing technical standards must sp
 > (ii) their exposures to physical risks and transition risks;
 > (i) their crypto-asset exposures;
 > Institutions exempted in accordance with Article 6(5) shall not be subject to the reporting requirement on the leverage ratio set out in point (a) of the first subparagraph of this paragraph on an individual basis.
-> 1a. For the purposes of point (a) of paragraph 1 of this Article, when institutions report on own funds requirements on securitisations, the infor […truncated by emendrix: 9042 characters omitted…]
+> 1a. For the purposes of point (a) of paragraph 1 of this Article, when institutions report on own funds requirements on securitisations, the infor […truncated by emendrix: 9043 characters omitted…]
 
 **MODIFIED · Art. 430a** · applies from: unknown
 
@@ -12826,25 +12832,27 @@ Paragraph 2 previously set out three separate factors f of 1, 0.7 and 0.4 applic
 
 *within* `AR 493 PA 3 ALN 1 PTA (a)` · *amended by* `32024R1623`
 
-In point (a) of paragraph 3, the reference to covered bonds was changed from specifying covered bonds falling within Article 129(1), (3) and (6) to referring simply to covered bonds as referred to in Article 129, without the specific sub-paragraph references. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_493)
+The reference in point (a) of paragraph 3 was changed from covered bonds falling within Article 129(1), (3) and (6) to covered bonds as referred to in Article 129, removing the specific sub-paragraph citations. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240109#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_493)
 
 *before* (`02013R0575-20240109`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the CouncilDirective 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
+> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the Council
+> Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fir […truncated by emendrix: 7134 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fi […truncated by emendrix: 7135 characters omitted…]
 
 *after* (`02013R0575-20240709`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the CouncilDirective 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
+> 1. Until 26 June 2021, the provisions on large exposures as laid down in Articles 387 to 403 of this Regulation shall not apply to investment firms, the main business of which consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points (5), (6), (7), (9), (10) and (11) of Section C of Annex I to Directive 2014/65/EU and to which Directive 2004/39/EC of the European Parliament and of the Council
+> Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1). did not apply on 31 December 2006.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fir […truncated by emendrix: 7121 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment fi […truncated by emendrix: 7122 characters omitted…]
 
 **INSERTED · Art. 494d** · applies from: unknown
 
