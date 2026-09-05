@@ -827,7 +827,7 @@ It also directs the Commission to adopt delegated acts specifying the reduced co
 ### `02017R1129-20240109` → `02017R1129-20241204`
 
 - **Act** `eu:32017R1129` · **In force** 2024-12-04 · **Detected** 2026-08-13
-- **Touched** 39 provisions — 39 substantive · 0 date-only · **15 disputed**
+- **Touched** 39 provisions — 32 substantive · 0 date-only · 7 with no text · **16 disputed**
 - **Diff** 5 inserted · 31 modified · 3 deleted · 0 renumbered · 0 deferred · 30 unchanged
 - **Gate** 1 sentences quoted verbatim · 7 changes shipped without an explanation
 - **Citations** `v1` = `02017R1129-20240109` · `v2` = `02017R1129-20241204`
@@ -910,7 +910,7 @@ Point (z), previously defining durable medium with two sub-criteria (i) and (ii)
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1003,6 +1003,8 @@ The list of cross-referenced provisions in paragraph 1's introductory clause was
 **MODIFIED · Art. 7 — The prospectus summary** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 7 PA 14`, `AR 7 PA 15` · *dates* +2025-12-05 · *amended by* `32024R2809`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The after text adds a new paragraph 14 directing ESMA to develop guidelines on comprehensibility and on the use of plain language in summaries so that the information provided is concise, clear and user friendly. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_7)
 
@@ -1133,7 +1135,7 @@ Instead, the revised text states only that those delegated acts shall comply wit
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1143,7 +1145,7 @@ Instead, the revised text states only that those delegated acts shall comply wit
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1153,7 +1155,7 @@ Instead, the revised text states only that those delegated acts shall comply wit
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1163,7 +1165,7 @@ Instead, the revised text states only that those delegated acts shall comply wit
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1563,7 +1565,7 @@ A new paragraph 3 was added requiring ESMA to include, in addition to the paragr
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1896,7 +1898,7 @@ Annex IX is newly added, setting out a list of information items to be included 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20241204 -->
