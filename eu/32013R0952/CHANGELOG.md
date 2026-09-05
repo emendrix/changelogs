@@ -26,9 +26,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 5 ALN 1 PO 2 PTA (e)` · *dates* +2022-11-23 · *amended by* `32022R2399`
 
-A new point (e) is added to the definition of "customs legislation" in Article 5(2), adding a reference to Regulation (EU) 2022/2399 establishing the European Union Single Window Environment for Customs, together with the provisions supplementing or implementing it, to the list of instruments that make up that body of legislation. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_5)
+The definition of "customs legislation" in point (2) gains a new point (e), adding Regulation (EU) 2022/2399 of 23 November 2022, which establishes the European Union Single Window Environment for Customs and amends Regulation (EU) No 952/2013, along with the provisions supplementing or implementing it, to the list of instruments that make up customs legislation. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_5)
 
-The corresponding earlier text of Article 5(2) listed only points (a) to (d), without any reference to that Regulation. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_5)
+The earlier version's point (2) listed only points (a) through (d), without any reference to that Regulation. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_5)
 
 *before* (`02013R0952-20200101`)
 
@@ -56,8 +56,9 @@ The corresponding earlier text of Article 5(2) listed only points (a) to (d), wi
 > (b) the Common Customs Tariff;
 > (c) the legislation setting up a Union system of reliefs from customs duty;
 > (d) international agreements containing customs provisions, insofar as they are applicable in the Union;
-> (e) Regulation (EU) 2022/2399 of the European Parliament and of the CouncilRegulation (EU) 2022/2399 of the European Parliament and of the Council of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013 (OJ L 317, 9.12.2022, p. 1). and the provisions supplementing or implementing it;
-> (3) "customs controls" means specific acts performed by the customs authorities in order to ensure compliance with the customs legislation and other legislation governing the entry, exit, transit, movement, storage and end-use of goods moved between the customs territory of the Union and countries or territories outside that territory, and the presence and movement within the customs territory of the Union of non-Union g […truncated by emendrix: 9691 characters omitted…]
+> (e) Regulation (EU) 2022/2399 of the European Parliament and of the Council
+> Regulation (EU) 2022/2399 of the European Parliament and of the Council of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013 (OJ L 317, 9.12.2022, p. 1). and the provisions supplementing or implementing it;
+> (3) "customs controls" means specific acts performed by the customs authorities in order to ensure compliance with the customs legislation and other legislation governing the entry, exit, transit, movement, storage and end-use of goods moved between the customs territory of the Union and countries or territories outside that territory, and the presence and movement within the customs territory of the Union of non-Union […truncated by emendrix: 9692 characters omitted…]
 
 **MODIFIED · Art. 163 — Supporting documents** · applies from: unchanged
 
