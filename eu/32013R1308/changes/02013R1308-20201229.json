@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -26,8 +26,9 @@
   },
   "counts": {
     "touched": 11,
-    "substantive": 11,
+    "substantive": 10,
     "date_only": 0,
+    "textless": 1,
     "disputed": 2,
     "quoted": 0,
     "unexplained": 1
@@ -1238,7 +1239,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32020R2220, 0.955 of its instruction clauses read",
+            "detail": "32020R2220, 0.955 of its instruction clauses read, 0 dated outside the window, 12 undated and claimed",
             "change_types": []
           }
         },
@@ -1247,8 +1248,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -1444,7 +1445,7 @@
           "AR 214a",
           "AN VI"
         ],
-        "note": "32020R2220, 0.955 of its instruction clauses read",
+        "note": "32020R2220, 0.955 of its instruction clauses read, 0 dated outside the window, 12 undated and claimed",
         "claims": [
           {
             "location": "AR 29 PA 1",
@@ -1712,6 +1713,21 @@
         "schema_repairs": 1
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 11,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
-  ]
+  ],
+  "evidence": []
 }

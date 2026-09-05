@@ -5727,7 +5727,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 ### `02013R1308-20190101` → `02013R1308-20201229`
 
 - **Act** `eu:32013R1308` · **In force** 2020-01-01, 2020-12-29 · **Detected** 2026-09-04
-- **Touched** 11 provisions — 11 substantive · 0 date-only · **2 disputed**
+- **Touched** 11 provisions — 10 substantive · 0 date-only · 1 with no text · **2 disputed**
 - **Diff** 1 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 237 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20190101` · `v2` = `02013R1308-20201229`
@@ -6077,7 +6077,7 @@ Czech Republic's label is changed to Czechia, and the countries previously left 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20201229 -->
