@@ -149,7 +149,7 @@ The Definitions section adds new defined terms not present before, including 'Ch
 ### `02021R0821-20230526` → `02021R0821-20231216`
 
 - **Act** `eu:32021R0821` · **In force** 2023-12-16 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02021R0821-20230526` · `v2` = `02021R0821-20231216`
