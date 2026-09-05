@@ -1240,9 +1240,9 @@ This paragraph does not appear in the earlier version of the Article, which ende
 ### `02014R0806-20240513` → `02014R0806-20241114`
 
 - **Act** `eu:32014R0806` · **In force** 2024-11-14 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **1 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 109 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 109 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20240513` · `v2` = `02014R0806-20241114`
 
 ---
@@ -1320,16 +1320,6 @@ It further states that Article 77(2) and Article 78a of Regulation (EU) No 575/2
 > (a) the need to ensure that the resolution group can be resolved by the application of the resolution tools to the resolution entity, including, where appropriate, the bail-in tool, in a way that meets the resolution objectives;
 > (b) the need to ensure, where appropriate, that the resolution entity and its subsidiaries that are institutions or entities referred to in Article 12(1) and (3) but are not resolution entities have sufficient own funds and eligible liabilities to ensure that, if the bail-in tool or write-down and conversion powers, respectively, were to be applied to them, losses could be absorbed and the total capital ratio and, as applicable, the leverage ratio, of the relevant entities can be restored to a level necessary to enable them to continue to comply with the conditions for authorisation and to carry on the activities for which they are authorised under Directive 2013/36/EU or Directive 2014/65/EU;
 > (c) the need to ensure, if the resolution plan anticipates the possibility for certain classes of eligible liabilities to be excluded from bail-in pursuant to Article 27(5) of this Regulation or to be transferred in full to a recipient under a partial transfer, that the resolution entity h […truncated by emendrix: 18285 characters omitted…]
-
-**MODIFIED · Art. 12g** · applies from: unknown
-
-*amended by* `32024L1174`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20241114 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20240513 -->
