@@ -5547,9 +5547,9 @@ Article 89(1) changes the description of the exemption period for the clearing o
 
 *within* `AR 25 PA 2 ALN 1 PTA (d)` · *dates* -2005-10-26 +2015-05-20 · *amended by* `32015L0849`
 
-Point (d) of Article 25(2) changes the reference from Directive 2005/60/EC to Directive (EU) 2015/849, and reframes the condition from the third country being considered to have equivalent anti-money-laundering and counter-terrorist-financing systems to those of the Union, to the third country not being considered by the Commission to have strategic deficiencies in its national anti-money laundering and counter financing of terrorism regime that pose significant threats to the financial system of the Union. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150625#art_25)
+Point (d) of Article 25(2) no longer refers to a third country considered to have equivalent anti-money-laundering and counter-terrorist-financing systems under Directive 2005/60/EC, and instead refers to a third country that is not considered by the Commission, under Directive (EU) 2015/849, to have strategic deficiencies in its national anti-money laundering and counter financing of terrorism regime that pose significant threats to the financial system of the Union. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140702#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150625#art_25)
 
-The remainder of Article 25, including paragraphs 1 and 3 through 8, is unchanged between the two versions. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150625#art_25)
+The citation to Directive 2005/60/EC of 26 October 2005 has been replaced with a citation to Directive (EU) 2015/849 of 20 May 2015, which is described as amending Regulation (EU) No 648/2012 and repealing Directive 2005/60/EC and Commission Directive 2006/70/EC. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150625#art_25)
 
 *before* (`02012R0648-20140702`)
 
@@ -5560,9 +5560,10 @@ The remainder of Article 25, including paragraphs 1 and 3 through 8, is unchange
 > (a) the Commission has adopted an implementing act in accordance with paragraph 6;
 > (b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;
 > (c) cooperation arrangements have been established pursuant to paragraph 7;
-> (d) the CCP is established or authorised in a third country that is considered as having equivalent systems for anti-money-laundering and combating the financing of terrorism to those of the Union in accordance with the criteria set out in the common understanding between Member States on third-country equivalence under Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financingOJ L 309, 25.11.2005, p. 15..
+> (d) the CCP is established or authorised in a third country that is considered as having equivalent systems for anti-money-laundering and combating the financing of terrorism to those of the Union in accordance with the criteria set out in the common understanding between Member States on third-country equivalence under Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing
+> OJ L 309, 25.11.2005, p. 15..
 > 3. When assessing whether the conditions referred to in paragraph 2 are met, ESMA shall consult:
-> (a) the competent authority of a Member State in which […truncated by emendrix: 4770 characters omitted…]
+> (a) the competent authority of a Member State in which […truncated by emendrix: 4771 characters omitted…]
 
 *after* (`02012R0648-20150625`)
 
@@ -5573,7 +5574,8 @@ The remainder of Article 25, including paragraphs 1 and 3 through 8, is unchange
 > (a) the Commission has adopted an implementing act in accordance with paragraph 6;
 > (b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;
 > (c) cooperation arrangements have been established pursuant to paragraph 7;
-> (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 5021 characters omitted…]
+> (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the Council
+> Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 5022 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20150625 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20140702 -->
