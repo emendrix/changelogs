@@ -29081,9 +29081,9 @@ A new paragraph has been added stating that the Regulation also lays down unifor
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The single unnumbered paragraph on competent authorities' powers under Directive 2013/36/EU was restructured into four numbered paragraphs, with paragraph 1 adding a reference to this Regulation itself alongside the Directive. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_2)
+The single unnumbered paragraph in the earlier text, which only referenced competent authorities' powers under Directive 2013/36/EU, is replaced by four numbered paragraphs. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_2)
 
-New paragraph 2 adds resolution authorities and directs them to the powers and procedures of Directive 2014/59/EU and this Regulation, new paragraph 3 states that competent authorities and resolution authorities shall cooperate on own funds and eligible liabilities requirements, and new paragraph 4 states that the Single Resolution Board and the European Central Bank shall ensure regular and reliable exchange of relevant information within their respective competences. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_2)
+The new paragraphs add a reference to powers under this Regulation itself for competent authorities, introduce resolution authorities' powers and procedures under Directive 2014/59/EU and this Regulation, require cooperation between competent and resolution authorities on own funds and eligible liabilities requirements, and require the Single Resolution Board and the European Central Bank to ensure regular and reliable exchange of relevant information within their respective competences. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_2)
 
 *before* (`02013R0575-20190426`)
 
@@ -29096,19 +29096,21 @@ New paragraph 2 adds resolution authorities and directs them to the powers and p
 > Article 2
 > Supervisory powers
 > 1. For the purpose of ensuring compliance with this Regulation, competent authorities shall have the powers and shall follow the procedures set out in Directive 2013/36/EU and in this Regulation.
-> 2. For the purpose of ensuring compliance with this Regulation, resolution authorities shall have the powers and shall follow the procedures set out in Directive 2014/59/EU of the European Parliament and of the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190). and in this Regulation.
+> 2. For the purpose of ensuring compliance with this Regulation, resolution authorities shall have the powers and shall follow the procedures set out in Directive 2014/59/EU of the European Parliament and of the Council
+> Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190). and in this Regulation.
 > 3. For the purpose of ensuring compliance with the requirements concerning own funds and eligible liabilities, competent authorities and resolution authorities shall cooperate.
-> 4. For the purpose of ensuring compliance within their respective competences, the Single Resolution Board established by Article 42 of Regulation (EU) No 806/2014 of the European Parliament and of the CouncilRegulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit inst […truncated by emendrix: 615 characters omitted…]
+> 4. For the purpose of ensuring compliance within their respective competences, the Single Resolution Board established by Article 42 of Regulation (EU) No 806/2014 of the European Parliament and of the Council
+> Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit in […truncated by emendrix: 618 characters omitted…]
 
 **MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 4 PA 1 ALN 1 PO 7`, `AR 4 PA 1 ALN 1 PO 20`, `AR 4 PA 1 ALN 1 PO 26`, `AR 4 PA 1 ALN 1 PO 28`, `AR 4 PA 1 ALN 1 PO 29a`, `AR 4 PA 1 ALN 1 PO 29b`, `AR 4 PA 1 ALN 1 PO 29c`, `AR 4 PA 1 ALN 1 PO 29d`, `AR 4 PA 1 ALN 1 PO 39`, `AR 4 PA 1 ALN 1 PO 41`, `AR 4 PA 1 ALN 1 PO 71 PTA (b)`, `AR 4 PA 1 ALN 1 PO 72 PTA (a)`, `AR 4 PA 1 ALN 1 PO 86`, `AR 4 PA 1 ALN 1 PO 91`, `AR 4 PA 1 ALN 1 PO 96`, `AR 4 PA 1 ALN 1 PO 127 PTA (a)`, `AR 4 PA 1 ALN 1 PO 128`, `AR 4 PA 1 ALN 1 PO 129`, `AR 4 PA 1 ALN 1 PO 130`, `AR 4 PA 1 ALN 1 PO 131`, `AR 4 PA 1 ALN 1 PO 132`, `AR 4 PA 1 ALN 1 PO 133`, `AR 4 PA 1 ALN 1 PO 134`, `AR 4 PA 1 ALN 1 PO 135`, `AR 4 PA 1 ALN 1 PO 136`, `AR 4 PA 1 ALN 1 PO 137`, `AR 4 PA 1 ALN 1 PO 138`, `AR 4 PA 1 ALN 1 PO 139`, `AR 4 PA 1 ALN 1 PO 140`, `AR 4 PA 1 ALN 1 PO 141`, `AR 4 PA 1 ALN 1 PO 142`, `AR 4 PA 1 ALN 1 PO 143`, `AR 4 PA 1 ALN 1 PO 144`, `AR 4 PA 1 ALN 1 PO 145`, `AR 4 PA 1 ALN 1 PO 146`, `AR 4 PA 1 ALN 1 PO 147`, `AR 4 PA 1 ALN 1 PO 148`, `AR 4 PA 1 ALN 1 PO 149`, `AR 4 PA 4` · *dates* -2007-11-13 +2004-12-15 +2013-06-26 +2014-05-15 +2015-11-25 +2020-06-28 · *amended by* `32019R0876`
 
-Several existing definitions were reworded, including the tests for a financial holding company's subsidiaries, the scope of parent institution in a Member State, financial institution's exclusions and payment institution reference, recognised exchange's inclusion of certain third-country markets, trading book, internal hedge, trade exposure, and cross-guarantee scheme, distributable items and consolidating supervisor. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
+Several definitions in Article 4(1) were revised or expanded, including the wording for collective investment undertaking, financial holding company, financial institution, parent institution in a Member State, cross-guarantee scheme, distributable items, recognised exchange, trade exposure, internal hedge and trading book, and the group of connected clients definition gained an added carve-out for exposures to the same CCP. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
 
-New defined terms were added after the existing list, such as parent investment firm and parent credit institution variants, and after point 129 a long series of new points including resolution authority, resolution entity, resolution group, G-SII and non-EU G-SII, material subsidiary, G-SII entity, bail-in tool, group, securities financing transaction and initial margin, together with a new exclusion for persons linked only through direct exposure to the same CCP in the group of connected clients definition. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
+New defined terms were inserted after point (29) and after point (129), covering items such as parent investment firm, EU parent investment firm, parent credit institution, EU parent credit institution, resolution authority, resolution entity, resolution group, global systemically important institution, non-EU G-SII, material subsidiary, G-SII entity, bail-in tool, group and securities financing transaction, and the text continues beyond the point shown here, so further additions in that run cannot be described. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
 
-The text provided is truncated partway through the added definitions, so further differences beyond that point cannot be described. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
+Paragraph 4 of Article 4 also differs between the two versions, and the reference to Part Five of this Regulation in the eligible capital definition at point (71)(b) was removed. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_4)
 
 *before* (`02013R0575-20190426`)
 
@@ -29121,7 +29123,7 @@ The text provided is truncated partway through the added definitions, so further
 > (b) local firms;
 > (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
 > (3) institution means a credit institution or an investment firm;
-> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35179 characters omitted…]
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35186 characters omitted…]
 
 *after* (`02013R0575-20190627`)
 
@@ -29134,7 +29136,7 @@ The text provided is truncated partway through the added definitions, so further
 > (b) local firms;
 > (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
 > (3) institution means a credit institution or an investment firm;
-> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 44474 characters omitted…]
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 44484 characters omitted…]
 
 **MODIFIED · Art. 6 — General principles** · applies from: unchanged
 
@@ -29496,11 +29498,11 @@ In point (c) of Article 33(1), the phrase describing the source of fair value ga
 
 *within* `AR 36 PA 4` · *dates* +2020-06-28 · *amended by* `32019R0876`
 
-A new paragraph 4 has been added requiring EBA to develop draft regulatory technical standards on the application of the deduction for intangible assets referred to in point (b) of paragraph 1, including the materiality of negative effects on value that do not cause prudential concerns. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
+A new paragraph 4 has been added requiring EBA to develop draft regulatory technical standards specifying how the intangible assets deduction in point (b) of paragraph 1 is to be applied, including the materiality of negative effects on value that do not cause prudential concerns. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
 
-This new paragraph also sets a submission deadline of 28 June 2020 for EBA to deliver those draft standards to the Commission and delegates power to the Commission to supplement the Regulation by adopting them under Articles 10 to 14 of Regulation (EU) No 1093/2010. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
+This new paragraph also sets 28 June 2020 as the date by which EBA must submit those draft standards to the Commission, and delegates power to the Commission to supplement the Regulation by adopting them under Articles 10 to 14 of Regulation (EU) No 1093/2010. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
 
-Paragraphs 1 to 3 remain unchanged between the two versions. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
+No other part of Article 36, including paragraphs 1 through 3, differs between the two texts. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_36)
 
 *before* (`02013R0575-20190426`)
 
@@ -29515,7 +29517,7 @@ Paragraphs 1 to 3 remain unchanged between the two versions. [Art. 36, v1](https
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2959 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2960 characters omitted…]
 
 *after* (`02013R0575-20190627`)
 
@@ -29530,7 +29532,7 @@ Paragraphs 1 to 3 remain unchanged between the two versions. [Art. 36, v1](https
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 3519 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 3520 characters omitted…]
 
 **MODIFIED · Art. 37 — Deduction of intangible assets** · applies from: unchanged
 
@@ -29619,11 +29621,11 @@ The condition on maturity in point (a)(i) is reworded from comparing whether the
 
 *within* `AR 49 PA 2 ALN 3`, `AR 49 PA 3 ALN 1 PTA (a) PTI (iv)`, `AR 49 PA 3 ALN 1 PTA (a) PTI (v)` · *amended by* `32019R0876`
 
-A new subparagraph has been added to paragraph 2 stating that this paragraph does not apply when calculating own funds for the purposes of the requirements in Articles 92a and 92b, which are instead to be calculated under the deduction framework in Article 72e(4). [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
+A new sentence has been added at the end of paragraph 2 stating that the paragraph does not apply when calculating own funds for the purposes of the requirements laid down in Articles 92a and 92b, which are instead calculated using the deduction framework in Article 72e(4). [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
 
-In paragraph 3(1)(a)(iv), the reporting frequency for the consolidated balance sheet or extended aggregated calculation is now set by reference to the implementing technical standards mentioned in Article 430(7), replacing the earlier reference to the frequency in Article 99. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
+In paragraph 3(1)(a)(iv), the reporting frequency for the consolidated balance sheet or extended aggregated calculation was changed from the frequency laid down in Article 99 to the frequency set out in the implementing technical standards referred to in Article 430(7). [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
 
-In paragraph 3(1)(a)(v), the reference for reporting compliance with the requirements in Article 92 has been changed from Article 99 to Article 430. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
+In paragraph 3(1)(a)(v), the cross-reference for reporting compliance with the requirements of Article 92 was changed from Article 99 to Article 430. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_49)
 
 *before* (`02013R0575-20190426`)
 
@@ -29633,7 +29635,7 @@ In paragraph 3(1)(a)(v), the reference for reporting compliance with the require
 > (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
 > (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
 > (c) the institution has received the prior permission of the competent authorities;
-> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5327 characters omitted…]
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5328 characters omitted…]
 
 *after* (`02013R0575-20190627`)
 
@@ -29643,7 +29645,7 @@ In paragraph 3(1)(a)(v), the reference for reporting compliance with the require
 > (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
 > (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
 > (c) the institution has received the prior permission of the competent authorities;
-> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5589 characters omitted…]
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5590 characters omitted…]
 
 **MODIFIED · Art. 52 — Additional Tier 1 instruments** · applies from: unchanged
 
@@ -29931,9 +29933,9 @@ The condition on maturity in point (a)(i) now describes the short position's mat
 
 *amended by* `32019R0876`
 
-This is a newly inserted article defining what counts as eligible liabilities items, listing instruments and Tier 2 items that qualify subject to conditions in other articles, and setting out a list of liability categories that are excluded from that classification. [Art. 72a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72a)
+This is an entirely new article setting out what counts as eligible liabilities items, listing eligible liabilities instruments and certain Tier 2 instruments as qualifying components, subject to exclusions specified elsewhere. [Art. 72a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72a)
 
-The excluded categories include covered deposits, certain short-term and sight deposits, secured liabilities such as covered bonds, client and fiduciary assets protected under insolvency law, short-term interbank and payment-system liabilities, certain employee, trade-creditor, tax, and deposit-guarantee-scheme liabilities, and liabilities arising from derivatives or from debt instruments with embedded derivatives. [Art. 72a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72a)
+It also enumerates a detailed list of liabilities excluded from eligible liabilities items, covering items such as covered deposits, short-term deposits, secured liabilities, client assets, fiduciary liabilities, certain interbank and system-related liabilities, employee and trade creditor claims, tax and deposit guarantee scheme liabilities, and derivative-related liabilities. [Art. 72a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_72a)
 
 *after* (`02013R0575-20190627`)
 
@@ -29945,9 +29947,10 @@ The excluded categories include covered deposits, certain short-term and sight d
 > 2. The following liabilities shall be excluded from eligible liabilities items:
 > (a) covered deposits;
 > (b) sight deposits and short term deposits with an original maturity of less than one year;
-> (c) the part of eligible deposits from natural persons and micro, small and medium-sized enterprises which exceeds the coverage level referred to in Article 6 of Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149).;
+> (c) the part of eligible deposits from natural persons and micro, small and medium-sized enterprises which exceeds the coverage level referred to in Article 6 of Directive 2014/49/EU of the European Parliament and of the Council
+> Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149).;
 > (d) deposits that would be eligible deposits from natural persons, micro, small and medium–sized enterprises if they were not made through branches located outside the Union of institutions established in the Union;
-> (e) secured liabilities, including covered bonds and liabilities in the form of financial instruments used for hedgin […truncated by emendrix: 3217 characters omitted…]
+> (e) secured liabilities, including covered bonds and liabilities in the form of financial instruments used for hedgi […truncated by emendrix: 3219 characters omitted…]
 
 **INSERTED · Art. 72b — Eligible liabilities instruments** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -33724,9 +33727,11 @@ A comma was added after "application" in the first sentence of paragraph 5, comp
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-The article heading changed from "Reporting requirement" to "Reporting on prudential requirements and financial information", while paragraphs 1 and 2 remain unchanged. [Art. 430, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_430) [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430)
+The article's heading changes from a general reporting requirement heading to one specifically covering reporting on prudential requirements and financial information. [Art. 430, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_430) [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430)
 
-Two new paragraphs, 7 and 8, were added: paragraph 7 sets out EBA's mandate to develop implementing technical standards for reporting formats, templates, timing and day-end or month-end value specifications, with submission deadlines of 28 June 2020 for certain items and 28 June 2021 otherwise, and paragraph 8 sets out EBA's mandate to assess costs and benefits of reporting requirements under Implementing Regulation (EU) No 680/2014 and report to the Commission by 28 June 2020. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430)
+The later version retains paragraphs 1 and 2 unchanged and adds two new paragraphs, 7 and 8, setting out further technical-standard development duties for EBA covering reporting formats, templates, timing, and a leverage ratio day-end or month-end value specification, along with a separate EBA assessment of the costs and benefits of the reporting requirements under Implementing Regulation (EU) No 680/2014. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430)
+
+Paragraph 8 further directs that EBA's report classify institutions by size and complexity, measure and assess reporting costs against benefits, and make recommendations for reducing reporting requirements, particularly for small and non-complex institutions, accompanied by the draft implementing technical standards referred to in paragraph 7. [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430)
 
 *before* (`02013R0575-20190426`)
 
@@ -33749,7 +33754,7 @@ Two new paragraphs, 7 and 8, were added: paragraph 7 sets out EBA's mandate to d
 > 2. EBA shall develop draft implementing technical standards to determine the uniform reporting template, the instructions on how to use such template, the frequencies and dates of reporting and the IT solutions, for the purposes of the reporting requirement laid down in paragraph 1.
 > EBA shall submit those draft implementing technical standards to the Commission by 28 July 2013.
 > Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
-> 7. EBA shall develop draft implementing technical standards to specify the uniform reporting formats and templates, the instructions and methodology on how to use those templates, the frequency and dates of reporting, the definiti […truncated by emendrix: 4006 characters omitted…]
+> 7. EBA shall develop draft implementing technical standards to specify the uniform reporting formats and templates, the instructions and methodology on how to use those templates, the frequency and dates of reporting, the definiti […truncated by emendrix: 4007 characters omitted…]
 
 **INSERTED · Art. 430a** · applies from: unknown
 
@@ -34127,9 +34132,11 @@ The power for the Commission to extend the transitional provisions is changed fr
 
 *within* `AR 500`, `AR 500 PA 1 ALN 1`, `AR 500 PA 1 ALN 1 PTA (a)`, `AR 500 PA 1 ALN 1 PTA (b)`, `AR 500 PA 1 ALN 1 PTA (c)`, `AR 500 PA 1 ALN 2`, `AR 500 PA 2 ALN 1`, `AR 500 PA 3`, `AR 500 PA 4`, `AR 500 PA 5`, `AR 500 PA 6` · *dates* -2000-03-20 -2007-01-01 -2010-01-01 -2017-01-01 -2017-12-31 +2016-11-23 +2022-06-28 · *amended by* `32019R0876`
 
-The article's heading and substance have both changed: the earlier version set out Basel I floor transitional own-funds requirements tied to dates of 20 March 2000, 1 January 2007, 1 January 2010 and 31 December 2017, while the later version instead addresses adjustment of LGD estimates for massive disposals of defaulted exposures, referencing dates of 23 November 2016 and 28 June 2022. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_500)
+The article's heading and subject matter changed entirely, moving from a Basel I floor transitional regime tied to own-funds calculations under Article 92 and prior directives to a mechanism allowing adjustment of LGD estimates for massive disposals of defaulted exposures. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_500)
 
-The prior paragraphs (1)-(6) concerning Basel I floor compliance, waivers by competent authorities, and a Commission reporting obligation have been replaced by new paragraphs (1) and (2) concerning conditions for LGD adjustment and a notification duty to the competent authority once a disposal threshold is met. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_500)
+The dates 20 March 2000, 1 January 2007, 1 January 2010, 1 January 2017 and 31 December 2017 that structured the earlier rules no longer appear, and the later text instead sets 23 November 2016 and 28 June 2022 as the relevant dates for permitted disposal periods. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_500)
+
+The structure of the provision also changed, with the earlier six paragraphs on own funds requirements, waivers and a Commission reporting obligation replaced by two paragraphs describing conditions for the LGD adjustment and a notification duty to the competent authority. [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_500)
 
 *before* (`02013R0575-20190426`)
 
@@ -34137,9 +34144,10 @@ The prior paragraphs (1)-(6) concerning Basel I floor compliance, waivers by com
 > Transitional provisions — Basel I floor
 > 1. Until 31 December 2017, institutions calculating risk-weighted exposure amounts in accordance with Part Three, Title II, Chapter 3 and institutions using the Advanced Measurement Approaches as specified in Part Three, Title III, Chapter 4 for the calculation of their own funds requirements for operational risk shall meet both of the following requirements:
 > (a) they shall hold own funds as required by Article 92;
-> (b) they shall hold own funds which are at all times more than or equal to 80 % of the total minimum amount of own funds that the institution would be required to hold under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutionsOJ L 126, 26.5.2000, p. 1. stood prior to 1 January 2007.
+> (b) they shall hold own funds which are at all times more than or equal to 80 % of the total minimum amount of own funds that the institution would be required to hold under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions
+> OJ L 126, 26.5.2000, p. 1. stood prior to 1 January 2007.
 > 2. Subject to the approval of the competent authorities, the amount referred to in point (b) of paragraph 1 may be replaced by a requirement to hold own funds which are at all times more than or equal to 80 % of the own funds that the institution would be required to hold under Article 92 calculating risk-weighted exposure amounts in accordance with Part Three, Title II, Chapter 2, and Part Three, Title III, Chapter 2 or 3, as applicable, instead of in accordance with Part Three, Title II, Chapter 3, or Part Three, Title III, Chapter 4, as applicable.
-> 3. A credit institution m […truncated by emendrix: 1442 characters omitted…]
+> 3. A credit institution […truncated by emendrix: 1443 characters omitted…]
 
 *after* (`02013R0575-20190627`)
 
