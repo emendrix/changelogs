@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02011R0305-20260108` → `02011R0305-20260529`
 
 - **Act** `eu:32011R0305` · **In force** 2026-05-29 · **Detected** 2026-09-04
-- **Touched** 7 provisions — 7 substantive · 0 date-only · **5 disputed**
+- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **5 disputed**
 - **Diff** 5 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02011R0305-20260108` · `v2` = `02011R0305-20260529`
@@ -165,7 +165,7 @@ A new paragraph 2a has been inserted between paragraphs 2 and 3, stating that wh
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02011R0305-20260529 -->
