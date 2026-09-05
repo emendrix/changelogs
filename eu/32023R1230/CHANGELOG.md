@@ -114,7 +114,7 @@ Paragraph 6 likewise extends the non-objection entry-into-force procedure for de
 ### `02023R1230-20230629` → `02023R1230-20260529`
 
 - **Act** `eu:32023R1230` · **In force** 2026-05-29 · **Detected** 2026-08-12
-- **Touched** 7 provisions — 7 substantive · 0 date-only · **6 disputed**
+- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **6 disputed**
 - **Diff** 6 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02023R1230-20230629` · `v2` = `02023R1230-20260529`
@@ -255,7 +255,7 @@ It also newly provides that market surveillance authorities are to make best eff
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1230-20260529 -->
