@@ -297,7 +297,7 @@ The table itself is expanded to list these two substances, with their EC numbers
 ### `02012R0528-20191120` → `02012R0528-20210329`
 
 - **Act** `eu:32012R0528` · **In force** 2021-03-29 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 103 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20191120` · `v2` = `02012R0528-20210329`
