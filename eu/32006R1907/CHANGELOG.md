@@ -2450,37 +2450,67 @@ In section 8.5 the exemption condition changes from the substance being classifi
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-In entry 23, paragraph 2, the restriction on cadmium in paints has been rewritten to explicitly reference paint codes 3208 and 3209 and to state a numerical concentration threshold of 0,01 % by weight, expressed as Cd metal, for the general prohibition, whereas the earlier text simply prohibited use in paints without stating that threshold in the same sentence. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160203#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160308#anx_XVII)
+In entry 23, paragraph 2, the restriction on cadmium in paints was reworded from a simple prohibition on use to a prohibition on both use and placing on the market of paints under codes 3208 and 3209 with cadmium at or above 0,01 % by weight. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160203#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160308#anx_XVII)
 
-The follow-on sentence about paints with a zinc content exceeding 10 % by weight now also repeats the paint codes 3208 and 3209 alongside the 0,1 % by weight cadmium limit, a specification not present in that sentence before. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160203#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160308#anx_XVII)
+The following sentence on paints with a zinc content exceeding 10 % by weight was also adjusted to explicitly repeat the paint codes 3208 and 3209 that were previously stated once at the start of the paragraph. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160308#anx_XVII)
 
-The remainder of Annex XVII shown, including the provisions on painted articles, is unchanged between the two texts, and the text provided is truncated before any further differences can be identified. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160308#anx_XVII)
+The remainder of the visible text of Annex XVII, including the other numbered entries, appears unchanged between the two versions, and the text shown is truncated before any further differences can be seen. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160203#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160308#anx_XVII)
 
 *before* (`02006R1907-20160203`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
+> Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
 > 1. Polychlorinated terphenyls (PCTs) Shall not be placed on the market, or used:
 > as substances,
-> in mixtures, including waste oils, or in equipment, in concentr […truncated by emendrix: 551787 characters omitted…]
+> in mixtures, including waste oils, or in equipme […truncated by emendrix: 551818 characters omitted…]
 
 *after* (`02006R1907-20160308`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
+> Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
 > 1. Polychlorinated terphenyls (PCTs) Shall not be placed on the market, or used:
 > as substances,
-> in mixtures, including waste oils, or in equipment, in concentr […truncated by emendrix: 551932 characters omitted…]
+> in mixtures, including waste oils, or in equipme […truncated by emendrix: 551963 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20160308 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20160203 -->
