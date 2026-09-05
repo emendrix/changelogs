@@ -1923,19 +1923,20 @@ Annex IX is newly added, setting out a list of information items to be included 
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-This is a newly inserted provision requiring issuers, offerors, or persons seeking admission to trading to submit specified information simultaneously to a designated collection body so it can be made accessible on the European single access point (ESAP). [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_21a)
+This is a newly inserted article requiring issuers, offerors, or persons seeking admission to trading to submit specified information simultaneously to a collection body so it becomes accessible on the European single access point (ESAP), and it sets out the format, metadata, and legal entity identifier requirements for that submission. [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_21a)
 
-The provision sets out format and metadata requirements for the submitted information, designates the competent authority as the collection body, and assigns ESMA the task of developing implementing technical standards and, where necessary, guidelines on the metadata. [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_21a)
+The article also designates the competent authority as the collection body for certain information, and directs ESMA to develop implementing technical standards and, where necessary, guidelines concerning the metadata and formats used. [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_21a)
 
 *after* (`02017R1129-20240109`)
 
 > Article 21a
 > Accessibility of information on the European single access point
-> 1. From 10 July 2026, when making public any information referred to in Article 1(4) points (f) and (g), Article 1(5) first subparagraph, points (e) and (f), Articles 8(5), 9(4), 10(2), 17(2), 21(1), 21(9) and 23(1) of this Regulation, the issuer, the offeror or the person asking for admission to trading on a regulated market, where relevant, shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> 1. From 10 July 2026, when making public any information referred to in Article 1(4) points (f) and (g), Article 1(5) first subparagraph, points (e) and (f), Articles 8(5), 9(4), 10(2), 17(2), 21(1), 21(9) and 23(1) of this Regulation, the issuer, the offeror or the person asking for admission to trading on a regulated market, where relevant, shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
 > (b) be accompanied by the following metadata:
-> (i) all the names of the issuer, the offeror, or the person asking for admission to trading on […truncated by emendrix: 3318 characters omitted…]
+> (i) all the names of the issuer, the offeror, or the person asking for admission to trading o […truncated by emendrix: 3319 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20240109 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20211110 -->
