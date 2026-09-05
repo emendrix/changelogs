@@ -47,7 +47,7 @@
         },
         "heading": "Marketing communications",
         "before": "Article 13\nMarketing communications\n1. Without prejudice to stricter sectoral legislation, in particular Directives 2009/65/EC, 2014/65/EU and (EU) 2016/97 and Regulation (EU) No 1286/2014, financial market participants and financial advisers shall ensure that their marketing communications do not contradict the information disclosed pursuant to this Regulation.\n2. The ESAs may develop, through the Joint Committee, draft implementing technical standards to determine the standard presentation of information on the promotion of environmental or social characteristics and sustainable investments.\nPower is delegated to the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.",
-        "after": "Article 13\nMarketing communications\n1. Without prejudice to stricter sectoral legislation, in particular Directives 2009/65/EC, 2014/65/EU and (EU) 2016/97 and Regulation (EU) No 1286/2014, financial market participants and financial advisers shall ensure that their marketing communications do not contradict the information disclosed pursuant to this Regulation.\n2. The ESAs may develop, through the Joint Committee, draft implementing technical standards to determine the standard presentation of information on the promotion of environmental or social characteristics and sustainable investments.\nPower is delegated to the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.\n3. Where a financial market participant or a financial adviser issues and discloses to third parties an ESG rating, as defined in Article 3, point (1), of Regulation (EU) 2024/3005 of the European Parliament and of the CouncilRegulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) No 2023/2859 (OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj)., as part of its marketing communications, it shall include on its website the same information as that required by point 1 of Annex III to that Regulation and it shall disclose in those marketing communications a link to those website disclosures.\nThe ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the information referred to in the first subparagraph of this paragraph, taking into account the information already disclosed pursuant to Article 10 of this Regulation.\nThe ESAs shall submit the draft regulatory technical standards referred to in the second subparagraph to the Commission.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the second subparagraph of this paragraph, in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.",
+        "after": "Article 13\nMarketing communications\n1. Without prejudice to stricter sectoral legislation, in particular Directives 2009/65/EC, 2014/65/EU and (EU) 2016/97 and Regulation (EU) No 1286/2014, financial market participants and financial advisers shall ensure that their marketing communications do not contradict the information disclosed pursuant to this Regulation.\n2. The ESAs may develop, through the Joint Committee, draft implementing technical standards to determine the standard presentation of information on the promotion of environmental or social characteristics and sustainable investments.\nPower is delegated to the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.\n3. Where a financial market participant or a financial adviser issues and discloses to third parties an ESG rating, as defined in Article 3, point (1), of Regulation (EU) 2024/3005 of the European Parliament and of the Council\nRegulation (EU) 2024/3005 of the European Parliament and of the Council of 27 November 2024 on the transparency and integrity of Environmental, Social and Governance (ESG) rating activities, and amending Regulations (EU) 2019/2088 and (EU) No 2023/2859 (OJ L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj)., as part of its marketing communications, it shall include on its website the same information as that required by point 1 of Annex III to that Regulation and it shall disclose in those marketing communications a link to those website disclosures.\nThe ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the information referred to in the first subparagraph of this paragraph, taking into account the information already disclosed pursuant to Article 10 of this Regulation.\nThe ESAs shall submit the draft regulatory technical standards referred to in the second subparagraph to the Commission.\nPower is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the second subparagraph of this paragraph, in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.",
         "previous_location": null,
         "changed_within": [
           "AR 13 PA 3"
@@ -96,7 +96,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new paragraph 3 is added requiring financial market participants or financial advisers that issue and disclose an ESG rating, as defined in Regulation (EU) 2024/3005, to third parties as part of their marketing communications to include on their website the same information required by point 1 of Annex III to that Regulation and to disclose in those marketing communications a link to those website disclosures.",
+          "text": "A new paragraph 3 has been added requiring financial market participants and financial advisers that issue and disclose an ESG rating, as defined in Regulation (EU) 2024/3005, to third parties as part of their marketing communications to publish on their website the same information required by point 1 of Annex III to that Regulation, and to include a link to that website disclosure in the marketing communications.",
           "fallback": false,
           "citations": [
             {
@@ -115,7 +115,7 @@
           ]
         },
         {
-          "text": "The new paragraph also directs the ESAs, through the Joint Committee, to develop draft regulatory technical standards specifying that information, taking into account information already disclosed under Article 10, to submit those standards to the Commission, and it delegates power to the Commission to adopt them under Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.",
+          "text": "The new paragraph also directs the ESAs, through the Joint Committee, to develop draft regulatory technical standards specifying that information, taking into account information already disclosed under Article 10, to submit those standards to the Commission, and empowers the Commission to adopt them under Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010.",
           "fallback": false,
           "citations": [
             {
@@ -134,7 +134,7 @@
           ]
         },
         {
-          "text": "Paragraphs 1 and 2 remain unchanged between the two versions.",
+          "text": "Paragraphs 1 and 2 remain unchanged from the earlier version of the Article.",
           "fallback": false,
           "citations": [
             {
@@ -330,7 +330,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 7961,
+        "output_tokens": 861,
+        "requests": 2,
+        "schema_repairs": 1
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 13",
+      "occurrence": 0,
+      "digest": "sha256:737b3e39f3dcd0676c47cb1d8ca1d1a3ad91332cbbdefbecd4bc1aa785ffb2cc"
+    }
+  ]
 }
