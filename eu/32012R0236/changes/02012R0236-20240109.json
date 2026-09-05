@@ -47,7 +47,7 @@
         },
         "heading": "Accessibility of information on the European single access point",
         "before": null,
-        "after": "Article 11a\nAccessibility of information on the European single access point\n1. From 10 July 2026, when making public any information referred to in Article 6(1) of this Regulation, the natural or legal person shall submit that information at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the natural or legal person to which the information relates;\n(ii) for legal persons, the legal entity identifier of the person, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) for legal persons, the size of the person by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), legal persons shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.\n4. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.\nESMA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n5. Where necessary, ESMA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 4, first subparagraph, point (a), are correct.",
+        "after": "Article 11a\nAccessibility of information on the European single access point\n1. From 10 July 2026, when making public any information referred to in Article 6(1) of this Regulation, the natural or legal person shall submit that information at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council\nRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the natural or legal person to which the information relates;\n(ii) for legal persons, the legal entity identifier of the person, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) for legal persons, the size of the person by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), legal persons shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.\n4. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.\nESMA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n5. Where necessary, ESMA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 4, first subparagraph, point (a), are correct.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -90,7 +90,26 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new Article 11a is added, setting out requirements for making information referred to in Article 6(1) accessible through the European single access point (ESAP), including submission to a collection body, format and metadata requirements, obtaining a legal entity identifier, designation of the competent authority as collection body, and mandates for ESMA to develop implementing technical standards and guidelines.",
+          "text": "This is a new article requiring that when information referred to elsewhere in the Regulation is made public, it must also be submitted to a collection body so it can be made accessible on the European single access point, along with specified metadata and format requirements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0236",
+                  "display_name": "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps  Text with EEA relevance"
+                },
+                "version": "02012R0236-20240109",
+                "location": "AR 11a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_11a",
+              "label": "Art. 11a, 02012R0236-20240109"
+            }
+          ]
+        },
+        {
+          "text": "The article also assigns ESMA the task of developing implementing technical standards on additional metadata, data structuring, and machine-readable format requirements, and provides for ESMA to adopt guidelines on the correctness of submitted metadata.",
           "fallback": false,
           "citations": [
             {
@@ -285,7 +304,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3384,
+        "output_tokens": 350,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 11a",
+      "occurrence": 0,
+      "digest": "sha256:bf9a3d63825be401a9c87629f3b9e59d2d802e8969903938010e34ea5e5ad034"
+    }
+  ]
 }

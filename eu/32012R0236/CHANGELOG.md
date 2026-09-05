@@ -101,19 +101,22 @@ The remaining text, previously labeled as paragraph 1, is no longer numbered and
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-A new Article 11a is added, setting out requirements for making information referred to in Article 6(1) accessible through the European single access point (ESAP), including submission to a collection body, format and metadata requirements, obtaining a legal entity identifier, designation of the competent authority as collection body, and mandates for ESMA to develop implementing technical standards and guidelines. [Art. 11a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_11a)
+This is a new article requiring that when information referred to elsewhere in the Regulation is made public, it must also be submitted to a collection body so it can be made accessible on the European single access point, along with specified metadata and format requirements. [Art. 11a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_11a)
+
+The article also assigns ESMA the task of developing implementing technical standards on additional metadata, data structuring, and machine-readable format requirements, and provides for ESMA to adopt guidelines on the correctness of submitted metadata. [Art. 11a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_11a)
 
 *after* (`02012R0236-20240109`)
 
 > Article 11a
 > Accessibility of information on the European single access point
-> 1. From 10 July 2026, when making public any information referred to in Article 6(1) of this Regulation, the natural or legal person shall submit that information at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> 1. From 10 July 2026, when making public any information referred to in Article 6(1) of this Regulation, the natural or legal person shall submit that information at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the natural or legal person to which the information relates;
 > (ii) for legal persons, the legal entity identifier of the person, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
-> (iii) for legal persons, the size of the person by category, as specified pursuant to […truncated by emendrix: 1577 characters omitted…]
+> (iii) for legal persons, the size of the person by category, as specified pursuant t […truncated by emendrix: 1578 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0236-20240109 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0236-20220131 -->
