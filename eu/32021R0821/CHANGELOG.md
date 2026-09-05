@@ -355,7 +355,7 @@ Several existing entries are lightly reworded, such as the "Diffusion bonding" d
 ### `02021R0821-20220107` → `02021R0821-20220505`
 
 - **Act** `eu:32021R0821` · **In force** 2022-05-05 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 0 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 38 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02021R0821-20220107` · `v2` = `02021R0821-20220505`
@@ -368,7 +368,7 @@ Several existing entries are lightly reworded, such as the "Diffusion bonding" d
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02021R0821-20220505 -->
