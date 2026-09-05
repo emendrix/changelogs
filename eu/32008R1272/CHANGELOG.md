@@ -3605,7 +3605,7 @@ The notes relating to classification and labelling of mixtures also gain a new N
 ### `02008R1272-20201114` → `02008R1272-20210510`
 
 - **Act** `eu:32008R1272` · **In force** 2021-05-10 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20201114` · `v2` = `02008R1272-20210510`
