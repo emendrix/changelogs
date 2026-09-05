@@ -1516,7 +1516,7 @@ The remaining text of entry 27a, including the purity, particle size, aspect rat
 ### `02009R1223-20190617` → `02009R1223-20190813`
 
 - **Act** `eu:32009R1223` · **In force** 2019-08-13 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 0 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 50 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20190617` · `v2` = `02009R1223-20190813`
@@ -1529,7 +1529,7 @@ The remaining text of entry 27a, including the purity, particle size, aspect rat
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20190813 -->
