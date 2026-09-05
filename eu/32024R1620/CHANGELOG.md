@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32024R1620` → `02024R1620-20251110`
 
 - **Act** `eu:32024R1620` · **In force** 2025-11-10 · **Detected** 2026-09-05
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **0 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 107 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32024R1620` · `v2` = `02024R1620-20251110`
