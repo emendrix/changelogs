@@ -1498,8 +1498,8 @@
           "location": "AR 501"
         },
         "heading": "Adjustment of risk-weighted non-defaulted SME exposures",
-        "before": "Article 501\nCapital requirements deduction for credit risk on exposures to SMEs\n1. Capital requirements for credit risk on exposures to SMEs shall be multiplied by the factor 0,7619.\n2. For the purpose of this Article:\n(a) the exposure shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes. Exposures in default shall be excluded;\n(b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprisesOJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;\n(c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential property collateral, shall not, to the knowledge of the institution, exceed EUR 1,5 million. The institution shall take reasonable steps to acquire such knowledge.\n3. Institutions shall report to competent authorities every three months on the total amount of exposures to SMEs calculated in accordance with paragraph 2.\n4. The Commission shall, by 28 June 2016, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament and to the Council, together with a legislative proposal, if appropriate.\n5. For the purpose of paragraph 4, EBA shall report on the following to the Commission:\n(a) an analysis of the evolution of the lending trends and conditions for SMEs over the period referred to in paragraph 4;\n(b) an analysis of effective riskiness of Union SMEs over a full economic cycle;\n(c) the consistency of own funds requirements laid down in this Regulation for credit risk on exposures to SMEs with the outcomes of the analysis under points (a) and (b).",
-        "after": "Article 501\nAdjustment of risk-weighted non-defaulted SME exposures\n1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable, in accordance with the following formula:RWEA*RWEAminE*; EUR 25000000,7619maxE*EUR 2500000; 00,85E*\nwhere:\nRWEA*\nthe RWEA adjusted by an SME supporting factor; and\nE*\nthe total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME.\n2. For the purposes of this Article:\n(a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;\n(b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).;; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;\n(c) institutions shall take reasonable steps to correctly determine E* and obtain the information required under point (b).",
+        "before": "Article 501\nCapital requirements deduction for credit risk on exposures to SMEs\n1. Capital requirements for credit risk on exposures to SMEs shall be multiplied by the factor 0,7619.\n2. For the purpose of this Article:\n(a) the exposure shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes. Exposures in default shall be excluded;\n(b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises\nOJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;\n(c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential property collateral, shall not, to the knowledge of the institution, exceed EUR 1,5 million. The institution shall take reasonable steps to acquire such knowledge.\n3. Institutions shall report to competent authorities every three months on the total amount of exposures to SMEs calculated in accordance with paragraph 2.\n4. The Commission shall, by 28 June 2016, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament and to the Council, together with a legislative proposal, if appropriate.\n5. For the purpose of paragraph 4, EBA shall report on the following to the Commission:\n(a) an analysis of the evolution of the lending trends and conditions for SMEs over the period referred to in paragraph 4;\n(b) an analysis of effective riskiness of Union SMEs over a full economic cycle;\n(c) the consistency of own funds requirements laid down in this Regulation for credit risk on exposures to SMEs with the outcomes of the analysis under points (a) and (b).",
+        "after": "Article 501\nAdjustment of risk-weighted non-defaulted SME exposures\n1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three, as applicable, in accordance with the following formula:RWEA*RWEAminE*; EUR 25000000,7619maxE*EUR 2500000; 00,85E*\nwhere:\nRWEA*\nthe RWEA adjusted by an SME supporting factor; and\nE*\nthe total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME.\n2. For the purposes of this Article:\n(a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;\n(b) an SME is defined in accordance with Commission Recommendation 2003/361/EC\nCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).;; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;\n(c) institutions shall take reasonable steps to correctly determine E* and obtain the information required under point (b).",
         "previous_location": null,
         "changed_within": [
           "AR 501",
@@ -1546,7 +1546,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The article's heading changed from referring to a capital requirements deduction for credit risk on SME exposures to referring to an adjustment of risk-weighted non-defaulted SME exposures.",
+          "text": "The heading and title changed from a flat capital requirements deduction described in a single multiplier to an adjustment of risk-weighted non-defaulted SME exposures expressed through a formula involving RWEA and E*.",
           "fallback": false,
           "citations": [
             {
@@ -1578,7 +1578,7 @@
           ]
         },
         {
-          "text": "Paragraph 1 changed from a flat multiplication of SME credit risk capital requirements by a fixed factor to a formula adjusting risk-weighted exposure amounts for non-defaulted SME exposures, introducing defined terms RWEA* and E* and thresholds expressed in euro amounts.",
+          "text": "Paragraph 1 no longer states a simple 0.7619 multiplier applied to capital requirements for SME credit risk, but instead sets out a calculation adjusting risk-weighted exposure amounts using defined terms RWEA* and E*, referencing Chapter 2 or 3 of Title II of Part Three.",
           "fallback": false,
           "citations": [
             {
@@ -1610,7 +1610,7 @@
           ]
         },
         {
-          "text": "The list of definitional points in paragraph 2 was altered, removing the earlier separate provisions on excluding exposures in default and on the EUR 1.5 million exposure ceiling and reporting requirement, and on the Commission and EBA reporting obligations that had appeared in paragraphs 3 through 5, replacing them with a single point on institutions taking reasonable steps to determine E* and obtain required information.",
+          "text": "The former paragraph 2(a) exclusion of exposures in default, paragraph 2(c)'s EUR 1.5 million knowledge-based threshold, and paragraphs 3, 4 and 5 on reporting to competent authorities, the Commission's 2016 report, and EBA's analysis are absent from the after text, which instead ends with a point (c) on institutions taking reasonable steps to determine E* and obtain required information.",
           "fallback": false,
           "citations": [
             {
@@ -2715,7 +2715,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3770,
+        "output_tokens": 491,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 501",
+      "occurrence": 0,
+      "digest": "sha256:516c1c3dcce1b0a3ff5c35fe39c07e6dd23bcd4548e130fe6c74adff4121ae8f"
+    }
+  ]
 }

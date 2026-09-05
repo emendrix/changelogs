@@ -28816,11 +28816,11 @@ The new provision distinguishes treatment under trade date accounting from treat
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The article's heading changed from referring to a capital requirements deduction for credit risk on SME exposures to referring to an adjustment of risk-weighted non-defaulted SME exposures. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
+The heading and title changed from a flat capital requirements deduction described in a single multiplier to an adjustment of risk-weighted non-defaulted SME exposures expressed through a formula involving RWEA and E*. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
 
-Paragraph 1 changed from a flat multiplication of SME credit risk capital requirements by a fixed factor to a formula adjusting risk-weighted exposure amounts for non-defaulted SME exposures, introducing defined terms RWEA* and E* and thresholds expressed in euro amounts. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
+Paragraph 1 no longer states a simple 0.7619 multiplier applied to capital requirements for SME credit risk, but instead sets out a calculation adjusting risk-weighted exposure amounts using defined terms RWEA* and E*, referencing Chapter 2 or 3 of Title II of Part Three. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
 
-The list of definitional points in paragraph 2 was altered, removing the earlier separate provisions on excluding exposures in default and on the EUR 1.5 million exposure ceiling and reporting requirement, and on the Commission and EBA reporting obligations that had appeared in paragraphs 3 through 5, replacing them with a single point on institutions taking reasonable steps to determine E* and obtain required information. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
+The former paragraph 2(a) exclusion of exposures in default, paragraph 2(c)'s EUR 1.5 million knowledge-based threshold, and paragraphs 3, 4 and 5 on reporting to competent authorities, the Commission's 2016 report, and EBA's analysis are absent from the after text, which instead ends with a point (c) on institutions taking reasonable steps to determine E* and obtain required information. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
 
 *before* (`02013R0575-20191225`)
 
@@ -28829,10 +28829,11 @@ The list of definitional points in paragraph 2 was altered, removing the earlier
 > 1. Capital requirements for credit risk on exposures to SMEs shall be multiplied by the factor 0,7619.
 > 2. For the purpose of this Article:
 > (a) the exposure shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes. Exposures in default shall be excluded;
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprisesOJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises
+> OJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
 > (c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential property collateral, shall not, to the knowledge of the institution, exceed EUR 1,5 million. The institution shall take reasonable steps to acquire such knowledge.
 > 3. Institutions shall report to competent authorities every three months on the total amount of exposures to SMEs calculated in accordance with paragraph 2.
-> 4. The Commission shall, by 28 June 2016, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament and to […truncated by emendrix: 531 characters omitted…]
+> 4. The Commission shall, by 28 June 2016, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament and t […truncated by emendrix: 532 characters omitted…]
 
 *after* (`02013R0575-20200627`)
 
@@ -28846,7 +28847,8 @@ The list of definitional points in paragraph 2 was altered, removing the earlier
 > the total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME.
 > 2. For the purposes of this Article:
 > (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).;; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC
+> Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).;; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
 > (c) institutions shall take reasonable steps to correctly determine E* and obtain the information required under point (b).
 
 **MODIFIED · Art. 501a — Adjustment to own funds requirements for credit risk for exposures to entities that operate or finance physical structures or facilities, systems and networks that provide or support essential public services** · applies from: unchanged
