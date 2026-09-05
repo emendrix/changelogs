@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -15,21 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 2,
-    "modified": 19,
+    "modified": 18,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 21,
+    "touched_units": 20,
     "unchanged_units": 104,
-    "disputed": 1
+    "disputed": 0
   },
   "counts": {
-    "touched": 21,
-    "substantive": 21,
+    "touched": 20,
+    "substantive": 20,
     "date_only": 0,
-    "disputed": 1,
+    "textless": 0,
+    "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -144,7 +145,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -245,7 +247,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -345,7 +348,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -459,7 +463,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -587,7 +592,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -688,7 +694,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -789,7 +796,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -890,7 +898,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -991,7 +1000,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1105,7 +1115,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1225,7 +1236,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1325,7 +1337,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1420,64 +1433,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32016R2031",
-            "display_name": "Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC"
-          },
-          "version": "02016R2031-20250105",
-          "location": "AR 71"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R3115",
-            "display_name": "Regulation (EU) 2024/3115 of the European Parliament and of the Council of 27 November 2024 amending Regulation (EU) 2016/2031 as regards multiannual survey programmes, notifications concerning the presence of regulated non-quarantine pests, temporary derogations from import prohibitions and special import requirements and establishment of procedures for granting them, temporary import requirements for high-risk plants, plant products and other objects, the establishment of procedures for the listing of high-risk plants, the content of phytosanitary certificates and the use of plant passports, and as regards certain reporting requirements for demarcated areas and surveys of pests and amending Regulation (EU) 2017/625 as regards certain notifications of non-compliance"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "23 annotations in (2019-12-14, 2025-01-05]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (14)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1610,7 +1567,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1725,7 +1683,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1874,7 +1833,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1969,7 +1929,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2064,7 +2025,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2178,7 +2140,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2329,7 +2292,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -2668,7 +2632,6 @@
           "AR 42",
           "AR 42a",
           "AR 44",
-          "AR 71",
           "AR 81",
           "AR 88",
           "AR 94",
@@ -2677,7 +2640,7 @@
           "AR 104",
           "AR 105"
         ],
-        "note": "32024R3115, 1.000 of its instruction clauses read",
+        "note": "32024R3115, 1.000 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
         "claims": [
           {
             "location": "AR 18 PA 6 ALN 1",
@@ -2834,17 +2797,6 @@
             }
           },
           {
-            "location": "AR 71 PA 2",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (14)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R3115",
-              "display_name": "Regulation (EU) 2024/3115 of the European Parliament and of the Council of 27 November 2024 amending Regulation (EU) 2016/2031 as regards multiannual survey programmes, notifications concerning the presence of regulated non-quarantine pests, temporary derogations from import prohibitions and special import requirements and establishment of procedures for granting them, temporary import requirements for high-risk plants, plant products and other objects, the establishment of procedures for the listing of high-risk plants, the content of phytosanitary certificates and the use of plant passports, and as regards certain reporting requirements for demarcated areas and surveys of pests and amending Regulation (EU) 2017/625 as regards certain notifications of non-compliance"
-            }
-          },
-          {
             "location": "AR 81 PA 3",
             "change_type": "INSERTED",
             "in_force": null,
@@ -2962,49 +2914,27 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 20,
-        "right_units": 21,
+        "right_units": 20,
         "shared": 20,
         "precision": 1.0,
-        "recall": 0.9523809523809523,
-        "f1": 0.975609756097561,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 20,
-        "right_units": 21,
+        "right_units": 20,
         "shared": 20,
         "precision": 1.0,
-        "recall": 0.9523809523809523,
-        "f1": 0.975609756097561,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
-    "disagreements": [
-      {
-        "unit": "AR 71",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      }
-    ],
-    "metadata_only_units": [
-      "AR 71"
-    ]
+    "disagreements": [],
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -3017,6 +2947,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 1,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 94899,
       "output_tokens": 6198,
@@ -3036,5 +2967,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 21,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }

@@ -259,9 +259,9 @@ Paragraph 2 also adds a new sentence stating that, for one or more categories of
 ### `02016R2031-20191214` → `02016R2031-20250105`
 
 - **Act** `eu:32016R2031` · **In force** 2025-01-05 · **Detected** 2026-09-04
-- **Touched** 21 provisions — 21 substantive · 0 date-only · **1 disputed**
-- **Diff** 2 inserted · 19 modified · 0 deleted · 0 renumbered · 0 deferred · 104 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 20 provisions — 20 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 2 inserted · 18 modified · 0 deleted · 0 renumbered · 0 deferred · 104 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R2031-20191214` · `v2` = `02016R2031-20250105`
 
 ---
@@ -650,16 +650,6 @@ Point (a) of Article 44(1) now refers to special requirements concerning the int
 > (b) the third country concerned demonstrates to the Commission that the specified measures referred to in point (a) achieve the level of phytosanitary protection referred to in that point.
 > Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
 > 2. Where appropriate, the Commission shall carry out investigations in the third country concerned and in accordance with Article 120 of Regulation (EU) 2017/625, to verify whether the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 1 of this Article are fulfilled.
-
-**MODIFIED · Art. 71** · applies from: unknown
-
-*amended by* `32024R3115`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 81 — Exception for direct supply to final users** · applies from: unchanged
 
