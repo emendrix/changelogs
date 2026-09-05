@@ -807,7 +807,7 @@ A new standalone report obligation is added requiring the Commission to report b
 ### `02014R0596-20210101` → `02014R0596-20240109`
 
 - **Act** `eu:32014R0596` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 41 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0596-20210101` · `v2` = `02014R0596-20240109`
