@@ -26,11 +26,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I SCT 10 SCT 10.4 SCT 10.4.1 PTA (b)`, `AN I SCT 10 SCT 10.4 SCT 10.4.2 PTA (d)`, `AN I SCT 10 SCT 10.4 SCT 10.4.3`, `AN I SCT 10 SCT 10.4 SCT 10.4.4` · *dates* -2018-05-26 -2020-05-26 · *amended by* `32025R2457`
 
-Section 10.4.1(b) now defines the covered endocrine-disrupting substances by reference to Category 1 classification under Annex VI of Regulation (EC) No 1272/2008, in addition to substances identified under the Article 59 REACH procedure or under Regulation (EU) No 528/2012, replacing the earlier text that relied only on the REACH Article 59 procedure or a delegated act under Regulation (EU) No 528/2012. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I)
+Section 10.4.1(b) now defines the covered endocrine-disrupting substances by reference to Category 1 endocrine disruptor classification under Part 3 of Annex VI to Regulation (EC) No 1272/2008, in addition to substances identified under Article 59 of Regulation (EC) No 1907/2006 or under Regulation (EU) No 528/2012, replacing the prior wording that referenced identification solely via Article 59 of Regulation (EC) No 1907/2006 or a delegated act under Article 5(3) of Regulation (EU) No 528/2012. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I)
 
-Section 10.4.2(d) now refers to the latest relevant guidelines generally, dropping the earlier reference to guidelines from the relevant scientific committee. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I)
+Section 10.4.2(d) now refers to the latest relevant guidelines generally, removing the earlier reference to guidelines from the relevant scientific committee. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I)
 
-Sections 10.4.3 and 10.4.4 now describe the Commission requesting the European Chemicals Agency (ECHA) to prepare and update phthalate and other CMR/endocrine-disruptor guidelines on a recurring at-least-every-five-years basis, with possible consultation of ECHA's Committee for Risk Assessment and Committee for Socio-economic Analysis, replacing the earlier text that set a mandate deadline of 26 May 2018 for guidelines to be ready by 26 May 2020 and referred to a relevant scientific committee rather than ECHA. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I)
+Sections 10.4.3 and 10.4.4 now assign the guideline-preparation task to the European Chemicals Agency (ECHA), including consultation of its Committee for Risk Assessment and Committee for Socio-economic Analysis when appropriate, replacing the earlier text that mandated the relevant scientific committee to prepare and update the phthalate and other CMR/endocrine-disrupting substance guidelines by the specified 2018 and 2020 dates. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#anx_I)
 
 *before* (`02017R0745-20250110`)
 
@@ -44,7 +44,7 @@ Sections 10.4.3 and 10.4.4 now describe the Commission requesting the European C
 > Risk management shall be understood as a continuous iterative process throughout the entire lifecycle of a device, requiring regular systematic updating. In carrying out risk management manufacturers shall:
 > (a) establish and document a risk management plan for each device;
 > (b) identify and analyse the known and foreseeable hazards associated with each device;
-> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50131 characters omitted…]
+> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50135 characters omitted…]
 
 *after* (`02017R0745-20260101`)
 
@@ -58,7 +58,7 @@ Sections 10.4.3 and 10.4.4 now describe the Commission requesting the European C
 > Risk management shall be understood as a continuous iterative process throughout the entire lifecycle of a device, requiring regular systematic updating. In carrying out risk management manufacturers shall:
 > (a) establish and document a risk management plan for each device;
 > (b) identify and analyse the known and foreseeable hazards associated with each device;
-> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50935 characters omitted…]
+> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50940 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0745-20260101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20250110 -->
