@@ -1032,11 +1032,11 @@ The provision changes the wording describing where credit rating agencies are re
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-The definition of regulatory purposes in point (g) now refers to compliance with Union law directly, or with Union law as implemented by national legislation, replacing the earlier reference to Community law as implemented by national legislation. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_3)
+The definition of regulatory purposes was reworded to refer to compliance with Union law, or with Union law as implemented by national legislation, rather than Community law implemented by national legislation, and the group of credit rating agencies definition now refers to undertakings established in the Union instead of the Community. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
 
-Point (m) now refers to a group of undertakings established in the Union rather than in the Community, and a series of new points (pa) through (pj) are added defining terms such as credit institution, investment firm, insurance undertaking, reinsurance undertaking, institution for occupational retirement provision, management company, investment company, alternative investment fund manager, central counterparty and prospectus, with points (q) and (r) updated to reference these new points and points (s) through (aa) added defining issuer, originator, sponsor, sovereign rating, rating outlook, unsolicited credit rating and unsolicited sovereign rating, credit score, regulated market and re-securitisation. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
+A new set of definitions, points (pa) through (pj), was inserted covering terms such as credit institution, investment firm, insurance undertaking, reinsurance undertaking, institution for occupational retirement provision, management company, investment company, alternative investment fund manager, central counterparty and prospectus, and the definitions of sectoral legislation and sectoral competent authorities were rewritten to reference these new points and additional entity types. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
 
-A new paragraph 3 is added defining the term shareholder as including beneficial owners as defined in point (6) of Article 3 of Directive 2005/60/EC. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
+Further new definitions were added as points (s) through (aa) covering issuer, originator, sponsor, sovereign rating, rating outlook, unsolicited credit rating and unsolicited sovereign rating, credit score, regulated market and re-securitisation, and a new paragraph 3 was added defining shareholder to include beneficial owners as defined in Directive 2005/60/EC. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
 
 *before* (`02009R1060-20110721`)
 
@@ -1057,7 +1057,7 @@ A new paragraph 3 is added defining the term shareholder as including beneficial
 >
 > (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
 >
-> (g) regulatory purposes means the use of credit ra […truncated by emendrix: 3769 characters omitted…]
+> (g) regulatory purposes means the use of credit ra […truncated by emendrix: 3773 characters omitted…]
 
 *after* (`02009R1060-20130620`)
 
@@ -1070,7 +1070,7 @@ A new paragraph 3 is added defining the term shareholder as including beneficial
 > (d) rating analyst means a person who performs analytical functions that are necessary for the issuing of a credit rating;
 > (e) lead rating analyst means a person with primary responsibility for elaborating a credit rating or for communicating with the issuer with respect to a particular credit rating or, generally, with respect to the credit rating of a financial instrument issued by that issuer and, where relevant, for preparing recommendations to the rating committee in relation to such rating;
 > (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
-> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 7835 characters omitted…]
+> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 7844 characters omitted…]
 
 **MODIFIED · Art. 3.1** · applies from: unknown
 
@@ -1098,11 +1098,11 @@ A new paragraph 3 is added defining the term shareholder as including beneficial
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-The list of entities covered in paragraph 1 was rewritten from named categories with specific directive citations and dates into a shorter list of entity types (credit institutions, investment firms, insurance undertakings, reinsurance undertakings, institutions for occupational retirement provision, management companies, investment companies, alternative investment fund managers and central counterparties) without the earlier directive references and dates. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
+The list of entities covered by paragraph 1 was shortened, replacing the detailed named directives and their dates (covering credit institutions, investment firms, insurance and reinsurance undertakings, UCITS, occupational retirement institutions, and alternative investment funds) with a plain list of entity types including management companies, investment companies, alternative investment fund managers and central counterparties, and the reference to 'Community' was changed to 'Union' throughout. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
 
-References to the credit rating agency being established in the Community were changed to established in the Union throughout paragraphs 1 through 4, and the prospectus reference in paragraph 1 no longer cites Directive 2003/71/EC and Regulation (EC) No 809/2004. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
+The prospectus reference in paragraph 1 dropped its citation to Directive 2003/71/EC and Regulation (EC) No 809/2004, now referring simply to a prospectus containing a credit rating reference. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
 
-Paragraph 3(b) now adds that the stringency comparison also covers Annex I, while excluding Articles 6a, 6b, 8a, 8b, 8c and 11a, point (ba) of point 3, and points 3a and 3b of Section B of Annex I, which were not present before. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
+Paragraph 3(b) now adds exceptions, excluding Articles 6a, 6b, 8a, 8b, 8c and 11a and certain points of Section B of Annex I from the stringency comparison, alongside a reference to Annex I that was not previously present. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
 
 *before* (`02009R1060-20110721`)
 
@@ -1110,7 +1110,12 @@ Paragraph 3(b) now adds that the stringency comparison also covers Annex I, whil
 > Use of credit ratings
 >
 > 1.
-> Credit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the take-up and pursuit of the business of direct insurance other than life assuranceOJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assuranceOJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsuranceOJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds as defined in Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund ManagersOJ L 174, 1.7.2011, p. 1. may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with […truncated by emendrix: 4564 characters omitted…]
+> Credit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the take-up and pursuit of the business of direct insurance other than life assurance
+> OJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance
+> OJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsurance
+> OJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)
+> OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds as defined in Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers
+> OJ L 174, 1.7.2011, p. 1. may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance […truncated by emendrix: 4570 characters omitted…]
 
 *after* (`02009R1060-20130620`)
 
@@ -1119,7 +1124,7 @@ Paragraph 3(b) now adds that the stringency comparison also covers Annex I, whil
 > 1. Credit institutions, investment firms, insurance undertakings, reinsurance undertakings, institutions for occupational retirement provision, management companies, investment companies, alternative investment fund managers and central counterparties may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with this Regulation.
 > Where a prospectus contains a reference to a credit rating or credit ratings, the issuer, offeror, or person asking for admission to trading on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether or not such credit ratings are issued by a credit rating agency established in the Union and registered under this Regulation.
 > 2. A credit rating agency established in the Union and registered in accordance with this Regulation shall be deemed to have issued a credit rating when the credit rating has been published on the credit rating agency’s website or by other means or distributed by subscription and presented and disclosed in accordance with the obligations of Article 10, clearly identifying that the credit rating is endorsed in accordance with paragraph 3 of this Article.
-> 3. A credit rating agency established in the Union and registered in accordance with this Regulation may endorse a credit rating issued in a third country only when credit rating activities resulting […truncated by emendrix: 3542 characters omitted…]
+> 3. A credit rating agency established in the Union and registered in accordance with this Regulation may endorse a credit rating issued in a third country only when credit rating activities resulting […truncated by emendrix: 3543 characters omitted…]
 
 **MODIFIED · Art. 4.1** · applies from: unknown
 
@@ -1231,16 +1236,19 @@ It also directs sectoral competent authorities supervising those entities to mon
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-A new Article 5b sets out that the EBA, EIOPA and ESMA are not to refer to credit ratings in their guidelines, recommendations and draft technical standards where such references could trigger sole or mechanistic reliance on those ratings by competent authorities, sectoral competent authorities, the entities referred to in Article 4(1) first subparagraph, or other financial market participants, and that by 31 December 2013 these three authorities are to review and, where appropriate, remove such references from existing guidelines and recommendations. [Art. 5b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5b)
+This provision is newly added, setting out that EBA, EIOPA and ESMA are not to refer to credit ratings in their guidelines, recommendations and draft technical standards where doing so could trigger sole or mechanistic reliance on credit ratings, and that these authorities are to review and remove such references from existing guidelines and recommendations by 31 December 2013. [Art. 5b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5b)
 
-The same new article states that the European Systemic Risk Board is not to refer to credit ratings in its warnings and recommendations where such references could trigger sole or mechanistic reliance on credit ratings. [Art. 5b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5b)
+It also states that the European Systemic Risk Board is not to refer to credit ratings in its warnings and recommendations where such references could trigger sole or mechanistic reliance on credit ratings. [Art. 5b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5b)
 
 *after* (`02009R1060-20130620`)
 
 > Article 5b
 > Reliance on credit ratings by the European Supervisory Authorities and the European Systemic Risk Board
-> 1. The European Supervisory Authority (European Banking Authority) (EBA) established by Regulation (EU) No 1093/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 12., the European Supervisory Authority (European Insurance and Occupational Pensions Authority) (EIOPA) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 48. and ESMA shall not refer to credit ratings in their guidelines, recommendations and draft technical standards where such references have the potential to trigger sole or mechanistic reliance on credit ratings by the competent authorities, the sectoral competent authorities, the entitites referred to in the first subparagraph of Article 4(1) or other financial market participants. Accordingly, by 31 December 2013, EBA, EIOPA and ESMA shall review and remove, where appropriate, all such references to credit ratings in existing guidelines and recommendations.
-> 2. The European Systemic Risk Board (ESRB) established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk BoardOJ L 331, 15.12.2010, p. 1. shall not refer to credit ratings in its warnings and recommendations where such references have the potential to t […truncated by emendrix: 54 characters omitted…]
+> 1. The European Supervisory Authority (European Banking Authority) (EBA) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council
+> OJ L 331, 15.12.2010, p. 12., the European Supervisory Authority (European Insurance and Occupational Pensions Authority) (EIOPA) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council
+> OJ L 331, 15.12.2010, p. 48. and ESMA shall not refer to credit ratings in their guidelines, recommendations and draft technical standards where such references have the potential to trigger sole or mechanistic reliance on credit ratings by the competent authorities, the sectoral competent authorities, the entitites referred to in the first subparagraph of Article 4(1) or other financial market participants. Accordingly, by 31 December 2013, EBA, EIOPA and ESMA shall review and remove, where appropriate, all such references to credit ratings in existing guidelines and recommendations.
+> 2. The European Systemic Risk Board (ESRB) established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board
+> OJ L 331, 15.12.2010, p. 1. shall not refer to credit ratings in its warnings and recommendations where such references have the potential t […truncated by emendrix: 57 characters omitted…]
 
 **INSERTED · Art. 5c — Over-reliance on credit ratings in Union law** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -1670,9 +1678,7 @@ Paragraph 3 gains an added subparagraph requiring a credit rating agency to noti
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-In the second paragraph, the earlier long-form references to the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 and to the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010, including their official-journal footnote citations, are replaced with the short forms EBA and EIOPA. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_18)
-
-The substantive list of addressees ESMA communicates decisions to, and the rest of Article 18, remain the same. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_18)
+In paragraph 2, the earlier text spelled out the full names of the European Banking Authority and the European Insurance and Occupational Pensions Authority together with their establishing regulations and Official Journal references, while the later text simply refers to them by the abbreviations EBA and EIOPA. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_18)
 
 *before* (`02009R1060-20110721`)
 
@@ -1681,7 +1687,9 @@ The substantive list of addressees ESMA communicates decisions to, and the rest 
 > 1.
 > Within five working days of the adoption of a decision under Article 16, 17 or 20 ESMA shall notify its decision to the credit rating agency concerned. Where ESMA refuses to register the credit rating agency or withdraws the registration of the credit rating agency, it shall provide full reasons in its decision.
 > 2.
-> ESMA shall communicate to the Commission, the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 12. (EBA), the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 48. (EIOPA), the competent authorities and the sectoral competent authorities, any decision under Article 16, 17 or 20.
+> ESMA shall communicate to the Commission, the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council
+> OJ L 331, 15.12.2010, p. 12. (EBA), the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council
+> OJ L 331, 15.12.2010, p. 48. (EIOPA), the competent authorities and the sectoral competent authorities, any decision under Article 16, 17 or 20.
 > 3.
 > ESMA shall publish on its website a list of credit rating agencies registered in accordance with this Regulation. That list shall be updated within five working days following the adoption of a decision under Article 16, 17 or 20. The Commission shall publish that updated list in the Official Journal of the European Union within 30 days following such update.
 
@@ -2038,11 +2046,11 @@ It also requires a report by 31 December 2014 on a European creditworthiness ass
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-Annex I now extends most independence, conflict-of-interest, record-keeping and disclosure requirements in Sections B, C and D to cover rating outlooks alongside credit ratings, and adds new ownership-based conflict provisions tied to shareholders or members holding 5% or 10% or more of a credit rating agency's capital or voting rights. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I)
+Section B and Section C now extend most of the independence and record-keeping obligations that previously applied only to credit ratings so that they also cover rating outlooks, and add new conflict-of-interest triggers based on shareholders or members holding 5% or 10% or more of a credit rating agency's capital or voting rights, or otherwise able to exercise significant influence over it, including new obligations on fee non-discrimination and on indirect shareholders and controlling companies. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I)
 
-Section B gains new points 3(aa), (ba), (ca), 3a, 3b and 3c addressing shareholder ownership thresholds, indirect shareholders, and non-discriminatory fee-setting, none of which appeared in the earlier text, while point 4 is broadened to also bind persons holding at least 5% of the agency's capital or voting rights. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#anx_I)
+Section D adds a new Part III on sovereign ratings covering research reports, publication timing, and treatment of policy recommendations, alongside expanded disclosure duties tied to rating outlooks, historical default rate references, and a shortened notice period to the rated entity before publication, while Section E adds new periodic disclosure items on client fee lists, pricing policy, staff allocation by asset class, and expanded revenue and turnover reporting. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I)
 
-Section C point 8 is restructured so the four-year, five-year and seven-year rotation limits are reorganised into points (a) and (b) with sub-points (i) and (ii) and made subject to a carve-out for agencies appointed by an issuer or related third party and for sovereign-rating agencies, and Section D is expanded with a new Part III on sovereign ratings and additional disclosure items in Section E, including fee and pricing-policy disclosures and turnover breakdowns, that were absent before. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#anx_I)
+The prior single provision in Section D governing analyst rotation periods for lead analysts, other analysts and approving persons has been reorganised into separate points distinguishing agencies appointed by an issuer from other agencies and sovereign-rating agencies, and the analyst rotation and confidentiality provisions in Section C are likewise reworded to include rating outlooks. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I)
 
 *before* (`02009R1060-20110721`)
 
@@ -2065,7 +2073,7 @@ Section C point 8 is restructured so the four-year, five-year and seven-year rot
 > A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dism […truncated by emendrix: 26011 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dism […truncated by emendrix: 26015 characters omitted…]
 
 *after* (`02009R1060-20130620`)
 
@@ -2080,7 +2088,7 @@ Section C point 8 is restructured so the four-year, five-year and seven-year rot
 > 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34440 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 34444 characters omitted…]
 
 **MODIFIED · Annex II — INFORMATION TO BE PROVIDED IN THE APPLICATION FOR REGISTRATION** · applies from: unchanged
 
