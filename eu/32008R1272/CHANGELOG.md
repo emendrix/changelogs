@@ -3266,7 +3266,7 @@ Both texts are shown truncated partway through the substance listing table, so a
 ### `02008R1272-20220301` → `02008R1272-20221217`
 
 - **Act** `eu:32008R1272` · **In force** 2022-12-17 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20220301` · `v2` = `02008R1272-20221217`
