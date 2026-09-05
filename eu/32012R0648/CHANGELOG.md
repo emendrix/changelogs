@@ -4314,7 +4314,7 @@ All other paragraphs of Article 39, covering segregation, disclosure, right of u
 ### `02012R0648-20190101` → `02012R0648-20190617`
 
 - **Act** `eu:32012R0648` · **In force** 2019-06-17 · **Detected** 2026-08-13
-- **Touched** 27 provisions — 27 substantive · 0 date-only · **4 disputed**
+- **Touched** 27 provisions — 24 substantive · 0 date-only · 3 with no text · **4 disputed**
 - **Diff** 3 inserted · 24 modified · 0 deleted · 0 renumbered · 0 deferred · 77 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20190101` · `v2` = `02012R0648-20190617`
@@ -4610,7 +4610,7 @@ The submission deadline text was also changed so that the ESAs submit the draft 
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4620,7 +4620,7 @@ The submission deadline text was also changed so that the ESAs submit the draft 
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4860,7 +4860,7 @@ The article further specifies that, upon a request from such third-country autho
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
