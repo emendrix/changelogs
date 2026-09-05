@@ -2014,7 +2014,7 @@ The reference to the amendment laid down in Article 72 applying alongside these 
 ### `32014R0909` → `02014R0909-20160701`
 
 - **Act** `eu:32014R0909` · **In force** 2016-07-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 74 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32014R0909` · `v2` = `02014R0909-20160701`
