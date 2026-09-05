@@ -88,7 +88,7 @@ The remaining text, previously labeled as paragraph 1, is no longer numbered and
 ### `02012R0236-20220131` → `02012R0236-20240109`
 
 - **Act** `eu:32012R0236` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0236-20220131` · `v2` = `02012R0236-20240109`
