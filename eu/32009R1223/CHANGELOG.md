@@ -1111,7 +1111,7 @@ No such paragraph existed in the earlier version of Article 2. [Art. 2, v1](http
 ### `02009R1223-20200501` → `02009R1223-20201203`
 
 - **Act** `eu:32009R1223` · **In force** 2020-05-26, 2020-12-03 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **1 disputed**
+- **Touched** 4 provisions — 3 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20200501` · `v2` = `02009R1223-20201203`
@@ -1124,7 +1124,7 @@ No such paragraph existed in the earlier version of Article 2. [Art. 2, v1](http
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1132,86 +1132,136 @@ No such paragraph existed in the earlier version of Article 2. [Art. 2, v1](http
 
 *within* `AN II` · *dates* +2021-09-03 +2022-06-03 · *amended by* `32020R1683`
 
-The introductory notes section gains two additional sentences stating that from 3 September 2021 hair and eyelash dye products containing the referenced substances shall not be placed on the Union market, and from 3 June 2022 such products shall not be made available on the Union market. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_II)
+The AFTER text adds two new sentences to the introductory notes stating that from 3 September 2021 hair and eyelash dye products containing those substances shall not be placed on the Union market, and that from 3 June 2022 such products shall not be made available on the Union market. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_II)
 
-This added text follows the existing note about hair dye, eyebrow dye and eyelash dye products and their 2019/2020 market restrictions, which remains unchanged from the earlier version. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_II)
-
-The rest of the numbered substance list appears identical between the two texts as far as shown, though both versions are truncated before the end of the list. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_II)
+This addition follows the existing set of introductory market-restriction statements that remain unchanged from the BEFORE text. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_II)
 
 *before* (`02009R1223-20200501`)
 
 > ANNEX II
 > LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
-> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 22 November 2019 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be placed on the Union market. From 22 February 2020 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be made available on the Union market.
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
+> From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 22 November 2019 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be placed on the Union market. From 22 February 2020 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be made available on the Union market.
 > Reference number Substance identification
 > Chemical name/INN CAS number EC number
 > a b c d
 > 1 N-(5-Chlorobenzoxazol-2-yl)acetamide 35783-57-4 2 (2-Acetoxyethyl)trimethylammonium hydroxide (Acetylcholine) and its salts 51-84-3 200-128-9
-> 3 Deanol aceglumate […truncated by emendrix: 163440 characters omitted…]
+> 3 Deanol ac […truncated by emendrix: 163452 characters omitted…]
 
 *after* (`02009R1223-20201203`)
 
 > ANNEX II
 > LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
-> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 22 November 2019 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be placed on the Union market. From 22 February 2020 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be made available on the Union market.From 3 September 2021 hair and eyelash dye products containing those substances shall not be placed on the Union market.
-> From 3 June 2022 hair and eyelash dye products containing those substances shall not be made available on the Union market.
-> Referenc […truncated by emendrix: 164030 characters omitted…]
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
+> From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 22 November 2019 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be placed on the Union market. From 22 February 2020 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be made available on the Union market.
+> From 3 September 2021 hair and eyelash dye products containing those substances shall not be placed on the Union market.
+> From 3 June 2022 hair and eyelash dye products containing those substances shall not be made available on the Union market. […truncated by emendrix: 164046 characters omitted…]
 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2021-06-03 +2021-09-03 +2021-12-03 · *amended by* `32020R1683`, `32020R1682`
 
-The AFTER text adds two further footnote entries at the end of the introductory notes, each stating that from 3 June 2021 products containing an unnamed substance and not complying with certain conditions shall not be placed on the Union market, and that from 3 September 2021 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_III)
+The later version adds two new notes, each stating that from 3 June 2021 products containing a given substance and not complying with certain conditions shall not be placed on the Union market, and that from 3 September 2021 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_III)
 
-These two additional sentences do not appear in the BEFORE text, which ends its footnote list with the 27 November 2019 and 27 February 2020 provisions on a chlorophenoxy substance. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_III)
+These two notes do not appear in the earlier version of the annex. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_III)
 
-Both texts are truncated before the remainder of the table, so any further differences in the substance entries themselves cannot be described here. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_III)
+The remainder of the text shown is truncated, so any further differences beyond what is visible cannot be described. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_III)
 
 *before* (`02009R1223-20200501`)
 
 > ANNEX III
 > LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
-> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative see Annex V, No 3.Solely for products which might be used for children under 3 years of age.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.Directive 2005/36/EC of the European Parliament and of the Council of 7 Septe […truncated by emendrix: 159655 characters omitted…]
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> Directive 2005/36/EC of the European Parliament and of the Coun […truncated by emendrix: 159768 characters omitted…]
 
 *after* (`02009R1223-20201203`)
 
 > ANNEX III
 > LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
-> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative see Annex V, No 3.Solely for products which might be used for children under 3 years of age.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.Directive 2005/36/EC of the European Parliament and of the Council of 7 Septe […truncated by emendrix: 164908 characters omitted…]
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> Directive 2005/36/EC of the European Parliament and of the Coun […truncated by emendrix: 165025 characters omitted…]
 
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32020R1684`
 
-A new entry, numbered 32, has been added to the table for the substance Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, with its chemical name, CAS and EC numbers, and a maximum concentration of 3 % listed. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_VI)
+The table of allowed UV filters gains a new entry, reference number 32, for Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, listing its CAS and EC numbers and a maximum concentration of 3 %. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_VI)
 
-The new entry carries conditions restricting use to avoid exposure of the end-user's lungs by inhalation, prohibiting use with nitrosating agents with a stated maximum nitrosamine content of 50 μg/kg, and requiring storage in nitrite-free containers. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_VI)
+The new entry carries conditions stating it is not to be used in applications that may lead to exposure of the end-user's lungs by inhalation, that it must not be used with nitrosating agents with a maximum nitrosamine content of 50 μg/kg, and that it must be kept in nitrite-free containers. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_VI)
 
-All other entries and wording in the list remain the same as in the earlier version. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_VI)
+All other entries and the introductory notes of the annex remain as they were in the earlier version. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_VI)
 
 *before* (`02009R1223-20200501`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as ac […truncated by emendrix: 6501 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(a […truncated by emendrix: 6505 characters omitted…]
 
 *after* (`02009R1223-20201203`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as ac […truncated by emendrix: 6881 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(a […truncated by emendrix: 6885 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20201203 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20200501 -->
