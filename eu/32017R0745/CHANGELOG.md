@@ -66,7 +66,7 @@ Sections 10.4.3 and 10.4.4 now describe the Commission requesting the European C
 ### `02017R0745-20240709` → `02017R0745-20250110`
 
 - **Act** `eu:32017R0745` · **In force** 2025-01-01, 2025-01-10 · **Detected** 2026-08-12
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 139 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0745-20240709` · `v2` = `02017R0745-20250110`
@@ -94,9 +94,11 @@ The article further provides that the competent authority receiving this informa
 
 *within* `AR 106 PA 14 ALN 1`, `AR 106 PA 14 ALN 2`, `AR 106 PA 14 ALN 3` · *dates* +2022-01-25 · *amended by* `32024R0568`
 
-Paragraph 14 changes the phrase describing who the fees are payable to, from fees payable to the Commission to fees established under the procedure in paragraph 13, and rewords the cross-reference to Annex IX, Section 5.1, point (c). [Art. 106, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20240709#art_106) [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_106)
+Paragraph 14 changes the description of the fees from being payable to the Commission to being fees established under the paragraph 13 procedure, and it renumbers the internal reference from point (c) of Section 5.1 of Annex IX to Section 5.1, point (c), of Annex IX. [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_106)
 
-Two new paragraphs are added specifying that fees related to advice from expert panels are payable to EMA under Article 30, point (f), of Regulation (EU) 2022/123, and that fees related to advice from expert laboratories are payable to the Commission. [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_106)
+Two new subparagraphs are added specifying that fees related to advice from expert panels are payable to EMA under Article 30, point (f), of Regulation (EU) 2022/123, while fees related to advice from expert laboratories remain payable to the Commission. [Art. 106, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20250110#art_106)
+
+The earlier version contained no such split of fee recipients between EMA and the Commission and simply referred to fees payable to the Commission. [Art. 106, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20240709#art_106)
 
 *before* (`02017R0745-20240709`)
 
@@ -112,7 +114,7 @@ Two new paragraphs are added specifying that fees related to advice from expert 
 > Provision of scientific, technical and clinical opinions and advice
 > 1. The Commission shall, by means of implementing acts and in consultation with the MDCG, make provision for expert panels to be designated for the assessment of the clinical evaluation in relevant medical fields as referred to in paragraph 9 of this Article and to provide views in accordance with Article 48(6) of Regulation (EU) 2017/746 on the performance evaluation of certain in vitro diagnostic medical devices and, where necessary, for categories or groups of devices, or for specific hazards relating to categories or groups of devices, observing the principles of highest scientific competence, impartiality, independence and transparency. The same principles shall apply where the Commission decides to appoint expert laboratories in accordance with paragraph 7 of this Article.
 > 2. Expert panels and expert laboratories may be designated in areas where the Commission, in consultation with the MDCG, has identified a need for the provision of consistent scientific, technical and/or clinical advice or laboratory expertise in relation to the implementation of this Regulation. Expert panels and expert laboratories may be appointed on a standing or temporary basis.
-> 3. Expert panels shall consist of advisors appointed by the Commission on the basis of up-to-date clinical, scientific or technical expertise in the field and with a geographical distribution that reflects the diversity of scientific and clini […truncated by emendrix: 7568 characters omitted…]
+> 3. Expert panels shall consist of advisors appointed by the Commission on the basis of up-to-date clinical, scientific or technical expertise in the field and with a geographical distribution that reflects the diversity of scientific and clini […truncated by emendrix: 7569 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0745-20250110 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20240709 -->
