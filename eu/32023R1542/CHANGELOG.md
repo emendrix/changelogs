@@ -134,7 +134,7 @@ In point (q) of section 1, the cross-reference to the marking requirements chang
 ### `02023R1542-20230728` → `02023R1542-20240718`
 
 - **Act** `eu:32023R1542` · **In force** 2024-07-18 · **Detected** 2026-08-12
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02023R1542-20230728` · `v2` = `02023R1542-20240718`
