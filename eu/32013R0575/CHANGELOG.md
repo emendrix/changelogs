@@ -388,7 +388,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02013R0575-20250629` → `02013R0575-20260101`
 
 - **Act** `eu:32013R0575` · **In force** 2026-01-01 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 0 substantive · 1 date-only · **0 disputed**
+- **Touched** 1 provisions — 0 substantive · 1 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 1 deferred · 789 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20250629` · `v2` = `02013R0575-20260101`
