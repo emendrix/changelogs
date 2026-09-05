@@ -83,7 +83,7 @@ Paragraph 2, which extends that exemption to non-UCITS funds offered to retail i
 ### `02014R1286-20161224` → `02014R1286-20190801`
 
 - **Act** `eu:32014R1286` · **In force** 2019-08-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 0 substantive · 2 date-only · **0 disputed**
+- **Touched** 2 provisions — 0 substantive · 2 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 2 deferred · 32 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R1286-20161224` · `v2` = `02014R1286-20190801`
