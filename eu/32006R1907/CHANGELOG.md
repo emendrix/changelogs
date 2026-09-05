@@ -3718,7 +3718,7 @@ The earlier version's introductory footnotes and directive-reference list differ
 ### `02006R1907-20090120` → `02006R1907-20090220`
 
 - **Act** `eu:32006R1907` · **In force** 2009-02-20 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Touched** 4 provisions — 3 substantive · 0 date-only · 1 with no text · **4 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 155 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20090120` · `v2` = `02006R1907-20090220`
@@ -3842,7 +3842,7 @@ Section 3.3 no longer contains the earlier instruction for the Commission to ado
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
