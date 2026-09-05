@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02016R1011-20250117` → `02016R1011-20260101`
 
 - **Act** `eu:32016R1011` · **In force** 2026-01-01 · **Detected** 2026-08-13
-- **Touched** 31 provisions — 31 substantive · 0 date-only · **6 disputed**
+- **Touched** 31 provisions — 26 substantive · 0 date-only · 5 with no text · **6 disputed**
 - **Diff** 1 inserted · 30 modified · 0 deleted · 0 renumbered · 0 deferred · 60 unchanged
 - **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20250117` · `v2` = `02016R1011-20260101`
@@ -113,7 +113,7 @@ In point (24)(a)(ii) and (iii), the references identifying an approved publicati
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -123,7 +123,7 @@ In point (24)(a)(ii) and (iii), the references identifying an approved publicati
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -168,7 +168,7 @@ The earlier version required an explanation of how the methodology's key element
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -818,7 +818,7 @@ The remainder of Article 51, including paragraphs 1 through 4b and the first two
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -860,7 +860,7 @@ Paragraphs 1 through 7 remain unchanged between the two versions. [Art. 54, v1](
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20260101 -->
