@@ -323,7 +323,7 @@ The earlier text only stated that the Board of Supervisors may decide to admit o
 ### `02010R1095-20220812` → `02010R1095-20241230`
 
 - **Act** `eu:32010R1095` · **In force** 2024-12-24 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 91 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1095-20220812` · `v2` = `02010R1095-20241230`
@@ -334,25 +334,30 @@ The earlier text only stated that the Board of Supervisors may decide to admit o
 
 *within* `AR 1 PA 2 ALN 1` · *dates* +2012-07-04 +2023-05-31 · *amended by* `32024R2987`, `32023R1114`
 
-Paragraph 2 now lists Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories, and Regulation (EU) 2023/1114 on markets in crypto-assets, alongside the previously listed acts defining the scope of the Authority's powers. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_1)
+The list of legislative acts within the Authority's scope of action in paragraph 2 now includes Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories, and Regulation (EU) 2023/1114 on markets in crypto-assets, neither of which appeared in the earlier list. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_1) [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_1)
 
-The clause describing who the acts apply to has been expanded to also cover issuers or offerors of crypto-assets, persons seeking admission to trading, and crypto-asset service providers, in addition to firms providing investment services and collective investment undertakings marketing units or shares. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_1)
-
-The rest of Article 1, including paragraphs 1, 3, 3a, 4, 5 and 6, remains textually the same between the two versions. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_1)
+The description of persons to whom those acts apply, alongside firms providing investment services and collective investment undertakings marketing their units or shares, now also names issuers or offerors of crypto-assets, persons seeking admission to trading, and crypto-asset service providers. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_1)
 
 *before* (`02010R1095-20220812`)
 
 > Article 1
 > Establishment and scope of action
 > 1. This Regulation establishes a European Supervisory Authority (European Securities and Markets Authority) (hereinafter the Authority’).
-> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the CouncilDirective 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1)., Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., and to the extent that those acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares and the com […truncated by emendrix: 5515 characters omitted…]
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the Council
+> Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1)., Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., Regulation (EU) 2017/1129 of the European Parliament and of the Council
+> Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., and to the extent that those acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares and the […truncated by emendrix: 5520 characters omitted…]
 
 *after* (`02010R1095-20241230`)
 
 > Article 1
 > Establishment and scope of action
 > 1. This Regulation establishes a European Supervisory Authority (European Securities and Markets Authority) (hereinafter the Authority’).
-> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the CouncilDirective 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1)., Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., Regulation (EU) No 648/2012 of the European Parliament and of the CouncilRegulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1)., Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to tr […truncated by emendrix: 6209 characters omitted…]
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the Council
+> Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1)., Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., Regulation (EU) No 648/2012 of the European Parliament and of the Council
+> Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1)., Regulation (EU) 2017/1129 of the European Parliament and of the Council
+> Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted t […truncated by emendrix: 6216 characters omitted…]
 
 **MODIFIED · Art. 9 — Tasks related to consumer protection and financial activities** · applies from: unchanged
 
@@ -360,7 +365,7 @@ The rest of Article 1, including paragraphs 1, 3, 3a, 4, 5 and 6, remains textua
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The only visible change is punctuation at the end of point (e): the word "and" that followed the semicolon in the earlier text is absent in the later text, which instead ends point (e) with a plain semicolon. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_9)
+In point (e) of Article 9(1)(1), the trailing word "and" that followed the semicolon has been removed, leaving the list punctuation adjusted with no wording change to the substance of the point. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20241230#art_9)
 
 *before* (`02010R1095-20220812`)
 
@@ -376,7 +381,7 @@ The only visible change is punctuation at the end of point (e): the word "and" t
 > (e) contributing to a level playing field in the internal market where consumers and other users of financial services have fair access to financial services and products; and
 > (f) coordinating mystery shopping activities of competent authorities, if applicable.
 > 2. The Authority shall monitor new and existing financial activities and may adopt guidelines and recommendations with a view to promoting the safety and soundness of markets, and convergence and effectiveness of regulatory and supervisory practices.
-> 3. The Authority may also iss […truncated by emendrix: 2761 characters omitted…]
+> 3. The Authority may also iss […truncated by emendrix: 2762 characters omitted…]
 
 *after* (`02010R1095-20241230`)
 
@@ -392,7 +397,7 @@ The only visible change is punctuation at the end of point (e): the word "and" t
 > (e) contributing to a level playing field in the internal market where consumers and other users of financial services have fair access to financial services and products;
 > (f) coordinating mystery shopping activities of competent authorities, if applicable.
 > 2. The Authority shall monitor new and existing financial activities and may adopt guidelines and recommendations with a view to promoting the safety and soundness of markets, and convergence and effectiveness of regulatory and supervisory practices.
-> 3. The Authority may also issue w […truncated by emendrix: 2757 characters omitted…]
+> 3. The Authority may also issue w […truncated by emendrix: 2758 characters omitted…]
 
 **MODIFIED · Art. 29 — Common supervisory culture** · applies from: unchanged
 
