@@ -2232,11 +2232,9 @@ A new paragraph 7 is added empowering the Commission to adopt a delegated act by
 
 *within* `AR 3 PA 1 ALN 1 PO 23a`, `AR 3 PA 1 ALN 1 PO 23b`, `AR 3 PA 1 ALN 1 PO 23c` · *dates* +2016-10-05 · *amended by* `32019R2089`
 
-Three new definitions, points (23a), (23b) and (23c), have been inserted between the existing commodity benchmark definition and the regulated-data benchmark definition. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_3)
+Three new definitions are inserted after point (23): point (23a) defines an EU Climate Transition Benchmark by reference to a decarbonisation trajectory and minimum standards set out in delegated acts, point (23b) defines an EU Paris-aligned Benchmark by reference to alignment with the Paris Agreement's objectives, minimum standards in delegated acts, and non-significant harm to other ESG objectives, and point (23c) defines decarbonisation trajectory itself. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_3)
 
-Point (23a) defines an EU Climate Transition Benchmark by reference to a decarbonisation trajectory of the benchmark portfolio and construction in accordance with minimum standards to be laid down in delegated acts, point (23b) defines an EU Paris-aligned Benchmark by reference to carbon emissions alignment with the Paris Agreement objectives, construction under those same minimum standards, and a requirement that underlying-asset activities not significantly harm other ESG objectives, and point (23c) defines decarbonisation trajectory itself. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_3)
-
-The earlier text, shown before the amendment, contained no such points and moved directly from the commodity benchmark definition to the regulated-data benchmark definition. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R1011#art_3)
+None of these three points existed in the earlier version of Article 3, which ended its numbered definitions at point (23) before moving directly to point (24). [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R1011#art_3)
 
 *before* (`32016R1011`)
 
@@ -2254,7 +2252,7 @@ The earlier text, shown before the amendment, contained no such points and moved
 > (5) provision of a benchmark means:
 > (a) administering the arrangements for determining a benchmark;
 > (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
-> (c) determining a benchmark through the application of […truncated by emendrix: 13339 characters omitted…]
+> (c) determining a benchmark through the application of […truncated by emendrix: 13349 characters omitted…]
 
 *after* (`02016R1011-20191210`)
 
@@ -2272,7 +2270,7 @@ The earlier text, shown before the amendment, contained no such points and moved
 > (5) provision of a benchmark means:
 > (a) administering the arrangements for determining a benchmark;
 > (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
-> (c) determining a benchmark through the application of […truncated by emendrix: 15163 characters omitted…]
+> (c) determining a benchmark through the application of […truncated by emendrix: 15174 characters omitted…]
 
 **MODIFIED · Art. 13 — Transparency of methodology** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -2453,11 +2451,11 @@ Correspondingly, paragraph 10's reference to the maximum period is changed from 
 
 *within* `AR 27 PA 2a`, `AR 27 PA 2b` · *dates* +2019-11-27 +2019-12-09 +2020-04-30 +2021-12-31 · *amended by* `32019R2089`
 
-The revised text adds a new paragraph 2a requiring that, from 30 April 2020, the benchmark statement explain how ESG factors are reflected in each benchmark or family of benchmarks, or state that no such objectives are pursued, and adds further disclosure requirements for significant equity and bond benchmarks and for EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks tied to Article 9(3) of Regulation (EU) 2019/2088, plus a further requirement from 31 December 2021 on explaining alignment of methodology with carbon emission reduction targets or the Paris Agreement objectives for benchmarks other than interest rate and foreign exchange benchmarks. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_27)
+Two new paragraphs, 2a and 2b, have been inserted after paragraph 2, adding requirements that the benchmark statement explain how ESG factors are reflected in each benchmark or family of benchmarks, including statements on EU Climate Transition Benchmarks, EU Paris-aligned Benchmarks, and alignment with carbon emission reduction and Paris Agreement targets, with certain disclosures tied to the dates 30 April 2020 and 31 December 2021. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_27)
 
-A new paragraph 2b is also added, empowering the Commission to adopt delegated acts under Article 49 to supplement the Regulation by further specifying the information required under paragraph 2a and the standard format for references to ESG factors. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_27)
+Paragraph 2a also references the disclosure rules in Article 9(3) of Regulation (EU) 2019/2088, which is newly cited with its own dates of 27 November 2019 and 9 December 2019. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_27)
 
-The remainder of Article 27, including paragraphs 1, 2 and 3, is unchanged between the two versions. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R1011#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_27)
+New paragraph 2b empowers the Commission to adopt delegated acts under Article 49 to further specify the information required under paragraph 2a and the standard format for ESG factor references, a power that did not exist in the earlier version of this article. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R1011#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_27)
 
 *before* (`32016R1011`)
 
@@ -2481,15 +2479,15 @@ The remainder of Article 27, including paragraphs 1, 2 and 3, is unchanged betwe
 > The benchmark statement shall:
 > (a) clearly and unambiguously define the market or economic reality measured by the benchmark and the circumstances in which such measurement may become unreliable;
 > (b) lay down technical specifications that clearly and unambiguously identify the elements of the calculation of the benchmark in relation to which discretion may be exercised, the criteria applicable to the exercise of such discretion and the position of the persons that can exercise discretion, and how such discretion may be subsequently evaluated;
-> (c) provide notice o […truncated by emendrix: 4750 characters omitted…]
+> (c) provide notice o […truncated by emendrix: 4751 characters omitted…]
 
 **MODIFIED · Art. 42 — Administrative sanctions and other administrative measures** · applies from: unchanged
 
 *within* `AR 42 PA 1 ALN 1 PTA (a)` · *amended by* `32019R2089`
 
-In point (a) of Article 42(1), the list of articles whose infringement can trigger administrative sanctions is expanded to add references to Articles 19a, 19b and 19c, alongside the previously listed articles. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_42)
+The list of articles whose infringement triggers administrative sanctions under point (a) now includes Articles 19a, 19b and 19c alongside the previously listed articles. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_42)
 
-The wording also changes from listing the articles with 'and' before the final entry to using 'or' before the final entry. [Art. 42, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R1011#art_42) [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_42)
+The wording listing the articles was also changed from a comma-separated series ending in "and 34" to a series using "or" before the final article number. [Art. 42, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R1011#art_42) [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_42)
 
 *before* (`32016R1011`)
 
@@ -2502,7 +2500,7 @@ The wording also changes from listing the articles with 'and' before the final e
 > 2. In the event of an infringement referred to in paragraph 1, Member States shall, in conformity with national law, confer on competent authorities the power to impose at least the following administrative sanctions and other administrative measures:
 > (a) an order requiring the administrator or supervised entity responsible for the infringement to cease the conduct and to desist from repeating that conduct;
 > (b) the disgorgement of the profits gained or losses avoided because of the infringement where those can be determined;
-> (c) a public warning which indicates the administrator or supervised entity responsible and the nature of the […truncated by emendrix: 4329 characters omitted…]
+> (c) a public warning which indicates the administrator or supervised entity responsible and the nature of the […truncated by emendrix: 4332 characters omitted…]
 
 *after* (`02016R1011-20191210`)
 
@@ -2515,7 +2513,7 @@ The wording also changes from listing the articles with 'and' before the final e
 > 2. In the event of an infringement referred to in paragraph 1, Member States shall, in conformity with national law, confer on competent authorities the power to impose at least the following administrative sanctions and other administrative measures:
 > (a) an order requiring the administrator or supervised entity responsible for the infringement to cease the conduct and to desist from repeating that conduct;
 > (b) the disgorgement of the profits gained or losses avoided because of the infringement where those can be determined;
-> (c) a public warning which indicates the administrator or supervised entity responsible and the n […truncated by emendrix: 4342 characters omitted…]
+> (c) a public warning which indicates the administrator or supervised entity responsible and the n […truncated by emendrix: 4345 characters omitted…]
 
 **MODIFIED · Art. 49 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -2616,23 +2614,24 @@ Paragraph 4 sets a review by the Commission of minimum standards for EU Climate 
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Annex III is newly added text setting out methodology disclosure requirements for administrators of EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks, covering constituent lists, weighting criteria, exclusion criteria, decarbonisation trajectory data sources across Scope 1, 2 and 3 emissions, and total carbon emissions of the index portfolio. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#anx_III)
+Annex III is newly added and sets out methodology requirements for EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks, covering disclosure of constituents, criteria, weighting factors, exclusion criteria, decarbonisation trajectory data, and total carbon emissions of the index portfolio. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#anx_III)
 
-It also adds provisions on disclosing tracking error and market-value ratios when a parent index is used, a Paris Agreement alignment formula requirement for Paris-aligned Benchmarks, and procedures for administrators to introduce, publicise and consult on methodology changes as well as to review methodologies at least annually. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#anx_III)
+It also newly sets out requirements for administrators of EU Paris-aligned Benchmarks to specify the formula linking emissions to the Paris Agreement objectives, and procedures for introducing and reviewing changes to the methodology, including advance notice, user comment periods, and annual review. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#anx_III)
 
 *after* (`02016R1011-20191210`)
 
 > ANNEX III
 > EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks
 > Methodology for EU Climate Transition Benchmarks
-> (1) The administrator of an EU Climate Transition Benchmark shall formalise, document and make public any methodology used for the calculation of the benchmark, giving the following information, while ensuring confidentiality and the protection of undisclosed know-how and business information (trade secrets) as defined in Directive (EU) 2016/943 of the European Parliament and of the CouncilDirective (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L 157, 15.6.2016, p. 1).
+> (1) The administrator of an EU Climate Transition Benchmark shall formalise, document and make public any methodology used for the calculation of the benchmark, giving the following information, while ensuring confidentiality and the protection of undisclosed know-how and business information (trade secrets) as defined in Directive (EU) 2016/943 of the European Parliament and of the Council
+> Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (OJ L 157, 15.6.2016, p. 1).
 > (a) the list of the main constituents of the benchmark;
 > (b) all criteria and methods, including selection and weighting factors, metrics and proxies used in the benchmark methodology;
 > (c) the criteria applied to exclude assets or companies that are associated with a level of carbon footprint or a level of fossil fuel reserves that are incompatible with inclusion in the benchmark;
 > (d) the criteria for the determination of the decarbonisation trajectory;
 > (e) the type and source of data used to determine the decarbonisation trajectory for:
 > (i) Scope 1 carbon emissions, namely emissions generated from sources that are controlled by the company that issues the underlying assets;
-> (ii) Scope 2 carbon emissions, namely emissions […truncated by emendrix: 3037 characters omitted…]
+> (ii) Scope 2 carbon emissions, namely emissions […truncated by emendrix: 3038 characters omitted…]
 
 **MODIFIED · TIS III** · applies from: unknown
 
