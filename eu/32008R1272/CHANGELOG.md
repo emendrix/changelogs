@@ -7268,11 +7268,11 @@ The remainder of Article 26, including point (1)(1)(a) through (c) and paragraph
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Several bridging principles in section 1.1.3 (dilution, batching, concentration of highly hazardous mixtures, interpolation and substantially similar mixtures) were reworded to explicitly distinguish between tested and untested mixtures, adding words such as "tested" and "untested" that were absent before. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
+Several bridging-principle sub-sections (dilution, batching, concentration of highly hazardous mixtures, interpolation and substantially similar mixtures) were reworded to distinguish explicitly between 'tested' and 'untested' mixtures and their components, where the earlier text spoke only of mixtures and ingredients without that tested/untested distinction. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
 
-Section 1.2.1 was restructured and renumbered from three subpoints on pictograms and label dimensions into four subpoints, with a new table adding minimum pictogram dimensions alongside the label dimensions, and the note on generic cut-off values in Table 1.1 was reworded regarding volume percentages for gaseous mixtures. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
+Section 1.2.1 on label make-up was restructured: the pictogram shape, colour scheme, minimum pictogram area and label dimensions were reorganised into four numbered points and the dimension table now also sets minimum pictogram sizes, which the earlier three-point version and its dimension table did not include. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
 
-The explosives classification figures and notes in section 2.1.4 were altered, including changes to the wording and structure of Figure 2.1.3 and Figure 2.1.4 and an expanded note under 2.1.4.2 describing additional test conditions, and the text is cut off before further differences could be seen. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
+In the explosives part, the note on screening tests was expanded to add a further test sequence for organic substances with higher decomposition energy, the ANE classification flowchart text and outcome wording were revised, and the soluble-packaging exemption in 1.5.2.2 now also refers to points 1.5.2.1.2(b) and 1.5.2.1.3(b), none of which appeared in the earlier text; the material shown is cut off before the full extent of further differences can be seen. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
 
 *before* (`02008R1272-20101201`)
 
@@ -7307,7 +7307,7 @@ The explosives classification figures and notes in section 2.1.4 were altered, i
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 286155 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 286177 characters omitted…]
 
 *after* (`02008R1272-20110419`)
 
@@ -7342,7 +7342,7 @@ The explosives classification figures and notes in section 2.1.4 were altered, i
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 302830 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 302856 characters omitted…]
 
 **MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
 
@@ -7434,11 +7434,11 @@ Section 3.2.2.1 changes the aerosol exemption wording from referring to extremel
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Section 1 now states that hazard statements are applied in accordance with Parts 2, 3, 4 and 5 of Annex I, whereas the earlier text referred only to Parts 2, 3 and 4. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
+Section 1 now states that hazard statements are applied in accordance with Parts 2, 3, 4 and 5 of Annex I, rather than only Parts 2, 3 and 4. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III) [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III)
 
-The revised section 1 also adds new text allowing suppliers to use combined hazard statements when selecting statements under Articles 21 and 27, sets out precedence principles for labelling under Article 27, including new points (a) and (b) on omitting H400 when H410 is assigned and omitting H318 when H314 is assigned, and adds a sentence on using the combined hazard statements in Table 1.2 to indicate the route of administration or exposure. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
+The revised section 1 adds new text allowing suppliers to use combined hazard statements when selecting statements under Articles 21 and 27, sets out precedence principles under Article 27 including new points (a) and (b) on omitting H400 where H410 is assigned and omitting H318 where H314 is assigned, and adds a sentence on using the combined hazard statements in Table 1.2 to indicate route of administration or exposure. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
 
-The text provided is truncated before section 3 can be compared, so no difference in that part can be described from what is shown. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
+The remainder of the text shown, including the hazard statement tables, is truncated in both versions, so no further comparison can be made beyond what is visible. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_III)
 
 *before* (`02008R1272-20101201`)
 
@@ -7456,6 +7456,7 @@ The text provided is truncated before section 3 can be compared, so no differenc
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
 >
 > H200
+>
 > Language
 > 2.1 — Explosives, Unstable explosives
 >
@@ -7558,7 +7559,7 @@ The text provided is truncated before section 3 can be compared, so no differenc
 > Explosive; mass explosion hazard.
 >
 > FR
-> Explosif; danger d'expl […truncated by emendrix: 141145 characters omitted…]
+> Explosif; danger d'exp […truncated by emendrix: 141146 characters omitted…]
 
 *after* (`02008R1272-20110419`)
 
@@ -7587,6 +7588,7 @@ The text provided is truncated before section 3 can be compared, so no differenc
 >
 >
 > H200
+>
 > Language
 > 2.1 — Explosives, Unstable explosives
 >
@@ -7627,7 +7629,7 @@ The text provided is truncated before section 3 can be compared, so no differenc
 > Nestabili sprādzienbīstami materiāli.
 >
 > LT
-> Nestabilios sprogi […truncated by emendrix: 160325 characters omitted…]
+> Nestabilios sprog […truncated by emendrix: 160326 characters omitted…]
 
 **MODIFIED · Annex IV — LIST OF PRECAUTIONARY STATEMENTS** · applies from: unchanged
 
@@ -7984,11 +7986,11 @@ A new Part 4, headed additional hazards, is added with an exclamation mark picto
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-In Table 1.1, the codes for respiratory and skin sensitisation were changed from single codes (Resp. Sens. 1 and Skin Sens. 1) to lists including sub-categories 1A and 1B, and the ozone-layer hazard code was changed from a bare 'Ozone' to 'Ozone 1'. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
+The Table 1.1 entries for respiratory and skin sensitisation were widened from a single category label to include sub-categories 1A and 1B, and the ozone-layer hazard class code was changed from a bare class label to include category 1. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
 
-Section 1.1.2.3 rewrote the passage on M-factors, adding provisions for cases where separate M-factors exist for Aquatic Acute 1 and Aquatic Chronic 1 and for cases where a single M-factor covers both classifications, and removing the earlier sentence referring to an M-factor being used when a mixture is classified by the summation method. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
+Section 1.1.2.3 was expanded to add detailed rules on listing and using M-factors, including how to record separate M-factors for Aquatic Acute 1 and Aquatic Chronic 1 and how a single listed M-factor is to be used by a manufacturer, importer or downstream user, replacing the shorter prior wording on this point. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
 
-Part 3's introductory text no longer states that Table 3.1 and Table 3.2 are listed in separate Volumes IIIa and IIIb, instead simply naming the tables. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
+Section 3 no longer states that Table 3.1 and Table 3.2 are listed in separate Volumes IIIa and IIIb, instead simply describing them as lists of harmonised classification and labelling of hazardous substances. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI)
 
 *before* (`02008R1272-20101201`)
 
@@ -8010,7 +8012,7 @@ Part 3's introductory text no longer states that Table 3.1 and Table 3.2 are lis
 >
 >
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968669 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968671 characters omitted…]
 
 *after* (`02008R1272-20110419`)
 
@@ -8032,7 +8034,7 @@ Part 3's introductory text no longer states that Table 3.1 and Table 3.2 are lis
 >
 >
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968925 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968927 characters omitted…]
 
 **MODIFIED · Annex VII — Translation table from classification under Directive 67/548/EEC to classification under this Regulation** · applies from: unchanged
 
