@@ -976,7 +976,7 @@ A new point 2a has been added allowing Member States to exempt eggs from the poi
 ### `02013R1308-20231208` → `02013R1308-20240513`
 
 - **Act** `eu:32013R1308` · **In force** 2024-05-13 · **Detected** 2026-09-04
-- **Touched** 21 provisions — 21 substantive · 0 date-only · **13 disputed**
+- **Touched** 21 provisions — 10 substantive · 0 date-only · 11 with no text · **13 disputed**
 - **Diff** 1 inserted · 12 modified · 8 deleted · 0 renumbered · 0 deferred · 248 unchanged
 - **Gate** 0 sentences quoted verbatim · 11 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20231208` · `v2` = `02013R1308-20240513`
@@ -1121,7 +1121,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1131,7 +1131,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1141,7 +1141,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1151,7 +1151,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1161,7 +1161,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1171,7 +1171,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1208,7 +1208,7 @@ The later text replaces all of that detail with a single sentence stating that p
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1218,7 +1218,7 @@ The later text replaces all of that detail with a single sentence stating that p
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1228,7 +1228,7 @@ The later text replaces all of that detail with a single sentence stating that p
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1238,7 +1238,7 @@ The later text replaces all of that detail with a single sentence stating that p
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1410,7 +1410,7 @@ A new paragraph 3 has been added stating that Article 113a does not apply to app
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20240513 -->
