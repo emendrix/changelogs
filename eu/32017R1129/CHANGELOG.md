@@ -840,11 +840,11 @@ It also directs the Commission to adopt delegated acts specifying the reduced co
 
 *within* `AR 1 PA 4 ALN 1 PTA (da)`, `AR 1 PA 4 ALN 1 PTA (db)`, `AR 1 PA 4 ALN 1 PTA (j)`, `AR 1 PA 4 ALN 1 PTA (k)`, `AR 1 PA 4 ALN 2`, `AR 1 PA 4 ALN 3`, `AR 1 PA 5 ALN 1`, `AR 1 PA 5 ALN 1 PTA (a)`, `AR 1 PA 5 ALN 1 PTA (b)`, `AR 1 PA 5 ALN 1 PTA (ba)`, `AR 1 PA 5 ALN 1 PTA (i)`, `AR 1 PA 5 ALN 2`, `AR 1 PA 5 ALN 3`, `AR 1 PA 6 ALN 1` · *amended by* `32024R2809`
 
-Two new prospectus exemptions, points (da) and (db), are added to paragraph 4, and a corresponding point (ba) is added to paragraph 5, each covering fungible securities admitted to trading subject to conditions on restructuring/insolvency status and filing of a document containing the information set out in Annex IX, with added text specifying the maximum length and language requirements for that document. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_1)
+The list of prospectus exemptions for public offers now includes new points (da) and (db) covering offers of securities fungible with those already admitted to trading on a regulated market or SME growth market, each subject to conditions on percentage thresholds or holding periods, non-restructuring/insolvency status, and filing of a document with the information set out in Annex IX, and the credit institution non-equity threshold in point (j) has been raised from EUR 75000000 to EUR 150000000. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_1) [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_1)
 
-The credit-institution non-equity securities exemption in point (j) of paragraph 4 has its threshold raised from EUR 75000000 to EUR 150000000, and the corresponding exemption in point (i) of paragraph 5 is likewise changed from EUR 75000000 to EUR 150000000, with both paragraphs gaining new text on how the total aggregated consideration for such offers is to be calculated by reference to other ongoing or preceding offers. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_1)
+Correspondingly, the admission-to-trading exemptions in paragraph 5 add a new point (ba) with similar fungibility, holding-period, restructuring/insolvency and Annex IX filing conditions, the fungibility thresholds in points (a) and (b) rise from 20% to 30%, and the paragraph 6 non-combination cap likewise moves from 20% to 30%. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_1) [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_1)
 
-The 20% thresholds used in paragraph 4's now-renumbered point references and throughout paragraph 5 (points (a) and (b)) and paragraph 6 have been changed to 30%, and the crowdfunding exemption in point (k) of paragraph 4 now ends with a full stop rather than a semicolon before point (l). [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_1)
+Both paragraph 4 and paragraph 5 now also contain added subparagraphs specifying a maximum 11-page length and language requirements for the new Annex IX documents, and clarifying how the total aggregated consideration for the credit institution exemptions is to be calculated by reference to other ongoing or recent offers. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_1)
 
 *before* (`02017R1129-20240109`)
 
@@ -858,7 +858,7 @@ The 20% thresholds used in paragraph 4's now-renumbered point references and thr
 > (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
 > (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
 > (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
-> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14838 characters omitted…]
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14845 characters omitted…]
 
 *after* (`02017R1129-20241204`)
 
@@ -872,17 +872,17 @@ The 20% thresholds used in paragraph 4's now-renumbered point references and thr
 > (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
 > (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
 > (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
-> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 19401 characters omitted…]
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 19408 characters omitted…]
 
 **MODIFIED · Art. 2 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 2 ALN 1 PTA (da)`, `AR 2 ALN 1 PTA (db)`, `AR 2 ALN 1 PTA (r)`, `AR 2 ALN 1 PTA (z)`, `AR 2 ALN 1 PTA (z) PTI (i)`, `AR 2 ALN 1 PTA (z) PTI (ii)` · *dates* +2015-05-20 +2019-06-20 · *amended by* `32024R2809`
 
-Two new definitions, restructuring in point (da) and insolvency proceedings in point (db), have been added, referring respectively to Directive (EU) 2019/1023 and Regulation (EU) 2015/848. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_2)
+Two new definitions were inserted for restructuring and insolvency proceedings, referencing Directive (EU) 2019/1023 and Regulation (EU) 2015/848 respectively. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_2)
 
-The definition of approval in point (r) now adds a statement that it does not concern the accuracy of the information given in the prospectus. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_2)
+The definition of approval now adds that it does not concern the accuracy of the information given in the prospectus. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_2)
 
-Point (z), previously defining durable medium with two sub-criteria (i) and (ii), has been replaced with a definition of electronic format referencing point (62a) of Article 4(1) of Directive 2014/65/EU, and the former durable medium definition no longer appears. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_2)
+The former definition of durable medium in point (z) was replaced with a new definition of electronic format that refers to point (62a) of Article 4(1) of Directive 2014/65/EU. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_2)
 
 *before* (`02017R1129-20240109`)
 
@@ -904,7 +904,8 @@ Point (z), previously defining durable medium with two sub-criteria (i) and (ii)
 > (b) equity securities means shares and other transferable securities equivalent to shares in companies, as well as any other type of transferable securities giving the right to acquire any of the aforementioned securities as a consequence of their being converted or the rights conferred by them being exercised, provided that securities of the latter type are issued by the issuer of the underlying shares or by an entity belonging to the group of the said issuer;
 > (c) non-equity securities means all securities that are not equity securities;
 > (d) offer of securities to the public means a communication to persons in any form and by any means, presenting sufficient information on the terms of the offer and the securities to be offered, so as to enable an investor to decide to purchase or subscribe for those securities. This definition also applies to the placing of securities through financial intermediaries;
-> (da) restructuring means restructuring as defined in Article 2(1), point (1), of Directive (EU) 2019/1023 of the European Parliament and of the CouncilDirective (EU) 2019/1023 of the European Parliament and of the Council of 2 […truncated by emendrix: 6815 characters omitted…]
+> (da) restructuring means restructuring as defined in Article 2(1), point (1), of Directive (EU) 2019/1023 of the European Parliament and of the Council
+> Directive (EU) 2019/1023 of the European Parliament and of the Council of […truncated by emendrix: 6817 characters omitted…]
 
 **MODIFIED · Art. 3** · applies from: unknown
 
@@ -1044,7 +1045,7 @@ No such paragraphs 14 or 15 appear in the before text of this article. [Art. 7, 
 
 *within* `AR 9 PA 2 ALN 1` · *amended by* `32024R2809`
 
-The provision changes the number of consecutive financial years for which an issuer must have had a universal registration document approved by the competent authority before subsequent documents may be filed without prior approval, reducing it from two financial years to one financial year. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_9)
+The provision on when subsequent universal registration documents may be filed without prior approval now requires approval by the competent authority for only one financial year, rather than two consecutive financial years as before. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_9)
 
 *before* (`02017R1129-20240109`)
 
@@ -1055,7 +1056,7 @@ The provision changes the number of consecutive financial years for which an iss
 > After the issuer has had a universal registration document approved by the competent authority for two consecutive financial years, subsequent universal registration documents may be filed with the competent authority without prior approval.
 > Where the issuer thereafter fails to file a universal registration document for one financial year, the benefit of filing without prior approval shall be lost and all subsequent universal registration documents shall be submitted to the competent authority for approval until the condition set out in the second subparagraph is met again.
 > The issuer shall indicate in its application to the competent authority whether the universal registration document is submitted for approval or filed without prior approval.
-> Where the issuer referred to in the second subparagraph of this paragraph requests the notification of its universal registration do […truncated by emendrix: 7942 characters omitted…]
+> Where the issuer referred to in the second subparagraph of this paragraph requests the notification of its universal registration do […truncated by emendrix: 7943 characters omitted…]
 
 *after* (`02017R1129-20241204`)
 
@@ -1066,7 +1067,7 @@ The provision changes the number of consecutive financial years for which an iss
 > After the issuer has had a universal registration document approved by the competent authority for one financial year, subsequent universal registration documents may be filed with the competent authority without prior approval.
 > Where the issuer thereafter fails to file a universal registration document for one financial year, the benefit of filing without prior approval shall be lost and all subsequent universal registration documents shall be submitted to the competent authority for approval until the condition set out in the second subparagraph is met again.
 > The issuer shall indicate in its application to the competent authority whether the universal registration document is submitted for approval or filed without prior approval.
-> Where the issuer referred to in the second subparagraph of this paragraph requests the notification of its universal registration document pursua […truncated by emendrix: 7929 characters omitted…]
+> Where the issuer referred to in the second subparagraph of this paragraph requests the notification of its universal registration document pursua […truncated by emendrix: 7930 characters omitted…]
 
 **MODIFIED · Art. 11 — Responsibility attaching to the prospectus** · applies from: unchanged
 
@@ -1235,11 +1236,9 @@ The connector between the final offer price and the amount of securities in that
 
 *within* `AR 19 PA 1 ALN 1`, `AR 19 PA 1 ALN 1 PTA (a)`, `AR 19 PA 1 ALN 1 PTA (b)`, `AR 19 PA 1 ALN 1 PTA (f)`, `AR 19 PA 1a`, `AR 19 PA 1b` · *dates* -2013-06-26 · *amended by* `32024R2809`
 
-Paragraph 1 now specifies that only information required to be included in a prospectus under the Regulation and its delegated acts may be incorporated by reference, point (a) adds a reference to a universal registration document or any sections of it, point (b) updates the cross-referenced points of Article 1(4) and Article 1(5), and point (f) now refers to Chapters 5 and 6 of Directive 2013/34/EU and adds mention of sustainability reporting where applicable. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_19)
+Paragraph 1 now specifies that the information eligible for incorporation by reference is information that is to be included in a prospectus under the Regulation and its delegated acts, and point (a) now adds a reference to a universal registration document or any sections of it, while point (b) updates the cross-references to Article 1(4) and Article 1(5), and point (f) now refers to management reports under Chapters 5 and 6 of Directive 2013/34/EU including sustainability reporting, dropping the earlier footnote citation of that Directive's date and title. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_19)
 
-Two new paragraphs, 1a and 1b, have been added: paragraph 1a allows voluntary incorporation by reference of information not required to be included in the prospectus, and paragraph 1b addresses the supplement obligation under Article 23(1) for new annual or interim financial information published while a base prospectus remains valid under Article 12(1), including the option to voluntarily publish a supplement. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_19)
-
-The earlier version's point (f) contained a full citation of Directive 2013/34/EU with its title and Official Journal reference, which is no longer present in the later text. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_19)
+Two new paragraphs, 1a and 1b, have been added: paragraph 1a allows information not required to be included in a prospectus to nonetheless be incorporated by reference voluntarily under the same conditions, and paragraph 1b addresses the treatment of new annual or interim financial information published while a base prospectus remains valid, including the option to incorporate it by reference or to voluntarily publish a supplement. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_19)
 
 *before* (`02017R1129-20240109`)
 
@@ -1251,10 +1250,12 @@ The earlier version's point (f) contained a full citation of Directive 2013/34/E
 > (c) regulated information;
 > (d) annual and interim financial information;
 > (e) audit reports and financial statements;
-> (f) management reports as referred to in Chapter 5 of Directive 2013/34/EU of the European Parliament and of the CouncilDirective 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).;
+> (f) management reports as referred to in Chapter 5 of Directive 2013/34/EU of the European Parliament and of the Council
+> Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).;
 > (g) corporate governance statements as referred to in Article 20 of Directive 2013/34/EU;
 > (h) reports on the determination of the value of an asset or a company;
-> (i) remuneration reports as referred to in Article 9b of Directive 2007/36/EC of the European Parliament and of the CouncilDirective 2007/3 […truncated by emendrix: 2351 characters omitted…]
+> (i) remuneration reports as referred to in Article 9b of Directive 2007/36/EC of the European Parliament and of the Council
+> Directive 2007 […truncated by emendrix: 2354 characters omitted…]
 
 *after* (`02017R1129-20241204`)
 
@@ -1269,7 +1270,8 @@ The earlier version's point (f) contained a full citation of Directive 2013/34/E
 > (f) management reports as referred to in Chapters 5 and 6 of Directive 2013/34/EU including, where applicable, the sustainability reporting;
 > (g) corporate governance statements as referred to in Article 20 of Directive 2013/34/EU;
 > (h) reports on the determination of the value of an asset or a company;
-> (i) remuneration reports as referred to in Article 9b of Directive 2007/36/EC of the European Parliament and of the CouncilDirective 2007/36/EC of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders in listed companies (OJ L 184, 14.7.2007, p. […truncated by emendrix: 3230 characters omitted…]
+> (i) remuneration reports as referred to in Article 9b of Directive 2007/36/EC of the European Parliament and of the Council
+> Directive 2007/36/EC of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders in listed companies (OJ L 184, 14.7.2007, p […truncated by emendrix: 3232 characters omitted…]
 
 **MODIFIED · Art. 20 — Scrutiny and approval of the prospectus** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -1432,24 +1434,26 @@ A new paragraph states that where all criteria in paragraph 1 are met the third 
 
 *within* `AR 30 PA 1 ALN 1`, `AR 30 PA 1 ALN 2`, `AR 30 PA 2 ALN 1`, `AR 30 PA 3 ALN 1`, `AR 30 PA 4 ALN 1` · *amended by* `32024R2809`
 
-The provision now allows ESMA itself, upon request of at least one competent authority, to conclude cooperation arrangements with third-country supervisory authorities, alongside the Member States' competent authorities, and adds jurisdictions listed in Annex I of the EU list of non-cooperative jurisdictions for tax purposes to the exclusion criterion alongside the anti-money-laundering list. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_30)
+The text now allows ESMA itself, acting on the request of at least one competent authority, to conclude cooperation arrangements with third-country supervisory authorities, alongside the competent authorities of the Member States, and it adds that arrangements shall not be concluded with a third country listed in Annex I to the EU list of non-cooperative jurisdictions for tax purposes in addition to the existing anti-money-laundering list exclusion. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_30)
 
-Paragraph 3 changes the reference point for professional secrecy guarantees from the tasks of the competent authorities to the tasks of the supervisory authorities, and rephrases the conclusion of such arrangements in the passive voice. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_30)
+Paragraph 3 changes the wording so that the professional-secrecy guarantee requirement is phrased as arrangements 'may be concluded only where' the condition is met, and the reference to the tasks performed shifts from being those of the competent authorities to being those of the supervisory authorities. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_30)
 
-Paragraph 4 replaces the earlier mechanism of ESMA-drafted regulatory technical standards adopted under Regulation (EU) No 1095/2010 with an empowerment of the Commission to adopt delegated acts under Article 44 to supplement the Regulation by setting the minimum content and template of the cooperation arrangements. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_30) [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_30)
+Paragraph 4 no longer provides for regulatory technical standards developed by ESMA and adopted under Regulation (EU) No 1095/2010, and instead empowers the Commission to adopt delegated acts under Article 44 to supplement the Regulation by setting the minimum content and template for the cooperation arrangements. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_30) [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_30)
 
 *before* (`02017R1129-20240109`)
 
 > Article 30
 > Cooperation with third countries
-> 1. For the purpose of Article 29 and, where deemed necessary, for the purpose of Article 28, the competent authorities of Member States shall conclude cooperation arrangements with supervisory authorities of third countries concerning the exchange of information with supervisory authorities in third countries and the enforcement of obligations arising under this Regulation in third countries unless that third country, in accordance with a delegated act in force adopted by the Commission pursuant to Article 9 of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., is on the list of jurisdictions which have strategic deficiencies in their national anti-money laundering and countering the financing of terrorism regimes that pose significant threats to the financial system of the Union. Those cooperation arrangements shall ensure at least an efficient exchange of information that allows the competent authorities to carry out their duties under this Regulation.
-> A competent authority shall inform ESMA […truncated by emendrix: 1442 characters omitted…]
+> 1. For the purpose of Article 29 and, where deemed necessary, for the purpose of Article 28, the competent authorities of Member States shall conclude cooperation arrangements with supervisory authorities of third countries concerning the exchange of information with supervisory authorities in third countries and the enforcement of obligations arising under this Regulation in third countries unless that third country, in accordance with a delegated act in force adopted by the Commission pursuant to Article 9 of Directive (EU) 2015/849 of the European Parliament and of the Council
+> Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., is on the list of jurisdictions which have strategic deficiencies in their national anti-money laundering and countering the financing of terrorism regimes that pose significant threats to the financial system of the Union. Those cooperation arrangements shall ensure at least an efficient exchange of information that allows the competent authorities to carry out their duties under this Regulation.
+> A competent authority shall inform ESM […truncated by emendrix: 1443 characters omitted…]
 
 *after* (`02017R1129-20241204`)
 
 > Article 30
 > Cooperation with third countries
-> 1. For the purpose of Article 29 and, where deemed necessary, for the purpose of Article 28, the competent authorities of the Member States or ESMA, upon the request of at least one competent authority, shall conclude cooperation arrangements concerning the exchange of information with supervisory authorities in third countries and the enforcement of obligations arising under this Regulation in third countries. Cooperation arrangements shall not be concluded with a third country that, in accordance with a delegated act in force adopted by the Commission pursuant to Article 9 of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., is on the list of jurisdictions which have strategic deficiencies in their national anti-money laundering and countering the financing of terrorism regimes that pose significant threats to the financial system of the Union, or that is listed in Annex I to the EU list of non-cooperative jurisdictions for tax purposes. Those cooperation arrangements shall ensure at least […truncated by emendrix: 1497 characters omitted…]
+> 1. For the purpose of Article 29 and, where deemed necessary, for the purpose of Article 28, the competent authorities of the Member States or ESMA, upon the request of at least one competent authority, shall conclude cooperation arrangements concerning the exchange of information with supervisory authorities in third countries and the enforcement of obligations arising under this Regulation in third countries. Cooperation arrangements shall not be concluded with a third country that, in accordance with a delegated act in force adopted by the Commission pursuant to Article 9 of Directive (EU) 2015/849 of the European Parliament and of the Council
+> Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., is on the list of jurisdictions which have strategic deficiencies in their national anti-money laundering and countering the financing of terrorism regimes that pose significant threats to the financial system of the Union, or that is listed in Annex I to the EU list of non-cooperative jurisdictions for tax purposes. Those cooperation arrangements shall ensure at least […truncated by emendrix: 1498 characters omitted…]
 
 **MODIFIED · Art. 38 — Administrative sanctions and other administrative measures** · applies from: unchanged
 
@@ -1626,11 +1630,11 @@ It further states that, as a derogation, prospectuses approved under Article 14 
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The annex's heading changes from listing item numbers I through XI with different titles and content (such as Identity of directors, Offer statistics, Operating and financial review, and Additional information) to a restructured list of items I through XVII with new titles and purposes, such as Strategy performance and business environment, Management report including sustainability reporting, ESG-related information, Corporate governance, Dividend policy, Information on the guarantor, Information on the underlying securities, and Information on consent. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_I)
+The annex's list of prospectus sections has been rewritten entirely, replacing the earlier eleven headings (Identity of directors, Offer statistics, Essential information, Information on the company, Operating and financial review, Directors and employees, Major shareholders, Financial information, Details of the offer, Additional information) with a new set of seventeen headings covering topics such as purpose and persons responsible, strategy and performance, management report including sustainability reporting, working capital statement, risk factors, terms and conditions of securities, ESG-related information, corporate governance, shareholder and security holder information, dividend policy, guarantor information, underlying securities information, consent information, and documents available. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_I)
 
-The financial information section changes its description of the covered periods from a general reference to historical periods to specifying the two latest financial years for equity securities or the last financial year for non-equity securities, or a shorter period of operation. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_I)
+The descriptive purpose text accompanying each heading has also been changed to match the new subject matter, and the section on terms and conditions of securities now refers to information under Article 5 of Directive (EU) 2024/2810 concerning multiple-vote share structures. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_I)
 
-A new passage referencing Article 5 of Directive (EU) 2024/2810 of 23 October 2024 on multiple-vote share structures is added under the terms and conditions of the securities item. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_I)
+The financial information section's description of the periods to be covered by the financial statements has also been altered to specify the two latest financial years for equity securities or the last financial year for non-equity securities, replacing the earlier wording that did not specify such periods. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_I)
 
 *before* (`02017R1129-20240109`)
 
@@ -1662,7 +1666,7 @@ A new passage referencing Article 5 of Directive (EU) 2024/2810 of 23 October 20
 > III. Strategy, performance and business environment
 > The purpose of this section is to disclose information on the identity of the issuer, its business, strategy and objectives. Investors should have a clear understanding of the issuer’s activities and the main trends affecting its performance, its organisational structure and material investments. Where applicable the issuer shall disclose in this section estimates or forecasts of its future performance.
 > IV. Management report, including the sustainability reporting (equity securities only)
-> The purpose of this section is to either incorporate by reference or include the information set out in the management reports and consolidated management reports as referred to in Article 4 of Directive 2004/109/EC, where applicable, and in Chapters 5 and 6 of Directive 2013 […truncated by emendrix: 4510 characters omitted…]
+> The purpose of this section is to either incorporate by reference or include the information set out in the management reports and consolidated management reports as referred to in Article 4 of Directive 2004/109/EC, where applicable, and in Chapters 5 and 6 of Directive 2013 […truncated by emendrix: 4511 characters omitted…]
 
 **MODIFIED · Annex II — REGISTRATION DOCUMENT** · applies from: unchanged
 
@@ -1765,9 +1769,11 @@ The later text also adds a reference stating that, where applicable, the terms a
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The annex's heading and entire content changed from a registration document format for the EU Growth prospectus, organized in six thematic sections (responsibility, strategy/performance, corporate governance, financial statements, operating and financial review, and shareholders' information), to a much longer and differently structured set of disclosure requirements for the EU Follow-on prospectus, covering sixteen numbered sections from a summary through documents available. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_IV)
+The annex's heading and entire content changed from the registration document for the EU Growth prospectus to the information required for the EU Follow-on prospectus for shares and equivalent transferable securities. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_IV)
 
-The after text adds substantial new detail not present before, including specific requirements on statements by the competent authority, audit standards and reporting under named directives and regulations, dividend policy, profit forecasts, lock-up agreements, dilution, and conflicts of interest. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_IV)
+The before text set out six broad thematic sections covering responsibility, strategy, corporate governance, financial statements, operating review and shareholder information, while the after text replaces these with sixteen detailed sections covering matters such as the summary, issuer information, responsibility and competent authority statements, risk factors, financial information, dividend policy, trend information, profit forecasts, offer details, essential information on the shares, reasons for the offer, lock-up agreements, working capital, conflicts of interest, dilution and available documents. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_IV)
+
+The after text also incorporates specific references to dated instruments, including Directive 2006/43/EC of 17 May 2006 and Regulation (EU) No 537/2014 of 16 April 2014, which did not appear in the before text. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_IV)
 
 *before* (`02017R1129-20240109`)
 
@@ -1795,7 +1801,7 @@ The after text adds substantial new detail not present before, including specifi
 > III. Responsibility statement and statement on the competent authority
 > A. Responsibility statement
 > Identify the persons responsible for drawing up the EU Follow-on prospectus and include a statement by those persons that, to the best of their knowledge, the information contained in the EU Follow-on prospectus is in accordance with the facts and that the EU Follow-on prospectus makes no omission likely to affect its import.
-> Where applicable, the statement must contain information sourced from third parties, including t […truncated by emendrix: 10042 characters omitted…]
+> Where applicable, the statement must contain information sourced from third parties, including t […truncated by emendrix: 10044 characters omitted…]
 
 **MODIFIED · Annex V — INFORMATION TO BE INCLUDED IN THE EU FOLLOW-ON PROSPECTUS FOR SECURITIES OTHER THAN SHARES OR TRANSFERABLE SECURITIES EQUIVALENT TO SHARES IN COMPANIES** · applies from: unchanged
 
@@ -1803,9 +1809,11 @@ The after text adds substantial new detail not present before, including specifi
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The heading and content of Annex V have been entirely replaced, moving from a securities note for an EU Growth prospectus organised around five items (responsibility, capitalisation and indebtedness, terms and conditions, offer details, and guarantor information) to a follow-on prospectus schedule for non-equity securities organised around eleven sections covering summary, issuer information, responsibility and competent authority statements, risk factors, financial information, trend information, offer details, essential information on securities, reasons for the offer, conflicts of interest, and documents available. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_V)
+The annex's heading changed from describing a securities note for the EU Growth prospectus to describing information for the EU Follow-on prospectus for securities other than shares or equivalent transferable securities. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_V) [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_V)
 
-The before text's numbered items I through V and their descriptive purposes have been removed and replaced with a differently structured and more detailed set of sections and sub-points, including newly lettered and numbered sub-items such as (i) through (vii) and (a)-(b) that did not appear in the same form previously. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_V)
+The body of the annex was replaced: the earlier five short sections on responsibility, capitalisation/indebtedness and working capital, terms and conditions, offer details, and guarantor information were removed, and in their place the later text sets out eleven sections covering a summary, issuer information, responsibility and competent-authority statements, risk factors, financial information, trend information, offer details, essential securities information, reasons for the offer and ESG-related information, conflicts of interest, and available documents. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_V)
+
+The later text introduces numbered and lettered sub-points, such as items (i) through (vii) under the essential-information section and points (a) and (b) under the documents-available section, which have no counterpart in the earlier text. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_V)
 
 *before* (`02017R1129-20240109`)
 
@@ -1830,7 +1838,7 @@ The before text's numbered items I through V and their descriptive purposes have
 > Identify the company issuing the securities, including its legal entity identifier (LEI), its legal and commercial name, its country of incorporation and the website where investors can find information on the company’s business operations, the products it makes or the services it provides, the principal markets where it competes, its major shareholders, the composition of its administrative, management and supervisory bodies and of its senior management and, where applicable, information incorporated by reference (with a disclaimer that the information on the website does not form part of the prospectus unless that information is incorporated by reference into the EU Follow-on prospectus).
 > III. Responsibility statement and statement on the competent authority
 > 1. Responsibility statement (Registration document/Securities note)
-> Identify the persons responsible for drawing up the (registration document/securities note/EU Follow-on prospectus) and include a statement by those persons that, to the best of their knowledge, the information contained in the (registration document/securities note/EU Follow-on pr […truncated by emendrix: 8842 characters omitted…]
+> Identify the persons responsible for drawing up the (registration document/securities note/EU Follow-on prospectus) and include a statement by those persons that, to the best of their knowledge, the information contained in the (registration document/securities note/EU Follow-on pr […truncated by emendrix: 8843 characters omitted…]
 
 **INSERTED · Annex VII — INFORMATION TO BE INCLUDED IN THE EU GROWTH ISSUANCE PROSPECTUS FOR SHARES AND OTHER TRANSFERABLE SECURITIES EQUIVALENT TO SHARES IN COMPANIES** · applies from: unknown (an inserted provision states its own application date only in prose)
 
