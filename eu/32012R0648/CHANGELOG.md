@@ -5037,9 +5037,9 @@ None of these entries, labelled (i), (j) and (k) under section I and (d) under s
 
 *within* `AR 2 ALN 1 PO 29`, `AR 2 ALN 1 PO 30`, `AR 2 ALN 1 PO 31` · *amended by* `32017R2402`
 
-The list of definitions gains two new entries following the existing one for senior management: a definition of covered bond referencing the requirements of Article 129 of Regulation (EU) No 575/2013, and a definition of covered bond entity referring to the covered bond issuer or cover pool of a covered bond. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_2)
+The definition list now ends with point (29) followed by two new definitions, point (30) for 'covered bond' and point (31) for 'covered bond entity', which were not present before. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_2)
 
-The prior version's text ended with the definition of senior management and did not include any definition for covered bond or covered bond entity. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_2)
+The final punctuation of point (29) was changed from a full stop to a semicolon to allow the list to continue with the two added points. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_2)
 
 *before* (`02012R0648-20170630`)
 
@@ -5051,7 +5051,7 @@ The prior version's text ended with the definition of senior management and did 
 > (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
 > (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
 > (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
-> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7876 characters omitted…]
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7880 characters omitted…]
 
 *after* (`02012R0648-20190101`)
 
@@ -5063,17 +5063,17 @@ The prior version's text ended with the definition of senior management and did 
 > (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
 > (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
 > (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
-> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 8067 characters omitted…]
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 8071 characters omitted…]
 
 **MODIFIED · Art. 4 — Clearing obligation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 4 PA 5`, `AR 4 PA 6` · *dates* +2017-12-12 +2018-07-18 · *amended by* `32017R2402`
 
-The AFTER text adds a new paragraph 5 stating that paragraph 1 does not apply to OTC derivative contracts concluded by covered bond entities in connection with a covered bond, or by securitisation special purpose entities in connection with a securitisation within the meaning of Regulation (EU) 2017/2402, subject to conditions on the securitisation meeting certain requirements, the derivative being used only to hedge interest rate or currency mismatches, and arrangements adequately mitigating counterparty credit risk. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
+Two new paragraphs, 5 and 6, were added to Article 4, extending it beyond the original four paragraphs. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
 
-The AFTER text also adds a new paragraph 6 directing the ESAs to develop draft regulatory technical standards on criteria for adequate mitigation of counterparty credit risk under paragraph 5, with submission to the Commission by 18 July 2018 and delegation of power to the Commission to adopt those standards. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
+Paragraph 5 states that paragraph 1 does not apply to OTC derivative contracts concluded by covered bond entities in connection with a covered bond, or by a securitisation special purpose entity in connection with a securitisation within the meaning of Regulation (EU) 2017/2402, subject to conditions concerning the securitisations issued, the hedging purpose of the contract, and adequate mitigation of counterparty credit risk. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
 
-The BEFORE text contains only paragraphs 1 through 4 and does not include these provisions on covered bonds or securitisation special purpose entities. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_4)
+Paragraph 6 directs the ESAs to develop draft regulatory technical standards on criteria for such adequate mitigation of counterparty credit risk and to submit them to the Commission by 18 July 2018, with power delegated to the Commission to adopt them, none of which appears in the earlier version. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170630#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
 
 *before* (`02012R0648-20170630`)
 
@@ -5103,7 +5103,7 @@ The BEFORE text contains only paragraphs 1 through 4 and does not include these 
 > (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or appropriate to prevent the evasion of any provisions of this Regulation; and
 > (b) they are entered into or novated either:
 > (i) on or after the date from which the clearing obligation takes effect; or
-> (ii) on or after notification as referred to in Article 5(1) but before the date from which the clearing obligation takes effect if […truncated by emendrix: 5456 characters omitted…]
+> (ii) on or after notification as referred to in Article 5(1) but before the date from which the clearing obligation takes effect if […truncated by emendrix: 5457 characters omitted…]
 
 **MODIFIED · Art. 11 — Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
