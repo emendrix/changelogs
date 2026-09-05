@@ -679,7 +679,7 @@ The Hexachlorobenzene entry, which previously showed a dash with no specific exe
 ### `02019R1021-20210222` → `02019R1021-20210315`
 
 - **Act** `eu:32019R1021` · **In force** 2021-03-15 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20210222` · `v2` = `02019R1021-20210315`
