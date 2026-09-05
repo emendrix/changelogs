@@ -654,7 +654,7 @@ All other entries, conditions, wording, maximum concentrations and introductory 
 ### `02009R1223-20220301` → `02009R1223-20220731`
 
 - **Act** `eu:32009R1223` · **In force** 2022-07-28, 2022-07-31 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20220301` · `v2` = `02009R1223-20220731`
@@ -665,9 +665,9 @@ All other entries, conditions, wording, maximum concentrations and introductory 
 
 *within* `AN V SCT 2` · *dates* +2022-07-30 +2024-07-31 +2026-07-31 · *amended by* `32022R1181`
 
-Paragraph 2 changes the required warning wording from "contains formaldehyde" to "releases formaldehyde" and lowers the labelling trigger from a formaldehyde concentration exceeding 0,05 % to a total released formaldehyde concentration exceeding 0,001 % (10 ppm), also specifying that this applies regardless of whether one or more formaldehyde-releasing substances are present. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220301#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V)
+Paragraph 2 of the preamble changes the required warning wording from "contains formaldehyde" to "releases formaldehyde", and changes the labelling trigger from a formaldehyde concentration exceeding 0,05 % to a total released formaldehyde concentration exceeding 0,001 % (10 ppm), now applying irrespective of whether one or more formaldehyde-releasing substances are present. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220301#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V)
 
-The after text adds a new subparagraph stating that finished products containing such substances which comply with Regulation (EC) No 1223/2009 as applicable on 30 July 2022 may still be placed on the Union market until 31 July 2024 and made available on the Union market until 31 July 2026. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V)
+A new sentence is added after paragraph 2 stating that finished products containing the substances referred to in that paragraph which comply with the Regulation as applicable on 30 July 2022 may be placed on the Union market until 31 July 2024 and made available on the Union market until 31 July 2026. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V)
 
 *before* (`02009R1223-20220301`)
 
@@ -678,7 +678,19 @@ The after text adds a new subparagraph stating that finished products containing
 > Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %
-> For uses other than preservative, see Annex III, No 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applied on a large part of t […truncated by emendrix: 14691 characters omitted…]
+> For uses other than preservative, see Annex III, No 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, entry No 45.
+> For use other than as a preservative, see Annex III, No. 54.
+> Only if the concentration exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 65.
+> Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
+> Solely for products which might be used for children under 3 years of age.
+> Concerns any products aimed to be applied on a lar […truncated by emendrix: 14714 characters omitted…]
 
 *after* (`02009R1223-20220731`)
 
@@ -690,39 +702,55 @@ The after text adds a new subparagraph stating that finished products containing
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing substances which are listed in this Annex and which release formaldehyde shall be labelled with the warning releases formaldehyde where the total concentration of formaldehyde released in the finished product exceeds 0,001 % (10 ppm), irrespective of whether the finished product contains one or more substances releasing formaldehyde.
 > However, all finished products containing substances referred to in the first subparagraph which comply with Regulation (EC) No 1223/2009 as applicable on 30 July 2022 may be placed on the Union market until 31 July 2024 and be made available on the Union market until 31 July 2026.
-> For uses other than preservative, see Annex III, No 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry […truncated by emendrix: 15119 characters omitted…]
+> For uses other than preservative, see Annex III, No 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, […truncated by emendrix: 15142 characters omitted…]
 
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN VI` · *dates* +2022-07-27 +2023-01-28 +2023-07-28 · *amended by* `32022R1176`
 
-The introductory notes gain two additional sentences, one setting out transitional market placement and availability dates tied to 27 July 2022, 28 January 2023 and 28 July 2023, and another stating that Benzophenone as an impurity and/or degradation product of Octocrylene shall be kept at trace level. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI)
+A transitional statement was added allowing cosmetic products containing the substance and complying with the Regulation as it applied on 27 July 2022 to remain on the Union market until 28 January 2023 and to be made available until 28 July 2023, together with a new statement that Benzophenone as an impurity and/or degradation product of Octocrylene shall be kept at trace level. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI)
 
-Entry 4 for Benzophenone-3 is restructured to split the maximum concentration and conditions by product type into face, hand and lip products, body products, and other products, with differing percentage limits and added wording on maximum UV filter levels when used at 0,5 % for product protection. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI)
+The entry for Oxybenzone (Benzophenone-3) was changed from a single maximum concentration and warning to separate maximum concentrations and conditions for face, hand and lip products, for body products, and for other products, each with its own percentage limit and wording on use as a UV filter versus product protection. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI)
 
-Entry 10 for Octocrylene is changed from a single 10 % maximum concentration to a split limit distinguishing propellant spray products at 9 % from other products at 10 %. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI)
+The entry for Octocrylene was changed from a single 10% maximum concentration to separate maximum concentrations of 9% for propellant spray products and 10% for other products. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI)
 
 *before* (`02009R1223-20220301`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as ac […truncated by emendrix: 7205 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(a […truncated by emendrix: 7209 characters omitted…]
 
 *after* (`02009R1223-20220731`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.However, cosmetic products containing that substance and complying with the restrictions set out in Regulation (EC) No 1223/2009 as applicable on 27 July 2022 may be placed on the Union market until 28 January 2023 and be made available on the Union market until 28 July 2023.Benzophenone as an impurity and/or degradation product of Octocrylene shall be kept at trace level.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> However, cosmetic products containing that substance and complying with the restrictions set out in Regulation (EC) No 1223/2009 as applicable on 27 July 2022 may be placed on the Union market until 28 January 2023 and be made available on the Union market until 28 July 2023.
+> Benzophenone as an impurity and/or degradation product of Octocrylene shall be kept at trace level.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
-> 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homo […truncated by emendrix: 8065 characters omitted…]
+> 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalat […truncated by emendrix: 8072 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20220731 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20220301 -->
