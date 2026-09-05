@@ -2270,7 +2270,7 @@ New subpoints 8.3.1 (in vitro/in chemico skin sensitisation testing addressing m
 ### `02006R1907-20160621` → `02006R1907-20160714`
 
 - **Act** `eu:32006R1907` · **In force** 2016-07-13 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20160621` · `v2` = `02006R1907-20160714`
@@ -2281,33 +2281,64 @@ New subpoints 8.3.1 (in vitro/in chemico skin sensitisation testing addressing m
 
 *within* `AN XVII` · *dates* +2010-11-24 +2016-07-13 +2016-07-14 +2018-07-14 +2025-07-01 · *amended by* `32016R1005`, `32016R1017`
 
-A citation to Directive 2010/75/EU on industrial emissions has been added to the list of referenced Official Journal sources at the top of the Annex. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_XVII)
+A new reference to Directive 2010/75/EU on industrial emissions has been added to the list of directives cited near the start of the Annex. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_XVII)
 
-In entry 6 on asbestos fibres, the earlier text allowing Member States to exempt chrysotile diaphragms in existing electrolysis installations until end of service life or availability of substitutes, with a 1 June 2011 reporting obligation to the Commission, has been replaced by a provision under which any such exemption already granted as it stood on 13 July 2016 continues to apply only until 1 July 2025 for continued use of those diaphragms or of chrysotile used solely for their maintenance, conditioned on compliance with a permit issued under Directive 2010/75/EU, together with a new annual reporting duty by downstream users to the Member State by 31 January of each year, which the Member State forwards to the Commission, and a further provision on inclusion of air-monitoring results where a Member State requires such monitoring. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_XVII)
+In entry 6 on asbestos fibres, the exemption for diaphragms containing chrysotile used in electrolysis installations has been rewritten: rather than the earlier open-ended exemption tied to service life or availability of substitutes with a Commission-report mechanism, the text now conditions continued use until 1 July 2025 on the exemption having existed under the version of the paragraph in force until 13 July 2016, on compliance with permit conditions under Directive 2010/75/EU, and on annual reporting by downstream users to the relevant Member State, which forwards a copy to the Commission, including air-monitoring results where a Member State requires such monitoring. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_XVII)
 
-The provision on the Commission requesting the Agency to prepare a dossier on prohibiting diaphragms containing chrysotile, previously present after the reporting paragraph, does not appear in the corresponding part of the revised text, and the text shown is truncated beyond this point so no further differences can be described. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_XVII)
+The remainder of the entry, including the earlier requirement for Member States to report by 1 June 2011 and for the Commission to request an Article 69 dossier, has been replaced by this new reporting and permit-based structure, though the text provided is truncated beyond this point. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_XVII)
 
 *before* (`02006R1907-20160621`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
+> Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
 > 1. Polychlorinated terphenyls (PCTs) Shall not be placed on the market, or used:
 > as substances,
-> in mixtures, including waste oils, or in equipment, in concentr […truncated by emendrix: 552901 characters omitted…]
+> in mixtures, including waste oils, or in equipme […truncated by emendrix: 552932 characters omitted…]
 
 *after* (`02006R1907-20160714`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
+> Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
 > Column 1
-> Designation of the substance, of the group of substances or of the mixture Column […truncated by emendrix: 555177 characters omitted…]
+> Designation of the substance, of the group of substances or of the […truncated by emendrix: 555210 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20160714 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20160621 -->
