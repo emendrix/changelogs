@@ -3258,7 +3258,7 @@ Entry 22 on Resorcinol is reworded so that the mixing-condition restriction appl
 ### `02009R1223-20130711` → `02009R1223-20130901`
 
 - **Act** `eu:32009R1223` · **In force** 2013-07-31 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20130711` · `v2` = `02009R1223-20130901`
