@@ -890,7 +890,7 @@ The remainder of the visible Annex VI text, including the introductory parts and
 ### `02008R1272-20250201` → `02008R1272-20250901`
 
 - **Act** `eu:32008R1272` · **In force** 2025-09-01 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 73 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20250201` · `v2` = `02008R1272-20250901`
