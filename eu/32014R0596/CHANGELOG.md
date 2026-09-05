@@ -850,11 +850,11 @@ A new Article 21a is added, setting out requirements for issuers and emission al
 
 *within* `AR 11 PA 1a` · *dates* +2017-06-14 · *amended by* `32019R2115`
 
-A new paragraph 1a is inserted stating that where an offer of securities is addressed solely to qualified investors as defined under Regulation (EU) 2017/1129, communication of information to those qualified investors for negotiating the contractual terms of their participation in a bond issuance by an issuer with financial instruments admitted to trading on a trading venue, or by a person acting on the issuer's behalf, does not constitute a market sounding. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_11)
+A new paragraph 1a is inserted stating that where an offer of securities is addressed solely to qualified investors as defined in Regulation (EU) 2017/1129, communication of information to those investors for negotiating the contractual terms of their participation in a bond issuance by an issuer with instruments admitted to trading on a trading venue, made by that issuer or a person acting on its behalf, does not constitute a market sounding. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_11)
 
-The new paragraph states that such communication is deemed made in the normal exercise of a person's employment, profession or duties under Article 10(1) and therefore does not constitute unlawful disclosure of inside information, and it requires the issuer or person acting on its behalf to ensure the qualified investors are aware of, and acknowledge in writing, the legal and regulatory duties involved and the sanctions applicable to insider dealing and unlawful disclosure of inside information. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_11)
+The new paragraph further states that such communication is deemed made in the normal exercise of a person's employment, profession or duties under Article 10(1), and that the issuer or person acting on its behalf must ensure the qualified investors are aware of and acknowledge in writing the legal and regulatory duties involved and the sanctions applicable to insider dealing and unlawful disclosure of inside information. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_11)
 
-This paragraph 1a did not appear in the earlier version of Article 11, which otherwise contains the same text in both versions. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_11)
+No such paragraph 1a existed in the earlier version of Article 11. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_11)
 
 *before* (`02014R0596-20160703`)
 
@@ -879,17 +879,18 @@ This paragraph 1a did not appear in the earlier version of Article 11, which oth
 > (b) a secondary offeror of a financial instrument, in such quantity or value that the transaction is distinct from ordinary trading and involves a selling method based on the prior assessment of potential interest from potential investors;
 > (c) an emission allowance market participant; or
 > (d) a third party acting on behalf or on the account of a person referred to in point (a), (b) or (c).
-> 1a. Where an offer of securities is addressed solely to qualified investors as defined in point (e) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., communication of information to those qualified investors for the purposes of negotiating the contractual terms and conditions of their participation in an issuance of bonds by an issuer that has financial instruments admitted to trading on a trading venue, or by any person acting on its behalf or on […truncated by emendrix: 6431 characters omitted…]
+> 1a. Where an offer of securities is addressed solely to qualified investors as defined in point (e) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament and of the Council
+> Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., communication of information to those qualified investors for the purposes of negotiating the contractual terms and conditions of their participation in an issuance of bonds by an issuer that has financial instruments admitted to trading on a trading venue, or by any person acting on its behalf or o […truncated by emendrix: 6432 characters omitted…]
 
 **MODIFIED · Art. 13 — Accepted market practices** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 13 PA 12`, `AR 13 PA 13` · *dates* +2016-02-26 +2020-09-01 · *amended by* `32019R2115`
 
-The revised article adds a new paragraph 12 permitting an issuer of financial instruments admitted to trading on an SME growth market to enter into a liquidity contract for its shares, subject to conditions covering compliance with paragraph 2 criteria and a related delegated regulation, use of a Union template, authorisation and registration of the liquidity provider, and written acknowledgment from the market operator or investment firm, along with a duty for the issuer to be able to demonstrate ongoing compliance and to provide the contract to competent authorities on request. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13)
+Two new paragraphs, 12 and 13, have been added to the article, addressing liquidity contracts entered into by issuers of financial instruments admitted to trading on an SME growth market. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13)
 
-It also adds a new paragraph 13 directing ESMA to develop draft regulatory technical standards for a contractual template for such liquidity contracts, to submit them to the Commission by a stated deadline, with power delegated to the Commission to adopt them under Articles 10 to 14 of Regulation (EU) No 1095/2010. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13)
+Paragraph 12 sets out conditions for such a liquidity contract, including compliance with the criteria in paragraph 2 and with Commission Delegated Regulation (EU) 2016/908, use of a Union template referred to in paragraph 13, authorisation and registration of the liquidity provider, and written acknowledgement by the market operator or investment firm running the SME growth market, together with an ongoing demonstration and disclosure obligation regarding the contract. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13)
 
-Paragraphs 1 through 11 remain otherwise unchanged from the earlier version of the article. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13)
+Paragraph 13 requires ESMA to develop draft regulatory technical standards for a contractual template for liquidity contracts under paragraph 12 and to submit them to the Commission by 1 September 2020, with power delegated to the Commission to adopt them under Articles 10 to 14 of Regulation (EU) No 1095/2010; none of this appears in the earlier version of Article 13. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_13)
 
 *before* (`02014R0596-20160703`)
 
@@ -915,35 +916,35 @@ Paragraphs 1 through 11 remain otherwise unchanged from the earlier version of t
 > (c) whether the market practice has a positive impact on market liquidity and efficiency;
 > (d) whether the market practice takes into account the trading mechanism of the relevant market and enables market participants to react properly and in a timely manner to the new market situation created by that practice;
 > (e) whether the market practice does not create risks for the integrity of, directly or indirectly, related markets, whether regulated or not, in the relevant financial instrument within the Union;
-> (f) the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice i […truncated by emendrix: 6918 characters omitted…]
+> (f) the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice i […truncated by emendrix: 6919 characters omitted…]
 
 **MODIFIED · Art. 17 — Public disclosure of inside information** · applies from: unchanged
 
 *within* `AR 17 PA 4 ALN 4` · *amended by* `32019R2115`
 
-A new subparagraph is added to paragraph 4, stating that an issuer whose financial instruments are admitted to trading only on an SME growth market is to provide the written explanation to the competent authority specified under paragraph 3 only upon request, rather than immediately after disclosure. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_17)
+A new subparagraph was added to paragraph 4 stating that, by way of derogation from the requirement to provide a written explanation of delayed disclosure, an issuer whose financial instruments are admitted to trading only on an SME growth market need only provide that written explanation to the competent authority upon request. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_17)
 
-This added text further states that such an issuer is not required to keep a record of that explanation as long as it is able to justify its decision to delay. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_17)
-
-The corresponding provision in the earlier version contained no such derogation for issuers on an SME growth market. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_17)
+The same new text further states that, as long as such an issuer is able to justify its decision to delay, it is not required to keep a record of that explanation, a provision absent from the earlier version of the article. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_17)
 
 *before* (`02014R0596-20160703`)
 
 > Article 17
 > Public disclosure of inside information
 > 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.
-> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the Council
+> Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
 > This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.
-> 2. An emission […truncated by emendrix: 8628 characters omitted…]
+> 2. An emissio […truncated by emendrix: 8630 characters omitted…]
 
 *after* (`02014R0596-20210101`)
 
 > Article 17
 > Public disclosure of inside information
 > 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.
-> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the Council
+> Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
 > This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.
-> 2. An emission […truncated by emendrix: 9032 characters omitted…]
+> 2. An emissio […truncated by emendrix: 9034 characters omitted…]
 
 **MODIFIED · Art. 18 — Insider lists** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -991,7 +992,7 @@ Paragraph 6 no longer exempts SME growth market issuers from drawing up an insid
 
 *within* `AR 19 PA 3 ALN 1` · *amended by* `32019R2115`
 
-The obligation on the issuer or emission allowance market participant to make public the notified information changed from a requirement to do so promptly and no later than three business days after the transaction, using a manner enabling fast non-discriminatory access under implementing technical standards, to a requirement to make the information public within two business days of receiving the notification. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_19)
+The obligation on the issuer or emission allowance market participant to make notified transaction information public was changed from requiring publication promptly and no later than three business days after the transaction to requiring publication within two business days of receipt of the notification. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20210101#art_19)
 
 *before* (`02014R0596-20160703`)
 
@@ -1004,7 +1005,7 @@ The obligation on the issuer or emission allowance market participant to make pu
 > The first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.
 > 1a. The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:
 > (a) the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;
-> (b) the f […truncated by emendrix: 10931 characters omitted…]
+> (b) the f […truncated by emendrix: 10932 characters omitted…]
 
 *after* (`02014R0596-20210101`)
 
@@ -1017,7 +1018,7 @@ The obligation on the issuer or emission allowance market participant to make pu
 > The first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.
 > 1a. The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:
 > (a) the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;
-> (b) the f […truncated by emendrix: 10726 characters omitted…]
+> (b) the f […truncated by emendrix: 10727 characters omitted…]
 
 **MODIFIED · Art. 35 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
