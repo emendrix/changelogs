@@ -510,7 +510,7 @@ In point 5, the punctuation after subpoint (d) was changed from a semicolon to a
 ### `02019R1021-20221213` → `02019R1021-20230610`
 
 - **Act** `eu:32019R1021` · **In force** 2023-06-10 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 1 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 27 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20221213` · `v2` = `02019R1021-20230610`
