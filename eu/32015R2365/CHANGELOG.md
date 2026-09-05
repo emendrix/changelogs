@@ -28,21 +28,24 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-This is a newly inserted article setting out obligations for trade repositories and competent authorities to submit specified information to the European single access point, together with format and metadata requirements and related implementing and guideline mandates for ESMA. [Art. 32a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20240109#art_32a)
+This new provision requires trade repositories, from 10 January 2030, to submit information otherwise made public under Article 12(1) to a designated collection body so it can be made accessible on the European single access point, together with specified formatting and metadata requirements. [Art. 32a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20240109#art_32a)
 
-The article specifies that certain submissions and accessibility obligations under it take effect from 10 January 2030. [Art. 32a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20240109#art_32a)
+It further sets out, also from 10 January 2030, that certain other information referenced in Articles 8, 19, 22, 25 and 26 is to be made accessible on that same access point through either ESMA or the competent authority acting as collection body, subject to similar format and metadata conditions. [Art. 32a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20240109#art_32a)
+
+The provision also tasks ESMA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and with adopting guidelines where necessary to ensure the correctness of submitted metadata. [Art. 32a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20240109#art_32a)
 
 *after* (`02015R2365-20240109`)
 
 > Article 32a
 > Accessibility of information on the European single access point
-> 1. From 10 January 2030, when making public any information referred to in Article 12(1) of this Regulation, trade repositories shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> 1. From 10 January 2030, when making public any information referred to in Article 12(1) of this Regulation, trade repositories shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the trade repository to which the information relates;
 > (ii) the legal entity identifier of the trade repository, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
-> (iii) the size of the trade repository by category, as specified pursuant to Article 7(4), point […truncated by emendrix: 3425 characters omitted…]
+> (iii) the size of the trade repository by category, as specified pursuant to Article 7(4), point […truncated by emendrix: 3426 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02015R2365-20240109 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02015R2365-20220812 -->

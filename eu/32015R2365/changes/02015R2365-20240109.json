@@ -47,7 +47,7 @@
         },
         "heading": "Accessibility of information on the European single access point",
         "before": null,
-        "after": "Article 32a\nAccessibility of information on the European single access point\n1. From 10 January 2030, when making public any information referred to in Article 12(1) of this Regulation, trade repositories shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the trade repository to which the information relates;\n(ii) the legal entity identifier of the trade repository, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the trade repository by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), trade repositories shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.\n4. From 10 January 2030, the information referred to in Article 22(4), point (b), Article 25(3) and Article 26(1) and (4) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the person to which the information relates;\n(ii) where available, the legal entity identifier of the person, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n5. From 10 January 2030, the information referred to in Article 8(3), Article 19(8), Article 25(1), second sentence, and Article 25(2), second sentence, of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format, as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the trade repository to which the information relates;\n(ii) where available, the legal entity identifier of the trade repository, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n6. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nESMA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n7. Where necessary, ESMA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 6, first subparagraph, point (a), are correct.",
+        "after": "Article 32a\nAccessibility of information on the European single access point\n1. From 10 January 2030, when making public any information referred to in Article 12(1) of this Regulation, trade repositories shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council\nRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the trade repository to which the information relates;\n(ii) the legal entity identifier of the trade repository, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the trade repository by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), trade repositories shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.\n4. From 10 January 2030, the information referred to in Article 22(4), point (b), Article 25(3) and Article 26(1) and (4) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the person to which the information relates;\n(ii) where available, the legal entity identifier of the person, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n5. From 10 January 2030, the information referred to in Article 8(3), Article 19(8), Article 25(1), second sentence, and Article 25(2), second sentence, of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format, as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the trade repository to which the information relates;\n(ii) where available, the legal entity identifier of the trade repository, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n6. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nESMA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n7. Where necessary, ESMA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 6, first subparagraph, point (a), are correct.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -90,7 +90,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "This is a newly inserted article setting out obligations for trade repositories and competent authorities to submit specified information to the European single access point, together with format and metadata requirements and related implementing and guideline mandates for ESMA.",
+          "text": "This new provision requires trade repositories, from 10 January 2030, to submit information otherwise made public under Article 12(1) to a designated collection body so it can be made accessible on the European single access point, together with specified formatting and metadata requirements.",
           "fallback": false,
           "citations": [
             {
@@ -109,7 +109,26 @@
           ]
         },
         {
-          "text": "The article specifies that certain submissions and accessibility obligations under it take effect from 10 January 2030.",
+          "text": "It further sets out, also from 10 January 2030, that certain other information referenced in Articles 8, 19, 22, 25 and 26 is to be made accessible on that same access point through either ESMA or the competent authority acting as collection body, subject to similar format and metadata conditions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32015R2365",
+                  "display_name": "Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (Text with EEA relevance)"
+                },
+                "version": "02015R2365-20240109",
+                "location": "AR 32a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20240109#art_32a",
+              "label": "Art. 32a, 02015R2365-20240109"
+            }
+          ]
+        },
+        {
+          "text": "The provision also tasks ESMA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and with adopting guidelines where necessary to ensure the correctness of submitted metadata.",
           "fallback": false,
           "citations": [
             {
@@ -304,7 +323,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 4037,
+        "output_tokens": 365,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 32a",
+      "occurrence": 0,
+      "digest": "sha256:4d1a4952c137bb841b8bd1cce87a5fe2cf4f1f66603b91a8c20e64454ce3e3fc"
+    }
+  ]
 }
