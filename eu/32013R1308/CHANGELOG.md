@@ -919,7 +919,7 @@ Both texts are cut off before the end of Part VIII on olive oils, so any further
 ### `02013R1308-20240513` → `02013R1308-20241108`
 
 - **Act** `eu:32013R1308` · **In force** 2024-11-08 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 257 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20240513` · `v2` = `02013R1308-20241108`
