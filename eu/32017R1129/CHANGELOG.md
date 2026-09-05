@@ -2282,7 +2282,7 @@ Five new points, (c) through (g), were added to paragraph 2, requiring the repor
 ### `32017R1129` → `02017R1129-20191231`
 
 - **Act** `eu:32017R1129` · **In force** 2019-12-31 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **0 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 51 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32017R1129` · `v2` = `02017R1129-20191231`
