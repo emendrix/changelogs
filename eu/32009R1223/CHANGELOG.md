@@ -1044,7 +1044,7 @@ No wording change can be identified within the shown entries, so the observable 
 ### `02009R1223-20201203` → `02009R1223-20210526`
 
 - **Act** `eu:32009R1223` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20201203` · `v2` = `02009R1223-20210526`
@@ -1055,11 +1055,11 @@ No wording change can be identified within the shown entries, so the observable 
 
 *within* `AR 2 PA 4`
 
-A new paragraph 4 has been added stating that the Commission may, at the request of a Member State or on its own initiative, adopt measures to determine whether a specific product or group of products falls within the definition of cosmetic product. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210526#art_2)
+A new paragraph 4 has been added authorising the Commission, acting at the request of a Member State or on its own initiative, to adopt measures determining whether a specific product or group of products falls within the definition of cosmetic product. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210526#art_2)
 
-This new paragraph also specifies that such measures are to be adopted in accordance with the regulatory procedure referred to in Article 32(2). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210526#art_2)
+This new paragraph specifies that such measures are to be adopted in accordance with the regulatory procedure referred to in Article 32(2). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210526#art_2)
 
-No such paragraph existed in the earlier version of Article 2. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#art_2)
+No other part of Article 2, including paragraphs 1 to 3, differs between the two versions. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210526#art_2)
 
 *before* (`02009R1223-20201203`)
 
@@ -1072,7 +1072,7 @@ No such paragraph existed in the earlier version of Article 2. [Art. 2, v1](http
 > (d) manufacturer means any natural or legal person who manufactures a cosmetic product or has such a product designed or manufactured, and markets that cosmetic product under his name or trademark;
 > (e) distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a cosmetic product available on the Community market;
 > (f) end user means either a consumer or professional using the cosmetic product;
-> (g) making available on the market means any supply of a cosmetic product for distrib […truncated by emendrix: 3449 characters omitted…]
+> (g) making available on the market means any supply of a cosmetic product for distrib […truncated by emendrix: 3450 characters omitted…]
 
 *after* (`02009R1223-20210526`)
 
@@ -1085,7 +1085,7 @@ No such paragraph existed in the earlier version of Article 2. [Art. 2, v1](http
 > (d) manufacturer means any natural or legal person who manufactures a cosmetic product or has such a product designed or manufactured, and markets that cosmetic product under his name or trademark;
 > (e) distributor means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a cosmetic product available on the Community market;
 > (f) end user means either a consumer or professional using the cosmetic product;
-> (g) making available on the market means any supply of a cosmetic product for distrib […truncated by emendrix: 3780 characters omitted…]
+> (g) making available on the market means any supply of a cosmetic product for distrib […truncated by emendrix: 3781 characters omitted…]
 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
