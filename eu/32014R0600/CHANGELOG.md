@@ -2884,7 +2884,7 @@ The wording describing what happens once a transitional period is approved is re
 ### `02014R0600-20140702` → `02014R0600-20160701`
 
 - **Act** `eu:32014R0600` · **In force** 2016-07-01 · **Detected** 2026-08-13
-- **Touched** 15 provisions — 10 substantive · 5 date-only · **1 disputed**
+- **Touched** 15 provisions — 10 substantive · 5 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 10 modified · 0 deleted · 0 renumbered · 5 deferred · 40 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20140702` · `v2` = `02014R0600-20160701`
