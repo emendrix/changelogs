@@ -28,9 +28,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The reference identifying a high-risk third country in point (a) of paragraph 4 changed from citing Article 29 of Regulation (EU) 2024/1624 to citing Article 9 of Directive (EU) 2015/849. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_3)
-
-The accompanying footnote description of the cited act was replaced accordingly, now naming Directive (EU) 2015/849 of 20 May 2015 with its own title and Official Journal reference instead of Regulation (EU) 2024/1624 of 31 May 2024. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_3)
+Article 3(4)(1)(a) changes the reference used to identify a high-risk third country, replacing the citation to Article 29 of Regulation (EU) 2024/1624 with a citation to Article 9 of Directive (EU) 2015/849, along with the accompanying footnote identifying that Directive. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_3)
 
 *before* (`02012R0648-20241224`)
 
@@ -44,7 +42,7 @@ The accompanying footnote description of the cited act was replaced accordingly,
 > (i) the financial counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5;
 > (ii) the other counterparty is a financial counterparty, a financial holding company, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;
 > (iii) both counterparties are included in the same consolidation on a full basis; and
-> (iv) both counterparties are subject to appropriate centralised risk evaluat […truncated by emendrix: 4390 characters omitted…]
+> (iv) both counterparties are subject to appropriate centralised risk evaluat […truncated by emendrix: 4393 characters omitted…]
 
 *after* (`02012R0648-20250117`)
 
@@ -58,7 +56,7 @@ The accompanying footnote description of the cited act was replaced accordingly,
 > (i) the financial counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5;
 > (ii) the other counterparty is a financial counterparty, a financial holding company, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;
 > (iii) both counterparties are included in the same consolidation on a full basis; and
-> (iv) both counterparties are subject to appropriate centralised risk evaluat […truncated by emendrix: 4585 characters omitted…]
+> (iv) both counterparties are subject to appropriate centralised risk evaluat […truncated by emendrix: 4588 characters omitted…]
 
 **MODIFIED · Art. 4a — Financial counterparties that are subject to the clearing obligation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -132,9 +130,9 @@ Paragraph 5 is expanded so that the designated authority's duty is described by 
 
 *within* `AR 26 PA 3 ALN 1` · *dates* +2022-12-14 · *amended by* `32022R2554`
 
-Paragraph 3 now adds a requirement that the systems, resources and procedures a CCP employs include ICT systems managed in accordance with Regulation (EU) 2022/2554 on digital operational resilience for the financial sector. [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_26)
+Paragraph 3 now adds that the systems, resources and procedures a CCP must employ include ICT systems managed in accordance with Regulation (EU) 2022/2554 on digital operational resilience for the financial sector. [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_26)
 
-The remainder of the article, including paragraphs 1, 2 and 4 through 9, is unchanged between the two versions. [Art. 26, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_26) [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20250117#art_26)
+The prior version of paragraph 3 referred only to appropriate and proportionate systems, resources and procedures without any mention of ICT systems or that Regulation. [Art. 26, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_26)
 
 *before* (`02012R0648-20241224`)
 
@@ -154,7 +152,8 @@ The remainder of the article, including paragraphs 1, 2 and 4 through 9, is unch
 > 1. A CCP shall have robust governance arrangements, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed, and adequate internal control mechanisms, including sound administrative and accounting procedures.
 > Without prejudice to interoperability arrangements under Title V or the conduct of its investment policy in accordance with Article 47, a CCP shall not be or become a clearing member, a client, or establish indirect clearing arrangements with a clearing member with the aim of undertaking clearing activities at a CCP.
 > 2. A CCP shall adopt policies and procedures which are sufficiently effective so as to ensure compliance with this Regulation, including compliance of its managers and employees with all the provisions of this Regulation.
-> 3. A CCP shall maintain and operate an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures, including ICT systems managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the CouncilRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/ […truncated by emendrix: 1619 characters omitted…]
+> 3. A CCP shall maintain and operate an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures, including ICT systems managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council
+> Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060 […truncated by emendrix: 1620 characters omitted…]
 
 **MODIFIED · Art. 34 — Business continuity** · applies from: unchanged
 
