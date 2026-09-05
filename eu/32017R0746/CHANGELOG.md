@@ -342,7 +342,7 @@ Two new subparagraphs were added allowing the authority responsible for notified
 ### `02017R0746-20170505` → `02017R0746-20220128`
 
 - **Act** `eu:32017R0746` · **In force** 2022-01-28 · **Detected** 2026-08-12
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 125 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0746-20170505` · `v2` = `02017R0746-20220128`
