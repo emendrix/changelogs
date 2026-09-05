@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -25,8 +25,9 @@
   },
   "counts": {
     "touched": 4,
-    "substantive": 4,
+    "substantive": 3,
     "date_only": 0,
+    "textless": 1,
     "disputed": 2,
     "quoted": 0,
     "unexplained": 1
@@ -180,7 +181,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -228,7 +230,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0806, 1.000 of its instruction clauses read",
+            "detail": "32014R0806, 1.000 of its instruction clauses read, 0 dated outside the window, 3 undated and claimed",
             "change_types": []
           }
         },
@@ -237,7 +239,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -370,7 +373,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -452,7 +456,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -528,7 +533,7 @@
           "AR 25",
           "AR 40"
         ],
-        "note": "32014R0806, 1.000 of its instruction clauses read",
+        "note": "32014R0806, 1.000 of its instruction clauses read, 0 dated outside the window, 3 undated and claimed",
         "claims": [
           {
             "location": "AR 4 PO 2",
@@ -660,6 +665,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 11647,
       "output_tokens": 909,
@@ -679,5 +687,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 4,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
