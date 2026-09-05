@@ -527,7 +527,7 @@ The earlier version of Article 4 ended its list of competent authorities at item
 ### `02010R1093-20190330` → `02010R1093-20200101`
 
 - **Act** `eu:32010R1093` · **In force** 2020-01-01 · **Detected** 2026-08-13
-- **Touched** 68 provisions — 68 substantive · 0 date-only · **8 disputed**
+- **Touched** 68 provisions — 64 substantive · 0 date-only · 4 with no text · **8 disputed**
 - **Diff** 12 inserted · 56 modified · 0 deleted · 0 renumbered · 0 deferred · 34 unchanged
 - **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20190330` · `v2` = `02010R1093-20200101`
@@ -810,7 +810,7 @@ Paragraph 4 adds a requirement that the words regulatory technical standard appe
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1098,7 +1098,7 @@ The evaluation also now expressly includes potential environmental-related syste
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1296,7 +1296,7 @@ New paragraph 4 sets out cooperation obligations and administrative-arrangement 
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1787,7 +1787,7 @@ The disclosure obligation now specifies that meetings held are with external sta
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
