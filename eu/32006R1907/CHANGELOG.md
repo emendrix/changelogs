@@ -3215,18 +3215,31 @@ Each newly added entry specifies its own intrinsic properties, latest applicatio
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Entry 6, paragraph 1 now covers mixtures containing asbestos fibres added intentionally, in addition to articles containing them, where the earlier text referred only to articles. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XVII)
+In entry 6 on asbestos fibres, the prohibition on manufacture, placing on the market and use is extended to cover mixtures containing these fibres added intentionally, in addition to articles containing them. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XVII)
 
-In entries 16 and 17, the derogation wording changes from a reference to ILO Convention 13 "on the use of white lead and sulphates of lead in paint" to a reference to the Convention without that phrase, and it now also extends to placing on the market for restoration and maintenance uses and requires a Member State using the derogation to inform the Commission, none of which appeared in the earlier text. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XVII)
+In entries 16 and 17 on lead carbonates and lead sulphates, the derogation wording is changed so that the reference to sulphates of lead in the ILO Convention 13 citation is dropped, the derogation is stated to cover the placing on the market for the restoration and maintenance use as well as the use itself, and a new requirement is added that a Member State using the derogation inform the Commission of it. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XVII)
 
-In the entries 28 to 30 conditions, the reference to the concentration specified in Directive 1999/45/EC is now qualified by the added phrase limiting it to cases where no specific concentration limit is set out in Part 3 of Annex VI to Regulation (EC) No 1272/2008, a qualification absent from the earlier text. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XVII)
+In the shared provision applying to entries 28 to 30, the reference to the concentration specified in Directive 1999/45/EC is qualified with the added phrase limiting it to cases where no specific concentration limit is set out in Part 3 of Annex VI to Regulation (EC) No 1272/2008; the remaining visible text is unchanged and the provided excerpt is truncated before further differences, if any, can be seen. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XVII)
 
 *before* (`02006R1907-20121009`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -3237,14 +3250,27 @@ In the entries 28 to 30 conditions, the reference to the concentration specified
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance […truncated by emendrix: 541755 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous i […truncated by emendrix: 541783 characters omitted…]
 
 *after* (`02006R1907-20130306`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -3255,7 +3281,7 @@ In the entries 28 to 30 conditions, the reference to the concentration specified
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance […truncated by emendrix: 542504 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous i […truncated by emendrix: 542532 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20130306 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20121009 -->
