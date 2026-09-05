@@ -1883,7 +1883,7 @@ Both the before and after texts are truncated before the full extent of the chan
 ### `02006R1907-20170302` → `02006R1907-20170704`
 
 - **Act** `eu:32006R1907` · **In force** 2017-07-04 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20170302` · `v2` = `02006R1907-20170704`
@@ -1894,19 +1894,19 @@ Both the before and after texts are truncated before the full extent of the chan
 
 *within* `AN XIV` · *dates* +2019-01-04 +2019-04-04 +2019-07-04 +2019-09-01 +2020-07-04 +2020-10-04 +2021-01-04 +2021-03-01 · *amended by* `32017R0999`
 
-The updated Annex adds new introductory transitional-use text concerning spare parts and repair of articles, tied to 1 September 2019 and 1 March 2021 dates, and adds a note on a benzo[a]pyrene concentration threshold, none of which appeared in the earlier version. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV)
+The after text adds several new introductory notes on transitional dates for spare parts and repair uses, and a note on the benzo[a]pyrene threshold for carcinogen identification, none of which appear in the before text. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV)
 
-The later text also adds twelve new numbered entries, numbers 32 through 43, covering substances such as 1-Bromopropane, several phthalate esters, anthracene oil, coal tar pitch, and two nonylphenol/octylphenol ethoxylate entries, each with its own latest application and sunset dates, which are not present in the earlier version. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV)
-
-Entries 1 through 31 remain textually the same in both versions. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV)
+The after text also adds twelve new entries (numbers 32 to 43) covering additional substances such as 1-Bromopropane, several phthalates, anthracene oil, coal tar pitch, and two ethoxylated phenols, each with its own latest application and sunset dates, which are not present in the before text. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV) [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XIV)
 
 *before* (`02006R1907-20170302`)
 
 > ANNEX XIV
 > LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
-> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
 > Entry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods
-> Latest application date Sunset date
+> Latest application date
+> Sunset date
 > 1. 5-tert-butyl-2,4,6-trinitro-m-xylene
 > (Musk xylene)
 > EC No
@@ -1950,37 +1950,73 @@ Entries 1 through 31 remain textually the same in both versions. [Annex XIV, v1]
 > CAS No
 > 85-68-7 Toxic for reproduction
 > (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate
-> (DBP […truncated by emendrix: 4115 characters omitted…]
+> (DB […truncated by emendrix: 4116 characters omitted…]
 
 *after* (`02006R1907-20170704`)
 
 > ANNEX XIV
 > LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
-> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.1 September 2019 for the use of the substance in the production of spare parts for the repair of articles the production of which ceased or will cease before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles and the latter cannot function as intended without that spare part, and for the use of the substance (on its own or in a mixture) for the repair of such articles where that substance on its own or in a mixture was used in the production of those articles and the latter cannot be repaired otherwise than by using that substance.1 March 2021 for the use of the substance in the production of spare parts for the repair of articles the production of which ceased or will cease before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles and the latter cannot function as intended without those spare parts, and for the use of the substance (on its own or in a mixture) for the repair of such articles, where that substance was used in the production of those articles and the latter cannot be repaired otherwise than by using that substance.Does not meet the criteria for identification as a carcinogen if it contains < 0,005 % (w/w) benzo[a]pyrene […truncated by emendrix: 7548 characters omitted…]
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> 1 September 2019 for the use of the substance in the production of spare parts for the repair of articles the production of which ceased or will cease before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles and the latter cannot function as intended without that spare part, and for the use of the substance (on its own or in a mixture) for the repair of such articles where that substance on its own or in a mixture was used in the production of those articles and the latter cannot be repaired otherwise than by using that substance.
+> 1 March 2021 for the use of the substance in the production of spare parts for the repair of articles the production of which ceased or will cease before the sunset date indicated in the entry for that substance, where that substance was used in the production of those articles and the latter cannot function as intended without those spare parts, and for the use of the substance (on its own or in a mixture) for the repair of such articles, where that substance was used in the production of those articles and the latter cannot be repaired otherwise than by using that substance.
+> Does not meet the criteria for identification as a carcinogen if it contains < 0,005 % (w/w) benzo[a]py […truncated by emendrix: 7553 characters omitted…]
 
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2020-07-04 +2022-07-04 +2023-07-04 +2032-07-04 · *amended by* `32017R1000`
 
-Both the before and after texts of Annex XVII are cut off by truncation markers before the full extent of the entry can be compared, so only the visible portions, which appear identical in wording up to that point, can be described. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XVII)
+Both versions of Annex XVII shown here are truncated at the same point, and the visible portions of the text through the entries for creosote-related substances appear identical between the two dates. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XVII)
 
-The visible text shows no difference in the substances, restriction conditions, or dates listed in entries 1 through 31 as reproduced in each version. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XVII)
-
-Any actual differences between the two versions lie beyond the truncation point and are not shown in the material provided. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XVII)
+Because the difference lies beyond the truncation marker, the specific wording that changed cannot be identified from the material provided. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XVII)
 
 *before* (`02006R1907-20170302`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 […truncated by emendrix: 558284 characters omitted…]
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
+> Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+> Regulation (EU) No 167/2013 of the European Parliament and of the Council o […truncated by emendrix: 558323 characters omitted…]
 
 *after* (`02006R1907-20170704`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 […truncated by emendrix: 561552 characters omitted…]
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
+> Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1).
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+> Regulation (EU) No 167/2013 of the European Parliament and of the Council o […truncated by emendrix: 561591 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20170704 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20170302 -->
