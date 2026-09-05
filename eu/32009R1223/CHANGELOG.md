@@ -2984,9 +2984,9 @@ Entry 25, for Triclosan, adds specific product types and separate maximum concen
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-Both texts shown are truncated before any substantive difference becomes visible, with only a trivial punctuation variation detectable in entry 433, where a closing parenthesis after "Pseudoionone" is present in the earlier text but absent in the later one. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II)
+Within the visible portion of the text, the only detectable difference is the removal of a stray closing parenthesis after the entry for substance 433, Pseudoionone, which appears with the extra bracket in the earlier version and without it in the later version. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II)
 
-Aside from that formatting change, the visible portions of Annex II in both versions list the same reference numbers, substances, CAS numbers and EC numbers in the same order. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II)
+Both texts are truncated at the same later point, so no comparison can be made beyond entry 546 and any further differences in the omitted portion cannot be described. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II)
 
 *before* (`02009R1223-20130901`)
 
@@ -3083,7 +3083,7 @@ Aside from that formatting change, the visible portions of Annex II in both vers
 > 57-06-7
 > 200-309-2
 > 19
-> Alloclamide (INN) […truncated by emendrix: 124404 characters omitted…]
+> Alloclamide (INN) […truncated by emendrix: 124408 characters omitted…]
 
 *after* (`02009R1223-20140401`)
 
@@ -3180,7 +3180,7 @@ Aside from that formatting change, the visible portions of Annex II in both vers
 > 57-06-7
 > 200-309-2
 > 19
-> Alloclamide (INN) […truncated by emendrix: 124403 characters omitted…]
+> Alloclamide (INN) […truncated by emendrix: 124407 characters omitted…]
 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
@@ -3188,11 +3188,11 @@ Aside from that formatting change, the visible portions of Annex II in both vers
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-A new entry 8b for p-Phenylenediamine and its salts is added, covering products intended for colouring eyelashes with a maximum applied concentration of 2% calculated as free base, restricted to professional use. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III)
+A new entry 8b has been added for p-Phenylenediamine and its salts, restricting their use in products intended for colouring eyelashes with a maximum concentration of 2% calculated as free base after mixing and limiting such use to professional application. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III)
 
-Entry 12 gains an additional row (f) for products intended for eyelashes, setting a maximum of 2% H2O2 present or released and restricting it to professional use. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III)
+Entry 12 now includes an additional row (f) for products intended for eyelashes, capping hydrogen peroxide present or released at 2% and restricting that use to professional application. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III)
 
-Entry 22 on Resorcinol is reworded so that the mixing-condition restriction applies to hair or eyelashes together, and a new row (b) is added for products intended for colouring eyelashes restricted to professional use, with the former row (b) on hair lotions and shampoos renumbered to row (c). [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III)
+Entry 22 on Resorcinol has been reworded so the mixing concentration limit of 1.25% applies to both hair and eyelashes, and a new row (b) restricts products intended for colouring eyelashes to professional use, with the former row (b) on hair lotions and shampoos renumbered as row (c). [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III)
 
 *before* (`02009R1223-20130901`)
 
@@ -3221,7 +3221,7 @@ Entry 22 on Resorcinol is reworded so that the mixing-condition restriction appl
 > Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
 > For use as a preservative, see Annex V, No 9.
 > For use as a preservative, see AnnexV, No 23.
-> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 111720 characters omitted…]
+> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 111840 characters omitted…]
 
 *after* (`02009R1223-20140401`)
 
@@ -3250,7 +3250,7 @@ Entry 22 on Resorcinol is reworded so that the mixing-condition restriction appl
 > Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
 > For use as a preservative, see Annex V, No 9.
 > For use as a preservative, see AnnexV, No 23.
-> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 113150 characters omitted…]
+> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 113270 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20140401 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20130901 -->
