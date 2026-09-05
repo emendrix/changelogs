@@ -4835,7 +4835,7 @@ Note S and Note U were consolidated so that they now refer to a single "Table 3"
 ### `02008R1272-20170601` → `02008R1272-20180301`
 
 - **Act** `eu:32008R1272` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 8 provisions — 8 substantive · 0 date-only · **0 disputed**
+- **Touched** 8 provisions — 8 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 8 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20170601` · `v2` = `02008R1272-20180301`
@@ -4878,9 +4878,9 @@ Point (f) of Article 23 now describes the exclusion using the phrase "not classi
 
 Section 1.1.3.4's heading and text now refer to interpolation within one hazard category rather than one toxicity category. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_I)
 
-Section 1.3.6 now describes the exemption from the GHS05 pictogram by reference to substances or mixtures not classified as skin corrosion or as serious eye damage Category 1, in the finished state and packaged for consumer use, rather than by reference to substances not corrosive to skin and/or eyes in the finished state as packaged for consumer use. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_I)
+Section 1.3.6's heading and text now describe substances or mixtures classified as corrosive to metals but not classified as skin corrosion or as serious eye damage (Category 1), replacing the earlier reference to not being corrosive to skin and/or eyes, and the phrase describing the finished packaged state was reworded from 'as packaged' to 'and packaged'. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_I)
 
-Table 2.1.2 and its surrounding text in section 2.1.3 were reworked, including changed precautionary statement entries, a repositioned and renumbered note (now Note 1) on unpackaged or repackaged explosives, and the addition of a new Note 2 concerning substances and mixtures exempted from explosive classification after a negative Test Series 6 result, while the decision flowchart in Figure 2.1.3 accompanying section 2.1.4.1 was also restructured, and the remaining differences across the listed sub-provisions are not shown because the compared text is truncated before their content appears. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_I)
+Table 2.1.2 and the surrounding text in section 2.1.3 were restructured: the precautionary statement entries for Prevention and Response were changed, adding P234 and consolidating the Response entries into combined P370+P372+P380+P373 style codes with an alternate P370+P380+P375 entry for Division 1.5, the note about unpackaged or repacked explosives was moved after the table and labelled NOTE 1, a new NOTE 2 was added addressing substances and mixtures with a positive Test Series 2 result exempted from explosive classification, and Figure 2.1.3's flowchart layout was reworked, while the remaining differences across the many other listed sub-sections were not shown before the text was truncated. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_I)
 
 *before* (`02008R1272-20170601`)
 
@@ -4901,7 +4901,7 @@ Table 2.1.2 and its surrounding text in section 2.1.3 were reworked, including c
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305535 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305559 characters omitted…]
 
 *after* (`02008R1272-20180301`)
 
@@ -4922,7 +4922,7 @@ Table 2.1.2 and its surrounding text in section 2.1.3 were reworked, including c
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 311925 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 311950 characters omitted…]
 
 **MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
 
@@ -5210,11 +5210,11 @@ In section 2.2, the description under GHS05 for skin corrosion was changed from 
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 3`
 
-In the Hazard Class and Category Code table, a new entry "Skin Corr. 1" has been added ahead of the existing "Skin Corr. 1A" line under skin corrosion/irritation. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
+The table of hazard class and category codes now includes an additional entry, Skin Corr. 1, listed alongside the existing Skin Corr. 1A, 1B and 1C codes under skin corrosion/irritation. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
 
-Note U has been expanded to list the specific codes Press. Gas (Comp.), Press. Gas (Liq.), Press. Gas (Ref. Liq.) and Press. Gas (Diss.), and to add a statement that aerosols are not to be classified as gases under pressure, with a cross-reference to Annex I, Part 2, Section 2.3.2.1, Note 2. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
+Note U has been expanded to list four specific codes for gases under pressure (Press. Gas (Comp.), Press. Gas (Liq.), Press. Gas (Ref. Liq.), Press. Gas (Diss.)) and to state that aerosols are not to be classified as gases under pressure, with a cross-reference to Annex I, Part 2, Section 2.3.2.1, Note 2. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
 
-The text of Part 3 in both versions is cut off before the comparison could be completed, so only the changes visible within the shown portion, and not any further differences that may exist later in Part 3, can be described here. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
+Because both texts were truncated within Part 3's classification table before reaching a comparable point, any further differences in that table beyond what is shown cannot be described. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
 
 *before* (`02008R1272-20170601`)
 
@@ -5227,7 +5227,7 @@ The text of Part 3 in both versions is cut off before the comparison could be co
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1981958 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1981959 characters omitted…]
 
 *after* (`02008R1272-20180301`)
 
@@ -5240,7 +5240,7 @@ The text of Part 3 in both versions is cut off before the comparison could be co
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1990008 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1990009 characters omitted…]
 
 **MODIFIED · Annex VII — Translation table from classification under Directive 67/548/EEC to classification under this Regulation** · applies from: unchanged
 
