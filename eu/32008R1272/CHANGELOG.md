@@ -4682,7 +4682,7 @@ A new Article 53c has been added, stating that the Commission shall adopt a sepa
 ### `02008R1272-20180301` → `02008R1272-20181201`
 
 - **Act** `eu:32008R1272` · **In force** 2018-12-01 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **3 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20180301` · `v2` = `02008R1272-20181201`
