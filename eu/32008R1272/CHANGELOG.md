@@ -8107,7 +8107,7 @@ In the row for N; R59, the entry under "This Regulation" changes from the code E
 ### `32008R1272` → `02008R1272-20101201`
 
 - **Act** `eu:32008R1272` · **In force** 2010-12-01 · **Detected** 2026-08-13
-- **Touched** 7 provisions — 7 substantive · 0 date-only · **7 disputed**
+- **Touched** 7 provisions — 4 substantive · 0 date-only · 3 with no text · **7 disputed**
 - **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `32008R1272` · `v2` = `02008R1272-20101201`
@@ -8186,7 +8186,7 @@ The visible portions of Annex I, including the surrounding sections 2 and 2.1, o
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -8500,7 +8500,7 @@ Because both texts were cut short before their end, any further differences beyo
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -8557,7 +8557,7 @@ The text shown is truncated before the end of Table 3.1 in both versions, so fur
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20101201 -->
