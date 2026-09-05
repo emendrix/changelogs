@@ -1251,9 +1251,11 @@ This paragraph does not appear in the earlier version of the Article, which ende
 
 *within* `AR 3 PA 1 ALN 1 PO 24aa` · *amended by* `32024L1174`
 
-A new definition, point (24aa), has been inserted between existing points (24a) and (24b), introducing the term 'liquidation entity' and describing it as a legal person established in a participating Member State for which the group resolution plan, or in the case of entities not part of a group the resolution plan, provides for winding up under normal insolvency proceedings, or as an entity within a resolution group other than a resolution entity for which the group resolution plan does not provide for exercise of write-down and conversion powers. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_3)
+A new definition, point (24aa) for 'liquidation entity', has been inserted into the list of definitions. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_3)
 
-No other definitions in Article 3 were altered between the two versions. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_3)
+This definition describes a legal person established in a participating Member State whose group resolution plan, or resolution plan if it is not part of a group, provides for it to be wound up under normal insolvency proceedings, or an entity within a resolution group, other than a resolution entity, for which the group resolution plan does not provide for the exercise of write-down and conversion powers. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20241114#art_3)
+
+No such definition existed in the earlier version of Article 3. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_3)
 
 *before* (`02014R0806-20240513`)
 
@@ -1272,7 +1274,7 @@ No other definitions in Article 3 were altered between the two versions. [Art. 3
 > (10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
 > (11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
 > (12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
-> (13) institution me […truncated by emendrix: 9636 characters omitted…]
+> (13) institution me […truncated by emendrix: 9638 characters omitted…]
 
 *after* (`02014R0806-20241114`)
 
@@ -1291,7 +1293,7 @@ No other definitions in Article 3 were altered between the two versions. [Art. 3
 > (10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
 > (11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
 > (12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
-> (13) institution me […truncated by emendrix: 10110 characters omitted…]
+> (13) institution me […truncated by emendrix: 10112 characters omitted…]
 
 **MODIFIED · Art. 12d — Determination of the minimum requirement for own funds and eligible liabilities** · applies from: unchanged
 
