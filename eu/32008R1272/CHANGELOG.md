@@ -5351,11 +5351,11 @@ The entry for C; R34 changes its corresponding classification from Skin Corr. 1B
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The introductory text in section 1 now refers throughout to a single 'Table 3' rather than to separate Tables 3.1 and 3.2, and references to Union level replace earlier references to Community level in the description of Parts 2 and 3. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI)
+The introductory text now refers to a single Table 3 rather than distinguishing Table 3.1 and Table 3.2, and references to Community level and Community-level dossiers in the introductory wording have become Union level in the corresponding places. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI)
 
-Section 1.1.2.3 is retitled to add Acute Toxicity Estimates alongside specific concentration limits and M-factors, and its text now describes harmonised ATEs being listed in the same column of Table 3, including a rule on using the additivity formula in section 3.1.3.6 of Annex I and on establishing a value when a harmonised ATE is missing. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI)
+Section 1.1.2.3 has been retitled to add Acute Toxicity Estimates (ATE) alongside specific concentration limits and M-factors, and its text now describes harmonised ATE values being listed and used together with SCLs, including a reference to the additivity formula in section 3.1.3.6 of Annex I, replacing the prior wording about an asterisk marking specific concentration limits for acute toxicity under Directive 67/548/EEC. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI)
 
-Section 1.1.3.2 gains two new notes, Note 8 and Note 9, addressing releasable formaldehyde concentrations for carcinogen and mutagen classification respectively, and section 1.2 and its subsections 1.2.1 through 1.2.4 are revised to refer to 'Table 3' instead of 'Table 3.1' and to drop the cross-reference to Directive 1999/45/EC generic concentrations in Note 1. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI)
+Section 1.1.3.2 gains two additional notes, Note 8 and Note 9, concerning releasable formaldehyde concentrations for carcinogen and mutagen classification respectively, and sections 1.2 through 1.2.4 and Part 3's heading have been reworded to refer to Table 3 instead of Table 3.1, with the note on minimum classification concentration limits under Directive 67/548/EEC changed from present tense to past tense in section 1.2.1. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI)
 
 *before* (`02008R1272-20170101`)
 
@@ -5368,7 +5368,7 @@ Section 1.1.3.2 gains two new notes, Note 8 and Note 9, addressing releasable fo
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1981502 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1981503 characters omitted…]
 
 *after* (`02008R1272-20170601`)
 
@@ -5381,7 +5381,7 @@ Section 1.1.3.2 gains two new notes, Note 8 and Note 9, addressing releasable fo
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1981958 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characteristic element or the most characteristic organic group in the molecule. RST is the consecutive number of the substance in the series ABC. VW denotes the form in which the substance is produced or placed on the market. Y is the check-digit cal […truncated by emendrix: 1981959 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20170601 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20170101 -->
