@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32016R0679` → `02016R0679-20160504`
 
 - **Act** `eu:32016R0679` · **In force** not stated · **Detected** 2026-08-12
-- **Touched** 9 provisions — 9 substantive · 0 date-only · **0 disputed**
+- **Touched** 9 provisions — 9 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 90 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R0679` · `v2` = `02016R0679-20160504`
@@ -114,7 +114,7 @@ Similarly, the basis for withdrawal of certification was changed from referring 
 
 *within* `AR 43 PA 3 ALN 1`, `AR 43 PA 6 ALN 1`
 
-In paragraph 3, the basis for accreditation of certification bodies is now described as 'requirements' approved by the competent supervisory authority or the Board, whereas it was previously described as 'criteria' approved by those bodies. [Art. 43, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#art_43) [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504#art_43)
+In paragraph 3, the word describing the basis for accreditation was changed from referring to approved criteria to referring to approved requirements. [Art. 43, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#art_43) [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504#art_43)
 
 Paragraph 6 no longer includes the sentence stating that the Board shall collate all certification mechanisms and data protection seals in a register and make them publicly available by any appropriate means. [Art. 43, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#art_43) [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504#art_43)
 
@@ -124,10 +124,11 @@ Paragraph 6 no longer includes the sentence stating that the Board shall collate
 > Certification bodies
 > 1. Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the supervisory authority in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:
 > (a) the supervisory authority which is competent pursuant to Article 55 or 56;
-> (b) the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the CouncilRegulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30). in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.
+> (b) the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council
+> Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30). in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.
 > 2. Certification bodies referred to in paragraph 1 shall be accredited in accordance with that paragraph only where they have:
 > (a) demonstrated their independence and expertise in relation to the subject-matter of the certification to the satisfaction of the competent supervisory authority;
-> (b) undertaken to respect the cr […truncated by emendrix: 3308 characters omitted…]
+> (b) undertaken to respect the c […truncated by emendrix: 3309 characters omitted…]
 
 *after* (`02016R0679-20160504`)
 
@@ -135,10 +136,11 @@ Paragraph 6 no longer includes the sentence stating that the Board shall collate
 > Certification bodies
 > 1. Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the supervisory authority in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:
 > (a) the supervisory authority which is competent pursuant to Article 55 or 56;
-> (b) the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the CouncilRegulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30). in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.
+> (b) the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council
+> Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30). in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.
 > 2. Certification bodies referred to in paragraph 1 shall be accredited in accordance with that paragraph only where they have:
 > (a) demonstrated their independence and expertise in relation to the subject-matter of the certification to the satisfaction of the competent supervisory authority;
-> (b) undertaken to respect the cr […truncated by emendrix: 3154 characters omitted…]
+> (b) undertaken to respect the c […truncated by emendrix: 3155 characters omitted…]
 
 **MODIFIED · Art. 57 — Tasks** · applies from: unchanged
 
