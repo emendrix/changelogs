@@ -1462,11 +1462,11 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 
 *within* `AR 3 PA 1 ALN 1 PO 21`, `AR 3 PA 1 ALN 1 PO 21a`, `AR 3 PA 1 ALN 1 PO 24a`, `AR 3 PA 1 ALN 1 PO 24b`, `AR 3 PA 1 ALN 1 PO 24c`, `AR 3 PA 1 ALN 1 PO 45a`, `AR 3 PA 1 ALN 1 PO 48`, `AR 3 PA 1 ALN 1 PO 49`, `AR 3 PA 1 ALN 1 PO 49a`, `AR 3 PA 1 ALN 1 PO 49b`, `AR 3 PA 1 ALN 1 PO 54`, `AR 3 PA 1 ALN 1 PO 55` · *amended by* `32019R0877`
 
-The definition of subsidiary in point (21) is expanded to also cover, for certain listed articles applied to resolution groups, credit institutions permanently affiliated to a central body, that central body itself, and their subsidiaries, and new points (21a) and (24c) add definitions of material subsidiary and global systemically important institution. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_3)
+The definition of subsidiary in point (21) has been expanded to reference point (16) of Article 4(1) of Regulation (EU) No 575/2013 and to add treatment of credit institutions permanently affiliated to a central body and the central body itself for the purposes of certain articles applying to resolution groups, and new points (21a), (24a), (24b), (24c) and (45a) have been inserted defining material subsidiary, resolution entity, resolution group, global systemically important institution (G-SII) and Common Equity Tier 1 capital. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_3)
 
-New points (24a) and (24b) introduce definitions of resolution entity and resolution group, and a new point (45a) adds a definition of Common Equity Tier 1 capital. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_3)
+Point (48) now refers to bail-inable liabilities rather than eligible liabilities, and point (49) redefines bail-inable liabilities in place of the former eligible liabilities wording, while new points (49a) and (49b) introduce definitions of eligible liabilities and subordinated eligible instruments that were not present before. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0806#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_3)
 
-Point (48) now refers to bail-inable liabilities instead of eligible liabilities, point (49) renames and redefines that term as bail-inable liabilities, and new points (49a) and (49b) add definitions of eligible liabilities and subordinated eligible instruments, while a new point (55) adds a definition of combined buffer requirement referencing Directive 2013/36/EU; these additions and changes did not appear in the earlier version of Article 3. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0806#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_3)
+A new point (55) has been added defining combined buffer requirement by reference to point (6) of Article 128 of Directive 2013/36/EU, a definition absent from the earlier text. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_3)
 
 *before* (`32014R0806`)
 
@@ -1485,7 +1485,7 @@ Point (48) now refers to bail-inable liabilities instead of eligible liabilities
 > (10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
 > (11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
 > (12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
-> (13) institution me […truncated by emendrix: 7311 characters omitted…]
+> (13) institution me […truncated by emendrix: 7313 characters omitted…]
 
 *after* (`02014R0806-20201228`)
 
@@ -1504,7 +1504,7 @@ Point (48) now refers to bail-inable liabilities instead of eligible liabilities
 > (10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
 > (11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
 > (12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
-> (13) institution me […truncated by emendrix: 9635 characters omitted…]
+> (13) institution me […truncated by emendrix: 9637 characters omitted…]
 
 **MODIFIED · Art. 7 — Division of tasks within the SRM** · applies from: unchanged
 
@@ -1765,9 +1765,9 @@ It further describes how the Board, together with the group-level resolution aut
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-This is a newly inserted article setting out how institutions that are subsidiaries of a resolution entity or a third-country entity, but are not themselves resolution entities, are to satisfy the minimum requirement for own funds and eligible liabilities. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12g)
+Article 12g is a new provision setting out how institutions that are subsidiaries of a resolution entity, but are not themselves resolution entities, must comply with own funds and eligible liabilities requirements, including on an individual or consolidated basis depending on the case described. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12g)
 
-It specifies the individual or consolidated basis for compliance, lists the categories of liabilities and own funds that may be used to meet the requirement, and sets conditions under which the Board may allow a resolution-entity guarantee to substitute for part or all of that requirement. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12g)
+It further specifies the categories of liabilities and own funds that can be used to meet the requirement referred to in Article 12a(1), and the conditions under which the Board may permit the requirement to be met in whole or in part through a guarantee provided by the resolution entity. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12g)
 
 *after* (`02014R0806-20201228`)
 
@@ -1777,7 +1777,7 @@ It specifies the individual or consolidated basis for compliance, lists the cate
 > The Board, after consulting the competent authorities, including the ECB, may decide to apply the requirement laid down in this Article to an entity referred to in point (b) of Article 2 that is a subsidiary of a resolution entity but is not itself a resolution entity.
 > By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 12d and 12e on a consolidated basis.
 > For resolution groups identified in accordance with point (b) of point (24b) of Article 3(1), those credit institutions which are permanently affiliated to a central body, but are not themselves resolution entities, a central body which is not itself a resolution entity, and any resolution entities that are not subject to a requirement under Article 12f(3), shall comply with Article 12d(6) on an individual basis.
-> The requirement referred to in Article 12a(1) for an entity referred to in this paragraph shall be determined on the basis of the requirements laid down in Article 12d […truncated by emendrix: 4942 characters omitted…]
+> The requirement referred to in Article 12a(1) for an entity referred to in this paragraph shall be determined on the basis of the requirements laid down in Article 12d […truncated by emendrix: 4943 characters omitted…]
 
 **INSERTED · Art. 12h — Waiver of the minimum requirement for own funds and eligible liabilities applied to entities that are not themselves resolution entities** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -1979,11 +1979,11 @@ Paragraph 10 gains a new point (d) covering the write-down or conversion of the 
 
 *within* `AR 27 PA 1 ALN 2 PTA (a)`, `AR 27 PA 3 ALN 1 PTA (f)`, `AR 27 PA 3 ALN 1 PTA (g) PTI (iv)`, `AR 27 PA 3 ALN 1 PTA (h)`, `AR 27 PA 4 ALN 3`, `AR 27 PA 5 ALN 2`, `AR 27 PA 5 ALN 3`, `AR 27 PA 6 ALN 1`, `AR 27 PA 6 ALN 1 PTA (a)`, `AR 27 PA 7 ALN 1 PTA (a)`, `AR 27 PA 13 ALN 1 PTA (a)`, `AR 27 PA 13 ALN 1 PTA (b)`, `AR 27 PA 13 ALN 2`, `AR 27 PA 13 ALN 3` · *dates* +2020-12-28 · *amended by* `32019R0877`
 
-Throughout the article, references to 'eligible liabilities' have been replaced with 'bail-inable liabilities', including in the provisions on the aggregate amount to be reduced or converted, the limits on holdings by other institutions, the exclusion mechanism, the Fund's contribution rules, and the Board's valuation assessment. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_27)
+Throughout the article, references to "eligible liabilities" have been replaced with the term "bail-inable liabilities" in the sections covering the resolution scheme, the concentration limit instruction, the exclusion mechanism, the Fund contribution rules and the valuation assessment. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_27)
 
-Paragraph 3's list of liabilities excluded from write-down or conversion now also extends the exclusion in point (f) to liabilities owed to CCPs authorised in the Union or recognised by ESMA, and adds a new point (h) excluding certain liabilities to entities within the same resolution group that are not themselves resolution entities, subject to a stated exception and a Board assessment tied to Article 12g(2). [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_27)
+A new exclusion at point (f) has been extended to also cover liabilities to CCPs authorised in the Union or recognised third-country CCPs, and a new point (h) has been added excluding liabilities to certain non-resolution-entity group members from write-down or conversion, subject to a stated exception and a Board assessment tied to Article 12g(2). [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_27)
 
-Paragraph 5 now includes an added subparagraph directing the Board to assess whether liabilities to non-resolution-entity members of the same resolution group, not already excluded under new point (h) of paragraph 3, should be excluded or partially excluded under points (a) to (d). [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_27)
+A new subparagraph has been added to paragraph 5 requiring the Board to carefully assess whether liabilities to such non-resolution-entity group members that are not already excluded under the new point (h) should be excluded or partially excluded under the existing exclusion criteria. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_27)
 
 *before* (`32014R0806`)
 
@@ -1998,7 +1998,7 @@ Paragraph 5 now includes an added subparagraph directing the Board to assess whe
 > (a) the aggregate amount by which eligible liabilities must be reduced or converted, in accordance with paragraph 13;
 > (b) the liabilities that may be excluded in accordance with paragraphs 5 to 14;
 > (c) the objectives and minimum content of the business reorganisation plan to be submitted in accordance with paragraph 16.
-> 2. The bail-in tool may be applied for the purpose referred to in point (a) of paragraph 1 only if there is a reasonable prospect that the application of that tool, together with other relevant measur […truncated by emendrix: 13542 characters omitted…]
+> 2. The bail-in tool may be applied for the purpose referred to in point (a) of paragraph 1 only if there is a reasonable prospect that the application of that tool, together with other relevant measur […truncated by emendrix: 13544 characters omitted…]
 
 *after* (`02014R0806-20201228`)
 
@@ -2013,7 +2013,7 @@ Paragraph 5 now includes an added subparagraph directing the Board to assess whe
 > (a) the aggregate amount by which bail-inable liabilities must be reduced or converted, in accordance with paragraph 13;
 > (b) the liabilities that may be excluded in accordance with paragraphs 5 to 14;
 > (c) the objectives and minimum content of the business reorganisation plan to be submitted in accordance with paragraph 16.
-> 2. The bail-in tool may be applied for the purpose referred to in point (a) of paragraph 1 only if there is a reasonable prospect that the application of that tool, together with other relevant mea […truncated by emendrix: 14826 characters omitted…]
+> 2. The bail-in tool may be applied for the purpose referred to in point (a) of paragraph 1 only if there is a reasonable prospect that the application of that tool, together with other relevant mea […truncated by emendrix: 14828 characters omitted…]
 
 **MODIFIED · Art. 31 — Cooperation within the SRM** · applies from: unchanged
 
