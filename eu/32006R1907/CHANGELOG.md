@@ -3903,7 +3903,7 @@ Both texts are cut off before reaching Appendix 1, Appendix 2 and Appendix 4, so
 ### `02006R1907-20081012` → `02006R1907-20090120`
 
 - **Act** `eu:32006R1907` · **In force** 2009-01-20 · **Detected** 2026-08-13
-- **Touched** 41 provisions — 41 substantive · 0 date-only · **41 disputed**
+- **Touched** 41 provisions — 40 substantive · 0 date-only · 1 with no text · **41 disputed**
 - **Diff** 1 inserted · 40 modified · 0 deleted · 0 renumbered · 0 deferred · 118 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20081012` · `v2` = `02006R1907-20090120`
@@ -5047,13 +5047,13 @@ The remaining paragraph numbering and text of Article 129 are otherwise unchange
 > 4.
 > In the case of a decision as referred to in paragraph 2(a), the Commission shall consider whether this Regulation needs to be adapted.
 
-**INSERTED · TIT XI** · applies from: unknown
+**INSERTED · Title XI** · applies from: unknown
 
 *amended by* `32008R1272`
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
