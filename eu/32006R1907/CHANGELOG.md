@@ -3731,9 +3731,7 @@ The earlier version's introductory footnotes and directive-reference list differ
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-In point 20(c), the earlier requirement that placing on the market occurred at any time between 18 September 1981 and 31 October 1993 inclusive was replaced by a requirement that placing on the market occurred before the entry into force of this Regulation, with the 18 September 1981 to 31 October 1993 date range moved into a new clause about the documentary evidence to be held. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#art_3)
-
-The AFTER text adds a requirement that the documentary evidence include proof that the substance was placed on the market by any manufacturer or importer within that same 18 September 1981 to 31 October 1993 window. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#art_3)
+In point 20(c), the earlier text tied placing on the market to a specific window between 18 September 1981 and 31 October 1993, whereas the later text instead ties placing on the market simply to before the entry into force of the Regulation, and moves the 18 September 1981 to 31 October 1993 date range into a new requirement for documentary evidence including proof that the substance was placed on the market by any manufacturer or importer within that window. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#art_3)
 
 *before* (`02006R1907-20090120`)
 
@@ -3756,7 +3754,7 @@ The AFTER text adds a requirement that the documentary evidence include proof th
 > (b) less than a simple weight majority of molecules of the same molecular weight.
 > In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
 >
-> 6. m […truncated by emendrix: 9237 characters omitted…]
+> 6. m […truncated by emendrix: 9238 characters omitted…]
 
 *after* (`02006R1907-20090220`)
 
@@ -3771,7 +3769,7 @@ The AFTER text adds a requirement that the documentary evidence include proof th
 > (a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;
 > (b) less than a simple weight majority of molecules of the same molecular weight.
 > In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
-> 6. monomer: […truncated by emendrix: 9264 characters omitted…]
+> 6. monomer: […truncated by emendrix: 9265 characters omitted…]
 
 **MODIFIED · Annex XI — GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -3779,11 +3777,11 @@ The AFTER text adds a requirement that the documentary evidence include proof th
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-Section 3.1 changes the description of which testing may be omitted, moving from an omission tied to Sections 8.6 and 8.7 of Annex VIII, Annex IX and Annex X together to an omission tied to Sections 8.6 and 8.7 of Annex VIII and separately to all of Annex IX and Annex X. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
+Section 3.1 now applies to omission of testing under Section 8.6 and 8.7 of Annex VIII together with Annex IX and Annex X, rather than describing it as testing under those sections "of Annex VIII, Annex IX and Annex X" as a single grouped phrase. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
 
-Section 3.2 replaces the earlier short justification requirement, which referenced an exposure assessment under Section 5 of Annex I and consistency with criteria adopted under Section 3.3, with a longer requirement calling for a thorough and rigorous exposure assessment and compliance with one of several detailed listed criteria concerning DNEL or PNEC derivation, strictly controlled conditions, or substances embedded in a matrix. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
+Section 3.2 is expanded from a short requirement that justification be based on an exposure assessment consistent with criteria to be adopted under Section 3.3, into a longer text requiring a thorough and rigorous exposure assessment meeting one of several detailed criteria concerning DNEL/PNEC derivation and comparison, strictly controlled conditions under Article 18(4)(a) to (f), or containment of the substance in an article, and the requirement to communicate specific conditions of use is moved out of Section 3.2 into Section 3.3. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
 
-Section 3.3 no longer contains the earlier instruction for the Commission to adopt measures by 1 December 2008 to set criteria defining adequate justification, and instead states only that specific conditions of use must be communicated through the supply chain in accordance with Article 31 or 32, as the case may be. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
+Section 3.3, which previously directed the Commission to adopt criteria defining adequate justification under Section 3.2 by 1 December 2008, is replaced with the requirement that specific conditions of use be communicated through the supply chain in accordance with Article 31 or 32, as the case may be. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
 
 *before* (`02006R1907-20090120`)
 
@@ -3834,7 +3832,7 @@ Section 3.3 no longer contains the earlier instruction for the Commission to ado
 > (1) adequacy for the purpose of classification and labelling and/or risk assessment;
 > (2) sufficient documentation is provided to assess the adequacy of the study; and
 > (3) the data are valid for the endpoint being investigated and the study is performed using an acceptable level of quality assurance.
-> 1.1.2. Data on human health and environmental properties from experiments not carr […truncated by emendrix: 10429 characters omitted…]
+> 1.1.2. Data on human health and environmental properties from experiments not carr […truncated by emendrix: 10430 characters omitted…]
 
 **MODIFIED · Annex 11** · applies from: unknown
 
@@ -3852,9 +3850,9 @@ Section 3.3 no longer contains the earlier instruction for the Commission to ado
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The body of Annex XVII shown here reproduces the same numbered entries and restrictions in both versions, with the visible differences confined to spacing and line-break formatting rather than to the substance of the listed conditions. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
+Both the before and after texts of Annex XVII are cut off before reaching the appendices, so the visible portions of the main table read identically apart from minor spacing and line-break differences. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
 
-Both texts are cut off before reaching Appendix 1, Appendix 2 and Appendix 4, so no wording from those sub-provisions is available for comparison here. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
+The sub-provisions said to differ, Appendix 1, Appendix 2 and Appendix 4, fall within the truncated part of both texts and are not shown here, so no specific wording change in them can be described from the material provided. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
 
 *before* (`02006R1907-20090120`)
 
@@ -3882,20 +3880,24 @@ Both texts are cut off before reaching Appendix 1, Appendix 2 and Appendix 4, so
 >
 > (c) small condensers;
 >
-> (d) heat-transmitting fluids in clo […truncated by emendrix: 406748 characters omitted…]
+> (d) heat-transmitting fluids in clo […truncated by emendrix: 406799 characters omitted…]
 
 *after* (`02006R1907-20090220`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
-> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).Chrysotile has two CAS Nos, confirmed by ECB.Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
+> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).
+> Chrysotile has two CAS Nos, confirmed by ECB.
+> Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).
+> OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).
+> For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
 > Designation of the substance, of the groups of substances or of the mixture Conditions of restriction
 > 1. Polychlorinated terphenyls (PCTs)
 > Mixtures, including waste oils, with a PCT content higher than 0,005 % by weight. 1. Shall not be used. However, the following use of equipment, installations and fluids which were in service on 30 June 1986 shall continue to be permitted until they are disposed of or reach the end of their service life:
 > (a) closed-system electrical equipment transformers, resistors and inductors;
 > (b) large condensers (≥ 1 kg total weight);
 > (c) small condensers;
-> (d) heat-transmitting fluids in closed-circuit h […truncated by emendrix: 406216 characters omitted…]
+> (d) heat-transmitting fluids in closed-circu […truncated by emendrix: 406269 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20090220 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20090120 -->
