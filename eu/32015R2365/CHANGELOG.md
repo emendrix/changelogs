@@ -50,7 +50,7 @@ The article specifies that certain submissions and accessibility obligations und
 ### `32015R2365` → `02015R2365-20220812`
 
 - **Act** `eu:32015R2365` · **In force** 2022-08-12 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 31 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32015R2365` · `v2` = `02015R2365-20220812`
