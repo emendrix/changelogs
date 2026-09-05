@@ -1951,9 +1951,9 @@ The earlier version of the article did not contain this point (i) or any referen
 
 *within* `AR 3 PA 1 ALN 1 PO 22a`, `AR 3 PA 1 ALN 1 PO 24 PTA (a) PTI (i)` · *amended by* `32021R0168`
 
-A new definition, point (22a), was added to define a spot foreign exchange benchmark as one reflecting the price, expressed in one currency, of another currency or a basket of other currencies, for delivery on the earliest possible value date. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3)
+A new definition, point (22a) for 'spot foreign exchange benchmark', has been added, describing it as a benchmark reflecting the price, expressed in one currency, of another currency or a basket of currencies for delivery on the earliest possible value date. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3)
 
-In point (24)(a)(i), the description of input data sources for a regulated-data benchmark was expanded to also include reference to Article 25(4) of Directive 2014/65/EU, alongside the existing reference to Article 28(4) of Regulation (EU) No 600/2014. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3)
+In point (24)(a)(i), the reference to input data contributed from a trading venue or equivalent third-country venue has been expanded to also include a reference to Article 25(4) of Directive 2014/65/EU. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_3)
 
 *before* (`02016R1011-20191210`)
 
@@ -1971,7 +1971,7 @@ In point (24)(a)(i), the description of input data sources for a regulated-data 
 > (5) provision of a benchmark means:
 > (a) administering the arrangements for determining a benchmark;
 > (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
-> (c) determining a benchmark through the application of […truncated by emendrix: 15163 characters omitted…]
+> (c) determining a benchmark through the application of […truncated by emendrix: 15174 characters omitted…]
 
 *after* (`02016R1011-20210213`)
 
@@ -1989,7 +1989,7 @@ In point (24)(a)(i), the description of input data sources for a regulated-data 
 > (5) provision of a benchmark means:
 > (a) administering the arrangements for determining a benchmark;
 > (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
-> (c) determining a benchmark through the application of […truncated by emendrix: 15453 characters omitted…]
+> (c) determining a benchmark through the application of […truncated by emendrix: 15464 characters omitted…]
 
 **INSERTED · Art. 18a — Spot foreign exchange benchmarks** · applies from: unknown (an inserted provision states its own application date only in prose)
 
