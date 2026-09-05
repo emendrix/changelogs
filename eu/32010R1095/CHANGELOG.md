@@ -518,7 +518,7 @@ The rest of Article 40, including the existing sentence on Directive 97/9/EC rep
 ### `02010R1095-20140523` → `02010R1095-20200101`
 
 - **Act** `eu:32010R1095` · **In force** 2020-01-01 · **Detected** 2026-08-13
-- **Touched** 68 provisions — 68 substantive · 0 date-only · **8 disputed**
+- **Touched** 68 provisions — 64 substantive · 0 date-only · 4 with no text · **8 disputed**
 - **Diff** 12 inserted · 56 modified · 0 deleted · 0 renumbered · 0 deferred · 30 unchanged
 - **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
 - **Citations** `v1` = `02010R1095-20140523` · `v2` = `02010R1095-20200101`
@@ -791,7 +791,7 @@ Paragraph 3 changes the wording from requesting the opinion or advice of the Sta
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1081,7 +1081,7 @@ The provision also adds a reference to potential environmental-related systemic 
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1296,7 +1296,7 @@ New paragraphs 4, 5 and 6 are added covering cooperation with competent authorit
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1775,7 +1775,7 @@ It also states that expenses are to be recorded publicly in accordance with the 
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
