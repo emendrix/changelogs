@@ -34758,7 +34758,7 @@ The new article also states that if an institution modifies the terms of such a 
 ### `02013R0575-20180101` → `02013R0575-20190101`
 
 - **Act** `eu:32013R0575` · **In force** 2019-01-01 · **Detected** 2026-08-13
-- **Touched** 50 provisions — 50 substantive · 0 date-only · **38 disputed**
+- **Touched** 50 provisions — 47 substantive · 0 date-only · 3 with no text · **38 disputed**
 - **Diff** 7 inserted · 43 modified · 0 deleted · 0 renumbered · 0 deferred · 487 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20180101` · `v2` = `02013R0575-20190101`
@@ -34769,11 +34769,9 @@ The new article also states that if an institution modifies the terms of such a 
 
 *within* `AR 4 PA 1 ALN 1 PO 13`, `AR 4 PA 1 ALN 1 PO 13 PTA (a)`, `AR 4 PA 1 ALN 1 PO 13 PTA (b)`, `AR 4 PA 1 ALN 1 PO 14`, `AR 4 PA 1 ALN 1 PO 14a`, `AR 4 PA 1 ALN 1 PO 61`, `AR 4 PA 1 ALN 1 PO 61 PTA (a)`, `AR 4 PA 1 ALN 1 PO 61 PTA (b)`, `AR 4 PA 1 ALN 1 PO 62`, `AR 4 PA 1 ALN 1 PO 63`, `AR 4 PA 1 ALN 1 PO 66`, `AR 4 PA 1 ALN 1 PO 67`, `AR 4 PA 1 ALN 1 PO 128`, `AR 4 PA 1 ALN 1 PO 129` · *dates* +2017-12-12 · *amended by* `32017R2401`
 
-The definitions of originator and sponsor, previously self-contained, now point to the corresponding definitions in point (3) and point (5) of Article 2 of Regulation (EU) 2017/2402, and a new definition of original lender referencing point (20) of the same Article 2 has been inserted as point (14a). [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_4)
+The definitions of originator, sponsor, securitisation, securitisation position, re-securitisation, securitisation special purpose entity and tranche are replaced with cross-references to the corresponding definitions in Regulation (EU) 2017/2402, rather than being defined directly in this text. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_4)
 
-The definitions of securitisation, securitisation position, re-securitisation, securitisation special purpose entity or SSPE, and tranche were replaced with cross-references to points (1), (19), (4), (2) and (6) respectively of Article 2 of Regulation (EU) 2017/2402, whereas the earlier version set out each of these definitions directly in its own words including sub-points (a) and (b) under originator and securitisation. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_4)
-
-A new point (129) defining servicer by reference to point (13) of Article 2 of Regulation (EU) 2017/2402 was added at the end of the list of definitions in paragraph 1. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_4)
+A new point (14a) defining original lender and a new point (129) defining servicer are added, each by reference to the corresponding definitions in Regulation (EU) 2017/2402. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_4)
 
 *before* (`02013R0575-20180101`)
 
@@ -34786,7 +34784,7 @@ A new point (129) defining servicer by reference to point (13) of Article 2 of R
 > (b) local firms;
 > (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
 > (3) institution means a credit institution or an investment firm;
-> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35981 characters omitted…]
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35987 characters omitted…]
 
 *after* (`02013R0575-20190101`)
 
@@ -34799,7 +34797,7 @@ A new point (129) defining servicer by reference to point (13) of Article 2 of R
 > (b) local firms;
 > (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
 > (3) institution means a credit institution or an investment firm;
-> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35179 characters omitted…]
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same market […truncated by emendrix: 35186 characters omitted…]
 
 **MODIFIED · Art. 36 — Deductions from Common Equity Tier 1 items** · applies from: unchanged
 
@@ -34820,7 +34818,7 @@ The cross-references in point (k)(ii) for securitisation positions were changed 
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2858 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2859 characters omitted…]
 
 *after* (`02013R0575-20190101`)
 
@@ -34835,7 +34833,7 @@ The cross-references in point (k)(ii) for securitisation positions were changed 
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2878 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2879 characters omitted…]
 
 **MODIFIED · Art. 109 — Treatment of securitisation positions** · applies from: unchanged
 
@@ -36387,7 +36385,7 @@ The earlier version contained no such consultation requirement and referred only
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -36416,7 +36414,7 @@ The new provision also states that the report shall take into account regulatory
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -36426,7 +36424,7 @@ The new provision also states that the report shall take into account regulatory
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20190101 -->
