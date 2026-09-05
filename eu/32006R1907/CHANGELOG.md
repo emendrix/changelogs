@@ -1850,7 +1850,7 @@ Both the before and after texts are truncated before the full extent of the chan
 ### `02006R1907-20170704` → `02006R1907-20171010`
 
 - **Act** `eu:32006R1907` · **In force** 2017-09-20 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20170704` · `v2` = `02006R1907-20171010`
