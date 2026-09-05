@@ -1988,7 +1988,7 @@ The credit-institution exemption previously located at point (k) with the same w
 ### `02017R1129-20191231` → `02017R1129-20210318`
 
 - **Act** `eu:32017R1129` · **In force** 2021-03-18 · **Detected** 2026-08-13
-- **Touched** 10 provisions — 10 substantive · 0 date-only · **1 disputed**
+- **Touched** 10 provisions — 9 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 3 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02017R1129-20191231` · `v2` = `02017R1129-20210318`
@@ -2272,7 +2272,7 @@ Five new points, (c) through (g), were added to paragraph 2, requiring the repor
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20210318 -->
