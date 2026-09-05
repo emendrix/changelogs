@@ -34525,9 +34525,9 @@ The article further specifies that the tool must at least allow each institution
 
 *within* `AR 36 PA 1 ALN 1 PTA (l)`, `AR 36 PA 1 ALN 1 PTA (m)` · *amended by* `32019R0630`
 
-The list of deductions from Common Equity Tier 1 items in paragraph 1 now ends point (l) with a semicolon instead of a full stop and adds a new point (m) covering the applicable amount of insufficient coverage for non-performing exposures. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36)
+The list of deductions from Common Equity Tier 1 items in paragraph 1 now adds a new point (m), covering the applicable amount of insufficient coverage for non-performing exposures. [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36)
 
-No other text within Article 36, including paragraphs 2 and 3, was altered between the two versions. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36)
+Point (l), which addresses foreseeable tax charges relating to Common Equity Tier 1 items, is unchanged in substance apart from ending with a semicolon instead of a full stop to connect to the new point (m). [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_36)
 
 *before* (`02013R0575-20190101`)
 
@@ -34542,7 +34542,7 @@ No other text within Article 36, including paragraphs 2 and 3, was altered betwe
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2878 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2879 characters omitted…]
 
 *after* (`02013R0575-20190426`)
 
@@ -34557,7 +34557,7 @@ No other text within Article 36, including paragraphs 2 and 3, was altered betwe
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2959 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2960 characters omitted…]
 
 **INSERTED · Art. 47a — Non-performing exposures** · applies from: unknown (an inserted provision states its own application date only in prose)
 
