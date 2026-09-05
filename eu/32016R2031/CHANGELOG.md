@@ -858,7 +858,7 @@ Paragraph 6's list of provisions under which a delegated act is subject to the t
 ### `32016R2031` → `02016R2031-20191214`
 
 - **Act** `eu:32016R2031` · **In force** 2019-12-14 · **Detected** 2026-09-04
-- **Touched** 18 provisions — 18 substantive · 0 date-only · **18 disputed**
+- **Touched** 18 provisions — 17 substantive · 0 date-only · 1 with no text · **18 disputed**
 - **Diff** 0 inserted · 18 modified · 0 deleted · 0 renumbered · 0 deferred · 105 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32016R2031` · `v2` = `02016R2031-20191214`
@@ -1078,7 +1078,7 @@ The prior sentence stating that such investigations shall comply with requiremen
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
