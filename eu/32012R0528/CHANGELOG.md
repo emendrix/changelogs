@@ -435,7 +435,7 @@ Both texts are cut off before the end of the Annex, so any further differences b
 ### `02012R0528-20130923` → `02012R0528-20140425`
 
 - **Act** `eu:32012R0528` · **In force** 2014-04-25 · **Detected** 2026-09-04
-- **Touched** 34 provisions — 34 substantive · 0 date-only · **11 disputed**
+- **Touched** 34 provisions — 28 substantive · 0 date-only · 6 with no text · **11 disputed**
 - **Diff** 0 inserted · 34 modified · 0 deleted · 0 renumbered · 0 deferred · 76 unchanged
 - **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20130923` · `v2` = `02012R0528-20140425`
@@ -488,7 +488,7 @@ Point (b) of Article 2(5) now specifies that the exclusion for biocidal products
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -534,7 +534,7 @@ The earlier version described the active substances as having the same specifica
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -582,7 +582,7 @@ Paragraph 6 is restructured so that the biocidal product family assessment under
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -592,7 +592,7 @@ Paragraph 6 is restructured so that the biocidal product family assessment under
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -602,7 +602,7 @@ Paragraph 6 is restructured so that the biocidal product family assessment under
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -731,7 +731,7 @@ The time period referenced for the Member States' obligation to authorise a bioc
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1177,9 +1177,9 @@ The end point for this permission is now tied to whether applications for approv
 
 **MODIFIED · Art. 94 — Transitional measures concerning treated articles** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
-*within* `AR 94 PA 1 ALN 1`, `AR 94 PA 1 ALN 1 PTA (a)`, `AR 94 PA 1 ALN 1 PTA (b)`, `AR 94 PA 2 ALN 1` · *dates* -2013-09-01 +2017-03-01 · *amended by* `32014R0334`
+*within* `AR 94 PA 1 ALN 1`, `AR 94 PA 1 ALN 1 PTA (a)`, `AR 94 PA 1 ALN 1 PTA (b)`, `AR 94 PA 2 ALN 1` · *dates* -2013-09-01 +2017-03-01
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
 The provision changes the derogation reference from Article 58 generally to Article 58(2) specifically, and it replaces the earlier single-paragraph test based on treated articles being available on the market on 1 September 2013 with a new test based on active substances being under examination or subject to a pending approval application by 1 September 2016. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_94)
 

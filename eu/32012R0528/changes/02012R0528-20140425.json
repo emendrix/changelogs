@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -25,8 +25,9 @@
   },
   "counts": {
     "touched": 34,
-    "substantive": 34,
+    "substantive": 28,
     "date_only": 0,
+    "textless": 6,
     "disputed": 11,
     "quoted": 0,
     "unexplained": 6
@@ -172,7 +173,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read",
+            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
             "change_types": []
           }
         },
@@ -181,7 +182,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -360,7 +361,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read",
+            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
             "change_types": []
           }
         },
@@ -369,7 +370,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -560,7 +561,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read",
+            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
             "change_types": []
           }
         },
@@ -569,7 +570,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -618,7 +619,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read",
+            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
             "change_types": []
           }
         },
@@ -627,7 +628,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -676,7 +677,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read",
+            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
             "change_types": []
           }
         },
@@ -685,7 +686,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -1114,7 +1115,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2999,13 +3000,7 @@
           "AR 94 PA 1 ALN 1 PTA (b)",
           "AR 94 PA 2 ALN 1"
         ],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0334",
-            "display_name": "Regulation (EU) No 334/2014 of the European Parliament and of the Council of 11 March 2014 amending Regulation (EU) No 528/2012 concerning the making available on the market and use of biocidal products, with regard to certain conditions for access to the market  Text with EEA relevance"
-          }
-        ],
+        "amending_acts": [],
         "dates_removed": [
           "2013-09-01"
         ],
@@ -3031,11 +3026,9 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (24)",
-            "change_types": [
-              "MODIFIED"
-            ]
+            "status": "absent",
+            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
+            "change_types": []
           }
         },
         "disputed": true
@@ -3201,7 +3194,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read",
+            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
             "change_types": []
           }
         },
@@ -3581,7 +3574,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read",
+            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
             "change_types": []
           }
         },
@@ -4240,12 +4233,11 @@
           "AR 89",
           "AR 92",
           "AR 93",
-          "AR 94",
           "AR 96",
           "AN I",
           "AN V"
         ],
-        "note": "32014R0334, 1.000 of its instruction clauses read",
+        "note": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
         "claims": [
           {
             "location": "AR 2 PA 5 PTA (b)",
@@ -4589,17 +4581,6 @@
             }
           },
           {
-            "location": "AR 94",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (24)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32014R0334",
-              "display_name": "Regulation (EU) No 334/2014 of the European Parliament and of the Council of 11 March 2014 amending Regulation (EU) No 528/2012 concerning the making available on the market and use of biocidal products, with regard to certain conditions for access to the market  Text with EEA relevance"
-            }
-          },
-          {
             "location": "AR 96 PA 1",
             "change_type": "MODIFIED",
             "in_force": null,
@@ -4651,22 +4632,22 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 28,
-        "right_units": 27,
-        "shared": 26,
-        "precision": 0.9285714285714286,
-        "recall": 0.9629629629629629,
-        "f1": 0.9454545454545454,
+        "right_units": 26,
+        "shared": 25,
+        "precision": 0.8928571428571429,
+        "recall": 0.9615384615384616,
+        "f1": 0.9259259259259259,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 29,
-        "right_units": 27,
+        "right_units": 26,
         "shared": 24,
         "precision": 0.8275862068965517,
-        "recall": 0.8888888888888888,
-        "f1": 0.8571428571428572,
+        "recall": 0.9230769230769231,
+        "f1": 0.8727272727272727,
         "kind_mismatches": 1
       }
     ],
@@ -4837,23 +4818,17 @@
       },
       {
         "unit": "AR 94",
-        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
         "observed_by": [
-          "structural_diff",
-          "instruction_parse"
+          "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata"
+          "corpus_metadata",
+          "instruction_parse"
         ],
         "kinds": [
           [
             "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
             [
               "MODIFIED"
             ]
@@ -4939,5 +4914,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 34,
+      "repaired": 9,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
