@@ -875,7 +875,7 @@ This point did not appear in the earlier version of that list, which moved direc
 ### `02019R1009-20220716` → `02019R1009-20221003`
 
 - **Act** `eu:32019R1009` · **In force** 2022-10-03 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 54 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1009-20220716` · `v2` = `02019R1009-20221003`
