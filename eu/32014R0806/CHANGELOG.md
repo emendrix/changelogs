@@ -1194,9 +1194,9 @@ A new paragraph 8 has been added, addressing the Board's disclosure of its own a
 
 *amended by* `32025R2088`
 
-Article 31a is a new provision setting out rules for the Board to exchange information obtained from financial institutions or other authorities with those other authorities, and describing the conditions, safeguards and exceptions governing such exchanges. [Art. 31a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_31a)
+A new Article 31a has been added, setting out rules for the Board to share and request information with other named authorities and with entities such as financial institutions and researchers, including conditions, exceptions, and confidentiality safeguards for such exchanges. [Art. 31a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_31a)
 
-It also covers memoranda of understanding to facilitate such exchanges, access to information for re-use by financial institutions, researchers and other entities for research and innovation purposes, a reporting obligation to the Commission on legal obstacles to information exchange, and definitions of the other authorities and financial institutions covered by the Article. [Art. 31a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_31a)
+The new article also defines the terms "other authorities" and "financial institution" for its own purposes and requires the Board to report to the Commission by 11 November 2027 on legal obstacles to information exchange. [Art. 31a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_31a)
 
 *after* (`02014R0806-20251110`)
 
@@ -1206,7 +1206,7 @@ It also covers memoranda of understanding to facilitate such exchanges, access t
 > 2. The Board shall request information from any of the other authorities that have obtained that information, instead of requesting it directly from financial institutions, provided that the Board is entitled to obtain that information pursuant to Union law.
 > The first subparagraph shall be without prejudice to the powers of the Board to obtain the requested information from financial institutions where the other authority is unable to share the information, where urgent action is needed or where obtaining the information directly from financial institutions is necessary for the performance of the Board’s tasks pursuant to Union law.
 > 3. A request to exchange information pursuant to paragraph 1 of this Article shall indicate the legal basis under Union law that entitles the requesting authority to obtain the information from financial institutions or the other authorities.
-> The requesting authority and the Board shall be subject to the obligations of professional secrecy […truncated by emendrix: 7864 characters omitted…]
+> The requesting authority and the Board shall be subject to the obligations of professional secrecy […truncated by emendrix: 7868 characters omitted…]
 
 **MODIFIED · Art. 88 — Professional secrecy and exchange of information** · applies from: unchanged
 
