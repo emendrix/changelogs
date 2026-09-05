@@ -256,7 +256,7 @@ Both texts are truncated before their end, so any further differences beyond the
 ### `02006R1907-20231201` → `02006R1907-20240606`
 
 - **Act** `eu:32006R1907` · **In force** 2024-06-06 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20231201` · `v2` = `02006R1907-20240606`
