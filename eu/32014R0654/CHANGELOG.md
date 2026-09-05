@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02014R0654-20151105` → `02014R0654-20210213`
 
 - **Act** `eu:32014R0654` · **In force** 2021-02-13 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 9 substantive · 0 date-only · **0 disputed**
+- **Touched** 9 provisions — 9 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 3 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0654-20151105` · `v2` = `02014R0654-20210213`
