@@ -47,7 +47,7 @@
         },
         "heading": "Accessibility of information on the European single access point",
         "before": null,
-        "after": "Article 70a\nAccessibility of information on the European single access point\n1. From 10 January 2028, when making public any information referred to in Article 26(1) of this Regulation, the PEPP provider shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the PEPP provider to which the information relates;\n(ii) the legal entity identifier of the PEPP provider, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the PEPP provider by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), PEPP providers shall obtain a legal entity identifier.\n3. By 9 January 2028, for the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, Member States shall designate at least one collection body referred to in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof.\n4. From 10 January 2028, the information referred to in Article 65(6) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be EIOPA.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the PEPP provider to which the information relates;\n(ii) where available, the legal entity identifier of the PEPP provider, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n5. From 10 January 2028, the information referred to in Article 63(4) and Article 69(1) and (4) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format, as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the PEPP provider to which the information relates;\n(ii) where available, the legal entity identifier of the PEPP provider, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n6. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, EIOPA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), EIOPA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nEIOPA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1094/2010.\n7. Where necessary, EIOPA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 6, first subparagraph, point (a), are correct.",
+        "after": "Article 70a\nAccessibility of information on the European single access point\n1. From 10 January 2028, when making public any information referred to in Article 26(1) of this Regulation, the PEPP provider shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council\nRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the PEPP provider to which the information relates;\n(ii) the legal entity identifier of the PEPP provider, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the PEPP provider by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), PEPP providers shall obtain a legal entity identifier.\n3. By 9 January 2028, for the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, Member States shall designate at least one collection body referred to in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof.\n4. From 10 January 2028, the information referred to in Article 65(6) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be EIOPA.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the PEPP provider to which the information relates;\n(ii) where available, the legal entity identifier of the PEPP provider, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n5. From 10 January 2028, the information referred to in Article 63(4) and Article 69(1) and (4) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format, as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the PEPP provider to which the information relates;\n(ii) where available, the legal entity identifier of the PEPP provider, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n6. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, EIOPA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), EIOPA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nEIOPA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1094/2010.\n7. Where necessary, EIOPA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 6, first subparagraph, point (a), are correct.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -90,26 +90,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "This is a new article setting out requirements for PEPP providers and designated collection bodies to submit specified information to the European single access point (ESAP), including formatting and metadata requirements, obligations to obtain a legal entity identifier, and provisions for EIOPA to develop implementing technical standards and guidelines.",
-          "fallback": false,
-          "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32019R1238",
-                  "display_name": "Regulation (EU) 2019/1238 of the European Parliament and of the Council of 20 June 2019 on a pan-European Personal Pension Product (PEPP) (Text with EEA relevance)"
-                },
-                "version": "02019R1238-20240109",
-                "location": "AR 70a"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1238-20240109#art_70a",
-              "label": "Art. 70a, 02019R1238-20240109"
-            }
-          ]
-        },
-        {
-          "text": "The provision specifies that certain obligations, such as submitting information to collection bodies and making information accessible on ESAP, apply from 10 January 2028, while the designation of collection bodies by Member States is to occur by 9 January 2028.",
+          "text": "This is a new article requiring PEPP providers to submit certain information to a designated collection body so that it can be made accessible on the European single access point, together with rules on data format, accompanying metadata, and related obligations for Member States, EIOPA, and the Commission.",
           "fallback": false,
           "citations": [
             {
@@ -304,7 +285,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 4044,
+        "output_tokens": 247,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 70a",
+      "occurrence": 0,
+      "digest": "sha256:958232906c22eca3e73b868c9c77b05456f5ad70f1fef180afd7102359ce8022"
+    }
+  ]
 }

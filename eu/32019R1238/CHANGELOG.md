@@ -28,20 +28,19 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-This is a new article setting out requirements for PEPP providers and designated collection bodies to submit specified information to the European single access point (ESAP), including formatting and metadata requirements, obligations to obtain a legal entity identifier, and provisions for EIOPA to develop implementing technical standards and guidelines. [Art. 70a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1238-20240109#art_70a)
-
-The provision specifies that certain obligations, such as submitting information to collection bodies and making information accessible on ESAP, apply from 10 January 2028, while the designation of collection bodies by Member States is to occur by 9 January 2028. [Art. 70a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1238-20240109#art_70a)
+This is a new article requiring PEPP providers to submit certain information to a designated collection body so that it can be made accessible on the European single access point, together with rules on data format, accompanying metadata, and related obligations for Member States, EIOPA, and the Commission. [Art. 70a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1238-20240109#art_70a)
 
 *after* (`02019R1238-20240109`)
 
 > Article 70a
 > Accessibility of information on the European single access point
-> 1. From 10 January 2028, when making public any information referred to in Article 26(1) of this Regulation, the PEPP provider shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> 1. From 10 January 2028, when making public any information referred to in Article 26(1) of this Regulation, the PEPP provider shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the PEPP provider to which the information relates;
 > (ii) the legal entity identifier of the PEPP provider, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
-> (iii) the size of the PEPP provider by category, as specified pursuant to Article 7(4), point (d), of th […truncated by emendrix: 3384 characters omitted…]
+> (iii) the size of the PEPP provider by category, as specified pursuant to Article 7(4), point (d), of t […truncated by emendrix: 3385 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1238-20240109 -->
 
