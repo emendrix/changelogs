@@ -236,7 +236,7 @@ Point (j) changes the date from which Article 5(5), point (d), applies from 26 M
 ### `02017R0746-20230311` → `02017R0746-20230320`
 
 - **Act** `eu:32017R0746` · **In force** 2023-03-20 · **Detected** 2026-08-12
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 126 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0746-20230311` · `v2` = `02017R0746-20230320`
