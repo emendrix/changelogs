@@ -36701,7 +36701,7 @@ The only change in Article 19 is in point (c) of paragraph 2, where the phrase r
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-In point (j) of Article 36(1), the reference to the amount exceeding the institution's Additional Tier 1 capital was changed to refer instead to the amount exceeding the institution's Additional Tier 1 items. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_36)
+In point (j) of paragraph 1, the phrase referring to the amount that the deducted items exceed was changed from the institution's Additional Tier 1 capital to the institution's Additional Tier 1 items. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_36)
 
 *before* (`02013R0575-20150118`)
 
@@ -36716,7 +36716,7 @@ In point (j) of Article 36(1), the reference to the amount exceeding the institu
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2860 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2861 characters omitted…]
 
 *after* (`02013R0575-20160719`)
 
@@ -36731,7 +36731,7 @@ In point (j) of Article 36(1), the reference to the amount exceeding the institu
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2858 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2859 characters omitted…]
 
 **MODIFIED · Art. 56 — Deductions from Additional Tier 1 items** · applies from: unchanged
 
@@ -36947,27 +36947,27 @@ The only visible change is in the formula rendering of the weighted-average Effe
 
 *within* `AR 493 PA 1 ALN 1` · *dates* -2017-12-31 +2020-12-31 · *amended by* `32016R1014`
 
-In Article 493(1), the date until which the exemption from the large exposures provisions is available has changed from 31 December 2017 to 31 December 2020. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_493)
-
-All other text of the article, including the derogation deadline of 31 December 2028 in paragraph 3, remains unchanged. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_493)
+The end date for the exemption available to certain investment firms under paragraph 1 was changed from 31 December 2017 to 31 December 2020. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_493)
 
 *before* (`02013R0575-20150118`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2017 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities field
+> OJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2017 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4012 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4013 characters omitted…]
 
 *after* (`02013R0575-20160719`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities field
+> OJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4012 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4013 characters omitted…]
 
 **DEFERRED · Art. 498 — Exemption for Commodities dealers** · applies from: 2020-12-31
 
