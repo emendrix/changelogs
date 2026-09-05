@@ -50,7 +50,7 @@ In paragraph 2, the time before the expiry of the Article 7(1) deadline by which
 ### `02016R1036-20171220` → `02016R1036-20180608`
 
 - **Act** `eu:32016R1036` · **In force** 2018-06-08 · **Detected** 2026-08-13
-- **Touched** 16 provisions — 16 substantive · 0 date-only · **1 disputed**
+- **Touched** 16 provisions — 15 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 4 inserted · 12 modified · 0 deleted · 0 renumbered · 0 deferred · 15 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02016R1036-20171220` · `v2` = `02016R1036-20180608`
@@ -461,7 +461,7 @@ The provision specifies that the delegation of power under Article 7(1) runs for
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1036-20180608 -->
