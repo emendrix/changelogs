@@ -2131,7 +2131,7 @@ A new point (g) on the functioning of the Joint Committee was added to the list 
 ### `32010R1094` → `02010R1094-20140523`
 
 - **Act** `eu:32010R1094` · **In force** 2014-05-23 · **Detected** 2026-09-04
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **5 disputed**
+- **Touched** 5 provisions — 3 substantive · 0 date-only · 2 with no text · **5 disputed**
 - **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 79 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `32010R1094` · `v2` = `02010R1094-20140523`
@@ -2172,7 +2172,7 @@ A new sentence was added at the end of the second subparagraph of paragraph 1 st
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2211,7 +2211,7 @@ The second paragraph of Article 17(2) now adds that the information the competen
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
