@@ -280,7 +280,7 @@ A new point (h) has been added, addressing the disadvantage for the person respo
 ### `02014R0596-20240109` → `02014R0596-20241204`
 
 - **Act** `eu:32014R0596` · **In force** 2024-12-04 · **Detected** 2026-08-13
-- **Touched** 18 provisions — 18 substantive · 0 date-only · **2 disputed**
+- **Touched** 18 provisions — 16 substantive · 0 date-only · 2 with no text · **2 disputed**
 - **Diff** 2 inserted · 15 modified · 1 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02014R0596-20240109` · `v2` = `02014R0596-20241204`
@@ -672,7 +672,7 @@ The article further sets out that relevant competent authorities must provide in
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -737,7 +737,7 @@ All other paragraphs of Article 30, including the sanctions and measures set out
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
