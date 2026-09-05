@@ -3053,7 +3053,7 @@ The corresponding before text in section 1.1.3.1 ends with Note W and the before
 ### `02008R1272-20221217` → `02008R1272-20230420`
 
 - **Act** `eu:32008R1272` · **In force** 2023-04-20 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20221217` · `v2` = `02008R1272-20230420`
