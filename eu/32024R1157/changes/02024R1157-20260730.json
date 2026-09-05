@@ -8,7 +8,7 @@
   },
   "from_version": "02024R1157-20250109",
   "to_version": "02024R1157-20260730",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-05",
   "in_force": [
     "2026-07-30"
   ],
@@ -92,7 +92,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Point (f) of Article 44(2) still prohibits exports of waste referred to in Article 4(3), but the later version adds an exception for exports to Switzerland.",
+          "text": "Point (f) of Article 44(2) now adds an exception for Switzerland to the prohibition on exporting the waste referred to in Article 4(3), whereas the earlier version stated the prohibition without any exception.",
           "fallback": false,
           "citations": [
             {
@@ -230,9 +230,9 @@
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
-    "changes": 2,
+    "changes": 1,
     "explained": 1,
-    "unavailable": 1,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
@@ -241,18 +241,18 @@
     "nothing_to_explain": 0,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 5611,
-      "output_tokens": 138,
+      "input_tokens": 5564,
+      "output_tokens": 154,
       "requests": 1,
       "schema_repairs": 0
     }
   },
   "gate": {
-    "changes": 2,
+    "changes": 1,
     "passed_first": 1,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 1,
+    "unexplained": 0,
     "retries": 0,
     "sentences": 1,
     "citations": 2,
@@ -260,20 +260,5 @@
     "notes_dropped": 0,
     "coordinates_unsupported": 0
   },
-  "repairs": [
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-04",
-      "addressed": 2,
-      "repaired": 2,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    }
-  ]
+  "repairs": []
 }

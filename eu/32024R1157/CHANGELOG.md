@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2024/1157 of the European Parliament and of the Council of 11 April 2024 on shipments of waste […]
 ### `02024R1157-20250109` → `02024R1157-20260730`
 
-- **Act** `eu:32024R1157` · **In force** 2026-07-30 · **Detected** 2026-08-13
+- **Act** `eu:32024R1157` · **In force** 2026-07-30 · **Detected** 2026-09-05
 - **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 98 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 44 PA 2 ALN 1 PTA (f)` · *amended by* `32026R1703`
 
-Point (f) of Article 44(2) still prohibits exports of waste referred to in Article 4(3), but the later version adds an exception for exports to Switzerland. [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20250109#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20260730#art_44)
+Point (f) of Article 44(2) now adds an exception for Switzerland to the prohibition on exporting the waste referred to in Article 4(3), whereas the earlier version stated the prohibition without any exception. [Art. 44, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20250109#art_44) [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20260730#art_44)
 
 *before* (`02024R1157-20250109`)
 
