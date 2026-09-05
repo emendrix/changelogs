@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -15,21 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 3,
+    "modified": 1,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 3,
+    "touched_units": 1,
     "unchanged_units": 171,
-    "disputed": 2
+    "disputed": 0
   },
   "counts": {
-    "touched": 3,
-    "substantive": 3,
+    "touched": 1,
+    "substantive": 1,
     "date_only": 0,
-    "disputed": 2,
+    "textless": 0,
+    "disputed": 0,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 0
   },
   "changes": [
     {
@@ -149,121 +150,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R0625",
-            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
-          },
-          "version": "02017R0625-20220128",
-          "location": "AR 18"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R1756",
-            "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2021-10-28, 2022-01-28]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (2) (a); AR 001 (2) (b); AR 001 (2) (c)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R0625",
-            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
-          },
-          "version": "02017R0625-20220128",
-          "location": "AR 47"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R1756",
-            "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2021-10-28, 2022-01-28]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (3)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -309,61 +197,15 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 1",
-          "AR 18",
-          "AR 47"
+          "AR 1"
         ],
-        "note": "32021R1756, 1.000 of its instruction clauses read",
+        "note": "32021R1756, 1.000 of its instruction clauses read, 4 dated outside the window, 0 undated and claimed",
         "claims": [
           {
             "location": "AR 1 PA 4 PTA (c)",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001 (1)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R1756",
-              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 18 PA 6",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (2) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R1756",
-              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 18 PA 7 PTA (g)",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (2) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R1756",
-              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 18 PA 8 PTA (b)",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (2) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R1756",
-              "display_name": "Regulation (EU) 2021/1756 of the European Parliament and of the Council of 6 October 2021 amending Regulation (EU) 2017/625 as regards official controls on animals and products of animal origin exported from third countries to the Union in order to ensure compliance with the prohibition of certain uses of antimicrobials and Regulation (EC) No 853/2004 as regards the direct supply of meat from poultry and lagomorphs (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 47 PA 1 PTA (e)",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (3)",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R1756",
@@ -389,69 +231,27 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 1,
-        "right_units": 3,
+        "right_units": 1,
         "shared": 1,
         "precision": 1.0,
-        "recall": 0.3333333333333333,
-        "f1": 0.5,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 1,
-        "right_units": 3,
+        "right_units": 1,
         "shared": 1,
         "precision": 1.0,
-        "recall": 0.3333333333333333,
-        "f1": 0.5,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
-    "disagreements": [
-      {
-        "unit": "AR 18",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 47",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      }
-    ],
-    "metadata_only_units": [
-      "AR 18",
-      "AR 47"
-    ]
+    "disagreements": [],
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -464,6 +264,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 2,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 4921,
       "output_tokens": 270,
@@ -483,5 +284,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 3,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }

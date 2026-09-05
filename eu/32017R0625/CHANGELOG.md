@@ -62,9 +62,9 @@ This paragraph 5a did not exist in the earlier version of Article 66, which move
 ### `02017R0625-20211028` → `02017R0625-20220128`
 
 - **Act** `eu:32017R0625` · **In force** 2022-01-28 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 171 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 171 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0625-20211028` · `v2` = `02017R0625-20220128`
 
 ---
@@ -108,26 +108,6 @@ The revised point (c) adds a proviso stating that the Regulation applies to offi
 > (a) food and food safety, integrity and wholesomeness at any stage of production, processing and distribution of food, including rules aimed at ensuring fair practices in trade and protecting consumer interests and information, and the manufacture and use of materials and articles intended to come into contact with food;
 > (b) deliberate release into the environment of Genetically Modified Organisms (GMOs) for the purpose of food and feed production;
 > (c) feed and feed safety at any stage of production, processing and distribution of feed and the use of […truncated by emendrix: 2430 characters omitted…]
-
-**MODIFIED · Art. 18** · applies from: unknown
-
-*amended by* `32021R1756`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 47** · applies from: unknown
-
-*amended by* `32021R1756`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0625-20220128 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0625-20211028 -->
