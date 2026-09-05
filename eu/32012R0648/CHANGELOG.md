@@ -2048,7 +2048,7 @@ In section IV, points (g) and (h) are reworded to refer to margin simulation at 
 ### `02012R0648-20210628` → `02012R0648-20220812`
 
 - **Act** `eu:32012R0648` · **In force** 2022-08-12 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 9 substantive · 0 date-only · **2 disputed**
+- **Touched** 9 provisions — 7 substantive · 0 date-only · 2 with no text · **2 disputed**
 - **Diff** 3 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 122 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20210628` · `v2` = `02012R0648-20220812`
@@ -2061,7 +2061,7 @@ In section IV, points (g) and (h) are reworded to refer to margin simulation at 
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2087,7 +2087,7 @@ The provision sets out the roles of ESMA, the ESRB, and the Commission in evalua
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
