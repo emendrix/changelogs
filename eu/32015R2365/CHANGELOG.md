@@ -112,9 +112,9 @@ Point (b), which exempts the Bank for International Settlements, is otherwise un
 
 *within* `AR 12 PA 2 ALN 1 PTA (m)`, `AR 12 PA 2 ALN 1 PTA (n)` · *dates* +2020-12-16 +2021-01-22 · *amended by* `32021R0023`
 
-A new point (n) is added to the list of entities in Article 12(2) with direct and immediate access to trade repository data, naming resolution authorities designated under Article 3 of Regulation (EU) 2021/23. [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20220812#art_12)
+A new point (n) is added to the list of entities entitled to direct and immediate access to trade repository data, naming the resolution authorities designated under Article 3 of Regulation (EU) 2021/23 on the recovery and resolution of central counterparties. [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20220812#art_12)
 
-The preceding point (m), referring to the authorities mentioned in Article 16(1), is unchanged in substance but its closing punctuation is altered to a semicolon to accommodate the new point that follows. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2365#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20220812#art_12)
+Point (m), which lists the authorities referred to in Article 16(1), remains present but its closing punctuation changes from a full stop to a semicolon to accommodate the addition of point (n). [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R2365#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20220812#art_12)
 
 *before* (`32015R2365`)
 
@@ -129,8 +129,9 @@ The preceding point (m), referring to the authorities mentioned in Article 16(1)
 > (e) the competent authority supervising the trading venues of the reported transactions;
 > (f) the relevant members of the ESCB, including the European Central Bank (ECB) in carrying out its tasks within a single supervisory mechanism under Regulation (EU) No 1024/2013;
 > (g) the relevant authorities of a third country in respect of which an implementing act pursuant to Article 19(1) has been adopted;
-> (h) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).;
-> (i) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover transactions, markets, participants and assets which fall within the sco […truncated by emendrix: 2835 characters omitted…]
+> (h) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).;
+> (i) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover transactions, markets, participants and assets which fall within the sc […truncated by emendrix: 2839 characters omitted…]
 
 *after* (`02015R2365-20220812`)
 
@@ -145,7 +146,8 @@ The preceding point (m), referring to the authorities mentioned in Article 16(1)
 > (e) the competent authority supervising the trading venues of the reported transactions;
 > (f) the relevant members of the ESCB, including the European Central Bank (ECB) in carrying out its tasks within a single supervisory mechanism under Regulation (EU) No 1024/2013;
 > (g) the relevant authorities of a third country in respect of which an implementing act pursuant to Article 19(1) has been adopted;
-> (h) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).;
-> (i) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover transactions, markets, participants and assets which fall within the sco […truncated by emendrix: 3355 characters omitted…]
+> (h) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).;
+> (i) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover transactions, markets, participants and assets which fall within the sc […truncated by emendrix: 3360 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02015R2365-20220812 -->
 
