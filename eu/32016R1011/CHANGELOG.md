@@ -2221,7 +2221,7 @@ A new paragraph 7 is added empowering the Commission to adopt a delegated act by
 ### `32016R1011` → `02016R1011-20191210`
 
 - **Act** `eu:32016R1011` · **In force** 2019-12-10 · **Detected** 2026-08-13
-- **Touched** 15 provisions — 15 substantive · 0 date-only · **6 disputed**
+- **Touched** 15 provisions — 14 substantive · 0 date-only · 1 with no text · **6 disputed**
 - **Diff** 5 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 52 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32016R1011` · `v2` = `02016R1011-20191210`
@@ -2640,7 +2640,7 @@ It also adds provisions on disclosing tracking error and market-value ratios whe
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20191210 -->
