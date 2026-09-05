@@ -16936,7 +16936,7 @@ It also adds a second paragraph specifying conditions under which such permissio
 ### `02013R0575-20220410` → `02013R0575-20220708`
 
 - **Act** `eu:32013R0575` · **In force** 2022-07-08 · **Detected** 2026-08-13
-- **Touched** 7 provisions — 7 substantive · 0 date-only · **1 disputed**
+- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 721 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20220410` · `v2` = `02013R0575-20220708`
@@ -17130,7 +17130,7 @@ Point (h)(iii) now specifies that the eligible bonds under Article 129(4) or (5)
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
