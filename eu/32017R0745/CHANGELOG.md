@@ -311,7 +311,7 @@ Point (e), which previously set a fixed 18-month rule for Article 29(4) and Arti
 ### `02017R0745-20230311` → `02017R0745-20230320`
 
 - **Act** `eu:32017R0745` · **In force** 2023-03-20 · **Detected** 2026-08-12
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 137 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0745-20230311` · `v2` = `02017R0745-20230320`
