@@ -155,7 +155,7 @@ Paragraph 3 changes the deadline for ESMA to submit draft regulatory technical s
 ### `02014R0600-20240109` → `02014R0600-20240328`
 
 - **Act** `eu:32014R0600` · **In force** 2024-03-28 · **Detected** 2026-08-13
-- **Touched** 52 provisions — 52 substantive · 0 date-only · **2 disputed**
+- **Touched** 52 provisions — 50 substantive · 0 date-only · 2 with no text · **2 disputed**
 - **Diff** 12 inserted · 38 modified · 2 deleted · 0 renumbered · 0 deferred · 45 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20240109` · `v2` = `02014R0600-20240328`
@@ -660,7 +660,7 @@ Paragraph 2 replaces the prior reference to the application of tick sizes not pr
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -670,7 +670,7 @@ Paragraph 2 replaces the prior reference to the application of tick sizes not pr
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
