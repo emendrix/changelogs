@@ -16810,7 +16810,7 @@ Point 6(c) of Annex III no longer refers to bonds as described in Article 52(4) 
 ### `02013R0575-20210930` → `02013R0575-20220410`
 
 - **Act** `eu:32013R0575` · **In force** 2022-01-01, 2022-04-10 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **2 disputed**
+- **Touched** 4 provisions — 3 substantive · 0 date-only · 1 with no text · **2 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 724 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20210930` · `v2` = `02013R0575-20220410`
@@ -16823,7 +16823,7 @@ Point 6(c) of Annex III no longer refers to bonds as described in Article 52(4) 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -16893,7 +16893,7 @@ Paragraphs 1 through 5, present in the earlier version, remain unchanged in word
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The only visible difference in Article 501(2)(1)(b) is the removal of a duplicated punctuation mark following the citation of Commission Recommendation 2003/361/EC, where the earlier text had a doubled period and semicolon sequence that is reduced to a single semicolon in the later text. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_501)
+The only visible difference is a formatting change in point (b), where a duplicated punctuation mark following the footnote reference to Commission Recommendation 2003/361/EC has been removed. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220410#art_501)
 
 *before* (`02013R0575-20210930`)
 
@@ -16908,7 +16908,8 @@ The only visible difference in Article 501(2)(1)(b) is the removal of a duplicat
 > (b) where the total amount referred to in point (a) is equal to 0, the amount of claims or contingent claims against the SME or the group of connected clients of the SME that are secured on residential property collateral and that are excluded from the calculation of the total amount referred to in that point.
 > 2. For the purposes of this Article:
 > (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.200 […truncated by emendrix: 265 characters omitted…]
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC
+> Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.20 […truncated by emendrix: 266 characters omitted…]
 
 *after* (`02013R0575-20220410`)
 
@@ -16923,7 +16924,8 @@ The only visible difference in Article 501(2)(1)(b) is the removal of a duplicat
 > (b) where the total amount referred to in point (a) is equal to 0, the amount of claims or contingent claims against the SME or the group of connected clients of the SME that are secured on residential property collateral and that are excluded from the calculation of the total amount referred to in that point.
 > 2. For the purposes of this Article:
 > (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.200 […truncated by emendrix: 264 characters omitted…]
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC
+> Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.20 […truncated by emendrix: 265 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20220410 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20210930 -->
