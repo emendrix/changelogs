@@ -824,7 +824,7 @@ A new line item for Dicofol, with CAS number 115-32-2, EC number 204-082-0 and n
 ### `02019R1021-20190625` → `02019R1021-20200704`
 
 - **Act** `eu:32019R1021` · **In force** 2020-07-04 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20190625` · `v2` = `02019R1021-20200704`
