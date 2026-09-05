@@ -16944,9 +16944,9 @@ The only visible difference in Article 501(2)(1)(b) is the removal of a duplicat
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The phrase describing which institutions fall under the derogation changed from referring to institutions that are also G-SIIs or that are part of a G-SII to referring to institutions that are also G-SII entities. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_6)
+The description of qualifying institutions in paragraph 1a changed from those that are G-SIIs or part of a G-SII to those that are G-SII entities. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_6)
 
-The text also changed from referring to a single requirement laid down in Article 92a to referring to requirements laid down in Article 92a. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_6)
+The phrase requiring compliance with Article 92a was changed from referring to a singular requirement to referring to requirements in the plural. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_6)
 
 *before* (`02013R0575-20210629`)
 
@@ -16960,7 +16960,7 @@ The text also changed from referring to a single requirement laid down in Articl
 > (c) they are not the subsidiaries of an EU parent institution.
 > 2. No institution which is either a subsidiary in the Member State where it is authorised and supervised, or a parent undertaking, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Articles 89, 90 and 91 on an individual basis.
 > 3. No institution which is either a parent undertaking or a subsidiary, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Part Eight on an individual basis.
-> By way of derogation from the first subparagraph of this paragraph, the institutions referr […truncated by emendrix: 1975 characters omitted…]
+> By way of derogation from the first subparagraph of this paragraph, the institutions referr […truncated by emendrix: 1976 characters omitted…]
 
 *after* (`02013R0575-20210930`)
 
@@ -16974,7 +16974,7 @@ The text also changed from referring to a single requirement laid down in Articl
 > (c) they are not the subsidiaries of an EU parent institution.
 > 2. No institution which is either a subsidiary in the Member State where it is authorised and supervised, or a parent undertaking, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Articles 89, 90 and 91 on an individual basis.
 > 3. No institution which is either a parent undertaking or a subsidiary, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Part Eight on an individual basis.
-> By way of derogation from the first subparagraph of this paragraph, the institutions referred to in paragraph 1 […truncated by emendrix: 1955 characters omitted…]
+> By way of derogation from the first subparagraph of this paragraph, the institutions referred to in paragraph 1 […truncated by emendrix: 1956 characters omitted…]
 
 **MODIFIED · Art. 11 — General treatment** · applies from: unchanged
 
@@ -18856,11 +18856,11 @@ This discounting factor and its associated formula are absent from the earlier v
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The second subparagraph of paragraph 1 changes its reference point from the institution's eligible capital to its Tier 1 capital for calculating the reasonable limit and the 100% cap applicable when the EUR 150 million threshold is higher. [Art. 395, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_395) [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_395)
+The second subparagraph of paragraph 1 replaces references to the institution's eligible capital with references to its Tier 1 capital, and rephrases the surrounding wording slightly, when describing the reasonable limit that applies where the EUR 150 million amount is higher than the percentage-based threshold. [Art. 395, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_395) [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_395)
 
-The third subparagraph of paragraph 1 is reworded so that competent authorities setting a lower limit than EUR 150 million must inform EBA and the Commission, with the informing obligation now expressed as a consequence introduced by "in which case" rather than as a separate sentence. [Art. 395, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_395) [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_395)
+The third subparagraph of paragraph 1 now states that competent authorities inform EBA and the Commission in the case where they set a lower limit than EUR 150 million, rather than stating this as a separate instruction. [Art. 395, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_395) [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_395)
 
-A new subparagraph is added to paragraph 1 stating that a G-SII shall not incur an exposure to another G-SII or a non-EU G-SII exceeding 15% of its Tier 1 capital after credit risk mitigation, with compliance timelines of 12 months from identification as a G-SII or from the other institution's identification as a G-SII or non-EU G-SII. [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_395)
+A new subparagraph is added to paragraph 1 setting a 15% of Tier 1 capital limit on an exposure by a G-SII to another G-SII or a non-EU G-SII, with compliance tied to a 12-month period running from the date an institution or group came to be identified as a G-SII or non-EU G-SII. [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_395)
 
 *before* (`02013R0575-20210629`)
 
@@ -18868,7 +18868,7 @@ A new subparagraph is added to paragraph 1 stating that a G-SII shall not incur 
 > Limits to large exposures
 > 1. An institution shall not incur an exposure to a client or group of connected clients the value of which exceeds 25 % of its Tier 1 capital, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403. Where that client is an institution or an investment firm, or where a group of connected clients includes one or more institutions or investment firms, that value shall not exceed 25 % of the institution’s Tier 1 capital or EUR 150 million, whichever is higher, provided that the sum of exposure values, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403, to all connected clients that are not institutions or investment firms, does not exceed 25 % of the institution’s Tier 1 capital.
 > Where the amount of EUR 150 million is higher than 25 % of the institution's eligible capital the value of the exposure, after taking into account the effect of credit risk mitigation in accordance with Articles 399 to 403 shall not exceed a reasonable limit in terms of the institution's eligible capital. That limit shall be determined by the institution in accordance with the policies and procedures referred to in Article 81 of Directive 2013/36/EU, to address and control concentration risk. This limit shall not exceed 100 % of the institution's eligible capital.
-> Competent authorities may set a lower limit than EUR 150 million and shall inform EBA and the Commis […truncated by emendrix: 7957 characters omitted…]
+> Competent authorities may set a lower limit than EUR 150 million and shall inform EBA and the Commis […truncated by emendrix: 7958 characters omitted…]
 
 *after* (`02013R0575-20210930`)
 
@@ -18876,7 +18876,7 @@ A new subparagraph is added to paragraph 1 stating that a G-SII shall not incur 
 > Limits to large exposures
 > 1. An institution shall not incur an exposure to a client or group of connected clients the value of which exceeds 25 % of its Tier 1 capital, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403. Where that client is an institution or an investment firm, or where a group of connected clients includes one or more institutions or investment firms, that value shall not exceed 25 % of the institution’s Tier 1 capital or EUR 150 million, whichever is higher, provided that the sum of exposure values, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403, to all connected clients that are not institutions or investment firms, does not exceed 25 % of the institution’s Tier 1 capital.
 > Where the amount of EUR 150 million is higher than 25 % of the institution's Tier 1 capital, the value of the exposure, after having taken into account the effect of credit risk mitigation in accordance with Articles 399 to 403 of this Regulation, shall not exceed a reasonable limit in terms of that institution's Tier 1 capital. That limit shall be determined by the institution in accordance with the policies and procedures referred to in Article 81 of Directive 2013/36/EU in order to address and control concentration risk. That limit shall not exceed 100 % of the institution's Tier 1 capital.
-> Competent authorities may set a lower limit than EUR 150 million, in w […truncated by emendrix: 8719 characters omitted…]
+> Competent authorities may set a lower limit than EUR 150 million, in w […truncated by emendrix: 8720 characters omitted…]
 
 **MODIFIED · Art. 411 — Definitions** · applies from: unchanged
 
@@ -19133,9 +19133,9 @@ The later text also specifies that such an item is subject to the treatment set 
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-In point (d) of paragraph 1, a comma was inserted after "public sector investments", separating it from "and promotional loans" without altering the listed words. [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_429a)
+In point (d) of paragraph 1, a comma was inserted after "public sector investments", separating it from "and promotional loans" with punctuation rather than changing the listed exposures. [Art. 429a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429a) [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_429a)
 
-In the third subparagraph of paragraph 2, the cross-reference was changed from "points (d) and (e) of the first subparagraph" to "points (d) and (e) of paragraph 1". [Art. 429a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429a) [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_429a)
+In the third subparagraph of paragraph 2, the cross-reference was changed from "the first subparagraph" to "paragraph 1" as the anchor for points (d) and (e). [Art. 429a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429a) [Art. 429a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_429a)
 
 *before* (`02013R0575-20210629`)
 
@@ -19150,7 +19150,7 @@ In the third subparagraph of paragraph 2, the cross-reference was changed from "
 > (f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:
 > (i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;
 > (ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);
-> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they are […truncated by emendrix: 8319 characters omitted…]
+> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they are […truncated by emendrix: 8320 characters omitted…]
 
 *after* (`02013R0575-20210930`)
 
@@ -19165,7 +19165,7 @@ In the third subparagraph of paragraph 2, the cross-reference was changed from "
 > (f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:
 > (i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;
 > (ii) a 0 % risk weight applies to the guaranteed part of the exposure in accordance with Article 114(2) or (4) or Article 116(4);
-> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8309 characters omitted…]
+> (g) where the institution is a clearing member of a QCCP, the trade exposures of that institution, provided that they ar […truncated by emendrix: 8310 characters omitted…]
 
 **MODIFIED · Art. 461a — Alternative standardised approach for market risk** · applies from: unchanged
 
@@ -19341,9 +19341,9 @@ In point (c) of Article 500(1), the base against which the 20% threshold of disp
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The definition of E* is restructured from a single description into two lettered points, with point (a) restating the previously existing wording about the total amount owed to the institution and related entities, excluding claims secured on residential property collateral. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_501)
+The definition of E* changes from a single formula to a choice between two points: point (a) restates the prior total-amount formula excluding claims secured on residential property collateral, while point (b) adds that where that total amount is zero, E* instead becomes the amount of claims or contingent claims against the SME or its group of connected clients that are secured on residential property collateral and that were excluded from the point (a) calculation. [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_501)
 
-A new point (b) is added stating that where the amount in point (a) equals 0, E* instead becomes the amount of claims or contingent claims against the SME or its group of connected clients that are secured on residential property collateral and excluded from the point (a) calculation. [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210930#art_501)
+The earlier text defined E* only as the total amount owed excluding residential-property-secured claims, without any provision for using those excluded secured claims as E* in any circumstance. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_501)
 
 *before* (`02013R0575-20210629`)
 
@@ -19357,7 +19357,8 @@ A new point (b) is added stating that where the amount in point (a) equals 0, E*
 > the total amount owed to the institution, its subsidiaries, its parent undertakings and other subsidiaries of those parent undertakings, including any exposure in default, but excluding claims or contingent claims secured on residential property collateral, by the SME or the group of connected clients of the SME.
 > 2. For the purposes of this Article:
 > (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).;; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC
+> Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).;; among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
 > (c) institutions shall take reasonable steps to correctly determine E* and obtain the information required under point (b).
 
 *after* (`02013R0575-20210930`)
@@ -19373,7 +19374,8 @@ A new point (b) is added stating that where the amount in point (a) equals 0, E*
 > (b) where the total amount referred to in point (a) is equal to 0, the amount of claims or contingent claims against the SME or the group of connected clients of the SME that are secured on residential property collateral and that are excluded from the calculation of the total amount referred to in that point.
 > 2. For the purposes of this Article:
 > (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/ECCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.200 […truncated by emendrix: 265 characters omitted…]
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC
+> Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.20 […truncated by emendrix: 266 characters omitted…]
 
 **MODIFIED · Art. 510 — Net Stable Funding Requirements** · applies from: unchanged
 
