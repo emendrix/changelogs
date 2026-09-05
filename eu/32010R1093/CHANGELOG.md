@@ -2375,7 +2375,7 @@ The revised text adds statements that the seat's location does not affect the Au
 ### `02010R1093-20140819` → `02010R1093-20160112`
 
 - **Act** `eu:32010R1093` · **In force** 2016-01-12 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **1 disputed**
+- **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20140819` · `v2` = `02010R1093-20160112`
@@ -2441,7 +2441,7 @@ The carve-out for financial institutions is now expressed by reference to Direct
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20160112 -->
