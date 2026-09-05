@@ -2963,7 +2963,7 @@ The entries numbered 1 through 22 remain otherwise the same in substance and ide
 ### `02006R1907-20130701` → `02006R1907-20140410`
 
 - **Act** `eu:32006R1907` · **In force** 2014-04-01 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20130701` · `v2` = `02006R1907-20140410`
@@ -2974,18 +2974,31 @@ The entries numbered 1 through 22 remain otherwise the same in substance and ide
 
 *within* `AN XVII` · *dates* +2012-10-10 +2014-04-10 +2017-10-10 · *amended by* `32014R0317`, `32012R0847`
 
-Entry 18a on mercury has been expanded with new paragraphs 5 through 8, adding a list of mercury-containing measuring devices for industrial and professional use (such as barometers, hygrometers, manometers, sphygmomanometers, strain gauges, tensiometers and thermometers) that are stated not to be placed on the market after 10 April 2014, including such devices placed on the market empty if intended to be filled with mercury. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XVII)
+Entry 18a on mercury gains new paragraphs 5 through 8, adding a placing-on-market prohibition after 10 April 2014 for a list of mercury-containing measuring devices intended for industrial and professional use, including barometers, hygrometers, manometers, sphygmomanometers, plethysmograph strain gauges, tensiometers and thermometers, and extending the same prohibition to such devices sold empty but meant to be filled with mercury. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XVII)
 
-The AFTER text also adds specific exceptions to this new restriction, covering certain sphygmomanometers used in epidemiological studies ongoing on 10 October 2012 or as reference standards, thermometers used for standardised tests until 10 October 2017, mercury triple point cells, devices over 50 years old on 3 October 2007, and devices displayed in public exhibitions for cultural or historical purposes. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XVII)
+The new text also adds exceptions to that prohibition for certain ongoing epidemiological studies, reference standard use in clinical validation of mercury-free sphygmomanometers, thermometers used for standardised testing until 10 October 2017, and mercury triple point calibration cells, plus a further ban after 10 April 2014 on mercury pycnometers and mercury softening-point metering devices for professional and industrial use, itself subject to exemptions for devices over 50 years old or displayed for cultural and historical purposes. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XVII)
 
-None of this additional text on measuring devices, mercury pycnometers, or softening-point metering devices appears in the BEFORE version of entry 18a, which ends after paragraph 4. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130701#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XVII)
+The rest of Annex XVII shown, including the surrounding entries, remains textually the same between the two versions. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130701#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XVII)
 
 *before* (`02006R1907-20130701`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -2996,14 +3009,27 @@ None of this additional text on measuring devices, mercury pycnometers, or softe
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance […truncated by emendrix: 542504 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous i […truncated by emendrix: 542532 characters omitted…]
 
 *after* (`02006R1907-20140410`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -3014,7 +3040,7 @@ None of this additional text on measuring devices, mercury pycnometers, or softe
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance […truncated by emendrix: 544003 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous i […truncated by emendrix: 544031 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20140410 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20130701 -->
