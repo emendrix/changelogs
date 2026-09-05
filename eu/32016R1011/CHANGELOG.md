@@ -870,7 +870,7 @@ Paragraphs 1 through 7 remain unchanged between the two versions. [Art. 54, v1](
 ### `02016R1011-20240109` → `02016R1011-20250117`
 
 - **Act** `eu:32016R1011` · **In force** 2025-01-17 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20240109` · `v2` = `02016R1011-20250117`
