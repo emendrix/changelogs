@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 2,
     "substantive": 2,
     "date_only": 0,
+    "textless": 0,
     "disputed": 2,
     "quoted": 0,
     "unexplained": 0
@@ -85,7 +86,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32017R0237, 0.000 of its instruction clauses read",
+            "detail": "32017R0237, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -178,7 +179,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -221,7 +223,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32017R0237, 0.000 of its instruction clauses read",
+            "detail": "32017R0237, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -295,7 +297,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -342,7 +345,7 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [],
-        "note": "32017R0237, 0.000 of its instruction clauses read",
+        "note": "32017R0237, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
         "claims": []
       }
     ],
@@ -438,6 +441,9 @@
     "synthetic": 0,
     "truncated": 1,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 51705,
       "output_tokens": 613,
@@ -457,5 +463,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }

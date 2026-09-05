@@ -2021,7 +2021,7 @@ In entry 57, for Methylisothiazolinone in rinse-off products, the maximum concen
 ### `02009R1223-20160812` → `02009R1223-20170303`
 
 - **Act** `eu:32009R1223` · **In force** 2017-03-03 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20160812` · `v2` = `02009R1223-20170303`
