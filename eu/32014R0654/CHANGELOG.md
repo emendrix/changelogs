@@ -291,7 +291,7 @@ Paragraph 2 no longer lists the five specific aspects on services (points (a) to
 ### `02014R0654-20140627` → `02014R0654-20151105`
 
 - **Act** `eu:32014R0654` · **In force** 2015-11-05 · **Detected** 2026-08-15
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 0 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 12 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02014R0654-20140627` · `v2` = `02014R0654-20151105`
@@ -304,7 +304,7 @@ Paragraph 2 no longer lists the five specific aspects on services (points (a) to
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0654-20151105 -->
