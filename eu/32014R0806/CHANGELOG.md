@@ -1481,7 +1481,7 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 ### `32014R0806` → `02014R0806-20201228`
 
 - **Act** `eu:32014R0806` · **In force** 2020-12-28 · **Detected** 2026-08-13
-- **Touched** 24 provisions — 24 substantive · 0 date-only · **11 disputed**
+- **Touched** 24 provisions — 24 substantive · 0 date-only · 0 with no text · **11 disputed**
 - **Diff** 12 inserted · 12 modified · 0 deleted · 0 renumbered · 0 deferred · 87 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32014R0806` · `v2` = `02014R0806-20201228`
