@@ -3276,18 +3276,30 @@ In the entries 28 to 30 conditions, the reference to the concentration specified
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The list of Official Journal reference citations at the top of the Annex gains an additional entry, OJ L 326, 29.12.1969, p. 36, which was not present before. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
+An additional Official Journal reference (OJ L 326, 29.12.1969, p. 36) has been added to the list of citations at the top of the Annex. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
 
-In entry 23, paragraph 1, the wording introducing the list of polymer types is tightened from a general phrase to one that explicitly points to the list that follows, and the list itself is shortened, with high-density polyethylene (HDPE), acrylonitrile butadiene styrene (ABS) and poly(methyl methacrylate) (PMMA) removed from the polymers named. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
+In entry 23, paragraph 1, the list of plastic materials covered by the cadmium restriction has been shortened, dropping the closing items covering high-density polyethylene (HDPE), acrylonitrile butadiene styrene (ABS) and poly(methyl methacrylate) (PMMA) that appeared in the earlier text, and the introductory wording changed from referring to mixtures and articles produced from such polymers generally to referring to the polymers listed. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
 
-Entry 23, paragraph 1 also gains a new final subparagraph directing the Commission, by 19 November 2012 and in accordance with Article 69, to ask the European Chemicals Agency to prepare a dossier under Annex XV assessing whether cadmium use in plastic materials other than those listed should be restricted; the remainder of the text beyond this point is cut off in what was shown. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
+A new subparagraph has been inserted at the end of entry 23, paragraph 1, stating that by 19 November 2012 the Commission shall ask the European Chemicals Agency to prepare a dossier under Annex XV to assess whether cadmium use in plastic materials not listed in the first subparagraph should be restricted; the remainder of the text is truncated beyond this point in both versions shown. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
 
 *before* (`02006R1907-20120605`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -3298,14 +3310,27 @@ Entry 23, paragraph 1 also gains a new final subparagraph directing the Commissi
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1999/45/EC or […truncated by emendrix: 539647 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1 […truncated by emendrix: 539673 characters omitted…]
 
 *after* (`02006R1907-20121009`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.OJ L 326, 29.12.1969, p. 36.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
+> OJ L 326, 29.12.1969, p. 36.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -3316,7 +3341,7 @@ Entry 23, paragraph 1 also gains a new final subparagraph directing the Commissi
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance […truncated by emendrix: 541755 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous i […truncated by emendrix: 541783 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20121009 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20120605 -->
