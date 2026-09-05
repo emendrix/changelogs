@@ -970,9 +970,9 @@ The article also designates the competent authority or ESMA as the relevant coll
 
 *within* `AR 3 PA 1 ALN 1 PO 24 PTA (a)`, `AR 3 PA 1 ALN 1 PO 24 PTA (a) PTI (vii)` · *amended by* `32019R2175`
 
-In point (24)(a) of Article 3(1)(1), the word "directly" was removed from the description of how input data is contributed, so the text now reads that data is contributed entirely from the listed sources rather than entirely and directly from them. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_3)
+In point (24)(a), the phrase describing input data contributed "entirely and directly" from the listed sources is changed to "entirely" from those sources, removing the word directly. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_3)
 
-In point (24)(a)(vii), the reference to outsourced data collection under Article 10 now adds an exception for point (f) of Article 10(3), and the requirement that the service provider receive the data "directly" from an entity referred to in points (i) to (vi) was likewise dropped, with the qualifier "of this point" added after that cross-reference. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_3)
+In point (24)(a)(vii), the reference to outsourced data collection under Article 10 now adds an exception for point (f) of Article 10(3), and the requirement that the service provider receive the data "entirely and directly" from an entity referred to in points (i) to (vi) is changed to receiving the data "entirely" from such an entity, with the added words "of this point" appended to that reference. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_3)
 
 *before* (`02016R1011-20210213`)
 
@@ -990,7 +990,7 @@ In point (24)(a)(vii), the reference to outsourced data collection under Article
 > (5) provision of a benchmark means:
 > (a) administering the arrangements for determining a benchmark;
 > (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
-> (c) determining a benchmark through the application of […truncated by emendrix: 15453 characters omitted…]
+> (c) determining a benchmark through the application of […truncated by emendrix: 15464 characters omitted…]
 
 *after* (`02016R1011-20220101`)
 
@@ -1008,7 +1008,7 @@ In point (24)(a)(vii), the reference to outsourced data collection under Article
 > (5) provision of a benchmark means:
 > (a) administering the arrangements for determining a benchmark;
 > (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
-> (c) determining a benchmark through the application of […truncated by emendrix: 15491 characters omitted…]
+> (c) determining a benchmark through the application of […truncated by emendrix: 15502 characters omitted…]
 
 **MODIFIED · Art. 4 — Governance and conflict of interest requirements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -1251,11 +1251,11 @@ Paragraphs 1 through 5 remain unchanged between the two versions. [Art. 26, v1](
 
 *within* `AR 30 PA 2 ALN 2`, `AR 30 PA 2 ALN 3`, `AR 30 PA 2a`, `AR 30 PA 3 ALN 2`, `AR 30 PA 3 ALN 3`, `AR 30 PA 3a`, `AR 30 PA 4 ALN 1` · *dates* +2015-05-20 · *amended by* `32019R2175`
 
-The after text adds new subparagraphs to paragraphs 2 and 3 allowing the Commission to make application of an equivalence implementing decision conditional on a third country's ongoing fulfilment of conditions aimed at equivalent supervisory and regulatory standards and on ESMA's ability to exercise its monitoring responsibilities under Article 33 of Regulation (EU) No 1095/2010. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_30)
+The later version adds new subparagraphs to paragraphs 2 and 3 allowing the Commission to condition an equivalence implementing decision on the third country's ongoing fulfilment of conditions aimed at ensuring equivalent supervisory and regulatory standards and on ESMA's ability to exercise monitoring responsibilities under Article 33 of Regulation (EU) No 1095/2010. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_30)
 
-New paragraphs 2a and 3a are introduced empowering the Commission to adopt delegated acts under Article 49 specifying the conditions referred to in points (a) and (b) of paragraphs 2 and 3 respectively, neither of which appear in the earlier version. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_30)
+It also inserts new paragraphs 2a and 3a empowering the Commission to adopt delegated acts specifying the conditions referred to in points (a) and (b) of paragraphs 2 and 3. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_30)
 
-Paragraph 4 is expanded so that, when establishing cooperation arrangements, ESMA must take into account whether a third country appears on the list of jurisdictions with strategic anti-money laundering and counter-terrorist financing deficiencies identified under a delegated act adopted pursuant to Article 9 of Directive (EU) 2015/849, a consideration absent from the earlier text. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_30) [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_30)
+Paragraph 4 is expanded so that, when establishing cooperation arrangements, ESMA must take into account whether the third country appears on the list of jurisdictions with strategic anti-money-laundering and counter-terrorist-financing deficiencies identified under a delegated act adopted pursuant to Article 9 of Directive (EU) 2015/849, a consideration absent from the earlier text. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_30)
 
 *before* (`02016R1011-20210213`)
 
@@ -1279,7 +1279,7 @@ Paragraph 4 is expanded so that, when establishing cooperation arrangements, ESM
 > (c) ESMA is notified by the administrator of its consent that its actual or prospective benchmarks may be used by supervised entities in the Union, of the list of the benchmarks for which they have given consent to be used in the Union and of the competent authority responsible for its supervision in the third country; and
 > (d) the cooperation arrangements referred to in paragraph 4 of this Article are operational.
 > 2. The Commission may adopt an implementing decision stating that the legal framework and supervisory practice of a third country ensures that:
-> (a) administrators authorised or registered in that third country comply with binding requirements which are equivalent to the requirements under this Regulation, in particular taking account of whether the legal framework and supervisory practice of a third country ensures compliance with the IOSCO principles for financial benc […truncated by emendrix: 4804 characters omitted…]
+> (a) administrators authorised or registered in that third country comply with binding requirements which are equivalent to the requirements under this Regulation, in particular taking account of whether the legal framework and supervisory practice of a third country ensures compliance with the IOSCO principles for financial benc […truncated by emendrix: 4805 characters omitted…]
 
 **MODIFIED · Art. 32 — Recognition of an administrator located in a third country** · applies from: unchanged
 
@@ -1704,20 +1704,21 @@ The provision specifies that such payments must be effective and proportionate, 
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-This is a newly inserted article setting out rules on disclosing, characterising, enforcing and allocating fines and periodic penalty payments imposed under Articles 48f and 48g. [Art. 48h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48h)
+This new provision sets out that ESMA is to publicly disclose fines and periodic penalty payments imposed under Articles 48f and 48g, except where disclosure would seriously jeopardise financial markets or cause disproportionate damage, and specifies that such disclosures must not contain personal data as defined in Regulation (EU) 2018/1725. [Art. 48h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48h)
 
-It covers ESMA's public disclosure of such fines and penalty payments, the administrative nature of these measures, ESMA's duty to explain a decision not to impose them, their enforceability under the procedural rules of the Member State or third country where enforcement occurs, and the allocation of collected amounts to the general budget of the European Union. [Art. 48h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48h)
+It further states that such fines and penalty payments are administrative in nature, that ESMA must inform the European Parliament, the Council, the Commission and the competent authorities of the Member State concerned with reasons when it decides not to impose them, that they are enforceable under the procedural rules of the Member State or third country where enforcement occurs, and that the amounts collected are allocated to the general budget of the European Union. [Art. 48h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48h)
 
 *after* (`02016R1011-20220101`)
 
 > Article 48h
 > Disclosure, nature, enforcement and allocation of fines and periodic penalty payments
-> 1. ESMA shall disclose to the public every fine and every periodic penalty payment that has been imposed pursuant to Articles 48f and 48g, unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EU) 2018/1725 of the European Parliament and of the CouncilRegulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)..
+> 1. ESMA shall disclose to the public every fine and every periodic penalty payment that has been imposed pursuant to Articles 48f and 48g, unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EU) 2018/1725 of the European Parliament and of the Council
+> Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)..
 > 2. Fines and periodic penalty payments imposed pursuant to Articles 48f and 48g shall be of an administrative nature.
 > 3. Where ESMA decides not to impose any fines or penalty payments, it shall inform the European Parliament, the Council, the Commission and the competent authorities of the Member State concerned thereof and shall set out the reasons for its decision.
 > 4. Fines and periodic penalty payments imposed pursuant to Articles 48f and 48g shall be enforceable.
 > Enforcement shall be governed by the rules of procedure in force in the Member State or third country in which it is carried out.
-> 5. T […truncated by emendrix: 121 characters omitted…]
+> 5. […truncated by emendrix: 122 characters omitted…]
 
 **INSERTED · Art. 48i — Procedural rules for taking supervisory measures and imposing fines** · applies from: unknown (an inserted provision states its own application date only in prose)
 
