@@ -253,7 +253,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 ### `02013R0952-20161224` → `02013R0952-20190515`
 
 - **Act** `eu:32013R0952` · **In force** 2019-04-14, 2019-05-15 · **Detected** 2026-08-13
-- **Touched** 12 provisions — 12 substantive · 0 date-only · **0 disputed**
+- **Touched** 12 provisions — 12 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 2 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 278 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0952-20161224` · `v2` = `02013R0952-20190515`
