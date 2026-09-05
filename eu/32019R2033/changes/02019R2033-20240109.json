@@ -47,7 +47,7 @@
         },
         "heading": "Accessibility of information on the European single access point",
         "before": null,
-        "after": "Article 46a\nAccessibility of information on the European single access point\n1. From 10 January 2030, when making public any information referred to in Part Six of this Regulation, investment firms shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the investment firm to which the information relates;\n(ii) the legal entity identifier of the investment firm, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the investment firm by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), investment firms shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be EBA.\n4. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, EBA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), EBA, shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nEBA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.\n5. Where necessary, EBA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 4, first subparagraph, point (a), are correct.",
+        "after": "Article 46a\nAccessibility of information on the European single access point\n1. From 10 January 2030, when making public any information referred to in Part Six of this Regulation, investment firms shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council\nRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the investment firm to which the information relates;\n(ii) the legal entity identifier of the investment firm, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the investment firm by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), investment firms shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be EBA.\n4. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, EBA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), EBA, shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nEBA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.\n5. Where necessary, EBA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 4, first subparagraph, point (a), are correct.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -90,7 +90,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new Article 46a is added, requiring investment firms to submit information published under Part Six to a designated collection body so it can be made accessible on the European single access point, with specified formatting and metadata requirements.",
+          "text": "This is a new article requiring investment firms, when making public information referred to in Part Six of the Regulation, to also submit that information to a designated collection body so it can be made accessible on the European single access point (ESAP), along with specified formatting and metadata requirements.",
           "fallback": false,
           "citations": [
             {
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "text": "The article also designates EBA as the collection body, mandates EBA to develop implementing technical standards on metadata, data structuring and machine-readable formats, and empowers EBA to issue guidelines ensuring the correctness of submitted metadata.",
+          "text": "It also designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines to ensure submitted metadata are correct.",
           "fallback": false,
           "citations": [
             {
@@ -304,7 +304,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3382,
+        "output_tokens": 392,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 46a",
+      "occurrence": 0,
+      "digest": "sha256:ebccd397cfc3288725176b916f777c2629a827724b40d424279abbb39f8c2c80"
+    }
+  ]
 }
