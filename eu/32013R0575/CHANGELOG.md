@@ -38553,7 +38553,7 @@ The surrounding legal text of Article 50a to 50d and the amendments to Article 1
 ### `32013R0575` → `02013R0575-20130628`
 
 - **Act** `eu:32013R0575` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 245 provisions — 238 substantive · 7 date-only · **0 disputed**
+- **Touched** 245 provisions — 238 substantive · 7 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 238 modified · 0 deleted · 0 renumbered · 7 deferred · 280 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32013R0575` · `v2` = `02013R0575-20130628`
@@ -38564,11 +38564,11 @@ The surrounding legal text of Article 50a to 50d and the amendments to Article 1
 
 *within* `AR 4 PA 1 ALN 1 PO 3`, `AR 4 PA 1 ALN 1 PO 19`, `AR 4 PA 1 ALN 1 PO 25 PTA (c)`, `AR 4 PA 1 ALN 1 PO 26`, `AR 4 PA 1 ALN 1 PO 27 PTA (h)`, `AR 4 PA 1 ALN 1 PO 27 PTA (i)`, `AR 4 PA 1 ALN 1 PO 27 PTA (j)`, `AR 4 PA 1 ALN 1 PO 39`, `AR 4 PA 1 ALN 1 PO 54`, `AR 4 PA 1 ALN 1 PO 71`, `AR 4 PA 1 ALN 1 PO 71 PTA (a)`, `AR 4 PA 1 ALN 1 PO 71 PTA (a) PTI (i)`, `AR 4 PA 1 ALN 1 PO 71 PTA (a) PTI (ii)`, `AR 4 PA 1 ALN 1 PO 71 PTA (b)`, `AR 4 PA 1 ALN 1 PO 71 PTA (b) PTI (i)`, `AR 4 PA 1 ALN 1 PO 71 PTA (b) PTI (ii)`, `AR 4 PA 1 ALN 1 PO 76`, `AR 4 PA 1 ALN 1 PO 82`, `AR 4 PA 1 ALN 1 PO 82 PTA (a)`, `AR 4 PA 1 ALN 1 PO 82 PTA (b)`, `AR 4 PA 1 ALN 1 PO 85 PTA (c)`, `AR 4 PA 1 ALN 1 PO 88`, `AR 4 PA 1 ALN 1 PO 91`, `AR 4 PA 1 ALN 1 PO 93`, `AR 4 PA 1 ALN 1 PO 98`, `AR 4 PA 1 ALN 1 PO 128`, `AR 4 PA 2 ALN 1`, `AR 4 PA 3 ALN 1`
 
-The definition of eligible capital in point (71) is restructured into two separate sums, one applying for the purposes of Title III of Part Two (with Tier 1 capital calculated without applying the deduction in Article 36(1)(k)(i)), and another applying for the purposes of Article 97 and Part Four, replacing the single combined sum of Tier 1 and Tier 2 capital used before. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_4)
+The definition of eligible capital in point (71) is restructured into two separate sums, one applying for the purposes of Title III of Part Two with Tier 1 capital calculated without applying a specified deduction, and another applying for the purposes of Article 97 and Part Four using the previously stated combination of Tier 1 and Tier 2 capital. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_4)
 
-Several other points receive smaller wording adjustments, including point (19) on asset management companies, point (26) and point (27)(h) on insurance and mixed-activity holding companies with an added cross-reference to point (f) of Article 212(1) of Directive 2009/138/EC, point (82) on repurchase and reverse repurchase agreements which is reworded into a single continuous sentence, point (88) which adds the abbreviation QCCP, and point (91) which adds a reference to variation margin due to the client. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_4)
+Several other points receive small wording adjustments, including point (19) on asset management companies, point (26) and (27) on financial institutions and insurance holding companies with a corrected cross-reference, point (82) on repurchase agreements which is reworded into a single unbroken sentence rather than being split into two lettered limbs, point (88) which adds the abbreviation QCCP, point (91) which adds a reference to variation margin due to the client, and point (128) which changes "last financial year" to "latest financial year". [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_4)
 
-Paragraphs 2 and 3 and points (39), (76) and (128) contain only minor rewording, such as referring to immovable property instead of real estate, replacing 'without being under compulsion' with 'without compulsion', replacing 'credit-worthiness' with 'creditworthiness', and replacing 'last financial year' with 'latest financial year', without altering the substance described. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_4)
+Paragraph 2 rewords its opening phrase from referring to real estate or residential or commercial immovable property to referring to immovable property, residential property or commercial immovable property, and correspondingly changes references to real estate to immovable property throughout that paragraph, while paragraph 3 replaces the phrase "credit-worthiness" with "creditworthiness". [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_4)
 
 *before* (`32013R0575`)
 
@@ -38581,7 +38581,7 @@ Paragraphs 2 and 3 and points (39), (76) and (128) contain only minor rewording,
 > (b) local firms;
 > (c) firms which are not authorised to provide the ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which provide only one or more of the investment services and activities listed in points 1, 2, 4 and 5 of Section A of Annex I to that Directive, and which are not permitted to hold money or securities belonging to their clients and which for that reason may not at any time place themselves in debt with those clients;
 > (3) institution means a credit institution or an investment firm;.
-> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same marke […truncated by emendrix: 35606 characters omitted…]
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same marke […truncated by emendrix: 35612 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
@@ -38602,7 +38602,7 @@ Paragraphs 2 and 3 and points (39), (76) and (128) contain only minor rewording,
 >
 > (3) institution means a credit institution or an investment firm;
 >
-> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same […truncated by emendrix: 36177 characters omitted…]
+> (4) local firm means a firm dealing for its own account on markets in financial futures or options or other derivatives and on cash markets for the sole purpose of hedging positions on derivatives markets, or dealing for the accounts of other members of those markets and being guaranteed by clearing members of the same markets, where responsibility for ensuring the performance of contracts entered into by such a firm is assumed by clearing members of the same […truncated by emendrix: 36183 characters omitted…]
 
 **MODIFIED · Art. 5 — Definitions specific to capital requirements for credit risk** · applies from: unchanged
 
@@ -39460,9 +39460,9 @@ Point (c) of Article 33(1) no longer refers to fair value gains and losses arisi
 
 *within* `AR 36 PA 2 ALN 2`, `AR 36 PA 3 ALN 2` · *dates* -2015-02-01 +2013-07-28
 
-The submission deadline for EBA to deliver its draft regulatory technical standards under paragraph 2 was changed from 1 February 2015 to 28 July 2013. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_36)
+The deadline by which EBA must submit its draft regulatory technical standards under paragraph 2 was changed from 1 February 2015 to 28 July 2013. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_36)
 
-The same deadline change, from 1 February 2015 to 28 July 2013, was made to the submission date for the draft regulatory technical standards under paragraph 3. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_36)
+The same deadline change from 1 February 2015 to 28 July 2013 was made to the submission date for the draft regulatory technical standards under paragraph 3. [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_36)
 
 *before* (`32013R0575`)
 
@@ -39477,7 +39477,7 @@ The same deadline change, from 1 February 2015 to 28 July 2013, was made to the 
 > (f) direct, indirect and synthetic holdings by an institution of own Common Equity Tier 1 instruments, including own Common Equity Tier 1 instruments that an institution is under an actual or contingent obligation to purchase by virtue of an existing contractual obligation;
 > (g) direct, indirect and synthetic holdings of the Common Equity Tier 1 instruments of financial sector entities where those entities have a reciprocal cross holding with the institution that the competent authority considers to have been designed to inflate artificially the own funds of the institution;
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2866 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equity Tier 1 […truncated by emendrix: 2867 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
@@ -39502,7 +39502,7 @@ The same deadline change, from 1 February 2015 to 28 July 2013, was made to the 
 >
 > (h) the applicable amount of direct, indirect and synthetic holdings by the institution of Common Equity Tier 1 instruments of financial sector entities where the institution does not have a significant investment in those entities;
 >
-> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equit […truncated by emendrix: 2882 characters omitted…]
+> (i) the applicable amount of direct, indirect and synthetic holdings by the institution of the Common Equit […truncated by emendrix: 2883 characters omitted…]
 
 **MODIFIED · Art. 38 — Deduction of deferred tax assets that rely on future profitability** · applies from: unchanged
 
@@ -39681,9 +39681,9 @@ Paragraph 5 was rewritten so that institutions determine the amount of each Comm
 
 *within* `AR 49 PA 5 ALN 1`, `AR 49 PA 6 ALN 2` · *dates* -2015-02-01 +2013-07-28
 
-Paragraph 5 now refers to method 1, 2 or 3 of Annex I to Directive 2002/87/EC, whereas it previously referred only to methods 1 or 2. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_49) [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_49)
+Paragraph 5 now refers to method 1, 2 or 3 of Annex I to Directive 2002/87/EC, whereas it previously referred only to methods 1 or 2. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_49)
 
-The deadline for EBA, EIOPA and ESMA to submit the draft regulatory technical standards to the Commission in paragraph 6 was changed from 1 February 2015 to 28 July 2013. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_49) [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_49)
+The deadline in paragraph 6 for EBA, EIOPA and ESMA to submit the draft regulatory technical standards to the Commission was changed from 1 February 2015 to 28 July 2013. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_49)
 
 *before* (`32013R0575`)
 
@@ -39693,7 +39693,7 @@ The deadline for EBA, EIOPA and ESMA to submit the draft regulatory technical st
 > (a) the financial sector entity is an insurance undertaking, a re-insurance undertaking or an insurance holding company;
 > (b) that insurance undertaking, re-insurance undertaking or insurance holding company is included in the same supplementary supervision under Directive 2002/87/EC as the parent institution, parent financial holding company or parent mixed financial holding company or institution that has the holding;
 > (c) the institution has received the prior permission of the competent authorities;
-> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5328 characters omitted…]
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that would be […truncated by emendrix: 5329 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
@@ -39709,7 +39709,7 @@ The deadline for EBA, EIOPA and ESMA to submit the draft regulatory technical st
 >
 > (c) the institution has received the prior permission of the competent authorities;
 >
-> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that woul […truncated by emendrix: 5347 characters omitted…]
+> (d) prior to granting the permission referred to in point (c), and on a continuing basis, the competent authorities are satisfied that the level of integrated management, risk management and internal control regarding the entities that woul […truncated by emendrix: 5348 characters omitted…]
 
 **MODIFIED · Art. 52 — Additional Tier 1 instruments** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -45741,9 +45741,7 @@ In paragraph 2, the phrase describing the ten largest exposures now refers to 'u
 
 *within* `AR 395 PA 6 ALN 2` · *dates* +2013-06-28
 
-In paragraph 6, the starting date of the period during which competent authorities may require a large exposure limit below 25% but not lower than 15% was changed from '31 December 2014' to '28 June 2013'. [Art. 395, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_395) [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_395)
-
-The remaining text of the article, including the other paragraphs, is unchanged between the two versions. [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_395)
+In paragraph 6, the start date of the period during which competent authorities may require a large exposure limit below 25% but not lower than 15% was changed from 31 December 2014 to 28 June 2013. [Art. 395, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_395) [Art. 395, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_395)
 
 *before* (`32013R0575`)
 
@@ -45752,7 +45750,7 @@ The remaining text of the article, including the other paragraphs, is unchanged 
 > 1. An institution shall not incur an exposure, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403, to a client or group of connected clients the value of which exceeds 25 % of its eligible capital. Where that client is an institution or where a group of connected clients includes one or more institutions, that value shall not exceed 25 % of the institution's eligible capital or EUR 150 million, whichever the higher, provided that the sum of exposure values, after taking into account the effect of the credit risk mitigation in accordance with Articles 399 to 403, to all connected clients that are not institutions does not exceed 25 % of the institution's eligible capital.
 > Where the amount of EUR 150 million is higher than 25 % of the institution's eligible capital the value of the exposure, after taking into account the effect of credit risk mitigation in accordance with Articles 399 to 403 shall not exceed a reasonable limit in terms of the institution's eligible capital. That limit shall be determined by the institution in accordance with the policies and procedures referred to in Article 81 of Directive 2013/36/EU, to address and control concentration risk. This limit shall not exceed 100 % of the institution's eligible capital.
 > Competent authorities may set a lower limit than EUR 150 million and shall inform EBA and the Commission thereof.
-> 2. EBA shall, in accordance with Article 1 […truncated by emendrix: 7855 characters omitted…]
+> 2. EBA shall, in accordance with Article 1 […truncated by emendrix: 7856 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
@@ -45763,7 +45761,7 @@ The remaining text of the article, including the other paragraphs, is unchanged 
 > Where the amount of EUR 150 million is higher than 25 % of the institution's eligible capital the value of the exposure, after taking into account the effect of credit risk mitigation in accordance with Articles 399 to 403 shall not exceed a reasonable limit in terms of the institution's eligible capital. That limit shall be determined by the institution in accordance with the policies and procedures referred to in Article 81 of Directive 2013/36/EU, to address and control concentration risk. This limit shall not exceed 100 % of the institution's eligible capital.
 > Competent authorities may set a lower limit than EUR 150 million and shall inform EBA and the Commission thereof.
 > 2.
-> EBA shall, in accordance with Article 1 […truncated by emendrix: 7863 characters omitted…]
+> EBA shall, in accordance with Article 1 […truncated by emendrix: 7864 characters omitted…]
 
 **MODIFIED · Art. 396 — Compliance with large exposures requirements** · applies from: unchanged
 
@@ -46352,15 +46350,14 @@ In point (c), the phrase describing the risk type changed capitalisation, from l
 
 *within* `AR 443 ALN 1`
 
-The text replaces a hyphen with an em dash in the reference to Recommendation D on market transparency on asset encumbrance. [Art. 443, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_443)
-
-A paragraph break is added between the second and third paragraphs, separating the provision on draft regulatory technical standards from the submission deadline sentence. [Art. 443, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_443)
+The only visible differences are a formal typographic change from a hyphen to an em dash in the reference to Recommendation D, and the addition of an extra blank line between paragraphs, with no change to the wording or substance of the provision. [Art. 443, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_443) [Art. 443, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_443)
 
 *before* (`32013R0575`)
 
 > Article 443
 > Unencumbered assets
-> EBA shall issue guidelines specifying the disclosure of unencumbered assets, taking into account Recommendation ESRB/2012/2 of the European Systemic Risk Board of 20 December 2012 on funding of credit institutionsOJ C 119, 25.4.2013, p. 1. and in particular Recommendation D - Market transparency on asset encumbrance, by 30 June 2014. Those guidelines shall be adopted in accordance with Article 16 of Regulation (EU) No 1093/2010.
+> EBA shall issue guidelines specifying the disclosure of unencumbered assets, taking into account Recommendation ESRB/2012/2 of the European Systemic Risk Board of 20 December 2012 on funding of credit institutions
+> OJ C 119, 25.4.2013, p. 1. and in particular Recommendation D - Market transparency on asset encumbrance, by 30 June 2014. Those guidelines shall be adopted in accordance with Article 16 of Regulation (EU) No 1093/2010.
 > EBA shall develop draft regulatory technical standards to specify disclosure of the balance sheet value per exposure class broken down by asset quality and the total amount of the balance sheet value that is unencumbered, taking into account Recommendation ESRB/2012/2 and conditional on EBA considering in its report that such additional disclosure offers reliable and meaningful information.
 > EBA shall submit those draft regulatory technical standards to the Commission by 1 January 2016.
 > Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
@@ -46369,7 +46366,8 @@ A paragraph break is added between the second and third paragraphs, separating t
 
 > Article 443
 > Unencumbered assets
-> EBA shall issue guidelines specifying the disclosure of unencumbered assets, taking into account Recommendation ESRB/2012/2 of the European Systemic Risk Board of 20 December 2012 on funding of credit institutionsOJ C 119, 25.4.2013, p. 1. and in particular Recommendation D — Market transparency on asset encumbrance, by 30 June 2014. Those guidelines shall be adopted in accordance with Article 16 of Regulation (EU) No 1093/2010.
+> EBA shall issue guidelines specifying the disclosure of unencumbered assets, taking into account Recommendation ESRB/2012/2 of the European Systemic Risk Board of 20 December 2012 on funding of credit institutions
+> OJ C 119, 25.4.2013, p. 1. and in particular Recommendation D — Market transparency on asset encumbrance, by 30 June 2014. Those guidelines shall be adopted in accordance with Article 16 of Regulation (EU) No 1093/2010.
 > EBA shall develop draft regulatory technical standards to specify disclosure of the balance sheet value per exposure class broken down by asset quality and the total amount of the balance sheet value that is unencumbered, taking into account Recommendation ESRB/2012/2 and conditional on EBA considering in its report that such additional disclosure offers reliable and meaningful information.
 >
 > EBA shall submit those draft regulatory technical standards to the Commission by 1 January 2016.
@@ -46693,9 +46691,9 @@ Paragraph 4 changes from requiring institutions to include the applicable percen
 
 *within* `AR 473 PA 2 ALN 1 PTA (b)`
 
-In point (b) of paragraph 2, the phrase describing how asset values are determined was changed from stating they are set "according to the rules set out in" Regulation (EC) No 1126/2008 to stating they are set "in accordance with the rules set out in" that Regulation. [Art. 473, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_473)
+In point (b) of paragraph 2, the phrasing was changed from saying values are determined 'according to the rules set out in' Regulation (EC) No 1126/2008 to saying they are determined 'in accordance with the rules set out in' that Regulation. [Art. 473, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_473) [Art. 473, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_473)
 
-The same point also changed the closing phrase from obligations determined "according to the same accounting rules" to obligations determined "in accordance with the same accounting rules". [Art. 473, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_473)
+Also in point (b), the closing phrase was changed from 'determined according to the same accounting rules' to 'determined in accordance with the same accounting rules'. [Art. 473, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_473) [Art. 473, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_473)
 
 *before* (`32013R0575`)
 
@@ -46703,7 +46701,9 @@ The same point also changed the closing phrase from obligations determined "acco
 > Introduction of amendments to IAS 19
 > 1. By way of derogation from Article 481 during the period from 1 January 2014 until 31 December 2018, competent authorities may permit institutions that prepare their accounts in conformity with the international accounting standards adopted in accordance with the procedure laid down in Article 6(2) of Regulation (EC) No 1606/2002 to add to their Common Equity Tier 1 capital the applicable amount in accordance with paragraph 2 or 3 of this Article, as applicable, multiplied by the factor applied in accordance with paragraph 4.
 > 2. The applicable amount shall be calculated by deducting from the sum derived in accordance with point (a) the sum derived in accordance with point (b):
-> (a) institutions shall determine the values of the assets of their defined benefit pension funds or plans, as applicable, in accordance with Regulation (EC) No 1126/2008Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1). as amended by Regulation (EU) No 1205/2011Commission Regulation (EU) No 1205/2011 of 22 November 2011 amending Regulation (EC) No 1126/2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council as regards International Financial Reporting Standard (IFRS) 7 (OJ L 305, […truncated by emendrix: 1410 characters omitted…]
+> (a) institutions shall determine the values of the assets of their defined benefit pension funds or plans, as applicable, in accordance with Regulation (EC) No 1126/2008
+> Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1). as amended by Regulation (EU) No 1205/2011
+> Commission Regulation (EU) No 1205/2011 of 22 November 2011 amending Regulation (EC) No 1126/2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council as regards International Financial Reporting Standard (IFRS) 7 (OJ L 30 […truncated by emendrix: 1412 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
@@ -46714,7 +46714,9 @@ The same point also changed the closing phrase from obligations determined "acco
 > 2.
 > The applicable amount shall be calculated by deducting from the sum derived in accordance with point (a) the sum derived in accordance with point (b):
 >
-> (a) institutions shall determine the values of the assets of their defined benefit pension funds or plans, as applicable, in accordance with Regulation (EC) No 1126/2008Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1). as amended by Regulation (EU) No 1205/2011Commission Regulation (EU) No 1205/2011 of 22 November 2011 amending Regulation (EC) No 1126/2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council as regards International Financial Reporting Standard (IFRS) 7 (OJ L 305 […truncated by emendrix: 1430 characters omitted…]
+> (a) institutions shall determine the values of the assets of their defined benefit pension funds or plans, as applicable, in accordance with Regulation (EC) No 1126/2008
+> Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1). as amended by Regulation (EU) No 1205/2011
+> Commission Regulation (EU) No 1205/2011 of 22 November 2011 amending Regulation (EC) No 1126/2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council as regards International Financial Reporting Standard (IFRS) 7 (OJ L 3 […truncated by emendrix: 1432 characters omitted…]
 
 **MODIFIED · Art. 478 — Applicable percentages for deduction from Common Equity Tier 1, Additional Tier 1 and Tier 2 items** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -47173,33 +47175,35 @@ In point (b) of paragraph 3, the reference to 'Section 4 of Chapter 1' was alter
 
 *within* `AR 493 PA 2 ALN 2`, `AR 493 PA 3 ALN 1`, `AR 493 PA 3 ALN 1 PTA (j)` · *dates* -2029-01-02 +2028-12-31
 
-The deadline in paragraph 3 by which Member States may exempt certain exposures from Article 395(1) is changed from 2 January 2029 to 31 December 2028. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_493)
+The transitional exemption period for large exposures under Article 493(3) now ends no later than 31 December 2028, replacing the earlier cut-off of 2 January 2029. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_493)
 
-Paragraph 2's closing sentence is reworded slightly, referring to "that report" instead of "this report" and to submitting proposals "to amend" rather than "for amendments to" the Regulation, without changing its substance. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_493)
+The wording in paragraph 2 was lightly reworded, changing 'this report' to 'that report' and 'submit proposals for amendments to this Regulation' to 'submit proposals to amend this Regulation', without changing its substance. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_493)
 
-Point (j) of paragraph 3 adds the word "that" before "the guarantee is not used," a minor wording adjustment with no change of substance. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_493)
+Point (j) of paragraph 3 was reworded slightly by inserting the word 'that' after 'provided', with no other change to its content. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_493) [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_493)
 
 *before* (`32013R0575`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2017 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities field
+> OJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2017 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4013 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4014 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
 > Article 493
 > Transitional provisions for large exposures
 > 1.
-> The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2017 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities field
+> OJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2017 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
 > 2.
 > By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 >
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
 >
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5 […truncated by emendrix: 4027 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points […truncated by emendrix: 4028 characters omitted…]
 
 **MODIFIED · Art. 494 — Transitional provisions for eligible capital** · applies from: unchanged
 
@@ -47365,11 +47369,11 @@ In paragraph 3, the phrase about the Commission submitting proposals was changed
 
 *within* `AR 500`, `AR 500 PA 2 ALN 1`, `AR 500 PA 5 ALN 1`, `AR 500 PA 6 ALN 1`
 
-The heading's dash style changed and the paragraph numbering now places each paragraph number on its own line, but the substantive wording of paragraphs 1 through 4 is unchanged. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_500)
+The heading punctuation changed from an en dash rendering to an em dash, and the numbered paragraphs are reflowed onto their own lines without altering their substance. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_500)
 
-In paragraph 2 the phrase describing risk-weighted exposure amounts calculation now reads with a hyphen in "risk-weighted" rather than without one, a formatting change only. [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_500)
+In paragraph 5, the phrase referring to consulting EBA is shortened by dropping the word having, and the reference to the Internal Ratings Based Approach is shortened to the IRB Approach. [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_500)
 
-Paragraph 5 now refers to "the IRB Approach" and to "consulting EBA" instead of "the Internal Ratings Based Approach" and "having consulted EBA", and paragraph 6 reorders the phrase so that "By 1 January 2017" now opens the sentence instead of following "shall". [Art. 500, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_500) [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_500)
+In paragraph 6, the opening wording is reordered so that the date phrase now precedes the words the Commission shall submit, rather than following them. [Art. 500, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_500)
 
 *before* (`32013R0575`)
 
@@ -47377,9 +47381,10 @@ Paragraph 5 now refers to "the IRB Approach" and to "consulting EBA" instead of 
 > Transitional provisions – Basel I floor
 > 1. Until 31 December 2017, institutions calculating risk-weighted exposure amounts in accordance with Part Three, Title II, Chapter 3 and institutions using the Advanced Measurement Approaches as specified in Part Three, Title III, Chapter 4 for the calculation of their own funds requirements for operational risk shall meet both of the following requirements:
 > (a) they shall hold own funds as required by Article 92;
-> (b) they shall hold own funds which are at all times more than or equal to 80 % of the total minimum amount of own funds that the institution would be required to hold under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutionsOJ L 126, 26.5.2000, p. 1. stood prior to 1 January 2007.
+> (b) they shall hold own funds which are at all times more than or equal to 80 % of the total minimum amount of own funds that the institution would be required to hold under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions
+> OJ L 126, 26.5.2000, p. 1. stood prior to 1 January 2007.
 > 2. Subject to the approval of the competent authorities, the amount referred to in point (b) of paragraph 1 may be replaced by a requirement to hold own funds which are at all times more than or equal to 80 % of the own funds that the institution would be required to hold under Article 92 calculating risk weighted exposure amounts in accordance with Part Three, Title II, Chapter 2, and Part Three, Title III, Chapter 2 or 3, as applicable, instead of in accordance with Part Three, Title II, Chapter 3, or Part Three, Title III, Chapter 4, as applicable.
-> 3. A credit institution m […truncated by emendrix: 1466 characters omitted…]
+> 3. A credit institution […truncated by emendrix: 1467 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
@@ -47390,19 +47395,22 @@ Paragraph 5 now refers to "the IRB Approach" and to "consulting EBA" instead of 
 >
 > (a) they shall hold own funds as required by Article 92;
 >
-> (b) they shall hold own funds which are at all times more than or equal to 80 % of the total minimum amount of own funds that the institution would be required to hold under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutionsOJ L 126, 26.5.2000, p. 1. stood prior to 1 January 2007.
+> (b) they shall hold own funds which are at all times more than or equal to 80 % of the total minimum amount of own funds that the institution would be required to hold under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions
+> OJ L 126, 26.5.2000, p. 1. stood prior to 1 January 2007.
 > 2.
 > Subject to the approval of the competent authorities, the amount referred to in point (b) of paragraph 1 may be replaced by a requirement to hold own funds which are at all times more than or equal to 80 % of the own funds that the institution would be required to hold under Article 92 calculating risk-weighted exposure amounts in accordance with Part Three, Title II, Chapter 2, and Part Three, Title III, Chapter 2 or 3, as applicable, instead of in accordance with Part Three, Title II, Chapter 3, or Part Three, Title III, Chapter 4, as applicable.
 > 3.
-> A credit institution […truncated by emendrix: 1445 characters omitted…]
+> A credit institutio […truncated by emendrix: 1446 characters omitted…]
 
 **MODIFIED · Art. 501 — Capital requirements deduction for credit risk on exposures to SMEs** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 501 PA 2 ALN 1 PTA (c)`, `AR 501 PA 4 ALN 1`, `AR 501 PA 5 ALN 1`, `AR 501 PA 5 ALN 1 PTA (a)`, `AR 501 PA 5 ALN 1 PTA (b)` · *dates* -2017-01-02 +2016-06-28
 
-The deadline by which the Commission must report on the impact of own funds requirements on lending to SMEs and natural persons was changed from 2 January 2017 to 28 June 2016. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_501)
+The reporting deadline for the Commission's report on SME and natural-person lending impacts was changed from 2 January 2017 to 28 June 2016. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_501)
 
-Paragraph 2(1)(c) now refers to acquiring 'such knowledge' rather than 'this knowledge', and paragraph 5's introductory wording changed from EBA reporting 'the following' to EBA reporting 'on the following', with points (a) and (b) now beginning with 'an analysis' instead of 'analysis'. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_501)
+The phrase describing the institution's knowledge requirement was changed from 'this knowledge' to 'such knowledge', and the introduction to EBA's reporting obligation was changed from 'report the following' to 'report on the following'. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_501)
+
+The wording of points (a) and (b) under paragraph 5 was altered to add the article 'an' before 'analysis' in each point. [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_501)
 
 *before* (`32013R0575`)
 
@@ -47411,10 +47419,11 @@ Paragraph 2(1)(c) now refers to acquiring 'such knowledge' rather than 'this kno
 > 1. Capital requirements for credit risk on exposures to SMEs shall be multiplied by the factor 0,7619.
 > 2. For the purpose of this Article:
 > (a) the exposure shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes. Exposures in default shall be excluded;
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprisesOJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises
+> OJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
 > (c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential property collateral, shall not, to the knowledge of the institution, exceed EUR 1,5 million. The institution shall take reasonable steps to acquire this knowledge.
 > 3. Institutions shall report to competent authorities every three months on the total amount of exposures to SMEs calculated in accordance with paragraph 2.
-> 4. The Commission shall by 2 January 2017, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament and t […truncated by emendrix: 522 characters omitted…]
+> 4. The Commission shall by 2 January 2017, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament and […truncated by emendrix: 523 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
@@ -47427,14 +47436,15 @@ Paragraph 2(1)(c) now refers to acquiring 'such knowledge' rather than 'this kno
 >
 > (a) the exposure shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes. Exposures in default shall be excluded;
 >
-> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprisesOJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
+> (b) an SME is defined in accordance with Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises
+> OJ L 124, 20.5.2003, p. 36.. Among the criteria listed in Article 2 of the Annex to that Recommendation only the annual turnover shall be taken into account;
 >
 > (c) the total amount owed to the institution and parent undertakings and its subsidiaries, including any exposure in default, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential property collateral, shall not, to the knowledge of the institution, exceed EUR 1,5 million. The institution shall take reasonable steps to acquire such knowledge.
 > 3.
 > Institutions shall report to competent authorities every three months on the total amount of exposures to SMEs calculated in accordance with paragraph 2.
 >
 > 4.
-> The Commission shall, by 28 June 2016, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament an […truncated by emendrix: 538 characters omitted…]
+> The Commission shall, by 28 June 2016, report on the impact of the own funds requirements laid down in this Regulation on lending to SMEs and natural persons and shall submit that report to the European Parliament a […truncated by emendrix: 539 characters omitted…]
 
 **MODIFIED · Art. 502 — Cyclicality of capital requirements** · applies from: unchanged
 
@@ -47860,11 +47870,9 @@ The second paragraph now describes the Commission's report as being prepared "fo
 
 *within* `AR 520 ALN 1 PO 1`, `AR 520 ALN 1 PO 3`
 
-In the new Article 50a(1), the condition tying KCCP calculation to a CCP having received a specific notification under Article 301(2)(b) of Regulation (EU) No 575/2013 is removed, and the calculation obligation is stated without that precondition, while a new sentence is added to Article 50a(2) specifying that all values in the formula relate to end-of-day valuation before the final margin call of the day is exchanged. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520)
+In the inserted Article 50a(1), the wording changed from applying only where a CCP has received the notification referred to in Article 301(2)(b) of Regulation (EU) No 575/2013 to applying without any reference to that notification, and Article 50a(2) gained a new sentence specifying that all values in the KCCP formula relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_520)
 
-In Article 50b, point (a)(i) now specifies that exposures listed there are to be calculated under the mark-to-market method of Article 274 of Regulation (EU) No 575/2013, and the former point (d) on securities financing transaction exposures and the former point (g) formula for PCEred are removed, while cross-references in points (i) and (h) are adjusted accordingly; Article 50c(1) drops the former point (f) referring to contractually committed contributions (DFCMc). [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520)
-
-The inserted paragraph 5a in Article 89 replaces the earlier reference to "the eleven regulatory technical standards referred to at the end of the first/second subparagraph of paragraph 3" with explicit lists of numbered articles, changes "does not have" to "neither has ... nor has", drops the phrase "by law or" style wording is unaffected but adds "and subject to the fourth subparagraph of this paragraph", and rewords the extension mechanism from an "implementing act referred to in Article 497(3)" adopted by the Commission to an "implementing act adopted pursuant to Article 497(3)". [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32013R0575#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520)
+In the inserted Article 89(5a), the cross-references to the regulatory technical standards were changed from a general reference to eleven regulatory technical standards described at the end of paragraphs 3's subparagraphs to specific lists of standards under Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49 (with Article 25 omitted in the second subparagraph), and wording describing the extension of the deadlines and the reporting condition for CCPs without a default fund was reworded, including changing the phrase describing the CCP's information obligation and adding a reference to a fourth subparagraph. [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520)
 
 *before* (`32013R0575`)
 
@@ -47876,7 +47884,8 @@ The inserted paragraph 5a in Article 89 replaces the earlier reference to "the e
 > Calculations and reporting for the purposes of Regulation (EU) No 575/2013
 > Article 50a
 > Calculation of KCCP
-> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013, p. 1.;, where a CCP has received the notification referred to in Article 301(2)(b) of that Regulation, it shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013, p. 1.;, where a CCP has received the notification referred to in Article 301(2)(b) of that Regulation, it shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 > 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · captial ratio
 > where:
 > EBRMi
@@ -47889,7 +47898,7 @@ The inserted paragraph 5a in Article 89 replaces the earlier reference to "the e
 > a risk weight of 20 %;
 > capital ratio
 > 8 %.
-> 3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities o […truncated by emendrix: 10431 characters omitted…]
+> 3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities […truncated by emendrix: 10432 characters omitted…]
 
 *after* (`02013R0575-20130628`)
 
@@ -47905,7 +47914,8 @@ The inserted paragraph 5a in Article 89 replaces the earlier reference to "the e
 > Article 50a
 > Calculation of KCCP
 > 1.
-> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013,p.1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 >
 > 2.
 > A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · captial ratio
@@ -47923,7 +47933,7 @@ The inserted paragraph 5a in Article 89 replaces the earlier reference to "the e
 > 8 %.
 > All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
 > 3.
-> A CCP shall undertake the calculation required by para […truncated by emendrix: 9964 characters omitted…]
+> A CCP shall undertake the calculation required by par […truncated by emendrix: 9965 characters omitted…]
 
 **DEFERRED · Art. 521 — Entry into force and date of application** · applies from: 2013-06-28
 
