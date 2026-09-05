@@ -490,7 +490,7 @@ The body of the entries shown, including entry 23 on cadmium, otherwise reads th
 ### `02006R1907-20220501` → `02006R1907-20221014`
 
 - **Act** `eu:32006R1907` · **In force** 2022-10-14 · **Detected** 2026-08-13
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **5 disputed**
+- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **5 disputed**
 - **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 153 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20220501` · `v2` = `02006R1907-20221014`
