@@ -28844,7 +28844,7 @@ The paragraphs describing the Commission's reporting duty by 31 December 2015 an
 ### `02013R0575-20191225` → `02013R0575-20200627`
 
 - **Act** `eu:32013R0575` · **In force** 2020-06-27 · **Detected** 2026-08-13
-- **Touched** 17 provisions — 17 substantive · 0 date-only · **8 disputed**
+- **Touched** 17 provisions — 13 substantive · 0 date-only · 4 with no text · **8 disputed**
 - **Diff** 5 inserted · 12 modified · 0 deleted · 0 renumbered · 0 deferred · 631 unchanged
 - **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20191225` · `v2` = `02013R0575-20200627`
@@ -28923,7 +28923,7 @@ The introductory phrase of paragraph 4 was also tightened to specify that the de
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -29004,7 +29004,7 @@ The reference to a 0% risk weight being assigned under Article 495(2) has been r
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -29014,7 +29014,7 @@ The reference to a 0% risk weight being assigned under Article 495(2) has been r
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -29101,7 +29101,7 @@ Paragraph 6's phase-in factors and date ranges are replaced with new percentages
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
