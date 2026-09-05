@@ -491,9 +491,9 @@ The reference to Directive 2013/36/EU also drops the phrase describing prudentia
 
 *within* `AR 4 ALN 1 PO 2 PTI (vii)`, `AR 4 ALN 1 PO 2 PTI (viii)` · *dates* +2019-11-27 +2019-12-05 · *amended by* `32019R2033`
 
-The list of competent authorities in point (2) now ends with a semicolon after item (vii) instead of a full stop, and a new item (viii) has been added covering competent authorities as defined in point (5) of Article 3(1) of Directive (EU) 2019/2034, referenced together with Regulation (EU) 2019/2033. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20210626#art_4)
+Point (2)(vii) now ends with a semicolon instead of a full stop, and a new point (2)(viii) has been added covering competent authorities as defined under Regulation (EU) 2019/2033 and Directive (EU) 2019/2034. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20210626#art_4)
 
-The earlier version of Article 4 ended its list of competent authorities at item (vii), referring only to bodies and authorities under Article 20 of Directive 2008/48/EC, without any equivalent item (viii). [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_4)
+The earlier version of Article 4 contained only point (2)(vii) as the final item under the definition of competent authorities, with no reference to Regulation (EU) 2019/2033 or Directive (EU) 2019/2034. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20200101#art_4)
 
 *before* (`02010R1093-20200101`)
 
@@ -506,7 +506,7 @@ The earlier version of Article 4 ended its list of competent authorities at item
 > (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013;
 > (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by financial institutions;
 > (iii) with regard to Directive (EU) 2015/849, the authorities and bodies that supervise financial sector operators and are competent for ensuring their compliance with the requirements of that Directive;
-> (iv) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 2909 characters omitted…]
+> (iv) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 2915 characters omitted…]
 
 *after* (`02010R1093-20210626`)
 
@@ -519,7 +519,7 @@ The earlier version of Article 4 ended its list of competent authorities at item
 > (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013;
 > (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by financial institutions;
 > (iii) with regard to Directive (EU) 2015/849, the authorities and bodies that supervise financial sector operators and are competent for ensuring their compliance with the requirements of that Directive;
-> (iv) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 3698 characters omitted…]
+> (iv) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 3706 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20210626 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20200101 -->
