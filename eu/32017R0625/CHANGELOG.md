@@ -135,22 +135,12 @@ The revised point (c) adds a proviso stating that the Regulation applies to offi
 ### `02017R0625-20191214` → `02017R0625-20211028`
 
 - **Act** `eu:32017R0625` · **In force** 2021-10-28 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 169 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 169 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0625-20191214` · `v2` = `02017R0625-20211028`
 
 ---
-
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32021R1756`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 18 — Specific rules on official controls and for action taken by the competent authorities in relation to the production of products of animal origin intended for human consumption** · applies from: unchanged
 
