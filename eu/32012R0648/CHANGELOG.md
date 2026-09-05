@@ -2721,9 +2721,11 @@ It also provides that transactions entered into or novated before the clearing o
 
 *within* `AR 9 PA 1a`, `AR 9 PA 1b`, `AR 9 PA 1c`, `AR 9 PA 1d` · *amended by* `32019R0834`
 
-New paragraphs 1a to 1d were added, setting out separate reporting responsibility rules for financial counterparties reporting on behalf of certain non-financial counterparties, for management companies of UCITS, for AIFMs, and for entities managing IORPs without legal personality, along with related provisions on data provision, opt-outs for non-financial counterparties, and treatment of contracts with third-country entities. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200618#art_9)
+New paragraphs 1a through 1d have been added, setting out which entity bears reporting responsibility and legal liability for OTC derivative contracts in specific situations, including contracts between financial and non-financial counterparties, UCITS management companies, AIFMs, and authorised entities managing IORPs without legal personality. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200618#art_9)
 
-The earlier version did not contain paragraphs 1a, 1b, 1c or 1d at all, moving directly from the exemption-notification text to paragraph 1e. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_9)
+Paragraph 1a also describes conditions under which a non-financial counterparty dealing with a third-country entity is not required to report or held legally liable for reporting, none of which appeared in the earlier version. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200618#art_9)
+
+The earlier text contained no equivalent paragraphs 1a to 1d, moving directly from paragraph 1 to paragraph 1e. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_9)
 
 *before* (`02012R0648-20200101`)
 
@@ -2737,7 +2739,7 @@ The earlier version did not contain paragraphs 1a, 1b, 1c or 1d at all, moving d
 > (a) both counterparties are included in the same consolidation on a full basis;
 > (b) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures; and
 > (c) the parent undertaking is not a financial counterparty.
-> Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the con […truncated by emendrix: 3717 characters omitted…]
+> Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the con […truncated by emendrix: 3718 characters omitted…]
 
 *after* (`02012R0648-20200618`)
 
@@ -2751,7 +2753,7 @@ The earlier version did not contain paragraphs 1a, 1b, 1c or 1d at all, moving d
 > (a) both counterparties are included in the same consolidation on a full basis;
 > (b) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures; and
 > (c) the parent undertaking is not a financial counterparty.
-> Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the con […truncated by emendrix: 6883 characters omitted…]
+> Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the con […truncated by emendrix: 6884 characters omitted…]
 
 **MODIFIED · Art. 10** · applies from: unknown
 
