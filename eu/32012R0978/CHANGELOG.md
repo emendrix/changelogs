@@ -106,7 +106,7 @@ The date until which the scheme applies in paragraph 3 changes from 31 December 
 ### `02012R0978-20210410` → `02012R0978-20220101`
 
 - **Act** `eu:32012R0978` · **In force** 2022-01-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 0 substantive · 0 date-only · 2 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 43 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02012R0978-20210410` · `v2` = `02012R0978-20220101`
@@ -119,7 +119,7 @@ The date until which the scheme applies in paragraph 3 changes from 31 December 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -127,9 +127,9 @@ The date until which the scheme applies in paragraph 3 changes from 31 December 
 
 *amended by* `32021R0114`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0978-20220101 -->
