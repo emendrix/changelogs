@@ -517,20 +517,20 @@ The date until which the scheme applies in paragraph 3 changes from 31 December 
 ### `32012R0978` → `02012R0978-20140228`
 
 - **Act** `eu:32012R0978` · **In force** 2014-01-01, 2014-02-28 · **Detected** 2026-08-13
-- **Touched** 11 provisions — 11 substantive · 0 date-only · **11 disputed**
+- **Touched** 11 provisions — 10 substantive · 0 date-only · 1 with no text · **11 disputed**
 - **Diff** 0 inserted · 1 modified · 10 deleted · 0 renumbered · 0 deferred · 43 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32012R0978` · `v2` = `02012R0978-20140228`
 
 ---
 
-**MODIFIED · AN** · applies from: unknown
+**MODIFIED · Annex** · applies from: unknown
 
 *amended by* `32014R0182`
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -540,12 +540,13 @@ The date until which the scheme applies in paragraph 3 changes from 31 December 
 
 **DISPUTED** — the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
 
-The list of eligible countries and territories, along with the separate list of countries temporarily withdrawn from the scheme, that previously made up Annex I no longer appears in the text. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_I)
+Annex I, which listed eligible countries and their alphabetical codes together with a separate list of countries temporarily withdrawn from the scheme, no longer appears in the later version of the text. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_I)
 
 *before* (`32012R0978`)
 
 > ANNEX I
-> Eligible countriesThis list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the scheme referred to in Article 3
+> Eligible countries
+> This list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the scheme referred to in Article 3
 > Column A
 > alphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics
 > Column B
@@ -618,7 +619,7 @@ The list of eligible countries and territories, along with the separate list of 
 > JM Jamaica
 > JO Jordan
 > KE Kenya
-> KG Kyrg […truncated by emendrix: 1473 characters omitted…]
+> KG Kyr […truncated by emendrix: 1474 characters omitted…]
 
 **DELETED · Annex II — ANNEX II** · applies from: unknown (a deleted provision has no application date to move)
 
@@ -626,12 +627,13 @@ The list of eligible countries and territories, along with the separate list of 
 
 **DISPUTED** — the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
 
-Annex II, which listed beneficiary countries under the general arrangement and separately identified countries such as Burma/Myanmar as temporarily withdrawn from it, no longer appears in the later version of the text. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_II)
+The list of beneficiary countries and the sub-list of countries with temporarily withdrawn preferences that made up Annex II have been removed entirely, with no replacement text provided. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_II)
 
 *before* (`32012R0978`)
 
 > ANNEX II
-> Beneficiary countriesThis list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the general arrangement referred to in point (a) of Article 1(2)
+> Beneficiary countries
+> This list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the general arrangement referred to in point (a) of Article 1(2)
 > Column A
 > alphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics
 > Column B
@@ -719,7 +721,7 @@ Annex II, which listed beneficiary countries under the general arrangement and s
 > TV Tuvalu
 > TZ Tanzania
 > UA Ukraine
-> UG Ugan […truncated by emendrix: 457 characters omitted…]
+> UG Uga […truncated by emendrix: 458 characters omitted…]
 
 **DELETED · Annex III — ANNEX III** · applies from: unknown (a deleted provision has no application date to move)
 
@@ -727,12 +729,13 @@ Annex II, which listed beneficiary countries under the general arrangement and s
 
 **DISPUTED** — the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
 
-Annex III, which listed beneficiary countries of the special incentive arrangement for sustainable development and good governance along with a separate list of countries temporarily withdrawn from that arrangement, no longer appears in the text. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_III)
+Annex III, which listed beneficiary countries of the special incentive arrangement for sustainable development and good governance and set out the columns for country codes and names used to record temporary withdrawals or suspensions of preferences, has been removed entirely and no longer appears in the text. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_III)
 
 *before* (`32012R0978`)
 
 > ANNEX III
-> Beneficiary countriesThis list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the special incentive arrangement for sustainable development and good governance referred to in point (b) of Article 1(2)
+> Beneficiary countries
+> This list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the special incentive arrangement for sustainable development and good governance referred to in point (b) of Article 1(2)
 > Column A
 > alphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics
 > Column B
@@ -751,12 +754,13 @@ Annex III, which listed beneficiary countries of the special incentive arrangeme
 
 **DISPUTED** — the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
 
-Annex IV, which listed the beneficiary countries of the special arrangement for the least-developed countries and separately listed those temporarily withdrawn from it, no longer appears in the text. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_IV)
+Annex IV, which listed beneficiary countries under the special arrangement for least-developed countries and identified Burma/Myanmar as a country temporarily withdrawn from that arrangement, no longer appears in the later version of the text. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_IV)
 
 *before* (`32012R0978`)
 
 > ANNEX IV
-> Beneficiary countriesThis list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the special arrangement for the least-developed countries referred to in point (c) of Article 1(2)
+> Beneficiary countries
+> This list includes countries for which preferences may have been temporarily withdrawn or suspended. The Commission or the competent authorities of the country concerned will be able to provide an updated list.of the special arrangement for the least-developed countries referred to in point (c) of Article 1(2)
 > Column A
 > alphabetical code, in accordance with the nomenclature of countries and territories for the Union external trade statistics
 > Column B
@@ -813,7 +817,7 @@ Annex IV, which listed the beneficiary countries of the special arrangement for 
 > ZM Zambia
 > Beneficiary countries of the special arrangement for the least-developed countries referred to in point (c) of Article 1(2) which have been temporarily withdrawn from that arrangement, in respect of all or of certain products originating in these countries
 > Column A
-> alphabetical code, in accordance with the nomenclature of countries and territories for the Union external tra […truncated by emendrix: 48 characters omitted…]
+> alphabetical code, in accordance with the nomenclature of countries and territories for the Union external tr […truncated by emendrix: 49 characters omitted…]
 
 **DELETED · Annex V — ANNEX V** · applies from: unknown (a deleted provision has no application date to move)
 
@@ -907,7 +911,7 @@ Annex VIII, which listed core UN/ILO human and labour rights conventions in Part
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-Annex IX, which set out the full list of products covered by the special incentive arrangement for sustainable development and good governance, including its section and chapter groupings, CN codes, product descriptions, and accompanying notes, no longer appears in the later version of the text. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_IX)
+Annex IX, which set out the list of products covered by the special incentive arrangement for sustainable development and good governance, along with its introductory notes and the full list of GSP sections, chapters, CN codes and product descriptions, no longer appears in the later version of the text. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_IX)
 
 *before* (`32012R0978`)
 
@@ -918,8 +922,9 @@ Annex IX, which set out the full list of products covered by the special incenti
 > The column Section lists GSP sections (Article 2(h))
 > The column Chapter lists CN chapters covered by a GSP section (Article 2(i))
 > For reasons of simplification, the products are listed in groups. These may include products for which Common Customs Tariff duties were withdrawn or suspended.
-> For the products under subheading 030613, the duty shall be 3,6 %.For the products under subheading 17041090, the specific duty shall be limited to 16 % of the customs value.
-> Section Chapter CN code Description S-1a 01 01012990 Live horses, other than pure-bred breeding animals, other than for slaughter 01013000 Live asses 01019000 Live mules and hinnies 01042010* Live, pure-bred breeding goats 01061410 Live domestic rabbits 01063910 Live pigeons 02 020500 Meat of horses, asses, mules or hinnies, fresh, chilled or frozen 02068091 Edible offal of horses, asses, mules or hinnies, fresh or c […truncated by emendrix: 31899 characters omitted…]
+> For the products under subheading 030613, the duty shall be 3,6 %.
+> For the products under subheading 17041090, the specific duty shall be limited to 16 % of the customs value.
+> Section Chapter CN code Description S-1a 01 01012990 Live horses, other than pure-bred breeding animals, other than for slaughter 01013000 Live asses 01019000 Live mules and hinnies 01042010* Live, pure-bred breeding goats 01061410 Live domestic rabbits 01063910 Live pigeons 02 020500 Meat of horses, asses, mules or hinnies, fresh, chilled or frozen 02068091 Edible offal of horses, asses, mules or hinnies, fresh or […truncated by emendrix: 31900 characters omitted…]
 
 **DELETED · Annex X — ANNEX X** · applies from: unknown (a deleted provision has no application date to move)
 
