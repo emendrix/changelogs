@@ -50,7 +50,7 @@ In paragraph 2, the period before the Article 12(1) deadline during which intere
 ### `02016R1037-20171220` → `02016R1037-20180608`
 
 - **Act** `eu:32016R1037` · **In force** 2018-06-08 · **Detected** 2026-08-13
-- **Touched** 17 provisions — 17 substantive · 0 date-only · **1 disputed**
+- **Touched** 17 provisions — 16 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 5 inserted · 12 modified · 0 deleted · 0 renumbered · 0 deferred · 30 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02016R1037-20171220` · `v2` = `02016R1037-20180608`
@@ -479,7 +479,7 @@ A new Article 32b is added, setting out the conditions under which the Commissio
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1037-20180608 -->
