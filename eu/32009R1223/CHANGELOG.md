@@ -2288,7 +2288,7 @@ Entry 27 for Titanium Dioxide is retained with its maximum concentration, but a 
 ### `02009R1223-20160325` → `02009R1223-20160512`
 
 - **Act** `eu:32009R1223` · **In force** 2016-05-12 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20160325` · `v2` = `02009R1223-20160512`
@@ -2299,57 +2299,86 @@ Entry 27 for Titanium Dioxide is retained with its maximum concentration, but a 
 
 *within* `AN III` · *amended by* `32016R0622`
 
-Two new footnotes have been added to the introductory list of footnotes, each cross-referencing potassium hydroxide entries elsewhere in Annex III. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III)
+Two new footnotes were added cross-referencing other uses of potassium hydroxide to entry No 15d and to entry No 15a. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III)
 
-A new entry, numbered 15d, has been added covering potassium hydroxide for use as a callosity softener/remover, with a maximum concentration and associated warning wording, alongside the existing entries 15a to 15c. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III)
+A new entry 15d for potassium hydroxide, restricted to use as a callosity softener/remover at a maximum concentration of 1,5%, with associated warnings, was added after entry 15c. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III)
 
-The text is truncated beyond this point, so any further differences in the remainder of the Annex cannot be described. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160325#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III)
+The remainder of the annex, including the truncated portions shown, appears otherwise unchanged between the two versions. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160325#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III)
 
 *before* (`02009R1223-20160325`)
 
 > ANNEX III
 > LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
-> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 136886 characters omitted…]
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative, see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> OJ L 255, […truncated by emendrix: 136969 characters omitted…]
 
 *after* (`02009R1223-20160512`)
 
 > ANNEX III
 > LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
-> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 137209 characters omitted…]
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative, see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> OJ L 255, […truncated by emendrix: 137294 characters omitted…]
 
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32016R0621`
 
-The introductory notes gain a new sentence stating that when zinc oxide and zinc oxide (nano) are used together, their combined amount must not exceed the maximum concentration set out in column g. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_VI)
+The revised list adds a new introductory statement covering the combined use of zinc oxide and zinc oxide (nano), specifying that the sum of both shall not exceed the limit given in column g. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_VI)
 
-Two new entries, numbered 30 and 30a, are added to the table for Zinc Oxide and Zinc Oxide (nano), each listing a maximum concentration of 25%, a restriction against use in applications that may expose the end-user's lungs to inhalation, and, for the nano form, additional conditions on purity, crystalline structure, particle size distribution, water solubility and permitted coatings. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_VI)
-
-The earlier version of the annex, by contrast, ends after entry 29 and its nanomaterial conditions, without any zinc oxide entries. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160325#anx_VI)
+Two new entries, numbered 30 and 30a, are added to the table for zinc oxide and zinc oxide (nano) respectively, each listing a 25% maximum concentration, a restriction against use in applications that may lead to inhalation exposure, and, for entry 30a, additional conditions on permitted nanomaterial characteristics such as purity, crystalline structure, particle size distribution, water solubility and coating. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160325#anx_VI)
 
 *before* (`02009R1223-20160325`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use other than as a colorant, see Annex IV, No. 143.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use other than as a colorant, see Annex IV, No. 143.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 10 % Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts Benzylidene Camphor Sulfonic Acid 56039-58-8 6 % (as acid […truncated by emendrix: 2710 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts Benzylidene Camphor Sulfonic Acid 56039-58-8 6 % (as aci […truncated by emendrix: 2711 characters omitted…]
 
 *after* (`02009R1223-20160512`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use other than as a colorant, see Annex IV, No. 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use other than as a colorant, see Annex IV, No. 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 10 % Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-O […truncated by emendrix: 3778 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2 […truncated by emendrix: 3780 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20160512 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20160325 -->
