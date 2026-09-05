@@ -90,7 +90,7 @@ Paragraphs 2 and 3 remain textually the same between the two versions shown. [Ar
 ### `02013R0952-20190515` → `02013R0952-20200101`
 
 - **Act** `eu:32013R0952` · **In force** 2020-01-01 · **Detected** 2026-08-13
-- **Touched** 10 provisions — 10 substantive · 0 date-only · **9 disputed**
+- **Touched** 10 provisions — 1 substantive · 0 date-only · 9 with no text · **9 disputed**
 - **Diff** 1 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 289 unchanged
 - **Gate** 0 sentences quoted verbatim · 9 changes shipped without an explanation
 - **Citations** `v1` = `02013R0952-20190515` · `v2` = `02013R0952-20200101`
@@ -163,7 +163,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -173,7 +173,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -183,7 +183,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -193,7 +193,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -203,7 +203,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -213,7 +213,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -223,7 +223,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -233,7 +233,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -243,7 +243,7 @@ In the description of the Italian Republic's territory, the exclusion of the mun
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0952-20200101 -->
