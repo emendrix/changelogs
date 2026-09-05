@@ -3406,7 +3406,7 @@ Both texts are truncated at the same point, cutting off before entry 40 on subst
 ### `02006R1907-20111210` → `02006R1907-20120601`
 
 - **Act** `eu:32006R1907` · **In force** 2012-01-10, 2012-02-18 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20111210` · `v2` = `02006R1907-20120601`
@@ -3417,17 +3417,19 @@ Both texts are truncated at the same point, cutting off before entry 40 on subst
 
 *within* `AN XIV` · *dates* +2013-11-21 +2015-05-21 · *amended by* `32012R0125`
 
-The list of substances subject to authorisation has been extended with eight additional entries, numbered 7 through 14, covering substances such as Diisobutyl phthalate, Diarsenic trioxide, Diarsenic pentaoxide, Lead chromate, Lead sulfochromate yellow, Lead chromate molybdate sulphate red, Tris (2-chloroethyl) phosphate, and 2,4-Dinitrotoluene, each with its own EC and CAS numbers, intrinsic properties, and latest application and sunset dates. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XIV)
+The list of substances in Annex XIV has been expanded from six entries to fourteen, adding Diisobutyl phthalate, Diarsenic trioxide, Diarsenic pentaoxide, Lead chromate, Lead sulfochromate yellow, Lead chromate molybdate sulphate red, Tris (2-chloroethyl) phosphate, and 2,4-Dinitrotoluene, each with its own intrinsic property, latest application date and sunset date. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20111210#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XIV)
 
-The six entries that were already present in the earlier version, covering Musk xylene, MDA, HBCDD, DEHP, BBP and DBP, remain unchanged in their substance identifiers, properties, and dates. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20111210#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XIV)
+The six entries already present in the earlier version are carried over with the same substance identifiers, properties, and dates, and only formatting differences such as line breaks separate the two presentations of those rows. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20111210#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XIV)
 
 *before* (`02006R1907-20111210`)
 
 > ANNEX XIV
 > LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
-> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
 > Entry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods
-> Latest application date Sunset date
+> Latest application date
+> Sunset date
 > 1. 5-tert-butyl-2,4,6-trinitro-m-xylene
 > (Musk xylene)
 > EC No
@@ -3471,7 +3473,7 @@ The six entries that were already present in the earlier version, covering Musk 
 > CAS No
 > 85-68-7 Toxic for reproduction
 > (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate
-> (DBP […truncated by emendrix: 250 characters omitted…]
+> (DB […truncated by emendrix: 251 characters omitted…]
 
 *after* (`02006R1907-20120601`)
 
@@ -3491,7 +3493,9 @@ The six entries that were already present in the earlier version, covering Musk 
 > Exempted (categories of) uses
 > Review periods
 > Latest application date
+>
 > Sunset date
+>
 > 1.
 > 5-tert-butyl-2,4,6-trinitro-m-xylene
 > (Musk xylene)
@@ -3575,24 +3579,36 @@ The six entries that were already present in the earlier version, covering Musk 
 > Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC.
 >
 > 6.
-> Dibuty […truncated by emendrix: 1451 characters omitted…]
+> Dibu […truncated by emendrix: 1453 characters omitted…]
 
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6`, `AN XVII APP 11` · *dates* +2013-06-01 · *amended by* `32011R0494`, `32012R0109`
 
-The list of derogations under entries 28 to 30 now includes an additional exemption for substances listed in Appendix 11, applicable to the uses set out in Appendix 11's column 2, with any date specified there marking the end of that derogation. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII)
+A new derogation was added to the entries-28-to-30 conditions of restriction, exempting substances listed in Appendix 11, column 1, for the applications or uses listed in Appendix 11, column 2, with the derogation applying until any date specified in column 2 of that appendix. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII)
 
-Both versions otherwise present the same substances, entries and restriction text, with formatting differences such as spacing and line breaks around entry headings and CAS/EC numbers. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20111210#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII)
+This exemption did not appear among the derogations to paragraph 1 of the entries 28 to 30 conditions in the earlier text. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20111210#anx_XVII)
 
-The remainder of the text is truncated in both versions, so further differences beyond what is shown cannot be described. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20111210#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII)
+The visible text is cut off before the rest of the differences across the listed appendices can be seen, so only this addition can be described. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII)
 
 *before* (`02006R1907-20111210`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.OJ L 365, 31.12.1994, p. 10.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
+> OJ L 365, 31.12.1994, p. 10.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -3603,7 +3619,7 @@ The remainder of the text is truncated in both versions, so further differences 
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1999/45/EC or […truncated by emendrix: 427778 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1 […truncated by emendrix: 427803 characters omitted…]
 
 *after* (`02006R1907-20120601`)
 
@@ -3644,7 +3660,7 @@ The remainder of the text is truncated in both versions, so further differences 
 > EC No 200-831-0
 > Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Dir […truncated by emendrix: 540356 characters omitted…]
+> 3. Liquid substances or mixtures which are regarded as dangerous in accordance with Dir […truncated by emendrix: 540371 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20120601 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20090627 -->
