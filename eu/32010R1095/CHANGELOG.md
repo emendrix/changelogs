@@ -529,36 +529,40 @@ The rest of Article 40, including the existing sentence on Directive 97/9/EC rep
 
 *within* `AR 1 PA 2 ALN 1`, `AR 1 PA 2 ALN 2`, `AR 1 PA 3 ALN 1`, `AR 1 PA 3a`, `AR 1 PA 5 ALN 1`, `AR 1 PA 5 ALN 1 PTA (e)`, `AR 1 PA 5 ALN 1 PTA (f)`, `AR 1 PA 5 ALN 1 PTA (g)`, `AR 1 PA 6` · *dates* +2010-11-24 +2014-05-15 +2015-05-20 +2017-06-14 · *amended by* `32019R2175`
 
-The list of directives and regulations defining the Authority's scope of action in paragraph 2 is updated, replacing references such as Directive 2003/6/EC, Directive 2003/71/EC and Directive 2004/39/EC with references to Directive 2014/65/EU and Regulation (EU) 2017/1129, and adding a new passage on contributing to the work of the European Banking Authority on anti-money-laundering matters under Directive (EU) 2015/849 and Regulation (EU) No 1093/2010. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_1)
+The list of directives and regulations defining the Authority's scope in paragraph 2 was revised, dropping references such as Directive 2003/6/EC, Directive 2003/71/EC, Directive 2004/39/EC and Directive 2006/49/EC, and adding references to Directive 2011/61/EU, Directive 2014/65/EU, Regulation (EU) 2017/1129 and a new passage on contributing to anti-money-laundering work under Directive (EU) 2015/849 and Regulation (EU) No 1093/2010. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_1)
 
-Paragraph 3 now refers to financial market participants and legislative acts and adds mention of sustainable business models and environmental, social and governance factors, and a new paragraph 3a states that the Regulation applies without prejudice to other Union acts conferring authorisation or supervision functions and powers on the Authority. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_1)
+Paragraph 3 was reworded to refer to financial market participants and to add consideration of sustainable business models and environmental, social and governance factors, and a new paragraph 3a was inserted stating that the Regulation applies without prejudice to other Union acts conferring authorisation or supervision functions and powers on the Authority. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_1)
 
-Paragraph 5 adds a new objective on enhancing supervisory convergence across the internal market, changes references to opinions to be given in accordance with Article 16a, expands the description of how the Authority must act to include non-discriminatory, transparent, proportionate, accountable and fair conduct, and adds text on how its actions and measures must respect applicable provisions and take account of proportionality; a new paragraph 6 establishes a Committee advising the Authority on how its actions should take account of sector-specific differences. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_1)
+Paragraph 5 was expanded with a new objective at point (g) on supervisory convergence, altered wording on customer and investor protection, additional language on acting in a non-discriminatory, transparent and proportionate manner and on the content and form of the Authority's actions, and a new paragraph 6 was added establishing a Committee to advise the Authority on accounting for sectoral differences. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_1)
 
 *before* (`02010R1095-20140523`)
 
 > Article 1
 > Establishment and scope of action
 > 1. This Regulation establishes a European Supervisory Authority (European Securities and Markets Authority) (hereinafter the Authority’).
-> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 97/9/EC, Directive 98/26/EC, Directive 2001/34/EC, Directive 2002/47/EC, Directive 2003/6/EC, Directive 2003/71/EC, Directive 2004/39/EC, Directive 2004/109/EC, Directive 2009/65/EC and to Directive 2006/49/EC, without prejudice to the competence of the European Supervisory Authority (European Banking Authority) in terms of prudential supervision, Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund ManagersOJ L 174, 1.7.2011, p. 1., and Regulation (EC) No 1060/2009, and, to the extent that these acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares and the competent authorities that supervise them, within the relevant parts of, Directive 2002/87/EC, Directive 2005/60/EC, Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority.
-> 3. The Authority shall also act in the field of activities of market participants in relation to issues not directly covered in the acts referred to in paragraph 2, including matters of corporate governance, auditing and […truncated by emendrix: 1987 characters omitted…]
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 97/9/EC, Directive 98/26/EC, Directive 2001/34/EC, Directive 2002/47/EC, Directive 2003/6/EC, Directive 2003/71/EC, Directive 2004/39/EC, Directive 2004/109/EC, Directive 2009/65/EC and to Directive 2006/49/EC, without prejudice to the competence of the European Supervisory Authority (European Banking Authority) in terms of prudential supervision, Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers
+> OJ L 174, 1.7.2011, p. 1., and Regulation (EC) No 1060/2009, and, to the extent that these acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares and the competent authorities that supervise them, within the relevant parts of, Directive 2002/87/EC, Directive 2005/60/EC, Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority.
+> 3. The Authority shall also act in the field of activities of market participants in relation to issues not directly covered in the acts referred to in paragraph 2, including matters of corporate governance, auditing and […truncated by emendrix: 1988 characters omitted…]
 
 *after* (`02010R1095-20200101`)
 
 > Article 1
 > Establishment and scope of action
 > 1. This Regulation establishes a European Supervisory Authority (European Securities and Markets Authority) (hereinafter the Authority’).
-> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the CouncilDirective 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1)., Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., and to the extent that those acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares and the com […truncated by emendrix: 5515 characters omitted…]
+> 2. The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the Council
+> Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1)., Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., Regulation (EU) 2017/1129 of the European Parliament and of the Council
+> Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., and to the extent that those acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares and the […truncated by emendrix: 5520 characters omitted…]
 
 **MODIFIED · Art. 2 — European System of Financial Supervision** · applies from: unchanged
 
 *within* `AR 2 PA 1 ALN 1`, `AR 2 PA 4 ALN 1`, `AR 2 PA 5 ALN 2` · *amended by* `32019R2175`
 
-Paragraph 1 now describes the aim of ensuring "effective and sufficient" protection for customers of financial services, adding the word "effective" to the earlier reference to sufficient protection. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_2)
+In paragraph 1, the description of the financial system is changed from an initial capital "European System of Financial Supervision" to lowercase "European system of financial supervision," and the protection afforded to customers of financial services is now described as "effective and sufficient" rather than just "sufficient." [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_2)
 
-Paragraph 4 now refers to the sincere cooperation principle as being "pursuant to" Article 4(3) TEU rather than "under" it, and extends the flow-of-information duty to also cover information passing from the Authority to the European Parliament, the Council and the Commission, in addition to the flow among the ESFS parties. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_2)
+In paragraph 4, the reference to the principle of sincere cooperation now says "pursuant to" instead of "under" Article 4(3) TEU, adds the abbreviation "(TEU)", and extends the flow-of-information obligation to also cover information flowing from the Authority to the European Parliament, the Council and the Commission, not only among the parties to the ESFS. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_2)
 
-Paragraph 5 gains an added sentence stating that, without prejudice to national competences, references in the Regulation to supervision include all relevant activities of all competent authorities carried out under the acts referred to in Article 1(2). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_2)
+Paragraph 5 gains an additional sentence stating that, without prejudice to national competences, references in the Regulation to supervision include all relevant activities of all competent authorities carried out pursuant to the acts referred to in Article 1(2). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_2)
 
 *before* (`02010R1095-20140523`)
 
@@ -566,12 +570,15 @@ Paragraph 5 gains an added sentence stating that, without prejudice to national 
 > European System of Financial Supervision
 > 1. The Authority shall form part of a European System of Financial Supervision (ESFS). The main objective of the ESFS shall be to ensure that the rules applicable to the financial sector are adequately implemented to preserve financial stability and to ensure confidence in the financial system as a whole and sufficient protection for the customers of financial services.
 > 2. The ESFS shall comprise the following:
-> (a) the European Systemic Risk Board (ESRB), for the purposes of the tasks as specified in Regulation (EU) No 1092/2010See page 1 of this Official Journal. and this Regulation;
+> (a) the European Systemic Risk Board (ESRB), for the purposes of the tasks as specified in Regulation (EU) No 1092/2010
+> See page 1 of this Official Journal. and this Regulation;
 > (b) the Authority;
-> (c) the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the CouncilSee page 12 of this Official Journal.;
-> (d) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilSee page 48 of this Official Journal.;
+> (c) the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council
+> See page 12 of this Official Journal.;
+> (d) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council
+> See page 48 of this Official Journal.;
 > (e) the Joint Committee of the European Supervisory Authorities (Joint Committee) for the purposes of carrying out the tasks as specified in Articles 54 to 57 of this Regulation, of Regulation (EU) No 1093/2010 and of Regulation (EU) No 1094/2010;
-> (f) the competent or supervisory authorities in the Member States as specified in the Union acts referred to in Article 1(2) of this Regulation, of Regulation (EU) No 109 […truncated by emendrix: 956 characters omitted…]
+> (f) the competent or supervisory authorities in the Member States as specified in the Union acts referred to in Article 1(2) of this Regulation, of Regulation (EU) No […truncated by emendrix: 959 characters omitted…]
 
 *after* (`02010R1095-20200101`)
 
@@ -579,12 +586,15 @@ Paragraph 5 gains an added sentence stating that, without prejudice to national 
 > European System of Financial Supervision
 > 1. The Authority shall form part of a European system of financial supervision (ESFS). The main objective of the ESFS shall be to ensure that the rules applicable to the financial sector are adequately implemented to preserve financial stability and to ensure confidence in the financial system as a whole and effective and sufficient protection for the customers of financial services.
 > 2. The ESFS shall comprise the following:
-> (a) the European Systemic Risk Board (ESRB), for the purposes of the tasks as specified in Regulation (EU) No 1092/2010See page 1 of this Official Journal. and this Regulation;
+> (a) the European Systemic Risk Board (ESRB), for the purposes of the tasks as specified in Regulation (EU) No 1092/2010
+> See page 1 of this Official Journal. and this Regulation;
 > (b) the Authority;
-> (c) the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the CouncilSee page 12 of this Official Journal.;
-> (d) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilSee page 48 of this Official Journal.;
+> (c) the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council
+> See page 12 of this Official Journal.;
+> (d) the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council
+> See page 48 of this Official Journal.;
 > (e) the Joint Committee of the European Supervisory Authorities (Joint Committee) for the purposes of carrying out the tasks as specified in Articles 54 to 57 of this Regulation, of Regulation (EU) No 1093/2010 and of Regulation (EU) No 1094/2010;
-> (f) the competent or supervisory authorities in the Member States as specified in the Union acts referred to in Article 1(2) of this Regulation, of Regulati […truncated by emendrix: 1303 characters omitted…]
+> (f) the competent or supervisory authorities in the Member States as specified in the Union acts referred to in Article 1(2) of this Regulation, of Regul […truncated by emendrix: 1306 characters omitted…]
 
 **MODIFIED · Art. 3 — Accountability of the Authorities** · applies from: unchanged
 
@@ -701,11 +711,11 @@ Paragraph 2 adds new powers such as issuing recommendations under Article 29a, i
 
 *within* `AR 9 PA 1 ALN 1 PTA (a)`, `AR 9 PA 1 ALN 1 PTA (aa)`, `AR 9 PA 1 ALN 1 PTA (ab)`, `AR 9 PA 1 ALN 1 PTA (d)`, `AR 9 PA 1 ALN 1 PTA (e)`, `AR 9 PA 1 ALN 1 PTA (f)`, `AR 9 PA 2 ALN 1`, `AR 9 PA 4 ALN 1`, `AR 9 PA 5 ALN 1`, `AR 9 PA 5 ALN 2`, `AR 9 PA 5 ALN 3`, `AR 9 PA 5 ALN 4` · *dates* +2016-04-27 · *amended by* `32019R2175`
 
-Paragraph 1 now adds new points (aa) coordinated thematic reviews of market conduct, (ab) developing retail risk indicators, and points (e) and (f) on fair access to financial services and coordinating mystery shopping, while point (a) is expanded to mention costs and charges of retail financial services and products. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_9)
+Paragraph 1 gains new points on retail cost and charge trends, thematic market conduct reviews, retail risk indicators, a level-playing-field goal, and coordination of mystery shopping, alongside the existing points on consumer trends, financial literacy, training standards and disclosure rules. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_9)
 
-Paragraph 4 renames the Committee to include consumer protection, extends its membership to authorities responsible for consumer protection, adds cooperation with the European Data Protection Board and the possibility of inviting national data protection authorities as observers, matters absent from the earlier version. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_9)
+Paragraph 4 renames the committee to cover consumer protection as well as financial innovation, widens its membership to consumer-protection authorities, adds a cooperation duty with the European Data Protection Board and a possible role for national data protection authorities as observers, and paragraph 2 adds effectiveness of supervisory practices to the convergence goal. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_9)
 
-Paragraph 5 broadens the scope of temporary prohibition or restriction to marketing, distribution or sale of financial products, instruments or activities causing significant financial damage, changes the review interval from three months to six months with a renewal process requiring proper analysis, and adds the competent authorities as a recipient of Commission notifications alongside the Commission. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_9)
+Paragraph 5 extends the temporary-prohibition power to marketing, distribution or sale of products or instruments causing significant financial damage to customers or consumers, changes the review interval from three months with automatic expiry to six months with possible annual renewal after two renewals based on impact analysis, and adds the competent authorities alongside the Commission as recipients of information on prohibiting or restricting a financial activity or practice. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_9)
 
 *before* (`02010R1095-20140523`)
 
@@ -735,7 +745,7 @@ Paragraph 5 broadens the scope of temporary prohibition or restriction to market
 > (e) contributing to a level playing field in the internal market where consumers and other users of financial services have fair access to financial services and products; and
 > (f) coordinating mystery shopping activities of competent authorities, if applicable.
 > 2. The Authority shall monitor new and existing financial activities and may adopt guidelines and recommendations with a view to promoting the safety and soundness of markets, and convergence and effectiveness of regulatory and supervisory practices.
-> 3. The Authority may also iss […truncated by emendrix: 2761 characters omitted…]
+> 3. The Authority may also iss […truncated by emendrix: 2762 characters omitted…]
 
 **INSERTED · Art. 9a — No action letters** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -919,16 +929,17 @@ Paragraphs 6 and 7 are reworded with minor phrasing changes, such as referencing
 
 *amended by* `32019R2175`
 
-Article 17a is a newly added provision setting up dedicated channels through which the Authority receives and handles reports of actual or potential breaches, abuse of law, or non-application of Union law from natural or legal persons. [Art. 17a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17a)
+This is a new article establishing that the Authority must maintain dedicated channels for receiving and handling reports of actual or potential breaches, abuse of law, or non-application of Union law. [Art. 17a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17a)
 
-It also states that persons reporting through these channels are to be protected against retaliation in line with Directive (EU) 2019/1937 where applicable, and that the Authority is to allow anonymous or confidential and safe submission of information and to give feedback to the reporting person where the information shows evidence or significant indications of a material breach. [Art. 17a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17a)
+It also provides that persons reporting through those channels are to be protected against retaliation in line with Directive (EU) 2019/1937 where applicable, and that submissions may be made anonymously, confidentially and safely, with feedback given where the information shows evidence or significant indications of a material breach. [Art. 17a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_17a)
 
 *after* (`02010R1095-20200101`)
 
 > Article 17a
 > Protection of reporting persons
 > 1. The Authority shall have in place dedicated reporting channels for receiving and handling information provided by a natural or legal person reporting on actual or potential breaches, abuse of law, or non-application of Union law.
-> 2. The natural or legal persons reporting through those channels shall be protected against retaliation in accordance with Directive (EU) 2019/1937 of the European Parliament and of the CouncilDirective (EU) 2019/1937 of the European Parliament and of the Council of 23 October 2019 on the protection of persons who report breaches of Union law (OJ L 305, 26.11.2019, p. 17)., where applicable.
+> 2. The natural or legal persons reporting through those channels shall be protected against retaliation in accordance with Directive (EU) 2019/1937 of the European Parliament and of the Council
+> Directive (EU) 2019/1937 of the European Parliament and of the Council of 23 October 2019 on the protection of persons who report breaches of Union law (OJ L 305, 26.11.2019, p. 17)., where applicable.
 > 3. The Authority shall ensure that all information may be submitted anonymously or confidentially, and safely. Where the Authority deems that the submitted information contains evidence or significant indications of a material breach, it shall provide feedback to the reporting person.
 
 **MODIFIED · Art. 18 — Action in emergency situations** · applies from: unchanged
@@ -1335,11 +1346,11 @@ Paragraph 5 replaces the reference to a 'competent national supervisory authorit
 
 *within* `AR 37 PA 2 ALN 1`, `AR 37 PA 2 ALN 1 PTA (a)`, `AR 37 PA 2 ALN 1 PTA (b)`, `AR 37 PA 2 ALN 1 PTA (c)`, `AR 37 PA 3 ALN 1`, `AR 37 PA 3a`, `AR 37 PA 4 ALN 1`, `AR 37 PA 5 ALN 1`, `AR 37 PA 5 ALN 2`, `AR 37 PA 5 ALN 3`, `AR 37 PA 7 ALN 1` · *amended by* `32019R2175`
 
-The composition of the Securities and Markets Stakeholder Group is restructured from a general balanced-proportion description with a minimum of five independent academics and ten financial-market-participant members into a fixed breakdown of thirteen financial market participant members, thirteen members representing employees, consumers, users of financial services and SMEs, and four independent top-ranking academics. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_37)
+The composition of the Securities and Markets Stakeholder Group changed from a description of 30 members representing categories in balanced proportions, with at least five independent academics and ten representing financial market participants, to a fixed breakdown of 13 members representing financial market participants, 13 members representing employees, consumers, users and SMEs, and four independent top-ranking academics. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_37)
 
-The appointment process now requires an open and transparent selection procedure, adds a requirement to reflect diversity of the securities and markets sector and to select members according to qualifications, skills, knowledge and expertise, and a new paragraph 3a introduces an elected Chair serving a two-year term who may be invited by the European Parliament to make statements and answer questions. [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_37)
+The appointment process now refers to an open and transparent selection procedure and requires selection according to qualifications, skills, knowledge and expertise, and adds a new provision on electing a Chair for a two-year term who may be invited to speak before the European Parliament, whereas the earlier text only referenced proposals from stakeholders without a Chair mechanism. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_37)
 
-The member term is extended from two-and-a-half years to four years, compensation for non-profit representatives is now tied to Staff Regulations reimbursement rates, and the Group's output is described as advice rather than opinions and advice, with provisions added for separate advice by dissenting members, joint advice with other Stakeholder Groups, and publication that includes information on how advice and consultation results were taken into account. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_37)
+The term of service for members was lengthened from two-and-a-half years to four years, compensation rules were expanded to reference specific Staff Regulations provisions, and the group's output was redescribed from opinions and advice to advice with provision for separate advice and joint advice with other stakeholder groups, with publication obligations extended to cover separate advice and information on how advice was taken into account. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_37)
 
 *before* (`02010R1095-20140523`)
 
@@ -1360,7 +1371,7 @@ The member term is extended from two-and-a-half years to four years, compensatio
 > (a) 13 members representing, in balanced proportions, financial market participants operating in the Union;
 > (b) 13 members representing employees’ representatives of financial market participants operating in the Union, consumers, users of financial services and representatives of SMEs; and
 > (c) four members who are independent top-ranking academics.
-> 3. The members of the Securities and Markets Stakeholder Group shall be appointed by the Board of Supervisors, following an open and transparent selection procedure. In making its decision, the Board of Supervisors shall, to the extent po […truncated by emendrix: 2988 characters omitted…]
+> 3. The members of the Securities and Markets Stakeholder Group shall be appointed by the Board of Supervisors, following an open and transparent selection procedure. In making its decision, the Board of Supervisors shall, to the extent po […truncated by emendrix: 2989 characters omitted…]
 
 **MODIFIED · Art. 39 — Decision-making procedures** · applies from: unchanged
 
@@ -2016,17 +2027,18 @@ A new Article 60a is added, allowing any natural or legal person to send reasone
 
 *within* `AR 62 PA 1 ALN 1`, `AR 62 PA 1 ALN 1 PTA (c)`, `AR 62 PA 1 ALN 1 PTA (d)`, `AR 62 PA 1 ALN 1 PTA (e)` · *dates* -2002-06-25 +2018-07-18 · *amended by* `32019R2175`
 
-The reference for the Authority's status as a European body now points to Article 70 of Regulation (EU, Euratom) 2018/1046 of 18 July 2018 instead of Article 185 of the earlier Financial Regulation of 25 June 2002. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_62)
+The reference to the source of the Authority's status as a European body is changed from Article 185 of Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 to Article 70 of Regulation (EU, Euratom) 2018/1046 of 18 July 2018, with the corresponding Financial Regulation citation updated accordingly. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_62)
 
-The list of revenue sources in paragraph 1 has been expanded to add voluntary contributions from Member States or observers and agreed charges for publications, training, or other requested services, alongside the existing contribution, subsidy and fee categories. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_62)
+Point (c) is retained but now ends with a semicolon instead of a full stop, and two new points are added listing voluntary contributions from Member States or observers as point (d) and agreed charges for publications, training and other specifically requested services as point (e). [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_62)
 
-A new paragraph has been added stating that such voluntary contributions are not accepted if acceptance would cast doubt on the Authority's independence and impartiality, while contributions compensating for delegated tasks are not treated as casting such doubt. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_62)
+A new closing passage is added stating that voluntary contributions referred to in point (d) shall not be accepted if acceptance would cast doubt on the independence and impartiality of the Authority, while contributions compensating for the cost of delegated tasks shall not be considered to cast doubt on that independence. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_62)
 
 *before* (`02010R1095-20140523`)
 
 > Article 62
 > Budget of the Authority
-> 1. The revenues of the Authority, a European body in accordance with Article 185 of Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 on the Financial Regulation applicable to the general budget of the European CommunitiesOJ L 248, 16.9.2002, p. 1. (hereinafter the Financial Regulation), shall consist, in particular, of any combination of the following:
+> 1. The revenues of the Authority, a European body in accordance with Article 185 of Council Regulation (EC, Euratom) No 1605/2002 of 25 June 2002 on the Financial Regulation applicable to the general budget of the European Communities
+> OJ L 248, 16.9.2002, p. 1. (hereinafter the Financial Regulation), shall consist, in particular, of any combination of the following:
 > (a) obligatory contributions from the national public authorities competent for the supervision of financial market participants which shall be made in accordance with a formula based on the weighting of votes set out in Article 3(3) of Protocol (No 36) on transitional provisions. For the purposes of this Article, Article 3(3) of Protocol (No 36) on transitional provisions shall continue to apply beyond the deadline of 31 October 2014 therein established;
 > (b) a subsidy from the Union, entered in the General Budget of the European Union (Commission Section);
 > (c) any fees paid to the Authority in the cases specified in the relevant instruments of Union law.
@@ -2038,12 +2050,13 @@ A new paragraph has been added stating that such voluntary contributions are not
 
 > Article 62
 > Budget of the Authority
-> 1. The revenues of the Authority, a European body in accordance with Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the CouncilRegulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1). (the Financial Regulation), shall consist, in particular, of any combination of the following:
+> 1. The revenues of the Authority, a European body in accordance with Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council
+> Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1). (the Financial Regulation), shall consist, in particular, of any combination of the following:
 > (a) obligatory contributions from the national public authorities competent for the supervision of financial market participants which shall be made in accordance with a formula based on the weighting of votes set out in Article 3(3) of Protocol (No 36) on transitional provisions. For the purposes of this Article, Article 3(3) of Protocol (No 36) on transitional provisions shall continue to apply beyond the deadline of 31 October 2014 therein established;
 > (b) a subsidy from the Union, entered in the General Budget of the European Union (Commission Section);
 > (c) any fees paid to the Authority in the cases specified in the relevant instruments of Union law;
 > (d) any voluntary contribution from Member States or observers;
-> (e) agreed charges for publicatio […truncated by emendrix: 966 characters omitted…]
+> (e) agreed charges for publicati […truncated by emendrix: 967 characters omitted…]
 
 **MODIFIED · Art. 63 — Establishment of the budget** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -2115,27 +2128,29 @@ The publication of final accounts now specifies publication in the Official Jour
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The reference to the framework Financial Regulation that the Authority's financial rules may not depart from has been changed from Commission Regulation (EC, Euratom) No 2343/2002 of 19 November 2002 to Commission Delegated Regulation (EU) 2019/715 of 18 December 2018. [Art. 65, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_65) [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_65)
+The provision now identifies Commission Delegated Regulation (EU) 2019/715 of 18 December 2018, on the framework financial regulation for bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046, as the instrument that the Authority's financial rules may not depart from, replacing the earlier reference to Commission Regulation (EC, Euratom) No 2343/2002 of 19 November 2002. [Art. 65, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_65) [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_65)
 
-The rest of the provision, including the roles of the Management Board and the Commission and the exception for specific operational needs, reads the same in both versions. [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_65)
+The rest of the article, including the requirement that the Management Board adopt the rules after consulting the Commission and the exception for specific operational needs with the Commission's prior agreement, remains worded the same. [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_65)
 
 *before* (`02010R1095-20140523`)
 
 > Article 65
 > Financial rules
-> The financial rules applicable to the Authority shall be adopted by the Management Board after consulting the Commission. Those rules may not depart from Commission Regulation (EC, Euratom) No 2343/2002 of 19 November 2002 on the framework Financial Regulation for the bodies referred to in Article 185 of Council Regulation (EC, Euratom) No 1605/2002 on the Financial Regulation applicable to the general budget of the European CommunitiesOJ L 357, 31.12.2002, p. 72. unless the specific operational needs for the functioning of the Authority so require and only with the prior agreement of the Commission.
+> The financial rules applicable to the Authority shall be adopted by the Management Board after consulting the Commission. Those rules may not depart from Commission Regulation (EC, Euratom) No 2343/2002 of 19 November 2002 on the framework Financial Regulation for the bodies referred to in Article 185 of Council Regulation (EC, Euratom) No 1605/2002 on the Financial Regulation applicable to the general budget of the European Communities
+> OJ L 357, 31.12.2002, p. 72. unless the specific operational needs for the functioning of the Authority so require and only with the prior agreement of the Commission.
 
 *after* (`02010R1095-20200101`)
 
 > Article 65
 > Financial rules
-> The financial rules applicable to the Authority shall be adopted by the Management Board after consulting the Commission. Those rules may not depart from Commission Delegated Regulation (EU) 2019/715Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (OJ L 122, 10.5.2019, p. 1). unless the specific operational needs for the functioning of the Authority so require and only with the prior agreement of the Commission.
+> The financial rules applicable to the Authority shall be adopted by the Management Board after consulting the Commission. Those rules may not depart from Commission Delegated Regulation (EU) 2019/715
+> Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (OJ L 122, 10.5.2019, p. 1). unless the specific operational needs for the functioning of the Authority so require and only with the prior agreement of the Commission.
 
 **MODIFIED · Art. 66 — Anti-fraud measures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 66 PA 1 ALN 1` · *dates* +2013-09-11 · *amended by* `32019R2175`
 
-Paragraph 1 now refers to Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013, concerning OLAF investigations and repealing Regulation (EC) No 1073/1999 and Council Regulation (Euratom) No 1074/1999, instead of the previously cited Regulation (EC) No 1073/1999. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_66)
+Paragraph 1 now refers to Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council, concerning investigations conducted by OLAF and repealing Regulation (EC) No 1073/1999 and Council Regulation (Euratom) No 1074/1999, in place of the previous reference to Regulation (EC) No 1073/1999. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_66)
 
 Paragraphs 2 and 3 remain unchanged in wording between the two versions. [Art. 66, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_66) [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_66)
 
@@ -2151,7 +2166,8 @@ Paragraphs 2 and 3 remain unchanged in wording between the two versions. [Art. 6
 
 > Article 66
 > Anti-fraud measures
-> 1. For the purposes of combating fraud, corruption and any other illegal activity, Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the CouncilRegulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1). shall apply to the Authority without any restriction.
+> 1. For the purposes of combating fraud, corruption and any other illegal activity, Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council
+> Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council of 11 September 2013 concerning investigations conducted by the European Anti-Fraud Office (OLAF) and repealing Regulation (EC) No 1073/1999 of the European Parliament and of the Council and Council Regulation (Euratom) No 1074/1999 (OJ L 248, 18.9.2013, p. 1). shall apply to the Authority without any restriction.
 > 2. The Authority shall accede to the Interinstitutional Agreement concerning internal investigations by OLAF and shall immediately adopt appropriate provisions for all staff of the Authority.
 > 3. The funding decisions and the agreements and the implementing instruments resulting from them shall explicitly stipulate that the Court of Auditors and OLAF may, if need be, carry out on-the-spot checks on the beneficiaries of monies disbursed by the Authority as well as on the staff responsible for allocating these monies.
 
@@ -2159,11 +2175,11 @@ Paragraphs 2 and 3 remain unchanged in wording between the two versions. [Art. 6
 
 *within* `AR 70 PA 1 ALN 1`, `AR 70 PA 2 ALN 1`, `AR 70 PA 2a`, `AR 70 PA 3 ALN 1`, `AR 70 PA 3 ALN 2`, `AR 70 PA 4 ALN 1` · *dates* -2001-11-29 +2015-03-13 · *amended by* `32019R2175`
 
-Paragraph 1 no longer names the Management Board or the Executive Director among those bound by professional secrecy, and drops the sentences on Article 16 of the Staff Regulations, post-service duties, and outside influence on staff, while paragraph 2 now refers to competent authorities and legislative acts rather than national supervisory authorities and acts. [Art. 70, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_70) [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_70)
+Paragraph 1 no longer names the Management Board or the Executive Director among those bound by professional secrecy, and it drops the sentences on Article 16 of the Staff Regulations, post-service discretion duties, and the prohibition on outside bodies seeking to influence staff. [Art. 70, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_70) [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_70)
 
-A new paragraph 2a extends equivalent professional secrecy requirements to individuals authorised or appointed by the Management Board, Board of Supervisors or competent authorities to perform Authority-related services, and to observers attending meetings of those bodies. [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_70)
+A new paragraph 2a extends equivalent professional secrecy requirements to individuals providing services to the Authority and to observers attending Management Board and Board of Supervisors meetings, a category not present before, while paragraphs 2 and 3 replace references to national supervisory authorities with references to competent authorities and paragraph 2 now refers to legislative acts rather than acts referred to in Article 1(2). [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_70)
 
-Paragraph 3 replaces references to national supervisory authorities with competent authorities, and paragraph 4 replaces the reference to Commission Decision 2001/844/EC/ECSC, Euratom of 29 November 2001 with a reference to Commission Decision (EU, Euratom) 2015/444 of 13 March 2015. [Art. 70, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_70) [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_70)
+Paragraph 4 now points to Commission Decision (EU, Euratom) 2015/444 of 13 March 2015 on security rules for protecting EU classified information, replacing the earlier reference to Commission Decision 2001/844/EC/ECSC, Euratom of 29 November 2001. [Art. 70, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_70) [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_70)
 
 *before* (`02010R1095-20140523`)
 
@@ -2174,7 +2190,7 @@ Paragraph 3 replaces references to national supervisory authorities with compete
 > In accordance with the Staff Regulations, the staff shall, after leaving service, continue to be bound by the duty to behave with integrity and discretion as regards the acceptance of certain appointments or benefits.
 > Neither Member States, the Union institutions or bodies, nor any other public or private body shall seek to influence staff members of the Authority in the performance of their tasks.
 > 2. Without prejudice to cases covered by criminal law, any confidential information received by persons referred to in paragraph 1 whilst performing their duties may not be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial market participants cannot be identified.
-> Moreover, the obligation under paragraph 1 and the first subparagraph of this paragraph shall not prevent the Authority and the national supervisory authorities from using the information for the enforcement […truncated by emendrix: 782 characters omitted…]
+> Moreover, the obligation under paragraph 1 and the first subparagraph of this paragraph shall not prevent the Authority and the national supervisory authorities from using the information for the enforcement […truncated by emendrix: 783 characters omitted…]
 
 *after* (`02010R1095-20200101`)
 
@@ -2183,15 +2199,15 @@ Paragraph 3 replaces references to national supervisory authorities with compete
 > 1. Members of the Board of Supervisors, and all members of the staff of the Authority, including officials seconded by Member States on a temporary basis, and all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased.
 > 2. Without prejudice to cases covered by criminal law, any confidential information received by persons referred to in paragraph 1 whilst performing their duties may not be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial market participants cannot be identified.
 > The obligation under paragraph 1 of this Article and the first subparagraph of this paragraph shall not prevent the Authority and the competent authorities from using the information for the enforcement of the legislative acts referred to in Article 1(2), and in particular for legal procedures for the adoption of decisions.
-> 2a. The Management Board and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the […truncated by emendrix: 1015 characters omitted…]
+> 2a. The Management Board and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the […truncated by emendrix: 1016 characters omitted…]
 
 **MODIFIED · Art. 71 — Data protection** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 71 ALN 1` · *dates* +2018-10-23 · *amended by* `32019R2175`
 
-The reference to Directive 95/46/EC for Member States' processing of personal data has been replaced with a reference to Regulation (EU) 2016/679. [Art. 71, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_71)
+The reference to Directive 95/46/EC governing Member States' processing of personal data was replaced with a reference to Regulation (EU) 2016/679. [Art. 71, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20140523#art_71) [Art. 71, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_71)
 
-The reference to Regulation (EC) No 45/2001 for the Authority's processing of personal data has been replaced with a reference to Regulation (EU) 2018/1725 of the European Parliament and of the Council, with an accompanying citation of that regulation's full title and Official Journal publication details. [Art. 71, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_71)
+The reference to Regulation (EC) No 45/2001 governing the Authority's processing of personal data was replaced with a reference to Regulation (EU) 2018/1725, with an accompanying footnote-style description of that regulation and its repeal of Regulation (EC) No 45/2001 and Decision No 1247/2002/EC. [Art. 71, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_71)
 
 *before* (`02010R1095-20140523`)
 
@@ -2203,7 +2219,8 @@ The reference to Regulation (EC) No 45/2001 for the Authority's processing of pe
 
 > Article 71
 > Data protection
-> This Regulation shall be without prejudice to the obligations of Member States relating to their processing of personal data under Regulation (EU) 2016/679 or the obligations of the Authority relating to its processing of personal data under Regulation (EU) 2018/1725 of the European Parliament and of the CouncilRegulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39). when fulfilling its responsibilities.
+> This Regulation shall be without prejudice to the obligations of Member States relating to their processing of personal data under Regulation (EU) 2016/679 or the obligations of the Authority relating to its processing of personal data under Regulation (EU) 2018/1725 of the European Parliament and of the Council
+> Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39). when fulfilling its responsibilities.
 
 **MODIFIED · Art. 72 — Access to documents** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
