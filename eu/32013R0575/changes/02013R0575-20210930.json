@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 61,
     "substantive": 61,
     "date_only": 0,
+    "textless": 0,
     "disputed": 56,
     "quoted": 0,
     "unexplained": 0
@@ -73,7 +74,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -191,7 +192,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -278,7 +279,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -364,7 +365,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -451,7 +452,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -556,7 +557,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -663,7 +664,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -800,7 +801,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -887,7 +888,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1006,7 +1007,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1124,7 +1125,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1229,7 +1230,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1315,7 +1316,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1401,7 +1402,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1488,7 +1489,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1608,7 +1609,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1943,7 +1944,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2414,7 +2415,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2658,7 +2659,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2744,7 +2745,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2836,7 +2837,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2986,7 +2987,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3113,7 +3114,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3239,7 +3240,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3371,7 +3372,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3471,7 +3472,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3584,7 +3585,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3689,7 +3690,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3783,7 +3784,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3912,7 +3913,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4058,7 +4059,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4152,7 +4153,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4252,7 +4253,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4346,7 +4347,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4451,7 +4452,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4537,7 +4538,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4623,7 +4624,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4728,7 +4729,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4820,7 +4821,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -4914,7 +4915,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5051,7 +5052,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5137,7 +5138,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5224,7 +5225,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5342,7 +5343,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5429,7 +5430,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5547,7 +5548,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5666,7 +5667,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5771,7 +5772,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5859,7 +5860,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -5945,7 +5946,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -6031,7 +6032,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -6117,7 +6118,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -6203,7 +6204,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -6291,7 +6292,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -6396,7 +6397,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0424, 1.000 of its instruction clauses read",
+            "detail": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -6862,7 +6863,7 @@
           "AR 325i",
           "AR 325q"
         ],
-        "note": "32021R0424, 1.000 of its instruction clauses read",
+        "note": "32021R0424, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
         "claims": [
           {
             "location": "AR 325e PA 2 PTA (a)",
@@ -8350,6 +8351,21 @@
         "schema_repairs": 1
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 61,
+      "repaired": 55,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
-  ]
+  ],
+  "evidence": []
 }

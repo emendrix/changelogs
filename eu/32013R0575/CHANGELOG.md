@@ -17291,7 +17291,7 @@ The only visible difference in Article 501(2)(1)(b) is the removal of a duplicat
 ### `02013R0575-20210629` → `02013R0575-20210930`
 
 - **Act** `eu:32013R0575` · **In force** 2021-09-30 · **Detected** 2026-08-13
-- **Touched** 61 provisions — 61 substantive · 0 date-only · **56 disputed**
+- **Touched** 61 provisions — 61 substantive · 0 date-only · 0 with no text · **56 disputed**
 - **Diff** 0 inserted · 61 modified · 0 deleted · 0 renumbered · 0 deferred · 666 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20210629` · `v2` = `02013R0575-20210930`
