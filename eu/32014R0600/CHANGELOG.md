@@ -120,7 +120,7 @@ Correspondingly, the list of paragraphs referenced in paragraph 5(b) as containi
 ### `02014R0600-20240328` → `02014R0600-20241204`
 
 - **Act** `eu:32014R0600` · **In force** 2024-12-04 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 94 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20240328` · `v2` = `02014R0600-20241204`
