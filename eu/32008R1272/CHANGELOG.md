@@ -6380,7 +6380,7 @@ The explanation of when the general hazard statement can be replaced now refers 
 ### `02008R1272-20131201` → `02008R1272-20150101`
 
 - **Act** `eu:32008R1272` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20131201` · `v2` = `02008R1272-20150101`
@@ -6643,11 +6643,9 @@ In section 2.3, the entry for skin sensitisation under Section 3.4 had a duplica
 
 *within* `AN VI SCT 3`
 
-Both versions list the same substances under entry 006-004-00-9 (calcium carbide), but the AFTER text adds a Note reference of 'T' in the Notes column that is absent in the BEFORE text. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VI)
+Both versions list the same long Table 3.1 of harmonised classification and labelling entries in Annex VI, but the after text adds further entries after the calcium carbide line, including a new row for thiram (ISO); tetramethylthiuram disulphide, and also adds a Note T marking to the calcium carbide entry that was absent before. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VI)
 
-The AFTER text continues with an additional entry, 006-005-00-4 (thiram), that does not appear in the visible portion of the BEFORE text. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VI)
-
-Both excerpts are truncated before the full extent of section 3's table entries can be compared, so no further differences beyond these visible changes can be described. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VI)
+Because both provided texts are truncated before the table concludes, only these additions up to the visible cut-off can be described, and any further differences beyond that point cannot be determined. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VI)
 
 *before* (`02008R1272-20131201`)
 
@@ -6669,7 +6667,7 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 >
 >
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1974858 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1974860 characters omitted…]
 
 *after* (`02008R1272-20150101`)
 
@@ -6682,7 +6680,7 @@ Both excerpts are truncated before the full extent of section 3's table entries 
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1964971 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1964972 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20150101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20131201 -->
