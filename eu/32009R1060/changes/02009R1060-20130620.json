@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -14,22 +14,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 14,
+    "inserted": 13,
     "modified": 37,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 51,
+    "touched_units": 50,
     "unchanged_units": 40,
-    "disputed": 47
+    "disputed": 46
   },
   "counts": {
-    "touched": 51,
-    "substantive": 51,
+    "touched": 50,
+    "substantive": 33,
     "date_only": 0,
-    "disputed": 47,
+    "textless": 17,
+    "disputed": 46,
     "quoted": 0,
-    "unexplained": 18
+    "unexplained": 17
   },
   "changes": [
     {
@@ -482,7 +483,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -491,8 +492,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -540,7 +541,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -549,8 +550,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -755,7 +756,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -764,8 +765,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -813,7 +814,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -822,8 +823,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1020,7 +1021,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -1029,8 +1030,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1078,7 +1079,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -1087,8 +1088,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1580,7 +1581,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -1589,8 +1590,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1638,7 +1639,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -1647,8 +1648,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2678,7 +2679,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -2687,8 +2688,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2849,7 +2850,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -2858,66 +2859,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20130620",
-          "location": "AR 11a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R0462",
-            "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "57 annotations in (2011-07-21, 2013-06-20]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (15)",
-            "change_types": [
-              "INSERTED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -3079,7 +3022,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -3088,8 +3031,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -3250,7 +3193,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -3259,8 +3202,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -3434,7 +3377,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -3443,8 +3386,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -3650,7 +3593,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -3659,8 +3602,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -3834,7 +3777,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -3843,8 +3786,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -4137,7 +4080,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -4146,8 +4089,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -4715,7 +4658,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -4724,8 +4667,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -4808,7 +4751,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -4945,7 +4888,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -5091,7 +5034,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32013R0462, 0.965 of its instruction clauses read",
+            "detail": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
             "change_types": []
           }
         },
@@ -5906,7 +5849,6 @@
           "AR 8d",
           "AR 10",
           "AR 11",
-          "AR 11a",
           "AR 14",
           "AR 18",
           "AR 19",
@@ -5919,7 +5861,7 @@
           "AR 39a",
           "AR 39b"
         ],
-        "note": "32013R0462, 0.965 of its instruction clauses read",
+        "note": "32013R0462, 0.965 of its instruction clauses read, 1 dated outside the window, 54 undated and claimed",
         "claims": [
           {
             "location": "AR 1",
@@ -6285,17 +6227,6 @@
             }
           },
           {
-            "location": "AR 11a",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (15)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32013R0462",
-              "display_name": "Regulation (EU) No 462/2013 of the European Parliament and of the Council of 21 May 2013 amending Regulation (EC) No 1060/2009 on credit rating agencies  Text with EEA relevance"
-            }
-          },
-          {
             "location": "AR 14 PA 3",
             "change_type": "INSERTED",
             "in_force": null,
@@ -6545,22 +6476,22 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 33,
-        "right_units": 31,
+        "right_units": 30,
         "shared": 30,
         "precision": 0.9090909090909091,
-        "recall": 0.967741935483871,
-        "f1": 0.9374999999999999,
+        "recall": 1.0,
+        "f1": 0.9523809523809523,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 22,
-        "right_units": 31,
+        "right_units": 30,
         "shared": 4,
         "precision": 0.18181818181818182,
-        "recall": 0.12903225806451613,
-        "f1": 0.1509433962264151,
+        "recall": 0.13333333333333333,
+        "f1": 0.15384615384615383,
         "kind_mismatches": 0
       }
     ],
@@ -7181,25 +7112,6 @@
         ]
       },
       {
-        "unit": "AR 11a",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 14",
         "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
         "observed_by": [
@@ -7632,7 +7544,6 @@
       "AR 6.4",
       "AR 10.5",
       "AR 11.2",
-      "AR 11a",
       "AR 14.3",
       "AR 18.2",
       "AR 19.1",
@@ -7702,6 +7613,21 @@
         "schema_repairs": 1
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 51,
+      "repaired": 21,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
-  ]
+  ],
+  "evidence": []
 }
