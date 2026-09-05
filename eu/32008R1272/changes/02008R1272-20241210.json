@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -21,13 +21,14 @@
     "deferred": 0,
     "touched_units": 40,
     "unchanged_units": 38,
-    "disputed": 21
+    "disputed": 22
   },
   "counts": {
     "touched": 40,
-    "substantive": 40,
+    "substantive": 37,
     "date_only": 0,
-    "disputed": 21,
+    "textless": 3,
+    "disputed": 22,
     "quoted": 0,
     "unexplained": 3
   },
@@ -52,13 +53,7 @@
           "AR 1 PA 1 ALN 1 PTA (e)",
           "AR 1 PA 1 ALN 1 PTA (f)"
         ],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R2865",
-            "display_name": "Regulation (EU) 2024/2865 of the European Parliament and of the Council of 23 October 2024 amending Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (Text with EEA relevance)"
-          }
-        ],
+        "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
         "in_force": null,
@@ -79,11 +74,9 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (1)",
-            "change_types": [
-              "MODIFIED"
-            ]
+            "status": "absent",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 3 dated outside the window, 74 undated and claimed",
+            "change_types": []
           }
         },
         "disputed": true
@@ -289,14 +282,12 @@
             ]
           },
           "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (3) (a); AR 001 (3) (b)",
-            "change_types": [
-              "MODIFIED"
-            ]
+            "status": "absent",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 3 dated outside the window, 74 undated and claimed",
+            "change_types": []
           }
         },
-        "disputed": false
+        "disputed": true
       },
       "outcome": "passed",
       "sentences": [
@@ -2020,7 +2011,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2078,7 +2069,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2136,7 +2127,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -4541,7 +4532,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32024R2865, 0.951 of its instruction clauses read",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 3 dated outside the window, 74 undated and claimed",
             "change_types": []
           }
         },
@@ -4679,7 +4670,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32024R2865, 0.951 of its instruction clauses read",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 3 dated outside the window, 74 undated and claimed",
             "change_types": []
           }
         },
@@ -4793,7 +4784,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32024R2865, 0.951 of its instruction clauses read",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 3 dated outside the window, 74 undated and claimed",
             "change_types": []
           }
         },
@@ -4939,7 +4930,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32024R2865, 0.951 of its instruction clauses read",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 3 dated outside the window, 74 undated and claimed",
             "change_types": []
           }
         },
@@ -5728,9 +5719,7 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 1",
           "AR 2",
-          "AR 4",
           "AR 5",
           "AR 6",
           "AR 9",
@@ -5765,46 +5754,13 @@
           "AR 54a",
           "AR 61"
         ],
-        "note": "32024R2865, 0.951 of its instruction clauses read",
+        "note": "32024R2865, 0.951 of its instruction clauses read, 3 dated outside the window, 74 undated and claimed",
         "claims": [
-          {
-            "location": "AR 1 PA 1",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (1)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2865",
-              "display_name": "Regulation (EU) 2024/2865 of the European Parliament and of the Council of 23 October 2024 amending Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (Text with EEA relevance)"
-            }
-          },
           {
             "location": "AR 2",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001 (2)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2865",
-              "display_name": "Regulation (EU) 2024/2865 of the European Parliament and of the Council of 23 October 2024 amending Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 4 PA 3",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (3) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2865",
-              "display_name": "Regulation (EU) 2024/2865 of the European Parliament and of the Council of 23 October 2024 amending Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 4 PA 11",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (3) (b)",
             "amending_act": {
               "corpus": "eu",
               "key": "32024R2865",
@@ -6633,35 +6589,54 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 37,
-        "right_units": 36,
-        "shared": 33,
-        "precision": 0.8918918918918919,
-        "recall": 0.9166666666666666,
-        "f1": 0.9041095890410958,
+        "right_units": 34,
+        "shared": 31,
+        "precision": 0.8378378378378378,
+        "recall": 0.9117647058823529,
+        "f1": 0.8732394366197184,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 22,
-        "right_units": 36,
-        "shared": 20,
-        "precision": 0.9090909090909091,
-        "recall": 0.5555555555555556,
-        "f1": 0.6896551724137931,
+        "right_units": 34,
+        "shared": 19,
+        "precision": 0.8636363636363636,
+        "recall": 0.5588235294117647,
+        "f1": 0.6785714285714287,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
       {
         "unit": "AR 1",
-        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
+        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
         "observed_by": [
-          "structural_diff",
-          "instruction_parse"
+          "structural_diff"
         ],
         "absent_from": [
+          "corpus_metadata",
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 4",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
           "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
         ],
         "kinds": [
           [
@@ -6671,7 +6646,7 @@
             ]
           ],
           [
-            "instruction_parse",
+            "corpus_metadata",
             [
               "MODIFIED"
             ]
@@ -7192,5 +7167,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 4
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 40,
+      "repaired": 9,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }

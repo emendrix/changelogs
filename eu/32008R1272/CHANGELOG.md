@@ -1661,7 +1661,7 @@ Section 3.6's heading changes from referring to a mixture's composition conformi
 ### `02008R1272-20231201` → `02008R1272-20241210`
 
 - **Act** `eu:32008R1272` · **In force** 2024-12-10 · **Detected** 2026-09-04
-- **Touched** 40 provisions — 40 substantive · 0 date-only · **21 disputed**
+- **Touched** 40 provisions — 37 substantive · 0 date-only · 3 with no text · **22 disputed**
 - **Diff** 4 inserted · 36 modified · 0 deleted · 0 renumbered · 0 deferred · 38 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20231201` · `v2` = `02008R1272-20241210`
@@ -1670,9 +1670,9 @@ Section 3.6's heading changes from referring to a mixture's composition conformi
 
 **MODIFIED · Art. 1 — Purpose and scope** · applies from: unchanged
 
-*within* `AR 1 PA 1 ALN 1 PTA (e)`, `AR 1 PA 1 ALN 1 PTA (f)` · *amended by* `32024R2865`
+*within* `AR 1 PA 1 ALN 1 PTA (e)`, `AR 1 PA 1 ALN 1 PTA (f)`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
 Point (e) now ends with a semicolon instead of a full stop, and a new point (f) is added imposing an obligation on downstream users, importers and distributors referred to in Article 45(1b) and (1c) to submit information relevant to an adequate emergency health response to appointed bodies in accordance with Annex VIII. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_1)
 
@@ -1750,6 +1750,8 @@ The prior version ended its list of definitions at intermediate packaging, with 
 **MODIFIED · Art. 4 — General obligations to classify, label and package** · applies from: unchanged
 
 *within* `AR 4 PA 3 ALN 1`, `AR 4 PA 3 ALN 2`, `AR 4 PA 3 ALN 3` · *amended by* `32024R2865`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 3 now states that the exemption from Title II classification for hazard classes or differentiations covered by a harmonised entry in Part 3 of Annex VI also extends to forms or physical states covered by that entry. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#art_4)
 
@@ -2170,7 +2172,7 @@ The text on label elements standing out from the background now specifies that t
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2180,7 +2182,7 @@ The text on label elements standing out from the background now specifies that t
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2190,7 +2192,7 @@ The text on label elements standing out from the background now specifies that t
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
