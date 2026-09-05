@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -15,21 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 4,
-    "modified": 23,
+    "modified": 22,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 27,
+    "touched_units": 26,
     "unchanged_units": 225,
-    "disputed": 9
+    "disputed": 8
   },
   "counts": {
-    "touched": 27,
-    "substantive": 27,
+    "touched": 26,
+    "substantive": 21,
     "date_only": 0,
-    "disputed": 9,
+    "textless": 5,
+    "disputed": 8,
     "quoted": 0,
-    "unexplained": 6
+    "unexplained": 5
   },
   "changes": [
     {
@@ -169,7 +170,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -287,64 +289,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20180101",
-          "location": "AR 35"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R2393",
-            "display_name": "Regulation (EU) 2017/2393 of the European Parliament and of the Council of 13 December 2017 amending Regulations (EU) No 1305/2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD), (EU) No 1306/2013 on the financing, management and monitoring of the common agricultural policy, (EU) No 1307/2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy, (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products and (EU) No 652/2014 laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "53 annotations in (2017-08-01, 2018-01-01]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 004 (3)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -426,7 +372,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -521,7 +468,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -638,7 +586,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -774,7 +723,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -926,7 +876,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1021,7 +972,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1146,7 +1098,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1301,7 +1254,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1440,7 +1394,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1535,7 +1490,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1667,7 +1623,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1815,7 +1772,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1874,7 +1832,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1922,7 +1881,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32017R2393, 0.979 of its instruction clauses read",
+            "detail": "32017R2393, 0.979 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1931,7 +1890,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1979,7 +1939,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32017R2393, 0.979 of its instruction clauses read",
+            "detail": "32017R2393, 0.979 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -1988,7 +1948,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2086,7 +2047,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2181,7 +2143,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2343,7 +2306,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2447,7 +2411,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2561,7 +2526,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2620,7 +2586,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2668,7 +2635,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32017R2393, 0.979 of its instruction clauses read",
+            "detail": "32017R2393, 0.979 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2677,7 +2644,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2728,7 +2696,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32017R2393, 0.979 of its instruction clauses read",
+            "detail": "32017R2393, 0.979 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2808,7 +2776,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2859,7 +2828,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32017R2393, 0.979 of its instruction clauses read",
+            "detail": "32017R2393, 0.979 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2933,7 +2902,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -3597,7 +3567,6 @@
         "units": [
           "AR 33",
           "AR 34",
-          "AR 35",
           "AR 37",
           "AR 38",
           "AR 62",
@@ -3618,7 +3587,7 @@
           "AR 222",
           "AR 232"
         ],
-        "note": "32017R2393, 0.979 of its instruction clauses read",
+        "note": "32017R2393, 0.979 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
         "claims": [
           {
             "location": "AR 33 PA 1 PTA (f)",
@@ -3669,17 +3638,6 @@
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 004 (2)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32017R2393",
-              "display_name": "Regulation (EU) 2017/2393 of the European Parliament and of the Council of 13 December 2017 amending Regulations (EU) No 1305/2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD), (EU) No 1306/2013 on the financing, management and monitoring of the common agricultural policy, (EU) No 1307/2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy, (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products and (EU) No 652/2014 laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material"
-            }
-          },
-          {
-            "location": "AR 35",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 004 (3)",
             "amending_act": {
               "corpus": "eu",
               "key": "32017R2393",
@@ -4112,45 +4070,26 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 21,
-        "right_units": 22,
+        "right_units": 21,
         "shared": 19,
         "precision": 0.9047619047619048,
-        "recall": 0.8636363636363636,
-        "f1": 0.8837209302325582,
+        "recall": 0.9047619047619048,
+        "f1": 0.9047619047619048,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 25,
-        "right_units": 22,
+        "right_units": 21,
         "shared": 20,
         "precision": 0.8,
-        "recall": 0.9090909090909091,
-        "f1": 0.8510638297872342,
+        "recall": 0.9523809523809523,
+        "f1": 0.8695652173913043,
         "kind_mismatches": 1
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 35",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AR 169",
         "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
@@ -4335,7 +4274,6 @@
       }
     ],
     "metadata_only_units": [
-      "AR 35",
       "AR 169",
       "AR 170",
       "AR 171",
@@ -4354,6 +4292,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 6,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 131108,
       "output_tokens": 7247,
@@ -4373,5 +4312,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 27,
+      "repaired": 8,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }

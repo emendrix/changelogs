@@ -6337,9 +6337,9 @@ The after text adds a new paragraph 3 requiring Member States that grant such na
 ### `02013R1308-20170801` → `02013R1308-20180101`
 
 - **Act** `eu:32013R1308` · **In force** 2018-01-01 · **Detected** 2026-09-04
-- **Touched** 27 provisions — 27 substantive · 0 date-only · **9 disputed**
-- **Diff** 4 inserted · 23 modified · 0 deleted · 0 renumbered · 0 deferred · 225 unchanged
-- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Touched** 26 provisions — 21 substantive · 0 date-only · 5 with no text · **8 disputed**
+- **Diff** 4 inserted · 22 modified · 0 deleted · 0 renumbered · 0 deferred · 225 unchanged
+- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20170801` · `v2` = `02013R1308-20180101`
 
 ---
@@ -6417,16 +6417,6 @@ A new point (b) is added covering actions related to coaching of other producer 
 > 3. At the request of a producer organisation, the 50 % limit provided for in paragraph 1 shall be increased to 60 % for an operational programme or part of an operational programme satisfying at least one of the following conditions:
 > (a) it is submitted by several Union producer organisations operating in different Member States on transnational schemes;
 > (b) it is submitted by one or more producer organisations engaged in schemes operated on an interbran […truncated by emendrix: 2144 characters omitted…]
-
-**MODIFIED · Art. 35** · applies from: unknown
-
-*amended by* `32017R2393`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 37 — Delegated powers** · applies from: unchanged
 
@@ -6870,7 +6860,7 @@ Paragraph 5 is reworded so the derogation now refers to paragraphs 1 and 1a and 
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -6880,7 +6870,7 @@ Paragraph 5 is reworded so the derogation now refers to paragraphs 1 and 1a and 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -6890,7 +6880,7 @@ Paragraph 5 is reworded so the derogation now refers to paragraphs 1 and 1a and 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -7039,7 +7029,7 @@ The reference to associations of recognised producer organisations is also made 
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -7049,7 +7039,7 @@ The reference to associations of recognised producer organisations is also made 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
