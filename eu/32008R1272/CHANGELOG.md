@@ -8112,9 +8112,9 @@ In the row for N; R59, the entry under "This Regulation" changes from the code E
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-Both versions provided are truncated before the point where section 2.1.4(b) can be compared, so no substantive difference in that specific sub-provision is visible in the supplied excerpts. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
+Both versions of Annex I are provided in full but are cut off before reaching the end, so any difference specifically within section 2.1.4(b) cannot be identified from the visible text. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
 
-The visible portions of Annex I, including the surrounding sections 2 and 2.1, otherwise present the same wording and structure in both texts, differing mainly in spacing and layout of tables rather than in substantive content. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
+The portions of section 2.1 and its subsection 2.1.4 that are shown, including the explosives classification criteria and screening procedure text, appear identical in wording between the two texts as far as the material extends before truncation. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
 
 *before* (`32008R1272`)
 
@@ -8135,7 +8135,7 @@ The visible portions of Annex I, including the surrounding sections 2 and 2.1, o
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 284805 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 284823 characters omitted…]
 
 *after* (`02008R1272-20101201`)
 
@@ -8170,7 +8170,7 @@ The visible portions of Annex I, including the surrounding sections 2 and 2.1, o
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 286155 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 286177 characters omitted…]
 
 **MODIFIED · Annex II** · applies from: unknown
 
@@ -8188,11 +8188,11 @@ The visible portions of Annex I, including the surrounding sections 2 and 2.1, o
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-Across the visible portions of Annex III, the hazard statement codes, category descriptors and translated phrases for each language remain the same between the two versions, with formatting changes such as each language code and its statement now appearing on separate lines rather than run together. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III)
+The visible portions of Annex III sections 1 through 3 in both versions contain the same hazard statement codes, category descriptions and translations across all listed languages, including the Romanian entries which merely show diacritical mark rendering differences (e.g. ș/ț versus ş/ţ) rather than substantive wording changes. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III)
 
-A few Romanian-language entries change diacritics, for example replacing letters written with a cedilla-style comma below (ş, ţ) with the corresponding letters using a comma below (ș, ț), as seen in entries such as H224, H251, H252, H271, H280, H300, H301, H302, H304 and H314. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III)
+The formatting of entries also differs, with the AFTER text laying out the language code and its label on separate lines and adding blank lines between entries, whereas the BEFORE text presents them together on a single line without such spacing. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III)
 
-Because the supplied text is truncated before the end of the annex, only these formatting and Romanian spelling differences can be confirmed, and no conclusion can be drawn about any further changes beyond the cut-off point. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III)
+Both texts are truncated before their end, so no conclusion can be drawn about any differences that might appear in the portions not shown. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III)
 
 *before* (`32008R1272`)
 
@@ -8203,7 +8203,8 @@ Because the supplied text is truncated before the end of the annex, only these f
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -8255,6 +8256,7 @@ Because the supplied text is truncated before the end of the annex, only these f
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
 >
 > H200
+>
 > Language
 > 2.1 — Explosives, Unstable explosives
 >
@@ -8357,7 +8359,7 @@ Because the supplied text is truncated before the end of the annex, only these f
 > Explosive; mass explosion hazard.
 >
 > FR
-> Explosif; danger d'expl […truncated by emendrix: 141145 characters omitted…]
+> Explosif; danger d'exp […truncated by emendrix: 141146 characters omitted…]
 
 **MODIFIED · Annex IV — LIST OF PRECAUTIONARY STATEMENTS** · applies from: unchanged
 
@@ -8502,11 +8504,11 @@ Because both texts were cut short before their end, any further differences beyo
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The Table 3.1 entries in Part 3 were revised to add several new substance listings, such as isobutyllithium, and to change classification, hazard statement, pictogram and concentration-limit entries for existing substances including aluminium lithium hydride and dibutyltin hydrogen borate. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
+The table of hazardous substance entries in Part 3 has been revised, with some entries such as aluminium lithium hydride and dibutyltin hydrogen borate given different classification, labelling and specific concentration limit details, and new entries such as isobutyllithium and several boron and borate substances added. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
 
-Section 1.1.4.4 was altered only by removing a symbol reference in the description of entries not conforming between Table 3.1 and Table 3.2 for physical hazards, with the surrounding wording otherwise unchanged. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
+The introductory text of sections 1, 1.1 and 1.1.4.4 is substantively unchanged, with only formatting differences such as line breaks and spacing visible between the two versions. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
 
-The text shown is truncated before the end of Table 3.1 in both versions, so further differences within Part 3 beyond the point shown cannot be described. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
+Because both texts are truncated before the full extent of the Table 3.1 changes can be seen, only the differences shown above can be described. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
 
 *before* (`32008R1272`)
 
@@ -8519,7 +8521,7 @@ The text shown is truncated before the end of Table 3.1 in both versions, so fur
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1592333 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1592334 characters omitted…]
 
 *after* (`02008R1272-20101201`)
 
@@ -8541,7 +8543,7 @@ The text shown is truncated before the end of Table 3.1 in both versions, so fur
 >
 >
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968669 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968671 characters omitted…]
 
 **MODIFIED · Annex 6** · applies from: unknown
 
