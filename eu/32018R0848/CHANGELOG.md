@@ -543,7 +543,7 @@ The former separate certificate validity period entries under each product categ
 ### `02018R0848-20180614` → `02018R0848-20201114`
 
 - **Act** `eu:32018R0848` · **In force** 2020-11-14 · **Detected** 2026-09-04
-- **Touched** 11 provisions — 5 substantive · 6 date-only · **3 disputed**
+- **Touched** 11 provisions — 5 substantive · 6 date-only · 0 with no text · **3 disputed**
 - **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 6 deferred · 56 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02018R0848-20180614` · `v2` = `02018R0848-20201114`
