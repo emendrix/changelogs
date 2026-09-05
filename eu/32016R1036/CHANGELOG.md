@@ -471,7 +471,7 @@ The provision specifies that the delegation of power under Article 7(1) runs for
 ### `32016R1036` → `02016R1036-20171220`
 
 - **Act** `eu:32016R1036` · **In force** 2017-12-20 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 24 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R1036` · `v2` = `02016R1036-20171220`
