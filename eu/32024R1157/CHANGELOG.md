@@ -58,7 +58,7 @@ Point (f) of Article 44(2) now adds an exception for Switzerland to the prohibit
 ### `32024R1157` → `02024R1157-20250109`
 
 - **Act** `eu:32024R1157` · **In force** 2025-01-09 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **3 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 96 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32024R1157` · `v2` = `02024R1157-20250109`
