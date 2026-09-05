@@ -959,7 +959,7 @@ The article also designates the competent authority or ESMA as the relevant coll
 ### `02016R1011-20210213` → `02016R1011-20220101`
 
 - **Act** `eu:32016R1011` · **In force** 2022-01-01 · **Detected** 2026-08-13
-- **Touched** 35 provisions — 35 substantive · 0 date-only · **15 disputed**
+- **Touched** 35 provisions — 34 substantive · 0 date-only · 1 with no text · **15 disputed**
 - **Diff** 14 inserted · 21 modified · 0 deleted · 0 renumbered · 0 deferred · 50 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20210213` · `v2` = `02016R1011-20220101`
@@ -1892,7 +1892,7 @@ Paragraph 2 now groups the evidence power with Article 51(2) and Article 25(2) d
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20220101 -->
