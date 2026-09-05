@@ -1052,7 +1052,7 @@ The revised paragraph 2 also adds text requiring the Commission to draw up a rep
 ### `32014R0596` → `02014R0596-20160703`
 
 - **Act** `eu:32014R0596` · **In force** 2016-06-30, 2016-07-01 · **Detected** 2026-08-13
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **2 disputed**
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 35 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32014R0596` · `v2` = `02014R0596-20160703`
@@ -1065,7 +1065,7 @@ The revised paragraph 2 also adds text requiring the Commission to draw up a rep
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-In point (26)(d), the clause describing a legal person, trust or partnership whose managerial responsibilities are discharged by a specified person now separates the conditions of control, being set up for that person's benefit, and having substantially equivalent economic interests with the word "or" before each, rather than joining them with commas as in the earlier text. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_3)
+In point (d) of Article 3(1)(26), the phrase listing conditions for a legal person, trust or partnership to count as closely associated was changed by inserting the word "or" before "which is directly or indirectly controlled by such a person" and again before "which is set up for the benefit of such a person", turning the previously comma-separated list into a list joined by "or". [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_3)
 
 *before* (`32014R0596`)
 
@@ -1074,14 +1074,15 @@ In point (26)(d), the clause describing a legal person, trust or partnership who
 > 1. For the purposes of this Regulation, the following definitions apply:
 > (1) financial instrument means a financial instrument as defined in point (15) of Article 4(1) of Directive 2014/65/EU;
 > (2) investment firm means an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;
-> (3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;
+> (3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council
+> Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;
 > (4) financial institution means a financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;
 > (5) market operator means a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;
 > (6) regulated market means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;
 > (7) multilateral trading facility or MTF means a multilateral system as defined in point (22) of Article 4(1) of Directive 2014/65/EU;
 > (8) organised trading facility or OTF means a system or facility in the Union as defined in point (23) of Article 4(1) of Directive 2014/65/EU;
 > (9) accepted market practice means a specific market practice that is accepted by a competent authority in accordance with Article 13;
-> (10) tradin […truncated by emendrix: 9382 characters omitted…]
+> (10) tradi […truncated by emendrix: 9387 characters omitted…]
 
 *after* (`02014R0596-20160703`)
 
@@ -1090,24 +1091,25 @@ In point (26)(d), the clause describing a legal person, trust or partnership who
 > 1. For the purposes of this Regulation, the following definitions apply:
 > (1) financial instrument means a financial instrument as defined in point (15) of Article 4(1) of Directive 2014/65/EU;
 > (2) investment firm means an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;
-> (3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;
+> (3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council
+> Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;
 > (4) financial institution means a financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;
 > (5) market operator means a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;
 > (6) regulated market means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;
 > (7) multilateral trading facility or MTF means a multilateral system as defined in point (22) of Article 4(1) of Directive 2014/65/EU;
 > (8) organised trading facility or OTF means a system or facility in the Union as defined in point (23) of Article 4(1) of Directive 2014/65/EU;
 > (9) accepted market practice means a specific market practice that is accepted by a competent authority in accordance with Article 13;
-> (10) tradin […truncated by emendrix: 9388 characters omitted…]
+> (10) tradi […truncated by emendrix: 9393 characters omitted…]
 
 **MODIFIED · Art. 19 — Managers’ transactions** · applies from: unchanged
 
 *within* `AR 19 PA 1a`, `AR 19 PA 7 ALN 3`, `AR 19 PA 7 ALN 4` · *amended by* `32016R1011`
 
-A new paragraph 1a has been added, setting out conditions under which the notification obligation in paragraph 1 does not apply to transactions in financial instruments linked to shares or debt instruments of the issuer, including thresholds on exposure to the issuer's shares or debt instruments through collective investment undertakings or asset portfolios, and a related requirement to make reasonable efforts to obtain information on investment composition where available. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19)
+A new paragraph 1a is inserted setting out conditions under which the notification obligation in paragraph 1 does not apply to transactions in financial instruments linked to an issuer's shares or debt instruments, covering cases involving limited exposure through collective investment undertakings or portfolios of assets, and situations where the person lacks knowledge of the investment composition. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19)
 
-Paragraph 7 has been expanded with a new subparagraph following point (b) stating that transactions executed by managers of a collective investment undertaking in shares, debt instruments, or linked derivatives of an issuer do not need to be notified where the manager acts with full discretion excluding instructions or suggestions on portfolio composition from investors in that undertaking. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19)
+A new sentence is added after point (a) of paragraph 7 stating that transactions executed by managers of a collective investment undertaking in shares, debt instruments or linked derivatives of an issuer do not need to be notified where the person discharging managerial responsibilities has invested in that undertaking and its manager acts with full discretion excluding instructions or suggestions from investors on portfolio composition. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_19)
 
-The earlier version of Article 19 contained neither this exemption in paragraph 1a nor this additional carve-out text following point (b) of paragraph 7. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_19)
+These additions do not appear in the earlier version of Article 19, which lacked paragraph 1a and this additional sentence in paragraph 7. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_19)
 
 *before* (`32014R0596`)
 
@@ -1119,7 +1121,7 @@ The earlier version of Article 19 contained neither this exemption in paragraph 
 > Such notifications shall be made promptly and no later than three business days after the date of the transaction.
 > The first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.
 > 2. For the purposes of paragraph 1, and without prejudice to the right of Member States to provide for notification obligations other than those referred to in this Article, all transactions conducted on the own account of the persons referred to in paragraph 1, shall be notified by those persons to the competent authorities.
-> The rules applicable to notifications, with which persons referred to in paragraph 1 must comply, shall be those of the Member State where the issuer or emission allowance market participant i […truncated by emendrix: 8717 characters omitted…]
+> The rules applicable to notifications, with which persons referred to in paragraph 1 must comply, shall be those of the Member State where the issuer or emission allowance market participant i […truncated by emendrix: 8718 characters omitted…]
 
 *after* (`02014R0596-20160703`)
 
@@ -1132,7 +1134,7 @@ The earlier version of Article 19 contained neither this exemption in paragraph 
 > The first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.
 > 1a. The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:
 > (a) the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;
-> (b) the f […truncated by emendrix: 10931 characters omitted…]
+> (b) the f […truncated by emendrix: 10932 characters omitted…]
 
 **MODIFIED · Art. 35 — Exercise of the delegation** · applies from: unchanged
 
@@ -1168,21 +1170,28 @@ Paragraph 5 also drops the words "pursuant to referred to" before the list of ar
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The reference to Commission Directive 2004/72/EC no longer carries its explanatory footnote describing that directive's title and Official Journal publication details, including its 29 April 2004 date. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_37)
+The list of repealed acts no longer includes the descriptive footnote text identifying Commission Directive 2004/72/EC of 29 April 2004 and its subject matter. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_37)
 
-The remaining text, including the repeal date of 3 July 2016 and the references to the other directives and the Regulation, is otherwise unchanged. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_37)
+The remaining text, including the repeal date and the reference to the correlation table in Annex II, is unchanged between the two versions. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0596#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20160703#art_37)
 
 *before* (`32014R0596`)
 
 > Article 37
 > Repeal of Directive 2003/6/EC and its implementing measures
-> Directive 2003/6/EC and Commission Directives 2004/72/ECCommission Directive 2004/72/EC of 29 April 2004 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards accepted market practices, the definition of inside information in relation to derivatives on commodities, the drawing up of lists of insiders, the notification of managers’ transactions and the notification of suspicious transactions (OJ L 162, 30.4.2004, p. 70)., 2003/125/ECCommission Directive 2003/125/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the fair presentation of investment recommendations and the disclosure of conflicts of interest (OJ L 339, 24.12.2003, p. 73). and 2003/124/ECCommission Directive 2003/124/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the definition and public disclosure of inside information and the definition of market manipulation (OJ L 339, 24.12.2003, p. 70). and Commission Regulation (EC) No 2273/2003Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments (OJ L 336, 23.12.2003, p. 33). shall be repealed with effect from 3 July 2016. References to Directive 2003/6/EC shall be cons […truncated by emendrix: 137 characters omitted…]
+> Directive 2003/6/EC and Commission Directives 2004/72/EC
+> Commission Directive 2004/72/EC of 29 April 2004 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards accepted market practices, the definition of inside information in relation to derivatives on commodities, the drawing up of lists of insiders, the notification of managers’ transactions and the notification of suspicious transactions (OJ L 162, 30.4.2004, p. 70)., 2003/125/EC
+> Commission Directive 2003/125/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the fair presentation of investment recommendations and the disclosure of conflicts of interest (OJ L 339, 24.12.2003, p. 73). and 2003/124/EC
+> Commission Directive 2003/124/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the definition and public disclosure of inside information and the definition of market manipulation (OJ L 339, 24.12.2003, p. 70). and Commission Regulation (EC) No 2273/2003
+> Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments (OJ L 336, 23.12.2003, p. 33). shall be repealed with effect from 3 July 2016. References to Directive 2003/6/EC shall be […truncated by emendrix: 141 characters omitted…]
 
 *after* (`02014R0596-20160703`)
 
 > Article 37
 > Repeal of Directive 2003/6/EC and its implementing measures
-> Directive 2003/6/EC and Commission Directives 2004/72/EC, 2003/125/ECCommission Directive 2003/125/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the fair presentation of investment recommendations and the disclosure of conflicts of interest (OJ L 339, 24.12.2003, p. 73). and 2003/124/ECCommission Directive 2003/124/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the definition and public disclosure of inside information and the definition of market manipulation (OJ L 339, 24.12.2003, p. 70). and Commission Regulation (EC) No 2273/2003Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments (OJ L 336, 23.12.2003, p. 33). shall be repealed with effect from 3 July 2016. References to Directive 2003/6/EC shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex II to this Regulation.
+> Directive 2003/6/EC and Commission Directives 2004/72/EC, 2003/125/EC
+> Commission Directive 2003/125/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the fair presentation of investment recommendations and the disclosure of conflicts of interest (OJ L 339, 24.12.2003, p. 73). and 2003/124/EC
+> Commission Directive 2003/124/EC of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards the definition and public disclosure of inside information and the definition of market manipulation (OJ L 339, 24.12.2003, p. 70). and Commission Regulation (EC) No 2273/2003
+> Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments (OJ L 336, 23.12.2003, p. 33). shall be repealed with effect from 3 July 2016. References to Directive 2003/6/EC shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex II to this Regulation.
 
 **MODIFIED · Art. 38 — Report** · applies from: unchanged
 
