@@ -2464,11 +2464,11 @@ The carve-out for financial institutions is now expressed by reference to Direct
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-The term defined in point (2) changes from the singular "competent authority" to the plural "competent authorities", with point (i) now also naming the European Central Bank with regard to matters relating to tasks conferred on it by Regulation (EU) No 1024/2013. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+The defined term changes from the singular "competent authority" to the plural "competent authorities", and point (i) now adds the European Central Bank with regard to tasks conferred on it by Regulation (EU) No 1024/2013 alongside the reference tied to Regulation (EU) No 575/2013 and the two directives. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
 
-Point (iii) changes from identifying a single designated authority under Directive 2014/49/EU to identifying bodies which administer deposit guarantee schemes under that Directive, or, where a private company administers the scheme, the public authority supervising it. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+Point (iii) is reworded from referring to a single designated authority under Directive 2014/49/EU to referring to bodies which administer deposit guarantee schemes under that Directive, or, where a private company administers the scheme, the public authority supervising it. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
 
-Point (iv) is expanded to add a reference to Regulation (EU) No 806/2014 and now names the resolution authorities defined in Article 3 of Directive 2014/59/EU, the Single Resolution Board, and the Council and the Commission when taking actions under Article 18 of Regulation (EU) No 806/2014, except where they exercise discretionary powers or make policy choices. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
+Point (iv) is expanded from naming only a resolution authority under Directive 2014/59/EU to also referring to Regulation (EU) No 806/2014 and naming the resolution authorities defined in Article 3 of that Directive, the Single Resolution Board, and the Council and the Commission when acting under Article 18 of that Regulation, except where they exercise discretionary powers or make policy choices. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
 
 *before* (`02010R1093-20140702`)
 
@@ -2479,8 +2479,10 @@ Point (iv) is expanded to add a reference to Regulation (EU) No 806/2014 and now
 > (2) competent authority means:
 > (i) competent authority as defined in Article 4(1)(40) of Regulation (EU) No 575/2013, and within the meaning of Directives 2007/64/EC and 2009/110/EC;
 > (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
-> (iii) with regard to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;
-> (iv) with regard to Directive 2014/59/EU of the European Parliament and of the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directi […truncated by emendrix: 334 characters omitted…]
+> (iii) with regard to Directive 2014/49/EU of the European Parliament and of the Council
+> Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;
+> (iv) with regard to Directive 2014/59/EU of the European Parliament and of the Council
+> Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Direc […truncated by emendrix: 336 characters omitted…]
 
 *after* (`02010R1093-20140819`)
 
@@ -2491,7 +2493,8 @@ Point (iv) is expanded to add a reference to Regulation (EU) No 806/2014 and now
 > (2) competent authorities means:
 > (i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;
 > (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
-> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee scheme (OJ L 173, 12.6.2014, p. 149)., or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 1364 characters omitted…]
+> (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the Council
+> Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee scheme (OJ L 173, 12.6.2014, p. 149)., or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 1367 characters omitted…]
 
 **MODIFIED · Art. 4.2** · applies from: unknown
 
