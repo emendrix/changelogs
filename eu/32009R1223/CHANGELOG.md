@@ -2620,7 +2620,7 @@ The substances formerly grouped under entry 12 as butylparaben, propylparaben, a
 ### `02009R1223-20140701` → `02009R1223-20140829`
 
 - **Act** `eu:32009R1223` · **In force** 2014-08-29 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **3 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **3 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20140701` · `v2` = `02009R1223-20140829`
