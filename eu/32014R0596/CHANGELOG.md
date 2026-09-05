@@ -820,18 +820,19 @@ A new standalone report obligation is added requiring the Commission to report b
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-A new Article 21a is added, setting out requirements for issuers and emission allowance market participants to submit information referred to in Articles 17, 19 and 34 to a designated collection body so it can be made accessible on the European single access point (ESAP), including format, metadata and legal entity identifier requirements, and provisions for ESMA to develop implementing technical standards and guidelines. [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_21a)
+A new Article 21a has been added, setting out obligations for issuers and emission allowance market participants to submit certain disclosures to a collection body so that the information becomes accessible on the European single access point, along with related requirements on data format, accompanying metadata, legal entity identifiers, Member State designation of collection bodies, and mandates for ESMA to develop implementing technical standards and guidelines. [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_21a)
 
 *after* (`02014R0596-20240109`)
 
 > Article 21a
 > Accessibility of information on the European single access point
-> 1. From 10 January 2028, when making public any information referred to in Article 17(1) and (2) and Article 19(3) of this Regulation, the issuer or the emission allowance market participant shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> 1. From 10 January 2028, when making public any information referred to in Article 17(1) and (2) and Article 19(3) of this Regulation, the issuer or the emission allowance market participant shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the issuer or the emission allowance market participant to which the information relates;
-> (ii) the legal entity identifier of the issuer or of the emission allowance market participant that is a legal person, as specified pursu […truncated by emendrix: 3113 characters omitted…]
+> (ii) the legal entity identifier of the issuer or of the emission allowance market participant that is a legal person, as specified purs […truncated by emendrix: 3114 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0596-20240109 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0596-20210101 -->
