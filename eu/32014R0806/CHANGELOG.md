@@ -1183,7 +1183,7 @@ A new paragraph 8 has been added, addressing the Board's disclosure of its own a
 ### `02014R0806-20241114` → `02014R0806-20251110`
 
 - **Act** `eu:32014R0806` · **In force** 2025-11-10 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20241114` · `v2` = `02014R0806-20251110`
