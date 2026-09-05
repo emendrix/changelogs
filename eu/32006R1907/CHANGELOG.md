@@ -1988,7 +1988,7 @@ Any actual differences between the two versions lie beyond the truncation point 
 ### `02006R1907-20170102` → `02006R1907-20170302`
 
 - **Act** `eu:32006R1907` · **In force** 2017-03-02 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20170102` · `v2` = `02006R1907-20170302`
