@@ -1846,7 +1846,7 @@ The remainder of the visible tabular entries in Annex III appear unchanged betwe
 ### `02009R1223-20170727` → `02009R1223-20170903`
 
 - **Act** `eu:32009R1223` · **In force** 2017-08-23, 2017-08-24, 2017-09-03 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20170727` · `v2` = `02009R1223-20170903`
@@ -1857,15 +1857,19 @@ The remainder of the visible tabular entries in Annex III appear unchanged betwe
 
 *within* `AN II` · *dates* +2019-08-23 +2021-08-23 · *amended by* `32017R1410`
 
-The introductory notes to the Annex now include two additional sentences stating that cosmetic products containing 'that substance' shall not be placed on the Union market from 23 August 2019, and shall not be made available on the Union market from 23 August 2021. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_II)
+The AFTER text inserts a new introductory sentence stating that from 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market, and from 23 August 2021 such products shall not be made available on the Union market, which is absent from the BEFORE text. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_II)
 
-The numbered list of prohibited substances itself, as far as visible before truncation, appears unchanged between the two versions. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_II)
+The remainder of the numbered substance list appears unchanged between the two versions as far as the provided text extends, though both texts are truncated and further differences beyond the shown portion cannot be assessed. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_II)
 
 *before* (`02009R1223-20170727`)
 
 > ANNEX II
 > LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
-> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
 > Reference number Substance identification
 > Chemical name/INN CAS number EC number
 > a b c d
@@ -1884,13 +1888,18 @@ The numbered list of prohibited substances itself, as far as visible before trun
 > 15 Rauwolfia serpentina L., alkaloids and their salts 90106-13-1 290-234-1
 > 16 Alkyne alcohols, their esters, ethers and salts 17 Isoprenaline (INN) 7683-59-2 231-687-7
 > 18 Allyl isothiocyanate 57-06-7 200-309-2
-> 19 Alloclamide (INN) and its sal […truncated by emendrix: 124671 characters omitted…]
+> 19 Alloclamide (INN) and its […truncated by emendrix: 124678 characters omitted…]
 
 *after* (`02009R1223-20170903`)
 
 > ANNEX II
 > LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
-> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
+> From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
 > Reference number Substance identification
 > Chemical name/INN CAS number EC number
 > a b c d
@@ -1906,15 +1915,15 @@ The numbered list of prohibited substances itself, as far as visible before trun
 > 12 Aconitine (principal alkaloid of Aconitum napellus L.) and its salts 302-27-2 206-121-7
 > 13 Adonis vernalis L. and its preparations 84649-73-0 283-458-6
 > 14 Epinephrine (INN) 51-43-4 200-098-7
-> 15 Rauwolfia serpentina L […truncated by emendrix: 125153 characters omitted…]
+> 15 Rauwolfia serpent […truncated by emendrix: 125161 characters omitted…]
 
 **MODIFIED · Annex IV — LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN IV` · *amended by* `32017R1413`
 
-The preamble note on UV-filter use was changed from referring to Annex VI, No. 27 to referring to Annex VI, No 30 and No 30a. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_IV)
+A new preamble line was added referring to Annex VI, No 30 and No 30a for use as a UV-filter, alongside the existing reference to Annex VI, No 27. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_IV)
 
-Entry 144 for Zinc oxide was changed to add a CAS number (1314-13-2) and an EC number (215-222-5), and to add a restriction stating it is not to be used in applications that may lead to exposure of the end-user's lungs by inhalation, replacing the prior entry which had no such identifiers or restriction. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_IV) [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_IV)
+Entry 144, Zinc oxide, now includes a CAS number and EC number and a new restriction stating it is not to be used in applications that may lead to exposure of the end-user's lungs by inhalation, where before it listed only the colour index number and colour with no such conditions. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_IV)
 
 *before* (`02009R1223-20170727`)
 
@@ -1934,43 +1943,50 @@ Entry 144 for Zinc oxide was changed to add a CAS number (1314-13-2) and an EC n
 > LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS
 > Preamble
 > Without prejudice to other provisions in this Regulation, a colorant shall include its salts and lakes and when a colorant is expressed as a specific salt, its other salts and lakes shall also be included.
-> For use as a UV-Filter, see Annex VI, No. 27.For use as a UV-filter, see Annex VI, No 30 and No 30a.
+> For use as a UV-Filter, see Annex VI, No. 27.
+> For use as a UV-filter, see Annex VI, No 30 and No 30a.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical Name Colour index Number/Name of Common Ingredients Glossary CAS number EC number Colour Product type, Body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i j
-> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4- […truncated by emendrix: 20150 characters omitted…]
+> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4 […truncated by emendrix: 20151 characters omitted…]
 
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32017R0238`
 
-For entry 4 (Benzophenone-3), the maximum concentration in ready-for-use preparation is lowered from 10% to 6%. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_VI)
+For entry 4, Benzophenone-3, the maximum concentration in the ready-for-use preparation was lowered from 10 % to 6 %. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_VI)
 
-A new condition of use is added for entry 4 stating that it is not to be more than 0,5% when used to protect the product formulation, alongside the existing note that it contains Benzophenone-3. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_VI)
+A new condition was added to entry 4 limiting use to not more than 0,5 % when the substance is used to protect the product formulation, alongside the existing wording noting that the product contains Benzophenone-3. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_VI)
 
 *before* (`02009R1223-20170727`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 10 % Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3 […truncated by emendrix: 4816 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl […truncated by emendrix: 4819 characters omitted…]
 
 *after* (`02009R1223-20170903`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use as a colorant, see Annex IV, No 143.In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 6 % Not more than 0,5 % to protect product formulation Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 […truncated by emendrix: 4866 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82 […truncated by emendrix: 4869 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20170903 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20170727 -->
