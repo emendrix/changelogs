@@ -78,7 +78,7 @@ A new provision also allows data owners to claim compensation for access to thei
 ### `02012R0528-20240526` → `02012R0528-20240611`
 
 - **Act** `eu:32012R0528` · **In force** 2024-06-11 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 0 substantive · 1 date-only · **0 disputed**
+- **Touched** 1 provisions — 0 substantive · 1 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 1 deferred · 103 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20240526` · `v2` = `02012R0528-20240611`
