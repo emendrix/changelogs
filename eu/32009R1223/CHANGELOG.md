@@ -1368,7 +1368,7 @@ A minor wording change also appears earlier in the preamble text, where the phra
 ### `02009R1223-20191127` → `02009R1223-20191218`
 
 - **Act** `eu:32009R1223` · **In force** 2019-12-18 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20191127` · `v2` = `02009R1223-20191218`
