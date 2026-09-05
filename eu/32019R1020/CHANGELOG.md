@@ -155,7 +155,7 @@ A new point 71 has been added listing Regulation (EU) 2024/1252 of 11 April 2024
 ### `32019R1020` → `02019R1020-20240218`
 
 - **Act** `eu:32019R1020` · **In force** 2024-02-18 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 45 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32019R1020` · `v2` = `02019R1020-20240218`
