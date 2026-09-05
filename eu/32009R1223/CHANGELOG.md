@@ -313,7 +313,7 @@ Entry 25 for Triclosan has been reformatted by replacing the lettered (a)/(b) pr
 ### `02009R1223-20231201` → `02009R1223-20240404`
 
 - **Act** `eu:32009R1223` · **In force** 2024-04-04 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20231201` · `v2` = `02009R1223-20240404`
