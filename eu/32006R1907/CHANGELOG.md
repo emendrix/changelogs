@@ -3143,9 +3143,7 @@ The rest of Annex XVII shown, including the surrounding entries, remains textual
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-In the definition of phase-in substance, points (b) and (c) now list an additional accession date of 1 July 2013 alongside the previously listed dates of 1 January 1995, 1 May 2004 and 1 January 2007. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130701#art_3)
-
-The earlier version of these two points referred only to the three accession dates of 1 January 1995, 1 May 2004 and 1 January 2007. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#art_3)
+In the definition of phase-in substance, points (b) and (c) both add a reference to countries acceding to the European Union on 1 July 2013, alongside the previously listed accession dates of 1 January 1995, 1 May 2004 and 1 January 2007. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130701#art_3)
 
 *before* (`02006R1907-20130421`)
 
@@ -3160,7 +3158,7 @@ The earlier version of these two points referred only to the three accession dat
 > (a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;
 > (b) less than a simple weight majority of molecules of the same molecular weight.
 > In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
-> 6. monomer: […truncated by emendrix: 9264 characters omitted…]
+> 6. monomer: […truncated by emendrix: 9265 characters omitted…]
 
 *after* (`02006R1907-20130701`)
 
@@ -3175,7 +3173,7 @@ The earlier version of these two points referred only to the three accession dat
 > (a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;
 > (b) less than a simple weight majority of molecules of the same molecular weight.
 > In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
-> 6. monomer: […truncated by emendrix: 9296 characters omitted…]
+> 6. monomer: […truncated by emendrix: 9297 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20130701 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20130421 -->
