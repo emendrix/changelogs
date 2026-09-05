@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32023R0988` → `02023R0988-20260529`
 
 - **Act** `eu:32023R0988` · **In force** 2026-05-29 · **Detected** 2026-08-12
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **4 disputed**
+- **Touched** 6 provisions — 5 substantive · 0 date-only · 1 with no text · **4 disputed**
 - **Diff** 4 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 50 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32023R0988` · `v2` = `02023R0988-20260529`
@@ -164,7 +164,7 @@ It further states that market surveillance authorities of the Member States are 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02023R0988-20260529 -->
