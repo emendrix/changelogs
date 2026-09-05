@@ -121,7 +121,7 @@ A new Article 11a is added, setting out requirements for making information refe
 ### `02012R0236-20140917` → `02012R0236-20220131`
 
 - **Act** `eu:32012R0236` · **In force** 2022-01-31 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0236-20140917` · `v2` = `02012R0236-20220131`
