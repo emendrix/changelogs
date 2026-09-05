@@ -5094,7 +5094,7 @@ None of these entries, labelled (i), (j) and (k) under section I and (d) under s
 ### `02012R0648-20170630` → `02012R0648-20190101`
 
 - **Act** `eu:32012R0648` · **In force** 2019-01-01 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20170630` · `v2` = `02012R0648-20190101`
