@@ -1652,7 +1652,7 @@ The provision also sets requirements that the information be submitted in a data
 ### `02014R0600-20210626` → `02014R0600-20220101`
 
 - **Act** `eu:32014R0600` · **In force** 2021-07-04, 2022-01-01 · **Detected** 2026-08-13
-- **Touched** 38 provisions — 38 substantive · 0 date-only · **26 disputed**
+- **Touched** 38 provisions — 36 substantive · 0 date-only · 2 with no text · **26 disputed**
 - **Diff** 28 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20210626` · `v2` = `02014R0600-20220101`
@@ -1665,7 +1665,7 @@ The provision also sets requirements that the information be submitted in a data
 
 Point (f) of Article 1(1) now ends with a semicolon instead of a full stop, and a new point (g) has been added covering the authorisation and supervision of data reporting services providers. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_1)
 
-The earlier version listed point (f) as the final item in this list, without any equivalent to the new point (g). [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_1)
+The earlier version's list of subject matters in Article 1(1) ended at point (f) with no equivalent point (g). [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_1)
 
 *before* (`02014R0600-20210626`)
 
@@ -1678,8 +1678,9 @@ The earlier version listed point (f) as the final item in this list, without any
 > (d) non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;
 > (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
 > (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch.
-> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
-> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterparties […truncated by emendrix: 3417 characters omitted…]
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the Council
+> Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterpartie […truncated by emendrix: 3419 characters omitted…]
 
 *after* (`02014R0600-20220101`)
 
@@ -1693,18 +1694,19 @@ The earlier version listed point (f) as the final item in this list, without any
 > (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
 > (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch;
 > (g) the authorisation and supervision of data reporting services providers.
-> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
-> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article […truncated by emendrix: 3493 characters omitted…]
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the Council
+> Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Articl […truncated by emendrix: 3495 characters omitted…]
 
 **MODIFIED · Art. 2 — Definitions** · applies from: unchanged
 
 *within* `AR 2 PA 1 ALN 1 PO 18`, `AR 2 PA 1 ALN 1 PO 22a`, `AR 2 PA 1 ALN 1 PO 34`, `AR 2 PA 1 ALN 1 PO 35`, `AR 2 PA 1 ALN 1 PO 36`, `AR 2 PA 1 ALN 1 PO 36a`, `AR 2 PA 3` · *amended by* `32019R2175`
 
-The definition of competent authority in point (18) is expanded to include ESMA for the authorisation and supervision of data reporting services providers, except for ARMs and APAs holding a derogation under new paragraph 3. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2)
+The definition of competent authority now adds that ESMA is treated as the competent authority for authorising and supervising data reporting services providers, except for those approved reporting mechanisms and approved publication arrangements benefiting from a derogation under the new paragraph 3. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2)
 
-A new point (22a) defines senior management by reference to Article 4(1)(37) of Directive 2014/65/EU, and a new point (36a) defines data reporting services provider by reference to points (34) to (36) and Article 27b(2). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2)
+A new point (22a) defines senior management by reference to Article 4(1)(37) of Directive 2014/65/EU, and the definitions of approved publication arrangement, consolidated tape provider and approved reporting mechanism are rewritten to describe them as authorised persons providing specified reporting or publication services rather than by cross-reference to Directive 2014/65/EU, with a new point (36a) defining data reporting services provider by reference to points (34) to (36) and to Article 27b(2). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2)
 
-Points (34), (35) and (36), defining APA, CTP and ARM respectively, are reworded from cross-references to Directive 2014/65/EU into self-contained descriptions of the services each performs, and a new paragraph 3 is added empowering the Commission to adopt delegated acts specifying criteria for identifying ARMs and APAs subject to derogation, with related conditions on ESMA supervision. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20210626#art_2)
+A new paragraph 3 is added empowering the Commission to adopt delegated acts identifying ARMs and APAs of limited relevance for the internal market that are instead authorised and supervised by a Member State competent authority, setting out factors to be considered and stating that an entity supervised by ESMA for other data reporting services cannot have its ARM or APA activities excluded from ESMA supervision by such a delegated act. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_2)
 
 *before* (`02014R0600-20210626`)
 
@@ -1723,7 +1725,7 @@ Points (34), (35) and (36), defining APA, CTP and ARM respectively, are reworded
 > (10) market operator means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;
 > (11) multilateral system means a multilateral system as defined in Article 4(1)(19) of Directive 2014/65/EU;
 > (12) systematic internaliser means a systematic internaliser as defined in Article 4(1)(20) of Directive 2014/65/EU;
-> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 10192 characters omitted…]
+> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 10199 characters omitted…]
 
 *after* (`02014R0600-20220101`)
 
@@ -1742,7 +1744,7 @@ Points (34), (35) and (36), defining APA, CTP and ARM respectively, are reworded
 > (10) market operator means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;
 > (11) multilateral system means a multilateral system as defined in Article 4(1)(19) of Directive 2014/65/EU;
 > (12) systematic internaliser means a systematic internaliser as defined in Article 4(1)(20) of Directive 2014/65/EU;
-> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 12164 characters omitted…]
+> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 12171 characters omitted…]
 
 **MODIFIED · Art. 22 — Providing information for the purposes of transparency and other calculations** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -2187,20 +2189,21 @@ It specifies that such payments must be effective and proportionate, charged per
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-This is a newly inserted provision covering disclosure, nature, enforcement and allocation of fines and periodic penalty payments imposed under Articles 38h and 38i, with no earlier version to compare it to. [Art. 38j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38j)
+This new article sets out that ESMA is to disclose to the public fines and periodic penalty payments imposed under Articles 38h and 38i, subject to an exception where disclosure would seriously jeopardise financial markets or cause disproportionate damage, and specifies that such disclosures must not contain personal data as defined in Regulation (EU) 2018/1725. [Art. 38j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38j)
 
-It sets out that ESMA discloses such fines and penalty payments publicly subject to certain exceptions, states they are administrative in nature and enforceable under the rules of procedure of the Member State where enforcement takes place, and provides that the amounts are allocated to the general budget of the European Union. [Art. 38j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38j)
+It further provides that such fines and penalty payments are administrative in nature, that ESMA must inform the European Parliament, Council, Commission and the competent authorities of the Member State concerned with reasons when it decides not to impose a fine or penalty, that the fines and payments are enforceable under the procedural rules of the Member State where enforcement takes place, and that the collected amounts are allocated to the general budget of the European Union. [Art. 38j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38j)
 
 *after* (`02014R0600-20220101`)
 
 > Article 38j
 > Disclosure, nature, enforcement and allocation of fines and periodic penalty payments
-> 1. ESMA shall disclose to the public every fine and periodic penalty payment that has been imposed pursuant to Articles 38h and 38i unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EU) 2018/1725 of the European Parliament and of the CouncilRegulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)..
+> 1. ESMA shall disclose to the public every fine and periodic penalty payment that has been imposed pursuant to Articles 38h and 38i unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EU) 2018/1725 of the European Parliament and of the Council
+> Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)..
 > 2. Fines and periodic penalty payments imposed pursuant to Articles 38h and 38i shall be of an administrative nature.
 > 3. Where ESMA decides to impose no fines or penalty payments, it shall inform the European Parliament, the Council, the Commission, and the competent authorities of the Member State concerned accordingly and shall set out the reasons for its decision.
 > 4. Fines and periodic penalty payments imposed pursuant to Articles 38h and 38i shall be enforceable.
 > Enforcement shall be governed by the rules of procedure in force in the Member State in the territory of which it is carried out.
-> 5. The amou […truncated by emendrix: 110 characters omitted…]
+> 5. The amo […truncated by emendrix: 111 characters omitted…]
 
 **INSERTED · Art. 38k — Procedural rules for taking supervisory measures and imposing fines** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -2395,11 +2398,11 @@ Paragraph 5 additionally adds the word 'by' before 'the Council' in the phrase c
 
 *within* `AR 52 PA 14`, `AR 52 PA 15` · *dates* +2018-07-18 +2019-09-03 +2021-09-03 · *amended by* `32019R2175`
 
-The revised Article 52 adds two new paragraphs, 14 and 15, which were absent from the earlier version. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
+The later version adds two new paragraphs, 14 and 15, which are not present in the earlier text. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
 
-Paragraph 14 sets out reporting duties on the functioning of the consolidated tape under Title IVa, including specific reporting dates for the reports relating to Article 27h(1) and Article 27h(2), assessment criteria for the tape's functioning, and a procedure for the Commission to request that ESMA launch a negotiated public procurement for a commercial entity to operate a consolidated tape if those criteria are not met. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
+Paragraph 14 requires the Commission, after consulting ESMA, to report to the European Parliament and Council on the functioning of the consolidated tape under Title IVa, with specified reporting dates for the reports relating to Article 27h(1) and 27h(2), and sets out criteria for assessing that functioning and a procedure for requesting a negotiated public procurement of a commercial entity to operate a consolidated tape if those criteria are not met. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
 
-Paragraph 15 empowers the Commission to adopt delegated acts under Article 50 once the procedure in paragraph 14 has been initiated, listing measures covering matters such as contract duration, exclusivity of the appointed entity, ESMA's oversight of tender conditions, data quality and accessibility requirements, cost conditions for trading venues and APAs, and arrangements for existing CTPs during or after the procurement process. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
+Paragraph 15 empowers the Commission to adopt delegated acts under Article 50 specifying a list of measures concerning the procurement, exclusivity, oversight and data-provision conditions of that commercial entity operating a consolidated tape, where the procedure described in paragraph 14 has been initiated. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_52)
 
 *before* (`02014R0600-20210626`)
 
@@ -2425,7 +2428,7 @@ Paragraph 15 empowers the Commission to adopt delegated acts under Article 50 on
 > (c) the impact on the depth of liquidity on lit order books;
 > (d) the impact on competition and on investors within the Union;
 > (e) the impact on trading of shares of small and mid-cap companies;
-> (f) developments at international level […truncated by emendrix: 9354 characters omitted…]
+> (f) developments at international level […truncated by emendrix: 9355 characters omitted…]
 
 **MODIFIED · Art. 54 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -2473,17 +2476,19 @@ The new provision also addresses the transfer of files, working documents and re
 
 *amended by* `32019R2175`
 
-A new Article 54b establishes a duty for persons authorised under Directive 2006/43/EC, when performing statutory audit-related tasks at a data reporting services provider, to promptly report to ESMA facts or decisions that could constitute a material infringement, affect the provider's continuous functioning, or lead to refusal to certify accounts or to reservations, and extends that duty to facts discovered at undertakings with close links to the provider. [Art. 54b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54b)
+A new Article 54b has been added, imposing a duty on persons authorised under Directive 2006/43/EC who perform statutory audit or other legally prescribed tasks at a data reporting services provider to report promptly to ESMA certain facts or decisions they become aware of, including those affecting undertakings closely linked to that provider. [Art. 54b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54b)
 
-The new article also states that good-faith disclosure of such facts or decisions to the competent authorities by such persons does not breach contractual or legal restrictions on disclosure and does not expose them to liability. [Art. 54b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54b)
+The new article also states that good-faith disclosure of such facts or decisions to the competent authorities does not breach any contractual or legal restriction on disclosure and does not expose the disclosing person to liability. [Art. 54b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_54b)
 
 *after* (`02014R0600-20220101`)
 
 > Article 54b
 > Relations with auditors
-> 1. Any person authorised within the meaning of Directive 2006/43/EC of the European Parliament and of the CouncilDirective 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87)., performing in a data reporting services provider the task described in Article 34 of Directive 2013/34/EU of the European Parliament and of the CouncilDirective 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). or Article 73 of Directive 2009/65/EC or any other task prescribed by law, shall have a duty to report promptly to ESMA any fact or decision concerning that data reporting services provider of which that person has become aware while carrying out that task and which is liable to:
+> 1. Any person authorised within the meaning of Directive 2006/43/EC of the European Parliament and of the Council
+> Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87)., performing in a data reporting services provider the task described in Article 34 of Directive 2013/34/EU of the European Parliament and of the Council
+> Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). or Article 73 of Directive 2009/65/EC or any other task prescribed by law, shall have a duty to report promptly to ESMA any fact or decision concerning that data reporting services provider of which that person has become aware while carrying out that task and which is liable to:
 > (a) constitute a material infringement of the laws, regulations or administrative provisions which lay down the conditions governing authorisation or which specifically govern pursuit of the activities of data reporting services provider;
-> (b) affect the continuous functio […truncated by emendrix: 783 characters omitted…]
+> (b) affect the continuous funct […truncated by emendrix: 785 characters omitted…]
 
 **INSERTED · TIS IVa** · applies from: unknown
 
@@ -2491,7 +2496,7 @@ The new article also states that good-faith disclosure of such facts or decision
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2501,7 +2506,7 @@ The new article also states that good-faith disclosure of such facts or decision
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20220101 -->
