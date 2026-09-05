@@ -762,7 +762,7 @@ In Section 5.1(h), the date by which the Commission is to provide guidance for e
 ### `32017R0745` → `02017R0745-20170505`
 
 - **Act** `eu:32017R0745` · **In force** not stated · **Detected** 2026-08-12
-- **Touched** 15 provisions — 15 substantive · 0 date-only · **0 disputed**
+- **Touched** 15 provisions — 15 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 15 modified · 0 deleted · 0 renumbered · 0 deferred · 125 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32017R0745` · `v2` = `02017R0745-20170505`
@@ -1015,9 +1015,9 @@ All other text of Article 122, including the repeal date of 26 May 2020 and the 
 
 *within* `AN I SCT 23 SCT 23.2 PTA (h)`
 
-Both versions of Annex I are truncated at the same point before reaching section 23.2(h), so the specific wording difference identified in that sub-provision is not visible in the text provided. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20170505#anx_I)
+Both versions provided are truncated before the differing text in section 23.2(h) is reached, so the specific wording change in that point cannot be identified from what is shown. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20170505#anx_I)
 
-Everything shown in Chapters I through III up to the truncation point, including sections 23 and 23.2(a) through (g), reads identically in both the before and after texts. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20170505#anx_I)
+Everything visible in Annex I up to the cut, including the general safety and performance requirements and the surrounding provisions of Section 23, reads identically in both texts. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20170505#anx_I)
 
 *before* (`32017R0745`)
 
@@ -1031,7 +1031,7 @@ Everything shown in Chapters I through III up to the truncation point, including
 > Risk management shall be understood as a continuous iterative process throughout the entire lifecycle of a device, requiring regular systematic updating. In carrying out risk management manufacturers shall:
 > (a) establish and document a risk management plan for each device;
 > (b) identify and analyse the known and foreseeable hazards associated with each device;
-> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50132 characters omitted…]
+> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50136 characters omitted…]
 
 *after* (`02017R0745-20170505`)
 
@@ -1045,7 +1045,7 @@ Everything shown in Chapters I through III up to the truncation point, including
 > Risk management shall be understood as a continuous iterative process throughout the entire lifecycle of a device, requiring regular systematic updating. In carrying out risk management manufacturers shall:
 > (a) establish and document a risk management plan for each device;
 > (b) identify and analyse the known and foreseeable hazards associated with each device;
-> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50131 characters omitted…]
+> (c) estimate and evaluate the risks associated with, and occurring during, the intended use and during reasonably foreseeable m […truncated by emendrix: 50135 characters omitted…]
 
 **MODIFIED · Annex III — ANNEX III** · applies from: unchanged
 
