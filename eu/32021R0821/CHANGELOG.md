@@ -378,7 +378,7 @@ Several existing entries are lightly reworded, such as the "Diffusion bonding" d
 ### `32021R0821` → `02021R0821-20220107`
 
 - **Act** `eu:32021R0821` · **In force** 2022-01-07 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32021R0821` · `v2` = `02021R0821-20220107`
