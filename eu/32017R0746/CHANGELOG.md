@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02017R0746-20240709` → `02017R0746-20250110`
 
 - **Act** `eu:32017R0746` · **In force** 2025-01-10 · **Detected** 2026-08-12
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **4 disputed**
-- **Diff** 1 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 128 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 128 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0746-20240709` · `v2` = `02017R0746-20250110`
 
 ---
@@ -40,46 +40,6 @@ Economic operators who receive this information are in turn required to pass it 
 > The information referred to in the first subparagraph shall, other than in exceptional circumstances, be provided at least 6 months before the anticipated interruption or discontinuation. The manufacturer shall specify the reasons for the interruption or discontinuation in the information provided to the competent authority.
 > 2. The competent authority that has received the information referred to in paragraph 1 shall, without undue delay, inform the competent authorities of the other Member States and the Commission of the anticipated interruption or discontinuation.
 > 3. The economic operators who have received the information from the manufacturer in accordance with paragraph 1 or from another economic operator in the supply chain shall, without undue delay, inform any other economic operat […truncated by emendrix: 145 characters omitted…]
-
-**MODIFIED · Art. 74** · applies from: unknown
-
-*amended by* `32024R1860`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 110** · applies from: unknown
-
-*amended by* `32024R1860`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 112** · applies from: unknown
-
-*amended by* `32024R1860`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 113** · applies from: unknown
-
-*amended by* `32024R1860`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0746-20250110 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0746-20240709 -->

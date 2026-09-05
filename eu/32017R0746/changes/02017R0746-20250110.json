@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -15,21 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 1,
-    "modified": 4,
+    "modified": 0,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 5,
+    "touched_units": 1,
     "unchanged_units": 128,
-    "disputed": 4
+    "disputed": 0
   },
   "counts": {
-    "touched": 5,
-    "substantive": 5,
+    "touched": 1,
+    "substantive": 1,
     "date_only": 0,
-    "disputed": 4,
+    "textless": 0,
+    "disputed": 0,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 0
   },
   "changes": [
     {
@@ -149,235 +150,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R0746",
-            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
-          },
-          "version": "02017R0746-20250110",
-          "location": "AR 74"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R1860",
-            "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2024-07-09, 2025-01-10]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 002 (2)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R0746",
-            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
-          },
-          "version": "02017R0746-20250110",
-          "location": "AR 110"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R1860",
-            "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2024-07-09, 2025-01-10]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 002 (3) (a); AR 002 (3) (b); AR 002 (3) (c); AR 002 (3) (d); AR 002 (3) (e)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R0746",
-            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
-          },
-          "version": "02017R0746-20250110",
-          "location": "AR 112"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R1860",
-            "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2024-07-09, 2025-01-10]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 002 (4) (a); AR 002 (4) (b)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R0746",
-            "display_name": "Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (Text with EEA relevance. )"
-          },
-          "version": "02017R0746-20250110",
-          "location": "AR 113"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R1860",
-            "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2024-07-09, 2025-01-10]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 002 (5) (a); AR 002 (5) (b) (i) (1); AR 002 (5) (b) (i) (2); AR 002 (5) (b) (i) (3); AR 002 (5) (b) (i) (4); AR 002 (5) (b) (ii); AR 002 (5) (c); AR 002 (5) (d); AR 002 (5) (e)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -423,250 +197,15 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 10a",
-          "AR 74",
-          "AR 110",
-          "AR 112",
-          "AR 113"
+          "AR 10a"
         ],
-        "note": "32024R1860, 1.000 of its instruction clauses read",
+        "note": "32024R1860, 1.000 of its instruction clauses read, 21 dated outside the window, 0 undated and claimed",
         "claims": [
           {
             "location": "AR 10a",
             "change_type": "INSERTED",
             "in_force": null,
             "source": "AR 002 (1)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 74 PA 14",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (2)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 2 ALN 2",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (3) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 3",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (3) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 3a",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (3) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 3b",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (3) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 3c",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (3) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 3d",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (3) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 3e",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (3) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 8",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 002 (3) (d)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 110 PA 11",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (3) (e)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 112 PA 1",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (4) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 112 PA 2",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (4) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3 PTA (a)",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 002 (5) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3 PTA (f) ALN 1",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (5) (b) (i) (1)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3 PTA (f) ALN 1 TIRE 10",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (5) (b) (i) (2)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3 PTA (f) ALN 1",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (5) (b) (i) (3)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3 PTA (f) ALN 1",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (5) (b) (i) (4)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3 PTA (f) ALN 2",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (5) (b) (ii)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 002 (5) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3 PTA (g)",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 002 (5) (d)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R1860",
-              "display_name": "Regulation (EU) 2024/1860 of the European Parliament and of the Council of 13 June 2024 amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards a gradual roll-out of Eudamed, the obligation to inform in case of interruption or discontinuation of supply, and transitional provisions for certain in vitro diagnostic medical devices (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 113 PA 3 PTA (j)",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 002 (5) (e)",
             "amending_act": {
               "corpus": "eu",
               "key": "32024R1860",
@@ -692,109 +231,27 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 1,
-        "right_units": 5,
+        "right_units": 1,
         "shared": 1,
         "precision": 1.0,
-        "recall": 0.2,
-        "f1": 0.33333333333333337,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 1,
-        "right_units": 5,
+        "right_units": 1,
         "shared": 1,
         "precision": 1.0,
-        "recall": 0.2,
-        "f1": 0.33333333333333337,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
-    "disagreements": [
-      {
-        "unit": "AR 74",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 110",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 112",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 113",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      }
-    ],
-    "metadata_only_units": [
-      "AR 74",
-      "AR 110",
-      "AR 112",
-      "AR 113"
-    ]
+    "disagreements": [],
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -805,6 +262,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 2806,
       "output_tokens": 389,
@@ -824,5 +284,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 5,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
