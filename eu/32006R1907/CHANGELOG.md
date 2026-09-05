@@ -3088,17 +3088,19 @@ The earlier version of these two points referred only to the three accession dat
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The list of substances subject to authorisation gains seven additional entries, numbered 15 through 22, covering Trichloroethylene, Chromium trioxide, acids generated from chromium trioxide and their oligomers, Sodium dichromate, Potassium dichromate, Ammonium dichromate, Potassium chromate and Sodium chromate. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#anx_XIV)
+The later text keeps all fourteen entries from the earlier list unchanged and adds eight new entries, numbered 15 through 22, covering additional substances such as Trichloroethylene, Chromium trioxide, and several chromate and dichromate compounds. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#anx_XIV)
 
-Each newly added entry specifies its own intrinsic properties, latest application date and sunset date, while the entries already present in the earlier version (numbers 1 through 14) remain unchanged in their wording and dates. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#anx_XIV)
+Each newly added entry sets out its own intrinsic property classification, latest application date, and sunset date, with dates in 2014 or 2016 and 2016 or 2017 respectively, and shows no exempted uses or review periods. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#anx_XIV)
 
 *before* (`02006R1907-20130306`)
 
 > ANNEX XIV
 > LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
-> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
 > Entry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods
-> Latest application date Sunset date
+> Latest application date
+> Sunset date
 > 1. 5-tert-butyl-2,4,6-trinitro-m-xylene
 > (Musk xylene)
 > EC No
@@ -3142,15 +3144,17 @@ Each newly added entry specifies its own intrinsic properties, latest applicatio
 > CAS No
 > 85-68-7 Toxic for reproduction
 > (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate
-> (DBP […truncated by emendrix: 1424 characters omitted…]
+> (DB […truncated by emendrix: 1425 characters omitted…]
 
 *after* (`02006R1907-20130421`)
 
 > ANNEX XIV
 > LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
-> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
 > Entry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods
-> Latest application date Sunset date
+> Latest application date
+> Sunset date
 > 1. 5-tert-butyl-2,4,6-trinitro-m-xylene
 > (Musk xylene)
 > EC No
@@ -3194,7 +3198,7 @@ Each newly added entry specifies its own intrinsic properties, latest applicatio
 > CAS No
 > 85-68-7 Toxic for reproduction
 > (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate
-> (DBP […truncated by emendrix: 2892 characters omitted…]
+> (DB […truncated by emendrix: 2893 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20130421 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20130306 -->
