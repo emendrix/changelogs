@@ -2792,7 +2792,7 @@ The revised text also states that two-generation reproductive toxicity studies i
 ### `02006R1907-20140410` → `02006R1907-20140822`
 
 - **Act** `eu:32006R1907` · **In force** 2014-08-22 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20140410` · `v2` = `02006R1907-20140822`
