@@ -719,7 +719,7 @@ Part 2 is restructured into a numbered list of four entries, adding an EC number
 ### `02012R0649-20160201` → `02012R0649-20180401`
 
 - **Act** `eu:32012R0649` · **In force** 2018-04-01 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20160201` · `v2` = `02012R0649-20180401`
