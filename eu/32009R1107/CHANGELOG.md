@@ -82,7 +82,7 @@ All 144 entries present in the BEFORE version remain unchanged in content and or
 ### `02009R1107-20210327` → `02009R1107-20221121`
 
 - **Act** `eu:32009R1107` · **In force** 2022-11-21 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20210327` · `v2` = `02009R1107-20221121`
