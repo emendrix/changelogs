@@ -1338,11 +1338,11 @@ It further states that Article 77(2) and Article 78a of Regulation (EU) No 575/2
 
 *within* `AR 12g PA 1 ALN 4`, `AR 12g PA 1 ALN 4 PTA (a)`, `AR 12g PA 1 ALN 4 PTA (b)`, `AR 12g PA 1 ALN 5`, `AR 12g PA 1 ALN 6`, `AR 12g PA 2a`, `AR 12g PA 2b` · *amended by* `32024L1174`
 
-A new subparagraph is inserted into paragraph 1 allowing the Board to decide to determine the Article 12d requirement on a consolidated basis for certain subsidiaries, setting out conditions relating to the subsidiary's holding structure or its supervision under Article 104a of Directive 2013/36/EU, and conditions on preserving the group resolution strategy, the subsidiary's own funds capacity and the internal loss transfer and recapitalisation mechanism. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_12g)
+A new subparagraph is inserted into paragraph 1 allowing the Board to decide to determine the Article 12d requirement on a consolidated basis, rather than an individual basis, for certain subsidiaries, setting out conditions relating to the subsidiary's status, the effect of deductions under Article 72e(5) of Regulation (EU) No 575/2013, its treatment under Article 104a of Directive 2013/36/EU, and whether such consolidated treatment would materially impair the group resolution strategy, the subsidiary's capacity to meet own funds requirements after write-down or conversion, or the internal loss transfer and recapitalisation mechanism. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_12g)
 
-Two new paragraphs, 2a and 2b, are added specifying which liabilities issued by a subsidiary consolidated under paragraph 1 are to be included in that entity's own funds and eligible liabilities amount, and capping those liabilities by reference to the requirement under Article 12(1) minus certain amounts already counted. [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_12g)
+Two new paragraphs, 2a and 2b, are added specifying which liabilities issued by a Union-established subsidiary included in the consolidation are to be included in the consolidated own funds and eligible liabilities amount, and capping the amount of such liabilities by reference to the subsidiary's own requirement under Article 12(1) minus liabilities held within the consolidation and own funds issued under paragraph 2, point (b). [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20240513#art_12g)
 
-The earlier version of Article 12g contained none of these consolidated-basis provisions or the new paragraphs 2a and 2b. [Art. 12g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20220812#art_12g)
+The earlier version of Article 12g contained no such consolidated-basis derogation for individual subsidiaries and no equivalent paragraphs 2a or 2b. [Art. 12g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20220812#art_12g)
 
 *before* (`02014R0806-20220812`)
 
@@ -1352,7 +1352,7 @@ The earlier version of Article 12g contained none of these consolidated-basis pr
 > The Board, after consulting the competent authorities, including the ECB, may decide to apply the requirement laid down in this Article to an entity referred to in point (b) of Article 2 that is a subsidiary of a resolution entity but is not itself a resolution entity.
 > By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 12d and 12e on a consolidated basis.
 > For resolution groups identified in accordance with point (b) of point (24b) of Article 3(1), those credit institutions which are permanently affiliated to a central body, but are not themselves resolution entities, a central body which is not itself a resolution entity, and any resolution entities that are not subject to a requirement under Article 12f(3), shall comply with Article 12d(6) on an individual basis.
-> The requirement referred to in Article 12a(1) for an entity referred to in this paragraph shall be determined on the basis of the requirements laid down in Article 12d […truncated by emendrix: 4942 characters omitted…]
+> The requirement referred to in Article 12a(1) for an entity referred to in this paragraph shall be determined on the basis of the requirements laid down in Article 12d […truncated by emendrix: 4943 characters omitted…]
 
 *after* (`02014R0806-20240513`)
 
@@ -1365,7 +1365,7 @@ The earlier version of Article 12g contained none of these consolidated-basis pr
 > (a) the subsidiary meets one of the following conditions:
 > (i) the subsidiary is held directly by the resolution entity and:
 > the resolution entity is a Union parent financial holding company or a Union parent mixed financial holding company;
-> both the subsidiary and the resolution entity are establishe […truncated by emendrix: 8886 characters omitted…]
+> both the subsidiary and the resolution entity are establishe […truncated by emendrix: 8887 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20240513 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20220812 -->
