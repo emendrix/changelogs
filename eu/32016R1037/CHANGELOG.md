@@ -333,11 +333,11 @@ For importers inside the Union, the exemption condition changed from showing the
 
 *within* `AR 24 PA 3 ALN 1`, `AR 24 PA 5 ALN 1`, `AR 24 PA 5 ALN 2`, `AR 24 PA 5 ALN 3`, `AR 24 PA 5a`, `AR 24 PA 6 ALN 1`, `AR 24 PA 8` · *amended by* `32018R0825`
 
-Paragraph 3 now also refers to special provisions on the application and collection of a countervailing duty in a Member State's continental shelf or exclusive economic zone declared under UNCLOS, in addition to the existing reference to the common definition of origin. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_24)
+Paragraph 3 now also allows special provisions on the application and collection of countervailing duty in a Member State's continental shelf or exclusive economic zone declared under UNCLOS, in addition to the origin-related provisions already mentioned. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_24)
 
-Paragraph 5 changes the registration mechanism: registration can now occur as of the initiation of the investigation, registration on request from the Union industry is described as mandatory rather than discretionary, registration may also be triggered on the Commission's own initiative, and registration is introduced by Commission regulation rather than simply by Regulation. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_24)
+Paragraph 5 changes the registration procedure by tying it to the initiation of an investigation, making registration mandatory on a sufficient request from the Union industry, adding that registration may also occur on the Commission's own initiative, and specifying that registration is introduced by Commission regulation rather than simply by Regulation. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20171220#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_24)
 
-A new paragraph 5a on registration during the pre-disclosure period, an added requirement in paragraph 6 for the Commission to create TARIC codes and for Member States to report using them, and a new paragraph 8 on public consultation before adopting general guidance documents, all appear in the later text without corresponding provisions in the earlier text. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_24) [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20171220#art_24)
+A new paragraph 5a on registration during the pre-disclosure period and TARIC-code analysis has been added, paragraph 6 now includes provisions on creating and using TARIC codes and on providing a non-confidential summary of aggregated import data to interested parties, and a new paragraph 8 requiring public consultation before adopting general guidance documents, with possible views from the European Parliament and Council, has been inserted. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_24)
 
 *before* (`02016R1037-20171220`)
 
@@ -347,7 +347,8 @@ A new paragraph 5a on registration during the pre-disclosure period, an added re
 > No product shall be subject to both anti-dumping and countervailing duties for the purpose of dealing with one and the same situation arising from dumping or from export subsidisation.
 > 2. Regulations imposing provisional or definitive countervailing duties, and Regulations or Decisions accepting undertakings or terminating investigations or proceedings, shall be published in the Official Journal of the European Union.
 > Such Regulations or Decisions shall contain in particular, and with due regard to the protection of confidential information, the names of the exporters, if possible, or of the countries involved, a description of the product and a summary of the facts and considerations relevant to the subsidy and injury determinations. In each case, a copy of the Regulation or Decision shall be sent to known interested parties. The provisions of this paragraph shall apply mutatis mutandis to reviews.
-> 3. Special provisions, in particular with regard to the common definition of the concept of origin, as contained in Regulation (EU) No 952/2013 of the European Parliament and of the CouncilRegulat […truncated by emendrix: 2278 characters omitted…]
+> 3. Special provisions, in particular with regard to the common definition of the concept of origin, as contained in Regulation (EU) No 952/2013 of the European Parliament and of the Council
+> Regula […truncated by emendrix: 2279 characters omitted…]
 
 *after* (`02016R1037-20180608`)
 
@@ -357,7 +358,8 @@ A new paragraph 5a on registration during the pre-disclosure period, an added re
 > No product shall be subject to both anti-dumping and countervailing duties for the purpose of dealing with one and the same situation arising from dumping or from export subsidisation.
 > 2. Regulations imposing provisional or definitive countervailing duties, and Regulations or Decisions accepting undertakings or terminating investigations or proceedings, shall be published in the Official Journal of the European Union.
 > Such Regulations or Decisions shall contain in particular, and with due regard to the protection of confidential information, the names of the exporters, if possible, or of the countries involved, a description of the product and a summary of the facts and considerations relevant to the subsidy and injury determinations. In each case, a copy of the Regulation or Decision shall be sent to known interested parties. The provisions of this paragraph shall apply mutatis mutandis to reviews.
-> 3. Special provisions, in particular with regard to the common definition of the concept of origin, as contained in Regulation (EU) No 952/2013 of the European Parliament and of the CouncilRegulat […truncated by emendrix: 4049 characters omitted…]
+> 3. Special provisions, in particular with regard to the common definition of the concept of origin, as contained in Regulation (EU) No 952/2013 of the European Parliament and of the Council
+> Regula […truncated by emendrix: 4050 characters omitted…]
 
 **INSERTED · Art. 24a — Continental shelf of a Member State or exclusive economic zone** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -460,7 +462,7 @@ The new article also requires the Commission to submit a periodic review of the 
 
 *amended by* `32018R0825`
 
-A new Article 32b is added, setting out the conditions under which the Commission may exercise the power to adopt delegated acts, including a two-year period from 8 June 2018 for the power referred to in Article 12(1), the ability of the European Parliament or Council to revoke that delegation, a consultation requirement with Member State experts before adoption, notification obligations to the European Parliament and Council, and a two-month objection period that can be extended by two months. [Art. 32b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_32b)
+A new Article 32b has been added, setting out the conditions under which the Commission may exercise the power to adopt delegated acts referred to in Article 12(1), including the duration of that power, the ability of the European Parliament or Council to revoke it, a consultation requirement before adoption, notification obligations, and a period for objection before such an act enters into force. [Art. 32b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1037-20180608#art_32b)
 
 *after* (`02016R1037-20180608`)
 
@@ -469,9 +471,10 @@ A new Article 32b is added, setting out the conditions under which the Commissio
 > 1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 > 2. The power to adopt delegated acts referred to in Article 12(1) shall be conferred on the Commission for period of two years from 8 June 2018 and it can be exercised only once.
 > 3. The delegation of power referred to in Article 12(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
-> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-MakingOJ L 123, 12.5.2016, p. 1..
+> 4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making
+> OJ L 123, 12.5.2016, p. 1..
 > 5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
-> 6. A delegated act adopted pursuant to Article 12(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the Europe […truncated by emendrix: 198 characters omitted…]
+> 6. A delegated act adopted pursuant to Article 12(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the Europ […truncated by emendrix: 199 characters omitted…]
 
 **INSERTED · Annex Ia** · applies from: unknown
 
