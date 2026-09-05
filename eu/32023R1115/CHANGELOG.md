@@ -833,7 +833,7 @@ Annex III is a newly added section setting out the information required for the 
 ### `32023R1115` → `02023R1115-20241226`
 
 - **Act** `eu:32023R1115` · **In force** 2024-12-26 · **Detected** 2026-08-12
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32023R1115` · `v2` = `02023R1115-20241226`
