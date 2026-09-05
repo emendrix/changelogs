@@ -2272,7 +2272,7 @@ Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, 
 ### `02012R0648-20210213` → `02012R0648-20210628`
 
 - **Act** `eu:32012R0648` · **In force** 2021-06-17, 2021-06-18, 2021-06-28 · **Detected** 2026-08-13
-- **Touched** 7 provisions — 7 substantive · 0 date-only · **1 disputed**
+- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 121 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20210213` · `v2` = `02012R0648-20210628`
@@ -2283,11 +2283,11 @@ Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, 
 
 *within* `AR 4 PA 3a` · *amended by* `32019R0834`
 
-A new paragraph 3a has been inserted requiring clearing members and clients who provide clearing services, directly or indirectly, to offer those services on fair, reasonable, non-discriminatory and transparent commercial terms, and to take reasonable measures to identify, prevent, manage and monitor conflicts of interest, including between trading and clearing units and across different legal entities in the same group. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_4)
+A new paragraph 3a has been inserted, requiring clearing members and clients that provide clearing services, directly or indirectly, to do so on fair, reasonable, non-discriminatory and transparent commercial terms, and to take reasonable measures to identify, prevent, manage and monitor conflicts of interest, including between trading and clearing units within the same group. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_4)
 
-The new paragraph also states that clearing members and clients are permitted to control risks related to the clearing services offered, and it empowers the Commission to adopt delegated acts under Article 82 specifying the conditions under which such commercial terms are considered fair, reasonable, non-discriminatory and transparent, based on listed factors covering fees and pricing transparency, reasonable commercial terms, proportionality of price differences to costs and risks, and risk control criteria. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_4)
+The new paragraph also states that clearing members and clients may control risks related to the clearing services they offer, and it empowers the Commission to adopt delegated acts under Article 82 specifying when the commercial terms are to be considered fair, reasonable, non-discriminatory and transparent, based on listed fairness, reasonableness, non-discrimination and risk-control factors. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_4)
 
-This paragraph 3a did not appear in the earlier version of Article 4, which moved directly from paragraph 3 to paragraph 4. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_4)
+No such paragraph 3a existed in the earlier text of Article 4. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_4)
 
 *before* (`02012R0648-20210213`)
 
@@ -2299,7 +2299,7 @@ This paragraph 3a did not appear in the earlier version of Article 4, which move
 > (ii) between a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) and a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1);
 > (iii) between two non-financial counterparties that meet the conditions set out in the second subparagraph of Article 10(1);
 > (iv) between, on the one side, a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) or a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1), and, on the other side, an entity established in a third country that would be subject to the clearing obligation if it were established in the Union;
-> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 5614 characters omitted…]
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 5615 characters omitted…]
 
 *after* (`02012R0648-20210628`)
 
@@ -2311,21 +2311,24 @@ This paragraph 3a did not appear in the earlier version of Article 4, which move
 > (ii) between a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) and a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1);
 > (iii) between two non-financial counterparties that meet the conditions set out in the second subparagraph of Article 10(1);
 > (iv) between, on the one side, a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) or a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1), and, on the other side, an entity established in a third country that would be subject to the clearing obligation if it were established in the Union;
-> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 7461 characters omitted…]
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 7462 characters omitted…]
 
 **MODIFIED · Art. 50a — Calculation of K CCP** · applies from: unchanged
 
 *within* `AR 50a PA 2 ALN 1` · *amended by* `32019R0876`
 
-The formula for the hypothetical capital calculation was rewritten, replacing the earlier expression that used exposure value before risk mitigation, initial margin and pre-funded contribution as separate terms with a single exposure amount (EADi) that is defined to already include the clearing member's own transactions, guaranteed client transactions, and all collateral held including the pre-funded default fund contribution. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a)
+The formula for the hypothetical capital calculation in paragraph 2 has been rewritten, replacing the earlier version that used separate exposure-before-risk-mitigation, initial margin and default fund contribution terms with a single exposure amount (EAD) term per clearing member that already incorporates collateral held, including pre-funded default fund contributions. [Art. 50a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210213#art_50a) [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a)
 
-The valuation reference point was changed from the end of the day before the final margin call to the end of the regulatory reporting date before the final margin call. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a)
+The definitions listed after the formula changed accordingly, dropping the separate EBRMi, IMi and DFi terms and instead defining KCCP, the index i, and EADi, while keeping the same risk weight of 20% and capital ratio of 8%. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a)
+
+The valuation timing reference changed from the end of the day before the final margin call to the end of the regulatory reporting date before the final margin call of that day is exchanged. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_50a)
 
 *before* (`02012R0648-20210213`)
 
 > Article 50a
 > Calculation of KCCP
-> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 > 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  capital ratio
 > where:
 > EBRMi
@@ -2340,13 +2343,14 @@ The valuation reference point was changed from the end of the day before the fin
 > 8 %.
 > All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
 > 3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
-> 4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the […truncated by emendrix: 560 characters omitted…]
+> 4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the […truncated by emendrix: 561 characters omitted…]
 
 *after* (`02012R0648-20210628`)
 
 > Article 50a
 > Calculation of KCCP
-> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013,p.1., a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 > 2. A CCP shall calculate the hypothetical capital as follows:KCCPi EADiRWcapital ratio
 > where:
 > KCCP
@@ -2361,7 +2365,7 @@ The valuation reference point was changed from the end of the day before the fin
 > 8 %.
 > 3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
 > 4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:
-> (a) the frequency and dates of the […truncated by emendrix: 514 characters omitted…]
+> (a) the frequency and dates of the […truncated by emendrix: 515 characters omitted…]
 
 **MODIFIED · Art. 50b — General rules for the calculation of K CCP** · applies from: unchanged
 
@@ -2454,7 +2458,7 @@ The only change is a punctuation edit in point (c), where the semicolon at the e
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
