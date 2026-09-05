@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32015R0760` → `02015R0760-20240110`
 
 - **Act** `eu:32015R0760` · **In force** 2024-01-09, 2024-01-10 · **Detected** 2026-08-13
-- **Touched** 28 provisions — 28 substantive · 0 date-only · **2 disputed**
+- **Touched** 28 provisions — 26 substantive · 0 date-only · 2 with no text · **2 disputed**
 - **Diff** 2 inserted · 24 modified · 2 deleted · 0 renumbered · 0 deferred · 14 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `32015R0760` · `v2` = `02015R0760-20240110`
@@ -50,11 +50,11 @@ The revised text adds language stating that the investments include those that p
 
 *within* `AR 2 ALN 1 PO 6`, `AR 2 ALN 1 PO 7 PTA (ca)`, `AR 2 ALN 1 PO 14a`, `AR 2 ALN 1 PO 14b`, `AR 2 ALN 1 PO 19`, `AR 2 ALN 1 PO 20`, `AR 2 ALN 1 PO 21` · *dates* +2017-12-12 · *amended by* `32023R0606`
 
-The definition of real asset was shortened by removing the reference to infrastructure and other assets giving rise to economic or social benefit, and to the carve-out for commercial property or housing tied to a long-term investment project, replacing it with a shorter description referring only to intrinsic value due to substance and properties. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
+The definition of real asset in point (6) is shortened, dropping the reference to infrastructure, economic or social benefit examples such as education, counselling and research and development, and the mention of commercial property or housing tied to a long-term investment project, leaving only that a real asset is one having an intrinsic value due to its substance and properties. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
 
-A new point (ca) was added to the financial undertaking definition covering a reinsurance undertaking as defined in Directive 2009/138/EC, and two new definitions, simple, transparent and standardised securitisation and group, were inserted as points (14a) and (14b). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
+A new point (ca) is added to the financial undertaking list to include a reinsurance undertaking as defined in Article 13, point (4), of Directive 2009/138/EC. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
 
-Two further definitions, feeder ELTIF and master ELTIF, were added as points (20) and (21), following the existing point (19) on multilateral trading facility. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
+New points (14a) simple, transparent and standardised securitisation and (14b) group are inserted, and points (20) feeder ELTIF and (21) master ELTIF are added after the existing multilateral trading facility definition, while point (19) itself is otherwise unchanged in wording. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_2)
 
 *before* (`32015R0760`)
 
@@ -66,7 +66,7 @@ Two further definitions, feeder ELTIF and master ELTIF, were added as points (20
 > (3) retail investor means an investor who is not a professional investor;
 > (4) equity means ownership interest in a qualifying portfolio undertaking, represented by the shares or other forms of participation in the capital of the qualifying portfolio undertaking issued to its investors;
 > (5) quasi-equity means any type of financing instrument where the return on the instrument is linked to the profit or loss of the qualifying portfolio undertaking and where the repayment of the instrument in the event of default is not fully secured;
-> (6) real asset means an asset that has value due to its substance and properties and may provide returns, including infrastructure and other assets that give rise to economic or social benefit, such as education, counselling, research and development, and including commercial property or housing only where they are integral to, or an ancillary element of, a long-term investment project that contributes to the Union objective of smart, […truncated by emendrix: 3413 characters omitted…]
+> (6) real asset means an asset that has value due to its substance and properties and may provide returns, including infrastructure and other assets that give rise to economic or social benefit, such as education, counselling, research and development, and including commercial property or housing only where they are integral to, or an ancillary element of, a long-term investment project that contributes to the Union objective of smart, […truncated by emendrix: 3416 characters omitted…]
 
 *after* (`02015R0760-20240110`)
 
@@ -80,7 +80,8 @@ Two further definitions, feeder ELTIF and master ELTIF, were added as points (20
 > (5) quasi-equity means any type of financing instrument where the return on the instrument is linked to the profit or loss of the qualifying portfolio undertaking and where the repayment of the instrument in the event of default is not fully secured;
 > (6) real asset means an asset that has an intrinsic value due to its substance and properties;
 > (7) financial undertaking means any of the following:
-> (a) a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and inv […truncated by emendrix: 4589 characters omitted…]
+> (a) a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council
+> Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and in […truncated by emendrix: 4594 characters omitted…]
 
 **MODIFIED · Art. 3 — Authorisation and central public register** · applies from: unchanged
 
@@ -167,11 +168,11 @@ Article 5(3) no longer mentions approval for the EU AIFM to manage the ELTIF as 
 
 *within* `AR 10 PA 1`, `AR 10 PA 2`, `AR 10 ALN 1` · *dates* +2019-05-28 · *amended by* `32023R0606`
 
-The provision is restructured into numbered paragraphs 1 and 2, with paragraph 1 setting out the categories of eligible assets and adding cross-references to Article 11 for qualifying portfolio undertakings, and paragraph 2 introducing new rules on how investments in other collective investment undertakings are counted for compliance with the limits in Articles 13 and 16(1). [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_10)
+The provision is now split into numbered paragraphs, with the eligible asset categories set out under paragraph 1 and a new paragraph 2 added that sets out rules for determining compliance with investment limits when an ELTIF holds units or shares of other collective investment undertakings. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_10)
 
-The list of eligible asset categories is expanded and altered: point (d) now includes UCITS and EU AIFs managed by EU AIFMs alongside ELTIFs, EuVECAs and EuSEFs and changes the 10% threshold to assets invested in any other collective investment undertaking, point (e) is replaced with a simple reference to real assets without the prior EUR 10000000 value threshold, and new points (f) and (g) are added covering simple, transparent and standardised securitisations and bonds issued under a Regulation on European green bonds. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_10)
+The list of eligible asset categories in paragraph 1 has been expanded and reworded, adding UCITS and EU AIFs managed by EU AIFMs to point (d), replacing the individual real assets category with a general reference to real assets, and adding new categories for certain securitisations and for bonds issued under a Regulation on European green bonds, while also adding an exclusion for feeder ELTIFs from the point (d) limit. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_10)
 
-A new sentence is added stating that the limit in point (d) does not apply to feeder ELTIFs, and paragraph 2 adds provisions on combining assets and cash borrowing positions and on the frequency of information used to determine compliance. [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_10)
+Several points in paragraph 1 now cross-reference qualifying portfolio undertakings as referred to in Article 11, and point (a)(iii) has been reworded to describe an undertaking in which a qualifying portfolio undertaking holds a capital participation rather than a majority-owned subsidiary relationship. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_10)
 
 *before* (`32015R0760`)
 
@@ -198,17 +199,17 @@ A new sentence is added stating that the limit in point (d) does not apply to fe
 > (iii) issued by an undertaking in which a qualifying portfolio undertaking as referred to in Article 11 holds a capital participation in exchange for an equity or quasi-equity instrument acquired by the ELTIF in accordance with point (i) or (ii) of this point (a);
 > (b) debt instruments issued by a qualifying portfolio undertaking as referred to in Article 11;
 > (c) loans granted by the ELTIF to a qualifying portfolio undertaking as referred to in Article 11 with a maturity that does not exceed the life of the ELTIF;
-> (d) units or shares of one or several other ELTIFs, EuVECAs, EuSEFs, UCITS and EU AIFs managed by EU AIFMs provided that those ELTIFs, EuVECAs, EuSEFs, UCITS and EU AIFs invest in eligible investments as referred to in Article 9(1) and (2) and have not themselves invested more […truncated by emendrix: 2239 characters omitted…]
+> (d) units or shares of one or several other ELTIFs, EuVECAs, EuSEFs, UCITS and EU AIFs managed by EU AIFMs provided that those ELTIFs, EuVECAs, EuSEFs, UCITS and EU AIFs invest in eligible investments as referred to in Article 9(1) and (2) and have not themselves invested more […truncated by emendrix: 2240 characters omitted…]
 
 **MODIFIED · Art. 11 — Qualifying portfolio undertaking** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 11 PA 1 ALN 1`, `AR 11 PA 1 ALN 1 PTA (a)`, `AR 11 PA 1 ALN 1 PTA (a) PTI (i)`, `AR 11 PA 1 ALN 1 PTA (a) PTI (ii)`, `AR 11 PA 1 ALN 1 PTA (b) PTI (ii)`, `AR 11 PA 1 ALN 1 PTA (c) PTI (i)`, `AR 11 PA 1 ALN 1 PTA (c) PTI (ii)` · *dates* +2015-05-20 · *amended by* `32023R0606`
 
-The definition of a qualifying portfolio undertaking no longer excludes collective investment undertakings by name, no longer references Article 10, and now specifies that the requirements must be fulfilled at the time of the initial investment. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_11)
+The definition of a qualifying portfolio undertaking no longer excludes collective investment undertakings by name and now specifies that the requirements must be met at the time of the initial investment. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_11)
 
-The exclusion of financial undertakings now carries an exception for a financial undertaking that is not a financial holding company or mixed-activity holding company and that was authorised or registered less than five years before the initial investment, and the market capitalisation threshold in point (b)(ii) has been raised from EUR 500000000 to EUR 1500000000. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_11)
+The exclusion of financial undertakings is qualified by a new exception covering financial undertakings that are not financial or mixed-activity holding companies and that were authorised or registered less than five years before the initial investment, and the market capitalisation threshold for admitted undertakings is raised from EUR 500000000 to EUR 1500000000. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_11)
 
-The third-country criteria in point (c) have been reworded from referring to Financial Action Task Force high-risk and non-cooperative jurisdictions and to a bilateral tax-information agreement, to referring instead to the high-risk third country list under the delegated act pursuant to Article 9(2) of Directive (EU) 2015/849 and to non-mention in Annex I to the Council conclusions on non-cooperative jurisdictions for tax purposes. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_11)
+The third-country criteria are changed from references to Financial Action Task Force high-risk and non-cooperative jurisdiction status and a bilateral tax-information agreement to references to the high-risk third country list under the delegated act adopted pursuant to Directive (EU) 2015/849 and to the Council conclusions annex listing non-cooperative jurisdictions for tax purposes. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_11)
 
 *before* (`32015R0760`)
 
@@ -236,8 +237,9 @@ The third-country criteria in point (c) have been reworded from referring to Fin
 > (i) is not admitted to trading on a regulated market or on a multilateral trading facility; or
 > (ii) is admitted to trading on a regulated market or on a multilateral trading facility and has a market capitalisation of no more than EUR 1500000000;
 > (c) it is established in a Member State, or in a third country provided that the third country:
-> (i) is not identified as high-risk third country listed in the delegated act adopted pursuant to Article 9(2) of Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).;
-> (ii) is not mentioned in Ann […truncated by emendrix: 400 characters omitted…]
+> (i) is not identified as high-risk third country listed in the delegated act adopted pursuant to Article 9(2) of Directive (EU) 2015/849 of the European Parliament and of the Council
+> Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).;
+> (ii) is not mentioned in An […truncated by emendrix: 401 characters omitted…]
 
 **MODIFIED · Art. 12 — Conflicts of interest** · applies from: unchanged
 
@@ -266,11 +268,11 @@ A new paragraph 2 was added allowing an EU AIFM managing an ELTIF, undertakings 
 
 *within* `AR 13 PA 1 ALN 1`, `AR 13 PA 2 ALN 1 PTA (a)`, `AR 13 PA 2 ALN 1 PTA (b)`, `AR 13 PA 2 ALN 1 PTA (c)`, `AR 13 PA 2 ALN 1 PTA (d)`, `AR 13 PA 3 ALN 1`, `AR 13 PA 4 ALN 1`, `AR 13 PA 5 ALN 1`, `AR 13 PA 6 ALN 1`, `AR 13 PA 7 ALN 1` · *dates* -2013-06-26 · *amended by* `32023R0606`
 
-The minimum share of capital that an ELTIF must invest in eligible investment assets is lowered from 70% to 55%, and the per-asset concentration limits in paragraph 2 are raised, for example from 10% to 20% for single qualifying portfolio undertakings, single real assets, and single ELTIF/EuVECA/EuSEF units, with the latter category also extended to include UCITS and EU AIFs managed by an EU AIFM, and the limit on assets under Article 9(1)(b) issued by a single body rising from 5% to 10%. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_13)
+The minimum share of capital an ELTIF must invest in eligible investment assets was lowered from 70% to 55%, and the individual concentration limits in paragraph 2 were raised, with the single-issuer limit for real assets, portfolio undertakings, and fund units increased to 20% and the limit for assets under Article 9(1)(b) increased to 10%, with the range of eligible fund types in point (c) also expanded to include UCITS and EU AIFs managed by an EU AIFM. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_13)
 
-Paragraph 3 no longer caps the combined value of ELTIF, EuVECA and EuSEF units but instead caps the aggregate value of simple, transparent and standardised securitisations at 20%, while the counterparty risk exposure cap in paragraph 4 rises from 5% to 10%, and the former derogation for qualifying portfolio undertakings and real assets in old paragraph 5 is removed, leaving only the bond-issuer derogation, now raising the limit from 10% to 25% instead of 5% to 25%. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_13)
+Paragraph 3 changed from capping the aggregate value of units or shares of ELTIFs, EuVECAs and EuSEFs to instead capping the aggregate value of simple, transparent and standardised securitisations, and the counterparty risk exposure cap in paragraph 4 was raised from 5% to 10%. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_13)
 
-The final paragraph no longer states that companies in the same consolidated accounting group count as a single qualifying portfolio undertaking or single body as its sole content; that rule is retained as paragraph 6 with the cross-reference updated to paragraphs 1 to 5, and a new paragraph 7 is added stating that the limits in paragraphs 2 to 4 do not apply where ELTIFs are marketed solely to professional investors and that the limit in paragraph 2(c) does not apply where an ELTIF is a feeder ELTIF. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_13)
+The former paragraph 5 derogation allowing the 10% limits in points (a) and (b) to rise to 20% subject to a 40% aggregate cap was removed, the remaining derogation for covered bonds was renumbered and its cross-reference and percentages adjusted, and a new paragraph 7 was added stating that the limits in paragraphs 2 to 4 do not apply where ELTIFs are marketed solely to professional investors and that the limit in paragraph 2, point (c), does not apply where an ELTIF is a feeder ELTIF. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_13)
 
 *before* (`32015R0760`)
 
@@ -285,7 +287,7 @@ The final paragraph no longer states that companies in the same consolidated acc
 > 3. The aggregate value of units or shares of ELTIFs, EuvECAs and EuSEFs in an ELTIF portfolio shall not exceed 20 % of the value of the capital of the ELTIF.
 > 4. The aggregate risk exposure to a counterparty of the ELTIF stemming from OTC derivative transactions, repurchase agreements, or reverse repurchase agreements shall not exceed 5 % of the value of the capital of the ELTIF.
 > 5. By way of derogation from points (a) and (b) of paragraph 2, an ELTIF may raise the 10 % limit referred to therein to 20 %, provided that the aggregate value of the assets held by the ELTIF in qualifying portfolio undertakings and in individual real assets in which it invests more than 10 % of its capital does not exceed 40 % of the value of the capital of the ELTIF.
-> 6. By way of derogation from point (d) of paragraph 2, an ELTIF may raise the 5 % limit referred to therein to 25 % where bonds are issued by a credit institution which h […truncated by emendrix: 1281 characters omitted…]
+> 6. By way of derogation from point (d) of paragraph 2, an ELTIF may raise the 5 % limit referred to therein to 25 % where bonds are issued by a credit institution which h […truncated by emendrix: 1282 characters omitted…]
 
 *after* (`02015R0760-20240110`)
 
@@ -548,11 +550,11 @@ The wording on the manager's consideration of investors' interests has also been
 
 *within* `AR 23 PA 3 ALN 1 PTA (b)`, `AR 23 PA 3a`, `AR 23 PA 5 ALN 2` · *dates* +2017-06-14 · *amended by* `32023R0606`
 
-Point (b) of Article 23(3) now refers to disclosure requirements under Regulation (EU) 2017/1129, replacing the earlier reference to Directive 2003/71/EC and Regulation (EC) No 809/2004. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_23)
+Point (b) of Article 23(3)(1) now refers to Regulation (EU) 2017/1129 on prospectuses, replacing the earlier reference to Directive 2003/71/EC and Regulation (EC) No 809/2004. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_23)
 
-A new paragraph 3a has been added listing specific information that the prospectus of a feeder ELTIF must contain, covering matters such as its declaration as a feeder, its investment objective and policy, a description of the master ELTIF, and details of remuneration and charges. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_23)
+A new paragraph 3a has been added listing information that the prospectus of a feeder ELTIF must contain, covering matters such as its status as a feeder, its investment objective and policy, a description of the master ELTIF, the agreement or internal rules governing the feeder-master relationship, how further information can be obtained, and remuneration or cost arrangements. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_23)
 
-Paragraph 5 has been extended with a new provision requiring the manager of an ELTIF marketed to retail investors to include in the feeder ELTIF's annual report a statement on the aggregate charges of the feeder and master ELTIF, and to indicate how the master ELTIF's annual report can be obtained. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_23)
+Paragraph 5 has been extended with a new sentence requiring, where the ELTIF is marketed to retail investors, that the annual report of a feeder ELTIF include a statement on aggregate charges of the feeder and master ELTIF and indicate how the master ELTIF's annual report can be obtained. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_23)
 
 *before* (`32015R0760`)
 
@@ -580,10 +582,11 @@ Paragraph 5 has been extended with a new provision requiring the manager of an E
 > 2. The prospectus shall include all information necessary to enable investors to make an informed assessment regarding the investment proposed to them and, in particular, the risks attached thereto.
 > 3. The prospectus shall contain at least the following:
 > (a) a statement setting out how the ELTIF's investment objectives and strategy for achieving these objectives qualify the fund as long-term in nature;
-> (b) information to be disclosed by collective investment undertakings of the closed-end type in accordance with Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12).;
+> (b) information to be disclosed by collective investment undertakings of the closed-end type in accordance with Regulation (EU) 2017/1129 of the European Parliament and of the Council
+> Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12).;
 > (c) information to be disclosed to investors pursuant to Article 23 of Directive 2011/61/EU, if it is not already covered under point(b) of this paragraph;
 > (d) a prominent indication of the categories of assets in which the ELTIF is authorised to invest;
-> (e) a prominent indication of the jurisdictions in […truncated by emendrix: 4067 characters omitted…]
+> (e) a prominent indication of the jurisdictions in […truncated by emendrix: 4068 characters omitted…]
 
 **MODIFIED · Art. 25 — Cost disclosure** · applies from: unchanged
 
@@ -627,20 +630,21 @@ Paragraph 2 previously required disclosure of an overall ratio of the costs to t
 
 *amended by* `32023R2869`
 
-A new Article 25a is added, setting out that the information referred to in Article 3(3), second subparagraph, is to be made accessible on the European single access point established under Regulation (EU) 2023/2859, with ESMA identified as the collection body drawing that information from notifications made by the competent authority of the ELTIFs. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_25a)
+This is a new provision requiring that information referred to in Article 3(3), second subparagraph, be made accessible on the European single access point, with ESMA acting as the collection body and drawing on notifications from ELTIF competent authorities. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_25a)
 
-The new article also lists requirements the information must comply with, including submission in a data extractable format and accompaniment by specified metadata items such as the ELTIF's names, legal entity identifier, type of information, and an indication of whether personal data is contained. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_25a)
+The provision also sets requirements for the format of that information and the metadata that must accompany it, including entity names, legal entity identifiers where available, information type classification, and an indication of whether personal data is contained. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_25a)
 
 *after* (`02015R0760-20240110`)
 
 > Article 25a
 > Accessibility of information on the European single access point
-> From 10 January 2030, the information referred to in Article 3(3), second subparagraph, of this Regulation shall be made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. For that purpose, the collection body as defined in Article 2, point (2), of that Regulation shall be ESMA. ESMA shall draw that information from the information notified by the competent authority of the ELTIFs in accordance with Article 3(3), first subparagraph, of this Regulation for the purpose of establishment of the central public register referred to in Article 3(3), second subparagraph, of this Regulation.
+> From 10 January 2030, the information referred to in Article 3(3), second subparagraph, of this Regulation shall be made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. For that purpose, the collection body as defined in Article 2, point (2), of that Regulation shall be ESMA. ESMA shall draw that information from the information notified by the competent authority of the ELTIFs in accordance with Article 3(3), first subparagraph, of this Regulation for the purpose of establishment of the central public register referred to in Article 3(3), second subparagraph, of this Regulation.
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the authorised ELTIF to which the information relates;
-> (ii) where available, the legal entity identifier of the authorised ELTIF, as specified pursu […truncated by emendrix: 233 characters omitted…]
+> (ii) where available, the legal entity identifier of the authorised ELTIF, as specified purs […truncated by emendrix: 234 characters omitted…]
 
 **DELETED · Art. 26** · applies from: unknown
 
@@ -648,7 +652,7 @@ The new article also lists requirements the information must comply with, includ
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -682,7 +686,7 @@ In their place, the revised article states that the manager of such an ELTIF is 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -796,7 +800,7 @@ In point (b), the trailing 'and' following the key information document requirem
 
 *within* `AR 34 PA 2 ALN 1` · *dates* +2018-10-23 · *amended by* `32023R0606`
 
-Paragraph 2 now refers to compliance with Regulation (EU) 2018/1725, including its full title and Official Journal reference, replacing the earlier reference to Regulation (EC) No 45/2001. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_34)
+Paragraph 2 now refers to compliance with Regulation (EU) 2018/1725 instead of Regulation (EC) No 45/2001, and includes the full title and Official Journal citation of that regulation, describing it as repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32015R0760#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_34)
 
 *before* (`32015R0760`)
 
@@ -811,7 +815,8 @@ Paragraph 2 now refers to compliance with Regulation (EU) 2018/1725, including i
 > Article 34
 > Powers and competences of ESMA
 > 1. ESMA shall have the powers necessary to carry out the tasks attributed to it by this Regulation.
-> 2. ESMA’s powers in accordance with Directive 2011/61/EU shall also be exercised with respect to this Regulation and in compliance with Regulation (EU) 2018/1725 of the European Parliament and of the CouncilRegulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)..
+> 2. ESMA’s powers in accordance with Directive 2011/61/EU shall also be exercised with respect to this Regulation and in compliance with Regulation (EU) 2018/1725 of the European Parliament and of the Council
+> Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39)..
 > 3. For the purposes of Regulation (EU) No 1095/2010, this Regulation shall be understood as a further legally binding Union act which confers tasks on ESMA as referred to in Article 1(2) of Regulation (EU) No 1095/2010.
 
 **MODIFIED · Art. 37 — Review** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
@@ -853,9 +858,7 @@ Paragraph 2 now sets a specific deadline of 10 April 2030 for the Commission to 
 
 *amended by* `32023R0606`
 
-A new Article 37a is added, requiring the Commission to carry out an assessment and submit a report to the European Parliament and the Council, accompanied where appropriate by a legislative proposal, on possible sustainability-related measures for ELTIFs. [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_37a)
-
-The listed points cover a possible optional designation for ELTIFs marketed as environmentally sustainable or green, a possible general do-no-significant-harm obligation, and possible ways to link the ELTIF framework more closely to the objectives of the European Green Deal. [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_37a)
+A new Article 37a has been inserted, requiring the Commission to carry out an assessment and submit a report to the European Parliament and the Council, accompanied where appropriate by a legislative proposal, on several sustainability-related questions concerning ELTIFs, including a possible optional designation for ELTIFs marketed as environmentally sustainable or green, a possible do-no-significant-harm obligation, and potential contributions to the objectives of the European Green Deal. [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R0760-20240110#art_37a)
 
 *after* (`02015R0760-20240110`)
 
@@ -863,8 +866,10 @@ The listed points cover a possible optional designation for ELTIFs marketed as e
 > Review of sustainability aspects of ELTIFs
 > By 11 January 2026, the Commission shall carry out an assessment and submit a report to the European Parliament and to the Council accompanied, where appropriate, by a legislative proposal, regarding at least the following:
 > (a) whether the creation of an optional designation of ELTIF marketed as environmentally sustainable or green ELTIF is feasible, and in particular:
-> (i) whether such designation should be reserved to ELTIFs that are financial products having sustainable investment as their objective as referred to in Article 9 of Regulation (EU) 2019/2088 of the European Parliament and of the CouncilRegulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability-related disclosures in the financial services sector (OJ L 317, 9.12.2019, p. 1).;
+> (i) whether such designation should be reserved to ELTIFs that are financial products having sustainable investment as their objective as referred to in Article 9 of Regulation (EU) 2019/2088 of the European Parliament and of the Council
+> Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability-related disclosures in the financial services sector (OJ L 317, 9.12.2019, p. 1).;
 > (ii) whether such designation should be reserved to ELTIFs that invest all or a significant part of their eligible assets or total assets into sustainable activities and, if so, how the significant part is to be defined;
-> (iii) whether sustainable activities can be linked to the sustainability criteria set out in the delegated acts adopted pursuant to Articles 10(3), 11(3), 12(2), 13(2), 14(2) and 15(2) of Regulation (EU) 2020/852 of the European Parliament and of the CouncilRegulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and […truncated by emendrix: 657 characters omitted…]
+> (iii) whether sustainable activities can be linked to the sustainability criteria set out in the delegated acts adopted pursuant to Articles 10(3), 11(3), 12(2), 13(2), 14(2) and 15(2) of Regulation (EU) 2020/852 of the European Parliament and of the Council
+> Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, a […truncated by emendrix: 659 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02015R0760-20240110 -->
 
