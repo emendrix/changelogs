@@ -839,7 +839,7 @@ A new Article 21a is added, setting out requirements for issuers and emission al
 ### `02014R0596-20160703` → `02014R0596-20210101`
 
 - **Act** `eu:32014R0596` · **In force** 2021-01-01 · **Detected** 2026-08-13
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **0 disputed**
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 35 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0596-20160703` · `v2` = `02014R0596-20210101`
