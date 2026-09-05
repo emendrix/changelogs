@@ -1177,7 +1177,7 @@ The provided text is truncated partway through subsection 8.2 in the AFTER versi
 ### `02006R1907-20200227` → `02006R1907-20200428`
 
 - **Act** `eu:32006R1907` · **In force** 2020-04-28 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20200227` · `v2` = `02006R1907-20200428`
