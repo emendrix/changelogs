@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02023R1115-20241226` → `02023R1115-20251226`
 
 - **Act** `eu:32023R1115` · **In force** 2025-12-26 · **Detected** 2026-08-12
-- **Touched** 31 provisions — 31 substantive · 0 date-only · **7 disputed**
+- **Touched** 31 provisions — 28 substantive · 0 date-only · 3 with no text · **7 disputed**
 - **Diff** 2 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 14 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02023R1115-20241226` · `v2` = `02023R1115-20251226`
@@ -786,7 +786,7 @@ Paragraph 3 has also been reworded to describe eligible operators as natural per
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -796,7 +796,7 @@ Paragraph 3 has also been reworded to describe eligible operators as natural per
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -823,7 +823,7 @@ Annex III is a newly added section setting out the information required for the 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1115-20251226 -->
