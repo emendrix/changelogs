@@ -4257,11 +4257,11 @@ All other paragraphs of Article 39, covering segregation, disclosure, right of u
 
 *within* `AR 2 ALN 1 PO 8`, `AR 2 ALN 1 PO 8 PTA (a)`, `AR 2 ALN 1 PO 8 PTA (b)`, `AR 2 ALN 1 PO 8 PTA (c)`, `AR 2 ALN 1 PO 8 PTA (d)`, `AR 2 ALN 1 PO 8 PTA (e)`, `AR 2 ALN 1 PO 8 PTA (f)`, `AR 2 ALN 1 PO 8 PTA (g)` · *dates* +2009-11-25 +2013-06-26 +2014-05-15 +2014-07-23 +2016-12-14 · *amended by* `32019R0834`
 
-The definition of financial counterparty in point (8) was restructured from a single unbroken list of authorised entities into seven lettered subpoints (a) to (g), each referring to updated legislation. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2)
+The definition of financial counterparty in point (8) was restructured from a single unbroken list into seven separate lettered subpoints (a) to (g). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2)
 
-References to the earlier directives on investment firms, credit institutions, insurance and reinsurance undertakings, and institutions for occupational retirement provision were replaced with references to Directive 2014/65/EU, Directive 2013/36/EU, Directive 2009/138/EC and Directive (EU) 2016/2341 respectively, and a new subpoint was added covering central securities depositories authorised under Regulation (EU) No 909/2014. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2)
+The references to the underlying sectoral directives were updated, replacing citations to Directives 2004/39/EC, 2006/48/EC, 73/239/EEC, 2002/83/EC, 2005/68/EC and 2003/41/EC with references to Directive 2014/65/EU, Directive 2013/36/EU, Directive 2009/138/EC and Directive (EU) 2016/2341, and a new category covering central securities depositories authorised under Regulation (EU) No 909/2014 was added as point (g). [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_2)
 
-The treatment of UCITS and alternative investment funds was also changed by adding exclusions for those set up exclusively to serve employee share purchase plans and, for AIFs, for securitisation special purpose entities, along with added conditions on establishment or management by an authorised or registered AIFM. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_2)
+The treatment of UCITS and alternative investment funds was also revised, adding exclusions for entities set up exclusively to serve employee share purchase plans and for securitisation special purpose entities as referred to in Directive 2011/61/EU. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_2)
 
 *before* (`02012R0648-20190101`)
 
@@ -4273,7 +4273,7 @@ The treatment of UCITS and alternative investment funds was also changed by addi
 > (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
 > (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
 > (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
-> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 8067 characters omitted…]
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 8071 characters omitted…]
 
 *after* (`02012R0648-20190617`)
 
@@ -4285,15 +4285,15 @@ The treatment of UCITS and alternative investment funds was also changed by addi
 > (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
 > (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
 > (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
-> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 10098 characters omitted…]
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 10107 characters omitted…]
 
 **MODIFIED · Art. 4 — Clearing obligation** · applies from: unchanged
 
 *within* `AR 4 PA 1 ALN 1 PTA (a) PTI (i)`, `AR 4 PA 1 ALN 1 PTA (a) PTI (ii)`, `AR 4 PA 1 ALN 1 PTA (a) PTI (iii)`, `AR 4 PA 1 ALN 1 PTA (a) PTI (iv)`, `AR 4 PA 1 ALN 1 PTA (b)`, `AR 4 PA 1 ALN 1 PTA (b) PTI (i)`, `AR 4 PA 1 ALN 1 PTA (b) PTI (ii)` · *amended by* `32019R0834`
 
-Points (a)(i) through (a)(iv) now require that the financial counterparties or non-financial counterparties involved meet the threshold conditions set out in the second subparagraph of Article 4a(1) or Article 10(1), whereas the earlier text referred instead to Article 10(1)(b) without any Article 4a(1) cross-reference. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_4)
+The list of ways a contract can be concluded under point (a) now cross-references the specific counterparty-status conditions in Article 4a(1) and Article 10(1), where before it referred only generally to Article 10(1)(b), and point (a)(iv) rephrases the third-country pairing to name a financial or non-financial counterparty on one side meeting those conditions. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
 
-Point (b) no longer contains the separate sub-points (i) and (ii) distinguishing contracts entered on or after the clearing-obligation date from those entered after notification but before that date with a minimum remaining maturity; it instead states a single rule tying entry into or novation of the contract to both counterparties meeting the point (a) conditions on that date. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_4)
+Point (b), which previously set out two separate limbs covering contracts entered into after the clearing obligation took effect or after notification but before that date if remaining maturity exceeded a set minimum, is replaced by a single condition that contracts are entered into or novated on or after the date the clearing obligation takes effect and that both counterparties meet the point (a) conditions on that date. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_4)
 
 *before* (`02012R0648-20190101`)
 
@@ -4308,7 +4308,7 @@ Point (b) no longer contains the separate sub-points (i) and (ii) distinguishing
 > (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or appropriate to prevent the evasion of any provisions of this Regulation; and
 > (b) they are entered into or novated either:
 > (i) on or after the date from which the clearing obligation takes effect; or
-> (ii) on or after notification as referred to in Article 5(1) but before the date from which the clearing obligation takes effect if […truncated by emendrix: 5456 characters omitted…]
+> (ii) on or after notification as referred to in Article 5(1) but before the date from which the clearing obligation takes effect if […truncated by emendrix: 5457 characters omitted…]
 
 *after* (`02012R0648-20190617`)
 
@@ -4320,7 +4320,7 @@ Point (b) no longer contains the separate sub-points (i) and (ii) distinguishing
 > (ii) between a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) and a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1);
 > (iii) between two non-financial counterparties that meet the conditions set out in the second subparagraph of Article 10(1);
 > (iv) between, on the one side, a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) or a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1), and, on the other side, an entity established in a third country that would be subject to the clearing obligation if it were established in the Union;
-> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 5614 characters omitted…]
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 5615 characters omitted…]
 
 **INSERTED · Art. 4a — Financial counterparties that are subject to the clearing obligation** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -4345,11 +4345,11 @@ It also describes continued application of the clearing obligation for counterpa
 
 *within* `AR 5 PA 1 ALN 1`, `AR 5 PA 1 ALN 2`, `AR 5 PA 1 ALN 3`, `AR 5 PA 1 ALN 4`, `AR 5 PA 2 ALN 1 PTA (b)` · *amended by* `32019R0834`
 
-Paragraph 1 now also covers the situation where a class of OTC derivatives that a CCP intends to start clearing is already covered by an existing authorisation under Article 14 or 15, requiring the competent authority to notify ESMA in that case as well as in the original authorisation case. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_5)
+Paragraph 1 now also covers the case where a CCP intends to start clearing a class of OTC derivatives already covered by an existing authorisation under Article 14 or 15, requiring the competent authority to notify ESMA of that class as well as of new authorisations, whereas the earlier text only required notification of a fresh authorisation. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_5)
 
-The three subparagraphs in the earlier paragraph 1 concerning ESMA's development of regulatory technical standards on notification content, the submission deadline of 30 September 2012, and the delegation of power to the Commission have been removed from this provision. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_5)
+The three subparagraphs at the end of former paragraph 1, which required ESMA to develop draft regulatory technical standards on notification details and to submit them to the Commission by 30 September 2012, along with the related delegation of power to the Commission, have been removed. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_5)
 
-In paragraph 2, point (b) on the effective date and phase-in of the clearing obligation now ends with a full stop rather than a semicolon followed by "and", separating it more clearly from point (c) on minimum remaining maturity. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_5)
+In paragraph 2, point (b) now ends with a full stop instead of a semicolon followed by "and", a purely formal punctuation change with no wording difference in substance. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_5)
 
 *before* (`02012R0648-20190101`)
 
@@ -4362,7 +4362,7 @@ In paragraph 2, point (b) on the effective date and phase-in of the clearing obl
 > 2. Within six months of receiving notification in accordance with paragraph 1 or accomplishing a procedure for recognition set out in Article 25, ESMA shall, after conducting a public consultation and after consulting the ESRB and, where appropriate, the competent authorities of third countries, develop and submit to the Commission for endorsement draft regulatory technical standards specifying the following:
 > (a) the class of OTC derivatives that should be subject to the clearing obligation referred to in Article 4;
 > (b) the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies; and
-> (c) the minimum remaining maturity of the OTC derivative contracts referred to in Article 4(1)(b)(ii). […truncated by emendrix: 3834 characters omitted…]
+> (c) the minimum remaining maturity of the OTC derivative contracts referred to in Article 4(1)(b)(ii). […truncated by emendrix: 3835 characters omitted…]
 
 *after* (`02012R0648-20190617`)
 
@@ -4374,7 +4374,7 @@ In paragraph 2, point (b) on the effective date and phase-in of the clearing obl
 > (b) the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies.
 > (c) the minimum remaining maturity of the OTC derivative contracts referred to in Article 4(1)(b)(ii).
 > Power is delegated to the Commission to adopt regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
-> In the developing of the draft regulatory technical standards under […truncated by emendrix: 3581 characters omitted…]
+> In the developing of the draft regulatory technical standards under […truncated by emendrix: 3582 characters omitted…]
 
 **MODIFIED · Art. 6 — Public register** · applies from: unchanged
 
@@ -4438,11 +4438,11 @@ A new Article 6a is added, allowing ESMA to request that the Commission suspend 
 
 *within* `AR 9 PA 1 ALN 1`, `AR 9 PA 1 ALN 2 PTA (a)`, `AR 9 PA 1 ALN 2 PTA (b)`, `AR 9 PA 1 ALN 3`, `AR 9 PA 1 ALN 3 PTA (a)`, `AR 9 PA 1 ALN 3 PTA (b)`, `AR 9 PA 1 ALN 3 PTA (c)`, `AR 9 PA 1 ALN 4`, `AR 9 PA 1e`, `AR 9 PA 1f`, `AR 9 PA 6 ALN 1`, `AR 9 PA 6 ALN 1 PTA (a)`, `AR 9 PA 6 ALN 1 PTA (a) PTI (i)`, `AR 9 PA 6 ALN 1 PTA (a) PTI (ii)`, `AR 9 PA 6 ALN 1 PTA (a) PTI (iii)`, `AR 9 PA 6 ALN 1 PTA (b)`, `AR 9 PA 6 ALN 1 PTA (c)`, `AR 9 PA 6 ALN 1 PTA (d)`, `AR 9 PA 6 ALN 2`, `AR 9 PA 6 ALN 3`, `AR 9 PA 6 ALN 4` · *dates* -2012-08-16 +2014-02-12 +2015-11-25 +2020-06-18 · *amended by* `32019R0834`
 
-The reporting obligation dates in paragraph 1(a) and (b) were changed from 16 August 2012 to 12 February 2014, and a new third subparagraph and notification mechanism were added allowing an exemption for intragroup derivative contracts meeting specified consolidation and risk-control conditions. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_9)
+The reporting obligation's date references were changed from 16 August 2012 to 12 February 2014, and the paragraph now adds an exemption from that obligation for intragroup derivative contracts meeting certain consolidation, risk-control, and parent-undertaking conditions, subject to notification to competent authorities. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_9)
 
-The former single sentence on delegation of reporting and the duplication-avoidance requirement were removed from paragraph 1 and replaced with two new separate paragraphs, 1e on correct and non-duplicated reporting and 1f on delegation of the reporting obligation. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_9) [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_9)
+The former single sentence on delegation and non-duplication of reporting has been split and reworded into two new subparagraphs, 1e on accurate and non-duplicated reporting and 1f on delegation of the reporting obligation. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_9)
 
-Paragraph 6 was rewritten so that ESMA must develop the implementing technical standards in close cooperation with the ESCB, with new content on data standards including LEIs, ISINs and UTIs, reporting methods and arrangements, and a requirement to consider consistency with Regulation (EU) 2015/2365 and Article 26 of Regulation (EU) No 600/2014, and the submission deadline to the Commission was changed from 30 September 2012 to 18 June 2020. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_9)
+Paragraph 6 on implementing technical standards was rewritten to require ESMA to work in close cooperation with the ESCB, to specify data standards including legal entity identifiers, ISINs, and unique trade identifiers, methods and arrangements for reporting, and frequency of reports, to require consideration of international developments and consistency with related EU regulations, and to change the submission deadline from 30 September 2012 to 18 June 2020. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_9)
 
 *before* (`02012R0648-20190101`)
 
@@ -4471,7 +4471,7 @@ Paragraph 6 was rewritten so that ESMA must develop the implementing technical s
 > (a) both counterparties are included in the same consolidation on a full basis;
 > (b) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures; and
 > (c) the parent undertaking is not a financial counterparty.
-> Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the con […truncated by emendrix: 3717 characters omitted…]
+> Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the con […truncated by emendrix: 3718 characters omitted…]
 
 **MODIFIED · Art. 10 — Non-financial counterparties** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -4831,11 +4831,11 @@ A new paragraph 5a is added requiring a trade repository, upon request, to give 
 
 *within* `AR 81 PA 3 ALN 1 PTA (p)`, `AR 81 PA 3 ALN 1 PTA (q)`, `AR 81 PA 5 ALN 1`, `AR 81 PA 5 ALN 1 PTA (a)`, `AR 81 PA 5 ALN 1 PTA (b)`, `AR 81 PA 5 ALN 1 PTA (c)`, `AR 81 PA 5 ALN 1 PTA (d)`, `AR 81 PA 5 ALN 2`, `AR 81 PA 5 ALN 3`, `AR 81 PA 5 ALN 4` · *dates* -2012-09-30 +2020-06-18 · *amended by* `32019R0834`
 
-A new point (q) is added to the list of entities in paragraph 3, covering the relevant authorities of a third country in respect of which an implementing act pursuant to Article 76a has been adopted. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_81)
+A new point (q) has been added to paragraph 3, extending the list of entities to which a trade repository must make information available to include relevant authorities of a third country in respect of which an implementing act pursuant to Article 76a has been adopted. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_81)
 
-Paragraph 5 is rewritten so that the regulatory technical standards ESMA must develop are broken into four listed items covering published or available information, publication frequency, operational standards, and the terms, conditions, arrangements and documentation for granting access, replacing the single unbroken description in the earlier version, and the submission deadline to the Commission is changed from 30 September 2012 to 18 June 2020. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_81)
+Paragraph 5 has been restructured so that the content of the regulatory technical standards ESMA must develop is now broken into four listed items covering the information to be published or made available, the frequency of publication, the operational standards for aggregating and comparing data and access, and the terms, conditions, arrangements and documentation for granting access, replacing the single continuous description used before. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_81)
 
-The wording on identity protection is changed from stating that the standards shall aim to ensure that published information is not capable of identifying a party to a contract, to stating that ESMA shall ensure that publication does not reveal the identity of any party, and the delegation of power to the Commission is now expressed as supplementing this Regulation. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_81)
+The deadline for ESMA to submit those draft regulatory technical standards to the Commission has been changed from 30 September 2012 to 18 June 2020, the wording on non-identification of contract parties has been rephrased, and the delegation of power to the Commission now refers to supplementing this Regulation rather than simply adopting the standards. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_81)
 
 *before* (`02012R0648-20190101`)
 
@@ -4850,9 +4850,11 @@ The wording on identity protection is changed from stating that the standards sh
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3228 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 3233 characters omitted…]
 
 *after* (`02012R0648-20190617`)
 
@@ -4867,9 +4869,11 @@ The wording on identity protection is changed from stating that the standards sh
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3671 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 3676 characters omitted…]
 
 **MODIFIED · Art. 82 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -4907,11 +4911,11 @@ The paragraph on entry into force now states that both the European Parliament a
 
 *within* `AR 85 PA 1 ALN 1`, `AR 85 PA 1 ALN 2`, `AR 85 PA 1 ALN 3`, `AR 85 PA 1a`, `AR 85 PA 2 ALN 1`, `AR 85 PA 2 ALN 2`, `AR 85 PA 2 ALN 3`, `AR 85 PA 2 ALN 4`, `AR 85 PA 2 ALN 5`, `AR 85 PA 3 ALN 1`, `AR 85 PA 3 ALN 1 PTA (a)`, `AR 85 PA 3 ALN 1 PTA (b)`, `AR 85 PA 3 ALN 1 PTA (c)`, `AR 85 PA 3 ALN 1 PTA (d)`, `AR 85 PA 3 ALN 1 PTA (e)`, `AR 85 PA 3 ALN 1 PTA (f)`, `AR 85 PA 3 ALN 1 PTA (g)`, `AR 85 PA 3 ALN 2`, `AR 85 PA 3a` · *dates* -2014-08-17 -2014-09-30 -2015-08-17 +2017-06-14 +2019-05-20 +2019-12-18 +2020-05-18 +2020-06-18 +2020-12-18 +2023-06-17 +2024-06-18 · *amended by* `32019R0834`
 
-Paragraph 1 no longer lists the earlier detailed review topics on central bank liquidity access, non-financial firm impact, supervisory framework functioning, margining procyclicality and CCP collateral policies, and instead only requires the Commission to assess application of the Regulation and prepare a general report by a new date. [Art. 85, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_85) [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_85)
+Paragraph 1 no longer lists specific assessment topics for the Commission's general report and instead sets a single review deadline, while a new paragraph 1a requires ESMA to report separately to the Commission on the impact of Regulation (EU) 2019/834 on clearing levels, data quality at trade repositories, delegated reporting, and access to clearing services. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_85)
 
-A new paragraph 1a requires ESMA to report to the Commission on clearing levels and thresholds, data quality at trade repositories, delegated reporting changes, and accessibility of clearing services, matters not present in the earlier version. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_85)
+Paragraph 2 is rewritten to require recurring Commission and ESMA reports on pension scheme arrangements' collateral solutions, adds an expert group to monitor progress, and changes the delegated-act extension mechanism referenced in Article 89(1), replacing the earlier single assessment obligation tied to a three-year extension. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_85)
 
-Paragraph 2 on pension scheme arrangements is expanded with recurring reporting obligations for both the Commission and ESMA, additional assessment criteria, an expert group requirement, and a revised delegated act extension mechanism, while paragraph 3 and the new paragraph 3a introduce further reporting obligations on transaction reporting duplication, trading obligation alignment, and post-trade risk reduction services that were not part of the earlier text's paragraph 3. [Art. 85, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_85) [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_85)
+Paragraph 3 is replaced with new Commission reporting duties on duplicative transaction reporting, alignment of clearing and trading obligations, and post-trade risk reduction services, and a new paragraph 3a requires ESMA to report on reporting-requirement consistency, reporting-chain simplification, trading-obligation alignment, post-trade risk reduction exemptions, and eligible highly liquid instruments, replacing the earlier list of ESMA report topics in former paragraph 3. [Art. 85, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_85) [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_85)
 
 *before* (`02012R0648-20190101`)
 
@@ -4932,30 +4936,31 @@ Paragraph 2 on pension scheme arrangements is expanded with recurring reporting 
 > Reports and review
 > 1. By 18 June 2024 the Commission shall assess the application of this Regulation and prepare a general report. The Commission shall submit that report to the European Parliament and to the Council, together with any appropriate proposals.
 > 1a. By 17 June 2023 ESMA shall submit a report to the Commission on the following:
-> (a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the CouncilRegulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42). on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
+> (a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the Council
+> Regulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42). on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
 > (b) the impact of Regulation (EU) 2019/834 on the quality and accessibility of the data reported to trade repositories, as well as the quality of the information made available by trade repositories;
-> (c) the changes to the reporting framework, includin […truncated by emendrix: 8411 characters omitted…]
+> (c) the changes to the reporting framework, includi […truncated by emendrix: 8413 characters omitted…]
 
 **MODIFIED · Art. 86 — Committee procedure** · applies from: unchanged
 
 *within* `AR 86 PA 3` · *amended by* `32019R0834`
 
-A new paragraph 3 has been added stating that where reference is made to that paragraph, Article 8 of Regulation (EU) No 182/2011, read together with Article 5 of that Regulation, shall apply. [Art. 86, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_86)
-
-Paragraphs 1 and 2 of the Article remain unchanged from the earlier version. [Art. 86, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190101#art_86)
+A new paragraph 3 has been added, stating that where reference is made to that paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, applies. [Art. 86, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_86)
 
 *before* (`02012R0648-20190101`)
 
 > Article 86
 > Committee procedure
-> 1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/ECOJ L 191, 13.7.2001, p. 45.. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+> 1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC
+> OJ L 191, 13.7.2001, p. 45.. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 > 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 
 *after* (`02012R0648-20190617`)
 
 > Article 86
 > Committee procedure
-> 1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/ECOJ L 191, 13.7.2001, p. 45.. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+> 1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC
+> OJ L 191, 13.7.2001, p. 45.. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 > 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 > 3. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
 
