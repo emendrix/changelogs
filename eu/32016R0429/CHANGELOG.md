@@ -124,7 +124,7 @@ Several diseases present in the earlier list, such as swine vesicular disease, T
 ### `02016R0429-20160331` → `02016R0429-20191214`
 
 - **Act** `eu:32016R0429` · **In force** 2019-12-14 · **Detected** 2026-09-04
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **6 disputed**
+- **Touched** 6 provisions — 4 substantive · 0 date-only · 2 with no text · **6 disputed**
 - **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 284 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02016R0429-20160331` · `v2` = `02016R0429-20191214`
@@ -195,7 +195,7 @@ The definition of official veterinarian in point (53) changed from a veterinaria
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -289,7 +289,7 @@ In paragraph 2, the reference to official control under Article 3 of Directive 9
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R0429-20191214 -->
