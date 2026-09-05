@@ -5373,7 +5373,7 @@ The text shown is truncated before its end in both versions, so any further diff
 ### `02006R1907-20071123` → `02006R1907-20081012`
 
 - **Act** `eu:32006R1907` · **In force** 2008-10-12 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Touched** 4 provisions — 2 substantive · 0 date-only · 2 with no text · **4 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20071123` · `v2` = `02006R1907-20081012`
@@ -5472,7 +5472,7 @@ Some entries retained in both versions show minor wording changes, such as the r
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5520,7 +5520,7 @@ New paragraphs 9 through 13 were added covering substances obtained from natural
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20081012 -->
