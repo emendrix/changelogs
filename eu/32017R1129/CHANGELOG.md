@@ -2297,11 +2297,11 @@ Five new points, (c) through (g), were added to paragraph 2, requiring the repor
 
 *within* `AR 1 PA 6a`, `AR 1 PA 6b` · *dates* +2004-04-21 +2008-11-03 · *amended by* `32019R2115`
 
-Two new paragraphs, 6a and 6b, have been inserted after paragraph 6, restricting the exemptions in point (f) of paragraph 4 and point (e) of paragraph 5, and in point (g) of paragraph 4 and point (f) of paragraph 5 respectively, to equity securities and setting out specific conditions under which each pair of exemptions applies. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
+The after text inserts two new paragraphs, 6a and 6b, which were not present before. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
 
-Paragraph 6a limits the takeover-related exemption to cases where the offered equity securities are fungible with securities already admitted to trading and the takeover is not a reverse acquisition transaction under IFRS 3, or where a competent supervisory authority has given prior approval of the relevant document, referencing Directive 2004/25/EC and Commission Regulation (EC) No 1126/2008. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
+Paragraph 6a restricts the exemptions in point (f) of paragraph 4 and point (e) of paragraph 5 to equity securities, applying them only where the offered equity securities are fungible with securities already admitted to trading before the takeover and the takeover is not a reverse acquisition transaction under IFRS 3 paragraph B19, or where a competent supervisory authority under Directive 2004/25/EC has given prior approval of the relevant document. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
 
-Paragraph 6b limits the merger- or division-related exemption to equity securities where the transaction is not a reverse acquisition under IFRS 3 and where the equity securities of the acquiring entity or of the entities subject to division were already admitted to trading on a regulated market before the transaction, a set of paragraphs absent from the earlier version of Article 1. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R1129#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
+Paragraph 6b restricts the exemptions in point (g) of paragraph 4 and point (f) of paragraph 5 to equity securities where the transaction is not a reverse acquisition under IFRS 3 paragraph B19, applying only where the acquiring entity's or the divided entities' equity securities were already admitted to trading on a regulated market before the transaction, whereas the before text contained no such restriction. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R1129#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_1)
 
 *before* (`32017R1129`)
 
@@ -2315,7 +2315,7 @@ Paragraph 6b limits the merger- or division-related exemption to equity securiti
 > (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
 > (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
 > (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
-> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 11423 characters omitted…]
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 11427 characters omitted…]
 
 *after* (`02017R1129-20191231`)
 
@@ -2329,17 +2329,17 @@ Paragraph 6b limits the merger- or division-related exemption to equity securiti
 > (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
 > (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
 > (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
-> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 13281 characters omitted…]
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 13287 characters omitted…]
 
 **MODIFIED · Art. 14 — Simplified disclosure regime for secondary issuances** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 14 PA 1 ALN 1 PTA (b)`, `AR 14 PA 1 ALN 1 PTA (c)`, `AR 14 PA 1 ALN 1 PTA (d)`, `AR 14 PA 2 ALN 1`, `AR 14 PA 3 ALN 1 PTA (e)` · *dates* +2002-07-19 +2013-06-26 · *amended by* `32019R2115`
 
-Point (b) of Article 14(1)(1) now adds a reference to Article 1(5) and extends its coverage to securities giving access to equity securities fungible with the issuer's existing equity securities, whereas before it covered only non-equity securities issued by such issuers. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_14) [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R1129#art_14)
+Point (b) of Article 14(1)(1) now adds a reference to Article 1(5) and extends the category of non-equity securities to also cover securities giving access to equity securities fungible with an issuer's existing equity securities already admitted to trading. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_14) [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R1129#art_14)
 
-A new point (d) is added to Article 14(1)(1), covering issuers whose securities were offered to the public and admitted to trading on an SME growth market for at least two years with full compliance with reporting and disclosure obligations, seeking admission to a regulated market of fungible securities. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_14)
+A new point (d) is added to Article 14(1)(1) covering issuers whose securities were offered to the public and admitted to trading on an SME growth market for at least two years, who complied with reporting and disclosure obligations throughout, and who seek admission to trading on a regulated market of fungible securities. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_14)
 
-Article 14(2)(1) adds detailed rules on how issuers referred to in the new point (d), including third-country issuers on SME growth markets, must compile comparative financial information depending on whether they prepare consolidated accounts under Directive 2013/34/EU, and Article 14(3)(1)(e) is expanded to also cover securities giving access to equity securities. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_14) [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R1129#art_14)
+Article 14(2)(1) adds new text on how issuers referred to in the new point (d), as well as third-country issuers on SME growth markets, must compile comparative financial information depending on whether they prepare consolidated accounts under Directive 2013/34/EU or under national law, and Article 14(3)(1)(e) is expanded to also cover securities giving access to equity securities. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20191231#art_14)
 
 *before* (`32017R1129`)
 
@@ -2362,7 +2362,7 @@ Article 14(2)(1) adds detailed rules on how issuers referred to in the new point
 > (b) without prejudice to Article 1(5), issuers whose equity securities have been admitted to trading on a regulated market or an SME growth market continuously for at least the last 18 months and who issue non-equity securities or securities giving access to equity securities fungible with the existing equity securities of the issuer already admitted to trading;
 > (c) offerors of securities admitted to trading on a regulated market or an SME growth market continuously for at least the last 18 months;
 > (d) issuers whose securities have been offered to the public and admitted to trading on an SME growth market continuously for at least two years, and who have fully complied with reporting and disclosure obligations throughout the period of being admitted to trading, and who seek admission to trading on a regulated market of securities fungible with existing securities which have been previously issued.
-> The simplified prospectus s […truncated by emendrix: 5437 characters omitted…]
+> The simplified prospectus s […truncated by emendrix: 5439 characters omitted…]
 
 **MODIFIED · Art. 15 — EU Growth prospectus** · applies from: unchanged
 
