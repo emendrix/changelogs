@@ -47,7 +47,7 @@
         },
         "heading": "Definitions",
         "before": "Article 4\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n\n(1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;\n\n(2) competent authorities means:\n\n\n(i) competent authorities as defined in point (40) of Article 4(1) of Regulation (EU) No 575/2013, including the European Central Bank with regard to matters relating to the tasks conferred on it by Regulation (EU) No 1024/2013, in Directive 2007/64/EC, and as referred to in Directive 2009/110/EC;\n\n\n(ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions; and\n\n(iii) with regard to deposit guarantee schemes, bodies which administer deposit-guarantee schemes pursuant to Directive 94/19/EC, or, where the operation of the deposit-guarantee scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive.",
-        "after": "Article 4\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;\n(2) competent authority means:\n(i) competent authority as defined in Article 4(1)(40) of Regulation (EU) No 575/2013, and within the meaning of Directives 2007/64/EC and 2009/110/EC;\n(ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;\n(iii) with regard to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;\n(iv) with regard to Directive 2014/59/EU of the European Parliament and of the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190)., a resolution authority as defined in Article 2(1)(18) of that Directive.",
+        "after": "Article 4\nDefinitions\nFor the purposes of this Regulation the following definitions apply:\n(1) financial institutions means credit institutions as defined in Article 4(1) of Directive 2006/48/EC, investment firms as defined in Article 3(1)(b) of Directive 2006/49/EC, and financial conglomerates as defined in Article 2(14) of Directive 2002/87/EC, save that, with regard to Directive 2005/60/EC, financial institutions means credit institutions and financial institutions as defined in Article 3(1) and (2) of that Directive;\n(2) competent authority means:\n(i) competent authority as defined in Article 4(1)(40) of Regulation (EU) No 575/2013, and within the meaning of Directives 2007/64/EC and 2009/110/EC;\n(ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;\n(iii) with regard to Directive 2014/49/EU of the European Parliament and of the Council\nDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;\n(iv) with regard to Directive 2014/59/EU of the European Parliament and of the Council\nDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190)., a resolution authority as defined in Article 2(1)(18) of that Directive.",
         "previous_location": null,
         "changed_within": [
           "AR 4 ALN 1 PO 2",
@@ -101,7 +101,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The term defined in point (2) changes from the plural \"competent authorities\" to the singular \"competent authority\", and sub-point (i) rephrases its cross-reference to point (40) of Article 4(1) of Regulation (EU) No 575/2013 while adding a reference to being within the meaning of Directives 2007/64/EC and 2009/110/EC, dropping the earlier mention of the European Central Bank and Regulation (EU) No 1024/2013.",
+          "text": "The term being defined changes from the plural \"competent authorities\" to the singular \"competent authority\", and point (i) rephrases its cross-reference to Regulation (EU) No 575/2013 while also referencing Directives 2007/64/EC and 2009/110/EC directly rather than only the latter individually as before.",
           "fallback": false,
           "citations": [
             {
@@ -133,9 +133,22 @@
           ]
         },
         {
-          "text": "Sub-point (iii), which previously referred to bodies or public authorities administering deposit-guarantee schemes under Directive 94/19/EC, is replaced with a reference to a designated authority as defined in Article 2(1)(18) of Directive 2014/49/EU.",
+          "text": "Point (iii), which previously referred to bodies administering deposit-guarantee schemes under Directive 94/19/EC or the public authority supervising them, is replaced with a reference to a designated authority as defined in Directive 2014/49/EU.",
           "fallback": false,
           "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32010R1093",
+                  "display_name": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC"
+                },
+                "version": "02010R1093-20140320",
+                "location": "AR 4"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_4",
+              "label": "Art. 4, 02010R1093-20140320"
+            },
             {
               "ref": {
                 "act": {
@@ -152,7 +165,7 @@
           ]
         },
         {
-          "text": "A new sub-point (iv) is added, defining a resolution authority by reference to Article 2(1)(18) of Directive 2014/59/EU, which did not appear in the earlier text.",
+          "text": "A new point (iv) is added, referring to a resolution authority as defined in Directive 2014/59/EU, which did not appear in the earlier text.",
           "fallback": false,
           "citations": [
             {
@@ -448,7 +461,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 8279,
+        "output_tokens": 777,
+        "requests": 2,
+        "schema_repairs": 1
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 4",
+      "occurrence": 0,
+      "digest": "sha256:7daaa7f12efc67ae47a58695f0698545fe0a694f072d2b98116b21f9581ad047"
+    }
+  ]
 }

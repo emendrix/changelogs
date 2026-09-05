@@ -2585,11 +2585,11 @@ A new sentence is added to paragraph 6 stating that, for the purpose of acting w
 
 *within* `AR 4 ALN 1 PO 2`, `AR 4 ALN 1 PO 2 PTI (i)`, `AR 4 ALN 1 PO 2 PTI (ii)`, `AR 4 ALN 1 PO 2 PTI (iii)`, `AR 4 ALN 1 PO 2 PTI (iv)` · *dates* +2014-04-16 +2014-05-15 · *amended by* `32014L0059`
 
-The term defined in point (2) changes from the plural "competent authorities" to the singular "competent authority", and sub-point (i) rephrases its cross-reference to point (40) of Article 4(1) of Regulation (EU) No 575/2013 while adding a reference to being within the meaning of Directives 2007/64/EC and 2009/110/EC, dropping the earlier mention of the European Central Bank and Regulation (EU) No 1024/2013. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
+The term being defined changes from the plural "competent authorities" to the singular "competent authority", and point (i) rephrases its cross-reference to Regulation (EU) No 575/2013 while also referencing Directives 2007/64/EC and 2009/110/EC directly rather than only the latter individually as before. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
 
-Sub-point (iii), which previously referred to bodies or public authorities administering deposit-guarantee schemes under Directive 94/19/EC, is replaced with a reference to a designated authority as defined in Article 2(1)(18) of Directive 2014/49/EU. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
+Point (iii), which previously referred to bodies administering deposit-guarantee schemes under Directive 94/19/EC or the public authority supervising them, is replaced with a reference to a designated authority as defined in Directive 2014/49/EU. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
 
-A new sub-point (iv) is added, defining a resolution authority by reference to Article 2(1)(18) of Directive 2014/59/EU, which did not appear in the earlier text. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
+A new point (iv) is added, referring to a resolution authority as defined in Directive 2014/59/EU, which did not appear in the earlier text. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4)
 
 *before* (`02010R1093-20140320`)
 
@@ -2618,8 +2618,10 @@ A new sub-point (iv) is added, defining a resolution authority by reference to A
 > (2) competent authority means:
 > (i) competent authority as defined in Article 4(1)(40) of Regulation (EU) No 575/2013, and within the meaning of Directives 2007/64/EC and 2009/110/EC;
 > (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
-> (iii) with regard to Directive 2014/49/EU of the European Parliament and of the CouncilDirective 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;
-> (iv) with regard to Directive 2014/59/EU of the European Parliament and of the CouncilDirective 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directi […truncated by emendrix: 334 characters omitted…]
+> (iii) with regard to Directive 2014/49/EU of the European Parliament and of the Council
+> Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on Deposit Guarantee Schemes (OJ L 173, 12.6.2014, p. 149)., a designated authority as defined in Article 2(1)(18) of that Directive;
+> (iv) with regard to Directive 2014/59/EU of the European Parliament and of the Council
+> Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Direc […truncated by emendrix: 336 characters omitted…]
 
 **MODIFIED · Art. 40 — Composition** · applies from: unchanged
 
