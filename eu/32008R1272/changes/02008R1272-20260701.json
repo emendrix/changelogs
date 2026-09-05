@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -15,81 +15,24 @@
   "diff_only": false,
   "summary": {
     "inserted": 4,
-    "modified": 35,
+    "modified": 34,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 39,
+    "touched_units": 38,
     "unchanged_units": 59,
-    "disputed": 28
+    "disputed": 27
   },
   "counts": {
-    "touched": 39,
-    "substantive": 39,
+    "touched": 38,
+    "substantive": 18,
     "date_only": 0,
-    "disputed": 28,
+    "textless": 20,
+    "disputed": 27,
     "quoted": 0,
-    "unexplained": 21
+    "unexplained": 20
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32008R1272",
-            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
-          },
-          "version": "02008R1272-20260701",
-          "location": "AR 1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R2865",
-            "display_name": "Regulation (EU) 2024/2865 of the European Parliament and of the Council of 23 October 2024 amending Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "35 annotations in (2026-05-01, 2026-07-01]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (1)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": "nothing_to_explain"
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -145,7 +88,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -906,7 +849,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -964,7 +907,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -1022,7 +965,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -1080,7 +1023,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -1686,7 +1629,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2076,7 +2019,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2134,7 +2077,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2192,7 +2135,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2522,7 +2465,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2580,7 +2523,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2869,7 +2812,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2927,7 +2870,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -2985,7 +2928,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -3043,7 +2986,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -3101,7 +3044,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -3159,7 +3102,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -3217,7 +3160,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -3275,7 +3218,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     },
     {
@@ -3344,7 +3287,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32024R2865, 0.951 of its instruction clauses read",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 1 dated outside the window, 74 undated and claimed",
             "change_types": []
           }
         },
@@ -3477,7 +3420,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32024R2865, 0.951 of its instruction clauses read",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 1 dated outside the window, 74 undated and claimed",
             "change_types": []
           }
         },
@@ -3587,7 +3530,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32024R2865, 0.951 of its instruction clauses read",
+            "detail": "32024R2865, 0.951 of its instruction clauses read, 1 dated outside the window, 74 undated and claimed",
             "change_types": []
           }
         },
@@ -3596,7 +3539,7 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
       "unexplained_kind": "nothing_to_explain"
     }
   ],
@@ -4047,7 +3990,6 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 1",
           "AR 2",
           "AR 4",
           "AR 5",
@@ -4084,19 +4026,8 @@
           "AR 54a",
           "AR 61"
         ],
-        "note": "32024R2865, 0.951 of its instruction clauses read",
+        "note": "32024R2865, 0.951 of its instruction clauses read, 1 dated outside the window, 74 undated and claimed",
         "claims": [
-          {
-            "location": "AR 1 PA 1",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (1)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2865",
-              "display_name": "Regulation (EU) 2024/2865 of the European Parliament and of the Council of 23 October 2024 amending Regulation (EC) No 1272/2008 on classification, labelling and packaging of substances and mixtures (Text with EEA relevance)"
-            }
-          },
           {
             "location": "AR 2",
             "change_type": "MODIFIED",
@@ -4952,45 +4883,26 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 18,
-        "right_units": 36,
+        "right_units": 35,
         "shared": 16,
         "precision": 0.8888888888888888,
-        "recall": 0.4444444444444444,
-        "f1": 0.5925925925925926,
+        "recall": 0.45714285714285713,
+        "f1": 0.6037735849056604,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 14,
-        "right_units": 36,
+        "right_units": 35,
         "shared": 11,
         "precision": 0.7857142857142857,
-        "recall": 0.3055555555555556,
-        "f1": 0.43999999999999995,
+        "recall": 0.3142857142857143,
+        "f1": 0.44897959183673464,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 1",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AR 2",
         "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
@@ -5548,7 +5460,6 @@
       }
     ],
     "metadata_only_units": [
-      "AR 1",
       "AR 2",
       "AR 13",
       "AR 18",
@@ -5602,5 +5513,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 39,
+      "repaired": 23,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
