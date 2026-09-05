@@ -1954,9 +1954,9 @@ The provision sets out format and metadata requirements for the submitted inform
 
 *within* `AR 1 PA 4 ALN 1 PTA (k)` · *dates* +2020-10-07 · *amended by* `32020R1503`
 
-In Article 1(4)(1), point (k) has been replaced: the former text exempting certain non-equity securities issued by a credit institution up to an aggregated consideration threshold of EUR 150000000 between 18 March 2021 and 31 December 2022 is removed from that point and replaced by a new point (k) referring to an offer of securities to the public from a crowdfunding service provider authorised under Regulation (EU) 2020/1503, subject to the threshold in point (c) of Article 1(2) of that Regulation. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20211110#art_1)
+Article 1(4) gains a new point (k) exempting an offer of securities to the public made by a crowdfunding service provider authorised under Regulation (EU) 2020/1503, provided the offer does not exceed the threshold set in point (c) of Article 1(2) of that Regulation. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20211110#art_1)
 
-The credit-institution exemption previously located at point (k) with the same wording and dates now appears as point (l) in the amended text. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20211110#art_1)
+In the earlier version, Article 1(4) had no such crowdfunding-related exemption, and the point that had been labelled (k) in the later version was instead numbered differently, with the list proceeding from point (j) directly to point (l). [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20210318#art_1)
 
 *before* (`02017R1129-20210318`)
 
@@ -1970,7 +1970,7 @@ The credit-institution exemption previously located at point (k) with the same w
 > (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
 > (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
 > (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
-> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14321 characters omitted…]
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14327 characters omitted…]
 
 *after* (`02017R1129-20211110`)
 
@@ -1984,7 +1984,7 @@ The credit-institution exemption previously located at point (k) with the same w
 > (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
 > (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
 > (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
-> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14838 characters omitted…]
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 14845 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20211110 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20210318 -->
