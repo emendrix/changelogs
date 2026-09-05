@@ -2341,7 +2341,7 @@ Two new paragraphs, 2a and 2b, are added requiring the Commission, as part of th
 ### `02010R1093-20160112` → `02010R1093-20190330`
 
 - **Act** `eu:32010R1093` · **In force** 2019-03-30 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 85 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20160112` · `v2` = `02010R1093-20190330`
