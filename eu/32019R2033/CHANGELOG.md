@@ -50,7 +50,7 @@ The article also designates EBA as the collection body, mandates EBA to develop 
 ### `32019R2033` → `02019R2033-20191205`
 
 - **Act** `eu:32019R2033` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **0 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 62 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32019R2033` · `v2` = `02019R2033-20191205`
@@ -88,11 +88,11 @@ In paragraph 2, the phrase describing the date of application to credit institut
 
 *within* `AR 62 ALN 1 PO 10 PTA (a)`, `AR 62 ALN 1 PO 11 PTA (a)`, `AR 62 ALN 1 PO 12 PTA (a)`, `AR 62 ALN 1 PO 25`, `AR 62 ALN 1 PO 33`
 
-In the amendments to Article 84, 85 and 87 of Regulation (EU) No 575/2013, the references to the requirements under Article 500 of that Regulation have been removed from the lists of requirements used to calculate minority interests and qualifying Tier 1 or own funds amounts, and the wording describing the percentage denominators in those three articles has been rephrased to refer to Common Equity Tier 1, Additional Tier 1 and Tier 2 items rather than to instruments plus share premium accounts, retained earnings and other reserves. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20191205#art_62)
+In the amendments to Articles 84, 85 and 87 of Regulation (EU) No 575/2013, the reference to requirements laid down in Article 500 of that Regulation was removed from the lists of requirements used to calculate minority interests, qualifying Tier 1 capital and qualifying own funds, and the wording describing the denominator percentages for minority interests, qualifying Tier 1 capital and qualifying own funds was replaced with new formulations referring to Common Equity Tier 1 items, Additional Tier 1 items and Tier 2 items rather than to instruments plus share premium accounts, retained earnings and other reserves. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2033#art_62)
 
-The amendment to Article 395(1) now replaces only the first subparagraph of that provision instead of the whole paragraph 1, and the exclusion for connected clients that are not institutions has been extended to also exclude connected clients that are not investment firms. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20191205#art_62)
+The amendment to Article 395 of Regulation (EU) No 575/2013 was changed from replacing paragraph 1 as a whole to replacing only the first subparagraph of Article 395(1), and the phrase describing clients excluded from the 25% sum was expanded from "clients that are not institutions" to "clients that are not institutions or investment firms". [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20191205#art_62)
 
-The amendment to Article 498(1) has been changed into a full replacement of Article 498, now given the heading "Exemption for Commodities dealers", with the same substantive text on the non-application of own funds requirements until 26 June 2021 repeated under this new article heading. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20191205#art_62) [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2033#art_62)
+The amendment to Article 498 of Regulation (EU) No 575/2013 was changed from replacing only the first subparagraph of Article 498(1) to replacing the whole of Article 498, adding a heading titled "Exemption for Commodities dealers" above the same substantive text. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2033#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20191205#art_62)
 
 *before* (`32019R2033`)
 
@@ -102,10 +102,12 @@ The amendment to Article 498(1) has been changed into a full replacement of Arti
 > (1) the title is replaced by the following:
 > Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012;
 > (2) in Article 2, the following paragraph is added:
-> 5. When applying the provisions laid down in Article 1(2) and 1(5) of Regulation (EU) 2019/2033 of the European Parliament and of the CouncilRegulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1). with regard to investment firms referred to in those paragraphs, the competent authorities as defined in point (5) of Article 3(1) of Directive (EU) 2019/2034 of the European Parliament and of the CouncilDirective (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ L 314, 5.12.2019, p. 64).; shall treat those investment firms as if they were institutions under this Regulation.
+> 5. When applying the provisions laid down in Article 1(2) and 1(5) of Regulation (EU) 2019/2033 of the European Parliament and of the Council
+> Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1). with regard to investment firms referred to in those paragraphs, the competent authorities as defined in point (5) of Article 3(1) of Directive (EU) 2019/2034 of the European Parliament and of the Council
+> Directive (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ L 314, 5.12.2019, p. 64).; shall treat those investment firms as if they were institutions under this Regulation.
 > (3) Article 4(1) is amended as follows:
 > (a) point (1) is replaced by the following:
-> (1) credit institution means an undertaking the business of […truncated by emendrix: 28788 characters omitted…]
+> (1) credit institution means an undertaking the business […truncated by emendrix: 28794 characters omitted…]
 
 *after* (`02019R2033-20191205`)
 
@@ -115,18 +117,20 @@ The amendment to Article 498(1) has been changed into a full replacement of Arti
 > (1) the title is replaced by the following:
 > Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012;
 > (2) in Article 2, the following paragraph is added:
-> 5. When applying the provisions laid down in Article 1(2) and 1(5) of Regulation (EU) 2019/2033 of the European Parliament and of the CouncilRegulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1). with regard to investment firms referred to in those paragraphs, the competent authorities as defined in point (5) of Article 3(1) of Directive (EU) 2019/2034 of the European Parliament and of the CouncilDirective (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ L 314, 5.12.2019, p. 64).; shall treat those investment firms as if they were institutions under this Regulation.
+> 5. When applying the provisions laid down in Article 1(2) and 1(5) of Regulation (EU) 2019/2033 of the European Parliament and of the Council
+> Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1). with regard to investment firms referred to in those paragraphs, the competent authorities as defined in point (5) of Article 3(1) of Directive (EU) 2019/2034 of the European Parliament and of the Council
+> Directive (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ L 314, 5.12.2019, p. 64).; shall treat those investment firms as if they were institutions under this Regulation.
 > (3) Article 4(1) is amended as follows:
 > (a) point (1) is replaced by the following:
-> (1) credit institution means an undertaking the business of […truncated by emendrix: 28302 characters omitted…]
+> (1) credit institution means an undertaking the business […truncated by emendrix: 28308 characters omitted…]
 
 **MODIFIED · Art. 63 — Amendments to Regulation (EU) No 600/2014** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 63 ALN 1 PO 4 PTA (e)`, `AR 63 ALN 1 PO 4 PTA (f)`, `AR 63 ALN 1 PO 6a` · *dates* -2021-09-26 +2014-07-02 +2020-09-26
 
-In point (4)(e) and (f) of Article 46, the deadlines by which ESMA must submit draft regulatory and implementing technical standards to the Commission were changed from 26 September 2021 to 26 September 2020. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2033#art_63)
+The deadline for ESMA to submit the draft regulatory technical standards under point 7 of Article 46, and the deadline for the draft implementing technical standards under point 8 of Article 46, are each changed from 26 September 2021 to 26 September 2020. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2033#art_63) [Art. 63, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20191205#art_63)
 
-A new point (6a) was inserted amending Article 50 of Regulation (EU) No 600/2014, replacing paragraphs 2, 3 and 5 to list additional delegated-power provisions, including a reference to Article 47(1a), and specifying that the power is conferred for an indeterminate period from 2 July 2014. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2033#art_63)
+A new point (6a) is added inserting amendments to Article 50 of Regulation (EU) No 600/2014, replacing paragraphs 2, 3 and 5 of that Article to update the lists of delegated-act empowerments they reference and to set 2 July 2014 as the start date for the indeterminate period of delegation in paragraph 2. [Art. 63, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R2033#art_63)
 
 *before* (`32019R2033`)
 
@@ -146,7 +150,7 @@ A new point (6a) was inserted amending Article 50 of Regulation (EU) No 600/2014
 > (a) in paragraph 2, the following point is added:
 > (d) the firm has established the necessary arrangements and procedures to report the information set out in paragraph 6a.;
 > (b) in paragraph 4, the fifth subparagraph is replaced by the following:
-> Member States may allow third‐country firms to provide investment services to, or to perform investment activities together with ancillary services for, eligible counterparties and professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU in their territories in accordance with n […truncated by emendrix: 19253 characters omitted…]
+> Member States may allow third‐country firms to provide investment services to, or to perform investment activities together with ancillary services for, eligible counterparties and professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU in their territories in accordance with n […truncated by emendrix: 19255 characters omitted…]
 
 *after* (`02019R2033-20191205`)
 
@@ -166,7 +170,7 @@ A new point (6a) was inserted amending Article 50 of Regulation (EU) No 600/2014
 > (a) in paragraph 2, the following point is added:
 > (d) the firm has established the necessary arrangements and procedures to report the information set out in paragraph 6a.;
 > (b) in paragraph 4, the fifth subparagraph is replaced by the following:
-> Member States may allow third‐country firms to provide investment services to, or to perform investment activities together with ancillary services for, eligible counterparties and professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU in their territories in accordance with n […truncated by emendrix: 21167 characters omitted…]
+> Member States may allow third‐country firms to provide investment services to, or to perform investment activities together with ancillary services for, eligible counterparties and professional clients within the meaning of Section I of Annex II to Directive 2014/65/EU in their territories in accordance with n […truncated by emendrix: 21169 characters omitted…]
 
 **MODIFIED · Art. 66 — Entry into force and date of application** · applies from: unchanged
 
