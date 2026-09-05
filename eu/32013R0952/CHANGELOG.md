@@ -612,7 +612,7 @@ The only change is that the word 'situation' in the earlier text has been replac
 ### `02013R0952-20131030` → `02013R0952-20161224`
 
 - **Act** `eu:32013R0952` · **In force** 2016-12-24 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 287 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0952-20131030` · `v2` = `02013R0952-20161224`
