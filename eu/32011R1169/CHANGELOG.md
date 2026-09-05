@@ -80,7 +80,7 @@ The earlier version of point 10 listed mustard and products thereof with no such
 ### `02011R1169-20140219` → `02011R1169-20180101`
 
 - **Act** `eu:32011R1169` · **In force** 2015-12-31 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **2 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 68 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02011R1169-20140219` · `v2` = `02011R1169-20180101`
@@ -133,7 +133,7 @@ A new point (h) is added to Article 2(1)(1), incorporating the definition of eng
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
