@@ -2315,7 +2315,7 @@ The provision on the Commission requesting the Agency to prepare a dossier on pr
 ### `02006R1907-20160401` → `02006R1907-20160621`
 
 - **Act** `eu:32006R1907` · **In force** 2016-06-21 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20160401` · `v2` = `02006R1907-20160621`
