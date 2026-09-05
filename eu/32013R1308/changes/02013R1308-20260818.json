@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -14,22 +14,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 1,
-    "modified": 14,
+    "inserted": 0,
+    "modified": 10,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 15,
+    "touched_units": 10,
     "unchanged_units": 248,
-    "disputed": 6
+    "disputed": 1
   },
   "counts": {
-    "touched": 15,
-    "substantive": 15,
+    "touched": 10,
+    "substantive": 10,
     "date_only": 0,
-    "disputed": 6,
+    "textless": 0,
+    "disputed": 1,
     "quoted": 0,
-    "unexplained": 5
+    "unexplained": 0
   },
   "changes": [
     {
@@ -125,7 +126,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -240,64 +242,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20260818",
-          "location": "AR 88a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32026R1739",
-            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (3)",
-            "change_types": [
-              "INSERTED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -344,7 +290,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32026R1739, 1.000 of its instruction clauses read",
+            "detail": "32026R1739, 1.000 of its instruction clauses read, 9 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -373,64 +319,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20260818",
-          "location": "AR 148"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32026R1739",
-            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (4)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -559,7 +449,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -683,7 +574,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -736,7 +628,7 @@
           },
           "instruction_parse": {
             "status": "observed",
-            "detail": "AR 001 (7) (a); AR 001 (7) (b); AR 001 (7) (c); AR 001 (7) (d)",
+            "detail": "AR 001 (7) (a); AR 001 (7) (b); AR 001 (7) (c)",
             "change_types": [
               "MODIFIED"
             ]
@@ -831,7 +723,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -913,64 +806,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20260818",
-          "location": "AR 168"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32026R1739",
-            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (9)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1116,7 +953,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1233,7 +1071,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1347,121 +1186,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20260818",
-          "location": "AN VII"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32026R1739",
-            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (13)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20260818",
-          "location": "AN X"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32026R1739",
-            "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "21 annotations in (2026-03-18, 2026-08-18]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (14) (a); AR 001 (14) (b); AR 001 (14) (c); AR 001 (14) (d)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -1746,20 +1472,15 @@
         "units": [
           "AR 75",
           "AR 78",
-          "AR 88a",
-          "AR 148",
           "AR 149",
           "AR 152",
           "AR 153",
           "AR 157",
-          "AR 168",
           "AR 210a",
           "AR 222",
-          "AR 222a",
-          "AN VII",
-          "AN X"
+          "AR 222a"
         ],
-        "note": "32026R1739, 1.000 of its instruction clauses read",
+        "note": "32026R1739, 1.000 of its instruction clauses read, 9 dated outside the window, 0 undated and claimed",
         "claims": [
           {
             "location": "AR 75 PA 3 PTA (j)",
@@ -1799,28 +1520,6 @@
             "change_type": "INSERTED",
             "in_force": null,
             "source": "AR 001 (2) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
-          },
-          {
-            "location": "AR 88a",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (3)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
-          },
-          {
-            "location": "AR 148",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (4)",
             "amending_act": {
               "corpus": "eu",
               "key": "32026R1739",
@@ -1927,32 +1626,10 @@
             }
           },
           {
-            "location": "AR 153 PA 3",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 001 (7) (d)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
-          },
-          {
             "location": "AR 157 PA 1 PTA (c)",
             "change_type": "INSERTED",
             "in_force": null,
             "source": "AR 001 (8)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
-          },
-          {
-            "location": "AR 168",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (9)",
             "amending_act": {
               "corpus": "eu",
               "key": "32026R1739",
@@ -2013,61 +1690,6 @@
               "key": "32026R1739",
               "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
             }
-          },
-          {
-            "location": "AN VII",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (13)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
-          },
-          {
-            "location": "AN X PO 1",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (14) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
-          },
-          {
-            "location": "AN X PO 2",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (14) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
-          },
-          {
-            "location": "AN X",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (14) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
-          },
-          {
-            "location": "AN X",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (14) (d)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": "Regulation (EU) 2026/1739 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) No 1308/2013, (EU) 2021/2115 and (EU) 2021/2116 as regards the strengthening of the position of farmers in the food supply chain"
-            }
           }
         ]
       }
@@ -2088,45 +1710,26 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 10,
-        "right_units": 14,
+        "right_units": 9,
         "shared": 9,
         "precision": 0.9,
-        "recall": 0.6428571428571429,
-        "f1": 0.75,
+        "recall": 1.0,
+        "f1": 0.9473684210526316,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 9,
-        "right_units": 14,
+        "right_units": 9,
         "shared": 9,
         "precision": 1.0,
-        "recall": 0.6428571428571429,
-        "f1": 0.782608695652174,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 88a",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AR 119",
         "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
@@ -2145,91 +1748,9 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "AR 148",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 168",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN VII",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN X",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
-    "metadata_only_units": [
-      "AR 88a",
-      "AR 148",
-      "AR 168",
-      "AN VII",
-      "AN X"
-    ]
+    "metadata_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -2242,6 +1763,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 5,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 64470,
       "output_tokens": 4074,
@@ -2261,5 +1783,22 @@
     "citations_rejected": 0,
     "notes_dropped": 1,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 15,
+      "repaired": 7,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }

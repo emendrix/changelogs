@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02013R1308-20260318` → `02013R1308-20260818`
 
 - **Act** `eu:32013R1308` · **In force** 2026-08-18 · **Detected** 2026-09-04
-- **Touched** 15 provisions — 15 substantive · 0 date-only · **6 disputed**
-- **Diff** 1 inserted · 14 modified · 0 deleted · 0 renumbered · 0 deferred · 248 unchanged
-- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
+- **Touched** 10 provisions — 10 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 248 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20260318` · `v2` = `02013R1308-20260818`
 
 ---
@@ -105,16 +105,6 @@ Paragraph 3 gains an added sentence empowering the Commission to adopt delegated
 > 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning the modifications, derogations or exemptions to the definitions and sales descriptions provided for in Annex VII. Those delegated acts shall be strictly limited to demonstrated needs resulting from evolving consumer demand, technical progress or the need for product innovation.
 > As regards Part Ia, point 3, of Annex VII, the Commission is empowered to adopt delegated acts in accordance with Article 227 supplementing this Regulation by granting derogations allowing the use of designations reserved for products derived from meat, for other prod […truncated by emendrix: 819 characters omitted…]
 
-**INSERTED · Art. 88a** · applies from: unknown
-
-*amended by* `32026R1739`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 119 — Compulsory particulars** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 119 PA 6` · *dates* +2027-09-19 +2030-03-19
@@ -154,16 +144,6 @@ A new paragraph 6 has been added stating that Article 1, point (8), applies from
 > (d) an indication of provenance;
 > (e) an indication of the bottler or, in the case of sparkling wine, aerated sparkling wine, quality sparkling wine or quality aromatic sparkling wine, the name of the producer or vendor;
 > (f) an indication of the i […truncated by emendrix: 3114 characters omitted…]
-
-**MODIFIED · Art. 148** · applies from: unknown
-
-*amended by* `32026R1739`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 149 — Contractual negotiations in the milk and milk products sector** · applies from: unchanged
 
@@ -329,16 +309,6 @@ A new point (xvii) has been added to the list of objectives in Article 157(1)(c)
 > (iv) exploring potential export markets;
 > (v) without prejudice to Articles 148 and 168, drawing up standard forms of contract […truncated by emendrix: 6817 characters omitted…]
 
-**MODIFIED · Art. 168** · applies from: unknown
-
-*amended by* `32026R1739`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 210a — Vertical and horizontal initiatives for sustainability** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 210a PA 3 ALN 1 PTA (a)`, `AR 210a PA 3 ALN 1 PTA (c)`, `AR 210a PA 3 ALN 1 PTA (d)`, `AR 210a PA 3 ALN 1 PTA (e)`, `AR 210a PA 3 ALN 1 PTA (f)`, `AR 210a PA 6 ALN 1`, `AR 210a PA 6 ALN 2`, `AR 210a PA 6 ALN 3`, `AR 210a PA 6 ALN 4`, `AR 210a PA 6 ALN 5` · *dates* +2009-11-30 +2028-08-19 · *amended by* `32026R1739`
@@ -441,26 +411,6 @@ The rest of Article 222a, including paragraphs 1, 3 and 4, remains textually unc
 > (d) imports and exports of agricultural products, in particular the filling of tariff quotas for the import of agricultural products into the Union.
 > The Union market observatories shall produce reports containing the elements referred to in the first subparagraph.
 > 4. The Member States shall collect the information referred to in paragraph 3 and provide it to the Commission.
-
-**MODIFIED · Annex VII** · applies from: unknown
-
-*amended by* `32026R1739`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Annex X** · applies from: unknown
-
-*amended by* `32026R1739`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20260818 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20260318 -->
