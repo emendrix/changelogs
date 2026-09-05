@@ -2102,7 +2102,7 @@ Both texts are truncated before reaching their end, so any further differences b
 ### `02006R1907-20160714` → `02006R1907-20161011`
 
 - **Act** `eu:32006R1907` · **In force** 2016-10-11 · **Detected** 2026-08-13
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **4 disputed**
+- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **4 disputed**
 - **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 153 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20160714` · `v2` = `02006R1907-20161011`
@@ -2145,9 +2145,9 @@ The only change in Article 6(1) is a spacing adjustment, with the phrase "mixtur
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-Paragraph 2 previously listed seven separate concentration-limit and cut-off references, drawn from Directive 1999/45/EC, Regulation (EC) No 1272/2008, and the classification and labelling inventory, plus a 0,1% weight-by-weight threshold under Annex XIII, as the lowest of which the substance's concentration in a mixture had to be below for the assessment exemption to apply. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#art_14)
+Article 14(2) previously listed seven separate concentration thresholds, points (a) through (f), drawn from Directive 1999/45/EC, Regulation (EC) No 1272/2008 and the classification and labelling inventory, whichever was lowest. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#art_14)
 
-In the later text this list is replaced by only two items: a single cut-off value referencing Article 11, paragraph 3 of Regulation (EC) No 1272/2008, and the same 0,1% weight-by-weight threshold under Annex XIII. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#art_14)
+That list has been replaced with only two points: a single cut-off value referencing Article 11(3) of Regulation (EC) No 1272/2008, and the existing 0,1% weight by weight threshold tied to Annex XIII. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#art_14)
 
 *before* (`02006R1907-20160714`)
 
@@ -2157,8 +2157,9 @@ In the later text this list is replaced by only two items: a single cut-off valu
 > The chemical safety report shall document the chemical safety assessment which shall be conducted in accordance with paragraphs 2 to 7 and with Annex I for either each substance on its own or in a mixture or in an article or a group of substances.
 > 2. A chemical safety assessment in accordance with paragraph 1 need not be performed for a substance which is present in a mixture if the concentration of the substance in the mixture is less than the lowest of any of the following:
 > (a) the applicable concentrations defined in the table of Article 3(3) of Directive 1999/45/EC;
-> (b) the specific concentration limits that have been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixturesOJ L 353, 31.12.2008, p. 1;;
-> (ba) for substances classified as hazardous to the aquatic environment, if a multiplying factor (hereinafter referred to as M-factor) has been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008, the cut-off value in Table 1.1 of Annex I to that Regulation adjusted using t […truncated by emendrix: 3074 characters omitted…]
+> (b) the specific concentration limits that have been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures
+> OJ L 353, 31.12.2008, p. 1;;
+> (ba) for substances classified as hazardous to the aquatic environment, if a multiplying factor (hereinafter referred to as M-factor) has been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008, the cut-off value in Table 1.1 of Annex I to that Regulation adjusted using […truncated by emendrix: 3076 characters omitted…]
 
 *after* (`02006R1907-20161011`)
 
@@ -2174,7 +2175,7 @@ In the later text this list is replaced by only two items: a single cut-off valu
 > (b) physicochemical hazard assessment;
 > (c) environmental hazard assessment;
 > (d) persistent, bioaccumulative and toxic (PBT) and very persistent and very bioaccumulative (vPvB) assessment.
-> 4. If, as a result of carrying out steps (a) to (d) of paragraph 3, the registrant concludes that the substance fulfils the criteria for any of the following hazard classes or categ […truncated by emendrix: 1711 characters omitted…]
+> 4. If, as a result of carrying out steps (a) to (d) of paragraph 3, the registrant concludes that the substance fulfils the criteria for any of the following hazard classes or categ […truncated by emendrix: 1712 characters omitted…]
 
 **MODIFIED · Annex I — GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS** · applies from: unchanged
 
@@ -2182,9 +2183,9 @@ In the later text this list is replaced by only two items: a single cut-off valu
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The only visible difference between the two texts is a formatting correction in the final section heading, where a slash rendered as 'emissionelease' in the earlier version appears correctly as 'emission/release' in the later version. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_I)
+The only visible difference between the two versions is a formatting correction in section 7's format table, where the entry reading "emissionelease sources" is rendered as "emission/release sources." [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_I)
 
-No other wording in the displayed sections 7 and 10 differs between the two versions. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_I)
+No other wording in the Annex, including section 10, differs between the two texts as shown. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_I)
 
 *before* (`02006R1907-20160714`)
 
@@ -2193,7 +2194,7 @@ No other wording in the displayed sections 7 and 10 differs between the two vers
 > 0. INTRODUCTION
 > 0.1. The purpose of this Annex is to set out how manufacturers and importers are to assess and document that the risks arising from the substance they manufacture or import are adequately controlled during manufacture and their own use(s) and that others further down the supply chain can adequately control the risks. This Annex shall also apply adapted as necessary to producers and importers of articles required to make a chemical safety assessment as part of a registration.
 > 0.2. The chemical safety assessment shall be prepared by one or more competent person(s) who have appropriate experience and received appropriate training, including refresher training.
-> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment to t […truncated by emendrix: 36350 characters omitted…]
+> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment to t […truncated by emendrix: 36351 characters omitted…]
 
 *after* (`02006R1907-20161011`)
 
@@ -2202,41 +2203,43 @@ No other wording in the displayed sections 7 and 10 differs between the two vers
 > 0. INTRODUCTION
 > 0.1. The purpose of this Annex is to set out how manufacturers and importers are to assess and document that the risks arising from the substance they manufacture or import are adequately controlled during manufacture and their own use(s) and that others further down the supply chain can adequately control the risks. This Annex shall also apply adapted as necessary to producers and importers of articles required to make a chemical safety assessment as part of a registration.
 > 0.2. The chemical safety assessment shall be prepared by one or more competent person(s) who have appropriate experience and received appropriate training, including refresher training.
-> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment to t […truncated by emendrix: 36352 characters omitted…]
+> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment to t […truncated by emendrix: 36353 characters omitted…]
 
 **MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN VII SCT 8` · *dates* +2016-10-11 · *amended by* `32016R1688`, `32017R0706`
 
-Section 8.3 on skin sensitisation is rewritten to require information showing whether the substance is a skin sensitiser and whether it may be presumed to have the potential to produce significant sensitisation in humans, plus information for risk assessment where required, replacing the earlier two-step assessment of available data followed by in vivo testing. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII)
+Section 8.3 on skin sensitisation is restructured, replacing the prior two-step assessment (human/animal/alternative data review then in vivo testing) with a requirement for information establishing whether the substance is a skin sensitiser potentially producing significant sensitisation in humans and supporting risk assessment, alongside new conditions for when the required studies under points 8.3.1 and 8.3.2 need not be conducted. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII)
 
-The column 2 adaptation conditions are changed to apply to the studies now numbered 8.3.1 and 8.3.2, listing skin corrosion Category 1 classification, strong acid or base pH, or spontaneous flammability in air, water or moisture at room temperature as grounds not to conduct them, differing from the prior column 2 text tied to a single step 2. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII) [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_VII)
+Two new subpoints are added: 8.3.1 on in vitro/in chemico skin sensitisation testing addressing specific key events with its own conditions for omission, and 8.3.2 on in vivo skin sensitisation testing that is only required when the in vitro/in chemico methods are inapplicable or inadequate, replacing the earlier single in vivo testing step that previously appeared directly under 8.3. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII)
 
-New subpoints 8.3.1 (in vitro/in chemico skin sensitisation testing addressing molecular interaction with skin proteins, inflammatory response in keratinocytes, and dendritic cell activation) and 8.3.2 (in vivo skin sensitisation testing, including a rule on studies carried out or initiated before 11 October 2016) are added, where the prior text only referred to the Murine Local Lymph Node Assay as the first-choice in vivo method. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII)
+The after text also adds a statement that in vivo skin sensitisation studies carried out or initiated before 11 October 2016 meeting the requirements of Article 13(3), first subparagraph, and Article 13(4) shall be considered appropriate to address this standard information requirement. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_VII)
 
 *before* (`02006R1907-20160714`)
 
 > ANNEX VII
-> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE
+> This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
 > Column 1 of this Annex establishes the standard information required for:
 > (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
 > (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
 > (c) substances manufactured or imported in quantities of 10 tonnes or more.
 > Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
 > Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
-> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 11644 characters omitted…]
+> In addition to these specific rules, a registrant may adapt the required […truncated by emendrix: 11646 characters omitted…]
 
 *after* (`02006R1907-20161011`)
 
 > ANNEX VII
-> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MOREThis Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
+> STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE
+> This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.
 > Column 1 of this Annex establishes the standard information required for:
 > (a) non-phase-in substances manufactured or imported in quantities of 1 to 10 tonnes;
 > (b) phase-in substances manufactured or imported in quantities of 1 to 10 tonnes and meeting the criteria in Annex III in accordance with Article 12(1)(a) and (b); and
 > (c) substances manufactured or imported in quantities of 10 tonnes or more.
 > Any other relevant physicochemical, toxicological and ecotoxicological information that is available shall be provided. For substances not meeting the criteria in Annex III only the physicochemical requirements as set out in section 7 of this Annex are required.
 > Column 2 of this Annex lists specific rules according to which the required standard information may be omitted, replaced by other information, provided at a different stage or adapted in another way. If the conditions are met under which column 2 of this Annex allows adaptations, the registrant shall clearly state this fact and the reasons for each adaptation under the appropriate headings in the registration dossier.
-> In addition to these specific rules, a registrant may adapt the required s […truncated by emendrix: 13114 characters omitted…]
+> In addition to these specific rules, a registrant may adapt the required […truncated by emendrix: 13116 characters omitted…]
 
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
 
