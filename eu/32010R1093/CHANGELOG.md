@@ -2574,7 +2574,7 @@ A new sentence is added to paragraph 6 stating that, for the purpose of acting w
 ### `02010R1093-20140320` → `02010R1093-20140702`
 
 - **Act** `eu:32010R1093` · **In force** 2014-07-02 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20140320` · `v2` = `02010R1093-20140702`
