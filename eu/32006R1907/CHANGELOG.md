@@ -2805,17 +2805,19 @@ The revised text also states that two-generation reproductive toxicity studies i
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The list of substances subject to authorisation now includes nine additional entries, numbered 23 through 31, covering substances such as technical MDA, arsenic acid, diglyme, 1,2-dichloroethane, MOCA, dichromium tris(chromate), strontium chromate, potassium hydroxyoctaoxodizincatedichromate and pentazinc chromate octahydroxide, each with its own EC and CAS numbers, intrinsic properties, latest application dates and sunset dates. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
+The later text adds nine new entries (numbers 23 through 31) covering substances including technical MDA, arsenic acid, bis(2-methoxyethyl) ether, 1,2-dichloroethane, MOCA, dichromium tris(chromate), strontium chromate, potassium hydroxyoctaoxodizincatedichromate and pentazinc chromate octahydroxide, each with its own intrinsic property, latest application date and sunset date. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
 
-The entries numbered 1 through 22 remain otherwise the same in substance and identifying details between the two versions. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
+The entry for Hexabromocyclododecane (HBCDD) has its latest application date and sunset date changed from 21 February 2013 and 21 August 2014 to 21 February 2014 and 21 August 2015. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
 
 *before* (`02006R1907-20140410`)
 
 > ANNEX XIV
 > LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
-> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
 > Entry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods
-> Latest application date Sunset date
+> Latest application date
+> Sunset date
 > 1. 5-tert-butyl-2,4,6-trinitro-m-xylene
 > (Musk xylene)
 > EC No
@@ -2859,15 +2861,17 @@ The entries numbered 1 through 22 remain otherwise the same in substance and ide
 > CAS No
 > 85-68-7 Toxic for reproduction
 > (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate
-> (DBP […truncated by emendrix: 2892 characters omitted…]
+> (DB […truncated by emendrix: 2893 characters omitted…]
 
 *after* (`02006R1907-20140822`)
 
 > ANNEX XIV
 > LIST OF SUBSTANCES SUBJECT TO AUTHORISATION
-> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(ii) of Regulation (EC) No 1907/2006.
+> Date referred to in Article 58(1)(c)(i) of Regulation (EC) No 1907/2006.
 > Entry Nr Substance Intrinsic property(ies) referred to in Article 57 Transitional arrangements Exempted (categories of) uses Review periods
-> Latest application date Sunset date
+> Latest application date
+> Sunset date
 > 1. 5-tert-butyl-2,4,6-trinitro-m-xylene
 > (Musk xylene)
 > EC No
@@ -2911,7 +2915,7 @@ The entries numbered 1 through 22 remain otherwise the same in substance and ide
 > CAS No
 > 85-68-7 Toxic for reproduction
 > (category 1B) 21 August 2013 21 February 2015 Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC. 6. Dibutyl phthalate
-> (DBP […truncated by emendrix: 4115 characters omitted…]
+> (DB […truncated by emendrix: 4116 characters omitted…]
 
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
 
