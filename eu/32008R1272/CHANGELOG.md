@@ -3766,7 +3766,7 @@ Part C's Section 1.4 heading and content are changed to address mixture componen
 ### `02008R1272-20200501` → `02008R1272-20201017`
 
 - **Act** `eu:32008R1272` · **In force** 2020-10-17 · **Detected** 2026-09-04
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **6 disputed**
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **6 disputed**
 - **Diff** 0 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20200501` · `v2` = `02008R1272-20201017`
