@@ -5402,9 +5402,9 @@ The rest of Article 81, including the list of entities in paragraph 3 and paragr
 
 *within* `AR 2 ALN 1 PO 7` · *amended by* `32015R2365`
 
-In point (7), the definition of an OTC derivative or OTC derivative contract now refers to equivalence with a regulated market being determined in accordance with Article 2a of this Regulation, replacing the prior reference to Article 19(6) of Directive 2004/39/EC. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150916#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2)
+In point (7), the reference for determining whether a third-country market is equivalent to a regulated market changed from Article 19(6) of Directive 2004/39/EC to Article 2a of this Regulation. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150916#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2)
 
-A small wording change also appears, with "considered as equivalent" replaced by "considered to be equivalent" in the same point. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2)
+The wording also shifted slightly, from a market considered as equivalent to a market considered to be equivalent. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_2)
 
 *before* (`02012R0648-20150916`)
 
@@ -5416,7 +5416,7 @@ A small wording change also appears, with "considered as equivalent" replaced by
 > (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
 > (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
 > (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
-> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7884 characters omitted…]
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7888 characters omitted…]
 
 *after* (`02012R0648-20160112`)
 
@@ -5428,7 +5428,7 @@ A small wording change also appears, with "considered as equivalent" replaced by
 > (3) clearing means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
 > (4) trading venue means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
 > (5) derivative or derivative contract means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
-> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7876 characters omitted…]
+> (6) class of derivatives means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amou […truncated by emendrix: 7880 characters omitted…]
 
 **INSERTED · Art. 2a — Equivalence decisions for the purposes of the definition of OTC derivatives** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -5453,11 +5453,11 @@ It also directs the Commission and ESMA to publish and periodically update a lis
 
 *within* `AR 81 PA 3 ALN 1 PTA (b)`, `AR 81 PA 3 ALN 1 PTA (c)`, `AR 81 PA 3 ALN 1 PTA (d)`, `AR 81 PA 3 ALN 1 PTA (e)`, `AR 81 PA 3 ALN 1 PTA (f)`, `AR 81 PA 3 ALN 1 PTA (g)`, `AR 81 PA 3 ALN 1 PTA (h)`, `AR 81 PA 3 ALN 1 PTA (i)`, `AR 81 PA 3 ALN 1 PTA (j)`, `AR 81 PA 3 ALN 1 PTA (k)`, `AR 81 PA 3 ALN 1 PTA (l)`, `AR 81 PA 3 ALN 1 PTA (m)`, `AR 81 PA 3 ALN 1 PTA (n)`, `AR 81 PA 3 ALN 1 PTA (o)`, `AR 81 PA 3 ALN 1 PTA (p)` · *dates* +2009-07-13 +2013-10-15 · *amended by* `32015R2365`
 
-The list of entities entitled to receive necessary information from a trade repository under paragraph 3 has been expanded, adding EBA and EIOPA and inserting several new bodies such as the Single Resolution Board, additional competent and national competent authorities under specified regulations and directives, and the competent authorities designated under Article 10(5). [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
+The list of entities entitled to receive necessary information under paragraph 3 has been expanded, adding EBA and EIOPA and inserting new points covering the ECB acting within the single supervisory mechanism, the Single Resolution Board, various competent or national competent authorities under specified regulations and directives, and the competent authorities designated under Article 10(5) of the Regulation. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
 
-Several existing entries were also reworded, including the reference to the relevant members of the ESCB now naming the ECB's role under the single supervisory mechanism, the reference to the Agency for the Cooperation of Energy Regulators now naming its establishing regulation, and the reference to Union securities and market authorities now qualified by the scope of their supervisory responsibilities and mandates. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
+The lettering of the existing points was shifted to accommodate the new entries, and several entries received added statutory citations, such as the reference to Regulation (EC) No 713/2009 for the Agency for the Cooperation of Energy Regulators and the reference to Council Regulation (EU) No 1024/2013 for the ECB. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150916#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
 
-As a result of these insertions the lettering of the sub-points in paragraph 3 differs between the two texts, with the earlier version running from (a) to (k) and the later version running from (a) to (p). [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20150916#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
+The entry on the relevant Union securities and market authorities was narrowed to those whose supervisory responsibilities and mandates cover contracts, markets, participants and underlyings falling within the scope of the Regulation. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20160112#art_81)
 
 *before* (`02012R0648-20150916`)
 
@@ -5472,11 +5472,12 @@ As a result of these insertions the lettering of the sub-points in paragraph 3 d
 > (d) the competent authority supervising the trading venues of the reported contracts;
 > (e) the relevant members of the ESCB;
 > (f) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bidsOJ L 142, 30.4.2004, p. 12.;
+> (g) supervisory authorities appointed under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids
+> OJ L 142, 30.4.2004, p. 12.;
 > (h) the relevant Union securities and market authorities;
 > (i) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA as referred to in Article 76;
 > (j) the Agency for the Cooperation of Energy Regulators;
-> (k) the resolution authorities designated under Article 3 of Direct […truncated by emendrix: 1552 characters omitted…]
+> (k) the resolution authorities designated under Article 3 of Direc […truncated by emendrix: 1554 characters omitted…]
 
 *after* (`02012R0648-20160112`)
 
@@ -5491,9 +5492,11 @@ As a result of these insertions the lettering of the sub-points in paragraph 3 d
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 2884 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 2888 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20160112 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20150916 -->
