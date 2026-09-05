@@ -89,7 +89,7 @@ It also directs Member States to designate a collection body and notify ESMA, an
 ### `32019R2088` → `02019R2088-20200712`
 
 - **Act** `eu:32019R2088` · **In force** 2020-07-12 · **Detected** 2026-08-13
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **0 disputed**
+- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 16 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32019R2088` · `v2` = `02019R2088-20200712`
