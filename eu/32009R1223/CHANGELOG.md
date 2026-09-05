@@ -70,9 +70,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Entry 142 for Silver was changed from a general listing to one specifying a particle size range of over 100 nm and under 1 mm, described as a powder, and adding a CAS number of 7440-22-4. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_IV)
-
-The conditions for entry 142 were also changed from having no listed product type or maximum concentration restriction to specifying lip products and eye shadow as the applicable product types, with a maximum concentration of 0,2 % for both. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20250901#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_IV)
+Entry 142 for Silver was changed from a general listing with no product type or maximum concentration restriction to one that specifies the substance as a powder with a particle diameter range between 100 nm and 1 mm, adds a CAS number, and limits use to lip products and eye shadow at a maximum concentration of 0,2 % for each. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20250901#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_IV)
 
 *before* (`02009R1223-20250901`)
 
@@ -80,11 +78,12 @@ The conditions for entry 142 were also changed from having no listed product typ
 > LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS
 > Preamble
 > Without prejudice to other provisions in this Regulation, a colorant shall include its salts and lakes and when a colorant is expressed as a specific salt, its other salts and lakes shall also be included.
-> For use as a UV filter, see Annex VI, No 27For use as a UV-filter, see Annex VI, No 30 and No 30a.
+> For use as a UV filter, see Annex VI, No 27
+> For use as a UV-filter, see Annex VI, No 30 and No 30a.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical Name Colour index Number/Name of Common Ingredients Glossary CAS number EC number Colour Product type, Body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i j
-> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4-[( […truncated by emendrix: 20298 characters omitted…]
+> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4-[ […truncated by emendrix: 20299 characters omitted…]
 
 *after* (`02009R1223-20260501`)
 
@@ -92,11 +91,12 @@ The conditions for entry 142 were also changed from having no listed product typ
 > LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS
 > Preamble
 > Without prejudice to other provisions in this Regulation, a colorant shall include its salts and lakes and when a colorant is expressed as a specific salt, its other salts and lakes shall also be included.
-> For use as a UV filter, see Annex VI, No 27For use as a UV-filter, see Annex VI, No 30 and No 30a.
+> For use as a UV filter, see Annex VI, No 27
+> For use as a UV-filter, see Annex VI, No 30 and No 30a.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical Name Colour index Number/Name of Common Ingredients Glossary CAS number EC number Colour Product type, Body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i j
-> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4-[( […truncated by emendrix: 20340 characters omitted…]
+> 1 Sodium tris(1,2-naphthoquinone 1-oximato-O,O')ferrate(1-) 10006 Green Rinse-off products 2 Trisodium tris[5,6-dihydro-5-(hydroxyimino)-6-oxonaphthalene-2-sulphonato(2-)-N5,O6]ferrate(3-) 10020 Green Not to be used in products applied on mucous membranes 3 Disodium 5,7-dinitro-8-oxidonaphthalene-2-sulphonate and its insoluble barium, strontium and zirconium lakes, salts and pigments 10316 Yellow Not to be used in eye products 4 2-[(4-Methyl-2-nitrophenyl)azo]-3-oxo-N-phenylbutyramide 11680 Yellow Not to be used in products applied on mucous membranes 5 2-[(4-Chloro-2-nitrophenyl)azo]-N-(2-chlorophenyl)-3-oxobutyramide 11710 Yellow Not to be used in products applied on mucous membranes 6 2-[(4-Methoxy-2-nitrophenyl)azo]-3-oxo-N-(o-tolyl)butyramide 11725 Orange Rinse-off products 7 4-(Phenylazo)resorcinol 11920 Orange 8 4-[ […truncated by emendrix: 20341 characters omitted…]
 
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
@@ -104,9 +104,11 @@ The conditions for entry 142 were also changed from having no listed product typ
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Entry 7, covering Biphenyl-2-ol, is expanded to also name 2-phenylphenol, 2-hydroxybiphenyl, and Sodium 2-biphenylate (Sodium o-Phenylphenate), adding a second CAS/EC identification pair alongside the original o-Phenylphenol entry. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20250901#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_V)
+Entry 7 now covers Biphenyl-2-ol (o-Phenylphenol) together with a second substance, Sodium 2-biphenylate (Sodium o-Phenylphenate), adding its CAS and EC numbers alongside the original ones. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_V)
 
-The product-type/body-part column changes from separate rows for rinse-off and leave-on products to a combined (a)/(b) listing with the same percentage limits, and the conditions column adds a combined-concentration limit for when o-Phenylphenol and Sodium o-Phenylphenate are used together, plus a new instruction not to use in applications leading to inhalation exposure or in oral products, alongside the existing eye-contact warning. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_V)
+The product-type and body-part column is restated as rinse-off and leave-on categories with the same maximum concentrations as phenol, but a new condition sets a combined maximum concentration when both substances are used together in the same product. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20250901#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_V)
+
+The wording of conditions of use and warnings for entry 7 is expanded to add restrictions on lung-exposure applications and oral products, in addition to the existing warning to avoid contact with eyes. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_V)
 
 *before* (`02009R1223-20250901`)
 
@@ -118,7 +120,13 @@ The product-type/body-part column changes from separate rows for rinse-off and l
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing substances which are listed in this Annex and which release formaldehyde shall be labelled with the warning releases formaldehyde where the total concentration of formaldehyde released in the finished product exceeds 0,001 % (10 ppm), irrespective of whether the finished product contains one or more substances releasing formaldehyde.
 > However, all finished products containing substances referred to in the first subparagraph which comply with Regulation (EC) No 1223/2009 as applicable on 30 July 2022 may be placed on the Union market until 31 July 2024 and be made available on the Union market until 31 July 2026.
-> For uses other than preservative, see Annex III, No 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry […truncated by emendrix: 15931 characters omitted…]
+> For uses other than preservative, see Annex III, No 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, […truncated by emendrix: 15955 characters omitted…]
 
 *after* (`02009R1223-20260501`)
 
@@ -130,7 +138,13 @@ The product-type/body-part column changes from separate rows for rinse-off and l
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing substances which are listed in this Annex and which release formaldehyde shall be labelled with the warning releases formaldehyde where the total concentration of formaldehyde released in the finished product exceeds 0,001 % (10 ppm), irrespective of whether the finished product contains one or more substances releasing formaldehyde.
 > However, all finished products containing substances referred to in the first subparagraph which comply with Regulation (EC) No 1223/2009 as applicable on 30 July 2022 may be placed on the Union market until 31 July 2024 and be made available on the Union market until 31 July 2026.
-> For uses other than preservative, see Annex III, No 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry […truncated by emendrix: 16331 characters omitted…]
+> For uses other than preservative, see Annex III, No 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, […truncated by emendrix: 16355 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20260501 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20250901 -->
