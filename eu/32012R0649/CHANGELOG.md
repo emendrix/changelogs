@@ -238,11 +238,11 @@ Part 3 now additionally lists Bis(pentabromophenyl) ether (decabromodiphenyl eth
 
 *within* `AN I` · *amended by* `32022R0643`
 
-Annex I has been substantially revised, with numerous entries across Parts 1, 2 and 3 receiving updated EC numbers, CN and HS codes, and additional or removed CAS numbers, and with several new chemicals such as 2,4-Dinitrotoluene, 4,4'-Diaminodiphenylmethane, Benalaxyl, Beta-cyfluthrin, Bis(pentabromophenyl) ether, Bromoxynil, Chlorpyrifos, Chlorpyrifos-methyl, Empenthrin, Epoxiconazole, Fenamiphos, Mancozeb, Mecoprop, Mercury, Methiocarb, Perfluorooctanoic acid (PFOA) and its salts, Thiacloprid and Thiophanate-methyl being added. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I)
+The updated Annex I list adds numerous newly listed chemicals in Parts 1, 2 and 3, including entries such as 2,4-Dinitrotoluene, 4,4'-Diaminodiphenylmethane, Beta-cyfluthrin, Bis(pentabromophenyl) ether, Bromoxynil, Chlorpyrifos, Chlorpyrifos-methyl, Empenthrin, Epoxiconazole, Fenamiphos, Mancozeb, Mecoprop, Mercury, Methiocarb, Perfluorooctanoic acid (PFOA) and its salts, Thiacloprid, Thiophanate-methyl and Benalaxyl. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I)
 
-Some entries present in the earlier version, such as Cyanazine's listing category changes and certain lead compound identifiers, have been reformulated with different chemical identifiers or removed, and a number of substances such as Toxaphene and several PFOS derivatives now carry revised or expanded HS code listings. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I)
+Many existing entries have revised CAS, EC (formerly Einecs) and CN or HS code values, and several substance names and cross-references have been reworded, such as the description of the conditions in Article 8(6) and the naming of 1,3-Dichloropropene (cis). [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I)
 
-The introductory notes to Part 1 were also reworded, including the internal cross-reference to Article 8(6) and the description of the entry concerning cis-1,3-dichloropropene, without changing their substantive content. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I)
+Some substances present in the earlier list, such as several PCB, octabromodiphenyl ether and pentabromodiphenyl ether entries and asbestos sub-entries, are restructured with different code groupings and headings in the later list. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I)
 
 *before* (`02012R0649-20200901`)
 
@@ -254,7 +254,11 @@ The introductory notes to Part 1 were also reworded, including the internal cros
 > (referred to in Article 8)
 > It should be noted that where chemicals listed in this part of the Annex are subject to the PIC procedure, the export notification obligations set out in Article 8(2), (3) and (4) shall not apply provided that the conditions laid down in points (b) and (c) of the first subparagraph of Article 8(6) have been fulfilled. Such chemicals, which are identified by the symbol # in the list below, are listed again in Part 3 of this Annex for ease of reference.
 > It should also be noted that where the chemicals listed in this part of the Annex qualify for PIC notification because of the nature of the Union’s final regulatory action, those chemicals are also listed in Part 2 of this Annex. Such chemicals are identified by the symbol + in the list below.
-> Sub-category: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.Use limitation: sr — severe restriction, b — ban (for the sub-category or sub-categories concerned) according to Union legislation.This entry does not affect the existing entry for cis-1,3-dichloropropene (CAS No 10061-01-5).This entry does not affect the existing entry for soluble liquid formulations of methamidophos that exceed 600 g active ingredient/l.Except motor fuels subject to Dire […truncated by emendrix: 30994 characters omitted…]
+> Sub-category: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.
+> Use limitation: sr — severe restriction, b — ban (for the sub-category or sub-categories concerned) according to Union legislation.
+> This entry does not affect the existing entry for cis-1,3-dichloropropene (CAS No 10061-01-5).
+> This entry does not affect the existing entry for soluble liquid formulations of methamidophos that exceed 600 g active ingredient/l.
+> Except motor fuels subject to […truncated by emendrix: 31009 characters omitted…]
 
 *after* (`02012R0649-20220701`)
 
@@ -266,17 +270,21 @@ The introductory notes to Part 1 were also reworded, including the internal cros
 > (referred to in Article 8)
 > It should be noted that where chemicals listed in this part of the Annex are subject to the PIC procedure, the export notification obligations set out in Article 8(2), (3) and (4) shall not apply provided that the conditions laid down in Article 8(6), first subparagraph, points (b) and (c), have been fulfilled. Such chemicals, which are identified by the symbol # in the list below, are listed again in Part 3 of this Annex for ease of reference.
 > It should also be noted that where the chemicals listed in this part of the Annex qualify for PIC notification because of the nature of the Union’s final regulatory action, those chemicals are also listed in Part 2 of this Annex. Such chemicals are identified by the symbol + in the list below.
-> Subcategory: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.Use limitation: sr — severe restriction, b — ban (for the subcategory or subcategories concerned) according to Union legislation.An ex before a code implies that chemicals other than those referred to in the column Chemical may also fall under that subheading.This entry does not affect the existing entry for 1,3-Dichloropropene (cis) (CAS No 10061-01-5).Except motor fuels subject to Directive 98/7 […truncated by emendrix: 33383 characters omitted…]
+> Subcategory: p(1) — pesticide in the group of plant protection products, p(2) — other pesticide including biocides. i(1) — industrial chemical for professional use and i(2) — industrial chemical for public use.
+> Use limitation: sr — severe restriction, b — ban (for the subcategory or subcategories concerned) according to Union legislation.
+> An ex before a code implies that chemicals other than those referred to in the column Chemical may also fall under that subheading.
+> This entry does not affect the existing entry for 1,3-Dichloropropene (cis) (CAS No 10061-01-5).
+> Except motor fuels subject to Directive […truncated by emendrix: 33396 characters omitted…]
 
 **MODIFIED · Annex V — ANNEX V** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN V` · *dates* +2000-09-18 +2007-10-03 +2009-11-30 +2011-06-08 +2019-06-20 · *amended by* `32022R0643`
 
-The list of persistent organic pollutants in Part 1 has been expanded to add new entries such as Dicofol, Pentachlorophenol and its salts and esters, PFOA and its salts and related compounds, PFOS and its salts and perfluorooctane sulfonyl fluoride, and Decabromodiphenyl ether, each with its own EC, CAS and CN code identifiers. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_V)
+Part 1's substance list has been reworked throughout, with CN codes replaced by 'ex' prefixed codes for nearly every entry, several EC/CAS identifiers revised, and new substances such as Dicofol, Pentachlorophenol and its salts and esters, PFOA and its salts, PFOS and its salts, and Decabromodiphenyl ether added, together with accompanying export-ban scope notes for some of them. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_V)
 
-Many CN codes for existing chemicals in Part 1 have been changed, generally replaced with 'ex' prefixed codes and different numeric codes, and explanatory notes on the scope of the export ban were added for several entries including Pentabromodiphenyl ether-related substances and PFOA/PFOS entries. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_V)
+Part 2's introductory text now includes an express exclusion of certain mercury-added products from the export ban, referencing Directive 2000/53/EC and Directive 2011/65/EU, and the numbered entry table has been expanded with additional entries (9 through 13) covering batteries, switches and relays, cosmetics, pesticides/biocides/antiseptics, and non-electronic measuring devices, which were not present before. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_V)
 
-Part 2 now opens with a list of exemptions for mercury-added products such as those for civil protection, military, research, calibration, and certain switches and relays, and it adds new numbered entries (9 through 13) covering batteries, switches and relays, cosmetics, pesticides and biocides, and non-electronic measuring devices, while some earlier entries such as CN codes and CAS/EC identifiers in entries 1 to 4 were also revised. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_V)
+Several existing entries in Part 2, such as those on cosmetic soaps, metallic mercury mixtures, and mercury compounds, have had their CN codes and CAS number formatting revised. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_V)
 
 *before* (`02012R0649-20200901`)
 
@@ -284,7 +292,8 @@ Part 2 now opens with a list of exemptions for mercury-added products such as th
 > Chemicals and articles subject to export ban
 > (referred to in Article 15)
 > PART 1
-> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic PollutantsOJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
+> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic Pollutants
+> OJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
 > Description of chemicals/article(s) subject to export ban Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)
 > Aldrin EC No 206-215-8,
 > CAS No 309-00-2,
@@ -328,7 +337,7 @@ Part 2 now opens with a list of exemptions for mercury-added products such as th
 > Hexachlorobutadiene EC No 201-765-5
 > CAS No 87-68-3
 > CN code 29032900
-> Hexachlorocyclohexanes, inc […truncated by emendrix: 3853 characters omitted…]
+> Hexachlorocyclohexanes, in […truncated by emendrix: 3854 characters omitted…]
 
 *after* (`02012R0649-20220701`)
 
@@ -336,7 +345,8 @@ Part 2 now opens with a list of exemptions for mercury-added products such as th
 > Chemicals and articles subject to export ban
 > (referred to in Article 15)
 > PART 1
-> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic PollutantsOJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
+> Persistent organic pollutants as listed in Annexes A and B to the Stockholm Convention on Persistent Organic Pollutants
+> OJ L 209, 31.7.2006, p. 3. according to the provisions thereof.
 > Description of chemicals/article(s) subject to export ban Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)
 > Aldrin EC No 206-215-8
 > CAS No 309-00-2
@@ -380,7 +390,7 @@ Part 2 now opens with a list of exemptions for mercury-added products such as th
 > Hexachlorobenzene EC No 204-273-9
 > CAS No 118-74-1
 > CN code ex29039200
-> Hexachlorobutadiene EC No […truncated by emendrix: 7708 characters omitted…]
+> Hexachlorobutadiene EC N […truncated by emendrix: 7709 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0649-20220701 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0649-20200901 -->
