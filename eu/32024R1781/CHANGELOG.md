@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for […]
 ### `32024R1781` → `02024R1781-20240628`
 
-- **Act** `eu:32024R1781` · **In force** not stated · **Detected** 2026-08-13
+- **Act** `eu:32024R1781` · **In force** not stated · **Detected** 2026-09-05
 - **Touched** 7 provisions — 7 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 81 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 10 PA 1 ALN 1 PTA (d)`
 
-The only change in Article 10(1)(1)(d) is a spelling correction of one word, from "vender lock-in" to "vendor lock-in", with no other wording altered. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_10)
+The only change in point (d) is a spelling correction of the word previously written as "vender" to "vendor", with no change to the surrounding requirement. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_10)
 
 *before* (`32024R1781`)
 
@@ -58,7 +58,7 @@ The only change in Article 10(1)(1)(d) is a spelling correction of one word, fro
 
 *within* `AR 20 ALN 2 PTA (d)`
 
-Point (d) of Article 20 no longer refers simply to setting priorities under Article 26, but instead describes setting priorities with regard to unsold consumer products in relation to which introducing a prohibition of destruction by economic operators is to be considered under Article 18(3), with particular mention of electrical and electronic equipment when first identifying those unsold consumer products. [Art. 20, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_20) [Art. 20, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_20)
+Point (d) of Article 20 has been expanded from a brief reference to setting priorities under Article 26 into a more detailed description of setting priorities with regard to unsold consumer products for which a prohibition of destruction by economic operators is to be considered under Article 18(3), with particular mention of electrical and electronic equipment when first identifying those unsold consumer products. [Art. 20, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_20) [Art. 20, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_20)
 
 *before* (`32024R1781`)
 
@@ -86,7 +86,7 @@ Point (d) of Article 20 no longer refers simply to setting priorities under Arti
 
 *within* `AR 41 PA 4 ALN 1`
 
-In paragraph 4, the reference to the EU Ecolabel criteria establishment provision was changed from Article 16(2) of Regulation (EC) No 66/2010 to Article 8 of that Regulation. [Art. 41, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_41) [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_41)
+In paragraph 4, the cross-reference to the EU Ecolabel criteria provision has been changed from Article 16(2) of Regulation (EC) No 66/2010 to Article 8 of that Regulation. [Art. 41, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_41) [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_41)
 
 *before* (`32024R1781`)
 
@@ -110,7 +110,7 @@ In paragraph 4, the reference to the EU Ecolabel criteria establishment provisio
 
 *within* `AR 65 PA 3 ALN 5`
 
-In the fifth subparagraph describing targets, the reference to the most environmentally sustainable products "as referred to in the fourth subparagraph" has been removed, leaving only a general reference to the most environmentally sustainable products. [Art. 65, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_65) [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_65)
+In the fifth subparagraph on targets, the phrase referring to the most environmentally sustainable products as referred to in the fourth subparagraph has been shortened to simply refer to the most environmentally sustainable products, removing the cross-reference to the fourth subparagraph. [Art. 65, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_65) [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_65)
 
 *before* (`32024R1781`)
 
@@ -136,7 +136,7 @@ In the fifth subparagraph describing targets, the reference to the most environm
 
 *within* `AR 69 PA 5 ALN 1`
 
-In paragraph 5, the phrase describing what must be included alongside the nature of the alleged non-compliance was changed from referring to "the non-compliance involved" to referring to "the risk involved". [Art. 69, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_69) [Art. 69, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_69)
+In paragraph 5, the phrase describing the non-compliance and the risk involved was changed from referring to "the non-compliance involved" to referring to "the risk involved". [Art. 69, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_69) [Art. 69, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_69)
 
 *before* (`32024R1781`)
 
@@ -162,9 +162,9 @@ In paragraph 5, the phrase describing what must be included alongside the nature
 
 *within* `AR 77 ALN 1`, `AR 77 ALN 1 PO 27`
 
-The regulation number referenced in point (27) of Annex I to Directive (EU) 2020/1828 changed from 2024/1726 to 2024/1781. [Art. 77, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_77) [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_77)
+The regulation number referenced in point (27) of Annex I to Directive (EU) 2020/1828 is changed from 2024/1726 to 2024/1781. [Art. 77, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_77) [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_77)
 
-The Official Journal reference and the ELI link in that same point were updated accordingly, replacing the 2024/1726 identifiers with 2024/1781 identifiers. [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_77)
+Correspondingly, the Official Journal reference and ELI link for that regulation are updated to match the new number, 2024/1781. [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_77)
 
 *before* (`32024R1781`)
 
@@ -177,24 +177,29 @@ The Official Journal reference and the ELI link in that same point were updated 
 
 > Article 77
 > Amendment of Directive (EU) 2020/1828
-> Point (27) of Annex I to Directive (EU) 2020/1828 is replaced by the following:(27) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).
+> Point (27) of Annex I to Directive (EU) 2020/1828 is replaced by the following:
+> (27) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).
 
 **MODIFIED · Art. 78 — Amendment of Regulation (EU) 2023/1542** · applies from: unchanged
 
 *within* `AR 78 ALN 1`
 
-The text changes the referenced regulation number from 2024/1726 to 2024/1781 in the citation of the registry provision, and correspondingly updates the OJ reference and ELI link to point to 2024/1781. [Art. 78, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_78) [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_78)
+The reference to the regulation cited in the added paragraph 10 was changed from Regulation (EU) 2024/1726 to Regulation (EU) 2024/1781, including the corresponding OJ reference and ELI link. [Art. 78, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1781#art_78) [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1781-20240628#art_78)
 
 *before* (`32024R1781`)
 
 > Article 78
 > Amendment of Regulation (EU) 2023/1542
-> In Article 77 of Regulation (EU) 2023/1542, the following paragraph is added:10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1726 of the European Parliament and of the CouncilRegulation (EU) 2024/1726 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1726, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1726/oj)...
+> In Article 77 of Regulation (EU) 2023/1542, the following paragraph is added:
+> 10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1726 of the European Parliament and of the Council
+> Regulation (EU) 2024/1726 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1726, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1726/oj)...
 
 *after* (`02024R1781-20240628`)
 
 > Article 78
 > Amendment of Regulation (EU) 2023/1542
-> In Article 77 of Regulation (EU) 2023/1542, the following paragraph is added:10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1781 of the European Parliament and of the CouncilRegulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj)..
+> In Article 77 of Regulation (EU) 2023/1542, the following paragraph is added:
+> 10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1781 of the European Parliament and of the Council
+> Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj)..
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02024R1781-20240628 -->
 
