@@ -648,7 +648,7 @@ Point 7d requires that where an EU fertilising product contains a component mate
 ### `02019R1009-20221003` → `02019R1009-20230316`
 
 - **Act** `eu:32019R1009` · **In force** 2023-03-16 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 55 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1009-20221003` · `v2` = `02019R1009-20230316`
