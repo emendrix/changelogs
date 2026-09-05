@@ -16327,9 +16327,9 @@ It also states that an internal hedge using an equity derivative only qualifies 
 
 *within* `AR 4 PA 1 ALN 1 PO 130a` · *amended by* `32022R2036`
 
-A new definition, point (130a), has been inserted between the existing definitions of 'resolution authority' and 'resolution entity', defining 'relevant third-country authority' by reference to point (90) of Article 2(1) of Directive 2014/59/EU. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_4)
+A new definition, point (130a), has been inserted after point (130), defining "relevant third-country authority" by reference to Article 2(1), point (90), of Directive 2014/59/EU. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_4)
 
-This entry does not appear at all in the earlier version of the list of definitions. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_4)
+This entry does not appear in the earlier version of Article 4(1)(1), which moves directly from the definition of resolution authority in point (130) to the definition of resolution entity in point (131). [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20220708#art_4)
 
 *before* (`02013R0575-20220708`)
 
@@ -16338,10 +16338,11 @@ This entry does not appear at all in the earlier version of the list of definiti
 > 1. For the purposes of this Regulation, the following definitions shall apply:
 > (1) credit institution means an undertaking the business of which consists of any of the following:
 > (a) to take deposits or other repayable funds from the public and to grant credits for its own account;
-> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
+> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
 > (i) the total value of the consolidated assets of the undertaking is equal to or exceeds EUR 30 billion;
 > (ii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in that group that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU is equal to or exceeds EUR 30 billion; or
-> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46227 characters omitted…]
+> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46237 characters omitted…]
 
 *after* (`02013R0575-20230101`)
 
@@ -16350,10 +16351,11 @@ This entry does not appear at all in the earlier version of the list of definiti
 > 1. For the purposes of this Regulation, the following definitions shall apply:
 > (1) credit institution means an undertaking the business of which consists of any of the following:
 > (a) to take deposits or other repayable funds from the public and to grant credits for its own account;
-> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the CouncilDirective 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
+> (b) to carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU of the European Parliament and of the Council
+> Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349)., where one of the following applies, but the undertaking is not a commodity and emission allowance dealer, a collective investment undertaking or an insurance undertaking:
 > (i) the total value of the consolidated assets of the undertaking is equal to or exceeds EUR 30 billion;
 > (ii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is part of a group in which the total value of the consolidated assets of all undertakings in that group that individually have total assets of less than EUR 30 billion and that carry out any of the activities referred to in points (3) and (6) of Section A of Annex I to Directive 2014/65/EU is equal to or exceeds EUR 30 billion; or
-> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46364 characters omitted…]
+> (iii) the total value of the assets of the undertaking is less than EUR 30 billion, and the undertaking is […truncated by emendrix: 46374 characters omitted…]
 
 **MODIFIED · Art. 12a — Consolidated calculation for G-SIIs with multiple resolution entities** · applies from: unchanged
 
