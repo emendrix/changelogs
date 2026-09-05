@@ -2069,17 +2069,18 @@ In section IV, points (g) and (h) are reworded to refer to margin simulation at 
 
 *amended by* `32021R0023`
 
-A new Article 6b has been added, establishing a procedure by which a CCP resolution authority or the competent authority designated under Article 22(1) may request the Commission to suspend the clearing obligation for specific classes of OTC derivatives or specific counterparty types where a CCP meets the resolution conditions of Article 22 of Regulation (EU) 2021/23. [Art. 6b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_6b)
+Article 6b is a wholly new provision, establishing a mechanism by which a CCP's resolution authority or competent authority may request that the Commission suspend the clearing obligation, and in certain cases the trading obligation, for specific classes of OTC derivatives or types of counterparty when a CCP meets the resolution conditions under Regulation (EU) 2021/23. [Art. 6b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_6b)
 
-The provision sets out the roles of ESMA, the ESRB, and the Commission in evaluating and acting on such requests, the possible related suspension of the trading obligation under Regulation (EU) No 600/2014, publication and confidentiality requirements, and time limits and extension procedures for any suspension. [Art. 6b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_6b)
+The new article sets out the process for ESMA opinions, notification to the ESRB, European Parliament and Council, the duration and possible extension of any suspension up to a total of twelve months, and the requirement that requests and opinions not be made public. [Art. 6b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_6b)
 
 *after* (`02012R0648-20220812`)
 
 > Article 6b
 > Suspension of clearing obligation in the case of resolution
-> 1. Where a CCP meets the conditions under Article 22 of Regulation (EU) 2021/23 of the European Parliament and of the CouncilRegulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (OJ L 022, 22.1.2021, p. 1)., the resolution authority of the CCP designated under Article 3(1) of that Regulation or the competent authority designated in accordance with Article 22(1) of this Regulation may, on their own initiative or at the request of a competent authority responsible for the supervision of a clearing member of the CCP under resolution, request that the Commission suspend the clearing obligation referred to in Article 4(1) of this Regulation for specific classes of OTC derivatives or for a specific type of counterparty where the following conditions are met:
+> 1. Where a CCP meets the conditions under Article 22 of Regulation (EU) 2021/23 of the European Parliament and of the Council
+> Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (OJ L 022, 22.1.2021, p. 1)., the resolution authority of the CCP designated under Article 3(1) of that Regulation or the competent authority designated in accordance with Article 22(1) of this Regulation may, on their own initiative or at the request of a competent authority responsible for the supervision of a clearing member of the CCP under resolution, request that the Commission suspend the clearing obligation referred to in Article 4(1) of this Regulation for specific classes of OTC derivatives or for a specific type of counterparty where the following conditions are met:
 > (a) the CCP under resolution is authorised to clear the specific classes of OTC derivatives subject to the clearing obligation for which the suspension is requested; and
-> (b) the suspension of the clearing obligation for those specific classes of OTC derivatives or for a specific type of counterparty is necessary to avoid or address a serious threat to finan […truncated by emendrix: 6564 characters omitted…]
+> (b) the suspension of the clearing obligation for those specific classes of OTC derivatives or for a specific type of counterparty is necessary to avoid or address a serious threat to fina […truncated by emendrix: 6565 characters omitted…]
 
 **INSERTED · Art. 13a** · applies from: unknown
 
@@ -2230,7 +2231,7 @@ It also sets out an exception where the CCP has a pre-existing legal obligation 
 
 *within* `AR 81 PA 3 ALN 1 PTA (q)`, `AR 81 PA 3 ALN 1 PTA (r)` · *amended by* `32021R0023`
 
-Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, and a new point (r) has been added naming the resolution authorities designated under Article 3 of Regulation (EU) 2021/23 as an entity to which a trade repository must make necessary information available. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_81) [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_81)
+Point (q) of Article 81(3)(1) now ends with a semicolon rather than a full stop, and a new point (r) has been added naming the resolution authorities designated under Article 3 of Regulation (EU) 2021/23 as an entity to which a trade repository must make necessary information available. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_81) [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210628#art_81)
 
 *before* (`02012R0648-20210628`)
 
@@ -2245,9 +2246,11 @@ Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, 
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3671 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 3676 characters omitted…]
 
 *after* (`02012R0648-20220812`)
 
@@ -2262,9 +2265,11 @@ Point (q) of Article 81(3)(1) now ends with a semicolon instead of a full stop, 
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3757 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 3762 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20220812 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20210628 -->
