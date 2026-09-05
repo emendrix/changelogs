@@ -291,9 +291,9 @@ A new point (h) has been added, addressing the disadvantage for the person respo
 
 *within* `AR 3 PA 1 ALN 1 PO 35`, `AR 3 PA 1 ALN 1 PO 36` · *amended by* `32024R2809`
 
-The definition numbered (35), covering investment recommendations, now ends with a semicolon instead of a full stop, connecting it to a newly added point. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_3)
+The definition numbered (35) for investment recommendations now ends with a semicolon rather than a full stop, and a new point (36) has been added defining systematic internaliser by reference to Article 4(1), point (20), of Directive 2014/65/EU. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_3)
 
-A new point (36) is added defining systematic internaliser by reference to the definition in Article 4(1), point (20), of Directive 2014/65/EU, a term that was not defined in the earlier version. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_3)
+This new point (36) did not appear in the earlier version of Article 3(1)(1). [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_3)
 
 *before* (`02014R0596-20240109`)
 
@@ -302,14 +302,15 @@ A new point (36) is added defining systematic internaliser by reference to the d
 > 1. For the purposes of this Regulation, the following definitions apply:
 > (1) financial instrument means a financial instrument as defined in point (15) of Article 4(1) of Directive 2014/65/EU;
 > (2) investment firm means an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;
-> (3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;
+> (3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council
+> Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;
 > (4) financial institution means a financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;
 > (5) market operator means a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;
 > (6) regulated market means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;
 > (7) multilateral trading facility or MTF means a multilateral system as defined in point (22) of Article 4(1) of Directive 2014/65/EU;
 > (8) organised trading facility or OTF means a system or facility in the Union as defined in point (23) of Article 4(1) of Directive 2014/65/EU;
 > (9) accepted market practice means a specific market practice that is accepted by a competent authority in accordance with Article 13;
-> (10) tradin […truncated by emendrix: 9388 characters omitted…]
+> (10) tradi […truncated by emendrix: 9393 characters omitted…]
 
 *after* (`02014R0596-20241204`)
 
@@ -318,14 +319,15 @@ A new point (36) is added defining systematic internaliser by reference to the d
 > 1. For the purposes of this Regulation, the following definitions apply:
 > (1) financial instrument means a financial instrument as defined in point (15) of Article 4(1) of Directive 2014/65/EU;
 > (2) investment firm means an investment firm as defined in point (1) of Article 4(1) of Directive 2014/65/EU;
-> (3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the CouncilRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;
+> (3) credit institution means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council
+> Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).;
 > (4) financial institution means a financial institution as defined in point (26) of Article 4(1) of Regulation (EU) No 575/2013;
 > (5) market operator means a market operator as defined in point (18) of Article 4(1) of Directive 2014/65/EU;
 > (6) regulated market means a regulated market as defined in point (21) of Article 4(1) of Directive 2014/65/EU;
 > (7) multilateral trading facility or MTF means a multilateral system as defined in point (22) of Article 4(1) of Directive 2014/65/EU;
 > (8) organised trading facility or OTF means a system or facility in the Union as defined in point (23) of Article 4(1) of Directive 2014/65/EU;
 > (9) accepted market practice means a specific market practice that is accepted by a competent authority in accordance with Article 13;
-> (10) tradin […truncated by emendrix: 9514 characters omitted…]
+> (10) tradi […truncated by emendrix: 9519 characters omitted…]
 
 **MODIFIED · Art. 5 — Exemption for buy-back programmes and stabilisation** · applies from: unchanged
 
@@ -395,11 +397,11 @@ The prior wording had framed this category specifically around persons tasked wi
 
 *within* `AR 11 PA 1 ALN 1`, `AR 11 PA 4 ALN 1`, `AR 11 PA 4 ALN 1 PTA (a)`, `AR 11 PA 4 ALN 1 PTA (b)`, `AR 11 PA 4 ALN 1 PTA (c)`, `AR 11 PA 4 ALN 1 PTA (d)`, `AR 11 PA 4 ALN 1 PTA (e)`, `AR 11 PA 4 ALN 1 PTA (f)`, `AR 11 PA 6 ALN 1`, `AR 11 PA 7 ALN 1` · *amended by* `32024R2809`
 
-Paragraph 1 now describes the communication as occurring prior to the announcement of a transaction, if any, rather than simply prior to the announcement of a transaction. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_11)
+Paragraph 1 now qualifies the timing of the communication with the phrase "if any" describing the announcement of a transaction, and paragraph 4 has been rewritten so that a disclosing market participant is deemed to have disclosed inside information in the normal exercise of employment where it opts to comply with a new set of six listed conditions, lettered (a) to (f), instead of cross-referring to compliance with paragraphs 3 and 5 as before. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_11)
 
-Paragraph 4 no longer simply cross-refers to compliance with paragraphs 3 and 5 to establish normal exercise of employment, profession or duties; it instead sets out its own list of conditions (a) through (f), covering consent, the two prohibitions on using the information, the confidentiality notice, record-keeping of disclosures, and provision of that record to the competent authority, framed as conditions the market participant may opt to comply with. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_11)
+Paragraph 6 adds a new sentence stating that the obligation to inform the recipient that information has ceased to be inside information does not apply where the information has otherwise been announced publicly. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_11)
 
-Paragraph 6 adds a sentence stating that the obligation to inform the recipient that information has ceased to be inside information does not apply where the information has otherwise been announced publicly, and paragraph 7 is reworded from a single person receiving the market sounding assessing for itself to persons receiving the market sounding assessing for themselves whether they possess inside information. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_11)
+Paragraph 7 has been reworded from referring to "the person receiving the market sounding" assessing for itself whether it is or ceases to be in possession of inside information, to referring to "persons receiving the market sounding" assessing for themselves whether they possess inside information. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_11)
 
 *before* (`02014R0596-20240109`)
 
@@ -410,7 +412,8 @@ Paragraph 6 adds a sentence stating that the obligation to inform the recipient 
 > (b) a secondary offeror of a financial instrument, in such quantity or value that the transaction is distinct from ordinary trading and involves a selling method based on the prior assessment of potential interest from potential investors;
 > (c) an emission allowance market participant; or
 > (d) a third party acting on behalf or on the account of a person referred to in point (a), (b) or (c).
-> 1a. Where an offer of securities is addressed solely to qualified investors as defined in point (e) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., communication of information to those qualified investors for the purposes of negotiating the contractual terms and conditions of their participation in an issuance of bonds by an issuer that has financial instruments admitted to trading on a trading venue, or by any person acting on its behalf or on […truncated by emendrix: 6431 characters omitted…]
+> 1a. Where an offer of securities is addressed solely to qualified investors as defined in point (e) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament and of the Council
+> Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., communication of information to those qualified investors for the purposes of negotiating the contractual terms and conditions of their participation in an issuance of bonds by an issuer that has financial instruments admitted to trading on a trading venue, or by any person acting on its behalf or o […truncated by emendrix: 6432 characters omitted…]
 
 *after* (`02014R0596-20241204`)
 
@@ -421,13 +424,14 @@ Paragraph 6 adds a sentence stating that the obligation to inform the recipient 
 > (b) a secondary offeror of a financial instrument, in such quantity or value that the transaction is distinct from ordinary trading and involves a selling method based on the prior assessment of potential interest from potential investors;
 > (c) an emission allowance market participant; or
 > (d) a third party acting on behalf or on the account of a person referred to in point (a), (b) or (c).
-> 1a. Where an offer of securities is addressed solely to qualified investors as defined in point (e) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament and of the CouncilRegulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., communication of information to those qualified investors for the purposes of negotiating the contractual terms and conditions of their participation in an issuance of bonds by an issuer that has financial instruments admitted to trading on a trading venue, or by any person acting on its behal […truncated by emendrix: 7821 characters omitted…]
+> 1a. Where an offer of securities is addressed solely to qualified investors as defined in point (e) of Article 2 of Regulation (EU) 2017/1129 of the European Parliament and of the Council
+> Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12)., communication of information to those qualified investors for the purposes of negotiating the contractual terms and conditions of their participation in an issuance of bonds by an issuer that has financial instruments admitted to trading on a trading venue, or by any person acting on its beha […truncated by emendrix: 7822 characters omitted…]
 
 **MODIFIED · Art. 13 — Accepted market practices** · applies from: unchanged
 
 *within* `AR 13 PA 12 ALN 1 PTA (d)` · *amended by* `32024R2809`
 
-In point (d) of Article 13(12), the requirement that the market operator or investment firm operating the SME growth market also agrees to the liquidity contract's terms and conditions has been removed, leaving only the acknowledgment in writing that a copy of the contract was received. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_13)
+In point (d) of paragraph 12, the requirement that the market operator or investment firm operating the SME growth market agrees to the liquidity contract's terms and conditions has been removed, leaving only the requirement that it acknowledges in writing having received a copy of the contract. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_13) [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_13)
 
 *before* (`02014R0596-20240109`)
 
@@ -440,7 +444,7 @@ In point (d) of Article 13(12), the requirement that the market operator or inve
 > (c) whether the market practice has a positive impact on market liquidity and efficiency;
 > (d) whether the market practice takes into account the trading mechanism of the relevant market and enables market participants to react properly and in a timely manner to the new market situation created by that practice;
 > (e) whether the market practice does not create risks for the integrity of, directly or indirectly, related markets, whether regulated or not, in the relevant financial instrument within the Union;
-> (f) the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice i […truncated by emendrix: 6918 characters omitted…]
+> (f) the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice i […truncated by emendrix: 6919 characters omitted…]
 
 *after* (`02014R0596-20241204`)
 
@@ -453,35 +457,37 @@ In point (d) of Article 13(12), the requirement that the market operator or inve
 > (c) whether the market practice has a positive impact on market liquidity and efficiency;
 > (d) whether the market practice takes into account the trading mechanism of the relevant market and enables market participants to react properly and in a timely manner to the new market situation created by that practice;
 > (e) whether the market practice does not create risks for the integrity of, directly or indirectly, related markets, whether regulated or not, in the relevant financial instrument within the Union;
-> (f) the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice i […truncated by emendrix: 6867 characters omitted…]
+> (f) the outcome of any investigation of the relevant market practice by any competent authority or by another authority, in particular whether the relevant market practice i […truncated by emendrix: 6868 characters omitted…]
 
 **MODIFIED · Art. 17 — Public disclosure of inside information** · applies from: unchanged
 
 *within* `AR 17 PA 5 ALN 1`, `AR 17 PA 11 ALN 1`, `AR 17 PA 12` · *amended by* `32024R2809`
 
-Paragraph 5 no longer opens with the phrase about preserving the stability of the financial system, and it now extends to an issuer that is a parent undertaking of a credit institution or financial institution, in addition to an issuer that is itself such an institution. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_17)
+Paragraph 5 no longer opens with the phrase about preserving the stability of the financial system, and it now extends the ability to delay disclosure to an issuer that is a parent undertaking of a credit institution or financial institution, in addition to an issuer that is itself such an institution. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_17)
 
-Paragraph 11 now cross-refers to paragraph 4, first subparagraph, point (a), instead of to paragraph 4 and point (a) as previously worded, and no longer mentions the situations of paragraph 4, point (b) that were part of the earlier text. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_17)
+Paragraph 11's cross-reference was reworded from citing point (a) of paragraph 4 to citing paragraph 4, first subparagraph, point (a), and it dropped the mention of situations under point (b) of paragraph 4 regarding delay likely to mislead the public. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_17)
 
-A new paragraph 12 has been added, empowering the Commission to adopt a delegated act setting out and reviewing a non-exhaustive list covering final events or circumstances in protracted processes and their disclosure timing under paragraph 1, and situations where intended delayed inside information contrasts with an issuer's or emission allowance market participant's latest public announcement, as referenced in paragraph 4, first subparagraph, point (b). [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_17)
+A new paragraph 12 was added empowering the Commission to adopt a delegated act setting out and reviewing a non-exhaustive list covering final events or circumstances in protracted processes under paragraph 1 and situations where delayed inside information contrasts with prior public communications under paragraph 4, first subparagraph, point (b). [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_17)
 
 *before* (`02014R0596-20240109`)
 
 > Article 17
 > Public disclosure of inside information
 > 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.
-> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the Council
+> Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
 > This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.
-> 2. An emission […truncated by emendrix: 9032 characters omitted…]
+> 2. An emissio […truncated by emendrix: 9034 characters omitted…]
 
 *after* (`02014R0596-20241204`)
 
 > Article 17
 > Public disclosure of inside information
 > 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.
-> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the Council
+> Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
 > This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.
-> 2. An emission […truncated by emendrix: 9631 characters omitted…]
+> 2. An emissio […truncated by emendrix: 9633 characters omitted…]
 
 **MODIFIED · Art. 18 — Insider lists** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -531,11 +537,11 @@ The reference in the third subparagraph of paragraph 9 to 'the implementing tech
 
 *within* `AR 19 PA 8 ALN 1`, `AR 19 PA 9 ALN 1`, `AR 19 PA 12 ALN 1`, `AR 19 PA 12 ALN 1 PTA (a)`, `AR 19 PA 12 ALN 1 PTA (b)`, `AR 19 PA 12a` · *amended by* `32024R2809`
 
-The default notification threshold in paragraph 8 rises from EUR 5000 to EUR 20000, and paragraph 9 now allows a competent authority to raise that threshold to EUR 50000 or lower it to EUR 10000, whereas before only an increase to EUR 20000 was permitted. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_19)
+The base notification threshold in paragraph 8 is raised from EUR 5000 to EUR 20000, and paragraph 9 now allows a competent authority to set a higher threshold of EUR 50000 or a lower threshold of EUR 10000, instead of only permitting an increase to EUR 20000. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_19)
 
-Paragraph 12 now refers to allowing a manager to trade or make transactions rather than only to trade, extends the exceptional-circumstances and scheme-related exemptions in points (a) and (b) to financial instruments other than shares in addition to shares, and ends point (b) with a semicolon instead of a full stop. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_19)
+Paragraph 12 is expanded so that permitted trading during a closed period covers not just trading but also making transactions, and its exceptional-circumstances and scheme-related exemptions now extend to financial instruments other than shares, in addition to shares. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_19)
 
-A new paragraph 12a is added obliging an issuer to allow a manager to trade or make transactions during a closed period where the transactions or trade activities do not stem from active investment decisions, result exclusively from external factors or third-party actions, or are based on predetermined terms, including exercise of derivatives. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_19)
+A new paragraph 12a is added requiring the issuer to allow trading or transactions during a closed period where these do not stem from active investment decisions by the person discharging managerial responsibilities, result exclusively from external factors or third-party actions, or are based on predetermined terms, including derivative exercises. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_19)
 
 *before* (`02014R0596-20240109`)
 
@@ -548,7 +554,7 @@ A new paragraph 12a is added obliging an issuer to allow a manager to trade or m
 > The first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.
 > 1a. The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:
 > (a) the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;
-> (b) the f […truncated by emendrix: 10726 characters omitted…]
+> (b) the f […truncated by emendrix: 10727 characters omitted…]
 
 *after* (`02014R0596-20241204`)
 
@@ -561,7 +567,7 @@ A new paragraph 12a is added obliging an issuer to allow a manager to trade or m
 > The first subparagraph applies once the total amount of transactions has reached the threshold set out in paragraph 8 or 9, as applicable, within a calendar year.
 > 1a. The notification obligation referred to in paragraph 1 shall not apply to transactions in financial instruments linked to shares or to debt instruments of the issuer referred to in that paragraph where at the time of the transaction any of the following conditions is met:
 > (a) the financial instrument is a unit or share in a collective investment undertaking in which the exposure to the issuer's shares or debt instruments does not exceed 20 % of the assets held by the collective investment undertaking;
-> (b) the f […truncated by emendrix: 11638 characters omitted…]
+> (b) the f […truncated by emendrix: 11639 characters omitted…]
 
 **MODIFIED · Art. 23 — Powers of competent authorities** · applies from: unchanged
 
@@ -605,11 +611,11 @@ Point (g) of Article 23(2) now includes benchmark administrators or supervised c
 
 *within* `AR 25 PA 1a` · *amended by* `32024R2809`
 
-A new paragraph 1a is inserted, providing that ESMA, at the request of at least one competent authority, is to facilitate and coordinate cooperation and exchange of information between competent authorities and regulatory authorities in other Member States and third countries. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_25)
+A new paragraph 1a has been inserted, providing that ESMA, at the request of at least one competent authority, is to facilitate and coordinate cooperation and information exchange between competent authorities and regulatory authorities in other Member States and third countries. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_25)
 
-The same new paragraph adds that, when justified by the character of the case and at the request of the competent authority, ESMA is to contribute to the investigation of the case by that competent authority. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_25)
+The new paragraph also states that, when justified by the character of the case and at the request of the competent authority, ESMA is to contribute to the investigation of the case by that competent authority. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_25)
 
-No such paragraph existed in the earlier version of Article 25. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_25)
+This paragraph did not appear in the earlier version of Article 25. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_25)
 
 *before* (`02014R0596-20240109`)
 
@@ -618,7 +624,7 @@ No such paragraph existed in the earlier version of Article 25. [Art. 25, v1](ht
 > 1. Competent authorities shall cooperate with each other and with ESMA where necessary for the purposes of this Regulation, unless one of the exceptions in paragraph 2 applies. Competent authorities shall render assistance to competent authorities of other Member States and ESMA. In particular, they shall exchange information without undue delay and cooperate in investigation, supervision and enforcement activities.
 > The obligation to cooperate and assist laid down in the first subparagraph shall also apply as regards the Commission in relation to the exchange of information relating to commodities which are agricultural products listed in Annex I to the TFEU.
 > The competent authorities and ESMA shall cooperate in accordance with Regulation (EU) No 1095/2010, in particular Article 35 thereof.
-> Where Member States have chosen, in accordance with Article 30(1), second subparagraph, to lay down criminal sanctions for infringements of the provisions of this Regulation referred to in that Article, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for possible infringements of this Regulation and provide the same to other competent authorities and ESMA to fulfil their obligation to cooperate with each other and ESMA for the purposes […truncated by emendrix: 6958 characters omitted…]
+> Where Member States have chosen, in accordance with Article 30(1), second subparagraph, to lay down criminal sanctions for infringements of the provisions of this Regulation referred to in that Article, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for possible infringements of this Regulation and provide the same to other competent authorities and ESMA to fulfil their obligation to cooperate with each other and ESMA for the purposes […truncated by emendrix: 6959 characters omitted…]
 
 *after* (`02014R0596-20241204`)
 
@@ -627,7 +633,7 @@ No such paragraph existed in the earlier version of Article 25. [Art. 25, v1](ht
 > 1. Competent authorities shall cooperate with each other and with ESMA where necessary for the purposes of this Regulation, unless one of the exceptions in paragraph 2 applies. Competent authorities shall render assistance to competent authorities of other Member States and ESMA. In particular, they shall exchange information without undue delay and cooperate in investigation, supervision and enforcement activities.
 > The obligation to cooperate and assist laid down in the first subparagraph shall also apply as regards the Commission in relation to the exchange of information relating to commodities which are agricultural products listed in Annex I to the TFEU.
 > The competent authorities and ESMA shall cooperate in accordance with Regulation (EU) No 1095/2010, in particular Article 35 thereof.
-> Where Member States have chosen, in accordance with Article 30(1), second subparagraph, to lay down criminal sanctions for infringements of the provisions of this Regulation referred to in that Article, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for possible infringements of this Regulation and provide the same to other competent authorities and ESMA to fulfil their obligation to cooperate with each other and ESMA for the purposes […truncated by emendrix: 7372 characters omitted…]
+> Where Member States have chosen, in accordance with Article 30(1), second subparagraph, to lay down criminal sanctions for infringements of the provisions of this Regulation referred to in that Article, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for possible infringements of this Regulation and provide the same to other competent authorities and ESMA to fulfil their obligation to cooperate with each other and ESMA for the purposes […truncated by emendrix: 7373 characters omitted…]
 
 **INSERTED · Art. 25a — Mechanism to exchange order data** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -680,11 +686,11 @@ The article further sets out that relevant competent authorities must provide in
 
 *within* `AR 29 PA 1 ALN 1`, `AR 29 PA 2 ALN 1`, `AR 29 PA 3` · *dates* +2016-04-27 · *amended by* `32024R2809`
 
-The reference to Directive 95/46/EC as the source of applicable data-transfer requirements has been replaced with a reference to Regulation (EU) 2016/679, including its full title and Official Journal citation. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_29)
+The reference to the requirements of Directive 95/46/EC being fulfilled is replaced with a reference to the requirements of Regulation (EU) 2016/679 being fulfilled, with a footnote citing that regulation's full title and its repeal of Directive 95/46/EC. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_29)
 
-The wording shifts from referring to a single 'competent authority' acting to referring to 'competent authorities' throughout paragraphs 1 and 2, and paragraph 2 adds the word 'provided that' before the condition on the purposes of disclosure. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_29) [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_29)
+The phrase referring to "the competent authority of a Member State" acting under paragraphs 1 and 2 is changed to "Competent authorities of a Member State" in both paragraphs. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_29)
 
-The former paragraph 3, which addressed cooperation agreements providing for the exchange of personal data complying with national laws transposing Directive 95/46/EC, no longer appears in the text shown. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_29)
+The former paragraph 3, which required cooperation agreements providing for exchange of personal data to comply with national laws transposing Directive 95/46/EC, is no longer present in the text shown. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_29)
 
 *before* (`02014R0596-20240109`)
 
@@ -698,16 +704,17 @@ The former paragraph 3, which addressed cooperation agreements providing for the
 
 > Article 29
 > Disclosure of personal data to third countries
-> 1. Competent authorities of a Member State may transfer personal data to a third country provided that the requirements of Regulation (EU) 2016/679 of the European Parliament and of the CouncilRegulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1). are fulfilled and only on a case-by-case basis. Competent authorities shall ensure that such a transfer is necessary for the purpose of this Regulation and that the third country does not transfer the data to another third country unless it is given express written authorisation to do so and complies with the conditions specified by the competent authority of the Member State concerned.
+> 1. Competent authorities of a Member State may transfer personal data to a third country provided that the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council
+> Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1). are fulfilled and only on a case-by-case basis. Competent authorities shall ensure that such a transfer is necessary for the purpose of this Regulation and that the third country does not transfer the data to another third country unless it is given express written authorisation to do so and complies with the conditions specified by the competent authority of the Member State concerned.
 > 2. Competent authorities of a Member State shall only disclose personal data received from a competent authority of another Member State to a supervisory authority of a third country where the competent authority of the Member State concerned has obtained express agreement from the competent authority which transmitted the data and, where applicable, provided that the data are disclosed solely for the purposes for which that competent authority gave its agreement.
 
 **MODIFIED · Art. 30 — Administrative sanctions and other administrative measures** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 30 PA 4` · *dates* +2003-05-06 · *amended by* `32024R2809`
 
-A new paragraph 4 has been added, defining a small and medium-sized enterprise or SME for the purposes of this Article by reference to the micro, small or medium-sized enterprise definition in Article 2 of the Annex to Commission Recommendation 2003/361/EC. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_30)
+A new paragraph 4 has been added, defining the terms small and medium-sized enterprise and SME by reference to Article 2 of the Annex to Commission Recommendation 2003/361/EC for the purposes of this Article. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_30)
 
-All other paragraphs of Article 30, including the sanctions and measures set out in paragraphs 1 to 3, remain textually unchanged between the two versions. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_30)
+The remainder of the Article, covering paragraphs 1 through 3, is unchanged between the two versions. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20240109#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_30)
 
 *before* (`02014R0596-20240109`)
 
@@ -718,7 +725,7 @@ All other paragraphs of Article 30, including the sanctions and measures set out
 > (b) failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 23(2).
 > Member States may decide not to lay down rules for administrative sanctions as referred to in the first subparagraph where the infringements referred to in point (a) or point (b) of that subparagraph are already subject to criminal sanctions in their national law by 3 July 2016. Where they so decide, Member States shall notify, in detail, to the Commission and to ESMA, the relevant parts of their criminal law.
 > By 3 July 2016, Member States shall notify, in detail, the rules referred to in the first and second subparagraph to the Commission and to ESMA. They shall notify the Commission and ESMA without delay of any subsequent amendments thereto.
-> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 4826 characters omitted…]
+> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 4829 characters omitted…]
 
 *after* (`02014R0596-20241204`)
 
@@ -729,7 +736,7 @@ All other paragraphs of Article 30, including the sanctions and measures set out
 > (b) failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 23(2).
 > Member States may decide not to lay down rules for administrative sanctions as referred to in the first subparagraph where the infringements referred to in point (a) or point (b) of that subparagraph are already subject to criminal sanctions in their national law by 3 July 2016. Where they so decide, Member States shall notify, in detail, to the Commission and to ESMA, the relevant parts of their criminal law.
 > By 3 July 2016, Member States shall notify, in detail, the rules referred to in the first and second subparagraph to the Commission and to ESMA. They shall notify the Commission and ESMA without delay of any subsequent amendments thereto.
-> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 5190 characters omitted…]
+> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 5194 characters omitted…]
 
 **MODIFIED · Art. 31** · applies from: unknown
 
