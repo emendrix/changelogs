@@ -5389,7 +5389,7 @@ Section 1.1.3.2 gains two new notes, Note 8 and Note 9, addressing releasable fo
 ### `02008R1272-20160401` → `02008R1272-20170101`
 
 - **Act** `eu:32008R1272` · **In force** 2016-07-04 · **Detected** 2026-08-13
-- **Touched** 8 provisions — 8 substantive · 0 date-only · **4 disputed**
+- **Touched** 8 provisions — 4 substantive · 0 date-only · 4 with no text · **4 disputed**
 - **Diff** 0 inserted · 8 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
 - **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20160401` · `v2` = `02008R1272-20170101`
@@ -5402,7 +5402,7 @@ Section 1.1.3.2 gains two new notes, Note 8 and Note 9, addressing releasable fo
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5460,7 +5460,7 @@ Section 1.1.3.2 gains two new notes, Note 8 and Note 9, addressing releasable fo
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5468,11 +5468,11 @@ Section 1.1.3.2 gains two new notes, Note 8 and Note 9, addressing releasable fo
 
 *within* `AN III SCT 1`, `AN III SCT 2`, `AN III SCT 3` · *amended by* `32016R0918`
 
-Within the H252 self-heating hazard statement, the Romanian-language translation had its punctuation adjusted, replacing a comma between the two clauses with a semicolon. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_III)
+The Romanian-language phrase for H252 was reformatted with a semicolon separating the two clauses instead of a comma, without changing the wording itself. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_III)
 
-Within the H281 refrigerated gas hazard statement, the Spanish text dropped an accent mark on 'gas' and the German text replaced 'tiefkaltes' with 'tiefgekühltes' and altered the hyphenation of the following word. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_III)
+The German-language phrase for H281 was altered from describing the substance as 'tiefkalt' to 'tiefgekühlt' and the verb form for causing injuries was adjusted accordingly, while the Spanish version dropped the word 'un' before 'gas refrigerado'. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_III)
 
-The visible portion of the text before the truncation point shows no other differences between the two versions of Annex III sections 1 through 3, and the remainder of the comparison was cut off before it could be seen. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_III)
+Because the provided texts are truncated partway through Table 1.2, any further differences beyond the shown entries cannot be described. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_III)
 
 *before* (`02008R1272-20160401`)
 
@@ -5488,7 +5488,8 @@ The visible portion of the text before the truncation point shows no other diffe
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -5518,7 +5519,8 @@ The visible portion of the text before the truncation point shows no other diffe
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -5590,7 +5592,7 @@ The visible portion of the text is truncated, so only these two language-line ed
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5632,7 +5634,7 @@ The visible portion of the text is truncated, so only these two language-line ed
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20170101 -->
