@@ -47,7 +47,7 @@
         },
         "heading": "Control framework requirements",
         "before": "Article 6\nControl framework requirements\n1. Administrators shall have in place a control framework that ensures that their benchmarks are provided and published or made available in accordance with this Regulation.\n2. The control framework shall be proportionate to the level of conflicts of interest identified, the extent of discretion in the provision of the benchmark and the nature of the benchmark input data.\n3. The control framework shall include:\n(a) management of operational risk;\n(b) adequate and effective business continuity and disaster recovery plans;\n(c) contingency procedures that are in place in the event of a disruption to the process of the provision of the benchmark.\n4. An administrator shall establish measures to:\n(a) ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;\n(b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.\n5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.",
-        "after": "Article 6\nControl framework requirements\n1. Administrators shall have in place a control framework that ensures that their benchmarks are provided and published or made available in accordance with this Regulation.\n2. The control framework shall be proportionate to the level of conflicts of interest identified, the extent of discretion in the provision of the benchmark and the nature of the benchmark input data.\n3. The control framework shall include:\n(a) management of operational risk;\n(b) adequate and effective business continuity and disaster recovery plans;\n(c) contingency procedures that are in place in the event of a disruption to the process of the provision of the benchmark.\n4. An administrator shall establish measures to:\n(a) ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;\n(b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.\n5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.\n6. For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the CouncilRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)..",
+        "after": "Article 6\nControl framework requirements\n1. Administrators shall have in place a control framework that ensures that their benchmarks are provided and published or made available in accordance with this Regulation.\n2. The control framework shall be proportionate to the level of conflicts of interest identified, the extent of discretion in the provision of the benchmark and the nature of the benchmark input data.\n3. The control framework shall include:\n(a) management of operational risk;\n(b) adequate and effective business continuity and disaster recovery plans;\n(c) contingency procedures that are in place in the event of a disruption to the process of the provision of the benchmark.\n4. An administrator shall establish measures to:\n(a) ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;\n(b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.\n5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.\n6. For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council\nRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)..",
         "previous_location": null,
         "changed_within": [
           "AR 6 PA 6"
@@ -96,7 +96,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The after text adds a new paragraph 6 to Article 6, which was not present in the before version.",
+          "text": "A new paragraph 6 has been added requiring administrators of critical benchmarks to have sound administrative and accounting procedures, internal control mechanisms, effective risk assessment procedures, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554.",
           "fallback": false,
           "citations": [
             {
@@ -115,26 +115,7 @@
           ]
         },
         {
-          "text": "This added paragraph requires an administrator of critical benchmarks to have sound administrative and accounting procedures, internal control mechanisms, effective risk assessment procedures, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554.",
-          "fallback": false,
-          "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32016R1011",
-                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
-                },
-                "version": "02016R1011-20250117",
-                "location": "AR 6"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6",
-              "label": "Art. 6, 02016R1011-20250117"
-            }
-          ]
-        },
-        {
-          "text": "No other paragraphs of Article 6 differ between the two texts.",
+          "text": "The prior version of Article 6 contained only paragraphs 1 through 5 and did not address ICT systems or critical benchmarks specifically.",
           "fallback": false,
           "citations": [
             {
@@ -149,19 +130,6 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_6",
               "label": "Art. 6, 02016R1011-20240109"
-            },
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32016R1011",
-                  "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
-                },
-                "version": "02016R1011-20250117",
-                "location": "AR 6"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6",
-              "label": "Art. 6, 02016R1011-20250117"
             }
           ]
         }
@@ -330,7 +298,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3381,
+        "output_tokens": 247,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 6",
+      "occurrence": 0,
+      "digest": "sha256:fb9ce83968b8fe1bf99ffc67488c31ef6990f92bcff891366a6ecdb15986eb71"
+    }
+  ]
 }

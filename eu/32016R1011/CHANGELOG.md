@@ -881,11 +881,9 @@ Paragraphs 1 through 7 remain unchanged between the two versions. [Art. 54, v1](
 
 *within* `AR 6 PA 6` · *dates* +2022-12-14 · *amended by* `32022R2554`
 
-The after text adds a new paragraph 6 to Article 6, which was not present in the before version. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6)
+A new paragraph 6 has been added requiring administrators of critical benchmarks to have sound administrative and accounting procedures, internal control mechanisms, effective risk assessment procedures, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6)
 
-This added paragraph requires an administrator of critical benchmarks to have sound administrative and accounting procedures, internal control mechanisms, effective risk assessment procedures, and effective control and safeguard arrangements for managing ICT systems in accordance with Regulation (EU) 2022/2554. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6)
-
-No other paragraphs of Article 6 differ between the two texts. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_6)
+The prior version of Article 6 contained only paragraphs 1 through 5 and did not address ICT systems or critical benchmarks specifically. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_6)
 
 *before* (`02016R1011-20240109`)
 
@@ -916,7 +914,7 @@ No other paragraphs of Article 6 differ between the two texts. [Art. 6, v1](http
 > (a) ensure that contributors adhere to the code of conduct referred to in Article 15 and comply with the applicable standards for input data;
 > (b) monitor input data including, where feasible, monitoring input data before publication of the benchmark and validating input data after publication to identify errors and anomalies.
 > 5. The control framework shall be documented, reviewed and updated as appropriate and made available to the relevant competent authority and, upon request, to users.
-> 6. For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance wi […truncated by emendrix: 371 characters omitted…]
+> 6. For critical benchmarks, an administrator shall have sound administrative and accounting procedures, internal control mechanisms, effective procedures for risk assessment, and effective control and safeguard arrangements for managing ICT systems in accordance wi […truncated by emendrix: 372 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20250117 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20240109 -->
