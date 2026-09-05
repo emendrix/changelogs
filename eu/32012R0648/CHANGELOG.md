@@ -5459,7 +5459,7 @@ The rest of Article 81, including the list of entities in paragraph 3 and paragr
 ### `02012R0648-20150916` → `02012R0648-20160112`
 
 - **Act** `eu:32012R0648` · **In force** 2016-01-12 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20150916` · `v2` = `02012R0648-20160112`
