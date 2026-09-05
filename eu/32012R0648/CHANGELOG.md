@@ -2565,18 +2565,18 @@ A new paragraph 3 is added listing three conditions that must be met for paragra
 ### `02012R0648-20200618` → `02012R0648-20210211`
 
 - **Act** `eu:32012R0648` · **In force** 2021-02-11 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 9 substantive · 0 date-only · **8 disputed**
-- **Diff** 3 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 125 unchanged
-- **Gate** 0 sentences quoted verbatim · 7 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 125 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20200618` · `v2` = `02012R0648-20210211`
 
 ---
 
 **MODIFIED · Art. 1 — Subject matter and scope** · applies from: unchanged
 
-*within* `AR 1 PA 4 ALN 1 PTA (c) PTI (viii)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (ix)` · *amended by* `32021R0023`
+*within* `AR 1 PA 4 ALN 1 PTA (c) PTI (viii)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (ix)`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
 The list of countries in Article 1(4)(c) now ends with a semicolon after Switzerland rather than a full stop, and a new item (ix) adds the United Kingdom of Great Britain and Northern Ireland to the list of countries whose central banks and public debt management bodies are named. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_1)
 
@@ -2627,19 +2627,11 @@ All other text of Article 1, including paragraphs 1 through 3, 5, and 6, remains
 > 5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:
 > (a) multilateral development banks, as li […truncated by emendrix: 1481 characters omitted…]
 
-**INSERTED · Art. 6b** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 13a — Replacement of interest rate benchmarks in legacy trades** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32021R0023`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new Article 13a is added, setting out that counterparties may keep applying their existing risk-management procedures for certain non-centrally cleared OTC derivative contracts even where those contracts are novated after 11 February 2021 solely to replace an interest rate benchmark or to add fallback provisions relating to it. [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_13a)
 
@@ -2651,66 +2643,6 @@ It also provides that transactions entered into or novated before the clearing o
 > Replacement of interest rate benchmarks in legacy trades
 > 1. Counterparties referred to in Article 11(3) may continue to apply the risk-management procedures that they have in place at the date of application of this Regulation in respect of non-centrally cleared OTC derivative contracts entered into or novated before the date on which the obligation to have risk-management procedures pursuant to Article 11(3) takes effect where, after 11 February 2021, those contracts are novated for the sole purpose of replacing the interest rate benchmark they are referring to or of introducing fallback provisions in relation to that benchmark.
 > 2. Transactions entered into or novated before the date on which the clearing obligation takes effect pursuant to Article 4 and which, after 11 February 2021, are subsequently novated for the sole purpose of replacing the interest rate benchmark they are referring to or of introducing fallback provisions in relation to that benchmark, shall not, for that reason, become subject to the clearing obligation referred to in Article 4.
-
-**MODIFIED · Art. 24a** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 28** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 37** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 38** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 45a** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 81** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20210211 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20200618 -->
