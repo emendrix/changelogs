@@ -17,7 +17,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 - **Act** `eu:32014R0596` · **In force** 2026-06-05 · **Detected** 2026-08-13
 - **Touched** 18 provisions — 3 substantive · 0 date-only · 15 with no text · **17 disputed**
 - **Diff** 2 inserted · 15 modified · 1 deleted · 0 renumbered · 0 deferred · 41 unchanged
-- **Gate** 1 sentences quoted verbatim · 15 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 15 changes shipped without an explanation
 - **Citations** `v1` = `02014R0596-20241204` · `v2` = `02014R0596-20260605`
 
 ---
@@ -76,28 +76,30 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 17 PA 1 ALN 1`, `AR 17 PA 1a`, `AR 17 PA 4 ALN 1`, `AR 17 PA 4 ALN 1 PTA (b)`, `AR 17 PA 4 ALN 2`, `AR 17 PA 4 ALN 3`, `AR 17 PA 4 ALN 4`, `AR 17 PA 4a`, `AR 17 PA 7 ALN 1`, `AR 17 PA 7 ALN 2` · *amended by* `32024R2809`
 
-Paragraph 1 now excludes intermediate steps in a protracted process from the immediate public disclosure duty, requiring only that the final circumstances or final event be disclosed as soon as possible after they occur, and a new paragraph 1a requires the issuer to keep such information confidential until it is disclosed under paragraph 1. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
+Paragraph 1 now states that the disclosure obligation does not apply to inside information about intermediate steps in a protracted process, requiring only that the final circumstances or final event be disclosed as soon as possible after they occur, and a new paragraph 1a requires the issuer to keep such information confidential until it is disclosed. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
 
-*Quoted verbatim by the citation gate — the model's own sentence did not resolve:* The new text of Art. 17: "Article 17 Public disclosure of inside information 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer. That requirement shall not apply to inside information related to intermediate steps in a protracted process as referred to in Article 7(2) and (3) where those steps are connected with bringing about or resulting in particular circumstances or a particular event. In a protracted process, only the final circumstances or final event shall be required to be disclosed, as soon as possible after they have occurred. The issuer shall en […truncated by emendrix: 11510 characters omitted…]" [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
+Paragraph 4's condition on delay of disclosure no longer refers to the delay not being likely to mislead the public and instead requires that the information intended to be delayed not contrast with the issuer's latest public announcement or communication on the same matter, the derogation cross-reference is adjusted from the third to the second subparagraph, and the former separate treatment of protracted processes in that paragraph is removed, with a new paragraph 4a stating that non-disclosure of intermediate-step information under paragraph 1 is not subject to paragraph 4's requirements. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
 
-Paragraph 7 was expanded so that the obligation to disclose when confidentiality is no longer ensured, and the related rumour provision, now also cover inside information on intermediate steps in a protracted process that was not disclosed under paragraph 1, in addition to information delayed under paragraphs 4 or 5. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
+Paragraph 7 is expanded so that the obligation to disclose once confidentiality is no longer ensured, and the related rumour-based disclosure trigger, both now also cover inside information about intermediate steps in a protracted process that was withheld under paragraph 1, alongside the pre-existing coverage of information delayed under paragraphs 4 or 5. [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_17)
 
 *before* (`02014R0596-20241204`)
 
 > Article 17
 > Public disclosure of inside information
 > 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer.
-> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the Council
+> Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
 > This Article shall apply to issuers who have requested or approved admission of their financial instruments to trading on a regulated market in a Member State or, in the case of instruments only traded on an MTF or on an OTF, issuers who have approved trading of their financial instruments on an MTF or an OTF or have requested admission to trading of their financial instruments on an MTF in a Member State.
-> 2. An emission […truncated by emendrix: 9631 characters omitted…]
+> 2. An emissio […truncated by emendrix: 9633 characters omitted…]
 
 *after* (`02014R0596-20260605`)
 
 > Article 17
 > Public disclosure of inside information
 > 1. An issuer shall inform the public as soon as possible of inside information which directly concerns that issuer. That requirement shall not apply to inside information related to intermediate steps in a protracted process as referred to in Article 7(2) and (3) where those steps are connected with bringing about or resulting in particular circumstances or a particular event. In a protracted process, only the final circumstances or final event shall be required to be disclosed, as soon as possible after they have occurred.
-> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the CouncilDirective 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
-> This Artic […truncated by emendrix: 10610 characters omitted…]
+> The issuer shall ensure that the inside information is made public in a manner which enables fast access and complete, correct and timely assessment of the information by the public and, where applicable, in the officially appointed mechanism referred to in Article 21 of Directive 2004/109/EC of the European Parliament and the Council
+> Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
+> This Arti […truncated by emendrix: 10612 characters omitted…]
 
 **MODIFIED · Art. 18** · applies from: unknown
 
@@ -185,11 +187,9 @@ Paragraph 7 was expanded so that the obligation to disclose when confidentiality
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-Points (e) to (g) now extend the temporary or permanent management-function and dealing-on-own-account bans so that they also cover managerial persons in benchmark administrators or supervised contributors, and the previously permanent ban for repeated infringements of Article 14 or 15 is now specified as a ban of at least 10 years. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30)
+The management-function bans and the ban from dealing on own account in points (e), (f) and (g) are extended to cover managerial responsibilities within benchmark administrators and supervised contributors, in addition to investment firms, and the permanent ban in point (f) for repeated infringements of Article 14 or 15 is replaced with a ban of at least 10 years. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30)
 
-Point (j) reorders the turnover-versus-fixed-amount wording for infringements of Articles 14 and 15, replaces the single combined percentage/amount rule for Articles 16 and 17 with separate sub-points for Article 16 and Article 17, the latter adding a disproportionality test with minimum floors of EUR 2500000 or, for SMEs, EUR 1000000, and similarly splits the Articles 18 to 20 rule into a new sub-point for Articles 18 and 19 with a 0,8% turnover figure and disproportionality floors of EUR 1000000 or, for SMEs, EUR 400000, and a separate sub-point for Article 20 with a 0,8% turnover or EUR 1000000 figure. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30)
-
-The cross-reference for the parent/subsidiary turnover calculation rule is changed from referring to points (j)(i) and (ii) of the first subparagraph to referring to the first subparagraph, point (j), as a whole. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30) [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_30)
+The legal-person pecuniary sanction thresholds in point (j) are restructured: point (j)(ii) now applies only to Article 16 infringements, and new points (j)(iii), (j)(iv) and (j)(v) set separate turnover-based and fixed minimum amounts, including SME-specific alternative minimums, for infringements of Article 17, Articles 18 and 19, and Article 20 respectively, whereas the prior text grouped Articles 16 and 17 together and Articles 18, 19 and 20 together with different fixed figures. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20241204#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30)
 
 *before* (`02014R0596-20241204`)
 
@@ -200,7 +200,7 @@ The cross-reference for the parent/subsidiary turnover calculation rule is chang
 > (b) failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 23(2).
 > Member States may decide not to lay down rules for administrative sanctions as referred to in the first subparagraph where the infringements referred to in point (a) or point (b) of that subparagraph are already subject to criminal sanctions in their national law by 3 July 2016. Where they so decide, Member States shall notify, in detail, to the Commission and to ESMA, the relevant parts of their criminal law.
 > By 3 July 2016, Member States shall notify, in detail, the rules referred to in the first and second subparagraph to the Commission and to ESMA. They shall notify the Commission and ESMA without delay of any subsequent amendments thereto.
-> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 5190 characters omitted…]
+> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 5194 characters omitted…]
 
 *after* (`02014R0596-20260605`)
 
@@ -211,7 +211,7 @@ The cross-reference for the parent/subsidiary turnover calculation rule is chang
 > (b) failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 23(2).
 > Member States may decide not to lay down rules for administrative sanctions as referred to in the first subparagraph where the infringements referred to in point (a) or point (b) of that subparagraph are already subject to criminal sanctions in their national law by 3 July 2016. Where they so decide, Member States shall notify, in detail, to the Commission and to ESMA, the relevant parts of their criminal law.
 > By 3 July 2016, Member States shall notify, in detail, the rules referred to in the first and second subparagraph to the Commission and to ESMA. They shall notify the Commission and ESMA without delay of any subsequent amendments thereto.
-> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 7138 characters omitted…]
+> 2. Member States shall, in accordance with national law, ensure that co […truncated by emendrix: 7142 characters omitted…]
 
 **MODIFIED · Art. 31 — Exercise of supervisory powers and imposition of sanctions** · applies from: unchanged
 
