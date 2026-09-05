@@ -35234,7 +35234,7 @@ The article further specifies that the tool must at least allow each institution
 ### `02013R0575-20190101` → `02013R0575-20190426`
 
 - **Act** `eu:32013R0575` · **In force** 2019-04-26 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 9 substantive · 0 date-only · **0 disputed**
+- **Touched** 9 provisions — 9 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 4 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 529 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20190101` · `v2` = `02013R0575-20190426`
