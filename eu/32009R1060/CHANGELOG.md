@@ -2268,7 +2268,7 @@ A minor wording change also appears earlier in the same paragraph, where the phr
 ### `02009R1060-20091207` → `02009R1060-20110601`
 
 - **Act** `eu:32009R1060` · **In force** 2011-06-01 · **Detected** 2026-08-13
-- **Touched** 75 provisions — 75 substantive · 0 date-only · **66 disputed**
+- **Touched** 75 provisions — 49 substantive · 0 date-only · 26 with no text · **66 disputed**
 - **Diff** 19 inserted · 54 modified · 2 deleted · 0 renumbered · 0 deferred · 13 unchanged
 - **Gate** 0 sentences quoted verbatim · 26 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20091207` · `v2` = `02009R1060-20110601`
@@ -2325,7 +2325,7 @@ The prior version of Article 3(1) ended with point (o) on credit rating activiti
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2361,7 +2361,7 @@ In Article 4(3)(1)(b), (c), (d) and (h), the references to the competent authori
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2371,7 +2371,7 @@ In Article 4(3)(1)(b), (c), (d) and (h), the references to the competent authori
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2429,7 +2429,7 @@ Paragraph 6's rulemaking mechanism now describes the Commission specifying or am
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2439,7 +2439,7 @@ Paragraph 6's rulemaking mechanism now describes the Commission specifying or am
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2449,7 +2449,7 @@ Paragraph 6's rulemaking mechanism now describes the Commission specifying or am
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2459,7 +2459,7 @@ Paragraph 6's rulemaking mechanism now describes the Commission specifying or am
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2469,7 +2469,7 @@ Paragraph 6's rulemaking mechanism now describes the Commission specifying or am
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2479,7 +2479,7 @@ Paragraph 6's rulemaking mechanism now describes the Commission specifying or am
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2489,7 +2489,7 @@ Paragraph 6's rulemaking mechanism now describes the Commission specifying or am
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2537,7 +2537,7 @@ Correspondingly, the sentence on ensuring that at least one credit rating agency
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2606,7 +2606,7 @@ In paragraph 6, the restriction on using an authority's name to indicate or sugg
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2647,7 +2647,7 @@ The obligation on a credit rating agency to provide annual information under poi
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2657,7 +2657,7 @@ The obligation on a credit rating agency to provide annual information under poi
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2710,7 +2710,7 @@ The registering authority named in paragraph 4 and the authority barred from imp
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2720,7 +2720,7 @@ The registering authority named in paragraph 4 and the authority barred from imp
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2730,7 +2730,7 @@ The registering authority named in paragraph 4 and the authority barred from imp
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2740,7 +2740,7 @@ The registering authority named in paragraph 4 and the authority barred from imp
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3030,7 +3030,7 @@ A new paragraph requires ESMA to report annually to the European Parliament, the
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3371,7 +3371,7 @@ The reciprocal communication clause in paragraph 2 is now phrased in terms of in
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3381,7 +3381,7 @@ The reciprocal communication clause in paragraph 2 is now phrased in terms of in
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3481,7 +3481,7 @@ The confidentiality provision in paragraph 2 changes from covering information e
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3711,7 +3711,7 @@ The reference to convergence of supervisory practice as a ground for amendment h
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3879,7 +3879,7 @@ It also provides for the transfer of files and records to ESMA, for ESMA to act 
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3889,7 +3889,7 @@ It also provides for the transfer of files and records to ESMA, for ESMA to act 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3947,7 +3947,7 @@ In Section E, the annual disclosure list under point II.2 adds a new item requir
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
