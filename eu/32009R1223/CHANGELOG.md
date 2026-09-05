@@ -3543,7 +3543,7 @@ Both entries also show minor wording changes, such as "colourants" appearing as 
 ### `32009R1223` → `02009R1223-20130711`
 
 - **Act** `eu:32009R1223` · **In force** 2013-07-11 · **Detected** 2026-08-13
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **1 disputed**
+- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 45 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32009R1223` · `v2` = `02009R1223-20130711`
@@ -3612,17 +3612,21 @@ Aside from this punctuation correction and the addition of line breaks after eac
 
 *within* `AN II` · *amended by* `32013R0344`
 
-Entry 167 changed from referring generally to esters of 4-aminobenzoic acid with the free amino group, excepting the one given in Annex VI, to instead naming 4-aminobenzoic acid and its esters with the free amino group directly, with a specific CAS number 150-13-0 and EC number 205-753-0, and without the Annex VI exception wording. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_II)
+Entry 167 was changed from a general reference to esters of 4-aminobenzoic acid with the free amino group, excluding an item in Annex VI, to a specific listing naming 4-Aminobenzoic acid and its esters with the free amino group, together with a CAS number and EC number. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_II)
 
-Entry 450 changed from covering Verbena oil (Lippia citriodora Kunth.) generally when used as a fragrance ingredient to covering Verbena essential oils (Lippia citriodora Kunth.) and derivatives other than absolute when used as a fragrance ingredient, and an EC number 285-515-0 was added where none existed before. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_II)
+Entry 450 was changed from covering verbena oil (Lippia citriodora Kunth.) when used as a fragrance ingredient to covering verbena essential oils (Lippia citriodora Kunth.) and derivatives other than absolute when used as a fragrance ingredient, and an EC number was added to that entry. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_II)
 
-Both texts were truncated before the full list could be compared, so any further differences beyond entry 450 cannot be described. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_II)
+The remainder of the visible list is otherwise unchanged in substance, and the text provided is truncated before the end of the annex, so no further differences beyond these can be described. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_II)
 
 *before* (`32009R1223`)
 
 > ANNEX II
 > LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
-> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
 > Reference number Substance identification
 > Chemical name/INN CAS number EC number
 > a b c d
@@ -3641,7 +3645,7 @@ Both texts were truncated before the full list could be compared, so any further
 > 15 Rauwolfia serpentina L., alkaloids and their salts 90106-13-1 290-234-1
 > 16 Alkyne alcohols, their esters, ethers and salts 17 Isoprenaline (INN) 7683-59-2 231-687-7
 > 18 Allyl isothiocyanate 57-06-7 200-309-2
-> 19 Alloclamide (INN) and its sal […truncated by emendrix: 115907 characters omitted…]
+> 19 Alloclamide (INN) and its […truncated by emendrix: 115914 characters omitted…]
 
 *after* (`02009R1223-20130711`)
 
@@ -3738,24 +3742,37 @@ Both texts were truncated before the full list could be compared, so any further
 > 57-06-7
 > 200-309-2
 > 19
-> Alloclamide (INN) […truncated by emendrix: 124318 characters omitted…]
+> Alloclamide (INN) […truncated by emendrix: 124322 characters omitted…]
 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* -2009-12-31 · *amended by* `32013R1197`, `32013R0344`
 
-The list of footnotes at the start of the Annex gains several new entries, including a reference to an Official Journal citation, a note that a limit applies to the substance itself rather than the finished product, a note on combined substances not exceeding the maximum concentration for ready-for-use preparation, a note on free base and salts of a hair colouring ingredient being permitted unless prohibited under Annex II, and a new preservative cross-reference to Annex V, No 58. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III)
+Annex III adds new introductory footnotes, including references to an Official Journal citation, a note that a limit applies to the substance rather than the finished product, a note on combined-substance limits, a statement that free base and salts of a hair colouring ingredient are permitted unless prohibited under Annex II, and a new preservative cross-reference to Annex V No 58. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III)
 
-Numerous entries such as those for p-Phenylenediamine, Methylphenylenediamines, 1-Naphthol, Resorcinol, Hydroquinone and Hydrogen peroxide are substantially rewritten, splitting substances into separate reference numbers (for example new entries 8a and 9a), changing product-type descriptions to "Hair dye substance in oxidative hair dye products," and replacing or expanding warning and labelling text with new instructions about mixing ratios, age restrictions, and henna tattoo risk warnings. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III)
+Numerous individual entries are rewritten in substance, for example entry 8 on phenylenediamine derivatives and entry 9 on methylphenylenediamines are restructured with new split entries such as 8a and 9a, new labelling text about mixing ratios and allergy warnings, and revised maximum concentration wording, while entry 10 is emptied of its prior content and entries such as 12, 14, 26 through 43, 45, and others have their conditions of use, wording, and identifiers altered. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III)
 
-Entry 10 (Diaminophenols) is emptied of content, entry 45 (Benzyl alcohol) is restructured into separate solvent and fragrance-use sub-entries, and entry 68 (Benzyl alcohol under a separate reference) is likewise emptied, while entry 12 (Hydrogen peroxide) gains a new sub-entry (e) for tooth whitening or bleaching products with its own concentration limits and conditions. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III)
+The supplied AFTER text is truncated partway through entry 73, so further differences beyond that point cannot be described. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III)
 
 *before* (`32009R1223`)
 
 > ANNEX III
 > LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
-> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.
-> Reference number Substa […truncated by emendrix: 49840 characters omitted…]
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative, see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> Reference […truncated by emendrix: 49855 characters omitted…]
 
 *after* (`02009R1223-20130711`)
 
@@ -3784,17 +3801,17 @@ Entry 10 (Diaminophenols) is emptied of content, entry 45 (Benzyl alcohol) is re
 > Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
 > For use as a preservative, see Annex V, No 9.
 > For use as a preservative, see AnnexV, No 23.
-> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 96421 characters omitted…]
+> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 96532 characters omitted…]
 
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32013R0344`
 
-The preamble footnotes are reworded: one former note referencing Annex III entries No. 45 and 68 is replaced by a note referencing only Annex III entry No 45, and a new footnote referencing Annex III entry No 197 is added. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_V)
+The preamble notes referencing Annex III entries were updated, with the note about entry No. 45, 68 replaced by a note referencing only entry No 45, and a new footnote referencing Annex III entry No 197 was added. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_V)
 
-A new entry, numbered 58, is added to the substance table for Ethyl-N-alpha-dodecanoyl-L-arginate hydrochloride (Ethyl Lauroyl Arginate HCl), with its CAS and EC numbers, a maximum concentration of 0,4 %, and a condition restricting its use in lip products, oral products and spray products. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_V)
+A new entry, numbered 58, for Ethyl-N-alpha-dodecanoyl-L-arginate hydrochloride (Ethyl Lauroyl Arginate HCl) was added to the table, with its CAS and EC numbers, a maximum concentration of 0,4 %, and a restriction against use in lip products, oral products and spray products. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_V)
 
-The remaining entries of the list, numbered 1 to 57, are unchanged in substance between the two versions. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_V)
+The remainder of the substance list, entries 1 through 57, is unchanged in substance between the two versions. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_V)
 
 *before* (`32009R1223`)
 
@@ -3805,7 +3822,19 @@ The remaining entries of the list, numbered 1 to 57, are unchanged in substance 
 > Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
-> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For use other than as a preservative, see Annex III, No. 45, 68.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be appl […truncated by emendrix: 11357 characters omitted…]
+> For use other than as a preservative, see Annex III, No. 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For use other than as a preservative, see Annex III, No. 45, 68.
+> For use other than as a preservative, see Annex III, No. 54.
+> Only if the concentration exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 65.
+> Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
+> Solely for products which might be used for children under 3 years of age.
+> Concerns any products aime […truncated by emendrix: 11370 characters omitted…]
 
 *after* (`02009R1223-20130711`)
 
@@ -3838,29 +3867,30 @@ The remaining entries of the list, numbered 1 to 57, are unchanged in substance 
 > For use other than as a preservative, see Annex III, No. 65.
 > Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
 > Solely for products which might be used for children under 3 years of age.
-> Concerns any product […truncated by emendrix: 11766 characters omitted…]
+> Concerns any product […truncated by emendrix: 11780 characters omitted…]
 
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32013R0344`
 
-Entry 1 (4-Aminobenzoic acid/PABA, CAS 150-13-0, EC 205-753-0, 5% maximum concentration) has been removed, with only the row number retained and the substance details left blank. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_VI)
+The table retains the same entries and values but its formatting is changed from a run-together row layout into a line-by-line layout, and entry 1 (4-Aminobenzoic acid/PABA) no longer shows any substance identification or concentration data in the row. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_VI)
 
-Entry 21's maximum concentration figure has changed from 8% to a blank field, and entry 28's chemical name and Common Ingredients Glossary name are worded slightly differently with punctuation and spacing changes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_VI)
+Entry 21's maximum concentration figure is changed from 8 % to 8 % with the qualifier "as acid" removed, and entry 28's chemical name wording has minor punctuation and spacing differences. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_VI)
 
-The overall table layout has also been reformatted from a running-text style into a line-by-line presentation, without altering the remaining substantive entries. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_VI)
+The phrase "in sunscreen products" that appeared after entry 28's concentration figure in the earlier text is absent from the later text. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_VI)
 
 *before* (`32009R1223`)
 
 > ANNEX VI
 > LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
-> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.For use other than as a colorant, see Annex IV, No. 143.
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use other than as a colorant, see Annex IV, No. 143.
 > Reference number Substance identification Conditions Wording of conditions of use and warnings
 > Chemical name/INN/XAN Name of Common Ingredients Glossary CAS number EC number Product type, body parts Maximum concentration in ready for use preparation Other
 > a b c d e f g h i
 > 1 4-Aminobenzoic acid PABA 150-13-0 205-753-0 5 % 2 N,N,N-Trimethyl-4-(2-oxoborn-3-ylidenemethyl) anilinium methyl sulfate Camphor Benzalkonium Methosulfate 52793-97-2 258-190-8 6 % 3 Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester/Homosalate Homosalate 118-56-9 204-260-8 10 % 4 2-Hydroxy-4-methoxybenzophenone/Oxybenzone Benzophenone-3 131-57-7 205-031-5 10 % Contains Benzophenone-3
 > 5 Moved or deleted
-> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts Benzylide […truncated by emendrix: 2472 characters omitted…]
+> 6 2-Phenylbenzimidazole-5-sulfonic acid and its potassium, sodium and triethanolamine salts/Ensulizole Phenylbenzimidazole Sulfonic Acid 27503-81-7 248-502-0 8 %(as acid) 7 3,3'-(1,4-Phenylenedimethylene) bis(7, 7-dimethyl-2-oxobicyclo-[2.2.1]hept-1-yl-methanesulfonic acid) and its salts/Ecamsule Terephthalylidene Dicamphor Sulfonic Acid 92761-26-7, 90457-82-2 410-960-6 10 %(as acid) 8 1-(4-tert-Butylphenyl)-3-(4-methoxyphenyl)propane-1,3-dione/Avobenzone Butyl Methoxydibenzoylmethane 70356-09-1 274-581-6 5 % 9 alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts Benzylid […truncated by emendrix: 2473 characters omitted…]
 
 *after* (`02009R1223-20130711`)
 
@@ -3930,6 +3960,7 @@ The overall table layout has also been reformatted from a running-text style int
 > 10 %
 >
 > Contains Benzophenone-3
+>
 > 5
 > Moved or deleted
 > 6
@@ -3961,6 +3992,6 @@ The overall table layout has also been reformatted from a running-text style int
 >
 > 9
 > alpha-(2-Oxoborn-3-ylidene)-toluene-4-sulphonic acid and its salts
-> Benzylidene Camphor Sulfo […truncated by emendrix: 2503 characters omitted…]
+> Benzylidene Camphor Sulf […truncated by emendrix: 2505 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20130711 -->
 
