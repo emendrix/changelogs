@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -25,6 +25,7 @@
     "touched": 1,
     "substantive": 1,
     "date_only": 0,
+    "textless": 0,
     "disputed": 0,
     "quoted": 0,
     "unexplained": 0
@@ -43,8 +44,8 @@
           "location": "AR 11"
         },
         "heading": "Amendments to other acts",
-        "before": "Article 11\nAmendments to other acts\nIn Article 13 of Regulation (EC) No 3286/94, paragraph 3 is replaced by the following:\"3. Where the Union, having acted in accordance with Article 12(2), has to take a decision on the measures of commercial policy to be adopted pursuant to Article 11(2)(c) or pursuant to Article 12, it shall act, without delay, in accordance with Article 207 of the Treaty on the Functioning of the European Union and, as appropriate, Regulation (EU) No 654/2014 of the European Parliament and of the CouncilRegulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189 27.6.2014, p. 50).\". or any other applicable procedures.",
-        "after": "Article 11\nAmendments to other acts\nIn Article 13 of Regulation (EC) No 3286/94, paragraph 2 is replaced by the following:\"2. Where the Union, having acted in accordance with Article 12(2), has to take a decision on the measures of commercial policy to be adopted pursuant to Article 11(2)(c) or pursuant to Article 12, it shall act, without delay, in accordance with Article 207 of the Treaty on the Functioning of the European Union and, as appropriate, Regulation (EU) No 654/2014 of the European Parliament and of the CouncilRegulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189 27.6.2014, p. 50).\". or any other applicable procedures.",
+        "before": "Article 11\nAmendments to other acts\nIn Article 13 of Regulation (EC) No 3286/94, paragraph 3 is replaced by the following:\n\"3. Where the Union, having acted in accordance with Article 12(2), has to take a decision on the measures of commercial policy to be adopted pursuant to Article 11(2)(c) or pursuant to Article 12, it shall act, without delay, in accordance with Article 207 of the Treaty on the Functioning of the European Union and, as appropriate, Regulation (EU) No 654/2014 of the European Parliament and of the Council\nRegulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189 27.6.2014, p. 50).\". or any other applicable procedures.",
+        "after": "Article 11\nAmendments to other acts\nIn Article 13 of Regulation (EC) No 3286/94, paragraph 2 is replaced by the following:\n\"2. Where the Union, having acted in accordance with Article 12(2), has to take a decision on the measures of commercial policy to be adopted pursuant to Article 11(2)(c) or pursuant to Article 12, it shall act, without delay, in accordance with Article 207 of the Treaty on the Functioning of the European Union and, as appropriate, Regulation (EU) No 654/2014 of the European Parliament and of the Council\nRegulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189 27.6.2014, p. 50).\". or any other applicable procedures.",
         "previous_location": null,
         "changed_within": [
           "AR 11 ALN 1"
@@ -80,7 +81,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The provision now refers to paragraph 2 of Article 13 of Regulation (EC) No 3286/94 being replaced, instead of paragraph 3 as in the earlier text, and the replacement text itself is renumbered from '3.' to '2.'.",
+          "text": "The provision now identifies the paragraph of Article 13 of Regulation (EC) No 3286/94 being replaced as paragraph 2, whereas the earlier text identified it as paragraph 3.",
           "fallback": false,
           "citations": [
             {
@@ -110,10 +111,30 @@
               "label": "Art. 11, 02014R0654-20140627"
             }
           ]
+        },
+        {
+          "text": "Correspondingly, the replacement text itself is now introduced and numbered as paragraph 2 rather than paragraph 3, while the substantive wording of that replacement text is unchanged.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0654",
+                  "display_name": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization"
+                },
+                "version": "02014R0654-20140627",
+                "location": "AR 11"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20140627#art_11",
+              "label": "Art. 11, 02014R0654-20140627"
+            }
+          ]
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -162,6 +183,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 3123,
       "output_tokens": 164,
@@ -181,5 +205,28 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 1
-  }
+  },
+  "repairs": [
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3128,
+        "output_tokens": 230,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
+    }
+  ],
+  "evidence": [
+    {
+      "location": "AR 11",
+      "occurrence": 0,
+      "digest": "sha256:95192ab6e121bf7dfb3ff910cc4cfa20457f500841360e17d5ed13c4fa1bafa9"
+    }
+  ]
 }

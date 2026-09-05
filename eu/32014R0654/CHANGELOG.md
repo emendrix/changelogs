@@ -314,7 +314,7 @@ Paragraph 2 no longer lists the five specific aspects on services (points (a) to
 ### `32014R0654` → `02014R0654-20140627`
 
 - **Act** `eu:32014R0654` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 11 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32014R0654` · `v2` = `02014R0654-20140627`
@@ -325,18 +325,24 @@ Paragraph 2 no longer lists the five specific aspects on services (points (a) to
 
 *within* `AR 11 ALN 1`
 
-The provision now refers to paragraph 2 of Article 13 of Regulation (EC) No 3286/94 being replaced, instead of paragraph 3 as in the earlier text, and the replacement text itself is renumbered from '3.' to '2.'. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0654#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20140627#art_11)
+The provision now identifies the paragraph of Article 13 of Regulation (EC) No 3286/94 being replaced as paragraph 2, whereas the earlier text identified it as paragraph 3. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0654#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20140627#art_11)
+
+Correspondingly, the replacement text itself is now introduced and numbered as paragraph 2 rather than paragraph 3, while the substantive wording of that replacement text is unchanged. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20140627#art_11)
 
 *before* (`32014R0654`)
 
 > Article 11
 > Amendments to other acts
-> In Article 13 of Regulation (EC) No 3286/94, paragraph 3 is replaced by the following:"3. Where the Union, having acted in accordance with Article 12(2), has to take a decision on the measures of commercial policy to be adopted pursuant to Article 11(2)(c) or pursuant to Article 12, it shall act, without delay, in accordance with Article 207 of the Treaty on the Functioning of the European Union and, as appropriate, Regulation (EU) No 654/2014 of the European Parliament and of the CouncilRegulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189 27.6.2014, p. 50).". or any other applicable procedures.
+> In Article 13 of Regulation (EC) No 3286/94, paragraph 3 is replaced by the following:
+> "3. Where the Union, having acted in accordance with Article 12(2), has to take a decision on the measures of commercial policy to be adopted pursuant to Article 11(2)(c) or pursuant to Article 12, it shall act, without delay, in accordance with Article 207 of the Treaty on the Functioning of the European Union and, as appropriate, Regulation (EU) No 654/2014 of the European Parliament and of the Council
+> Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189 27.6.2014, p. 50).". or any other applicable procedures.
 
 *after* (`02014R0654-20140627`)
 
 > Article 11
 > Amendments to other acts
-> In Article 13 of Regulation (EC) No 3286/94, paragraph 2 is replaced by the following:"2. Where the Union, having acted in accordance with Article 12(2), has to take a decision on the measures of commercial policy to be adopted pursuant to Article 11(2)(c) or pursuant to Article 12, it shall act, without delay, in accordance with Article 207 of the Treaty on the Functioning of the European Union and, as appropriate, Regulation (EU) No 654/2014 of the European Parliament and of the CouncilRegulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189 27.6.2014, p. 50).". or any other applicable procedures.
+> In Article 13 of Regulation (EC) No 3286/94, paragraph 2 is replaced by the following:
+> "2. Where the Union, having acted in accordance with Article 12(2), has to take a decision on the measures of commercial policy to be adopted pursuant to Article 11(2)(c) or pursuant to Article 12, it shall act, without delay, in accordance with Article 207 of the Treaty on the Functioning of the European Union and, as appropriate, Regulation (EU) No 654/2014 of the European Parliament and of the Council
+> Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization (OJ L 189 27.6.2014, p. 50).". or any other applicable procedures.
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0654-20140627 -->
 
