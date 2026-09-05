@@ -47,7 +47,7 @@
         },
         "heading": "Accessibility of information on the European single access point",
         "before": null,
-        "after": "Article 29a\nAccessibility of information on the European single access point\n1. From 10 January 2028, when making public the key information document referred to in Article 5(1) of this Regulation, the PRIIPs manufacturer shall submit that key information document at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat key information document shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the PRIIP manufacturer to which the information relates;\n(ii) for legal persons, the legal entity identifier of the PRIIP manufacturer, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) for legal persons, the size of the PRIIP manufacturer by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), PRIIP manufacturers that are legal persons shall obtain a legal entity identifier.\n3. By 9 January 2028, for the purpose of making the key information document referred to in paragraph 1 of this Article accessible on ESAP, Member States shall designate at least one collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof.\n4. From 10 January 2028 the information referred to in Articles 27(1) and 29(1) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority as defined in Article 4, point (8), of this Regulation.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the PRIIP manufacturer to which the information relates;\n(ii) where available, the legal entity identifier of the PRIIP manufacturer, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n5. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, the ESAs, through the Joint Committee, shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), the ESAs shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nThe ESAs shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010, Article 15 of Regulation (EU) No 1094/2010 and Article 15 of Regulation (EU) No 1095/2010.\n6. Where necessary, the ESAs, through the Joint Committee, shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 5, first subparagraph, point (a), are correct.",
+        "after": "Article 29a\nAccessibility of information on the European single access point\n1. From 10 January 2028, when making public the key information document referred to in Article 5(1) of this Regulation, the PRIIPs manufacturer shall submit that key information document at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council\nRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat key information document shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the PRIIP manufacturer to which the information relates;\n(ii) for legal persons, the legal entity identifier of the PRIIP manufacturer, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) for legal persons, the size of the PRIIP manufacturer by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), PRIIP manufacturers that are legal persons shall obtain a legal entity identifier.\n3. By 9 January 2028, for the purpose of making the key information document referred to in paragraph 1 of this Article accessible on ESAP, Member States shall designate at least one collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof.\n4. From 10 January 2028 the information referred to in Articles 27(1) and 29(1) of this Regulation shall be made accessible on ESAP. For that purpose, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority as defined in Article 4, point (8), of this Regulation.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the PRIIP manufacturer to which the information relates;\n(ii) where available, the legal entity identifier of the PRIIP manufacturer, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.\n5. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, the ESAs, through the Joint Committee, shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), the ESAs shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nThe ESAs shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010, Article 15 of Regulation (EU) No 1094/2010 and Article 15 of Regulation (EU) No 1095/2010.\n6. Where necessary, the ESAs, through the Joint Committee, shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 5, first subparagraph, point (a), are correct.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -90,26 +90,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "This is a new article requiring PRIIPs manufacturers to submit the key information document to a designated collection body so it can be made accessible on the European single access point (ESAP), alongside specified metadata and format requirements.",
-          "fallback": false,
-          "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32014R1286",
-                  "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
-                },
-                "version": "02014R1286-20240109",
-                "location": "AR 29a"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20240109#art_29a",
-              "label": "Art. 29a, 02014R1286-20240109"
-            }
-          ]
-        },
-        {
-          "text": "It also directs Member States to designate collection bodies, requires legal-person manufacturers to obtain a legal entity identifier, extends accessibility obligations to information referred to in Articles 27(1) and 29(1), and tasks the ESAs with developing implementing technical standards and guidelines on metadata and formats.",
+          "text": "This is a newly inserted article requiring PRIIPs manufacturers to submit the key information document to a designated collection body so it can be made accessible on the European single access point, alongside detailed format, metadata and designation requirements for Member States and the ESAs.",
           "fallback": false,
           "citations": [
             {
@@ -304,7 +285,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3869,
+        "output_tokens": 150,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 29a",
+      "occurrence": 0,
+      "digest": "sha256:6a05d8e75062ecbc062569c2c5b576989b4e16e5728362893096f650dc91ed22"
+    }
+  ]
 }
