@@ -639,7 +639,7 @@ New text also addresses naturally occurring substances and substances used for c
 ### `32009R1107` → `02009R1107-20130701`
 
 - **Act** `eu:32009R1107` · **In force** 2013-07-01 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32009R1107` · `v2` = `02009R1107-20130701`
