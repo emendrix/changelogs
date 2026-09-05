@@ -446,7 +446,7 @@ In the list of provisions tied to Eudamed functionality under point (d), the ref
 ### `02017R0745-20200424` → `02017R0745-20230311`
 
 - **Act** `eu:32017R0745` · **In force** 2023-03-11 · **Detected** 2026-08-12
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 139 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02017R0745-20200424` · `v2` = `02017R0745-20230311`
