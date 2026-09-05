@@ -3945,23 +3945,26 @@ The numbering of paragraphs 1, 2 and 3 is presented with the numeral on its own 
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-Throughout the listed sub-provisions, every occurrence of the word "preparation" or "preparations" has been replaced with "mixture" or "mixtures". [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_2)
+Throughout the listed sub-provisions, every occurrence of the word "preparation" or "preparations" has been replaced with "mixture" or "mixtures". [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_2)
 
-The surrounding wording of paragraphs 1(b), 1(d), 2, 3, 6, 6(c), 7(c) and 7(d) is otherwise unchanged from the earlier version. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_2)
+No other wording, structure, or substantive scope of the exemptions in Article 2 was altered between the two versions. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_2)
 
 *before* (`02006R1907-20081012`)
 
 > Article 2
 > Application
 > 1. This Regulation shall not apply to:
-> (a) radioactive substances within the scope of Council Directive 96/29/Euratom of 13 May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiationOJ L 159, 29.6.1996, p. 1.;
+> (a) radioactive substances within the scope of Council Directive 96/29/Euratom of 13 May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation
+> OJ L 159, 29.6.1996, p. 1.;
 > (b) substances, on their own, in a preparation or in an article, which are subject to customs supervision, provided that they do not undergo any treatment or processing, and which are in temporary storage, or in a free zone or free warehouse with a view to re-exportation, or in transit;
 > (c) non-isolated intermediates;
 > (d) the carriage of dangerous substances and dangerous substances in dangerous preparations by rail, road, inland waterway, sea or air.
-> 2. Waste as defined in Directive 2006/12/EC of the European Parliament and of the CouncilOJ L 114, 27.4.2006, p. 9. is not a substance, preparation or article within the meaning of Article 3 of this Regulation.
+> 2. Waste as defined in Directive 2006/12/EC of the European Parliament and of the Council
+> OJ L 114, 27.4.2006, p. 9. is not a substance, preparation or article within the meaning of Article 3 of this Regulation.
 > 3. Member States may allow for exemptions from this Regulation in specific cases for certain substances, on their own, in a preparation or in an article, where necessary in the interests of defence.
 > 4. This Regulation shall apply without prejudice to:
-> (a) Community workplace and environmental legislation, including Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at workOJ L 183, 29.6.1989, p. 1. Directi […truncated by emendrix: 5835 characters omitted…]
+> (a) Community workplace and environmental legislation, including Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work
+> OJ L 183, 29.6.1989, p. 1. Dire […truncated by emendrix: 5847 characters omitted…]
 
 *after* (`02006R1907-20090120`)
 
@@ -3970,7 +3973,8 @@ The surrounding wording of paragraphs 1(b), 1(d), 2, 3, 6, 6(c), 7(c) and 7(d) i
 > 1.
 > This Regulation shall not apply to:
 >
-> (a) radioactive substances within the scope of Council Directive 96/29/Euratom of 13 May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiationOJ L 159, 29.6.1996, p. 1.;
+> (a) radioactive substances within the scope of Council Directive 96/29/Euratom of 13 May 1996 laying down basic safety standards for the protection of the health of workers and the general public against the dangers arising from ionising radiation
+> OJ L 159, 29.6.1996, p. 1.;
 >
 > (b) substances, on their own, in a mixture or in an article, which are subject to customs supervision, provided that they do not undergo any treatment or processing, and which are in temporary storage, or in a free zone or free warehouse with a view to re-exportation, or in transit;
 >
@@ -3978,13 +3982,15 @@ The surrounding wording of paragraphs 1(b), 1(d), 2, 3, 6, 6(c), 7(c) and 7(d) i
 >
 > (d) the carriage of dangerous substances and dangerous substances in dangerous mixtures by rail, road, inland waterway, sea or air.
 > 2.
-> Waste as defined in Directive 2006/12/EC of the European Parliament and of the CouncilOJ L 114, 27.4.2006, p. 9. is not a substance, mixture or article within the meaning of Article 3 of this Regulation.
+> Waste as defined in Directive 2006/12/EC of the European Parliament and of the Council
+> OJ L 114, 27.4.2006, p. 9. is not a substance, mixture or article within the meaning of Article 3 of this Regulation.
 > 3.
 > Member States may allow for exemptions from this Regulation in specific cases for certain substances, on their own, in a mixture or in an article, where necessary in the interests of defence.
 > 4.
 > This Regulation shall apply without prejudice to:
 >
-> (a) Community workplace and environmental legislation, including Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at workOJ L 183, 29.6.1989, p. 1. Directive as amend […truncated by emendrix: 5833 characters omitted…]
+> (a) Community workplace and environmental legislation, including Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work
+> OJ L 183, 29.6.1989, p. 1. Directive as am […truncated by emendrix: 5845 characters omitted…]
 
 **MODIFIED · Art. 3 — Definitions** · applies from: unchanged
 
@@ -3992,9 +3998,7 @@ The surrounding wording of paragraphs 1(b), 1(d), 2, 3, 6, 6(c), 7(c) and 7(d) i
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The defined term at point 2 changes from "preparation" to "mixture", while the definition text itself stays the same. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_3)
-
-In the definitions at points 13, 14, 22, 26, 32 and 34, every occurrence of the word "preparation" or "preparations" is replaced with "mixture" or "mixtures", and the heading text of points 32 and 34 is changed accordingly from "substance or a preparation" to "substance or a mixture". [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_3)
+The defined term formerly labelled "preparation" in point 2 is renamed "mixture", and every other point that used the word "preparation" (points 13, 14, 22, 26, 32 and 34) now uses "mixture" instead. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_3)
 
 *before* (`02006R1907-20081012`)
 
@@ -4009,7 +4013,7 @@ In the definitions at points 13, 14, 22, 26, 32 and 34, every occurrence of the 
 > (a) a simple weight majority of molecules containing at least three monomer units which are covalently bound to at least one other monomer unit or other reactant;
 > (b) less than a simple weight majority of molecules of the same molecular weight.
 > In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
-> 6. monom […truncated by emendrix: 9228 characters omitted…]
+> 6. monom […truncated by emendrix: 9229 characters omitted…]
 
 *after* (`02006R1907-20090120`)
 
@@ -4032,7 +4036,7 @@ In the definitions at points 13, 14, 22, 26, 32 and 34, every occurrence of the 
 > (b) less than a simple weight majority of molecules of the same molecular weight.
 > In the context of this definition a monomer unit means the reacted form of a monomer substance in a polymer;
 >
-> 6. m […truncated by emendrix: 9237 characters omitted…]
+> 6. m […truncated by emendrix: 9238 characters omitted…]
 
 **MODIFIED · Art. 5 — No data, no market** · applies from: unchanged
 
@@ -4171,9 +4175,9 @@ In paragraph 4, the word "preparation" has been replaced by "mixture" in both pl
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The term "preparation" throughout paragraphs 1 and 2 is replaced with "mixture". [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_14)
+References to a substance being present in a 'preparation' in paragraphs 1 and 2 have been replaced with references to a 'mixture'. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_14)
 
-The concentration-limit references in paragraph 2 that previously pointed to Annex I of Directive 67/548/EEC and to the classification and labelling inventory under Title XI are replaced with references to Part 3 of Annex VI and Article 42 of Regulation (EC) No 1272/2008, and two new points, (ba) and (ea), are added covering an M-factor cut-off value calculated using Table 1.1 and section 4.1 of Annex I to that Regulation for substances hazardous to the aquatic environment. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_14)
+Points (b) and (e) of paragraph 2 now point to concentration limits and classification and labelling inventory entries under Regulation (EC) No 1272/2008 instead of Directive 67/548/EEC, and two new points, (ba) and (ea), have been added addressing an M-factor cut-off value for substances hazardous to the aquatic environment, calculated by reference to Annex I of that Regulation. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_14)
 
 *before* (`02006R1907-20081012`)
 
@@ -4188,7 +4192,7 @@ The concentration-limit references in paragraph 2 that previously pointed to Ann
 > (d) the concentration limits given in Part B of Annex III to Directive 1999/45/EC;
 > (e) the concentration limits given in an agreed entry in the classification and labelling inventory established under Title XI of this Regulation;
 > (f) 0,1 % weight by weight (w/w), if the substance meets the criteria in Annex XIII of this Regulation.
-> 3. A chemical safety assessment of a substance shall in […truncated by emendrix: 1756 characters omitted…]
+> 3. A chemical safety assessment of a substance shall in […truncated by emendrix: 1757 characters omitted…]
 
 *after* (`02006R1907-20090120`)
 
@@ -4203,9 +4207,10 @@ The concentration-limit references in paragraph 2 that previously pointed to Ann
 > (a) the applicable concentrations defined in the table of Article 3(3) of Directive 1999/45/EC;
 >
 >
-> (b) the specific concentration limits that have been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixturesOJ L 353, 31.12.2008, p. 1;;
+> (b) the specific concentration limits that have been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures
+> OJ L 353, 31.12.2008, p. 1;;
 >
-> (ba) for substances classified as hazardous to the aquatic environment, if a multiplying factor (hereinafter referred to as M-factor) has been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008, the cut-off value in Table 1.1 of Annex I to that Regulation adjusted usi […truncated by emendrix: 2707 characters omitted…]
+> (ba) for substances classified as hazardous to the aquatic environment, if a multiplying factor (hereinafter referred to as M-factor) has been set in Part 3 of Annex VI to Regulation (EC) No 1272/2008, the cut-off value in Table 1.1 of Annex I to that Regulation adjusted us […truncated by emendrix: 2709 characters omitted…]
 
 **MODIFIED · Art. 31 — Requirements for safety data sheets** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -4462,9 +4467,9 @@ The paragraph on the tonnage-based exemption from reporting now refers to a subs
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The term "preparation" in Article 56(1)(1)(a) and (b) has been replaced with "mixture" when describing how a substance may be used on its own or combined. [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_56)
+The term "preparation" in paragraphs 1(1)(a) and 1(1)(b) is replaced with "mixture", and the same substitution occurs in paragraph 6's introductory text and in point 6(1)(b). [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_56)
 
-In Article 56(6)(1), the phrase "present in preparations" is changed to "present in mixtures", and in point (b) the reference to concentration limits in Annex I to Directive 67/548/EEC is replaced with a reference to Part 3 of Annex VI to Regulation (EC) No 1272/2008, with "preparation" also changed to "mixture" in the classification wording. [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_56) [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_56)
+Point 6(1)(b) also changes its cross-reference for concentration limits from Annex I to Directive 67/548/EEC to Part 3 of Annex VI to Regulation (EC) No 1272/2008, and it now refers to classification of the "mixture" rather than the "preparation" as dangerous. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_56)
 
 *before* (`02006R1907-20081012`)
 
@@ -4477,7 +4482,7 @@ In Article 56(6)(1), the phrase "present in preparations" is changed to "present
 > (d) the date referred to in Article 58(1)(c)(i) has been reached and he made an application 18 months before that date but a decision on the application for authorisation has not yet been taken; or
 > (e) in cases where the substance is placed on the market, authorisation for that use has been granted to his immediate downstream user.
 > 2. A downstream user may use a substance meeting the criteria set out in paragraph 1 provided that the use is in accordance with the conditions of an authorisation granted to an actor up his supply chain for that use.
-> 3. Paragraphs 1 and 2 shall not apply to the use of substances in scientific research a […truncated by emendrix: 1662 characters omitted…]
+> 3. Paragraphs 1 and 2 shall not apply to the use of substances in scientific research a […truncated by emendrix: 1663 characters omitted…]
 
 *after* (`02006R1907-20090120`)
 
@@ -4498,7 +4503,7 @@ In Article 56(6)(1), the phrase "present in preparations" is changed to "present
 > 2.
 > A downstream user may use a substance meeting the criteria set out in paragraph 1 provided that the use is in accordance with the conditions of an authorisation granted to an actor up his supply chain for that use.
 > 3.
-> Paragraphs 1 and 2 shall not apply to the use of substances in scientific research and […truncated by emendrix: 1680 characters omitted…]
+> Paragraphs 1 and 2 shall not apply to the use of substances in scientific research and […truncated by emendrix: 1681 characters omitted…]
 
 **MODIFIED · Art. 58 — Inclusion of substances in Annex XIV** · applies from: unchanged
 
@@ -5063,9 +5068,9 @@ The remaining paragraph numbering and text of Article 129 are otherwise unchange
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The word 'preparation' in section 0.3 has been replaced with 'mixture', and section 0.6 now refers to a 'mixture' rather than a 'preparation' when discussing classification criteria. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_I)
+The term "preparation" used in section 0.3 and the term "special preparation" used in section 0.11 have been replaced with "mixture" and "special mixture" respectively. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_I)
 
-Section 0.11 likewise now refers to a 'special mixture' where it previously referred to a 'special preparation'. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_I)
+In section 0.6, the reference to a substance or the preparation meeting classification criteria has been changed to a substance or the mixture meeting those criteria. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_I)
 
 *before* (`02006R1907-20081012`)
 
@@ -5074,7 +5079,7 @@ Section 0.11 likewise now refers to a 'special mixture' where it previously refe
 > 0. INTRODUCTION
 > 0.1. The purpose of this Annex is to set out how manufacturers and importers are to assess and document that the risks arising from the substance they manufacture or import are adequately controlled during manufacture and their own use(s) and that others further down the supply chain can adequately control the risks. This Annex shall also apply adapted as necessary to producers and importers of articles required to make a chemical safety assessment as part of a registration.
 > 0.2. The chemical safety assessment shall be prepared by one or more competent person(s) who have appropriate experience and received appropriate training, including refresher training.
-> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a preparation and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment […truncated by emendrix: 36337 characters omitted…]
+> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a preparation and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment […truncated by emendrix: 36338 characters omitted…]
 
 *after* (`02006R1907-20090120`)
 
@@ -5086,7 +5091,7 @@ Section 0.11 likewise now refers to a 'special mixture' where it previously refe
 > 0. INTRODUCTION
 > 0.1. The purpose of this Annex is to set out how manufacturers and importers are to assess and document that the risks arising from the substance they manufacture or import are adequately controlled during manufacture and their own use(s) and that others further down the supply chain can adequately control the risks. This Annex shall also apply adapted as necessary to producers and importers of articles required to make a chemical safety assessment as part of a registration.
 > 0.2. The chemical safety assessment shall be prepared by one or more competent person(s) who have appropriate experience and received appropriate training, including refresher training.
-> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment t […truncated by emendrix: 36481 characters omitted…]
+> 0.3. The chemical safety assessment of a manufacturer shall address the manufacture of a substance and all the identified uses. The chemical safety assessment of an importer shall address all identified uses. The chemical safety assessment shall consider the use of the substance on its own (including any major impurities and additives), in a mixture and in an article, as defined by the identified uses. The assessment shall consider all stages of the life-cycle of the substance resulting from the manufacture and identified uses. The chemical safety assessment shall be based on a comparison of the potential adverse effects of a substance with the known or reasonably foreseeable exposure of man and/or the environment t […truncated by emendrix: 36482 characters omitted…]
 
 **MODIFIED · Annex II — GUIDE TO THE COMPILATION OF SAFETY DATA SHEETS** · applies from: unchanged
 
@@ -5094,9 +5099,9 @@ Section 0.11 likewise now refers to a 'special mixture' where it previously refe
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-Throughout Annex II the term "preparation" (and its plural and related forms such as "preparations") has been replaced consistently with "mixture" and "mixtures" across the introductory text and sections 1 through 15. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_II)
+Throughout Annex II, every occurrence of the word "preparation" or "preparations" has been replaced with "mixture" or "mixtures" across the introductory text and sections 1 through 15, including headings, subheadings and cross-references such as those in sections 1.1 to 1.3, 3.2 to 3.3, 7.1 to 7.2, 8.1 to 8.2.1, 9.1 to 9.3, 10.3, and 12.1 to 12.4. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_II)
 
-This substitution of terminology is applied uniformly wherever the word previously appeared, including in headings such as section 1 and section 9, and in the footnoted text of sections 12.2 through 12.4, with no other wording added or removed. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_II)
+Alongside this terminology substitution, the after text adds extra blank lines and paragraph breaks between many subsections without altering the substantive wording of the guidance. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_II)
 
 *before* (`02006R1907-20081012`)
 
@@ -5104,7 +5109,7 @@ This substitution of terminology is applied uniformly wherever the word previous
 > GUIDE TO THE COMPILATION OF SAFETY DATA SHEETS
 > This Annex sets out the requirements for a Safety Data Sheet that is provided for a substance or a preparation in accordance with Article 31. The Safety Data Sheet provides a mechanism for transmitting appropriate safety information on classified substances and preparations, including information from the relevant Chemical Safety Report(s) down the supply chain to the immediate downstream user(s). The information provided in the Safety Data Sheet shall be consistent with the information in the Chemical Safety Report, where one is required. Where a Chemical Safety Report has been performed, the relevant exposure scenario(s) shall be placed into an annex of the Safety Data Sheet, to make reference to them under the relevant headings of the Safety Data Sheet easier.
 > The purpose of this Annex is to ensure consistency and accuracy in the content of each of the mandatory headings listed in Article 31, so that the resulting Safety Data Sheets will enable users to take the necessary measures relating to protection of human health and safety at the workplace, and protection of the environment.
-> The information provided by Safety Data Sheets shall also meet the requirements set out in Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents at work. In particular, the Safety Data Sheet shall enable the employer to determine whether any hazardous chemical agents are present i […truncated by emendrix: 30629 characters omitted…]
+> The information provided by Safety Data Sheets shall also meet the requirements set out in Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents at work. In particular, the Safety Data Sheet shall enable the employer to determine whether any hazardous chemical agents are present i […truncated by emendrix: 30638 characters omitted…]
 
 *after* (`02006R1907-20090120`)
 
@@ -5113,7 +5118,7 @@ This substitution of terminology is applied uniformly wherever the word previous
 > GUIDE TO THE COMPILATION OF SAFETY DATA SHEETS
 > This Annex sets out the requirements for a Safety Data Sheet that is provided for a substance or a mixture in accordance with Article 31. The Safety Data Sheet provides a mechanism for transmitting appropriate safety information on classified substances and mixtures, including information from the relevant Chemical Safety Report(s) down the supply chain to the immediate downstream user(s). The information provided in the Safety Data Sheet shall be consistent with the information in the Chemical Safety Report, where one is required. Where a Chemical Safety Report has been performed, the relevant exposure scenario(s) shall be placed into an annex of the Safety Data Sheet, to make reference to them under the relevant headings of the Safety Data Sheet easier.
 > The purpose of this Annex is to ensure consistency and accuracy in the content of each of the mandatory headings listed in Article 31, so that the resulting Safety Data Sheets will enable users to take the necessary measures relating to protection of human health and safety at the workplace, and protection of the environment.
-> The information provided by Safety Data Sheets shall also meet the requirements set out in Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents at work. In particular, the Safety Data Sheet shall enable the employer to determine whether any hazardous chemical agents are present in the w […truncated by emendrix: 30487 characters omitted…]
+> The information provided by Safety Data Sheets shall also meet the requirements set out in Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents at work. In particular, the Safety Data Sheet shall enable the employer to determine whether any hazardous chemical agents are present in the w […truncated by emendrix: 30496 characters omitted…]
 
 **MODIFIED · Annex III — CRITERIA FOR SUBSTANCES REGISTERED IN QUANTITIES BETWEEN 1 AND 10 TONNES** · applies from: unchanged
 
@@ -5320,24 +5325,28 @@ The remainder of the Annex, including the content-of-dossiers section, is unchan
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The heading and body text replace the term "preparations" throughout with "mixtures", and the phrase "PREPARATIONS AND ARTICLES" in the Annex title becomes "MIXTURES AND ARTICLES". [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
+Throughout the Annex the word 'preparations' has been replaced by 'mixtures', including in the Annex heading and in the column header describing the substances, groups of substances or mixtures covered. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
 
-Entries 28, 29 and 30 replace their classification references to Annex I of Directive 67/548/EEC with references to Part 3 of Annex VI to Regulation (EC) No 1272/2008, including new category labels such as carcinogen category 1A/1B (Table 3.1) or 1/2 (Table 3.2), mutagen category 1A/1B or 1/2, and reproductive toxicant category 1A/1B or 1/2, and the concentration-limit cross-reference in point 1 is changed accordingly. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
+Entries 28 to 30 no longer cross-refer to carcinogen, mutagen and reproductive-toxicant classifications under Directive 67/548/EEC and Annex I to that Directive, but instead refer to classifications and concentration limits set out in Part 3 of Annex VI to Regulation (EC) No 1272/2008, using its Table 3.1 and Table 3.2 category labels alongside the corresponding former category numbers. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
 
-The text shown is truncated before its end in both versions, so any further differences beyond what is quoted cannot be described. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
+Because the visible material is truncated before the end of both texts, further differences beyond these terminology and cross-reference changes cannot be described here. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
 
 *before* (`02006R1907-20081012`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, PREPARATIONS AND ARTICLES
-> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).Chrysotile has two CAS Nos, confirmed by ECB.Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
+> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).
+> Chrysotile has two CAS Nos, confirmed by ECB.
+> Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).
+> OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).
+> For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
 > Designation of the substance, of the groups of substances or of the preparation Conditions of restriction
 > 1. Polychlorinated terphenyls (PCTs)
 > Preparations, including waste oils, with a PCT content higher than 0,005 % by weight. 1. Shall not be used. However, the following use of equipment, installations and fluids which were in service on 30 June 1986 shall continue to be permitted until they are disposed of or reach the end of their service life:
 > (a) closed-system electrical equipment transformers, resistors and inductors;
 > (b) large condensers (≥ 1 kg total weight);
 > (c) small condensers;
-> (d) heat-transmitting fluids in clos […truncated by emendrix: 405147 characters omitted…]
+> (d) heat-transmitting fluids in […truncated by emendrix: 405200 characters omitted…]
 
 *after* (`02006R1907-20090120`)
 
@@ -5365,7 +5374,7 @@ The text shown is truncated before its end in both versions, so any further diff
 >
 > (c) small condensers;
 >
-> (d) heat-transmitting fluids in clo […truncated by emendrix: 406748 characters omitted…]
+> (d) heat-transmitting fluids in clo […truncated by emendrix: 406799 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20090120 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20081012 -->
