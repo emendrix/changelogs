@@ -329,7 +329,7 @@ Point III(a), on infringing Article 34(1), replaces the earlier reference to a d
 ### `02012R0648-20220812` → `02012R0648-20241224`
 
 - **Act** `eu:32012R0648` · **In force** 2022-10-01, 2024-12-24 · **Detected** 2026-08-13
-- **Touched** 61 provisions — 61 substantive · 0 date-only · **3 disputed**
+- **Touched** 61 provisions — 58 substantive · 0 date-only · 3 with no text · **3 disputed**
 - **Diff** 12 inserted · 49 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20220812` · `v2` = `02012R0648-20241224`
@@ -342,7 +342,7 @@ Point III(a), on infringing Article 34(1), replaces the earlier reference to a d
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -350,11 +350,11 @@ Point III(a), on infringing Article 34(1), replaces the earlier reference to a d
 
 *within* `AR 3 PA 1 ALN 1`, `AR 3 PA 1 ALN 1 PTA (a)`, `AR 3 PA 1 ALN 1 PTA (b)`, `AR 3 PA 2 ALN 1`, `AR 3 PA 2 ALN 1 PTA (a)`, `AR 3 PA 2 ALN 1 PTA (a) PTI (i)`, `AR 3 PA 2 ALN 1 PTA (b)`, `AR 3 PA 2 ALN 1 PTA (c)`, `AR 3 PA 2 ALN 1 PTA (d)`, `AR 3 PA 2 ALN 1 PTA (d) PTI (i)`, `AR 3 PA 2 ALN 1 PTA (d) PTI (ii)`, `AR 3 PA 3 ALN 1`, `AR 3 PA 3 ALN 1 PTA (a)`, `AR 3 PA 3 ALN 1 PTA (b)`, `AR 3 PA 4`, `AR 3 PA 5` · *dates* +2007-12-21 +2013-06-26 +2024-05-31 · *amended by* `32024R2987`
 
-The conditions for treating a contract with a counterparty in a third country as an intragroup transaction, for both non-financial and financial counterparties, no longer depend on the Commission having adopted an implementing act on equivalence under Article 13(2), and instead depend on whether that third country is identified under a new paragraph 4 or under delegated acts adopted under a new paragraph 5. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3)
+The provision now defines intragroup transaction eligibility by reference to whether a third country is identified under new paragraph 4 or under delegated acts adopted under new paragraph 5, replacing the earlier reliance on an implementing act adopted by the Commission under Article 13(2). [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_3)
 
-Two new paragraphs are added: paragraph 4, which excludes intragroup exemptions for transactions with counterparties in third countries identified as high-risk under Regulation (EU) 2024/1624 or listed as non-cooperative jurisdictions for tax purposes, and paragraph 5, which empowers the Commission to adopt delegated acts identifying further third countries whose entities cannot benefit from the intragroup exemptions. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3)
+The internal cross-references to Directive 2006/48/EC provisions have been replaced with references to the corresponding provisions of Regulation (EU) No 575/2013 and Directive 2013/36/EU, and the consolidation basis reference has moved from Directive 83/349/EEC to Directive 2013/34/EU. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_3)
 
-References to Directive 2006/48/EC and Directive 2006/49/EC in the consolidation and institutional protection scheme provisions are replaced with references to Regulation (EU) No 575/2013 and Directive 2013/36/EU, and the reference to Directive 83/349/EEC is replaced with a reference to Directive 2013/34/EU. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3)
+Two new paragraphs, 4 and 5, have been added, setting out that transactions with counterparties in certain identified third countries do not benefit from intragroup exemptions and empowering the Commission to adopt delegated acts under Article 82 identifying further such third countries. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_3)
 
 *before* (`02012R0648-20220812`)
 
@@ -381,15 +381,17 @@ References to Directive 2006/48/EC and Directive 2006/49/EC in the consolidation
 > (i) the financial counterparty is established in the Union or, if it is established in a third country, that third country is not identified under paragraph 4 or under the delegated acts adopted pursuant to paragraph 5;
 > (ii) the other counterparty is a financial counterparty, a financial holding company, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;
 > (iii) both counterparties are included in the same consolidation on a full basis; and
-> (iv) both counterparties are subject to appropriate centralised risk evaluat […truncated by emendrix: 4390 characters omitted…]
+> (iv) both counterparties are subject to appropriate centralised risk evaluat […truncated by emendrix: 4393 characters omitted…]
 
 **MODIFIED · Art. 4 — Clearing obligation** · applies from: unchanged
 
 *within* `AR 4 PA 1 ALN 2` · *amended by* `32024R2987`
 
-Article 4(1) gains a new subparagraph stating that the clearing obligation does not apply to contracts falling under point (a)(iv) that are concluded between a financial or non-financial counterparty meeting the specified conditions and a third-country pension scheme arrangement operating on a national basis, provided that arrangement is authorised, supervised and recognised under national law, has retirement-benefit provision as its primary purpose, and is exempted from the clearing obligation under that national law. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_4)
+Paragraph 1 now adds a new subparagraph stating that the clearing obligation described in point (a)(iv) does not apply to contracts between a financial or non-financial counterparty meeting the relevant thresholds and a pension scheme arrangement established in a third country that operates nationally, is authorised, supervised and recognised under national law, has retirement-benefit provision as its primary purpose, and is exempted from the clearing obligation under that national law. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_4)
 
-This subparagraph is absent from the earlier version of Article 4(1), which contained only the two original conditions for concluding contracts and no exclusion for third-country pension scheme arrangements. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_4)
+This exclusion for third-country pension scheme arrangements was not present in the earlier version of Article 4, which contained no such carve-out language. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_4)
+
+All other paragraphs of Article 4, including the intragroup exemption and clearing-service provisions, remain textually identical between the two versions. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_4)
 
 *before* (`02012R0648-20220812`)
 
@@ -401,7 +403,7 @@ This subparagraph is absent from the earlier version of Article 4(1), which cont
 > (ii) between a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) and a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1);
 > (iii) between two non-financial counterparties that meet the conditions set out in the second subparagraph of Article 10(1);
 > (iv) between, on the one side, a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) or a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1), and, on the other side, an entity established in a third country that would be subject to the clearing obligation if it were established in the Union;
-> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 7461 characters omitted…]
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 7462 characters omitted…]
 
 *after* (`02012R0648-20241224`)
 
@@ -413,7 +415,7 @@ This subparagraph is absent from the earlier version of Article 4(1), which cont
 > (ii) between a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) and a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1);
 > (iii) between two non-financial counterparties that meet the conditions set out in the second subparagraph of Article 10(1);
 > (iv) between, on the one side, a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) or a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1), and, on the other side, an entity established in a third country that would be subject to the clearing obligation if it were established in the Union;
-> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 8200 characters omitted…]
+> (v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or […truncated by emendrix: 8201 characters omitted…]
 
 **MODIFIED · Art. 4a** · applies from: unknown
 
@@ -421,7 +423,7 @@ This subparagraph is absent from the earlier version of Article 4(1), which cont
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -595,11 +597,11 @@ The provision further states that college members of the CCP referred to in Arti
 
 *within* `AR 9 PA 1 ALN 2`, `AR 9 PA 1 ALN 2 PTA (a)`, `AR 9 PA 1 ALN 2 PTA (b)`, `AR 9 PA 1 ALN 3`, `AR 9 PA 1 ALN 3 PTA (a)`, `AR 9 PA 1 ALN 3 PTA (b)`, `AR 9 PA 1 ALN 3 PTA (c)`, `AR 9 PA 1 ALN 4`, `AR 9 PA 1 ALN 4 PTA (a)`, `AR 9 PA 1 ALN 4 PTA (b)`, `AR 9 PA 1 ALN 5`, `AR 9 PA 1 ALN 6`, `AR 9 PA 1a ALN 4 PTA (a)`, `AR 9 PA 1e ALN 1`, `AR 9 PA 4a` · *dates* +2025-12-25 · *amended by* `32024R2987`
 
-Paragraph 1 now includes a new subparagraph requiring financial counterparties, non-financial counterparties and CCPs to put in place appropriate procedures and arrangements to ensure the quality of the data they report, and a further new subparagraph on a Union parent undertaking of a non-financial counterparty within a group reporting net aggregate positions by class of derivatives to its competent authority on a weekly basis, with that authority sharing the information with ESMA and the relevant competent authority. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9)
+Article 9(1) now adds a new subparagraph requiring financial counterparties, non-financial counterparties and CCPs subject to the reporting obligation to put in place appropriate procedures and arrangements to ensure the quality of reported data, and a further new subparagraph requiring a Union parent undertaking of a group-exempt non-financial counterparty to report net aggregate positions by class of derivatives to its competent authority on a weekly basis, with that authority sharing the information with ESMA and the counterparty's competent authority. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9)
 
-In the third-country exemption conditions of paragraph 1a, the word "and" is added at the end of point (a). [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9)
+In Article 9(1a), point (a) of the third-country exemption list now ends with 'and' rather than standing alone, a wording change in how the listed conditions are joined. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9)
 
-Paragraph 1e now adds that correct, non-duplicated reporting must be ensured including where the reporting obligation has been delegated under paragraph 1f, and a new paragraph 4a is added directing ESMA, with EBA and EIOPA, to draft guidelines by 25 December 2025 specifying the procedures and arrangements referred to in the new second subparagraph of paragraph 1. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9) [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_9)
+Article 9(1e) now adds that reports must be correct and free of duplication including where reporting has been delegated under paragraph 1f, and a new Article 9(4a) requires ESMA, with EBA and EIOPA, to draft guidelines specifying the data-quality procedures and arrangements of paragraph 1's second subparagraph. [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_9)
 
 *before* (`02012R0648-20220812`)
 
@@ -613,7 +615,7 @@ Paragraph 1e now adds that correct, non-duplicated reporting must be ensured inc
 > (a) both counterparties are included in the same consolidation on a full basis;
 > (b) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures; and
 > (c) the parent undertaking is not a financial counterparty.
-> Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the con […truncated by emendrix: 6883 characters omitted…]
+> Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the con […truncated by emendrix: 6884 characters omitted…]
 
 *after* (`02012R0648-20241224`)
 
@@ -624,7 +626,7 @@ Paragraph 1e now adds that correct, non-duplicated reporting must be ensured inc
 > Where a non-financial counterparty that is part of a group meets the conditions set out in Article 10(1), second subparagraph, and benefits from the exemption set out in the fifth subparagraph of this paragraph, the Union parent undertaking of that non-financial counterparty shall report the net aggregate positions by class of derivatives of that non-financial counterparty to its competent authority on a weekly basis. For a counterparty established in the Union, the competent authority of the parent undertaking shall share the information with ESMA and with the competent authority of that counterparty.
 > The reporting obligation shall apply to derivative contracts which:
 > (a) were entered into before 12 February 2014 and remain outstanding on that date;
-> (b) […truncated by emendrix: 8082 characters omitted…]
+> (b) […truncated by emendrix: 8083 characters omitted…]
 
 **MODIFIED · Art. 10** · applies from: unknown
 
@@ -632,7 +634,7 @@ Paragraph 1e now adds that correct, non-duplicated reporting must be ensured inc
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -909,11 +911,11 @@ It also specifies access rights for a CCP to documents it submitted or received 
 
 *within* `AR 18 PA 1 ALN 1`, `AR 18 PA 4 ALN 2`, `AR 18 PA 4 ALN 3`, `AR 18 PA 5 ALN 2`, `AR 18 PA 5 ALN 3` · *amended by* `32024R2987`
 
-The trigger for establishing the college changes from completion of an application under Article 17 to submission of the notification referred to in Article 17(2), second subparagraph, point (a), and the list of tasks the college facilitates is expanded to include Articles 17a, 20, 21, 37 and 41 in addition to those already listed; the college is now described as co-chaired and managed jointly by the competent authority and an independent CCP Supervisory Committee member, rather than chaired solely by the competent authority. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_18)
+The trigger for establishing the college changes from completion of an application under Article 17 to submission of the notification described in Article 17(2), second subparagraph, point (a), and the list of tasks the college facilitates is expanded to also reference Articles 17a, 20, 21, 37 and 41, while the college is now to be co-chaired and managed jointly by the competent authority and an independent CCP Supervisory Committee member rather than chaired solely by the competent authority. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_18)
 
-A new sentence gives the co-chairs the role of deciding the dates of college meetings and setting the agenda, and the provision on members contributing to the agenda now adds that this is done taking into consideration the outcome of the work carried out by the Joint Monitoring Mechanism. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_18)
+A new sentence in paragraph 4 assigns the co-chairs the task of deciding meeting dates and setting the agenda, and the agenda-contribution provision for college members is expanded to require taking into account the outcome of work carried out by the Joint Monitoring Mechanism. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_18)
 
-The agreement establishing the college may now entrust tasks to ESMA as well as to the competent authority or another college member, and a new sentence provides that disagreements between the co-chairs are finally decided by the competent authority, who must give ESMA a reasoned explanation of that decision. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_18)
+In paragraph 5, the list of parties to whom tasks may be entrusted is expanded to include ESMA alongside the CCP's competent authority and other college members, and a new provision is added stating that disagreements between the co-chairs are decided by the competent authority, who must give ESMA a reasoned explanation of that decision. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_18)
 
 *before* (`02012R0648-20220812`)
 
@@ -923,8 +925,9 @@ The agreement establishing the college may now entrust tasks to ESMA as well as 
 > 2. The college shall consist of:
 > (a) the Chair or any of the independent members of the CCP Supervisory Committee referred to in points (a) and (b) of Article 24a(2);
 > (b) the CCP’s competent authority;
-> (c) the competent authorities responsible for the supervision of the clearing members of the CCP which are established in the three Member States with the largest contributions to the default fund of the CCP referred to in Article 42 of this Regulation on an aggregate basis over a one-year period, including, where relevant, the ECB in the framework of the tasks concerning the prudential supervision of credit institutions within the single supervisory mechanism conferred upon it in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
-> (ca) the competent authorities responsible for the supervision of clearing members of the CCP, other than those referred to in point (c), subject to the consent of the CCP's competent authority. Those competent authorities shall request […truncated by emendrix: 4816 characters omitted…]
+> (c) the competent authorities responsible for the supervision of the clearing members of the CCP which are established in the three Member States with the largest contributions to the default fund of the CCP referred to in Article 42 of this Regulation on an aggregate basis over a one-year period, including, where relevant, the ECB in the framework of the tasks concerning the prudential supervision of credit institutions within the single supervisory mechanism conferred upon it in accordance with Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (ca) the competent authorities responsible for the supervision of clearing members of the CCP, other than those referred to in point (c), subject to the consent of the CCP's competent authority. Those competent authorities shall request […truncated by emendrix: 4817 characters omitted…]
 
 *after* (`02012R0648-20241224`)
 
@@ -934,8 +937,9 @@ The agreement establishing the college may now entrust tasks to ESMA as well as 
 > 2. The college shall consist of:
 > (a) the Chair or any of the independent members of the CCP Supervisory Committee referred to in points (a) and (b) of Article 24a(2);
 > (b) the CCP’s competent authority;
-> (c) the competent authorities responsible for the supervision of the clearing members of the CCP which are established in the three Member States with the largest contributions to the default fund of the CCP referred to in Article 42 of this Regulation on an aggregate basis over a one-year period, including, where relevant, the ECB in the framework of the tasks concerning the prudential supervision of credit institutions within the single supervisory mechanism conferred upon it in accordance with Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
-> (ca) the co […truncated by emendrix: 5450 characters omitted…]
+> (c) the competent authorities responsible for the supervision of the clearing members of the CCP which are established in the three Member States with the largest contributions to the default fund of the CCP referred to in Article 42 of this Regulation on an aggregate basis over a one-year period, including, where relevant, the ECB in the framework of the tasks concerning the prudential supervision of credit institutions within the single supervisory mechanism conferred upon it in accordance with Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (ca) the c […truncated by emendrix: 5451 characters omitted…]
 
 **MODIFIED · Art. 19 — Opinion of the college** · applies from: unchanged
 
@@ -1105,9 +1109,11 @@ It also describes when ESMA is to act under Article 17 of Regulation (EU) No 109
 
 *within* `AR 24 PA 1`, `AR 24 PA 2`, `AR 24 PA 3`, `AR 24 PA 4`, `AR 24 PA 5`, `AR 24 PA 6`, `AR 24 PA 7`, `AR 24 PA 8`, `AR 24 ALN 1` · *dates* +2014-07-15 · *amended by* `32024R2987`
 
-The provision expanded from a single unnumbered paragraph into eight numbered paragraphs, with the original notification duty now naming the Commission as an additional recipient and listing specific triggering situations, including recovery plan activation, early intervention measures, or removal of senior management under Regulation (EU) 2021/23, alongside the previously described market-related developments. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_24)
+The provision expands from a single unnumbered paragraph into eight numbered paragraphs, adding the Commission as a recipient of emergency notifications and defining what counts as an emergency situation through a list covering prudential or financial soundness impacts, recovery plan activation or early intervention measures, and adverse market developments. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_24)
 
-New paragraphs were added covering information sharing with the college, ESMA's coordination role in cross-border destabilising emergencies, procedures for convening ad hoc CCP Supervisory Committee meetings and who must be invited to them, ESMA's power to require information from competent authorities and other entities, and ESMA's power to issue recommendations to competent authorities. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_24)
+New material is added on information sharing with the college and public bodies responsible for financial stability, on ESMA's coordination role across competent authorities, resolution authorities and colleges during cross-border destabilising emergencies, and on convening ad hoc meetings of the CCP Supervisory Committee with specified invitees including central banks of issue and other authorities. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_24)
+
+The text also adds provisions letting ESMA demand information from competent authorities or directly from CCPs, clearing members, clients and related third parties, and letting ESMA issue recommendations to competent authorities to adopt supervisory decisions to avoid or mitigate significant adverse effects on Union financial stability. [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_24)
 
 *before* (`02012R0648-20220812`)
 
@@ -1123,7 +1129,7 @@ New paragraphs were added covering information sharing with the college, ESMA's 
 > (a) situations or events which impact, or are likely to impact, the prudential or financial soundness or the resilience of CCPs authorised in accordance with Article 14, their clearing members or their clients;
 > (b) where a CCP intends to activate its recovery plan pursuant to Article 9 of Regulation (EU) 2021/23, a competent authority has taken an early intervention measure pursuant to Article 18 of that Regulation or a competent authority has required a total or partial removal of the senior management or board of the CCP pursuant to Article 19 of that Regulation;
 > (c) where there are developments in financial markets, or other markets where the CCP provides clearing services, which may have an adverse effect on market liquidity, the transmission of monetary policy, the smooth operation of payment systems or the stability of the financial system in any of the Member States where the CCP or one of its clearing members are established.
-> 2. In an emergency situation, information shall be provided and updated without undue delay to enable the members of the college referred to in Article 18 to analyse the impact of that emergency situation in particular on their clearing mem […truncated by emendrix: 5639 characters omitted…]
+> 2. In an emergency situation, information shall be provided and updated without undue delay to enable the members of the college referred to in Article 18 to analyse the impact of that emergency situation in particular on their clearing mem […truncated by emendrix: 5640 characters omitted…]
 
 **MODIFIED · Art. 24a — CCP Supervisory Committee** · applies from: unchanged
 
@@ -1188,11 +1194,11 @@ Paragraph 2 now requires the CCP Supervisory Committee to submit to the Board of
 
 *within* `AR 25 PA 4 ALN 3`, `AR 25 PA 5 ALN 1`, `AR 25 PA 5 ALN 2`, `AR 25 PA 5 ALN 3`, `AR 25 PA 5 ALN 4`, `AR 25 PA 6 ALN 2`, `AR 25 PA 7 ALN 1`, `AR 25 PA 7 ALN 1 PTA (a)`, `AR 25 PA 7 ALN 1 PTA (b)`, `AR 25 PA 7 ALN 1 PTA (c)`, `AR 25 PA 7 ALN 1 PTA (d)`, `AR 25 PA 7 ALN 1 PTA (e)`, `AR 25 PA 7 ALN 1 PTA (f)`, `AR 25 PA 7 ALN 1 PTA (g)`, `AR 25 PA 7 ALN 1 PTA (h)`, `AR 25 PA 7 ALN 2`, `AR 25 PA 7a`, `AR 25 PA 7b`, `AR 25 PA 7c` · *amended by* `32024R2987`
 
-In paragraph 4, the sentence stating that the recognition decision is independent of any assessment underlying the Article 13(3) equivalence decision has been removed, and a new subparagraph is added to paragraph 5 stating that a CCP reviewed under the five-year periodic review need not submit a new application but must give ESMA the information needed for that review, which ESMA is not to treat as an application for recognition. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_25)
+Paragraph 4 now describes the Tier 2 recognition conditions by cross-referring to paragraph 2, points (a) to (d), instead of the earlier phrasing citing points (a) to (d) of paragraph 2, and it drops the separate sentence stating the recognition decision is independent of any equivalence assessment under Article 13(3). [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_25)
 
-Paragraph 6 gains a new subparagraph allowing the Commission to adopt the equivalence implementing act even where the condition on an effective equivalent recognition system in point (c) is not met, where doing so is in the Union's interest given expected risks from Union clearing members' and trading venues' participation in third-country CCPs. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_25)
+Paragraph 5 adds new text stating that where a review under point (b) of the first subparagraph is undertaken, the CCP need not submit a new application but must provide information for the review, and that ESMA shall not treat such a review as a fresh application. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_25)
 
-Paragraph 7 no longer itself lists the content of cooperation arrangements, and that content is instead split into new paragraphs 7a, 7b and 7c, which set differentiated information-exchange, notification and enforcement-cooperation requirements depending on whether third-country CCPs are Tier 1 or Tier 2, and which paragraph governs the failure-to-apply notification to the Commission that was previously part of paragraph 7. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_25)
+Paragraph 6 gains a new subparagraph allowing the Commission to adopt the equivalence implementing act even where point (c) on an effective equivalent recognition system is not fulfilled, where doing so is in the Union's interest given expected participation of Union clearing members and trading venues, and paragraph 7 is shortened by removing its detailed list of required cooperation-arrangement elements, which is replaced by new paragraphs 7a, 7b and 7c setting out differentiated content for Tier 1-related and Tier 2-related cooperation arrangements and for failures to apply them. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_25) [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_25)
 
 *before* (`02012R0648-20220812`)
 
@@ -1203,7 +1209,8 @@ Paragraph 7 no longer itself lists the content of cooperation arrangements, and 
 > (a) the Commission has adopted an implementing act in accordance with paragraph 6;
 > (b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;
 > (c) cooperation arrangements have been established pursuant to paragraph 7;
-> (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 22172 characters omitted…]
+> (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the Council
+> Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 22173 characters omitted…]
 
 *after* (`02012R0648-20241224`)
 
@@ -1214,7 +1221,8 @@ Paragraph 7 no longer itself lists the content of cooperation arrangements, and 
 > (a) the Commission has adopted an implementing act in accordance with paragraph 6;
 > (b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;
 > (c) cooperation arrangements have been established pursuant to paragraph 7;
-> (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the CouncilDirective (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 26081 characters omitted…]
+> (d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the Council
+> Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73)., as having strategic deficiencies in its national anti-money laundering and counter […truncated by emendrix: 26082 characters omitted…]
 
 **MODIFIED · Art. 25a — Comparable compliance** · applies from: unchanged
 
@@ -1496,9 +1504,9 @@ Paragraph 4 similarly gains a new sentence providing that the college referred t
 
 *within* `AR 31 PA 2 ALN 3`, `AR 31 PA 2 ALN 4`, `AR 31 PA 3 ALN 1` · *amended by* `32024R2987`
 
-The provision now requires the competent authority, upon acknowledging receipt of a notification, to also share the information with ESMA and the college referred to in Article 18, and it adds that the college shall issue an opinion under Article 19 and ESMA shall issue an opinion under Article 24a(7), first subparagraph, point (bc), following the procedure in Article 17b, during the assessment period. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_31)
+The acknowledgement-of-receipt requirement in paragraph 2 now also requires the competent authority to share the notification information with ESMA and the college referred to in Article 18, and the assessment period wording is restructured to add that the college shall issue an opinion under Article 19 and ESMA shall issue an opinion under Article 24a(7), first subparagraph, point (bc), following the procedure under Article 17b during that period. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_31)
 
-The rule on requesting further information during the assessment period now states that the competent authority acts on its own behalf and, where requested by ESMA or the college referred to in Article 18, without undue delay, whereas the earlier text simply allowed the competent authority to request information where necessary. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_31)
+Paragraph 3's request for further information is changed from something the competent authority itself may request to something the competent authority shall request, either on its own initiative or when requested by ESMA or the college referred to in Article 18, and it now specifies the request must be made without undue delay. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_31) [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_31)
 
 *before* (`02012R0648-20220812`)
 
@@ -1507,7 +1515,7 @@ The rule on requesting further information during the assessment period now stat
 > 1. A CCP shall notify its competent authority of any changes to its management, and shall provide the competent authority with all the information necessary to assess compliance with Article 27(1) and the second subparagraph of Article 27(2).
 > Where the conduct of a member of the board is likely to be prejudicial to the sound and prudent management of the CCP, the competent authority shall take appropriate measures, which may include removing that member from the board.
 > 2. Any natural or legal person or such persons acting in concert (the proposed acquirer), who have taken a decision either to acquire, directly or indirectly, a qualifying holding in a CCP or to further increase, directly or indirectly, such a qualifying holding in a CCP as a result of which the proportion of the voting rights or of the capital held would reach or exceed 10 %, 20 %, 30 % or 50 % or so that the CCP would become its subsidiary (the proposed acquisition), shall first notify in writing the competent authority of the CCP in which they are seeking to acquire or increase a qualifying holding, indicating the size of the intended holding and relevant information, as referred to in Article 32(4).
-> Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a CCP (the proposed vendor) shall first notify the competent authority in writing thereof, indicating the size of such holding. Such a person shall l […truncated by emendrix: 3584 characters omitted…]
+> Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a CCP (the proposed vendor) shall first notify the competent authority in writing thereof, indicating the size of such holding. Such a person shall l […truncated by emendrix: 3585 characters omitted…]
 
 *after* (`02012R0648-20241224`)
 
@@ -1516,7 +1524,7 @@ The rule on requesting further information during the assessment period now stat
 > 1. A CCP shall notify its competent authority of any changes to its management, and shall provide the competent authority with all the information necessary to assess compliance with Article 27(1) and the second subparagraph of Article 27(2).
 > Where the conduct of a member of the board is likely to be prejudicial to the sound and prudent management of the CCP, the competent authority shall take appropriate measures, which may include removing that member from the board.
 > 2. Any natural or legal person or such persons acting in concert (the proposed acquirer), who have taken a decision either to acquire, directly or indirectly, a qualifying holding in a CCP or to further increase, directly or indirectly, such a qualifying holding in a CCP as a result of which the proportion of the voting rights or of the capital held would reach or exceed 10 %, 20 %, 30 % or 50 % or so that the CCP would become its subsidiary (the proposed acquisition), shall first notify in writing the competent authority of the CCP in which they are seeking to acquire or increase a qualifying holding, indicating the size of the intended holding and relevant information, as referred to in Article 32(4).
-> Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a CCP (the proposed vendor) shall first notify the competent authority in writing thereof, indicating the size of such holding. Such a person shall l […truncated by emendrix: 4084 characters omitted…]
+> Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a CCP (the proposed vendor) shall first notify the competent authority in writing thereof, indicating the size of such holding. Such a person shall l […truncated by emendrix: 4085 characters omitted…]
 
 **MODIFIED · Art. 32 — Assessment** · applies from: unchanged
 
@@ -1865,9 +1873,9 @@ A new paragraph 5 is added requiring ESMA, after consulting the members of the E
 
 *within* `AR 81 PA 3 ALN 1 PTA (r)`, `AR 81 PA 3 ALN 1 PTA (t)` · *amended by* `32024R2987`
 
-Point (r) now ends with a semicolon instead of a full stop, and a new point (t) has been added naming the national authorities entrusted with the conduct of macroprudential policy as an entity to which a trade repository must make necessary information available. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_81)
+The list of entities to whom a trade repository must make information available now includes a new point (t), covering national authorities entrusted with the conduct of macroprudential policy. [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_81)
 
-The remainder of Article 81, including the other entities listed in paragraph 3 and paragraphs 1, 2, 4 and 5, is unchanged between the two versions. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_81)
+Point (r), listing the resolution authorities designated under Article 3 of Regulation (EU) 2021/23, ends with a semicolon rather than a full stop in order to connect to the newly added point (t). [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_81)
 
 *before* (`02012R0648-20220812`)
 
@@ -1882,9 +1890,11 @@ The remainder of Article 81, including the other entities listed in paragraph 3 
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3757 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 3762 characters omitted…]
 
 *after* (`02012R0648-20241224`)
 
@@ -1899,9 +1909,11 @@ The remainder of Article 81, including the other entities listed in paragraph 3 
 > (d) the ESRB;
 > (e) the competent authority supervising CCPs accessing the trade repositories;
 > (f) the competent authority supervising the trading venues of the reported contracts;
-> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
+> (g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013
+> Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).;
 > (h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
-> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the CouncilDirective […truncated by emendrix: 3840 characters omitted…]
+> (i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council
+> Directiv […truncated by emendrix: 3845 characters omitted…]
 
 **MODIFIED · Art. 82 — Exercise of the delegation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -1936,11 +1948,11 @@ Paragraph 2 also now specifies that the indeterminate period of conferral runs f
 
 *within* `AR 85`, `AR 85 PA 1 ALN 1`, `AR 85 ALN 1`, `AR 85 PA 8`, `AR 85 PA 9`, `AR 85 PA 10`, `AR 85 PA 11`, `AR 85 PA 12`, `AR 85 PA 13`, `AR 85 PA 14` · *dates* -2024-06-18 +2012-12-19 +2023-05-31 +2024-11-27 +2026-12-25 +2027-12-25 +2028-12-25 +2029-12-25 · *amended by* `32024R2987`
 
-The deadline for the Commission's general assessment and report in paragraph 1 was moved from 18 June 2024 to 25 December 2029. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_85)
+The deadline in paragraph 1 for the Commission's general report on the application of the Regulation was changed from 18 June 2024 to 25 December 2029. [Art. 85, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_85) [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_85)
 
-A duplicate paragraph 7 was added requiring ESMA to report to the Commission by 25 December 2026 on the possibility and feasibility of requiring segregation of accounts across the clearing chain, accompanied by a cost-benefit analysis, alongside the pre-existing paragraph 7 on effectiveness of ESMA's tasks and related frameworks. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_85)
+A second paragraph 7 and new paragraphs 8 through 14 were added, setting out further reporting obligations for ESMA and the Commission with deadlines of 25 December 2026, 25 December 2027 and 25 December 2028, covering topics such as segregation of accounts, the definition of a CCP, central bank access, derivative activity of counterparties, procyclicality, the effects of Regulation (EU) 2024/2987, and post-trade risk reduction services. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_85)
 
-New paragraphs 8 through 14 were added, setting further reporting obligations by ESMA and the Commission on matters including the CCP definition, central bank access, derivative activity of counterparties, procyclicality, the effects of Regulation (EU) 2024/2987, and PTRR services, with deadlines ranging from 25 December 2026 to 25 December 2028, none of which appeared in the earlier text. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_85) [Art. 85, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20220812#art_85)
+These added paragraphs also introduce references to instruments and dates not present before, including Regulation (EU) 2023/1114 of 31 May 2023, Commission Delegated Regulation (EU) No 153/2013 of 19 December 2012, and Regulation (EU) 2024/2987 of 27 November 2024. [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20241224#art_85)
 
 *before* (`02012R0648-20220812`)
 
@@ -1948,9 +1960,10 @@ New paragraphs 8 through 14 were added, setting further reporting obligations by
 > Reports and review
 > 1. By 18 June 2024 the Commission shall assess the application of this Regulation and prepare a general report. The Commission shall submit that report to the European Parliament and to the Council, together with any appropriate proposals.
 > 1a. By 17 June 2023 ESMA shall submit a report to the Commission on the following:
-> (a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the CouncilRegulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42). on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
+> (a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the Council
+> Regulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42). on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
 > (b) the impact of Regulation (EU) 2019/834 on the quality and accessibility of the data reported to trade repositories, as well as the quality of the information made available by trade repositories;
-> (c) the changes to the reporting framework, includin […truncated by emendrix: 10458 characters omitted…]
+> (c) the changes to the reporting framework, includi […truncated by emendrix: 10460 characters omitted…]
 
 *after* (`02012R0648-20241224`)
 
@@ -1958,9 +1971,10 @@ New paragraphs 8 through 14 were added, setting further reporting obligations by
 > Reports and review
 > 1. By 25 December 2029 the Commission shall assess the application of this Regulation and prepare a general report. The Commission shall submit that report to the European Parliament and to the Council, together with any appropriate proposals.
 > 1a. By 17 June 2023 ESMA shall submit a report to the Commission on the following:
-> (a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the CouncilRegulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42). on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
+> (a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the Council
+> Regulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42). on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
 > (b) the impact of Regulation (EU) 2019/834 on the quality and accessibility of the data reported to trade repositories, as well as the quality of the information made available by trade repositories;
-> (c) the changes to the reporting framework, incl […truncated by emendrix: 17088 characters omitted…]
+> (c) the changes to the reporting framework, inc […truncated by emendrix: 17093 characters omitted…]
 
 **MODIFIED · Art. 89 — Transitional provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
