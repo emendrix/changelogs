@@ -2738,9 +2738,11 @@ No such entry, name, CAS number, or set of nanomaterial conditions appears in th
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Both versions list the same entries with the same reference numbers and identical chemical names, CAS numbers and EC numbers, and the visible content of Annex II is otherwise unchanged aside from formatting differences such as line breaks and spacing between fields. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_II)
+Both versions consist of the same numbered list of prohibited substances, and across the visible portion of the text the entries and their identifiers appear unchanged in substance. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_II)
 
-Both texts are cut off before the end of the annex, so any difference occurring beyond the point where each text is truncated cannot be described here. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_II)
+The visible difference is one of formatting only, with the earlier text laid out as a multi-column table with each field on its own line, while the later text presents the same rows as run-on text with fields separated by spaces rather than line breaks. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_II)
+
+Both excerpts are truncated before the end of the annex, so no comparison can be made about anything beyond the point where each text was cut off. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_II)
 
 *before* (`02009R1223-20140401`)
 
@@ -2837,13 +2839,17 @@ Both texts are cut off before the end of the annex, so any difference occurring 
 > 57-06-7
 > 200-309-2
 > 19
-> Alloclamide (INN) […truncated by emendrix: 124403 characters omitted…]
+> Alloclamide (INN) […truncated by emendrix: 124407 characters omitted…]
 
 *after* (`02009R1223-20140701`)
 
 > ANNEX II
 > LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
-> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
 > Reference number Substance identification
 > Chemical name/INN CAS number EC number
 > a b c d
@@ -2862,7 +2868,7 @@ Both texts are cut off before the end of the annex, so any difference occurring 
 > 15 Rauwolfia serpentina L., alkaloids and their salts 90106-13-1 290-234-1
 > 16 Alkyne alcohols, their esters, ethers and salts 17 Isoprenaline (INN) 7683-59-2 231-687-7
 > 18 Allyl isothiocyanate 57-06-7 200-309-2
-> 19 Alloclamide (INN) and its sal […truncated by emendrix: 124623 characters omitted…]
+> 19 Alloclamide (INN) and its […truncated by emendrix: 124630 characters omitted…]
 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
@@ -2870,11 +2876,11 @@ Both texts are cut off before the end of the annex, so any difference occurring 
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-Entry 8b now carries a fuller wording of conditions of use and warnings for products colouring eyelashes, adding label text about severe allergic reactions, an age restriction, a henna-tattoo risk warning, revised conditions for not colouring eyelashes, an eye-rinsing instruction and a phenylenediamines content statement, none of which appeared in the earlier version. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
+Entry 8b now adds detailed labelling text for eyelash-colouring products, including warnings about severe allergic reactions, an age-16 restriction, henna-tattoo risk, conditions under which eyelashes should not be coloured, and an instruction to rinse eyes if contact occurs, none of which appeared before. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
 
-Entry 9a's chemical name/INN and substance identification fields are rewritten, and its restriction wording for professional use now states a maximum concentration of 2 % calculated as free base or 3,6 % calculated as sulfate salt, replacing the earlier single 4 % free-base limit. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
+Entry 9a's chemical name/INN and substance identification are changed from Toluene-2,5-diamine and its salts to 1,4-Benzenediamine, 2-methyl-/2,5-Diaminotoluene sulphate, and the maximum concentration for professional use is changed from 4 % calculated as free base to 2 % calculated as free base or 3,6 % calculated as sulfate salt. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
 
-Entry 22(b), covering products intended for colouring eyelashes, now includes added label wording on allergic reactions, age restriction, henna-tattoo risk, conditions for not colouring eyelashes, and an eye-rinsing instruction, and entry 12's restrictions and warnings column for hydrogen peroxide products is reorganised with a new heading structure and an added labelling requirement for eyelash products. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
+Entry 12's column i wording is reorganised and expanded, notably by adding a specific labelling requirement for eyelash products (f) covering professional-use-only status, eye-contact avoidance, rinsing instructions and a hydrogen peroxide content statement; entry 22 similarly gains new eyelash-colouring warning text for point (b) that mirrors the added language in entry 8b. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
 
 *before* (`02009R1223-20140401`)
 
@@ -2903,13 +2909,27 @@ Entry 22(b), covering products intended for colouring eyelashes, now includes ad
 > Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
 > For use as a preservative, see Annex V, No 9.
 > For use as a preservative, see AnnexV, No 23.
-> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 113150 characters omitted…]
+> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 113270 characters omitted…]
 
 *after* (`02009R1223-20140701`)
 
 > ANNEX III
 > LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
-> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 133887 characters omitted…]
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative, see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> OJ L 255, […truncated by emendrix: 133969 characters omitted…]
 
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
@@ -2917,9 +2937,9 @@ Entry 22(b), covering products intended for colouring eyelashes, now includes ad
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Entry 12, covering 4-hydroxybenzoic acid and its salts and esters, now excludes esters of isopropyl, isobutyl, phenyl, benzyl and pentyl from the listed substances, and the individual salts and esters are broken out with their own separate CAS and EC numbers rather than being grouped together in shared columns. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_V)
+Entry 12 changes its scope for parabens: the AFTER text excludes esters of isopropyl, isobutyl, phenyl, benzyl and pentyl from the substances covered, and it also removes potassium ethylparaben and phenylparaben from the listed substance identifications while adjusting some of the accompanying CAS and EC numbers. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_V)
 
-Entry 25, for Triclosan, adds specific product types and separate maximum concentrations for two categories, labelled (a) for toothpastes, hand soaps, body soaps/shower gels, non-spray deodorants, face powders and blemish concealers, and certain nail products at 0,3 %, and (b) for mouthwashes at 0,2 %, where the earlier text listed only a single 0,3 % maximum concentration with no such subdivision. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_V)
+Entry 25 for Triclosan now sets out separate maximum concentrations and specific product types (toothpastes, hand soaps, body soaps/shower gels, non-spray deodorants, face powders and blemish concealers, and certain nail products at 0,3 percent, and mouthwashes at 0,2 percent), where the BEFORE text simply stated a single 0,3 percent maximum concentration with no such product breakdown. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_V)
 
 *before* (`02009R1223-20140401`)
 
@@ -2952,7 +2972,7 @@ Entry 25, for Triclosan, adds specific product types and separate maximum concen
 > For use other than as a preservative, see Annex III, No. 65.
 > Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
 > Solely for products which might be used for children under 3 years of age.
-> Concerns any product […truncated by emendrix: 11765 characters omitted…]
+> Concerns any product […truncated by emendrix: 11779 characters omitted…]
 
 *after* (`02009R1223-20140701`)
 
@@ -2963,7 +2983,19 @@ Entry 25, for Triclosan, adds specific product types and separate maximum concen
 > Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
-> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 11656 characters omitted…]
+> For use other than as a preservative, see Annex III, No. 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, entry No 45.
+> For use other than as a preservative, see Annex III, No. 54.
+> Only if the concentration exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 65.
+> Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
+> Solely for products which might be used for children under 3 years of age.
+> Concerns any products aimed […truncated by emendrix: 11670 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20140701 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20140401 -->
