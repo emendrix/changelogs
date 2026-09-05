@@ -141,21 +141,22 @@ Point (c) of paragraph 6 now excludes from the combination limit any financial d
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-A new Article 37a has been added, requiring that the information referred to in Article 4(7) be made accessible on the European single access point, with ESMA acting as the collection body and drawing the data from information notified by competent authorities. [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a)
+A new Article 37a is added, setting out that information referred to in Article 4(7) is to be made accessible on the European single access point, naming ESMA as the collection body and describing how ESMA draws that data from information notified by competent authorities under Article 4(6). [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a)
 
-The new article also sets out requirements for that information, including submission in a data extractable format and accompaniment by specified metadata such as the fund's names, legal entity identifier where available, type of information, and an indication of whether personal data is contained. [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a)
+The new article also lists format and metadata requirements that the information must comply with, including submission in a data extractable format and accompanying metadata on fund names, legal entity identifier, information type, and whether personal data is contained. [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a)
 
 *after* (`02017R1131-20240109`)
 
 > Article 37a
 > Accessibility of information on the European single access point
-> From 10 January 2030, the information referred to in Article 4(7) of this Regulation shall be accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. For that purpose, the collection body as defined in Article 2, point (2), of that Regulation shall be ESMA. ESMA shall draw that data from the information notified by the competent authorities in accordance with Article 4(6) of this Regulation for the purpose of establishment of the central public register referred to in Article 4(7) of this Regulation.
+> From 10 January 2030, the information referred to in Article 4(7) of this Regulation shall be accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. For that purpose, the collection body as defined in Article 2, point (2), of that Regulation shall be ESMA. ESMA shall draw that data from the information notified by the competent authorities in accordance with Article 4(6) of this Regulation for the purpose of establishment of the central public register referred to in Article 4(7) of this Regulation.
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the fund to which the information relates;
 > (ii) where available, the legal entity identifier of the fund, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
-> (iii) the type of information, as classified pursua […truncated by emendrix: 120 characters omitted…]
+> (iii) the type of information, as classified pursu […truncated by emendrix: 121 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1131-20240109 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1131-20190101 -->
