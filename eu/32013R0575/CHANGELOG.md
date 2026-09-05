@@ -16666,9 +16666,9 @@ It also states that an internal hedge using an equity derivative only qualifies 
 ### `02013R0575-20220708` → `02013R0575-20230101`
 
 - **Act** `eu:32013R0575` · **In force** 2022-11-14 · **Detected** 2026-08-13
-- **Touched** 12 provisions — 12 substantive · 0 date-only · **8 disputed**
-- **Diff** 1 inserted · 11 modified · 0 deleted · 0 renumbered · 0 deferred · 722 unchanged
-- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Touched** 11 provisions — 6 substantive · 0 date-only · 5 with no text · **7 disputed**
+- **Diff** 1 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 722 unchanged
+- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20220708` · `v2` = `02013R0575-20230101`
 
 ---
@@ -16732,16 +16732,6 @@ The prior distinction between resolution authorities being required to act when 
 > (b) for the EU parent institution as if it were the only resolution entity of the G-SII.
 > The calculation referred to in point (b) of the first subparagraph shall be undertaken on the basis of the consolidated situation of the EU parent institution.
 > Resolution authorities shall act in accordance with Article 45d(4) and Article 45h(2) of Directive 2014/59/EU.
-
-**MODIFIED · Art. 49** · applies from: unknown
-
-*amended by* `32022R2036`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 72b — Eligible liabilities instruments** · applies from: unchanged
 
@@ -16863,7 +16853,7 @@ The before text contains no equivalent paragraph 1a, moving directly from paragr
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -16873,7 +16863,7 @@ The before text contains no equivalent paragraph 1a, moving directly from paragr
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -16883,7 +16873,7 @@ The before text contains no equivalent paragraph 1a, moving directly from paragr
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -16893,7 +16883,7 @@ The before text contains no equivalent paragraph 1a, moving directly from paragr
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -16920,13 +16910,13 @@ It also adds a second paragraph specifying conditions under which such permissio
 > (a) there is no current or foreseen material practical or legal impediment to the prompt transfer of assets from the subsidiary to the parent institution;
 > (b) the relevant third-country authority of the subsidiary has provided an opinion to the resolution authority of the parent institution that assets equal to the amount to be deducted by the sub […truncated by emendrix: 131 characters omitted…]
 
-**MODIFIED · PRT 10** · applies from: unknown
+**MODIFIED · Part 10** · applies from: unknown
 
 *amended by* `32022R2036`
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20230101 -->

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -15,21 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 1,
-    "modified": 11,
+    "modified": 10,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 12,
+    "touched_units": 11,
     "unchanged_units": 722,
-    "disputed": 8
+    "disputed": 7
   },
   "counts": {
-    "touched": 12,
-    "substantive": 12,
+    "touched": 11,
+    "substantive": 6,
     "date_only": 0,
-    "disputed": 8,
+    "textless": 5,
+    "disputed": 7,
     "quoted": 0,
-    "unexplained": 6
+    "unexplained": 5
   },
   "changes": [
     {
@@ -131,7 +132,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -281,64 +283,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02013R0575-20230101",
-          "location": "AR 49"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32022R2036",
-            "display_name": "Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022 amending Regulation (EU) No 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of-entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "6 annotations in (2022-07-08, 2023-01-01]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (3)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -439,7 +385,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -574,7 +521,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -617,7 +565,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32022R2036, 1.000 of its instruction clauses read",
+            "detail": "32022R2036, 1.000 of its instruction clauses read, 1 dated outside the window, 10 undated and claimed",
             "change_types": []
           }
         },
@@ -684,7 +632,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -743,7 +692,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -800,7 +750,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -857,7 +808,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -914,7 +866,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1012,7 +965,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1060,7 +1014,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32022R2036, 1.000 of its instruction clauses read",
+            "detail": "32022R2036, 1.000 of its instruction clauses read, 1 dated outside the window, 10 undated and claimed",
             "change_types": []
           }
         },
@@ -1069,7 +1023,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -1182,7 +1137,6 @@
         "units": [
           "AR 4",
           "AR 12a",
-          "AR 49",
           "AR 72b",
           "AR 72e",
           "AR 92a",
@@ -1191,7 +1145,7 @@
           "AR 429a",
           "AR 477a"
         ],
-        "note": "32022R2036, 1.000 of its instruction clauses read",
+        "note": "32022R2036, 1.000 of its instruction clauses read, 1 dated outside the window, 10 undated and claimed",
         "claims": [
           {
             "location": "AR 4 PA 1",
@@ -1209,17 +1163,6 @@
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001 (2)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32022R2036",
-              "display_name": "Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022 amending Regulation (EU) No 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of-entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 49 PA 2",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (3)",
             "amending_act": {
               "corpus": "eu",
               "key": "32022R2036",
@@ -1333,45 +1276,26 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 6,
-        "right_units": 10,
+        "right_units": 9,
         "shared": 5,
         "precision": 0.8333333333333334,
-        "recall": 0.5,
-        "f1": 0.625,
+        "recall": 0.5555555555555556,
+        "f1": 0.6666666666666667,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 6,
-        "right_units": 10,
+        "right_units": 9,
         "shared": 5,
         "precision": 0.8333333333333334,
-        "recall": 0.5,
-        "f1": 0.625,
+        "recall": 0.5555555555555556,
+        "f1": 0.6666666666666667,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 49",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AR 92",
         "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
@@ -1519,7 +1443,6 @@
       }
     ],
     "metadata_only_units": [
-      "AR 49",
       "AR 92a",
       "AR 113",
       "AR 151",
@@ -1536,6 +1459,9 @@
     "synthetic": 0,
     "truncated": 1,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 59185,
       "output_tokens": 2389,
@@ -1555,5 +1481,22 @@
     "citations_rejected": 0,
     "notes_dropped": 1,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 12,
+      "repaired": 7,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
