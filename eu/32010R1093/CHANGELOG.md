@@ -338,9 +338,9 @@ The phrasing describing the aim of this consideration was also changed from avoi
 
 *amended by* `32025R2088`
 
-Article 35a is a newly inserted provision establishing rules on the exchange of information between the Authority, the European Central Bank, and other authorities and entities, covering matters such as sharing obligations, professional secrecy and data protection duties, exceptions to notification requirements, memoranda of understanding, access for research and innovation purposes, and a reporting obligation on legal obstacles to information exchange. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_35a)
+This is an entirely new article establishing rules on the exchange of information between the Authority, the European Central Bank, competent authorities and other named entities, covering when information must be shared upon request, when it must be requested from other authorities rather than directly from financial institutions, notification obligations and exceptions, memoranda of understanding, access for research and innovation purposes, and a reporting obligation to the Commission on legal obstacles to information exchange. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_35a)
 
-The provision also defines the terms other authorities and financial institution for the purposes of this Article and related provisions, and sets out a derogation concerning the scope of other authorities when paragraphs 1 and 2 apply to the European Central Bank. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_35a)
+The article also defines the terms other authorities and financial institution for its own purposes and for use in other cross-referenced provisions. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_35a)
 
 *after* (`02010R1093-20251110`)
 
@@ -349,7 +349,7 @@ The provision also defines the terms other authorities and financial institution
 > 1. The Authority and the European Central Bank as referred to in Article 4, point (2)(i), shall share, on a regular or case-by-case basis, information that they obtained from financial institutions or the other authorities when carrying out their duties and that stems from the application and implementation of Union law, with the other authorities upon request, provided that the requesting authority is entitled to obtain that information from financial institutions or the other authorities pursuant to Union law.
 > 2. The Authority and the European Central Bank as referred to in Article 4, point (2)(i), shall request information from any of the other authorities that have obtained that information, instead of requesting it directly from financial institutions, provided that the Authority or the European Central Bank, as applicable, is entitled to obtain that information pursuant to Union law.
 > The first subparagraph of this paragraph shall be without prejudice to the powers of the Authority or the European Central Bank as referred to in Article 4, point (2)(i), to obtain the requested information from financial institutions where the other authority is unable to share the information, where urgent action is needed or where obtaining the information directly from financial institutions is necessary for the performance of the Authority’s or the European Central Bank’s tasks pursuant to Union law.
-> 3. A r […truncated by emendrix: 10144 characters omitted…]
+> 3. A r […truncated by emendrix: 10148 characters omitted…]
 
 **INSERTED · Art. 35b — Integrated reporting system** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -417,9 +417,9 @@ The list of matters the Joint Committee cooperates on in paragraph 2 now ends wi
 
 *within* `AR 70 PA 3 ALN 1` · *amended by* `32025R2088`
 
-Paragraph 3 now specifies that the exchange of information may occur with competent authorities and also with other authorities as defined in Article 35a(12), whereas the earlier text referred only to competent authorities. [Art. 70, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20241230#art_70) [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_70)
+Paragraph 3 now allows the Authority to exchange information not only with competent authorities but also with other authorities as defined in Article 35a(12). [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_70)
 
-The provision also adds an explicit cross-reference to paragraphs 1 and 2 of this Article and slightly rewords the phrase about applicable Union legislation, without other substantive change. [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_70)
+The paragraph also adds an explicit cross-reference confirming that the exchange rule applies to paragraphs 1 and 2 of this Article, wording that was previously implicit. [Art. 70, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20241230#art_70) [Art. 70, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20251110#art_70)
 
 *before* (`02010R1093-20241230`)
 
@@ -428,7 +428,7 @@ The provision also adds an explicit cross-reference to paragraphs 1 and 2 of thi
 > 1. Members of the Board of Supervisors, and all members of the staff of the Authority, including officials seconded by Member States on a temporary basis, and all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased.
 > 2. Without prejudice to cases covered by criminal law, any confidential information received by persons referred to in paragraph 1 whilst performing their duties may not be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial institutions cannot be identified.
 > The obligation under paragraph 1 of this Article and the first subparagraph of this paragraph shall not prevent the Authority and the competent authorities from using the information for the enforcement of the legislative acts referred to in Article 1(2), and in particular for legal procedures for the adoption of decisions.
-> 2a. The Management Board and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the requir […truncated by emendrix: 1000 characters omitted…]
+> 2a. The Management Board and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the requir […truncated by emendrix: 1001 characters omitted…]
 
 *after* (`02010R1093-20251110`)
 
@@ -437,7 +437,7 @@ The provision also adds an explicit cross-reference to paragraphs 1 and 2 of thi
 > 1. Members of the Board of Supervisors, and all members of the staff of the Authority, including officials seconded by Member States on a temporary basis, and all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased.
 > 2. Without prejudice to cases covered by criminal law, any confidential information received by persons referred to in paragraph 1 whilst performing their duties may not be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial institutions cannot be identified.
 > The obligation under paragraph 1 of this Article and the first subparagraph of this paragraph shall not prevent the Authority and the competent authorities from using the information for the enforcement of the legislative acts referred to in Article 1(2), and in particular for legal procedures for the adoption of decisions.
-> 2a. The Management Board and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the requir […truncated by emendrix: 1068 characters omitted…]
+> 2a. The Management Board and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the requir […truncated by emendrix: 1069 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20251110 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20241230 -->
