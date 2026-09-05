@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 3 PA 1 ALN 1 PO 24a` · *amended by* `32026R0808`
 
-The definition of resolution entity in point (24a) of Article 3(1) changes the identifier of the entity from the Board alone to the Board or the national resolution authority, and rephrases the identification as being made 'in accordance with Article 8 of this Regulation' rather than by reference to 'Article 8' generically. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_3)
+The definition of resolution entity now identifies the entity making the identification as the Board or the national resolution authority acting in accordance with Article 8 of the Regulation, whereas previously it referred only to identification by the Board. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_3)
 
 *before* (`02014R0806-20251110`)
 
@@ -45,7 +45,7 @@ The definition of resolution entity in point (24a) of Article 3(1) changes the i
 > (10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
 > (11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
 > (12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
-> (13) institution me […truncated by emendrix: 10110 characters omitted…]
+> (13) institution me […truncated by emendrix: 10112 characters omitted…]
 
 *after* (`02014R0806-20260611`)
 
@@ -64,7 +64,7 @@ The definition of resolution entity in point (24a) of Article 3(1) changes the i
 > (10) resolution action means the decision to place an entity referred to in Article 2 under resolution pursuant to Article 18, the application of a resolution tool or the exercise of one or more resolution powers;
 > (11) covered deposits means deposits as defined in Article 2(1)(5) of Directive 2014/49/EU;
 > (12) eligible deposits means eligible deposits as defined in Article 2(1)(4) of Directive 2014/49/EU;
-> (13) institution me […truncated by emendrix: 10164 characters omitted…]
+> (13) institution me […truncated by emendrix: 10166 characters omitted…]
 
 **MODIFIED · Art. 4 — Participating Member States** · applies from: unchanged
 
@@ -99,9 +99,9 @@ The remainder of Article 4, covering participating Member States, suspension or 
 
 *within* `AR 5 PA 1a` · *dates* +2024-11-27 · *amended by* `32026R0808`
 
-A new paragraph 1a has been inserted, stating that references to authorities designated under Article 3 of Directive 2014/59/EU in specified provisions of Directive (EU) 2025/1 are to be read as references to the Board with regard to certain entities and groups identified in Article 7 of this Regulation. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_5)
+A new paragraph 1a is inserted, providing that references to authorities designated under Article 3 of Directive 2014/59/EU in several specified provisions of Directive (EU) 2025/1 are to be read as references to the Board, for the entities and groups referred to in Article 7(2) of the Regulation and, where the conditions for those provisions are met, for the entities and groups referred to in Article 7(4), point (b), and Article 7(5). [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_5)
 
-This paragraph did not appear in the earlier version of Article 5, which contained only paragraphs 1 and 2. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_5)
+The rest of Article 5, covering paragraph 1 and paragraph 2, remains textually unchanged between the two versions. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_5)
 
 *before* (`02014R0806-20251110`)
 
@@ -116,7 +116,8 @@ This paragraph did not appear in the earlier version of Article 5, which contain
 > Article 5
 > Relation to Directive 2014/59/EU and applicable national law
 > 1. Where, pursuant to this Regulation, the Board performs tasks and exercises powers, which, pursuant to Directive 2014/59/EU are to be performed or exercised by the national resolution authority, the Board shall, for the application of this Regulation and of Directive 2014/59/EU, be considered to be the relevant national resolution authority or, in the event of cross-border group resolution, the relevant group-level resolution authority.
-> 1a. Any references to authorities designated in accordance with Article 3 of Directive 2014/59/EU in Article 7(6), point (e), Article 10(3), Article 63(3), point (j), Article 65(2), point (k), and Article 70(4) of Directive (EU) 2025/1 of the European Parliament and of the CouncilDirective (EU) 2025/1 of the European Parliament and of the Council of 27 November 2024 establishing a framework for the recovery and resolution of insurance and reinsurance undertakings and amending Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 and Regulations (EU) No 1094/2010, (EU) No 648/2012, (EU) No 806/2014 and (EU) 2017/1129 (OJ L, 2025/1, 8.1.2025, ELI: http://data.europa.eu/eli/dir/2025/1/oj)., shall be read as references to the Board with regard to the entities and groups referred to in Article 7(2) of this Regulation, and to the entities and groups referred to in Article 7(4), point (b), and Article 7(5) of this Regulation where the conditions for the ap […truncated by emendrix: 1292 characters omitted…]
+> 1a. Any references to authorities designated in accordance with Article 3 of Directive 2014/59/EU in Article 7(6), point (e), Article 10(3), Article 63(3), point (j), Article 65(2), point (k), and Article 70(4) of Directive (EU) 2025/1 of the European Parliament and of the Council
+> Directive (EU) 2025/1 of the European Parliament and of the Council of 27 November 2024 establishing a framework for the recovery and resolution of insurance and reinsurance undertakings and amending Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 and Regulations (EU) No 1094/2010, (EU) No 648/2012, (EU) No 806/2014 and (EU) 2017/1129 (OJ L, 2025/1, 8.1.2025, ELI: http://data.europa.eu/eli/dir/2025/1/oj)., shall be read as references to the Board with regard to the entities and groups referred to in Article 7(2) of this Regulation, and to the entities and groups referred to in Article 7(4), point (b), and Article 7(5) of this Regulation where the conditions for the a […truncated by emendrix: 1293 characters omitted…]
 
 **MODIFIED · Art. 7 — Division of tasks within the SRM** · applies from: unchanged
 
@@ -324,9 +325,9 @@ This paragraph 8 does not appear in the earlier version of the article, which en
 
 *within* `AR 12g PA 1 ALN 2`, `AR 12g PA 4` · *amended by* `32026R0808`
 
-Paragraph 1's provision on extending the Article to a subsidiary now names both an entity referred to in Article 2, point (b), and a financial institution referred to in Article 2, point (c), whereas the earlier text referred only to an entity under Article 2, point (b), and the phrase describing the Board's consultation with competent authorities was reworded from 'after consulting' to 'after having consulted'. [Art. 12g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12g) [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12g)
+In paragraph 1, the description of the entity to which the Board may decide to apply the requirement was expanded from an entity referred to in Article 2, point (b), to also cover a financial institution referred to in Article 2, point (c), and the phrase describing consultation with competent authorities was reworded from consulting to having consulted. [Art. 12g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12g) [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12g)
 
-A new paragraph 4 has been added covering cases where, under the global resolution strategy, Union-established subsidiaries or a Union parent undertaking and its subsidiary institutions are not resolution entities and the European resolution college members agree with that strategy, setting out that they shall comply with the Article 12a(1) requirement by issuing the paragraph 2 instruments to the ultimate third-country parent, its same-country subsidiaries, or other entities under the conditions of paragraph 2, points (a)(i) and (b)(ii). [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12g)
+A new paragraph 4 was added addressing situations where, under the global resolution strategy, subsidiaries established in the Union or a Union parent undertaking and its subsidiary institutions are not resolution entities and the members of the European resolution college agree with that strategy, setting out that such subsidiaries or the Union parent undertaking shall comply with the Article 12a(1) requirement by issuing the instruments referred to in paragraph 2, points (a) and (b), to the ultimate parent undertaking established in a third country, to its subsidiaries established in the same third country, or to other entities under the conditions set out in paragraph 2, points (a)(i) and (b)(ii). [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12g)
 
 *before* (`02014R0806-20251110`)
 
@@ -339,7 +340,7 @@ A new paragraph 4 has been added covering cases where, under the global resoluti
 > (a) the subsidiary meets one of the following conditions:
 > (i) the subsidiary is held directly by the resolution entity and:
 > the resolution entity is a Union parent financial holding company or a Union parent mixed financial holding company;
-> both the subsidiary and the resolution entity are establishe […truncated by emendrix: 8886 characters omitted…]
+> both the subsidiary and the resolution entity are establishe […truncated by emendrix: 8887 characters omitted…]
 
 *after* (`02014R0806-20260611`)
 
@@ -351,7 +352,7 @@ A new paragraph 4 has been added covering cases where, under the global resoluti
 > By way of derogation from the first and second subparagraphs, the Board may decide to determine the requirement laid down in Article 12d on a consolidated basis for a subsidiary as referred to in this paragraph where the Board concludes that all of the following conditions are met:
 > (a) the subsidiary meets one of the following conditions:
 > (i) the subsidiary is held directly by the resolution entity and:
-> the resolution entity is a Union parent financial holding company or a Union parent mixed financial […truncated by emendrix: 9864 characters omitted…]
+> the resolution entity is a Union parent financial holding company or a Union parent mixed financial […truncated by emendrix: 9865 characters omitted…]
 
 **MODIFIED · Art. 12i** · applies from: unknown
 
