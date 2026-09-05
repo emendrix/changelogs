@@ -1965,7 +1965,7 @@ New points (b) and (c) add assessment of the regulatory and supervisory framewor
 ### `02014R0909-20160701` → `02014R0909-20220622`
 
 - **Act** `eu:32014R0909` · **In force** 2022-06-22 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 75 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0909-20160701` · `v2` = `02014R0909-20220622`
