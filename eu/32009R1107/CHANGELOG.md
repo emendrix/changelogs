@@ -397,7 +397,7 @@ The only change is a punctuation correction at the end of point (m), where a sem
 ### `02009R1107-20181110` → `02009R1107-20190715`
 
 - **Act** `eu:32009R1107` · **In force** 2019-07-15 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 86 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20181110` · `v2` = `02009R1107-20190715`
