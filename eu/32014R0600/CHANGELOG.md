@@ -2825,9 +2825,9 @@ The wording describing what happens once a transitional period is approved is re
 
 *within* `AR 1 PA 5a` · *dates* +2015-11-25 · *amended by* `32016R1033`
 
-A new paragraph 5a has been added stating that Title II and Title III of the Regulation do not apply to securities financing transactions as defined in point (11) of Article 3 of Regulation (EU) 2015/2365. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20160701#art_1)
+A new paragraph 5a is inserted, stating that Title II and Title III of the Regulation do not apply to securities financing transactions as defined in point (11) of Article 3 of Regulation (EU) 2015/2365. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20160701#art_1)
 
-This paragraph is not present in the earlier version of Article 1, which ends its scope provisions at paragraph 5. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20140702#art_1)
+This paragraph is absent from the earlier version of the article, which contained no such exclusion for securities financing transactions. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20140702#art_1)
 
 *before* (`02014R0600-20140702`)
 
@@ -2840,8 +2840,9 @@ This paragraph is not present in the earlier version of Article 1, which ends it
 > (d) non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;
 > (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
 > (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch.
-> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
-> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterparties […truncated by emendrix: 2810 characters omitted…]
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the Council
+> Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterpartie […truncated by emendrix: 2811 characters omitted…]
 
 *after* (`02014R0600-20160701`)
 
@@ -2854,16 +2855,17 @@ This paragraph is not present in the earlier version of Article 1, which ends it
 > (d) non-discriminatory access to clearing and non-discriminatory access to trading in benchmarks;
 > (e) product intervention powers of competent authorities, ESMA and EBA and powers of ESMA on position management controls and position limits;
 > (f) provision of investment services or activities by third-country firms following an applicable equivalence decision by the Commission with or without a branch.
-> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the CouncilDirective 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
-> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterparties […truncated by emendrix: 3251 characters omitted…]
+> 2. This Regulation applies to investment firms, authorised under Directive 2014/65/EU and credit institutions authorised under Directive 2013/36/EU of the European Parliament and of the Council
+> Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). when providing investment services and/or performing investment activities and to market operators including any trading venues they operate.
+> 3. Title V of this Regulation also applies to all financial counterparties as defined in Article 2(8) of Regulation (EU) No 648/2012 and to all non-financial counterpartie […truncated by emendrix: 3253 characters omitted…]
 
 **MODIFIED · Art. 2 — Definitions** · applies from: unchanged
 
 *within* `AR 2 PA 1 ALN 1 PO 18`, `AR 2 PA 1 ALN 1 PO 47`, `AR 2 PA 1 ALN 1 PO 48`, `AR 2 PA 1 ALN 1 PO 49`, `AR 2 PA 1 ALN 1 PO 50` · *amended by* `32016R1033`
 
-The cross-reference in the definition of competent authority was changed from Article 2(1)(26) of Directive 2014/65/EU to Article 4(1)(26) of that Directive. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20140702#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20160701#art_2)
+Point (18) now defines competent authority by reference to Article 4(1)(26) of Directive 2014/65/EU instead of Article 2(1)(26). [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20140702#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20160701#art_2)
 
-The definition of portfolio compression now ends with a semicolon instead of a full stop, and three new definitions were added afterward covering exchange for physical, package order, and package transaction, with the latter set out with its own lettered and numbered criteria. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20160701#art_2)
+Point (47) on portfolio compression now ends with a semicolon rather than a full stop, and three new definitions are added after it: point (48) for exchange for physical, point (49) for package order, and point (50) for package transaction, the latter setting out criteria for what counts as such a transaction. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20160701#art_2)
 
 *before* (`02014R0600-20140702`)
 
@@ -2882,7 +2884,7 @@ The definition of portfolio compression now ends with a semicolon instead of a f
 > (10) market operator means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;
 > (11) multilateral system means a multilateral system as defined in Article 4(1)(19) of Directive 2014/65/EU;
 > (12) systematic internaliser means a systematic internaliser as defined in Article 4(1)(20) of Directive 2014/65/EU;
-> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 9252 characters omitted…]
+> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 9259 characters omitted…]
 
 *after* (`02014R0600-20160701`)
 
@@ -2901,7 +2903,7 @@ The definition of portfolio compression now ends with a semicolon instead of a f
 > (10) market operator means a market operator as defined in Article 4(1)(18) of Directive 2014/65/EU;
 > (11) multilateral system means a multilateral system as defined in Article 4(1)(19) of Directive 2014/65/EU;
 > (12) systematic internaliser means a systematic internaliser as defined in Article 4(1)(20) of Directive 2014/65/EU;
-> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 10192 characters omitted…]
+> (13) regulated market means a regulated market as defined in Article 4(1)(21) of Directive 2014/65/EU; […truncated by emendrix: 10199 characters omitted…]
 
 **MODIFIED · Art. 4 — Waivers for equity instruments** · applies from: unknown (2 dates were added, so no single one can be read as the application date)
 
