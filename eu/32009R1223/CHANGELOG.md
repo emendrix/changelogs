@@ -817,7 +817,7 @@ The prior version of entry 51 contained no such restriction on releasable formal
 ### `02009R1223-20210823` → `02009R1223-20211001`
 
 - **Act** `eu:32009R1223` · **In force** 2021-10-01 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20210823` · `v2` = `02009R1223-20211001`

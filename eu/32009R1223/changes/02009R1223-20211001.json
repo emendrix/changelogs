@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 4,
     "substantive": 4,
     "date_only": 0,
+    "textless": 0,
     "disputed": 4,
     "quoted": 0,
     "unexplained": 2
@@ -144,7 +145,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0850, 0.500 of its instruction clauses read",
+            "detail": "32021R0850, 0.500 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
             "change_types": []
           }
         },
@@ -205,7 +206,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0850, 0.500 of its instruction clauses read",
+            "detail": "32021R0850, 0.500 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
             "change_types": []
           }
         },
@@ -318,7 +319,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0850, 0.500 of its instruction clauses read",
+            "detail": "32021R0850, 0.500 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
             "change_types": []
           }
         },
@@ -454,7 +455,7 @@
         "units": [
           "AN II"
         ],
-        "note": "32021R0850, 0.500 of its instruction clauses read",
+        "note": "32021R0850, 0.500 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
         "claims": [
           {
             "location": "AN II",
@@ -660,6 +661,21 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 4,
+      "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
-  ]
+  ],
+  "evidence": []
 }
