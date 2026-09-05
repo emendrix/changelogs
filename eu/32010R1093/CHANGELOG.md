@@ -206,7 +206,7 @@ The prior text only stated that the Board of Supervisors may decide to admit obs
 ### `02010R1093-20241230` → `02010R1093-20251110`
 
 - **Act** `eu:32010R1093` · **In force** 2025-11-10 · **Detected** 2026-08-13
-- **Touched** 8 provisions — 8 substantive · 0 date-only · **0 disputed**
+- **Touched** 8 provisions — 8 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 2 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 92 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20241230` · `v2` = `02010R1093-20251110`
