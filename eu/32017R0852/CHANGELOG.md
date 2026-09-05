@@ -72,7 +72,7 @@ This category of devices was previously only referenced as an exception within e
 ### `02017R0852-20231016` → `02017R0852-20240730`
 
 - **Act** `eu:32017R0852` · **In force** 2024-07-30 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **1 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 25 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0852-20231016` · `v2` = `02017R0852-20240730`
