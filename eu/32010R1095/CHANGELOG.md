@@ -2326,7 +2326,7 @@ New paragraphs 2a, 2b, 2c and 2d were inserted, requiring the Commission to cond
 ### `02010R1095-20110721` → `02010R1095-20140523`
 
 - **Act** `eu:32010R1095` · **In force** 2014-05-23 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **4 disputed**
+- **Touched** 4 provisions — 2 substantive · 0 date-only · 2 with no text · **4 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 80 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02010R1095-20110721` · `v2` = `02010R1095-20140523`
@@ -2369,7 +2369,7 @@ A new sentence was added after the one-month extension provision, stating that t
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -2410,7 +2410,7 @@ The earlier version of that same sentence in Article 17(2) did not include this 
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1095-20140523 -->
