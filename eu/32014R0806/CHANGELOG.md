@@ -1415,7 +1415,7 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 - **Act** `eu:32014R0806` · **In force** 2021-06-26 · **Detected** 2026-08-13
 - **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20201228` · `v2` = `02014R0806-20210626`
 
 ---
@@ -1424,7 +1424,9 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 
 *within* `AR 12a PA 3` · *dates* +2019-11-27 · *amended by* `32019R2033`
 
-*No explanation shipped — ModelAPIError: Connection error..*
+A new paragraph 3 was added, addressing how references to Article 92 of Regulation (EU) No 575/2013 and to Article 104a of Directive 2013/36/EU are to be construed for certain investment firms, by reference to Regulation (EU) 2019/2033 and Directive (EU) 2019/2034. [Art. 12a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20210626#art_12a)
+
+Paragraphs 1 and 2 of the article remain unchanged between the two versions. [Art. 12a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12a) [Art. 12a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20210626#art_12a)
 
 *before* (`02014R0806-20201228`)
 
@@ -1443,7 +1445,8 @@ A new paragraph 2 has been added stating that the Regulation does not apply to e
 > 2. The requirement referred to in paragraph 1 of this Article shall be calculated in accordance with Article 12d(3), (4), or (6), as applicable, as the amount of own funds and eligible liabilities and expressed as percentages of:
 > (a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and
 > (b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.
-> 3. In accordance with Article 65 of Regulation (EU) 2019/2033 of the European Parliament and of the CouncilRegulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1)., references to Article 92 of Regulation (EU) No 575/2013 in this Regulation as regards the own funds requirements on an individual basis of investment fi […truncated by emendrix: 1365 characters omitted…]
+> 3. In accordance with Article 65 of Regulation (EU) 2019/2033 of the European Parliament and of the Council
+> Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1)., references to Article 92 of Regulation (EU) No 575/2013 in this Regulation as regards the own funds requirements on an individual basis of investment f […truncated by emendrix: 1367 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20210626 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20201228 -->

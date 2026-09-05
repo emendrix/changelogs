@@ -30,7 +30,7 @@
     "textless": 0,
     "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -47,7 +47,7 @@
         },
         "heading": "Application and calculation of the minimum requirement for own funds and eligible liabilities",
         "before": "Article 12a\nApplication and calculation of the minimum requirement for own funds and eligible liabilities\n1. The Board and national resolution authorities shall ensure that entities referred to in Article 12(1) and (3) meet, at all times, the requirements for own funds and eligible liabilities where required by and in accordance with this Article and Articles 12b to 12i.\n2. The requirement referred to in paragraph 1 of this Article shall be calculated in accordance with Article 12d(3), (4), or (6), as applicable, as the amount of own funds and eligible liabilities and expressed as percentages of:\n(a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and\n(b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.",
-        "after": "Article 12a\nApplication and calculation of the minimum requirement for own funds and eligible liabilities\n1. The Board and national resolution authorities shall ensure that entities referred to in Article 12(1) and (3) meet, at all times, the requirements for own funds and eligible liabilities where required by and in accordance with this Article and Articles 12b to 12i.\n2. The requirement referred to in paragraph 1 of this Article shall be calculated in accordance with Article 12d(3), (4), or (6), as applicable, as the amount of own funds and eligible liabilities and expressed as percentages of:\n(a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and\n(b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.\n3. In accordance with Article 65 of Regulation (EU) 2019/2033 of the European Parliament and of the CouncilRegulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1)., references to Article 92 of Regulation (EU) No 575/2013 in this Regulation as regards the own funds requirements on an individual basis of investment firms referred to in point (c) of Article 2 of this Regulation and which are not investment firms referred to in Article 1(2) or 1(5) of Regulation (EU) 2019/2033 shall be construed as follows:\n(a) references to point (c) of Article 92(1) of Regulation (EU) No 575/2013 as regards the total capital ratio requirement in this Regulation shall refer to Article 11(1) of Regulation (EU) 2019/2033;\n(b) references to Article 92(3) of Regulation (EU) No 575/2013 as regards the total risk exposure amount in this Regulation shall refer to the applicable requirement in Article 11(1) of Regulation (EU) 2019/2033, multiplied by 12,5.\nIn accordance with Article 65 of Directive (EU) 2019/2034 of the European Parliament and of the CouncilDirective (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ L 314, 5.12.2019, p. 64)., references to Article 104a of Directive 2013/36/EU in this Regulation as regards additional own funds requirements of investment firms referred to in point (c) of Article 2 of this Regulation and which are not investment firms referred to in Article 1(2) or 1(5) of Regulation (EU) 2019/2033 shall be construed as referring to Article 40 of Directive (EU) 2019/2034.",
+        "after": "Article 12a\nApplication and calculation of the minimum requirement for own funds and eligible liabilities\n1. The Board and national resolution authorities shall ensure that entities referred to in Article 12(1) and (3) meet, at all times, the requirements for own funds and eligible liabilities where required by and in accordance with this Article and Articles 12b to 12i.\n2. The requirement referred to in paragraph 1 of this Article shall be calculated in accordance with Article 12d(3), (4), or (6), as applicable, as the amount of own funds and eligible liabilities and expressed as percentages of:\n(a) the total risk exposure amount of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013; and\n(b) the total exposure measure of the relevant entity referred to in paragraph 1 of this Article, calculated in accordance with Articles 429 and 429a of Regulation (EU) No 575/2013.\n3. In accordance with Article 65 of Regulation (EU) 2019/2033 of the European Parliament and of the Council\nRegulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (OJ L 314, 5.12.2019, p. 1)., references to Article 92 of Regulation (EU) No 575/2013 in this Regulation as regards the own funds requirements on an individual basis of investment firms referred to in point (c) of Article 2 of this Regulation and which are not investment firms referred to in Article 1(2) or 1(5) of Regulation (EU) 2019/2033 shall be construed as follows:\n(a) references to point (c) of Article 92(1) of Regulation (EU) No 575/2013 as regards the total capital ratio requirement in this Regulation shall refer to Article 11(1) of Regulation (EU) 2019/2033;\n(b) references to Article 92(3) of Regulation (EU) No 575/2013 as regards the total risk exposure amount in this Regulation shall refer to the applicable requirement in Article 11(1) of Regulation (EU) 2019/2033, multiplied by 12,5.\nIn accordance with Article 65 of Directive (EU) 2019/2034 of the European Parliament and of the Council\nDirective (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ L 314, 5.12.2019, p. 64)., references to Article 104a of Directive 2013/36/EU in this Regulation as regards additional own funds requirements of investment firms referred to in point (c) of Article 2 of this Regulation and which are not investment firms referred to in Article 1(2) or 1(5) of Regulation (EU) 2019/2033 shall be construed as referring to Article 40 of Directive (EU) 2019/2034.",
         "previous_location": null,
         "changed_within": [
           "AR 12a PA 3"
@@ -93,10 +93,62 @@
         },
         "disputed": false
       },
-      "outcome": "unexplained",
-      "sentences": [],
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "A new paragraph 3 was added, addressing how references to Article 92 of Regulation (EU) No 575/2013 and to Article 104a of Directive 2013/36/EU are to be construed for certain investment firms, by reference to Regulation (EU) 2019/2033 and Directive (EU) 2019/2034.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20210626",
+                "location": "AR 12a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20210626#art_12a",
+              "label": "Art. 12a, 02014R0806-20210626"
+            }
+          ]
+        },
+        {
+          "text": "Paragraphs 1 and 2 of the article remain unchanged between the two versions.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20201228",
+                "location": "AR 12a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20201228#art_12a",
+              "label": "Art. 12a, 02014R0806-20201228"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0806",
+                  "display_name": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010"
+                },
+                "version": "02014R0806-20210626",
+                "location": "AR 12a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20210626#art_12a",
+              "label": "Art. 12a, 02014R0806-20210626"
+            }
+          ]
+        }
+      ],
       "applicability_note": null,
-      "unexplained": "ModelAPIError: Connection error.",
+      "unexplained": "",
       "unexplained_kind": ""
     }
   ],
@@ -259,7 +311,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 3866,
+        "output_tokens": 251,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 12a",
+      "occurrence": 0,
+      "digest": "sha256:cfc75353d1d5810e6e2ed5b94527c5a02c3bb72e634d064d5cadaf43293def9e"
+    }
+  ]
 }
