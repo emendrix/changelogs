@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse […]
 ### `32024R0573` → `02024R0573-20240220`
 
-- **Act** `eu:32024R0573` · **In force** not stated · **Detected** 2026-08-13
+- **Act** `eu:32024R0573` · **In force** not stated · **Detected** 2026-09-05
 - **Touched** 7 provisions — 7 substantive · 0 date-only · **0 disputed**
 - **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 41 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -26,11 +26,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 10 PA 1 ALN 1`, `AR 10 PA 1 ALN 2`, `AR 10 PA 9 ALN 1`
 
-In paragraph 1's first subparagraph, the cross-reference for natural persons requiring certification changes from Article 8(2) to Article 8(1). [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10)
+In Article 10(1), first subparagraph, the cross-reference to Article 8(2) for certification of natural persons has been changed to a reference to Article 8(1). [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10)
 
-In paragraph 1's second subparagraph, the cross-reference for natural persons requiring a training attestation is expanded from Article 8(3) alone to Article 8(1) and Article 8(10) together. [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10)
+In Article 10(1), second subparagraph, the reference to Article 8(3) for training attestations has been replaced with references to both Article 8(1) and Article 8(10). [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10)
 
-In paragraph 9, the term "refreshment training courses" is replaced with "refresher courses" in both sentences where it appears. [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10)
+In Article 10(9), the terms "refreshment training courses" have been replaced with "refresher courses" in both sentences of that paragraph. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_10)
 
 *before* (`32024R0573`)
 
@@ -60,9 +60,7 @@ In paragraph 9, the term "refreshment training courses" is replaced with "refres
 
 *within* `AR 12 PA 1 ALN 1`
 
-The opening sentence of paragraph 1 has been restructured, changing the phrasing from listing products and equipment that shall only be placed on the market if labelled as certain categories, to stating that such products and equipment shall be placed on the market only if labelled, followed by a separate sentence saying this applies to the listed categories. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_12)
-
-The list of categories itself, from refrigeration equipment through organic Rankine cycles, remains unchanged, as does the rest of Article 12. [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_12)
+The opening sentence of paragraph 1 is reworded, restructuring the labelling condition into a separate sentence introducing the list of products and equipment, without altering the list itself or the items it covers. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_12)
 
 *before* (`32024R0573`)
 
@@ -106,11 +104,11 @@ The list of categories itself, from refrigeration equipment through organic Rank
 
 *within* `AR 13 PA 6 ALN 1`, `AR 13 PA 9 ALN 1 PTA (c)`, `AR 13 PA 11 ALN 1`, `AR 13 PA 19 ALN 1 PTA (a)`, `AR 13 PA 19 ALN 1 PTA (b)`
 
-Paragraph 6 now adds that the implementing acts authorising an exemption from the paragraph 4 or 5 prohibitions must be adopted in accordance with the examination procedure referred to in Article 34(2). [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13)
+Paragraph 6 now adds a sentence specifying that the implementing acts authorising an exemption from the paragraph 4 or 5 prohibitions must be adopted in accordance with the examination procedure referred to in Article 34(2). [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13)
 
-Paragraph 9(c) now specifies that the high voltage electrical switchgear range covered runs from more than 52 kV, rather than from 52 kV, up to and including 145 kV. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13)
+Paragraph 9(c) is adjusted so that the high voltage electrical switchgear range covered runs from more than 52 kV, rather than simply from 52 kV, up to and including 145 kV. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13)
 
-Paragraph 11's opening clause now refers to fluorinated greenhouse gases as the insulating or breaking medium, and paragraph 19(a) and (b) now refer to utilisation of products alongside equipment, wording not present in the earlier text. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13) [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_13)
+Paragraph 11 rephrases the description of the insulating or breaking medium to refer to fluorinated greenhouse gases as that medium, and paragraph 19(a) and (b) are broadened to also cover the utilisation of products, not only the installation or placing on the market of equipment. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13)
 
 *before* (`32024R0573`)
 
@@ -140,7 +138,7 @@ Paragraph 11's opening clause now refers to fluorinated greenhouse gases as the 
 
 *within* `AR 22 PA 1 ALN 1`
 
-In paragraph 1, the phrase describing products and equipment covered by the licence requirement was changed from referring to those 'containing those gases or whose functioning relies upon those gases' to simply 'containing fluorinated greenhouse gases', dropping the reference to equipment whose functioning relies upon such gases. [Art. 22, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_22) [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_22)
+In paragraph 1, the phrase describing products and equipment covered by the licence requirement was shortened from referring to items containing those gases or whose functioning relies upon those gases to simply items containing fluorinated greenhouse gases, dropping the reference to functioning relying upon those gases. [Art. 22, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_22) [Art. 22, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_22)
 
 *before* (`32024R0573`)
 
@@ -168,7 +166,7 @@ In paragraph 1, the phrase describing products and equipment covered by the lice
 
 *within* `AR 23 PA 2 ALN 2`
 
-In the sentence describing the transit procedure, the identity of the undertaking treated as the holder of the procedure is now defined by reference to registration in the F-gas Portal pursuant to Article 20, rather than by holding quota or authorisations to use quota as required under the Regulation. [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_23) [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_23)
+In the description of the transit procedure, the identity of who counts as the holder of the procedure changed from the undertaking holding quota or authorisations to use quota to the undertaking registered in the F-gas Portal pursuant to Article 20. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_23)
 
 *before* (`32024R0573`)
 
@@ -194,11 +192,9 @@ In the sentence describing the transit procedure, the identity of the undertakin
 
 *within* `AR 32 PA 2 ALN 1`, `AR 32 PA 3 ALN 1`, `AR 32 PA 6 ALN 1`
 
-The list of provisions to which the delegated power relates is extended to include a reference to Article 17(7), second subparagraph, in the paragraph setting the duration of the delegation. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32)
+In paragraphs 2, 3 and 6, the list of provisions for which delegated-act power is conferred, may be revoked, or is subject to the two-month non-objection procedure now also includes a reference to Article 17(7), second subparagraph, alongside the previously listed articles. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32)
 
-The same addition of Article 17(7), second subparagraph, is made to the paragraph on revocation of the delegated power. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32)
-
-The same addition of Article 17(7), second subparagraph, is made to the paragraph governing entry into force of delegated acts and the objection period. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32)
+Aside from adding this cross-reference in the three sub-provisions, the wording of Article 32 is otherwise unchanged. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_32)
 
 *before* (`32024R0573`)
 
@@ -226,7 +222,7 @@ The same addition of Article 17(7), second subparagraph, is made to the paragrap
 
 *within* `AN IV`
 
-In point (7)(d) concerning chillers, the threshold gas is now described as a GWP of 750 'or more' rather than a flat GWP of 750, and the capacity qualifier is changed to chillers above a rated capacity of 12 kW rather than simply chillers above 12 kW. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#anx_IV)
+In point (7)(d) concerning chillers, the threshold description was tightened by adding "or more" after the GWP value of 750, and the capacity qualifier was changed from "chillers above 12 kW" to "chillers above a rated capacity of 12 kW". [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#anx_IV)
 
 *before* (`32024R0573`)
 
@@ -242,7 +238,7 @@ In point (7)(d) concerning chillers, the threshold gas is now described as a GWP
 > (b) that contain HFCs with GWP of 150 or more; 1 January 2022
 > (c) that contain other fluorinated greenhouse gases with a GWP of 150 or more. 1 January 2025
 > (4) Any self-contained refrigeration equipment, except chillers, that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2025
-> (5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning r […truncated by emendrix: 7823 characters omitted…]
+> (5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning r […truncated by emendrix: 7824 characters omitted…]
 
 *after* (`02024R0573-20240220`)
 
@@ -258,6 +254,6 @@ In point (7)(d) concerning chillers, the threshold gas is now described as a GWP
 > (b) that contain HFCs with GWP of 150 or more; 1 January 2022
 > (c) that contain other fluorinated greenhouse gases with a GWP of 150 or more. 1 January 2025
 > (4) Any self-contained refrigeration equipment, except chillers, that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2025
-> (5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning r […truncated by emendrix: 7851 characters omitted…]
+> (5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning r […truncated by emendrix: 7852 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02024R0573-20240220 -->
 

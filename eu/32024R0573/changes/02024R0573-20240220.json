@@ -8,7 +8,7 @@
   },
   "from_version": "32024R0573",
   "to_version": "02024R0573-20240220",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-05",
   "in_force": [],
   "diff_only": false,
   "summary": {
@@ -82,9 +82,22 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "In paragraph 1's first subparagraph, the cross-reference for natural persons requiring certification changes from Article 8(2) to Article 8(1).",
+          "text": "In Article 10(1), first subparagraph, the cross-reference to Article 8(2) for certification of natural persons has been changed to a reference to Article 8(1).",
           "fallback": false,
           "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "32024R0573",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_10",
+              "label": "Art. 10, 32024R0573"
+            },
             {
               "ref": {
                 "act": {
@@ -101,9 +114,22 @@
           ]
         },
         {
-          "text": "In paragraph 1's second subparagraph, the cross-reference for natural persons requiring a training attestation is expanded from Article 8(3) alone to Article 8(1) and Article 8(10) together.",
+          "text": "In Article 10(1), second subparagraph, the reference to Article 8(3) for training attestations has been replaced with references to both Article 8(1) and Article 8(10).",
           "fallback": false,
           "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "32024R0573",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_10",
+              "label": "Art. 10, 32024R0573"
+            },
             {
               "ref": {
                 "act": {
@@ -120,9 +146,22 @@
           ]
         },
         {
-          "text": "In paragraph 9, the term \"refreshment training courses\" is replaced with \"refresher courses\" in both sentences where it appears.",
+          "text": "In Article 10(9), the terms \"refreshment training courses\" have been replaced with \"refresher courses\" in both sentences of that paragraph.",
           "fallback": false,
           "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32024R0573",
+                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
+                },
+                "version": "32024R0573",
+                "location": "AR 10"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_10",
+              "label": "Art. 10, 32024R0573"
+            },
             {
               "ref": {
                 "act": {
@@ -140,7 +179,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -192,7 +232,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The opening sentence of paragraph 1 has been restructured, changing the phrasing from listing products and equipment that shall only be placed on the market if labelled as certain categories, to stating that such products and equipment shall be placed on the market only if labelled, followed by a separate sentence saying this applies to the listed categories.",
+          "text": "The opening sentence of paragraph 1 is reworded, restructuring the labelling condition into a separate sentence introducing the list of products and equipment, without altering the list itself or the items it covers.",
           "fallback": false,
           "citations": [
             {
@@ -222,29 +262,11 @@
               "label": "Art. 12, 02024R0573-20240220"
             }
           ]
-        },
-        {
-          "text": "The list of categories itself, from refrigeration equipment through organic Rankine cycles, remains unchanged, as does the rest of Article 12.",
-          "fallback": false,
-          "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32024R0573",
-                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
-                },
-                "version": "02024R0573-20240220",
-                "location": "AR 12"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_12",
-              "label": "Art. 12, 02024R0573-20240220"
-            }
-          ]
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -300,7 +322,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Paragraph 6 now adds that the implementing acts authorising an exemption from the paragraph 4 or 5 prohibitions must be adopted in accordance with the examination procedure referred to in Article 34(2).",
+          "text": "Paragraph 6 now adds a sentence specifying that the implementing acts authorising an exemption from the paragraph 4 or 5 prohibitions must be adopted in accordance with the examination procedure referred to in Article 34(2).",
           "fallback": false,
           "citations": [
             {
@@ -319,7 +341,7 @@
           ]
         },
         {
-          "text": "Paragraph 9(c) now specifies that the high voltage electrical switchgear range covered runs from more than 52 kV, rather than from 52 kV, up to and including 145 kV.",
+          "text": "Paragraph 9(c) is adjusted so that the high voltage electrical switchgear range covered runs from more than 52 kV, rather than simply from 52 kV, up to and including 145 kV.",
           "fallback": false,
           "citations": [
             {
@@ -338,7 +360,7 @@
           ]
         },
         {
-          "text": "Paragraph 11's opening clause now refers to fluorinated greenhouse gases as the insulating or breaking medium, and paragraph 19(a) and (b) now refer to utilisation of products alongside equipment, wording not present in the earlier text.",
+          "text": "Paragraph 11 rephrases the description of the insulating or breaking medium to refer to fluorinated greenhouse gases as that medium, and paragraph 19(a) and (b) are broadened to also cover the utilisation of products, not only the installation or placing on the market of equipment.",
           "fallback": false,
           "citations": [
             {
@@ -353,25 +375,13 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_13",
               "label": "Art. 13, 02024R0573-20240220"
-            },
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32024R0573",
-                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
-                },
-                "version": "32024R0573",
-                "location": "AR 13"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_13",
-              "label": "Art. 13, 32024R0573"
             }
           ]
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -423,7 +433,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "In paragraph 1, the phrase describing products and equipment covered by the licence requirement was changed from referring to those 'containing those gases or whose functioning relies upon those gases' to simply 'containing fluorinated greenhouse gases', dropping the reference to equipment whose functioning relies upon such gases.",
+          "text": "In paragraph 1, the phrase describing products and equipment covered by the licence requirement was shortened from referring to items containing those gases or whose functioning relies upon those gases to simply items containing fluorinated greenhouse gases, dropping the reference to functioning relying upon those gases.",
           "fallback": false,
           "citations": [
             {
@@ -456,7 +466,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -508,22 +519,9 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "In the sentence describing the transit procedure, the identity of the undertaking treated as the holder of the procedure is now defined by reference to registration in the F-gas Portal pursuant to Article 20, rather than by holding quota or authorisations to use quota as required under the Regulation.",
+          "text": "In the description of the transit procedure, the identity of who counts as the holder of the procedure changed from the undertaking holding quota or authorisations to use quota to the undertaking registered in the F-gas Portal pursuant to Article 20.",
           "fallback": false,
           "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32024R0573",
-                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
-                },
-                "version": "32024R0573",
-                "location": "AR 23"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_23",
-              "label": "Art. 23, 32024R0573"
-            },
             {
               "ref": {
                 "act": {
@@ -541,7 +539,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -595,7 +594,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The list of provisions to which the delegated power relates is extended to include a reference to Article 17(7), second subparagraph, in the paragraph setting the duration of the delegation.",
+          "text": "In paragraphs 2, 3 and 6, the list of provisions for which delegated-act power is conferred, may be revoked, or is subject to the two-month non-objection procedure now also includes a reference to Article 17(7), second subparagraph, alongside the previously listed articles.",
           "fallback": false,
           "citations": [
             {
@@ -614,7 +613,7 @@
           ]
         },
         {
-          "text": "The same addition of Article 17(7), second subparagraph, is made to the paragraph on revocation of the delegated power.",
+          "text": "Aside from adding this cross-reference in the three sub-provisions, the wording of Article 32 is otherwise unchanged.",
           "fallback": false,
           "citations": [
             {
@@ -624,36 +623,18 @@
                   "key": "32024R0573",
                   "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
                 },
-                "version": "02024R0573-20240220",
+                "version": "32024R0573",
                 "location": "AR 32"
               },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32",
-              "label": "Art. 32, 02024R0573-20240220"
-            }
-          ]
-        },
-        {
-          "text": "The same addition of Article 17(7), second subparagraph, is made to the paragraph governing entry into force of delegated acts and the objection period.",
-          "fallback": false,
-          "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32024R0573",
-                  "display_name": "Regulation (EU) 2024/573 of the European Parliament and of the Council of 7 February 2024 on fluorinated greenhouse gases, amending Directive (EU) 2019/1937 and repealing Regulation (EU) No 517/2014 (Text with EEA relevance)"
-                },
-                "version": "02024R0573-20240220",
-                "location": "AR 32"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R0573-20240220#art_32",
-              "label": "Art. 32, 02024R0573-20240220"
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R0573#art_32",
+              "label": "Art. 32, 32024R0573"
             }
           ]
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -668,8 +649,8 @@
           "location": "AN IV"
         },
         "heading": "Placing on the market prohibitions referred to in Article 11(1)",
-        "before": "ANNEX IV\nPlacing on the market prohibitions referred to in Article 11(1)\nFor the purpose of this Regulation, fixed double duct heat pump and air-conditioning equipment shall be considered split (category number 9) and be subject to the same requirements.\nProducts and equipment Date of prohibition\n(1) Non-refillable containers for fluorinated greenhouse gases listed in Annex I, empty, partially or fully filled, used to service, maintain or fill refrigeration, air-conditioning or heat pump equipment, fire protection systems or electrical switchgear, or for use as solvents. 4 July 2007\nSTATIONARY REFRIGERATION\n(2) Domestic refrigerators and freezers: (a) that contain HFCs with GWP of 150 or more; 1 January 2015\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation. 1 January 2026\n(3) Refrigerators and freezers for commercial use (self-contained equipment): (a) that contain HFCs with GWP of 2500 or more; 1 January 2020\n(b) that contain HFCs with GWP of 150 or more; 1 January 2022\n(c) that contain other fluorinated greenhouse gases with a GWP of 150 or more. 1 January 2025\n(4) Any self-contained refrigeration equipment, except chillers, that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2025\n(5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 2500 or more, except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2025\n(c) fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2030\n(6) Multipack centralised refrigeration systems for commercial use with a rated capacity of 40 kW or more that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 150 or more, except in the primary refrigerant circuit of cascade systems where fluorinated greenhouse gases with a GWP of less than 1500 may be used. 1 January 2022\nSTATIONARY CHILLERS\n(7) Chillers that contain, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 150 GWP or more for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) fluorinated greenhouse gases for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2032\n(d) fluorinated greenhouse gases with a GWP of 750 for chillers above 12 kW, except if required to meet safety requirements at the site of operation. 1 January 2027\nSTATIONARY AIR-CONDITIONING EQUIPMENT AND STATIONARY HEAT PUMPS\n(8) Self-contained air-conditioning equipment and heat pumps, except chillers, that: (a) plug-in room air-conditioning equipment which is moveable between rooms by the end user that contains HFCs with GWP of 150 or more; 1 January 2020\n(b) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(c) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using alternatives to fluorinated greenhouse gases, the GWP limit is 750; 1 January 2032\n(d) monoblock and other self-contained air-conditioning equipment and heat pumps, with a maximum rated capacity of more than 12 kW but not exceeding 50 kW that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(e) other self-contained air-conditioning equipment and heat pumps that contain fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750. 1 January 2030\n(9) Split air-conditioning equipment and heat pumps: (a) Single split systems, containing less than 3 kg of fluorinated greenhouse gases listed in Annex I, that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 750 or more; 1 January 2025\n(b) Split air-to-water systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) Split air-to-air systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(d) Split systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation; 1 January 2035\n(e) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 750 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(f) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2033\nOTHER PRODUCTS AND EQUIPMENT\n(10) Non-confined direct evaporation systems that contain HFCs and PFCs as refrigerants. 4 July 2007\n(11) Fire protection equipment: (a) that contain PFCs; 4 July 2007\n(b) that contain HFC-23; 1 January 2016\n(c) that contain or rely on other fluorinated greenhouse gases listed in Annex I, except when required to meet safety requirements at the site of operation. 1 January 2025\n(12) Windows for domestic use that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(13) Other windows that contain fluorinated greenhouse gases listed in Annex I. 4 July 2008\n(14) Footwear that contains fluorinated greenhouse gases listed in Annex I. 4 July 2006\n(15) Tyres that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(16) One-component foams, except when required to meet national safety standards, that contain fluorinated greenhouse gases listed in Annex I with GWP of 150 or more. 4 July 2008\n(17) Foams: (a) Extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2020\n(b) Foams other than extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2023\n(c) Foams that contain fluorinated greenhouse gases, except if required to meet safety requirements. 1 January 2033\n(18) Aerosol generators marketed and intended for sale to the general public for entertainment and decorative purposes, as listed in point 40 of Annex XVII to Regulation (EC) No 1907/2006, and signal horns, that contain HFCs with GWP of 150 or more. 4 July 2009\n(19) Technical aerosols: (a) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards or when used for medical applications; 1 January 2018\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements or when used for medical applications. 1 January 2030\n(20) Personal care products (e.g. mousse, creams, foams, liquids or sprays) that contain fluorinated greenhouse gases. 1 January 2025\n(21) Equipment used for cooling the skin that contain, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more except if used for medical applications. 1 January 2025\nPoint 1 applies to non-refillable containers, namely:\n(a) containers which cannot be refilled without being adapted for that purpose; and\n(b) containers which could be refilled but are imported or placed on the market without provision having been made for their return for refilling.",
-        "after": "ANNEX IV\nPlacing on the market prohibitions referred to in Article 11(1)\nFor the purpose of this Regulation, fixed double duct heat pump and air-conditioning equipment shall be considered split (category number 9) and be subject to the same requirements.\nProducts and equipment Date of prohibition\n(1) Non-refillable containers for fluorinated greenhouse gases listed in Annex I, empty, partially or fully filled, used to service, maintain or fill refrigeration, air-conditioning or heat pump equipment, fire protection systems or electrical switchgear, or for use as solvents. 4 July 2007\nSTATIONARY REFRIGERATION\n(2) Domestic refrigerators and freezers: (a) that contain HFCs with GWP of 150 or more; 1 January 2015\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation. 1 January 2026\n(3) Refrigerators and freezers for commercial use (self-contained equipment): (a) that contain HFCs with GWP of 2500 or more; 1 January 2020\n(b) that contain HFCs with GWP of 150 or more; 1 January 2022\n(c) that contain other fluorinated greenhouse gases with a GWP of 150 or more. 1 January 2025\n(4) Any self-contained refrigeration equipment, except chillers, that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2025\n(5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 2500 or more, except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2025\n(c) fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2030\n(6) Multipack centralised refrigeration systems for commercial use with a rated capacity of 40 kW or more that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 150 or more, except in the primary refrigerant circuit of cascade systems where fluorinated greenhouse gases with a GWP of less than 1500 may be used. 1 January 2022\nSTATIONARY CHILLERS\n(7) Chillers that contain, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 150 GWP or more for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) fluorinated greenhouse gases for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2032\n(d) fluorinated greenhouse gases with a GWP of 750 or more for chillers above a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation. 1 January 2027\nSTATIONARY AIR-CONDITIONING EQUIPMENT AND STATIONARY HEAT PUMPS\n(8) Self-contained air-conditioning equipment and heat pumps, except chillers, that: (a) plug-in room air-conditioning equipment which is moveable between rooms by the end user that contains HFCs with GWP of 150 or more; 1 January 2020\n(b) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(c) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using alternatives to fluorinated greenhouse gases, the GWP limit is 750; 1 January 2032\n(d) monoblock and other self-contained air-conditioning equipment and heat pumps, with a maximum rated capacity of more than 12 kW but not exceeding 50 kW that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(e) other self-contained air-conditioning equipment and heat pumps that contain fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750. 1 January 2030\n(9) Split air-conditioning equipment and heat pumps: (a) Single split systems, containing less than 3 kg of fluorinated greenhouse gases listed in Annex I, that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 750 or more; 1 January 2025\n(b) Split air-to-water systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) Split air-to-air systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(d) Split systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation; 1 January 2035\n(e) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 750 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(f) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2033\nOTHER PRODUCTS AND EQUIPMENT\n(10) Non-confined direct evaporation systems that contain HFCs and PFCs as refrigerants. 4 July 2007\n(11) Fire protection equipment: (a) that contain PFCs; 4 July 2007\n(b) that contain HFC-23; 1 January 2016\n(c) that contain or rely on other fluorinated greenhouse gases listed in Annex I, except when required to meet safety requirements at the site of operation. 1 January 2025\n(12) Windows for domestic use that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(13) Other windows that contain fluorinated greenhouse gases listed in Annex I. 4 July 2008\n(14) Footwear that contains fluorinated greenhouse gases listed in Annex I. 4 July 2006\n(15) Tyres that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(16) One-component foams, except when required to meet national safety standards, that contain fluorinated greenhouse gases listed in Annex I with GWP of 150 or more. 4 July 2008\n(17) Foams: (a) Extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2020\n(b) Foams other than extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2023\n(c) Foams that contain fluorinated greenhouse gases, except if required to meet safety requirements. 1 January 2033\n(18) Aerosol generators marketed and intended for sale to the general public for entertainment and decorative purposes, as listed in point 40 of Annex XVII to Regulation (EC) No 1907/2006, and signal horns, that contain HFCs with GWP of 150 or more. 4 July 2009\n(19) Technical aerosols: (a) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards or when used for medical applications; 1 January 2018\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements or when used for medical applications. 1 January 2030\n(20) Personal care products (e.g. mousse, creams, foams, liquids or sprays) that contain fluorinated greenhouse gases. 1 January 2025\n(21) Equipment used for cooling the skin that contain, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more except if used for medical applications. 1 January 2025\nPoint 1 applies to non-refillable containers, namely:\n(a) containers which cannot be refilled without being adapted for that purpose; and\n(b) containers which could be refilled but are imported or placed on the market without provision having been made for their return for refilling.",
+        "before": "ANNEX IV\nPlacing on the market prohibitions referred to in Article 11(1)\nFor the purpose of this Regulation, fixed double duct heat pump and air-conditioning equipment shall be considered split (category number 9) and be subject to the same requirements.\nProducts and equipment Date of prohibition\n(1) Non-refillable containers for fluorinated greenhouse gases listed in Annex I, empty, partially or fully filled, used to service, maintain or fill refrigeration, air-conditioning or heat pump equipment, fire protection systems or electrical switchgear, or for use as solvents. 4 July 2007\nSTATIONARY REFRIGERATION\n(2) Domestic refrigerators and freezers: (a) that contain HFCs with GWP of 150 or more; 1 January 2015\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation. 1 January 2026\n(3) Refrigerators and freezers for commercial use (self-contained equipment): (a) that contain HFCs with GWP of 2500 or more; 1 January 2020\n(b) that contain HFCs with GWP of 150 or more; 1 January 2022\n(c) that contain other fluorinated greenhouse gases with a GWP of 150 or more. 1 January 2025\n(4) Any self-contained refrigeration equipment, except chillers, that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2025\n(5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 2500 or more, except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2025\n(c) fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2030\n(6) Multipack centralised refrigeration systems for commercial use with a rated capacity of 40 kW or more that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 150 or more, except in the primary refrigerant circuit of cascade systems where fluorinated greenhouse gases with a GWP of less than 1500 may be used. 1 January 2022\nSTATIONARY CHILLERS\n(7) Chillers that contain, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 150 GWP or more for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) fluorinated greenhouse gases for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2032\n(d) fluorinated greenhouse gases with a GWP of 750 for chillers above 12 kW, except if required to meet safety requirements at the site of operation. 1 January 2027\nSTATIONARY AIR-CONDITIONING EQUIPMENT AND STATIONARY HEAT PUMPS\n(8) Self-contained air-conditioning equipment and heat pumps, except chillers, that: (a) plug-in room air-conditioning equipment which is moveable between rooms by the end user that contains HFCs with GWP of 150 or more; 1 January 2020\n(b) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(c) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using alternatives to fluorinated greenhouse gases, the GWP limit is 750; 1 January 2032\n(d) monoblock and other self-contained air-conditioning equipment and heat pumps, with a maximum rated capacity of more than 12 kW but not exceeding 50 kW that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(e) other self-contained air-conditioning equipment and heat pumps that contain fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750. 1 January 2030\n(9) Split air-conditioning equipment and heat pumps\n: (a) Single split systems, containing less than 3 kg of fluorinated greenhouse gases listed in Annex I, that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 750 or more; 1 January 2025\n(b) Split air-to-water systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) Split air-to-air systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(d) Split systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation; 1 January 2035\n(e) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 750 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(f) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2033\nOTHER PRODUCTS AND EQUIPMENT\n(10) Non-confined direct evaporation systems that contain HFCs and PFCs as refrigerants. 4 July 2007\n(11) Fire protection equipment: (a) that contain PFCs; 4 July 2007\n(b) that contain HFC-23; 1 January 2016\n(c) that contain or rely on other fluorinated greenhouse gases listed in Annex I, except when required to meet safety requirements at the site of operation. 1 January 2025\n(12) Windows for domestic use that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(13) Other windows that contain fluorinated greenhouse gases listed in Annex I. 4 July 2008\n(14) Footwear that contains fluorinated greenhouse gases listed in Annex I. 4 July 2006\n(15) Tyres that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(16) One-component foams, except when required to meet national safety standards, that contain fluorinated greenhouse gases listed in Annex I with GWP of 150 or more. 4 July 2008\n(17) Foams: (a) Extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2020\n(b) Foams other than extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2023\n(c) Foams that contain fluorinated greenhouse gases, except if required to meet safety requirements. 1 January 2033\n(18) Aerosol generators marketed and intended for sale to the general public for entertainment and decorative purposes, as listed in point 40 of Annex XVII to Regulation (EC) No 1907/2006, and signal horns, that contain HFCs with GWP of 150 or more. 4 July 2009\n(19) Technical aerosols: (a) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards or when used for medical applications; 1 January 2018\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements or when used for medical applications. 1 January 2030\n(20) Personal care products (e.g. mousse, creams, foams, liquids or sprays) that contain fluorinated greenhouse gases. 1 January 2025\n(21) Equipment used for cooling the skin that contain, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more except if used for medical applications. 1 January 2025\nPoint 1 applies to non-refillable containers, namely:\n(a) containers which cannot be refilled without being adapted for that purpose; and\n(b) containers which could be refilled but are imported or placed on the market without provision having been made for their return for refilling.",
+        "after": "ANNEX IV\nPlacing on the market prohibitions referred to in Article 11(1)\nFor the purpose of this Regulation, fixed double duct heat pump and air-conditioning equipment shall be considered split (category number 9) and be subject to the same requirements.\nProducts and equipment Date of prohibition\n(1) Non-refillable containers for fluorinated greenhouse gases listed in Annex I, empty, partially or fully filled, used to service, maintain or fill refrigeration, air-conditioning or heat pump equipment, fire protection systems or electrical switchgear, or for use as solvents. 4 July 2007\nSTATIONARY REFRIGERATION\n(2) Domestic refrigerators and freezers: (a) that contain HFCs with GWP of 150 or more; 1 January 2015\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation. 1 January 2026\n(3) Refrigerators and freezers for commercial use (self-contained equipment): (a) that contain HFCs with GWP of 2500 or more; 1 January 2020\n(b) that contain HFCs with GWP of 150 or more; 1 January 2022\n(c) that contain other fluorinated greenhouse gases with a GWP of 150 or more. 1 January 2025\n(4) Any self-contained refrigeration equipment, except chillers, that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2025\n(5) Refrigeration equipment, except chillers and equipment covered in points (4) and (6), that contains, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 2500 or more, except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2025\n(c) fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2030\n(6) Multipack centralised refrigeration systems for commercial use with a rated capacity of 40 kW or more that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 150 or more, except in the primary refrigerant circuit of cascade systems where fluorinated greenhouse gases with a GWP of less than 1500 may be used. 1 January 2022\nSTATIONARY CHILLERS\n(7) Chillers that contain, or whose functioning relies upon: (a) HFCs with GWP of 2500 or more except equipment intended for application designed to cool products to temperatures below – 50 °C; 1 January 2020\n(b) fluorinated greenhouse gases with a GWP of 150 GWP or more for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) fluorinated greenhouse gases for chillers up to and including a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation; 1 January 2032\n(d) fluorinated greenhouse gases with a GWP of 750 or more for chillers above a rated capacity of 12 kW, except if required to meet safety requirements at the site of operation. 1 January 2027\nSTATIONARY AIR-CONDITIONING EQUIPMENT AND STATIONARY HEAT PUMPS\n(8) Self-contained air-conditioning equipment and heat pumps, except chillers, that: (a) plug-in room air-conditioning equipment which is moveable between rooms by the end user that contains HFCs with GWP of 150 or more; 1 January 2020\n(b) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(c) plug-in room air-conditioning equipment, monoblock air-conditioning equipment, other self-contained air-conditioning equipment and self-contained heat pumps, with a maximum rated capacity of up to and including 12 kW that contain fluorinated greenhouse gases, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using alternatives to fluorinated greenhouse gases, the GWP limit is 750; 1 January 2032\n(d) monoblock and other self-contained air-conditioning equipment and heat pumps, with a maximum rated capacity of more than 12 kW but not exceeding 50 kW that contains fluorinated greenhouse gases with a GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750; 1 January 2027\n(e) other self-contained air-conditioning equipment and heat pumps that contain fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements. If safety requirements at the site of operation would not allow using fluorinated greenhouse gases with GWP of less than 150, the GWP limit is 750. 1 January 2030\n(9) Split air-conditioning equipment and heat pumps\n: (a) Single split systems, containing less than 3 kg of fluorinated greenhouse gases listed in Annex I, that contain, or whose functioning relies upon, fluorinated greenhouse gases listed in Annex I with GWP of 750 or more; 1 January 2025\n(b) Split air-to-water systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2027\n(c) Split air-to-air systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(d) Split systems of a rated capacity up to and including 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases, except if required to meet safety requirements at the site of operation; 1 January 2035\n(e) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 750 or more, except if required to meet safety requirements at the site of operation; 1 January 2029\n(f) Split systems of a rated capacity of more than 12 kW containing, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more, except if required to meet safety requirements at the site of operation. 1 January 2033\nOTHER PRODUCTS AND EQUIPMENT\n(10) Non-confined direct evaporation systems that contain HFCs and PFCs as refrigerants. 4 July 2007\n(11) Fire protection equipment: (a) that contain PFCs; 4 July 2007\n(b) that contain HFC-23; 1 January 2016\n(c) that contain or rely on other fluorinated greenhouse gases listed in Annex I, except when required to meet safety requirements at the site of operation. 1 January 2025\n(12) Windows for domestic use that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(13) Other windows that contain fluorinated greenhouse gases listed in Annex I. 4 July 2008\n(14) Footwear that contains fluorinated greenhouse gases listed in Annex I. 4 July 2006\n(15) Tyres that contain fluorinated greenhouse gases listed in Annex I. 4 July 2007\n(16) One-component foams, except when required to meet national safety standards, that contain fluorinated greenhouse gases listed in Annex I with GWP of 150 or more. 4 July 2008\n(17) Foams: (a) Extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2020\n(b) Foams other than extruded polystyrene (XPS) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards; 1 January 2023\n(c) Foams that contain fluorinated greenhouse gases, except if required to meet safety requirements. 1 January 2033\n(18) Aerosol generators marketed and intended for sale to the general public for entertainment and decorative purposes, as listed in point 40 of Annex XVII to Regulation (EC) No 1907/2006, and signal horns, that contain HFCs with GWP of 150 or more. 4 July 2009\n(19) Technical aerosols: (a) that contain HFCs with GWP of 150 or more, except if required to meet national safety standards or when used for medical applications; 1 January 2018\n(b) that contain fluorinated greenhouse gases, except if required to meet safety requirements or when used for medical applications. 1 January 2030\n(20) Personal care products (e.g. mousse, creams, foams, liquids or sprays) that contain fluorinated greenhouse gases. 1 January 2025\n(21) Equipment used for cooling the skin that contain, or whose functioning relies upon, fluorinated greenhouse gases with GWP of 150 or more except if used for medical applications. 1 January 2025\nPoint 1 applies to non-refillable containers, namely:\n(a) containers which cannot be refilled without being adapted for that purpose; and\n(b) containers which could be refilled but are imported or placed on the market without provision having been made for their return for refilling.",
         "previous_location": null,
         "changed_within": [
           "AN IV"
@@ -705,7 +686,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "In point (7)(d) concerning chillers, the threshold gas is now described as a GWP of 750 'or more' rather than a flat GWP of 750, and the capacity qualifier is changed to chillers above a rated capacity of 12 kW rather than simply chillers above 12 kW.",
+          "text": "In point (7)(d) concerning chillers, the threshold description was tightened by adding \"or more\" after the GWP value of 750, and the capacity qualifier was changed from \"chillers above 12 kW\" to \"chillers above a rated capacity of 12 kW\".",
           "fallback": false,
           "citations": [
             {
@@ -738,7 +719,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -793,11 +775,14 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 51907,
-      "output_tokens": 1878,
-      "requests": 8,
-      "schema_repairs": 1
+      "input_tokens": 47801,
+      "output_tokens": 1537,
+      "requests": 7,
+      "schema_repairs": 0
     }
   },
   "gate": {
@@ -807,10 +792,11 @@
     "fallback": 0,
     "unexplained": 0,
     "retries": 0,
-    "sentences": 14,
-    "citations": 19,
+    "sentences": 12,
+    "citations": 18,
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": []
 }
