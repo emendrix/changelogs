@@ -489,7 +489,7 @@ A new Article 32b is added, setting out the conditions under which the Commissio
 ### `32016R1037` → `02016R1037-20171220`
 
 - **Act** `eu:32016R1037` · **In force** 2017-12-20 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 41 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R1037` · `v2` = `02016R1037-20171220`
