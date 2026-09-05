@@ -28,7 +28,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-In paragraph 16(b), the term describing the privacy-preserving property that must be ensured is spelled differently between the two versions, changing from 'unlikeability' to 'unlinkability'. [Art. 5a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a) [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_5a)
+In point (b) of paragraph 16, the word describing the privacy-preserving property that must be ensured was changed from unlikeability to unlinkability. [Art. 5a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a) [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_5a)
 
 *before* (`02014R0910-20240520`)
 
@@ -41,7 +41,7 @@ In paragraph 16(b), the term describing the privacy-preserving property that mus
 > (c) independently of a Member State but recognised by that Member State.
 > 3. The source code of the application software components of European Digital Identity Wallets shall be open-source licensed. Member States may provide that, for duly justified reasons, the source code of specific components other than those installed on user devices shall not be disclosed.
 > 4. European Digital Identity Wallets shall enable the user, in a manner that is user-friendly, transparent, and traceable by the user, to:
-> (a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, wh […truncated by emendrix: 12073 characters omitted…]
+> (a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, wh […truncated by emendrix: 12074 characters omitted…]
 
 *after* (`02014R0910-20241018`)
 
@@ -54,7 +54,7 @@ In paragraph 16(b), the term describing the privacy-preserving property that mus
 > (c) independently of a Member State but recognised by that Member State.
 > 3. The source code of the application software components of European Digital Identity Wallets shall be open-source licensed. Member States may provide that, for duly justified reasons, the source code of specific components other than those installed on user devices shall not be disclosed.
 > 4. European Digital Identity Wallets shall enable the user, in a manner that is user-friendly, transparent, and traceable by the user, to:
-> (a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, wh […truncated by emendrix: 12073 characters omitted…]
+> (a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, wh […truncated by emendrix: 12074 characters omitted…]
 
 **DELETED · Art. 19** · applies from: unknown
 
