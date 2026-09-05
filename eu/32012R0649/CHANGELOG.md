@@ -889,7 +889,7 @@ Part 2, covering mercury-related chemicals and articles, remains unchanged betwe
 ### `02012R0649-20141201` → `02012R0649-20160201`
 
 - **Act** `eu:32012R0649` · **In force** 2015-12-23 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20141201` · `v2` = `02012R0649-20160201`
