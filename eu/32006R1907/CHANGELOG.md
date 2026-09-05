@@ -3665,31 +3665,46 @@ The remainder of the text is truncated in both versions, so further differences 
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-The annex's entries have been rewritten throughout, replacing earlier wording such as 'shall not be used' or 'shall not be sold' with more uniform 'shall not be placed on the market, or used' formulations, and adding explicit provisions stating that articles not complying with a restriction shall not be placed on the market. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
+The annex's introductory material and footnote references have been replaced, adding a new export-related exemption statement and a different set of Official Journal citations in place of the earlier ones. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
 
-Several entries gained new or renumbered sub-points, updated EC/CAS numbers, and additional derogations or transitional dates, for example new entry 18a on mercury measuring devices and expanded provisions on arsenic-treated wood, asbestos diaphragms, and cadmium. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
+Many individual entries, such as those for PCTs, vinyl chloride, benzene, asbestos, cadmium and several other substances, have had their restriction wording rephrased into a more uniform 'shall not be placed on the market, or used' structure, with numeric thresholds and cross-references updated and some entries gaining new sub-paragraphs or CAS/EC numbers. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
 
-The earlier version's introductory footnotes and directive-reference list differ from the later version's, and numeric concentration or amount limits in several entries are now also expressed in additional units such as mg/kg alongside the percentage figures used before. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
+The appendices listed as differing (1 through 10, excluding 7) also change alongside the main annex text, though the visible material is truncated before the full extent of those appendix changes can be described. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
 
 *before* (`02006R1907-20090220`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
-> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).Chrysotile has two CAS Nos, confirmed by ECB.Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
+> OJ L 377, 31.12.1991, p. 20. Directive as last amended by Regulation (EC) No 166/2006 of the European Parliament and of the Council (OJ L 33, 4.2.2006, p. 1).
+> Chrysotile has two CAS Nos, confirmed by ECB.
+> Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987). Regulation as last amended by Regulation (EC) No 426/2006 (OJ L 79, 16.3.2006, p. 1).
+> OJ L 147, 9.6.1975, p. 40. Directive as last amended by Regulation (EC) No 807/2003 (OJ L 122, 16.5.2003, p. 36).
+> For the purposes of this point childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.
 > Designation of the substance, of the groups of substances or of the mixture Conditions of restriction
 > 1. Polychlorinated terphenyls (PCTs)
 > Mixtures, including waste oils, with a PCT content higher than 0,005 % by weight. 1. Shall not be used. However, the following use of equipment, installations and fluids which were in service on 30 June 1986 shall continue to be permitted until they are disposed of or reach the end of their service life:
 > (a) closed-system electrical equipment transformers, resistors and inductors;
 > (b) large condensers (≥ 1 kg total weight);
 > (c) small condensers;
-> (d) heat-transmitting fluids in closed-circuit h […truncated by emendrix: 406216 characters omitted…]
+> (d) heat-transmitting fluids in closed-circu […truncated by emendrix: 406269 characters omitted…]
 
 *after* (`02006R1907-20090627`)
 
 > ANNEX XVII
 > RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES
 > For substances which have been incorporated in this Annex as a consequence of restrictions adopted in the framework of Directive 76/769/EEC (Entries 1 to 58), the restrictions shall not apply to storage, keeping, treatment, filling into containers, or transfer from one container to another of these substances for export, unless the manufacture of the substances is prohibited.
-> OJ L 256, 7.9.1987, p. 42.OJ L 147, 9.6.1975, p. 40.OJ L 37, 13.2.2003, p. 19.OJ L 263, 9.10.2007, p. 1.OJ L 171, 9.7.2003, p. 1.OJ L 124, 9.5.2002, p. 1.OJ L 24, 29.1.2008, p. 8.OJ L 104, 8.4.2004, p. 1.OJ L 399, 30.12.1989, p. 18.OJ L 304, 21.11.2003, p. 1.OJ L 121, 15.5.1993, p. 20.OJ L 270, 21.10.2003, p. 1.
+> OJ L 256, 7.9.1987, p. 42.
+> OJ L 147, 9.6.1975, p. 40.
+> OJ L 37, 13.2.2003, p. 19.
+> OJ L 263, 9.10.2007, p. 1.
+> OJ L 171, 9.7.2003, p. 1.
+> OJ L 124, 9.5.2002, p. 1.
+> OJ L 24, 29.1.2008, p. 8.
+> OJ L 104, 8.4.2004, p. 1.
+> OJ L 399, 30.12.1989, p. 18.
+> OJ L 304, 21.11.2003, p. 1.
+> OJ L 121, 15.5.1993, p. 20.
+> OJ L 270, 21.10.2003, p. 1.
 > Column 1
 > Designation of the substance, of the group of substances or of the mixture Column 2
 > Conditions of restriction
@@ -3700,7 +3715,7 @@ The earlier version's introductory footnotes and directive-reference list differ
 > CAS No 75-01-4
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
-> 3. Liquid substances or mixtures, which are regarded as dangerous according to the definitions in Council Directive 67/548/EEC and Dire […truncated by emendrix: 416559 characters omitted…]
+> 3. Liquid substances or mixtures, which are regarded as dangerous according to the definitions in Council Directive 67/548/E […truncated by emendrix: 416582 characters omitted…]
 
 **MODIFIED · Annex 17** · applies from: unknown
 
