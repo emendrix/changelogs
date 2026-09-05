@@ -464,7 +464,7 @@ The remainder of Annex III, including the rest of Part I and Parts II and III as
 ### `02019R1009-20240703` → `02019R1009-20241117`
 
 - **Act** `eu:32019R1009` · **In force** 2024-11-17 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1009-20240703` · `v2` = `02019R1009-20241117`
