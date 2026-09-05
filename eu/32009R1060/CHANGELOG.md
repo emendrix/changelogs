@@ -96,7 +96,7 @@ In point 12 of Section I, the reference to safeguard arrangements for 'informati
 ### `02009R1060-20190101` → `02009R1060-20240109`
 
 - **Act** `eu:32009R1060` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 73 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20190101` · `v2` = `02009R1060-20240109`
