@@ -39,9 +39,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 27g PA 4 ALN 1`, `AR 27g PA 8 ALN 1 PTA (c)` · *dates* +2022-12-14 · *amended by* `32022R2554`
 
-Paragraph 4 no longer sets out its own security-mechanism, resource, and back-up-facility requirements for an APA, and instead states that an APA shall comply with the network and information systems security requirements set out in Regulation (EU) 2022/2554. [Art. 27g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27g)
+Paragraph 4 no longer sets out its own security-mechanism and back-up-resource requirements for APAs, replacing that text with a reference to compliance with the network and information systems security requirements set out in Regulation (EU) 2022/2554. [Art. 27g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27g) [Art. 27g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_27g)
 
-In paragraph 8(c), the reference to the organisational requirements laid down in paragraphs 3, 4 and 5 has been changed to a reference to paragraphs 3 and 5 only, dropping the mention of paragraph 4. [Art. 27g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27g)
+In paragraph 8(c), the cross-reference to the concrete organisational requirements now cites only paragraphs 3 and 5, dropping the earlier reference to paragraph 4. [Art. 27g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20250117#art_27g) [Art. 27g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20241204#art_27g)
 
 *before* (`02014R0600-20241204`)
 
@@ -73,7 +73,7 @@ In paragraph 8(c), the reference to the organisational requirements laid down in
 > (f) the price notation of the transaction;
 > (g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code SI or otherwise the code OTC;
 > (h) if applicable, an indicator that the transaction was subject to specific conditions.
-> 3. An APA shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an APA who is also a market operator or investment firm shall treat all information c […truncated by emendrix: 2913 characters omitted…]
+> 3. An APA shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest with its clients. In particular, an APA who is also a market operator or investment firm shall treat all information c […truncated by emendrix: 2914 characters omitted…]
 
 **MODIFIED · Art. 27h** · applies from: unknown
 
