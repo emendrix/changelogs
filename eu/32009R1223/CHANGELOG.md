@@ -3473,11 +3473,11 @@ Entry 22 on Resorcinol is reworded so that the mixing-condition restriction appl
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Entry 16 now identifies the substance by the chemical name 1-Naphthalenol instead of 1-Naphthol, and the maximum concentration applied to hair after mixing under oxidative conditions is changed from 1 % calculated as free base to 2,0 % with no free-base qualifier. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III)
+Entry 16 changes its chemical name from 1-Naphthol to 1-Naphthalenol and raises the maximum concentration applied to hair after mixing under oxidative conditions from 1 % to 2,0 %, and also drops language previously excluding eyelash and eyebrow dyeing use. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III)
 
-Entry 22 now names the substance 1,3-benzenediol instead of Resorcinol, restructures the general-use and professional-use conditions into a combined numbered list, and lowers the maximum concentration applied to hair after mixing under oxidative conditions from 2,5 % to 1,25 % calculated as free base, while also adding a statement not to use the product to dye eyelashes or eyebrows. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III)
+Entry 22 for Resorcinol renames the chemical name to 1,3-benzenediol, lowers the maximum concentration applied to hair after mixing under oxidative conditions from 2,5 % to 1,25 %, and rewrites the associated labelling text, including moving the instruction not to use to dye eyelashes or eyebrows into the general-use wording. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III)
 
-Both entries also show minor wording changes, such as "colourants" appearing as "colorants" and "Contains resorcinol" being repositioned within the listed warnings. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III)
+The text as provided is truncated, so further differences beyond entry 73 in this Annex cannot be described. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III)
 
 *before* (`02009R1223-20130711`)
 
@@ -3506,7 +3506,7 @@ Both entries also show minor wording changes, such as "colourants" appearing as 
 > Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
 > For use as a preservative, see Annex V, No 9.
 > For use as a preservative, see AnnexV, No 23.
-> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 96421 characters omitted…]
+> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 96532 characters omitted…]
 
 *after* (`02009R1223-20130901`)
 
@@ -3535,7 +3535,7 @@ Both entries also show minor wording changes, such as "colourants" appearing as 
 > Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
 > For use as a preservative, see Annex V, No 9.
 > For use as a preservative, see AnnexV, No 23.
-> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 111720 characters omitted…]
+> For use as a preservative, see Annex V, No 8. […truncated by emendrix: 111840 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20130901 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20130711 -->
