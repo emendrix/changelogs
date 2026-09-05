@@ -68,20 +68,21 @@ Paragraphs 1 and 2 remain unchanged between the two versions. [Art. 13, v1](http
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-This is a newly inserted article requiring financial market participants and financial advisers to submit certain disclosures simultaneously to a designated collection body so that the information becomes accessible on the European single access point, with accompanying format and metadata requirements. [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20240109#art_18a)
+A new Article 18a is added, requiring financial market participants and financial advisers to submit certain disclosures to a designated collection body so that the information can be made accessible through the European single access point. [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20240109#art_18a)
 
-It also directs Member States to designate a collection body and notify ESMA, and tasks the ESAs with developing implementing technical standards and guidelines on metadata and formatting. [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20240109#art_18a)
+The article sets format and metadata requirements for the submitted information, obliges legal persons among those participants and advisers to obtain a legal entity identifier, requires Member States to designate a collection body and notify ESMA, and directs the ESAs to develop implementing technical standards and, where necessary, guidelines on the metadata. [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20240109#art_18a)
 
 *after* (`02019R2088-20240109`)
 
 > Article 18a
 > Accessibility of information on the European single access point
-> 1. From 10 January 2028, when making public any information referred to in Article 3(1) and (2), Article 4(1), (3), (4) and (5), Articles 5(1) and 10(1) of this Regulation, financial market participants and financial advisers shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> 1. From 10 January 2028, when making public any information referred to in Article 3(1) and (2), Article 4(1), (3), (4) and (5), Articles 5(1) and 10(1) of this Regulation, financial market participants and financial advisers shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the financial market participant or financial adviser to which the information relates;
-> (ii) for legal persons, the legal entity identifier of the financial market participant or financial adv […truncated by emendrix: 2087 characters omitted…]
+> (ii) for legal persons, the legal entity identifier of the financial market participant or financial ad […truncated by emendrix: 2088 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02019R2088-20240109 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R2088-20200712 -->
