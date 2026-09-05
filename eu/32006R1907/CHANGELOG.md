@@ -2437,7 +2437,7 @@ In section 8.5 the exemption condition changes from the substance being classifi
 ### `02006R1907-20160203` → `02006R1907-20160308`
 
 - **Act** `eu:32006R1907` · **In force** 2016-03-08 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20160203` · `v2` = `02006R1907-20160308`
