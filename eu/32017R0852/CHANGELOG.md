@@ -244,7 +244,7 @@ The remaining entries and Part B text are unchanged between the two versions. [A
 ### `02017R0852-20221225` → `02017R0852-20231016`
 
 - **Act** `eu:32017R0852` · **In force** 2023-10-16 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0852-20221225` · `v2` = `02017R0852-20231016`
