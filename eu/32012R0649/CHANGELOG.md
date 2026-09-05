@@ -178,7 +178,7 @@ The entry for Endosulfan has been updated to add two further CAS numbers and to 
 ### `02012R0649-20220701` → `02012R0649-20231101`
 
 - **Act** `eu:32012R0649` · **In force** 2023-11-01 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20220701` · `v2` = `02012R0649-20231101`
