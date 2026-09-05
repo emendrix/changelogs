@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32017R2402` → `02017R2402-20210409`
 
 - **Act** `eu:32017R2402` · **In force** 2021-04-09 · **Detected** 2026-08-13
-- **Touched** 27 provisions — 27 substantive · 0 date-only · **9 disputed**
+- **Touched** 27 provisions — 23 substantive · 0 date-only · 4 with no text · **9 disputed**
 - **Diff** 8 inserted · 19 modified · 0 deleted · 0 renumbered · 0 deferred · 32 unchanged
 - **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
 - **Citations** `v1` = `32017R2402` · `v2` = `02017R2402-20210409`
@@ -588,7 +588,7 @@ The prior version of the article, which listed only points (a) through (d) and c
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -641,23 +641,23 @@ Point (h) now ends with 'and' rather than a full stop, connecting it to a newly 
 > (c) whether there has been a disproportionate rise of the number of transactions referred to in the third subparagraph of Article 7(2), since the application of this Regulation and whether market participants structured transactions in a way to circumvent the obligation under Article 7 to make available information through securitisation repositories;
 > (d) whether there is a need to extend disclosure requirements under Artic […truncated by emendrix: 2029 characters omitted…]
 
-**MODIFIED · SCT 1** · applies from: unknown
+**MODIFIED · Section 1** · applies from: unknown
 
 *amended by* `32021R0557`
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**INSERTED · SCT 2a** · applies from: unknown
+**INSERTED · Section 2a** · applies from: unknown
 
 *amended by* `32021R0557`
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -667,7 +667,7 @@ Point (h) now ends with 'and' rather than a full stop, connecting it to a newly 
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R2402-20210409 -->

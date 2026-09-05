@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -25,8 +25,9 @@
   },
   "counts": {
     "touched": 27,
-    "substantive": 27,
+    "substantive": 23,
     "date_only": 0,
+    "textless": 4,
     "disputed": 9,
     "quoted": 0,
     "unexplained": 4
@@ -155,7 +156,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -294,7 +296,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -395,7 +398,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -538,7 +542,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -652,7 +657,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -747,7 +753,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -875,7 +882,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -981,7 +989,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1079,7 +1088,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1158,7 +1168,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1256,7 +1267,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1372,7 +1384,8 @@
           }
         ]
       },
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1451,7 +1464,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1609,7 +1623,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1723,7 +1738,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1830,7 +1846,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1968,7 +1985,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2106,7 +2124,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2222,7 +2241,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2303,7 +2323,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2425,7 +2446,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2484,7 +2506,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2584,7 +2607,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2703,7 +2727,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -2762,7 +2787,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2810,7 +2836,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R0557, 1.000 of its instruction clauses read",
+            "detail": "32021R0557, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -2819,7 +2845,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2876,7 +2903,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -3541,7 +3569,7 @@
           "SCT 1",
           "AN II"
         ],
-        "note": "32021R0557, 1.000 of its instruction clauses read",
+        "note": "32021R0557, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
         "claims": [
           {
             "location": "AR 2",
@@ -4296,6 +4324,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 107486,
       "output_tokens": 6775,
@@ -4315,5 +4346,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 27,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
