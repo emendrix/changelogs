@@ -932,7 +932,7 @@ Paragraph 2 replaces the single annual 30 April deadline with a differentiated s
 ### `02014R0909-20220622` → `02014R0909-20240116`
 
 - **Act** `eu:32014R0909` · **In force** 2024-01-16 · **Detected** 2026-08-13
-- **Touched** 37 provisions — 37 substantive · 0 date-only · **4 disputed**
+- **Touched** 37 provisions — 35 substantive · 0 date-only · 2 with no text · **5 disputed**
 - **Diff** 7 inserted · 29 modified · 1 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02014R0909-20220622` · `v2` = `02014R0909-20240116`
@@ -1591,7 +1591,7 @@ The following sentence of paragraph 2 is correspondingly expanded so that the re
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -1894,13 +1894,15 @@ New paragraphs 6, 7 and 8 have also been added, addressing continued application
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 74 — Reports** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 74 PA 3`, `AR 74 PA 4`, `AR 74 PA 5`, `AR 74 PA 6`, `AR 74 PA 7` · *dates* +2025-01-17 +2026-01-17 · *amended by* `32023R2845`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The revised article keeps paragraphs 1 and 2 unchanged but adds five new paragraphs, numbered 3 through 7, none of which existed before. [Art. 74, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_74) [Art. 74, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_74)
 
