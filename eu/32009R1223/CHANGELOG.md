@@ -2553,7 +2553,7 @@ Entry 39 itself changes its restriction column from an unrestricted maximum conc
 ### `02009R1223-20140829` → `02009R1223-20150416`
 
 - **Act** `eu:32009R1223` · **In force** 2015-04-16 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20140829` · `v2` = `02009R1223-20150416`
