@@ -8,7 +8,7 @@
   },
   "from_version": "32023R2631",
   "to_version": "02023R2631-20240109",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-05",
   "in_force": [
     "2024-01-09"
   ],
@@ -46,7 +46,7 @@
         },
         "heading": "Accessibility of information on the European single access point",
         "before": null,
-        "after": "Article 15a\nAccessibility of information on the European single access point\n1. From 10 January 2030, when making public any of the following:\n(a) the factsheet, the pre-issuance review related to the factsheet, annual allocation reports, the post-issuance review related to one or several annual allocation reports, the impact report, the impact report review referred to in Article 15;\n(b) the pre-issuance disclosures referred to in Article 20, and the periodic post-issuance disclosures referred to in Article 21;\nthe issuer shall submit that information at the same time to the relevant collection body referred to in paragraph 3 or 4 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the issuer to which the information relates;\n(ii) the legal entity identifier of the issuer, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the issuer by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, second subparagraph, point (b)(ii), the issuer shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1, first subparagraph, point (a), of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.\n4. By 9 January 2030, for the purpose of making the information referred to in paragraph 1, first subparagraph, point (b), of this Article accessible on ESAP, Member States shall designate at least one collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof.\n5. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.\nESMA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n6. Where necessary, ESMA shall adopt guidelines for entities to ensure that the metadata submitted in accordance with paragraph 5, first subparagraph, point (a), are correct.",
+        "after": "Article 15a\nAccessibility of information on the European single access point\n1. From 10 January 2030, when making public any of the following:\n(a) the factsheet, the pre-issuance review related to the factsheet, annual allocation reports, the post-issuance review related to one or several annual allocation reports, the impact report, the impact report review referred to in Article 15;\n(b) the pre-issuance disclosures referred to in Article 20, and the periodic post-issuance disclosures referred to in Article 21;\nthe issuer shall submit that information at the same time to the relevant collection body referred to in paragraph 3 or 4 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council\nRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the issuer to which the information relates;\n(ii) the legal entity identifier of the issuer, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the issuer by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, second subparagraph, point (b)(ii), the issuer shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1, first subparagraph, point (a), of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.\n4. By 9 January 2030, for the purpose of making the information referred to in paragraph 1, first subparagraph, point (b), of this Article accessible on ESAP, Member States shall designate at least one collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 and notify ESMA thereof.\n5. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.\nESMA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.\n6. Where necessary, ESMA shall adopt guidelines for entities to ensure that the metadata submitted in accordance with paragraph 5, first subparagraph, point (a), are correct.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -89,7 +89,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Article 15a is a newly inserted provision setting out obligations for issuers to submit factsheets, review documents, allocation and impact reports, and pre- and post-issuance disclosures to a collection body so that the information becomes accessible on the European single access point (ESAP).",
+          "text": "This is a newly inserted article requiring issuers to submit specified factsheets, review, allocation, impact-report and disclosure information to a designated collection body so it can be made accessible on the European single access point, along with prescribed data formats and metadata.",
           "fallback": false,
           "citations": [
             {
@@ -108,7 +108,7 @@
           ]
         },
         {
-          "text": "It further specifies formatting and metadata requirements for that submission, requires issuers to obtain a legal entity identifier, designates ESMA as the collection body for the factsheet-related material and requires Member States to designate collection bodies for the disclosure-related material, and provides for implementing technical standards and guidelines from ESMA.",
+          "text": "It also sets obligations for issuers to obtain a legal entity identifier, for ESMA to act as collection body for certain information, for Member States to designate collection bodies for other information, and for ESMA to develop implementing technical standards and, where necessary, guidelines on metadata.",
           "fallback": false,
           "citations": [
             {
@@ -245,9 +245,9 @@
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
-    "changes": 2,
+    "changes": 1,
     "explained": 1,
-    "unavailable": 1,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
@@ -256,18 +256,18 @@
     "nothing_to_explain": 0,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 3626,
-      "output_tokens": 405,
+      "input_tokens": 3618,
+      "output_tokens": 370,
       "requests": 1,
       "schema_repairs": 0
     }
   },
   "gate": {
-    "changes": 2,
+    "changes": 1,
     "passed_first": 1,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 1,
+    "unexplained": 0,
     "retries": 0,
     "sentences": 3,
     "citations": 3,
@@ -275,20 +275,5 @@
     "notes_dropped": 1,
     "coordinates_unsupported": 0
   },
-  "repairs": [
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-04",
-      "addressed": 2,
-      "repaired": 2,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    }
-  ]
+  "repairs": []
 }
