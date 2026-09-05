@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -21,13 +21,14 @@
     "deferred": 0,
     "touched_units": 30,
     "unchanged_units": 58,
-    "disputed": 25
+    "disputed": 26
   },
   "counts": {
     "touched": 30,
-    "substantive": 30,
+    "substantive": 5,
     "date_only": 0,
-    "disputed": 25,
+    "textless": 25,
+    "disputed": 26,
     "quoted": 0,
     "unexplained": 25
   },
@@ -87,7 +88,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -144,7 +146,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -265,7 +268,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -322,7 +326,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -379,7 +384,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -509,7 +515,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -570,14 +577,12 @@
             ]
           },
           "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (7) (a); AR 001 (7) (b); AR 001 (7) (c) (i); AR 001 (7) (d) (i); AR 001 (7) (d) (ii); AR 001 (7) (e) (i); AR 001 (7) (e) (ii); AR 001 (7) (f); AR 001 (7) (g); AR 001 (7) (h)",
-            "change_types": [
-              "MODIFIED"
-            ]
+            "status": "absent",
+            "detail": "32024R2809, 0.992 of its instruction clauses read, 11 dated outside the window, 70 undated and claimed",
+            "change_types": []
           }
         },
-        "disputed": false
+        "disputed": true
       },
       "outcome": "passed",
       "sentences": [
@@ -653,7 +658,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -710,7 +716,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -767,7 +774,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -912,7 +920,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -969,7 +978,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1026,7 +1036,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1083,7 +1094,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1140,7 +1152,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1197,7 +1210,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1254,7 +1268,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1311,7 +1326,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1368,7 +1384,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1425,7 +1442,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1482,7 +1500,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1631,7 +1650,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -1688,7 +1708,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1745,7 +1766,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1802,7 +1824,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1859,7 +1882,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1916,7 +1940,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1973,7 +1998,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2030,7 +2056,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2087,7 +2114,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -2144,7 +2172,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -2457,7 +2486,6 @@
           "AR 4",
           "AR 5",
           "AR 6",
-          "AR 7",
           "AR 9",
           "AR 11",
           "AR 13",
@@ -2482,7 +2510,7 @@
           "AR 48",
           "AR 48a"
         ],
-        "note": "32024R2809, 0.992 of its instruction clauses read",
+        "note": "32024R2809, 0.992 of its instruction clauses read, 11 dated outside the window, 70 undated and claimed",
         "claims": [
           {
             "location": "AR 1 PA 3",
@@ -2742,127 +2770,6 @@
             "change_type": "INSERTED",
             "in_force": null,
             "source": "AR 001 (6) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 3",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (7) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 4",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (7) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 5 ALN 1",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (7) (c) (i)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 6",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (7) (d) (i)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 6 PTA (a)",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (7) (d) (ii)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 7",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (7) (e) (i)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 7 ALN 5",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (7) (e) (ii)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 8",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (7) (f)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 12a",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (7) (g)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 14",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (7) (h)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2809",
-              "display_name": "Regulation (EU) 2024/2809 of the European Parliament and of the Council of 23 October 2024 amending Regulations (EU) 2017/1129, (EU) No 596/2014 and (EU) No 600/2014 to make public capital markets in the Union more attractive for companies and to facilitate access to capital for small and medium-sized enterprises (Text with EEA relevance)"
-            }
-          },
-          {
-            "location": "AR 7 PA 15",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (7) (h)",
             "amending_act": {
               "corpus": "eu",
               "key": "32024R2809",
@@ -3394,22 +3301,22 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 5,
-        "right_units": 30,
-        "shared": 5,
-        "precision": 1.0,
-        "recall": 0.16666666666666666,
-        "f1": 0.2857142857142857,
+        "right_units": 29,
+        "shared": 4,
+        "precision": 0.8,
+        "recall": 0.13793103448275862,
+        "f1": 0.2352941176470588,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 5,
-        "right_units": 30,
-        "shared": 5,
-        "precision": 1.0,
-        "recall": 0.16666666666666666,
-        "f1": 0.2857142857142857,
+        "right_units": 29,
+        "shared": 4,
+        "precision": 0.8,
+        "recall": 0.13793103448275862,
+        "f1": 0.2352941176470588,
         "kind_mismatches": 0
       }
     ],
@@ -3484,6 +3391,31 @@
         "kinds": [
           [
             "instruction_parse",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      },
+      {
+        "unit": "AR 7",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
             [
               "MODIFIED"
             ]
@@ -3927,6 +3859,9 @@
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 30676,
       "output_tokens": 2129,
@@ -3946,5 +3881,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 30,
+      "repaired": 26,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
