@@ -445,9 +445,9 @@ The only textual difference is the removal of the trailing word "and" at the end
 
 *within* `AR 4 ALN 1 PO 3 PTI (iii)`, `AR 4 ALN 1 PO 3 PTI (iv)` · *dates* +2020-12-16 +2021-01-22 · *amended by* `32021R0023`
 
-The definition of competent authorities in point (3) now includes a new subpoint (iv) covering resolution authorities as defined under Regulation (EU) 2021/23 on central counterparty recovery and resolution, referencing point (3) of Article 2 of that Regulation. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_4)
+A new point (iv) has been added to the definition of competent authorities in Article 4(1)(3), covering a resolution authority as defined in point (3) of Article 2 of Regulation (EU) 2021/23 with regard to that Regulation. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_4)
 
-Point (3)(iii) on investor compensation schemes ends with a semicolon in the amended text rather than a full stop, reflecting the addition of the new subpoint that follows it. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_4)
+Point (iii), which addresses bodies administering national investor compensation schemes or the public authority supervising them, is unchanged in substance apart from the punctuation needed to accommodate the new point that follows it. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20200101#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20220812#art_4)
 
 *before* (`02010R1095-20200101`)
 
@@ -472,7 +472,8 @@ Point (3)(iii) on investor compensation schemes ends with a semicolon in the ame
 > (i) competent authorities and/or supervisory authorities as defined in the legislation referred to in Article 1(2);
 > (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by firms providing investment services and by collective investment undertakings marketing their units or shares;
 > (iii) with regard to investor compensation schemes, bodies which administer national compensation schemes pursuant to Directive 97/9/EC, or in the case where the operation of the investor compensation scheme is administered by a private company, the public authority supervising those schemes pursuant to that Directive;
-> (iv) with regard to Regulation (EU) 2021/23 of the European Parliament and of the CouncilRegulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterpar […truncated by emendrix: 311 characters omitted…]
+> (iv) with regard to Regulation (EU) 2021/23 of the European Parliament and of the Council
+> Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterpa […truncated by emendrix: 312 characters omitted…]
 
 **MODIFIED · Art. 40 — Composition** · applies from: unchanged
 
