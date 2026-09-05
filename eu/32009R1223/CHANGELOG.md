@@ -2586,11 +2586,9 @@ Entry 39 itself changes its restriction column from an unrestricted maximum conc
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-Entry 12, which previously covered 4-hydroxybenzoic acid and its salts and esters other than the isopropyl, isobutyl, phenyl, benzyl and pentyl esters, is narrowed to cover only the substance itself together with its methyl and ethyl esters and their salts. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150416#anx_V)
+Entry 12 was narrowed so that it now covers only 4-hydroxybenzoic acid and its methyl- and ethyl-esters and their salts, removing butyl-, propyl-, isobutyl-, isopropyl-, benzyl- and pentyl-related substances from its scope while keeping the same 0,4% single-ester and 0,8% mixture maximum concentrations. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150416#anx_V)
 
-A new entry 12a is added for butyl 4-hydroxybenzoate and propyl 4-hydroxybenzoate and their salts, setting a maximum concentration of 0,14 % for the sum of individual concentrations and 0,8 % for mixtures combining entries 12 and 12a where the butyl- and propylparaben portion does not exceed 0,14 %, together with wording restricting use on the nappy area for leave-on products designed for children under three years of age. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150416#anx_V)
-
-The substances formerly grouped under entry 12 as butylparaben, propylparaben, and their sodium and potassium salts now appear instead under the new entry 12a, with the same CAS and EC numbers retained. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150416#anx_V)
+A new entry 12a was added covering butyl and propyl 4-hydroxybenzoate and their salts, with its own maximum concentration limits (0,14% for the sum of individual concentrations and 0,8% for mixtures with entry 12 substances) and a new condition restricting use on the nappy area for leave-on products intended for children under three years of age. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150416#anx_V)
 
 *before* (`02009R1223-20140829`)
 
@@ -2601,7 +2599,19 @@ The substances formerly grouped under entry 12 as butylparaben, propylparaben, a
 > Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
-> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 12051 characters omitted…]
+> For use other than as a preservative, see Annex III, No. 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, entry No 45.
+> For use other than as a preservative, see Annex III, No. 54.
+> Only if the concentration exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 65.
+> Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
+> Solely for products which might be used for children under 3 years of age.
+> Concerns any products aimed […truncated by emendrix: 12068 characters omitted…]
 
 *after* (`02009R1223-20150416`)
 
@@ -2612,7 +2622,19 @@ The substances formerly grouped under entry 12 as butylparaben, propylparaben, a
 > Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
-> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 12549 characters omitted…]
+> For use other than as a preservative, see Annex III, No. 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, entry No 45.
+> For use other than as a preservative, see Annex III, No. 54.
+> Only if the concentration exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 65.
+> Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
+> Solely for products which might be used for children under 3 years of age.
+> Concerns any products aimed […truncated by emendrix: 12567 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20150416 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20140829 -->
