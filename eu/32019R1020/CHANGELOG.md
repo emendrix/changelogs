@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02019R1020-20240523` → `02019R1020-20260812`
 
 - **Act** `eu:32019R1020` · **In force** 2026-08-12 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Touched** 2 provisions — 1 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02019R1020-20240523` · `v2` = `02019R1020-20260812`
@@ -64,7 +64,7 @@ No entry numbered 72 or 73 appears in either the before or after text shown. [An
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1020-20260812 -->
