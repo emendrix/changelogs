@@ -2123,9 +2123,9 @@ All other text, including the preamble, substance entries, CAS and EC numbers, c
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-In entry 57, the product type/body parts column now specifies 'Rinse-off products' where it was previously left blank, alongside the unchanged 0,01 % maximum concentration for Methylisothiazolinone. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V)
+In entry 39's footnote, the reference to entry 39 was clarified by adding "of Annex V" and by changing the capitalisation of methylchloroisothiazolinone to lower case. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V)
 
-The preamble footnote concerning the relationship between entry 39 and entry 57 was reworded to refer to 'entry 39 of Annex V in a mixture with methylchloroisothiazolinone' instead of 'entry 39 in a mixture with Methylchloroisothiazolinone'. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V)
+In entry 57, the product type/body parts column was changed from being blank to specifying "Rinse-off products" alongside the unchanged maximum concentration of 0,01 %. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V)
 
 *before* (`02009R1223-20160810`)
 
@@ -2136,7 +2136,19 @@ The preamble footnote concerning the relationship between entry 39 and entry 57 
 > Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
-> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 13285 characters omitted…]
+> For use other than as a preservative, see Annex III, No. 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, entry No 45.
+> For use other than as a preservative, see Annex III, No. 54.
+> Only if the concentration exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 65.
+> Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
+> Solely for products which might be used for children under 3 years of age.
+> Concerns any products aimed […truncated by emendrix: 13305 characters omitted…]
 
 *after* (`02009R1223-20160812`)
 
@@ -2147,7 +2159,19 @@ The preamble footnote concerning the relationship between entry 39 and entry 57 
 > Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
 > Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
 > 2. All finished products containing formaldehyde or substances in this Annex and which release formaldehyde must be labelled with the warning contains formaldehyde where the concentration of formaldehyde in the finished product exceeds 0,05 %.
-> For use other than as a preservative, see Annex III, No. 98.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use other than as a preservative, see Annex III, No. 13.For use other than as a preservative, see Annex III. No. 101.For use other than as a preservative, see Annex III, No. 99.For use other than as a preservative, see Annex III, No. 100.For other uses than preservatives, see Annex III, entry No 45.For use other than as a preservative, see Annex III, No. 54.Only if the concentration exceeds 0,05 %.For use other than as a preservative, see Annex III, No. 65.Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.Solely for products which might be used for children under 3 years of age.Concerns any products aimed to be applie […truncated by emendrix: 13315 characters omitted…]
+> For use other than as a preservative, see Annex III, No. 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, entry No 45.
+> For use other than as a preservative, see Annex III, No. 54.
+> Only if the concentration exceeds 0,05 %.
+> For use other than as a preservative, see Annex III, No. 65.
+> Solely for products, other than bath products/shower gels and shampoo, which might be used for children under 3 years of age.
+> Solely for products which might be used for children under 3 years of age.
+> Concerns any products aimed […truncated by emendrix: 13335 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20160812 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20160810 -->
