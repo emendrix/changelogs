@@ -924,7 +924,7 @@ No other paragraphs of Article 6 differ between the two texts. [Art. 6, v1](http
 ### `02016R1011-20220101` → `02016R1011-20240109`
 
 - **Act** `eu:32016R1011` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20220101` · `v2` = `02016R1011-20240109`
