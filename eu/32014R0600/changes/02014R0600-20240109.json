@@ -47,7 +47,7 @@
         },
         "heading": "Accessibility of information on the European single access point",
         "before": null,
-        "after": "Article 23a\nAccessibility of information on the European single access point\nFrom 10 January 2030, the information referred to in Article 14(6), Article 15(1), second subparagraph, Articles 18(4) and 27(1), Article 34, Articles 40(5), 42(5), 44(2), 45(6) and Article 48 of this Regulation, shall be made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. The collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the investment firm to which the information relates;\n(ii) where available, the legal entity identifier of the investment firm, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.",
+        "after": "Article 23a\nAccessibility of information on the European single access point\nFrom 10 January 2030, the information referred to in Article 14(6), Article 15(1), second subparagraph, Articles 18(4) and 27(1), Article 34, Articles 40(5), 42(5), 44(2), 45(6) and Article 48 of this Regulation, shall be made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council\nRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).. The collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be ESMA.\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859;\n(b) be accompanied by the following metadata:\n(i) all the names of the investment firm to which the information relates;\n(ii) where available, the legal entity identifier of the investment firm, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(iv) an indication of whether the information contains personal data.",
         "previous_location": null,
         "changed_within": [],
         "amending_acts": [
@@ -90,7 +90,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "This is a newly inserted provision requiring that certain information already referenced elsewhere in the Regulation be made accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859, with ESMA designated as the collection body for that purpose.",
+          "text": "A new Article 23a has been added, requiring that specified information under listed articles of the Regulation be made accessible on the European single access point established under Regulation (EU) 2023/2859, with ESMA designated as the collection body.",
           "fallback": false,
           "citations": [
             {
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "text": "The provision also sets requirements that the information be submitted in a data extractable format and be accompanied by specified metadata, including the investment firm's name, legal entity identifier where available, the type of information, and whether it contains personal data.",
+          "text": "The new provision also sets requirements for that information, including submission in a data extractable format and accompaniment by metadata covering the investment firm's names, legal entity identifier where available, type of information, and whether personal data is contained.",
           "fallback": false,
           "citations": [
             {
@@ -304,7 +304,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 2914,
+        "output_tokens": 403,
+        "requests": 1,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 23a",
+      "occurrence": 0,
+      "digest": "sha256:9e71e065fcaa2079383b1eb87133349f73081e06e58dd6c3b32ca5841bd5566d"
+    }
+  ]
 }
