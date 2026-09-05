@@ -37003,7 +37003,7 @@ All other text of paragraph 1 and the remainder of the article, including paragr
 ### `02013R0575-20130628` → `02013R0575-20150118`
 
 - **Act** `eu:32013R0575` · **In force** 2015-01-18 · **Detected** 2026-08-13
-- **Touched** 31 provisions — 31 substantive · 0 date-only · **30 disputed**
+- **Touched** 31 provisions — 31 substantive · 0 date-only · 0 with no text · **30 disputed**
 - **Diff** 2 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 496 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20130628` · `v2` = `02013R0575-20150118`
@@ -38483,9 +38483,9 @@ In paragraph 4, the presentation of the Ki formula changed from a spaced express
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The wording of the inserted Chapter 4 provisions is unchanged in substance, with the only visible differences being formatting adjustments such as removal of spacing, line breaks and some mathematical operator symbols within the KCCP, PCEred and DF formulas. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_520)
+The wording of the inserted Chapter 4 provisions is essentially the same in both versions, but formatting and spacing of the KCCP, PCEred and DF formulas and their surrounding symbols have been altered, with mathematical operators and subscript markers removed or run together in the later text. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_520)
 
-The surrounding legal text of Article 50a to 50d and the amendments to Article 11(15) and Article 89(5a) of Regulation (EU) No 648/2012 remain identical in both versions. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20130628#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_520)
+Minor typographical changes also appear elsewhere, such as the spacing in the OJ citation reference, without any change to the substantive rules on calculation, reporting or the transitional treatment in Article 89(5a). [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20150118#art_520)
 
 *before* (`02013R0575-20130628`)
 
@@ -38501,7 +38501,8 @@ The surrounding legal text of Article 50a to 50d and the amendments to Article 1
 > Article 50a
 > Calculation of KCCP
 > 1.
-> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013,p.1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013,p.1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 >
 > 2.
 > A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCP = ΣimaxEBRMi – IMi – DFi;0 · RW · captial ratio
@@ -38519,7 +38520,7 @@ The surrounding legal text of Article 50a to 50d and the amendments to Article 1
 > 8 %.
 > All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
 > 3.
-> A CCP shall undertake the calculation required by para […truncated by emendrix: 9964 characters omitted…]
+> A CCP shall undertake the calculation required by par […truncated by emendrix: 9965 characters omitted…]
 
 *after* (`02013R0575-20150118`)
 
@@ -38531,7 +38532,8 @@ The surrounding legal text of Article 50a to 50d and the amendments to Article 1
 > Calculations and reporting for the purposes of Regulation (EU) No 575/2013
 > Article 50a
 > Calculation of KCCP
-> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firmsOJ L 176, 27.6.2013, p. 1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+> 1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms
+> OJ L 176, 27.6.2013, p. 1.;, a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
 > 2. A CCP shall calculate the hypothetical capital (KCCP) as follows:KCCPimaxEBRMi IMi DFi;0 RW  captial ratio
 > where:
 > EBRMi
@@ -38545,7 +38547,7 @@ The surrounding legal text of Article 50a to 50d and the amendments to Article 1
 > capital ratio
 > 8 %.
 > All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
-> 3. A CCP shall undertake the calculation required by paragraph 2 at lea […truncated by emendrix: 9890 characters omitted…]
+> 3. A CCP shall undertake the calculation required by paragraph 2 at le […truncated by emendrix: 9891 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20150118 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20130628 -->
