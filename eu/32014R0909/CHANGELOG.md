@@ -933,11 +933,9 @@ Paragraph 2 replaces the single annual 30 April deadline with a differentiated s
 
 *within* `AR 2 PA 1 ALN 1 PO 26`, `AR 2 PA 1 ALN 1 PO 46`, `AR 2 PA 1 ALN 1 PO 47`, `AR 2 PA 1 ALN 1 PO 48`, `AR 2 PA 1 ALN 1 PO 49`, `AR 2 PA 1 ALN 1 PO 50` · *dates* +2004-12-15 · *amended by* `32023R2845`
 
-The definition of "default" in point (26) is expanded so that, alongside insolvency proceedings against a participant, it also covers an event defined in the CSD's internal rules as constituting a default. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_2)
+Point (26) defining default now adds that a default also includes an event defined in the CSD's internal rules as constituting a default, alongside the existing reference to insolvency proceedings under Directive 98/26/EC. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_2)
 
-Five new definitions are added after "senior management": point (47) defines "group" by reference to Directive 2013/34/EU, point (48) defines "close links" by reference to Directive 2014/65/EU, point (49) defines "qualifying holding" by reference to Directive 2004/109/EC, and point (50) defines "deferred net settlement". [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_2)
-
-The earlier version ended its list of definitions at point (46) on "senior management" without these additional terms. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_2)
+Four new definitions were added after the existing point (46) on senior management: point (47) for group, point (48) for close links, point (49) for qualifying holding, and point (50) for deferred net settlement, none of which appeared in the earlier text. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_2)
 
 *before* (`02014R0909-20220622`)
 
@@ -967,7 +965,7 @@ The earlier version ended its list of definitions at point (46) on "senior manag
 > (6) requesting CSD means the CSD which requests access to the services of another CSD through a CSD link;
 > (7) settlement means the completion of a securities transaction where it is concluded with the aim of discharging the obligations of the parties to that transaction through the transfer of cash or securities, or both;
 > (8) financial instruments or securities means financial instruments as defined in point (15) of Article 4(1) of Directive 2014/65/EU;
-> (9) transfer order means transfer order as defined in the secon […truncated by emendrix: 8485 characters omitted…]
+> (9) transfer order means transfer order as defined in the secon […truncated by emendrix: 8486 characters omitted…]
 
 **MODIFIED · Art. 6 — Measures to prevent settlement fails** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -1001,11 +999,11 @@ The deadline for ESMA to submit the draft regulatory technical standards to the 
 
 *within* `AR 7 PA 1 ALN 1`, `AR 7 PA 2 ALN 1`, `AR 7 PA 2 ALN 3`, `AR 7 PA 3 ALN 1`, `AR 7 PA 3 ALN 1 PTA (c)`, `AR 7 PA 3 ALN 1 PTA (d)`, `AR 7 PA 3 ALN 2`, `AR 7 PA 4 ALN 1`, `AR 7 PA 4 ALN 1 PTA (a)`, `AR 7 PA 4 ALN 1 PTA (b)`, `AR 7 PA 5 ALN 1`, `AR 7 PA 5 ALN 1 PTA (a)`, `AR 7 PA 5 ALN 1 PTA (b)`, `AR 7 PA 5 ALN 1 PTA (c)`, `AR 7 PA 5 ALN 1 PTA (d)`, `AR 7 PA 5 ALN 2`, `AR 7 PA 5 ALN 3`, `AR 7 PA 6 ALN 1`, `AR 7 PA 7 ALN 1`, `AR 7 PA 7 ALN 2`, `AR 7 PA 7 ALN 3`, `AR 7 PA 8 ALN 1`, `AR 7 PA 9 ALN 1`, `AR 7 PA 9 ALN 1 PTA (a)`, `AR 7 PA 9 ALN 1 PTA (b)`, `AR 7 PA 9 ALN 2`, `AR 7 PA 10 ALN 1`, `AR 7 PA 10 ALN 1 PTA (a)`, `AR 7 PA 10 ALN 1 PTA (b)`, `AR 7 PA 10 ALN 1 PTA (c)`, `AR 7 PA 10 ALN 2`, `AR 7 PA 10 ALN 3`, `AR 7 PA 11`, `AR 7 PA 12`, `AR 7 PA 13`, `AR 7 PA 14`, `AR 7 PA 15` · *dates* -2015-06-18 +2016-04-27 +2025-01-17 +2026-01-17 · *amended by* `32023R2845`
 
-The buy-in process previously set out in paragraphs 3 to 10, including the extension periods, buy-in exemptions, cash compensation and CCP/trading venue buy-in execution obligations, has been removed and replaced with a shorter set of provisions covering exemptions from the cash penalty mechanism, a CCP loss-cover mechanism, delegated act powers on penalty parameters, and an ESMA published list of relevant financial instruments. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_7)
+The buy-in process and its detailed rules on extension periods, deferral periods, cash compensation and exemptions for SME growth markets and CCP-cleared share transactions have been removed, and cash penalties are now said to run until a transaction is settled or bilaterally cancelled rather than until the end of a buy-in process. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_7)
 
-The suspension procedure for consistently failing participants, previously paragraph 9, is now paragraph 7, with its personal data reference updated from Directive 95/46/EC to Regulation (EU) 2016/679 and an added statement that the paragraph does not apply to CCP failing participants or where insolvency proceedings have been opened. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_7)
+The provision now excludes the penalty mechanism from applying to failing CCPs and to failing participants subject to insolvency proceedings, allows a CCP to establish a loss-coverage mechanism, adds a requirement for ESMA to publish and keep updated a list of relevant financial instruments by 17 January 2026, and updates the personal-data reference from Directive 95/46/EC to Regulation (EU) 2016/679. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_7)
 
-The regulatory technical standards mandate in the final paragraph is narrowed to three items instead of eight, drops the buy-in and extension-period specifications, and changes the submission deadline for ESMA's draft standards from 18 June 2015 to 17 January 2025. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_7)
+The delegated-act and regulatory-technical-standard mandates have been reworded to refer to supplementing the Regulation, the list of factors for calculating cash penalties has been expanded to include duration of the settlement fail and a periodic review requirement, and the ESMA submission date for draft technical standards has changed from 18 June 2015 to 17 January 2025. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_7)
 
 *before* (`02014R0909-20220622`)
 
@@ -1023,7 +1021,7 @@ The regulatory technical standards mandate in the final paragraph is narrowed to
 > 1. For each securities settlement system it operates, a CSD shall establish a system that monitors settlement fails of transactions in financial instruments referred to in Article 5(1). The CSD shall provide regular reports to the competent authority and relevant authorities as to the number and details of settlement fails and any other relevant information, including the measures envisaged by the CSD and its participants to improve settlement efficiency. Those reports shall be made public by the CSD in an aggregated and anonymised form on an annual basis. The competent authorities shall share with ESMA any relevant information on settlement fails.
 > 2. For each securities settlement system it operates, a CSD shall establish procedures that facilitate the settlement of transactions in financial instruments referred to in Article 5(1) that are not settled on the intended settlement date. Those procedures shall provide for a penalty mechanism that serves as an effective deterrent to participants that cause settlement fails.
 > Before establishing the procedures referred to in the first subparagraph, a CSD shall consult the relevant trading venues and CCPs in respect of which it provides settlement services.
-> The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (failing participants). Cash penalties shall be calculated on a daily basis for each business day t […truncated by emendrix: 5278 characters omitted…]
+> The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (failing participants). Cash penalties shall be calculated on a daily basis for each business day t […truncated by emendrix: 5279 characters omitted…]
 
 **INSERTED · Art. 7a — Mandatory buy-in process** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -1323,11 +1321,11 @@ It also requires ESMA to develop draft regulatory technical standards on criteri
 
 *within* `AR 25 PA 4 ALN 1 PTA (d)`, `AR 25 PA 4 ALN 1 PTA (e)`, `AR 25 PA 6 ALN 5`, `AR 25 PA 13` · *dates* +2015-05-20 +2025-01-17 · *amended by* `32023R2845`
 
-Point (d) of Article 25(4)(1) is unchanged in substance but now ends with a semicolon rather than a full stop, and a new point (e) is added requiring that the third-country CSD be established or authorised in a third country not identified as high-risk under the delegated acts adopted pursuant to Article 9(2) of Directive (EU) 2015/849. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_25)
+A new condition (e) is added to paragraph 4, requiring that the third-country CSD be established or authorised in a third country not identified as high-risk under the delegated acts adopted pursuant to Article 9(2) of Directive (EU) 2015/849. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_25)
 
-Article 25(6)(5) changes the deadline for ESMA's recognition decision from a fixed six months after submission of a complete application to six months after either the complete application or the Commission's equivalence decision under paragraph 9, whichever is later. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_25)
+Paragraph 6 changes the six-month deadline for ESMA's recognition decision so that it now runs from the submission of a complete application or from the adoption of an equivalence decision by the Commission under paragraph 9, whichever is later, rather than solely from submission of a complete application. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_25)
 
-A new paragraph 13 is added requiring ESMA to develop draft regulatory technical standards on information a third-country CSD must provide in a notification referred to in paragraph 2a, listing specific data points, with submission to the Commission by 17 January 2025 and delegated power for the Commission to adopt those standards. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_25)
+A new paragraph 13 is added requiring ESMA to develop draft regulatory technical standards specifying information a third-country CSD must provide in a notification referred to in paragraph 2a, listing certain participant and transaction data, and setting a submission deadline to the Commission of 17 January 2025, with power delegated to the Commission to supplement the Regulation by adopting those standards. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_25)
 
 *before* (`02014R0909-20220622`)
 
@@ -1353,7 +1351,7 @@ A new paragraph 13 is added requiring ESMA to develop draft regulatory technical
 > (a) the Commission has adopted a decision in accordance with paragraph 9;
 > (b) the third-country CSD is subject to effective authorisation, supervision and oversight or, if the securities settlement system is operated by a central bank, oversight, ensuring full compliance with the prudential requirements applicable in that third country;
 > (c) cooperation arrangements between ESMA and the responsible authorities in that third country (responsible third-country authorities) have been established pursuant to paragraph 10;
-> (d) where relevant, the th […truncated by emendrix: 8018 characters omitted…]
+> (d) where relevant, the th […truncated by emendrix: 8019 characters omitted…]
 
 **MODIFIED · Art. 26 — General provisions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -1429,9 +1427,9 @@ The former paragraph 8 concerning the competent authority's 60-working-day decis
 
 *amended by* `32023R2845`
 
-A new Article 27a has been added, setting out obligations for a CSD to notify its competent authority of changes to its management and to supply information needed to assess compliance with the relevant management provisions, together with a duty on the competent authority to act if a management body member's conduct is likely to be prejudicial to sound and prudent management. [Art. 27a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_27a)
+A new Article 27a has been added, setting out obligations for a CSD to notify its competent authority of management changes and for persons proposing to acquire or dispose of qualifying holdings in a CSD to notify the competent authority, along with procedures and timelines for the competent authority's assessment of such notifications. [Art. 27a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_27a)
 
-The new article also establishes a notification and assessment procedure for proposed acquirers or vendors of qualifying holdings in a CSD, including notification thresholds, acknowledgment and assessment-period timelines, information requests, possible suspension and extension of those periods, and the competent authority's power to oppose or not oppose an acquisition and to limit how stringent national notification and approval requirements may be. [Art. 27a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_27a)
+The article also addresses information requests during the assessment period, possible suspension and extension of that period, the consequences of opposition or non-opposition to a proposed acquisition, and a limit on Member States imposing stricter notification or approval requirements than those set out in the Regulation. [Art. 27a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_27a)
 
 *after* (`02014R0909-20240116`)
 
@@ -1440,7 +1438,7 @@ The new article also establishes a notification and assessment procedure for pro
 > 1. A CSD shall notify its competent authority of any changes to its management and provide the competent authority with all the information necessary to assess its compliance with Article 27(1) to (5).
 > Where the conduct of a member of the management body is likely to be prejudicial to the sound and prudent management of the CSD, the competent authority shall take appropriate measures, which may include removing that member from the management body.
 > 2. Any natural or legal person or such persons acting in concert (the proposed acquirer), who have taken a decision either to acquire, directly or indirectly, a qualifying holding in a CSD or to further increase, directly or indirectly, such a qualifying holding in a CSD as a result of which the proportion of the voting rights or of the capital held would reach or exceed 10 %, 20 %, 30 % or 50 % or would lead to the CSD becoming its subsidiary (the proposed acquisition), shall first notify the competent authority of that CSD in writing thereof, indicating the size of the intended holding and relevant information, as referred to in Article 27b(4).
-> Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a CSD (the proposed vendor) shall first notify the competent authority in writing thereof, indicating the size of such holding. Such a person shall likewise notify the competent authority where it has taken a decision to reduce […truncated by emendrix: 4015 characters omitted…]
+> Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a CSD (the proposed vendor) shall first notify the competent authority in writing thereof, indicating the size of such holding. Such a person shall likewise notify the competent authority where it has taken a decision to reduce […truncated by emendrix: 4018 characters omitted…]
 
 **INSERTED · Art. 27b — Assessment** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -1609,9 +1607,9 @@ The provided excerpt begins at paragraph 3 and is marked as truncated, so nothin
 
 *within* `AR 49 PA 1 ALN 2`, `AR 49 PA 1 ALN 2 PTA (a)`, `AR 49 PA 1 ALN 2 PTA (b)`, `AR 49 PA 1 ALN 3` · *dates* -2014-12-18 -2015-01-18 +2025-01-17 +2025-02-17 · *amended by* `32023R2845`
 
-The second subparagraph of paragraph 1 now defines what is meant by the corporate or similar law of the Member State under which securities are constituted, adding two points specifying that it covers the corporate or similar law of the Member State where the issuer is incorporated and the governing corporate or similar law of the Member State under which the securities are issued. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_49)
+The text now defines what is meant by the corporate or similar law of the Member State under which securities are constituted, adding two points identifying it as the law of the Member State where the issuer is incorporated and the governing law of the Member State under which the securities are issued. [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_49)
 
-The third subparagraph changes the deadlines for competent authorities to communicate the list of key relevant provisions to ESMA and for ESMA to publish it, replacing the earlier dates with 17 January 2025 and 17 February 2025 respectively, and adds a requirement for Member States to update that list regularly, at least every two years, and for ESMA to publish each updated list. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_49)
+The obligation on Member States has changed from compiling a list of key relevant provisions of their law to compiling a list of key relevant provisions of their corporate or similar law, with the communication and publication deadlines moved from 18 December 2014 and 18 January 2015 to 17 January 2025 and 17 February 2025 respectively, and a new requirement added for Member States to update that list at least every two years and communicate and publish the updated versions. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_49)
 
 *before* (`02014R0909-20220622`)
 
@@ -1622,7 +1620,7 @@ The third subparagraph changes the deadlines for competent authorities to commun
 > Member States shall ensure that a list of key relevant provisions of their law, as referred to in the second subparagraph, is compiled. Competent authorities shall communicate that list to ESMA by 18 December 2014. ESMA shall publish the list by 18 January 2015.
 > The CSD may charge a reasonable commercial fee for the provision of its services to issuers on a cost-plus basis, unless otherwise agreed by both parties.
 > 2. Where an issuer submits a request for recording its securities in a CSD, the latter shall treat such request promptly and in a non-discriminatory manner and provide a response to the requesting issuer within three months.
-> 3. A CSD may refuse to provide services to an issuer. Such a refusal shall be based only on a comprehensive risk assessment or if that CSD does not provide the services referred to in point (1) of Section A of the Annex in relation to securities constituted under the corporate or similar law of the relevant Member State. […truncated by emendrix: 3070 characters omitted…]
+> 3. A CSD may refuse to provide services to an issuer. Such a refusal shall be based only on a comprehensive risk assessment or if that CSD does not provide the services referred to in point (1) of Section A of the Annex in relation to securities constituted under the corporate or similar law of the relevant Member State. […truncated by emendrix: 3072 characters omitted…]
 
 *after* (`02014R0909-20240116`)
 
@@ -1634,7 +1632,7 @@ The third subparagraph changes the deadlines for competent authorities to commun
 > (b) the governing corporate or similar law of the Member State under which the securities are issued.
 > Member States shall compile a list of key relevant provisions of their corporate or similar law, as referred to in the second subparagraph. Competent authorities shall communicate that list to ESMA by 17 January 2025. ESMA shall publish that list by 17 February 2025. Member States shall regularly, and at least every two years, update that list. They shall communicate the updated list at those regular intervals to ESMA. ESMA shall publish such updated list.
 > The CSD may charge a reasonable commercial fee for the provision of its services to issuers on a cost-plus basis, unless otherwise agreed by both parties.
-> 2. Where an issuer submits a request for recording its sec […truncated by emendrix: 3560 characters omitted…]
+> 2. Where an issuer submits a request for recording its sec […truncated by emendrix: 3562 characters omitted…]
 
 **MODIFIED · Art. 52 — Procedure for CSD links** · applies from: unchanged
 
@@ -1828,22 +1826,24 @@ Paragraph 3, which covers revocation of delegated power, and paragraph 5, which 
 
 *within* `AR 68 PA 3` · *amended by* `32023R2845`
 
-A new paragraph 3 has been added to Article 68, stating that where reference is made to that paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, applies. [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_68)
+A new paragraph 3 has been added stating that where reference is made to that paragraph, Article 8 of Regulation (EU) No 182/2011, read together with Article 5 of that Regulation, applies. [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_68)
 
-This paragraph is absent from the earlier version of Article 68, which contains only paragraphs 1 and 2. [Art. 68, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_68)
+Paragraphs 1 and 2 remain unchanged from the earlier version. [Art. 68, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20220622#art_68) [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240116#art_68)
 
 *before* (`02014R0909-20220622`)
 
 > Article 68
 > Committee procedure
-> 1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/ECCommission Decision 2001/528/EC of 6 June 2001 establishing the European Securities Committee (OJ L 191, 13.7.2001, p. 45).. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+> 1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC
+> Commission Decision 2001/528/EC of 6 June 2001 establishing the European Securities Committee (OJ L 191, 13.7.2001, p. 45).. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 > 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 
 *after* (`02014R0909-20240116`)
 
 > Article 68
 > Committee procedure
-> 1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/ECCommission Decision 2001/528/EC of 6 June 2001 establishing the European Securities Committee (OJ L 191, 13.7.2001, p. 45).. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+> 1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC
+> Commission Decision 2001/528/EC of 6 June 2001 establishing the European Securities Committee (OJ L 191, 13.7.2001, p. 45).. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
 > 2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
 > 3. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
 
