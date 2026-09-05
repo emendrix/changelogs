@@ -1688,17 +1688,22 @@ This new entry also carries a condition that it is not to be used in application
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The footnote block at the top of the Annex gains two additional sentences repeating the same phrasing about substances not being placed or made available on the Union market, but with the dates changed to 1 May 2019 and 1 August 2019 instead of 23 August 2019 and 23 August 2021. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II) [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_II)
+The AFTER text inserts two additional sentences stating that from 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market, and that from 1 August 2019 such products shall not be made available on the Union market, repeated twice, following the existing sentence about the 23 August 2019 and 23 August 2021 dates. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II)
 
-The numbered substance list itself, as far as visible before the text is cut off, is unchanged between the two versions. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II)
+The BEFORE text contains only the single pair of sentences referencing 23 August 2019 and 23 August 2021, without any reference to the 1 May 2019 or 1 August 2019 dates. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_II)
 
-Both texts are truncated before their end, so any further differences beyond the shown portion cannot be described. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II)
+The remainder of the numbered substance list shown is identical between the two texts, and the provided excerpt of both versions is truncated before the end of the annex. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II)
 
 *before* (`02009R1223-20180711`)
 
 > ANNEX II
 > LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
-> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
+> From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
 > Reference number Substance identification
 > Chemical name/INN CAS number EC number
 > a b c d
@@ -1714,13 +1719,20 @@ Both texts are truncated before their end, so any further differences beyond the
 > 12 Aconitine (principal alkaloid of Aconitum napellus L.) and its salts 302-27-2 206-121-7
 > 13 Adonis vernalis L. and its preparations 84649-73-0 283-458-6
 > 14 Epinephrine (INN) 51-43-4 200-098-7
-> 15 Rauwolfia serpentina L […truncated by emendrix: 125153 characters omitted…]
+> 15 Rauwolfia serpent […truncated by emendrix: 125161 characters omitted…]
 
 *after* (`02009R1223-20180801`)
 
 > ANNEX II
 > LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
-> OJ L 159, 29.6.1996, p. 1Modified INNM-name.OJ L 273, 10.10.2002, p. 1.for the individual ingredient see reference number 364 in Annex II.for the individual ingredient see reference number 413 in Annex II.From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
+> From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
 > Reference number Substance identification
 > Chemical name/INN CAS number EC number
 > a b c d
@@ -1730,7 +1742,7 @@ Both texts are truncated before their end, so any further differences beyond the
 > 5 [4-(4-Hydroxy-3-iodophenoxy)-3,5-diiodophenyl]acetic acid (Tiratricol (INN)) and its salts 51-24-1 200-086-1
 > 6 Methotrexate (INN) 59-05-2 200-413-8
 > 7 Aminocaproic acid (INN) and its salts 60-32-2 200-469-3
-> 8 Cinchophen (INN), its salts, derivatives and salts of these der […truncated by emendrix: 125682 characters omitted…]
+> 8 Cinchophen (INN), its salts, derivatives and salts of th […truncated by emendrix: 125692 characters omitted…]
 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -1738,23 +1750,51 @@ Both texts are truncated before their end, so any further differences beyond the
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The AFTER text adds four additional footnote statements, each stating that from 1 May 2019 cosmetic products containing a given substance and not complying with the restrictions shall not be placed on the Union market, and that from 1 August 2019 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_III)
+The later version adds four new footnote-style statements, each providing that from 1 May 2019 cosmetic products containing a given substance and not complying with the restrictions shall not be placed on the Union market, and from 1 August 2019 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_III)
 
-These four statements do not appear in the BEFORE text, which ends its introductory footnotes after the peanut oil and hydrolyzed wheat protein statements. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_III)
+These four statements do not appear in the earlier version of the annex, which stops after the equivalent statements for peanut oil and hydrolyzed wheat proteins. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_III)
 
-The remainder of the shown text, including the numbered entries, appears unchanged between the two versions, and both texts are truncated before their end. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_III)
+Both texts are cut off before the substance table entries that these new statements would apply to, so the specific substances they reference cannot be identified from the material shown. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_III) [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_III)
 
 *before* (`02009R1223-20180711`)
 
 > ANNEX III
 > LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
-> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 155612 characters omitted…]
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative, see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> OJ L 255, […truncated by emendrix: 155718 characters omitted…]
 
 *after* (`02009R1223-20180801`)
 
 > ANNEX III
 > LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
-> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.For use as a preservative, see Annex V, No. 5.Only if the concentration exceeds 0,05 %.These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.For use as a preservative, see Annex V, No. 34.For use as a preservative, see Annex V, No 43.For use as a preservative, see Annex V, No. 54.For use as a preservative, see Annex V, No 3.Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.For use as a preservative, see Annex V, No 9.For use as a preservative, see AnnexV, No 23.For use as a preservative, see Annex V, No 8.OJ L 255, 30.9.2005, p. […truncated by emendrix: 158078 characters omitted…]
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative, see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> OJ L 255, […truncated by emendrix: 158188 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20180801 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20180711 -->
