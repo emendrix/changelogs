@@ -46,9 +46,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 7 PA 3 ALN 1 PTA (a)`, `AR 7 PA 3 ALN 1 PTA (b)` · *amended by* `32023R2845`
 
-Paragraph 3 now includes two additional exemptions from the penalty mechanism, covering settlement fails whose underlying cause is not attributable to the participants in the transaction, and operations that are not considered as trading. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_7)
+Paragraph 3 now includes two exemptions from the penalty mechanism that were absent before: one for settlement fails whose underlying cause is not attributable to the participants in the transaction, and one for operations that are not considered as trading. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_7)
 
-In the earlier version, paragraph 3 listed only the exemptions for transactions where the failing participant is a CCP and for transactions where insolvency proceedings are opened against the failing participant. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_7)
+The earlier version of this paragraph began directly with the exemption for transactions where the failing participant is a CCP, without these two preceding points. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_7)
 
 *before* (`02014R0909-20250117`)
 
@@ -57,7 +57,7 @@ In the earlier version, paragraph 3 listed only the exemptions for transactions 
 > 1. For each securities settlement system it operates, a CSD shall establish a system that monitors settlement fails of transactions in financial instruments referred to in Article 5(1). The CSD shall provide regular reports to the competent authority and relevant authorities as to the number and details of settlement fails and any other relevant information, including the measures envisaged by the CSD and its participants to improve settlement efficiency. Those reports shall be made public by the CSD in an aggregated and anonymised form on an annual basis. The competent authorities shall share with ESMA any relevant information on settlement fails.
 > 2. For each securities settlement system it operates, a CSD shall establish procedures that facilitate the settlement of transactions in financial instruments referred to in Article 5(1) that are not settled on the intended settlement date. Those procedures shall provide for a penalty mechanism that serves as an effective deterrent to participants that cause settlement fails.
 > Before establishing the procedures referred to in the first subparagraph, a CSD shall consult the relevant trading venues and CCPs in respect of which it provides settlement services.
-> The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (failing participants). Cash penalties shall be calculated on a daily basis for each business day t […truncated by emendrix: 5278 characters omitted…]
+> The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (failing participants). Cash penalties shall be calculated on a daily basis for each business day t […truncated by emendrix: 5279 characters omitted…]
 
 *after* (`02014R0909-20260117`)
 
@@ -66,7 +66,7 @@ In the earlier version, paragraph 3 listed only the exemptions for transactions 
 > 1. For each securities settlement system it operates, a CSD shall establish a system that monitors settlement fails of transactions in financial instruments referred to in Article 5(1). The CSD shall provide regular reports to the competent authority and relevant authorities as to the number and details of settlement fails and any other relevant information, including the measures envisaged by the CSD and its participants to improve settlement efficiency. Those reports shall be made public by the CSD in an aggregated and anonymised form on an annual basis. The competent authorities shall share with ESMA any relevant information on settlement fails.
 > 2. For each securities settlement system it operates, a CSD shall establish procedures that facilitate the settlement of transactions in financial instruments referred to in Article 5(1) that are not settled on the intended settlement date. Those procedures shall provide for a penalty mechanism that serves as an effective deterrent to participants that cause settlement fails.
 > Before establishing the procedures referred to in the first subparagraph, a CSD shall consult the relevant trading venues and CCPs in respect of which it provides settlement services.
-> The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (failing participants). Cash penalties shall be calculated on a daily basis for each business day t […truncated by emendrix: 5440 characters omitted…]
+> The penalty mechanism referred to in the first subparagraph shall include cash penalties for participants that cause settlement fails (failing participants). Cash penalties shall be calculated on a daily basis for each business day t […truncated by emendrix: 5441 characters omitted…]
 
 **MODIFIED · Art. 12** · applies from: unknown
 
@@ -162,9 +162,9 @@ In the earlier version, paragraph 3 listed only the exemptions for transactions 
 
 *within* `AR 25 PA 2a` · *amended by* `32023R2845`
 
-A new paragraph 2a has been added, requiring a third-country CSD that intends to provide the core service referred to in Section A, point 3, of the Annex in relation to financial instruments constituted under the law of a Member State to notify ESMA of this, with ESMA in turn informing the competent authority of that Member State of the notification received. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_25)
+A new paragraph 2a has been added, requiring a third-country CSD that intends to provide the core service listed in Section A, point 3, of the Annex in relation to financial instruments constituted under the law of a Member State to notify ESMA of that intention, and requiring ESMA to inform the competent authority of the Member State under whose law the instruments are constituted of the notification received. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_25)
 
-The prior version of the article, which already referenced paragraph 2a in paragraph 13 without defining it in the operative text, did not contain this paragraph 2a. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_25)
+This paragraph did not exist in the earlier version of Article 25. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_25)
 
 *before* (`02014R0909-20250117`)
 
@@ -177,7 +177,7 @@ The prior version of the article, which already referenced paragraph 2a in parag
 > (a) the Commission has adopted a decision in accordance with paragraph 9;
 > (b) the third-country CSD is subject to effective authorisation, supervision and oversight or, if the securities settlement system is operated by a central bank, oversight, ensuring full compliance with the prudential requirements applicable in that third country;
 > (c) cooperation arrangements between ESMA and the responsible authorities in that third country (responsible third-country authorities) have been established pursuant to paragraph 10;
-> (d) where relevant, the th […truncated by emendrix: 8018 characters omitted…]
+> (d) where relevant, the th […truncated by emendrix: 8019 characters omitted…]
 
 *after* (`02014R0909-20260117`)
 
@@ -189,7 +189,7 @@ The prior version of the article, which already referenced paragraph 2a in parag
 > 3. A CSD established and authorised in the Union may maintain or establish a link with a third-country CSD in accordance with Article 48.
 > 4. After consulting the authorities referred to in paragraph 5, ESMA may recognise a third-country CSD that has applied for recognition to provide the services referred to in paragraph 2, where the following conditions are met:
 > (a) the Commission has adopted a decision in accordance with paragraph 9;
-> (b) the third-country CSD is subject to effective aut […truncated by emendrix: 8440 characters omitted…]
+> (b) the third-country CSD is subject to effective aut […truncated by emendrix: 8441 characters omitted…]
 
 **MODIFIED · Art. 26** · applies from: unknown
 
