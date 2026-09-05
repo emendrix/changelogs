@@ -398,7 +398,7 @@ Point (i) states that Article 5(5), points (b), (c) and (e) to (i), shall apply 
 ### `32017R0746` → `02017R0746-20170505`
 
 - **Act** `eu:32017R0746` · **In force** not stated · **Detected** 2026-08-12
-- **Touched** 13 provisions — 13 substantive · 0 date-only · **0 disputed**
+- **Touched** 13 provisions — 13 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 13 modified · 0 deleted · 0 renumbered · 0 deferred · 115 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32017R0746` · `v2` = `02017R0746-20170505`
@@ -465,9 +465,9 @@ In paragraph 1, the cross-reference for the electronic system to which manufactu
 
 *within* `AR 48 PA 7 ALN 1`, `AR 48 PA 9 ALN 1`
 
-In paragraph 7, the reference to an assessment of the technical documentation specified in Sections 4.4 to 4.8 of Annex IX was replaced with a reference to an assessment of the technical documentation specified in Section 4 of that Annex. [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#art_48)
+In paragraph 7, the reference to an assessment of the technical documentation set out in Sections 4.4 to 4.8 of Annex IX for class C devices has been replaced with a reference to an assessment of the technical documentation set out in Section 4 of that Annex. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#art_48)
 
-The same substitution was made in paragraph 9, changing the cited technical documentation sections from Sections 4.4 to 4.8 of Annex IX to Section 4 of that Annex. [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#art_48)
+In paragraph 9, the same change is made for class B devices, replacing the reference to Sections 4.4 to 4.8 of Annex IX with a reference to Section 4 of that Annex. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#art_48)
 
 *before* (`32017R0746`)
 
@@ -477,7 +477,8 @@ The same substitution was made in paragraph 9, changing the cited technical docu
 > 2. Prior to putting into service a device that is not placed on the market, with the exception of in-house devices manufactured pursuant to Article 5(5), manufacturers shall undertake an assessment of the conformity of that device, in accordance with the applicable conformity assessment procedures set out in Annexes IX to XI.
 > 3. Manufacturers of class D devices, other than devices for performance study, shall be subject to a conformity assessment as specified in Chapters I, II except for Section 5, and in Chapter III of Annex IX.
 > In addition to the procedures referred to in the first subparagraph, for devices for self-testing and near-patient testing, the manufacturer shall follow the procedure for technical documentation assessment set out in Section 5.1 of Annex IX.
-> In addition to the procedures referred to in the first and second subparagraphs, for companion diagnostics, the notified body shall consult a competent authority designated by the Member States in accordance with Directive 2001/83/EC of the European Parliament and of the CouncilDirective 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 6 […truncated by emendrix: 7209 characters omitted…]
+> In addition to the procedures referred to in the first and second subparagraphs, for companion diagnostics, the notified body shall consult a competent authority designated by the Member States in accordance with Directive 2001/83/EC of the European Parliament and of the Council
+> Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. […truncated by emendrix: 7210 characters omitted…]
 
 *after* (`02017R0746-20170505`)
 
@@ -487,7 +488,8 @@ The same substitution was made in paragraph 9, changing the cited technical docu
 > 2. Prior to putting into service a device that is not placed on the market, with the exception of in-house devices manufactured pursuant to Article 5(5), manufacturers shall undertake an assessment of the conformity of that device, in accordance with the applicable conformity assessment procedures set out in Annexes IX to XI.
 > 3. Manufacturers of class D devices, other than devices for performance study, shall be subject to a conformity assessment as specified in Chapters I, II except for Section 5, and in Chapter III of Annex IX.
 > In addition to the procedures referred to in the first subparagraph, for devices for self-testing and near-patient testing, the manufacturer shall follow the procedure for technical documentation assessment set out in Section 5.1 of Annex IX.
-> In addition to the procedures referred to in the first and second subparagraphs, for companion diagnostics, the notified body shall consult a competent authority designated by the Member States in accordance with Directive 2001/83/EC of the European Parliament and of the CouncilDirective 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 6 […truncated by emendrix: 7208 characters omitted…]
+> In addition to the procedures referred to in the first and second subparagraphs, for companion diagnostics, the notified body shall consult a competent authority designated by the Member States in accordance with Directive 2001/83/EC of the European Parliament and of the Council
+> Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. […truncated by emendrix: 7209 characters omitted…]
 
 **MODIFIED · Art. 70 — Performance studies regarding devices bearing the CE marking** · applies from: unchanged
 
@@ -767,11 +769,11 @@ Rule 2 in section 2.2 now also covers devices intended to determine foeto-matern
 
 *within* `AN IX SCT 2 SCT 2.1`, `AN IX SCT 2 SCT 2.3`, `AN IX SCT 3`, `AN IX SCT 3 SCT 3.5`, `AN IX SCT 4 SCT 4.3`
 
-Section 2.3 and Section 3.5 change the device class subject to accompanying technical documentation assessment from class C alone to class B and C, and replace the cross-reference to Sections 4.4 to 4.8 with a reference to Section 4 generally, while the Section 3 heading drops the phrase limiting surveillance assessment to class C and class D devices; a minor correction also fixes "tits" to "its" in Section 2.3. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#anx_IX)
+Section 2.3 now extends the requirement for accompanying technical documentation assessment during quality management system review to class B and C devices, rather than only class C devices, and points to Section 4 generally rather than to Sections 4.4 to 4.8 specifically. [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#anx_IX)
 
-Section 2.1 removes the word "by" from the phrase describing the obligations arising from the quality management system, a wording tightening with no change of substance. [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#anx_IX)
+Section 3, its heading, and Section 3.5 similarly broaden the surveillance-linked technical documentation assessment to cover class B and C devices instead of only class C and D devices, and Section 3 heading drops its prior reference to class C and D devices. [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#anx_IX)
 
-Section 4.3 changes the description of the notified body's examination from being carried out using staff employed by it, to the notified body assessing the technical documentation using staff, without repeating the phrase "employed by it." [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#anx_IX)
+Section 4.3 now states that the notified body shall assess the technical documentation using staff with proven knowledge and experience, replacing the earlier wording that it would examine the application using staff employed by it, and minor wording corrections were made elsewhere, such as fixing typographical errors in Sections 2.1 and 2.3 and correcting a pronoun in Section 2.3. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0746#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0746-20170505#anx_IX)
 
 *before* (`32017R0746`)
 
@@ -785,7 +787,7 @@ Section 4.3 changes the description of the notified body's examination from bein
 > the name of the manufacturer and address of its registered place of business and any additional manufacturing site covered by the quality management system, and, if the manufacturer's application is lodged by its authorised representative the name of the authorised representative and the address of the authorised representative's registered place of business,
 > all relevant information on the device or group of devices covered by the quality management system,
 > a written declaration that no application has been lodged with any other notified body for the same device-related quality management system, or information about any previous application for the same device-related quality management system,
-> a draft of an EU declaration of […truncated by emendrix: 28565 characters omitted…]
+> a draft of an EU declaration of […truncated by emendrix: 28566 characters omitted…]
 
 *after* (`02017R0746-20170505`)
 
@@ -799,6 +801,6 @@ Section 4.3 changes the description of the notified body's examination from bein
 > the name of the manufacturer and address of its registered place of business and any additional manufacturing site covered by the quality management system, and, if the manufacturer's application is lodged by its authorised representative the name of the authorised representative and the address of the authorised representative's registered place of business,
 > all relevant information on the device or group of devices covered by the quality management system,
 > a written declaration that no application has been lodged with any other notified body for the same device-related quality management system, or information about any previous application for the same device-related quality management system,
-> a draft of an EU declaration of […truncated by emendrix: 28481 characters omitted…]
+> a draft of an EU declaration of […truncated by emendrix: 28482 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0746-20170505 -->
 
