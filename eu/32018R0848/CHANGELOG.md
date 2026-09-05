@@ -221,7 +221,7 @@ No other wording, category, or field in the certificate model was altered betwee
 ### `02018R0848-20220101` → `02018R0848-20230221`
 
 - **Act** `eu:32018R0848` · **In force** 2023-02-21 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02018R0848-20220101` · `v2` = `02018R0848-20230221`
