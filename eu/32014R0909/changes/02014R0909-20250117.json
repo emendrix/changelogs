@@ -47,7 +47,7 @@
         },
         "heading": "Operational risks",
         "before": "Article 45\nOperational risks\n1. A CSD shall identify sources of operational risk, both internal and external, and minimise their impact through the deployment of appropriate IT tools, controls and procedures, including for all the securities settlement systems it operates.\n2. A CSD shall maintain appropriate IT tools that ensure a high degree of security and operational reliability, and have adequate capacity. IT tools shall adequately deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security, and the integrity and confidentiality of the information maintained.\n3. For services that it provides as well as for each securities settlement system that it operates, a CSD shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan to ensure the preservation of its services, the timely recovery of operations and the fulfilment of the CSD’s obligations in the case of events that pose a significant risk of disrupting operations.\n4. The plan referred to in paragraph 3 shall provide for the recovery of all transactions and participants’ positions at the time of disruption to allow the participants of a CSD to continue to operate with certainty and to complete settlement on the scheduled date, including by ensuring that critical IT systems can promptly resume operations from the time of disruption. It shall include the setting-up of a second processing site with sufficient resources, capabilities and functionalities and appropriate staffing arrangements.\n5. The CSD shall plan and carry out a programme of tests of the arrangements referred to in paragraphs 1 to 4.\n6. A CSD shall identify, monitor and manage the risks that key participants in the securities settlement systems it operates, as well as service and utility providers, and other CSDs or other market infrastructures might pose to its operations. It shall, upon request, provide competent and relevant authorities with information on any such risk identified.\nIt shall also inform the competent authority and relevant authorities without delay of any operational incidents resulting from such risks.\n7. ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the operational risks referred to in paragraphs 1 and 6 and the methods to test, to address or to minimise those risks, including the business continuity policies and disaster recovery plans referred to in paragraphs 3 and 4 and the methods of assessment thereof.\nESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
-        "after": "Article 45\nOperational risks\n1. A CSD shall identify sources of operational risk, both internal and external, and minimise their impact also through the deployment of appropriate ICT tools, processes and policies set up and managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the CouncilRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)., as well as through any other relevant appropriate tools, controls and procedures for other types of operational risk, including for all the securities settlement systems it operates.\n2. A CSD shall maintain appropriate IT tools that ensure a high degree of security and operational reliability, and have adequate capacity. IT tools shall adequately deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security, and the integrity and confidentiality of the information maintained.\n3. For services that it provides as well as for each securities settlement system that it operates, a CSD shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan, including ICT business continuity policy and ICT response and recovery plans established in accordance with Regulation (EU) 2022/2554, to ensure the preservation of its services, the timely recovery of operations and the fulfilment of the CSD’s obligations in the case of events that pose a significant risk to disrupting operations.\n4. The plan referred to in paragraph 3 shall provide for the recovery of all transactions and participants’ positions at the time of disruption to allow the participants of a CSD to continue to operate with certainty and to complete settlement on the scheduled date, including by ensuring that critical IT systems can resume operations from the time of disruption as provided for in Article 12(5) and (7) of Regulation (EU) 2022/2554.\n5. The CSD shall plan and carry out a programme of tests of the arrangements referred to in paragraphs 1 to 4.\n6. A CSD shall identify, monitor and manage the risks that key participants in the securities settlement systems it operates, as well as service and utility providers, and other CSDs or other market infrastructures might pose to its operations. It shall, upon request, provide competent and relevant authorities with information on any such risk identified. It shall also inform the competent authority and relevant authorities without delay of any operational incidents, other than in relation to ICT risk, resulting from such risks.\n7. ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the operational risks referred to in paragraphs 1 and 6, other than ICT risk, and the methods to test, to address or to minimise those risks, including the business continuity policies and disaster recovery plans referred to in paragraphs 3 and 4 and the methods of assessment thereof.\nESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
+        "after": "Article 45\nOperational risks\n1. A CSD shall identify sources of operational risk, both internal and external, and minimise their impact also through the deployment of appropriate ICT tools, processes and policies set up and managed in accordance with Regulation (EU) 2022/2554 of the European Parliament and of the Council\nRegulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (OJ L 333, 27.12.2022, p. 1)., as well as through any other relevant appropriate tools, controls and procedures for other types of operational risk, including for all the securities settlement systems it operates.\n2. A CSD shall maintain appropriate IT tools that ensure a high degree of security and operational reliability, and have adequate capacity. IT tools shall adequately deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security, and the integrity and confidentiality of the information maintained.\n3. For services that it provides as well as for each securities settlement system that it operates, a CSD shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan, including ICT business continuity policy and ICT response and recovery plans established in accordance with Regulation (EU) 2022/2554, to ensure the preservation of its services, the timely recovery of operations and the fulfilment of the CSD’s obligations in the case of events that pose a significant risk to disrupting operations.\n4. The plan referred to in paragraph 3 shall provide for the recovery of all transactions and participants’ positions at the time of disruption to allow the participants of a CSD to continue to operate with certainty and to complete settlement on the scheduled date, including by ensuring that critical IT systems can resume operations from the time of disruption as provided for in Article 12(5) and (7) of Regulation (EU) 2022/2554.\n5. The CSD shall plan and carry out a programme of tests of the arrangements referred to in paragraphs 1 to 4.\n6. A CSD shall identify, monitor and manage the risks that key participants in the securities settlement systems it operates, as well as service and utility providers, and other CSDs or other market infrastructures might pose to its operations. It shall, upon request, provide competent and relevant authorities with information on any such risk identified. It shall also inform the competent authority and relevant authorities without delay of any operational incidents, other than in relation to ICT risk, resulting from such risks.\n7. ESMA shall, in close cooperation with the members of the ESCB, develop draft regulatory technical standards to specify the operational risks referred to in paragraphs 1 and 6, other than ICT risk, and the methods to test, to address or to minimise those risks, including the business continuity policies and disaster recovery plans referred to in paragraphs 3 and 4 and the methods of assessment thereof.\nESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2015.\nPower is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.",
         "previous_location": null,
         "changed_within": [
           "AR 45 PA 1 ALN 1",
@@ -101,7 +101,26 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Paragraph 1 now refers to ICT tools, processes and policies set up and managed under Regulation (EU) 2022/2554, alongside other appropriate tools, controls and procedures for other types of operational risk, replacing the earlier reference to appropriate IT tools, controls and procedures generally.",
+          "text": "Paragraph 1 now refers to ICT tools, processes and policies set up and managed under Regulation (EU) 2022/2554, alongside other tools, controls and procedures for other types of operational risk, rather than simply appropriate IT tools, controls and procedures.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20250117",
+                "location": "AR 45"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_45",
+              "label": "Art. 45, 02014R0909-20250117"
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 3 now adds ICT business continuity policy and ICT response and recovery plans established under Regulation (EU) 2022/2554 to the business continuity policy and disaster recovery plan, and paragraph 4 now ties the resumption of critical IT systems to Article 12(5) and (7) of that Regulation instead of describing it as prompt resumption without such a reference.",
           "fallback": false,
           "citations": [
             {
@@ -133,7 +152,7 @@
           ]
         },
         {
-          "text": "Paragraph 3 now includes ICT business continuity policy and ICT response and recovery plans established under Regulation (EU) 2022/2554 within the business continuity policy and disaster recovery plan, and paragraph 4 now ties the resumption of critical IT systems to Article 12(5) and (7) of that Regulation instead of describing prompt resumption without such a reference.",
+          "text": "Paragraph 6 now excludes ICT risk from the operational incidents that must be reported, and paragraph 7 now excludes ICT risk from the operational risks that ESMA's regulatory technical standards must specify.",
           "fallback": false,
           "citations": [
             {
@@ -148,51 +167,6 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_45",
               "label": "Art. 45, 02014R0909-20250117"
-            },
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32014R0909",
-                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-                },
-                "version": "02014R0909-20240501",
-                "location": "AR 45"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240501#art_45",
-              "label": "Art. 45, 02014R0909-20240501"
-            }
-          ]
-        },
-        {
-          "text": "Paragraph 6 now excludes incidents relating to ICT risk from the duty to inform authorities of operational incidents, and paragraph 7 now excludes ICT risk from the operational risks that ESMA's regulatory technical standards under paragraphs 1 and 6 are to address.",
-          "fallback": false,
-          "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32014R0909",
-                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-                },
-                "version": "02014R0909-20250117",
-                "location": "AR 45"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_45",
-              "label": "Art. 45, 02014R0909-20250117"
-            },
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32014R0909",
-                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-                },
-                "version": "02014R0909-20240501",
-                "location": "AR 45"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20240501#art_45",
-              "label": "Art. 45, 02014R0909-20240501"
             }
           ]
         }
@@ -446,7 +420,27 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "evidence",
+      "repaired_on": "2026-09-05",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 9869,
+        "output_tokens": 854,
+        "requests": 2,
+        "schema_repairs": 1
+      },
+      "coordinates_checked": true
     }
   ],
-  "evidence": []
+  "evidence": [
+    {
+      "location": "AR 45",
+      "occurrence": 0,
+      "digest": "sha256:43a14bee8ff178a103f80468e7e0ad747b5d8cbf0c73cf0d14618d6a681b6de6"
+    }
+  ]
 }
