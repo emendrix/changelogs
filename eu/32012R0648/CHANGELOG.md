@@ -4068,7 +4068,7 @@ Paragraphs 1 through 5 remain textually the same between the two versions. [Art.
 
 A new paragraph 11 has been added stating that Member States' national insolvency laws shall not prevent a CCP from acting in accordance with Article 48(5), (6) and (7) with regard to the assets and positions recorded in accounts referred to in paragraphs 2 to 5 of Article 39. [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_39)
 
-All other paragraphs of Article 39, covering segregation, disclosure, right of use and the definition of assets, remain unchanged between the two versions. [Art. 39, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_39) [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_39)
+The rest of Article 39, covering paragraphs 1 through 10, remains unchanged between the two versions. [Art. 39, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#art_39) [Art. 39, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20191218#art_39)
 
 *before* (`02012R0648-20190617`)
 
@@ -4078,7 +4078,7 @@ All other paragraphs of Article 39, covering segregation, disclosure, right of u
 > 2. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions of that clearing member from those held for the accounts of its clients (omnibus client segregation).
 > 3. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions held for the account of a client from those held for the account of other clients (individual client segregation). Upon request, the CCP shall offer clearing members the possibility to open more accounts in their own name or for the account of their clients.
 > 4. A clearing member shall keep separate records and accounts that enable it to distinguish both in accounts held with the CCP and in its own accounts its assets and positions from the assets and positions held for the account of its clients at the CCP.
-> 5. A clearing member shall offer its clients, at least, the choice between omnibus client segregation and individual client segregation and inform them of the costs and level of protection referred to in paragraph 7 assoc […truncated by emendrix: 2055 characters omitted…]
+> 5. A clearing member shall offer its clients, at least, the choice between omnibus client segregation and individual client segregation and inform them of the costs and level of protection referred to in paragraph 7 assoc […truncated by emendrix: 2056 characters omitted…]
 
 *after* (`02012R0648-20191218`)
 
@@ -4088,7 +4088,7 @@ All other paragraphs of Article 39, covering segregation, disclosure, right of u
 > 2. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions of that clearing member from those held for the accounts of its clients (omnibus client segregation).
 > 3. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions held for the account of a client from those held for the account of other clients (individual client segregation). Upon request, the CCP shall offer clearing members the possibility to open more accounts in their own name or for the account of their clients.
 > 4. A clearing member shall keep separate records and accounts that enable it to distinguish both in accounts held with the CCP and in its own accounts its assets and positions from the assets and positions held for the account of its clients at the CCP.
-> 5. A clearing member shall offer its clients, at least, the choice between omnibus client segregation and individual client segregation and inform them of the costs and level of protection referred to in paragraph 7 assoc […truncated by emendrix: 2295 characters omitted…]
+> 5. A clearing member shall offer its clients, at least, the choice between omnibus client segregation and individual client segregation and inform them of the costs and level of protection referred to in paragraph 7 assoc […truncated by emendrix: 2296 characters omitted…]
 
 **MODIFIED · Art. 56** · applies from: unknown
 
