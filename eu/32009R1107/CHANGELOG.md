@@ -320,7 +320,7 @@ The added table lists numbered entries covering a wide range of chemical substan
 ### `02009R1107-20190715` → `02009R1107-20191214`
 
 - **Act** `eu:32009R1107` · **In force** 2019-12-14 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 87 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20190715` · `v2` = `02009R1107-20191214`
