@@ -1337,32 +1337,12 @@ It further states that Article 77(2) and Article 78a of Regulation (EU) No 575/2
 ### `02014R0806-20220812` → `02014R0806-20240513`
 
 - **Act** `eu:32014R0806` · **In force** 2024-05-13 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **2 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20220812` · `v2` = `02014R0806-20240513`
 
 ---
-
-**MODIFIED · Art. 3** · applies from: unknown
-
-*amended by* `32024L1174`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 12d** · applies from: unknown
-
-*amended by* `32024L1174`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 12g — Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities** · applies from: unchanged
 
