@@ -97,11 +97,11 @@ Paragraph 2 no longer describes the exemption as a Member State option but state
 
 *within* `AR 6 PA 2 ALN 1`, `AR 6 PA 2 ALN 2`, `AR 6 PA 4`, `AR 6 PA 5`, `AR 6 PA 6`, `AR 6 PA 7`, `AR 6 PA 8` · *dates* +2019-03-14 +2025-12-05 · *amended by* `32024R2809`
 
-Paragraph 2 now requires the prospectus itself to be a document of standardised format with information presented in a standardised sequence in accordance with delegated acts under Article 13(1), and it adds a derogation allowing information in a universal registration document to depart from the standardised format, sequence, maximum length, template and layout, including font size and style requirements. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_6)
+Paragraph 2 now requires the prospectus to be a document of a standardised format with information presented in a standardised sequence in accordance with delegated acts under Article 13(1), and it adds a derogation allowing a universal registration document to disregard the standardised format, sequence, maximum length, template and layout requirements, including font size and style, under specified conditions. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_6)
 
-New paragraphs 4, 5 and 6 have been added, imposing a 300-side A4 maximum length and readability requirements for share prospectuses, excluding certain items such as the summary and incorporated-by-reference information from that length count, and creating a derogation from the standardised format, length, template and layout rules for securities admitted to trading in the Union while simultaneously offered or privately placed in a third country. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_6)
+New paragraphs 4 through 8 were added, imposing a 300-side maximum length and readability requirements for share prospectuses, excluding certain items from that length count, providing a derogation from the format, sequence and length rules for securities admitted to trading in the Union while simultaneously offered in a third country, and directing ESMA to develop guidelines on plain language and draft implementing technical standards on template, layout, font size and style, to be submitted to the Commission by 5 December 2025. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_6)
 
-New paragraphs 7 and 8 have been added directing ESMA to develop guidelines on comprehensibility and plain language and to develop draft implementing technical standards on template and layout, with paragraph 8 stating that ESMA shall submit those draft standards to the Commission by 5 December 2025. [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_6)
+The earlier version's paragraph 2 contained only the general requirement that information be written and presented in an easily analysable, concise and comprehensible form, without any of these standardised-format, length, or ESMA mandate provisions. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_6)
 
 *before* (`02017R1129-20260305`)
 
@@ -134,7 +134,7 @@ New paragraphs 7 and 8 have been added directing ESMA to develop guidelines on c
 > (c) the circumstances of the issuer;
 > (d) where relevant, whether or not the non-equity securities have a denomination per unit of at least EUR 100000 or are to be traded only on a regulated market, or a specific segment thereof, to which only qualified investors can have access for the purposes of trading in the securities.
 > 2. The prospectus shall be a document of a standardised format and the information disclosed in a prospectus shall be presented in a standardised sequence, in accordance with the delegated acts referred to in Article 13(1). The information in a prospectus shall be written and presented in an easily analysable, concise and comprehensible form, taking into account the factors set out in paragraph 1, second subparagraph, of this Article.
-> By way of derogation from the first subparagraph, from paragraphs 4 and 5 and from the requirements set out in the implementing technical standards adopted purs […truncated by emendrix: 3491 characters omitted…]
+> By way of derogation from the first subparagraph, from paragraphs 4 and 5 and from the requirements set out in the implementing technical standards adopted purs […truncated by emendrix: 3492 characters omitted…]
 
 **MODIFIED · Art. 7 — The prospectus summary** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -142,11 +142,11 @@ New paragraphs 7 and 8 have been added directing ESMA to develop guidelines on c
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The revised text specifies that the four summary sections, and the items and warnings within paragraphs 4 through 8, must appear in a stated order, and allows the summary to present or summarise information using charts, graphs or tables. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7)
+The revised text adds a new warning item requiring, where applicable, a statement that the company has identified environmental issues as a material risk factor in accordance with Article 16, and adds a new sub-point requiring, for issuers of equity securities subject to Article 8 of Regulation (EU) 2020/852, a statement on whether the issuer's activities are associated with environmentally sustainable economic activities under that Regulation. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7)
 
-It adds a new warning item on an environmental issues statement under Article 16 and a new item under paragraph 6 requiring, for equity issuers subject to Article 8 of Regulation (EU) 2020/852, a statement on whether the issuer's activities are associated with environmentally sustainable economic activities under Articles 3 and 9 of that Regulation. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7)
+The revised text also inserts express language stating that the sections and information items in paragraphs 4, 5, 6, 7 and 8 must appear in a stated order, and adds a new statement in paragraph 3 permitting the summary to present or summarise information using charts, graphs or tables. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7)
 
-The rule on extending the maximum page length when guarantor information is included is changed from a flat one additional side to one additional side per guarantor, conditioned on those extra sides being dedicated to describing the guarantors. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7) [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_7)
+The rule on extending the maximum page length where guarantor information is included in paragraph 7 was changed from a flat one-side extension to a one-side-per-guarantor extension conditioned on those extra sides being dedicated to describing the guarantors. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_7)
 
 *before* (`02017R1129-20260305`)
 
@@ -172,7 +172,7 @@ The rule on extending the maximum page length when guarantor information is incl
 > 2. The content of the summary shall be accurate, fair and clear and shall not be misleading. It is to be read as an introduction to the prospectus and it shall be consistent with the other parts of the prospectus.
 > 3. The summary shall be drawn up as a short document written in a concise manner and of a maximum length of seven sides of A4-sized paper when printed. The summary shall:
 > (a) be presented and laid out in a way that is easy to read, using characters of readable size;
-> (b) be written in a language and a style that facilitate the understanding of the information, in particular, in l […truncated by emendrix: 16136 characters omitted…]
+> (b) be written in a language and a style that facilitate the understanding of the information, in particular, in l […truncated by emendrix: 16137 characters omitted…]
 
 **MODIFIED · Art. 9** · applies from: unknown
 
@@ -198,11 +198,11 @@ The rule on extending the maximum page length when guarantor information is incl
 
 *within* `AR 13 PA 1 ALN 1`, `AR 13 PA 1 ALN 1 PTA (e)`, `AR 13 PA 1 ALN 1 PTA (f)`, `AR 13 PA 1 ALN 1 PTA (g)`, `AR 13 PA 1a`, `AR 13 PA 2 ALN 1` · *dates* -2019-01-21 +2013-06-26 +2023-11-22 +2026-06-05 · *amended by* `32024R2809`
 
-Paragraph 1 now sets a deadline of 5 June 2026 for the Commission to adopt the delegated acts and refers to a standardised format and standardised sequence of the prospectus rather than simply its format, replacing the earlier open-ended wording. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13)
+The deadline for the Commission to adopt delegated acts on prospectus format has changed from 21 January 2019 to 5 June 2026, and the subject matter was expanded from the format of the prospectus to a standardised format and standardised sequence. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13)
 
-The list of matters to be taken into account when setting prospectus schedules gains two new points, one on sustainability reporting and assurance opinions for issuers of equity securities under Directive 2004/109/EC and Directive 2013/34/EU, and one on whether non-equity securities are advertised as taking ESG factors or objectives into account. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13)
+Two new factors were added to the list to be taken into account when setting out prospectus schedules, covering sustainability reporting obligations under Directive 2004/109/EC and Directive 2013/34/EU, and whether non-equity securities are advertised as taking into account ESG factors or pursuing ESG objectives. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13)
 
-A new paragraph 1a is added addressing European Green Bonds and sustainability-linked or environmentally sustainable bonds under Regulation (EU) 2023/2631, and paragraph 2's deadline for the universal registration document schedule is changed from 21 January 2019 to 5 June 2026, with its wording changed from defining to specifying the minimum information. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13) [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260305#art_13)
+A new paragraph 1a was added specifying that, for the purposes of the ESG-advertising point, prospectuses for European Green Bonds must incorporate by reference the European Green Bond factsheet under Regulation (EU) 2023/2631, and prospectuses for bonds marketed as environmentally sustainable or sustainability-linked bonds must include the optional disclosures under that Regulation where the issuer has opted in, while paragraph 2's deadline for the universal registration document schedule was also changed to 5 June 2026. [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_13)
 
 *before* (`02017R1129-20260305`)
 
@@ -228,7 +228,7 @@ A new paragraph 1a is added addressing European Green Bonds and sustainability-l
 > (c) the format used and the information required in base prospectuses relating to non-equity securities, including warrants in any form;
 > (d) where applicable, the public nature of the issuer;
 > (e) where applicable, the specific nature of the activities of the issuer;
-> (f) whether the issuer of equity securities is required to provide sustainability reporting, together with the related assurance opinion, in accordance with Directive 2004/109/EC and Directive 2013/34/EU of the Euro […truncated by emendrix: 3410 characters omitted…]
+> (f) whether the issuer of equity securities is required to provide sustainability reporting, together with the related assurance opinion, in accordance with Directive 2004/109/EC and Directive 2013/34/EU of the Euro […truncated by emendrix: 3412 characters omitted…]
 
 **DELETED · Art. 14** · applies from: unknown
 
