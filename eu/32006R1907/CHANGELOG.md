@@ -348,7 +348,7 @@ Beyond this addition to the footnote references, the visible body text of Annex 
 ### `02006R1907-20230629` → `02006R1907-20230806`
 
 - **Act** `eu:32006R1907` · **In force** 2023-08-06 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20230629` · `v2` = `02006R1907-20230806`
