@@ -136,7 +136,7 @@ No other wording in these paragraphs was altered between the two versions. [Art.
 ### `02014R1286-20141229` → `02014R1286-20161224`
 
 - **Act** `eu:32014R1286` · **In force** 2016-12-24 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 0 substantive · 1 date-only · **0 disputed**
+- **Touched** 1 provisions — 0 substantive · 1 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 0 modified · 0 deleted · 0 renumbered · 1 deferred · 33 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R1286-20141229` · `v2` = `02014R1286-20161224`
