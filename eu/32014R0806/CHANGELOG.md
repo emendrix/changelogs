@@ -1403,7 +1403,7 @@ The earlier version of Article 12g contained none of these consolidated-basis pr
 ### `02014R0806-20210626` → `02014R0806-20220812`
 
 - **Act** `eu:32014R0806` · **In force** 2022-08-12 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20210626` · `v2` = `02014R0806-20220812`
