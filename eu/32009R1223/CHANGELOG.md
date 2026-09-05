@@ -1978,7 +1978,7 @@ A new condition of use is added for entry 4 stating that it is not to be more th
 ### `02009R1223-20170303` → `02009R1223-20170727`
 
 - **Act** `eu:32009R1223` · **In force** 2017-07-27 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20170303` · `v2` = `02009R1223-20170727`
