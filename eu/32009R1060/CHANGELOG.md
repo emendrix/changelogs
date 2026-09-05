@@ -4021,7 +4021,7 @@ It lists seven aggravating factors, each carrying its own numerical coefficient,
 ### `32009R1060` → `02009R1060-20091207`
 
 - **Act** `eu:32009R1060` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 42 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32009R1060` · `v2` = `02009R1060-20091207`
@@ -4032,7 +4032,7 @@ It lists seven aggravating factors, each carrying its own numerical coefficient,
 
 *within* `AN I SCT C SCT 3 PTA (c)`
 
-In Section C, point 3(c), the description of the natural person receiving confidential information changed from being someone who "is directly involved" in credit rating activities to someone who "is not directly involved" in credit rating activities. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1060#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#anx_I)
+In Section C, point 3(c), the description of the natural persons with whom confidential information must not be shared now includes the qualifier that such persons are not directly involved in the credit rating activities, whereas the earlier version described them as being directly involved in those activities. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1060#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#anx_I)
 
 *before* (`32009R1060`)
 
@@ -4047,7 +4047,7 @@ In Section C, point 3(c), the description of the natural person receiving confid
 > 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 25879 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 25883 characters omitted…]
 
 *after* (`02009R1060-20091207`)
 
@@ -4062,6 +4062,6 @@ In Section C, point 3(c), the description of the natural person receiving confid
 > 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 25883 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 25887 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20091207 -->
 
