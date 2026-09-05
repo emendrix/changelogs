@@ -5830,7 +5830,7 @@ Both texts are truncated before the full list of hazard statement entries conclu
 ### `02008R1272-20150101` → `02008R1272-20150601`
 
 - **Act** `eu:32008R1272` · **In force** 2015-04-01, 2015-06-01 · **Detected** 2026-08-13
-- **Touched** 10 provisions — 10 substantive · 0 date-only · **7 disputed**
+- **Touched** 10 provisions — 10 substantive · 0 date-only · 0 with no text · **7 disputed**
 - **Diff** 0 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 59 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20150101` · `v2` = `02008R1272-20150601`
@@ -5843,7 +5843,7 @@ Both texts are truncated before the full list of hazard statement entries conclu
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The only visible difference in point (b) of Article 14(2)(1) is that the semicolon at the end of the sentence has been replaced with a full stop. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#art_14)
+The only visible change is the punctuation ending point (b) of Article 14(2)(1), which switches from a semicolon to a full stop. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#art_14)
 
 *before* (`02008R1272-20150101`)
 
@@ -5856,7 +5856,8 @@ The only visible difference in point (b) of Article 14(2)(1) is that the semicol
 > 2. A mixture need not be classified for explosive, oxidising, or flammable properties as referred to in Part 2 of Annex I provided that any of the following requirements are met:
 > (a) none of the substances in the mixture possesses any of those properties and, on the basis of the information available to the supplier, the mixture is unlikely to present hazards of this kind;
 > (b) in the event of a change in the composition of a mixture, scientific evidence indicates that an evaluation of the information on the mixture will not lead to a change in classification;
-> (c) where a mixture is placed on the market in the form of an aerosol dispenser, it satisfies Article 8(1a) of Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensersOJ L 147, 9.6.1975, p. 40..
+> (c) where a mixture is placed on the market in the form of an aerosol dispenser, it satisfies Article 8(1a) of Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers
+> OJ L 147, 9.6.1975, p. 40..
 
 *after* (`02008R1272-20150601`)
 
@@ -5869,7 +5870,8 @@ The only visible difference in point (b) of Article 14(2)(1) is that the semicol
 > 2. A mixture need not be classified for explosive, oxidising, or flammable properties as referred to in Part 2 of Annex I provided that any of the following requirements are met:
 > (a) none of the substances in the mixture possesses any of those properties and, on the basis of the information available to the supplier, the mixture is unlikely to present hazards of this kind;
 > (b) in the event of a change in the composition of a mixture, scientific evidence indicates that an evaluation of the information on the mixture will not lead to a change in classification.
-> (c) where a mixture is placed on the market in the form of an aerosol dispenser, it satisfies Article 8(1a) of Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensersOJ L 147, 9.6.1975, p. 40..
+> (c) where a mixture is placed on the market in the form of an aerosol dispenser, it satisfies Article 8(1a) of Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers
+> OJ L 147, 9.6.1975, p. 40..
 
 **MODIFIED · Art. 23 — Derogations from labelling requirements for special cases** · applies from: unchanged
 
@@ -5908,9 +5910,7 @@ The prior version's point (e) on explosives remains present, with the semicolon 
 
 *within* `AR 35 PA 2 ALN 2` · *dates* +2004-03-31 · *amended by* `32014R1297`
 
-A new paragraph is added to Article 35(2) stating that where a liquid consumer laundry detergent, as defined in Article 2(1a) of Regulation (EC) No 648/2004, is contained in a soluble packaging for single use, the additional requirements of section 3.3 of Annex II apply. [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#art_35)
-
-This paragraph and its reference to detergents in soluble single-use packaging are not present in the earlier version of Article 35(2). [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#art_35)
+A new provision was added to paragraph 2 stating that where a liquid consumer laundry detergent, as defined in Article 2(1a) of Regulation (EC) No 648/2004, is contained in a soluble packaging for single use, the additional requirements of section 3.3 of Annex II apply. [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#art_35)
 
 *before* (`02008R1272-20150101`)
 
@@ -5936,7 +5936,7 @@ This paragraph and its reference to detergents in soluble single-use packaging a
 > (d) packaging fitted with replaceable fastening devices shall be designed so that it can be refastened repeatedly without the contents escaping.
 > 2. Packaging containing a hazardous substance or a mixture supplied to the general public shall not have either a shape or design likely to attract or arouse the active curiosity of children or to mislead consumers, or have a similar presentation or a design used for foodstuff or animal feeding stuff or medicinal or cosmetic products, which would mislead consumers.
 > Where the packaging contains a substance or mixture which meets the requirements in section 3.1.1 of Annex II it shall have a child-resistant fastening in accordance with sections 3.1.2, 3.1.3 and 3.1.4.2 of Annex II.
-> Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 701 characters omitted…]
+> Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 702 characters omitted…]
 
 **MODIFIED · Annex I — CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES** · applies from: unchanged
 
@@ -5944,11 +5944,11 @@ This paragraph and its reference to detergents in soluble single-use packaging a
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-A new section 1.3.6 was added addressing substances or mixtures classified as corrosive to metals but not corrosive to skin and/or eyes, stating that when packaged for consumer use in the finished state, the label need not carry the GHS05 pictogram. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_I)
+A new sub-section 1.3.6 was added covering substances or mixtures classified as corrosive to metals but not corrosive to skin and/or eyes, stating that in finished consumer packaging they do not require the GHS05 pictogram on the label. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_I)
 
-New sections 1.5.2.4 and 1.5.2.5 were added, introducing a labelling exemption for inner packaging containing 10 ml or less supplied for scientific research and development or quality control analysis, subject to conditions on product identifier, pictograms, and outer packaging, with an exclusion for substances or mixtures within the scope of Regulation (EC) No 1107/2009 or (EU) No 528/2012. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_I)
+New sub-sections 1.5.2.4 and 1.5.2.5 were added, introducing an exemption from certain Article 17 labelling requirements for inner packaging not exceeding 10 ml supplied for scientific research, development or quality control, subject to specified conditions and a listed pictogram requirement, and excluding substances or mixtures within the scope of Regulation (EC) No 1107/2009 or (EU) No 528/2012 from that exemption. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_I)
 
-Section 2.2 was retitled to include chemically unstable gases, its former single definition in 2.2.1 was split into two numbered definitions in 2.2.1.1 and 2.2.1.2, and a new definition of a chemically unstable gas was added, while numerous cross-references to the UN Recommendations on the Transport of Dangerous Goods were shortened to "UN RTDG" throughout sections 2.1.2 through 2.1.4 and one precautionary statement code in Table 2.1.2 was changed from P281 to P280. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_I)
+Section 2.2 was retitled to include chemically unstable gases, its definition sub-section was renumbered and split into 2.2.1.1 and a new 2.2.1.2 defining a chemically unstable gas, and several references to the UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria were shortened to "UN RTDG, Manual of Tests and Criteria"; the remainder of the differences in the listed sub-provisions falls beyond the point where the supplied text is truncated. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_I)
 
 *before* (`02008R1272-20150101`)
 
@@ -5969,7 +5969,7 @@ Section 2.2 was retitled to include chemically unstable gases, its former single
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 301308 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 301332 characters omitted…]
 
 *after* (`02008R1272-20150601`)
 
@@ -5990,7 +5990,7 @@ Section 2.2 was retitled to include chemically unstable gases, its former single
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305629 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305653 characters omitted…]
 
 **MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
 
@@ -6050,11 +6050,11 @@ The former section 3.2.2 provisions on tactile warning device specifications are
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata
 
-The heading and scope for hazard code H222/H223 changed from "Flammable aerosols" to "Aerosols", and the Swedish, Dutch and Polish translation entries under H223 were altered accordingly. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_III)
+The heading for hazard code H222/H223 was changed from "Flammable aerosols" to "Aerosols" in the physical hazards table. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_III)
 
-A new entry for H229, covering pressurised aerosol containers that may burst if heated, was added after H228, along with new entries for H230 and H231 covering chemically unstable flammable gases that may react explosively even without air, in various hazard categories. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_III)
+A new entry for hazard statement H229, covering pressurised containers that may burst if heated, was added under the Aerosols heading, along with new entries H230 and H231 covering flammable gases including chemically unstable gases. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_III)
 
-These additions and the heading change do not appear in the earlier version of the table. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_III)
+In the earlier text the Croatian translation was present for H223, while in the later text that Croatian line is absent from the corresponding entry. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_III)
 
 *before* (`02008R1272-20150101`)
 
@@ -6070,7 +6070,8 @@ These additions and the heading change do not appear in the earlier version of t
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -6100,7 +6101,8 @@ These additions and the heading change do not appear in the earlier version of t
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -6300,11 +6302,11 @@ In section 3.1 the aquatic environment hazard labels are reworded, changing "Acu
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.2`, `AN VI SCT 1 SCT 1.2 SCT 1.2.3`, `AN VI SCT 3` · *amended by* `32014R0605`
 
-Table 1.1 now includes additional hazard class and category codes for chemically unstable gases and replaces the flammable aerosol categories with a differently named aerosol category set spanning three categories instead of two. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VI)
+Table 1.1 in section 1.1.2.1.1 adds new hazard class and category codes, splitting the former 'Flammable aerosol' row into separate Chemically Unstable Gas categories A and B alongside the Flam. Gas 1 and 2 codes, and replacing the 'Flammable aerosol' entries with a broader 'Aerosol' class containing three categories. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VI)
 
-The explanatory text on hazard statement codes now describes the added letters as differentiating the 3-digit hazard statement code, rather than simply being added to it. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VI)
+Section 1.1.2.1.2 rewords the sentence describing how letters are added to hazard statement codes, now saying the letters are added to the 3-digit hazard statement code for further differentiations rather than simply to the 3-digit code. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VI)
 
-Section 1.2.3 now describes H360 and H361 as covering effects on fertility and/or development rather than both, and replaces the earlier explanation of when the general statement may be replaced with wording referring to section 1.1.2.1.2 and to the obligations in Article 4(3) where a differentiation is not mentioned. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VI)
+Section 1.2.3 rewrites its description of hazard statements H360 and H361, changing the phrase about fertility and development, altering how replacement of the general hazard statement is described, and adding new text about the consequence of an unmentioned differentiation and a reference to the obligations in Article 4(3), while the Part 3 introductory text and Table 3.1 entries shown remain textually the same apart from the truncation point being reached earlier in the after text. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VI)
 
 *before* (`02008R1272-20150101`)
 
@@ -6317,7 +6319,7 @@ Section 1.2.3 now describes H360 and H361 as covering effects on fertility and/o
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1964971 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1964972 characters omitted…]
 
 *after* (`02008R1272-20150601`)
 
@@ -6330,7 +6332,7 @@ Section 1.2.3 now describes H360 and H361 as covering effects on fertility and/o
 > 1.1. Information listed for each entry
 > 1.1.1. Numbering of entries and identification of a substance
 > 1.1.1.1. Index numbers
-> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1971043 characters omitted…]
+> Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most characterist […truncated by emendrix: 1971044 characters omitted…]
 
 **MODIFIED · Annex VII — Translation table from classification under Directive 67/548/EEC to classification under this Regulation** · applies from: unchanged
 
