@@ -128,7 +128,7 @@ Point (c) of paragraph 6 now excludes from the combination limit any financial d
 ### `02017R1131-20190101` → `02017R1131-20240109`
 
 - **Act** `eu:32017R1131` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R1131-20190101` · `v2` = `02017R1131-20240109`
