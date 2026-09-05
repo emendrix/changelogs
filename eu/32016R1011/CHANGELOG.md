@@ -67,9 +67,11 @@ Point (g) of paragraph 2, which previously excluded a commodity benchmark from s
 
 *within* `AR 3 PA 1 ALN 1 PO 17 PTA (m)`, `AR 3 PA 1 ALN 1 PO 24 PTA (a) PTI (ii)`, `AR 3 PA 1 ALN 1 PO 24 PTA (a) PTI (iii)` · *amended by* `32025R0914`
 
-In point (17)(m) of Article 3(1), the definition of supervised entity now specifies that an administrator qualifies only if authorised or registered pursuant to Article 34, whereas the prior text simply said an administrator. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_3)
+In the definition of supervised entity, point (m) now describes an administrator as one authorised or registered pursuant to Article 34, whereas previously it referred simply to an administrator with no such qualification. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_3)
 
-In point (24)(a)(ii) and (iii), the references identifying an approved publication arrangement, a consolidated tape provider and an approved reporting mechanism were changed from citations to Article 4(1) of Directive 2014/65/EU to citations to Article 2(1) of Regulation (EU) No 600/2014. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_3)
+In the definition of regulated-data benchmark, the reference for an approved publication arrangement and a consolidated tape provider was changed from point (52) and point (53) of Article 4(1) of Directive 2014/65/EU to point (34) and point (35) of Article 2(1) of Regulation (EU) No 600/2014, respectively. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_3)
+
+Similarly, the reference for an approved reporting mechanism was changed from point (54) of Article 4(1) of Directive 2014/65/EU to point (36) of Article 2(1) of Regulation (EU) No 600/2014. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_3)
 
 *before* (`02016R1011-20250117`)
 
@@ -87,7 +89,7 @@ In point (24)(a)(ii) and (iii), the references identifying an approved publicati
 > (5) provision of a benchmark means:
 > (a) administering the arrangements for determining a benchmark;
 > (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
-> (c) determining a benchmark through the application of […truncated by emendrix: 15491 characters omitted…]
+> (c) determining a benchmark through the application of […truncated by emendrix: 15502 characters omitted…]
 
 *after* (`02016R1011-20260101`)
 
@@ -105,7 +107,7 @@ In point (24)(a)(ii) and (iii), the references identifying an approved publicati
 > (5) provision of a benchmark means:
 > (a) administering the arrangements for determining a benchmark;
 > (b) collecting, analysing or processing input data for the purpose of determining a benchmark; and
-> (c) determining a benchmark through the application of […truncated by emendrix: 15557 characters omitted…]
+> (c) determining a benchmark through the application of […truncated by emendrix: 15568 characters omitted…]
 
 **MODIFIED · Art. 5** · applies from: unknown
 
@@ -366,11 +368,11 @@ No such paragraph existed in the earlier version of the Article. [Art. 25, v1](h
 
 *within* `AR 27 PA 2a ALN 1`, `AR 27 PA 2a ALN 2`, `AR 27 PA 2a ALN 3`, `AR 27 PA 2aa`, `AR 27 PA 2b ALN 1` · *dates* -2019-12-09 -2020-04-30 -2021-12-31 · *amended by* `32025R0914`
 
-Paragraph 2a no longer sets an April 2020 or December 2021 deadline or requires an ESG-factor explanation tied to each requirement in paragraph 2, and instead retains only the disclosure obligation on carbon-emission and Paris Agreement alignment for significant equity and bond benchmarks and for EU Climate Transition and EU Paris-aligned Benchmarks. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
+Paragraph 2a has been reduced to the requirement, previously present, that significant equity and bond benchmarks and EU Climate Transition and Paris-aligned Benchmarks disclose alignment with carbon-emission reduction or Paris Agreement objectives, while the earlier general requirement for all benchmark statements to explain how ESG factors are reflected, the deadline-based wording, the statement about no such benchmarks being available, and the further requirement on explaining methodology alignment for benchmarks other than interest rate and foreign exchange benchmarks have been removed. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
 
-A new paragraph 2aa now requires an administrator whose benchmark or family of benchmarks references consideration of ESG factors in its legal or marketing documentation to publish an explanation of how those factors are reflected for each element listed in paragraph 2, with that explanation to be included in the benchmark statement where one is published under paragraph 1. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
+A new paragraph 2aa has been added requiring an administrator to publish an explanation of how ESG factors are reflected for the elements listed in paragraph 2 where the benchmark's legal or marketing documentation refers to consideration of ESG factors, with that explanation to be included in the benchmark statement where one is published under paragraph 1. [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
 
-Paragraph 2b was updated to refer to the information required under paragraphs 2a and 2aa rather than solely under paragraph 2a, reflecting the removal of the earlier general ESG-explanation requirement and the addition of the new paragraph 2aa. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
+Paragraph 2b now refers to the Commission's power to specify information under both paragraphs 2a and 2aa, rather than only paragraph 2a as before, and the reference to Regulation (EU) 2019/2088 has been expanded to include an ELI hyperlink citation. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_27)
 
 *before* (`02016R1011-20250117`)
 
@@ -382,7 +384,7 @@ Paragraph 2b was updated to refer to the information required under paragraphs 2
 > The benchmark statement shall:
 > (a) clearly and unambiguously define the market or economic reality measured by the benchmark and the circumstances in which such measurement may become unreliable;
 > (b) lay down technical specifications that clearly and unambiguously identify the elements of the calculation of the benchmark in relation to which discretion may be exercised, the criteria applicable to the exercise of such discretion and the position of the persons that can exercise discretion, and how such discretion may be subsequently evaluated;
-> (c) provide notice o […truncated by emendrix: 4750 characters omitted…]
+> (c) provide notice o […truncated by emendrix: 4751 characters omitted…]
 
 *after* (`02016R1011-20260101`)
 
@@ -394,7 +396,7 @@ Paragraph 2b was updated to refer to the information required under paragraphs 2
 > The benchmark statement shall:
 > (a) clearly and unambiguously define the market or economic reality measured by the benchmark and the circumstances in which such measurement may become unreliable;
 > (b) lay down technical specifications that clearly and unambiguously identify the elements of the calculation of the benchmark in relation to which discretion may be exercised, the criteria applicable to the exercise of such discretion and the position of the persons that can exercise discretion, and how such discretion may be subsequently evaluated;
-> (c) provide notice o […truncated by emendrix: 4111 characters omitted…]
+> (c) provide notice o […truncated by emendrix: 4112 characters omitted…]
 
 **MODIFIED · Art. 28 — Changes to and cessation of a benchmark** · applies from: unchanged
 
@@ -420,11 +422,11 @@ In paragraph 2, the requirement that supervised entities reflect their contingen
 
 *within* `AR 29`, `AR 29 PA 1 ALN 1`, `AR 29 PA 1 ALN 2`, `AR 29 PA 1 ALN 3`, `AR 29 PA 1 ALN 4`, `AR 29 PA 1b`, `AR 29 PA 2 ALN 1`, `AR 29 PA 2 ALN 2` · *dates* +2017-06-14 · *amended by* `32025R0914`
 
-The heading and Article 29(1) shift from a general permission to use any registered benchmark to a prohibition on adding new references to a significant, critical, commodity (Annex II), EU Climate Transition or EU Paris-aligned benchmark whose administrator is subject to a public notice under Article 24a(6) or not on the Article 36 register, with new provisions on ESAP/register consultation and on ESMA or competent authority allowing continued use for 6 to 24 months in specified circumstances. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
+The heading and Article 29 itself now name critical, significant, commodity (Annex II), EU Climate Transition and EU Paris-aligned benchmarks specifically, replacing the earlier general reference to a benchmark provided by a Union-located or registered administrator. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
 
-A new paragraph 1b requires a supervised entity using an affected benchmark in existing contracts or instruments to replace it within 6 months of a public notice under Article 24a(6) or to publish a reasoned statement explaining why it has not done so, a requirement not present in the earlier text. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
+Paragraph 1 changed from permitting use of a registered benchmark to prohibiting supervised entities from adding new references to a significant benchmark subject to a public notice under Article 24a(6), or to a critical, commodity (Annex II), EU Climate Transition or EU Paris-aligned benchmark whose administrator is not on the register, and it adds text on consultation of ESAP or the register and on a derogation allowing continued use for 6 to 24 months with listed factors for setting that period. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
 
-Paragraph 2 changes its reference from prospectuses under Directive 2003/71/EC to prospectuses under Regulation (EU) 2017/1129, expands the categories of referenced benchmarks to include critical, significant, commodity, Climate Transition and Paris-aligned benchmarks, and adds a further subparagraph requiring prospectuses to reflect, without undue delay, any public notice under Article 24a(6) entered in the Article 36 register, compared with the earlier single-paragraph wording. [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
+A new paragraph 1b requires replacement of a benchmark subject to a public notice within six months or publication of a reasoned statement, and paragraph 2 now refers to Regulation (EU) 2017/1129 instead of Directive 2003/71/EC, lists the additional benchmark types, and adds a further subparagraph on including public-notice information in the prospectus without undue delay. [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_29)
 
 *before* (`02016R1011-20250117`)
 
@@ -441,7 +443,7 @@ Paragraph 2 changes its reference from prospectuses under Directive 2003/71/EC t
 > 1. A supervised entity shall not add new references to a significant benchmark or a combination of such benchmarks in the Union where that benchmark or combination of benchmarks is the object of a public notice issued by a competent authority or ESMA in accordance with Article 24a(6). A supervised entity shall not add new references to a critical benchmark, a commodity benchmark subject to Annex II, an EU Climate Transition Benchmark, an EU Paris-aligned Benchmark or a combination that includes any such benchmarks in the Union where the administrator of those benchmarks is not included in the register referred to in Article 36.
 > Supervised entities shall regularly consult ESAP or the register referred to in Article 36 to verify the regulatory status of the administrators of critical benchmarks, significant benchmarks, commodity benchmarks subject to Annex II, EU Climate Transition Benchmarks or EU Paris-Aligned Benchmarks they intend to use.
 > By way of derogation from the first subparagraph, and where necessary to avoid serious market disruptions, ESMA or the competent authority, as applicable, may allow the use of a benchmark subject to a public notice issued in accordance with Article 24a(6) for a period of between 6 and 24 months following the publication of the public notice.
-> ESMA or the competent authority […truncated by emendrix: 2793 characters omitted…]
+> ESMA or the competent authority […truncated by emendrix: 2794 characters omitted…]
 
 **MODIFIED · Art. 32 — Recognition of an administrator located in a third country** · applies from: unchanged
 
@@ -632,9 +634,9 @@ The prior version of Article 41(1) ended at point (j) and contained no equivalen
 
 *within* `AR 42 PA 1 ALN 1 PTA (a)`, `AR 42 PA 2 ALN 1 PTA (g) PTI (i)`, `AR 42 PA 2 ALN 1 PTA (h) PTI (i)` · *amended by* `32025R0914`
 
-In the list of articles whose infringement can trigger administrative sanctions, a reference to Article 24a has been inserted alongside the existing reference to Article 24 in point (a) of paragraph 1. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_42)
+The list of articles whose infringement can trigger administrative sanctions and other administrative measures under paragraph 1(a) now includes Article 24a alongside the previously listed articles. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_42)
 
-The same addition of a reference to Article 24a next to Article 24 appears in the lists of infringements underlying the pecuniary sanction thresholds for natural persons in point (g)(i) and for legal persons in point (h)(i) of paragraph 2. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_42)
+The corresponding lists of infringements subject to maximum administrative pecuniary sanctions for natural persons in paragraph 2(g)(i) and for legal persons in paragraph 2(h)(i) likewise now include Article 24a. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_42)
 
 *before* (`02016R1011-20250117`)
 
@@ -647,7 +649,7 @@ The same addition of a reference to Article 24a next to Article 24 appears in th
 > 2. In the event of an infringement referred to in paragraph 1, Member States shall, in conformity with national law, confer on competent authorities the power to impose at least the following administrative sanctions and other administrative measures:
 > (a) an order requiring the administrator or supervised entity responsible for the infringement to cease the conduct and to desist from repeating that conduct;
 > (b) the disgorgement of the profits gained or losses avoided because of the infringement where those can be determined;
-> (c) a public warning which indicates the administrator or supervised entity responsible and the n […truncated by emendrix: 4342 characters omitted…]
+> (c) a public warning which indicates the administrator or supervised entity responsible and the n […truncated by emendrix: 4345 characters omitted…]
 
 *after* (`02016R1011-20260101`)
 
@@ -660,7 +662,7 @@ The same addition of a reference to Article 24a next to Article 24 appears in th
 > 2. In the event of an infringement referred to in paragraph 1, Member States shall, in conformity with national law, confer on competent authorities the power to impose at least the following administrative sanctions and other administrative measures:
 > (a) an order requiring the administrator or supervised entity responsible for the infringement to cease the conduct and to desist from repeating that conduct;
 > (b) the disgorgement of the profits gained or losses avoided because of the infringement where those can be determined;
-> (c) a public warning which indicates the administrator or supervised entity responsible and […truncated by emendrix: 4357 characters omitted…]
+> (c) a public warning which indicates the administrator or supervised entity responsible and […truncated by emendrix: 4360 characters omitted…]
 
 **MODIFIED · Art. 48f — Fines** · applies from: unchanged
 
