@@ -2787,7 +2787,7 @@ In paragraph 2, the description of the information a competent authority must pr
 ### `32010R1093` → `02010R1093-20131030`
 
 - **Act** `eu:32010R1093` · **In force** 2013-10-30 · **Detected** 2026-08-13
-- **Touched** 33 provisions — 33 substantive · 0 date-only · **7 disputed**
+- **Touched** 33 provisions — 30 substantive · 0 date-only · 3 with no text · **7 disputed**
 - **Diff** 4 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 56 unchanged
 - **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `32010R1093` · `v2` = `02010R1093-20131030`
@@ -3085,7 +3085,7 @@ It also refers to the "Union acts" referred to in Article 1(2) instead of simply
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3765,7 +3765,7 @@ The same new article states that expenses are to be recorded publicly in accorda
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3791,7 +3791,7 @@ It further states that expenses shall be recorded publicly in accordance with th
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
