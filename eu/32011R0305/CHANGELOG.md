@@ -253,7 +253,7 @@ Section 2 adds a fourth category, the assessment validation body, defined as a b
 ### `02011R0305-20140616` → `02011R0305-20210716`
 
 - **Act** `eu:32011R0305` · **In force** 2021-07-16 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R0305-20140616` · `v2` = `02011R0305-20210716`
