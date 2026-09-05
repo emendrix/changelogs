@@ -88,7 +88,7 @@ The new paragraph 16 states that the ESRB shall report to the Commission by 11 N
 ### `32010R1092` → `02010R1092-20191230`
 
 - **Act** `eu:32010R1092` · **In force** 2019-12-30 · **Detected** 2026-09-04
-- **Touched** 17 provisions — 17 substantive · 0 date-only · **0 disputed**
+- **Touched** 17 provisions — 17 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 17 modified · 0 deleted · 0 renumbered · 0 deferred · 4 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32010R1092` · `v2` = `02010R1092-20191230`
