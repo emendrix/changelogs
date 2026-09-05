@@ -5642,7 +5642,7 @@ The visible portion of the text is truncated, so only these two language-line ed
 ### `02008R1272-20160101` → `02008R1272-20160401`
 
 - **Act** `eu:32008R1272` · **In force** not stated · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20160101` · `v2` = `02008R1272-20160401`
@@ -5653,11 +5653,11 @@ The visible portion of the text is truncated, so only these two language-line ed
 
 *within* `AN I SCT 2 SCT 2.1 SCT 2.1.2`, `AN I SCT 2 SCT 2.1 SCT 2.1.4`
 
-In section 2.1.2.3, the citation to Part I of the 'UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria' was shortened to 'Part I of the UN RTDG, Manual of Tests and Criteria'. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160101#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_I)
+In section 2.1.2.3, the citation to the source of the test series was changed from referring to 'Part I of the UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria' to the shorter form 'Part I of the UN RTDG, Manual of Tests and Criteria'. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160101#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_I)
 
-In section 2.1.4.1, the same phrase 'Part I of the UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria' was likewise shortened to 'Part I of the UN RTDG, Manual of Tests and Criteria'. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160101#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_I)
+In section 2.1.4.1, the same reference was likewise shortened from the full 'Part I of the UN Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria' wording to 'Part I of the UN RTDG, Manual of Tests and Criteria'. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160101#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_I)
 
-The remainder of the visible text in these sub-sections is otherwise identical, and the text was cut off before any further differences could be seen. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_I)
+Both changes appear to be wording simplifications with no other textual differences visible in the shown portions of these sub-provisions, and the text provided is truncated beyond section 2.2.2.1 of the after version. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_I)
 
 *before* (`02008R1272-20160101`)
 
@@ -5678,7 +5678,7 @@ The remainder of the visible text in these sub-sections is otherwise identical, 
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305629 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305653 characters omitted…]
 
 *after* (`02008R1272-20160401`)
 
@@ -5699,15 +5699,15 @@ The remainder of the visible text in these sub-sections is otherwise identical, 
 > 1.1.0. Cooperation to meet the requirements in this Regulation
 > Suppliers in a supply chain shall cooperate to meet the requirements for classification, labelling and packaging set out in this Regulation.
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
-> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305535 characters omitted…]
+> Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance with Title II of […truncated by emendrix: 305559 characters omitted…]
 
 **MODIFIED · Annex III — LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS** · applies from: unchanged
 
 *within* `AN III SCT 1`
 
-In the H223 flammable aerosol entry, the Croatian (HR) translation line, which was missing in the earlier version, is now present reading 'Zapaljivi aerosol.' [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_III)
+In the H223 entry for aerosols under Table 1.1, the Croatian (HR) translation line, previously missing, now appears with the text 'Zapaljivi aerosol.' [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_III)
 
-Both texts are truncated before the full list of hazard statement entries concludes, so any differences beyond the visible portion cannot be described. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160101#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_III)
+Both the before and after texts are cut off before the end of the section, so any further differences beyond this point cannot be described. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160101#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20160401#anx_III)
 
 *before* (`02008R1272-20160101`)
 
@@ -5723,7 +5723,8 @@ Both texts are truncated before the full list of hazard statement entries conclu
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
@@ -5753,7 +5754,8 @@ Both texts are truncated before the full list of hazard statement entries conclu
 > Table 1.1
 > Hazard statements for physical hazards
 > The codification system for GHS hazard statements is still under discussion in the UN Committee of Experts and therefore amendments might be needed.
-> H200 Language 2.1 — Explosives, Unstable explosives
+> H200
+> Language 2.1 — Explosives, Unstable explosives
 > BG Нестабилен експлозив.
 > ES Explosivo inestable.
 > CS Nestabilní výbušnina.
