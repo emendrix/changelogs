@@ -36436,7 +36436,7 @@ The new provision also states that the report shall take into account regulatory
 ### `02013R0575-20160719` → `02013R0575-20180101`
 
 - **Act** `eu:32013R0575` · **In force** 2018-01-01 · **Detected** 2026-08-13
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **3 disputed**
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **3 disputed**
 - **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 522 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20160719` · `v2` = `02013R0575-20180101`
@@ -36598,29 +36598,31 @@ The provision also requires institutions to notify their competent authority of 
 
 *within* `AR 493 PA 4`, `AR 493 PA 5`, `AR 493 PA 6`, `AR 493 PA 7` · *dates* +2017-12-12 +2017-12-31 +2018-12-31 +2019-12-31 · *amended by* `32017R2395`
 
-The after text adds four new paragraphs, numbered 4 through 7, that were not present before. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493)
+The after text adds new paragraphs 4 through 7 to Article 493, introducing transitional limits letting competent authorities allow institutions to incur certain exposures up to specified percentages of Tier 1 capital until set dates in 2018, 2019 and 2020. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493)
 
-Paragraph 4 sets declining limits on certain exposures expressed as percentages of an institution's Tier 1 capital, running from 100% until 31 December 2018 down to 50% until 31 December 2020, and applies those limits after taking into account credit risk mitigation under Articles 399 to 403. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493)
+It specifies the categories of exposures to which those limits apply, being claims on or guaranteed by central governments, central banks, regional governments, local authorities or public sector entities of Member States, and sets conditions tied to a zero percent risk weight under the version of Article 495(2) in force on 31 December 2017 and to whether the exposure was incurred before or on/after 12 December 2017. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493)
 
-Paragraph 5 lists the categories of exposures to which paragraph 4 applies, paragraph 6 conditions that application on the exposure having carried a 0% risk weight under the version of Article 495(2) in force on 31 December 2017 and on having been incurred on or after 12 December 2017, and paragraph 7 exempts from Article 395(1) an exposure incurred before 12 December 2017 that carried that same 0% risk weight on 31 December 2017. [Art. 493, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_493)
+The earlier version of the article, containing only paragraphs 1 to 3, did not include any of these additional transitional rules on large exposures. [Art. 493, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20160719#art_493)
 
 *before* (`02013R0575-20160719`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities field
+> OJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4012 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 4013 characters omitted…]
 
 *after* (`02013R0575-20180101`)
 
 > Article 493
 > Transitional provisions for large exposures
-> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities fieldOJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
+> 1. The provisions on large exposures as laid down in Articles 387 to 403 shall not apply to investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC and to whom Council Directive 93/22/EEC of 10 May 1993 on investment services in the securities field
+> OJ L 141, 11.6.1993, p. 27. did not apply on 31 December 2006. This exemption is available until 31 December 2020 or the date of entry into force of any amendments pursuant to paragraph 2 of this Article, whichever is the earlier.
 > 2. By 31 December 2015, the Commission shall, on the basis of public consultations and in the light of discussions with the competent authorities, report to the European Parliament and the Council on:
 > (a) an appropriate regime for the prudential supervision of investment firms whose main business consists exclusively of the provision of investment services or activities in relation to the commodity derivatives or derivatives contracts set out in points 5, 6, 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC;
-> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 6951 characters omitted…]
+> (b) the desirability of amending Directive 2004/39/EC to create a further category of investment firm whose main business consists exclusively of the provision of investment services or activities in relation to the financial instruments set out in points 5, […truncated by emendrix: 6952 characters omitted…]
 
 **MODIFIED · Art. 496 — Own funds requirements for covered bonds** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
