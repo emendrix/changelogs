@@ -28,7 +28,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02014R0600-20241204` → `02014R0600-20250117`
 
 - **Act** `eu:32014R0600` · **In force** 2025-01-17 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **1 disputed**
+- **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 93 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20241204` · `v2` = `02014R0600-20250117`
@@ -81,7 +81,7 @@ In paragraph 8(c), the reference to the organisational requirements laid down in
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
