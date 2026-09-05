@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -15,82 +15,25 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 10,
-    "modified": 70,
-    "deleted": 12,
+    "inserted": 8,
+    "modified": 65,
+    "deleted": 11,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 92,
+    "touched_units": 84,
     "unchanged_units": 191,
-    "disputed": 38
+    "disputed": 30
   },
   "counts": {
-    "touched": 92,
-    "substantive": 92,
+    "touched": 84,
+    "substantive": 64,
     "date_only": 0,
-    "disputed": 38,
+    "textless": 20,
+    "disputed": 30,
     "quoted": 0,
-    "unexplained": 28
+    "unexplained": 20
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AR 2"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (1)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
-    },
     {
       "change": {
         "change_type": "MODIFIED",
@@ -137,7 +80,7 @@
           },
           "instruction_parse": {
             "status": "observed",
-            "detail": "AR 001 (2) (a); AR 001 (2) (b)",
+            "detail": "AR 001 (2) (a)",
             "change_types": [
               "MODIFIED"
             ]
@@ -148,8 +91,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1017,64 +960,6 @@
       ],
       "applicability_note": null,
       "unexplained": "",
-      "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AR 29"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (8) (e)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
       "unexplained_kind": ""
     },
     {
@@ -2227,64 +2112,6 @@
     },
     {
       "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AR 90a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (18)",
-            "change_types": [
-              "INSERTED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
-    },
-    {
-      "change": {
         "change_type": "MODIFIED",
         "provision": {
           "act": {
@@ -3192,7 +3019,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read",
+            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -3980,66 +3807,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AR 116a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (31)",
-            "change_types": [
-              "INSERTED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -4093,7 +3862,7 @@
           },
           "instruction_parse": {
             "status": "observed",
-            "detail": "AR 001 (32) (a) (i); AR 001 (32) (a) (ii); AR 001 (32) (b); AR 001 (32) (c)",
+            "detail": "AR 001 (32) (a) (i); AR 001 (32) (b)",
             "change_types": [
               "MODIFIED"
             ]
@@ -4350,8 +4119,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -4505,66 +4274,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AR 145"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (35)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -4941,8 +4652,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -6396,8 +6107,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -6576,7 +6287,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read",
+            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -6833,8 +6544,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -6882,7 +6593,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read",
+            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -6891,8 +6602,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -7048,8 +6759,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -7573,66 +7284,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AR 214a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (62)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -7691,8 +7344,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -8333,7 +7986,7 @@
           },
           "instruction_parse": {
             "status": "observed",
-            "detail": "AR 001 (68) (a); AR 001 (68) (b); AR 001 (68) (c); AR 001 (68) (d)",
+            "detail": "AR 001 (68) (b); AR 001 (68) (c); AR 001 (68) (d)",
             "change_types": [
               "MODIFIED"
             ]
@@ -8409,64 +8062,6 @@
             "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
           },
           "version": "02013R1308-20211207",
-          "location": "AR 226"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (69)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
           "location": "PRT II"
         },
         "heading": null,
@@ -8503,7 +8098,7 @@
           },
           "instruction_parse": {
             "status": "observed",
-            "detail": "AR 001 (8) (a); AR 001 (8) (b); AR 001 (34) (b)",
+            "detail": "AR 001 (34) (b)",
             "change_types": [
               "MODIFIED"
             ]
@@ -8514,8 +8109,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -8563,7 +8158,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read",
+            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -8572,8 +8167,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -8632,8 +8227,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -8852,8 +8447,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -8984,64 +8579,6 @@
       ],
       "applicability_note": null,
       "unexplained": "",
-      "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "DELETED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AN VI"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (73)",
-            "change_types": [
-              "DELETED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
       "unexplained_kind": ""
     },
     {
@@ -9504,8 +9041,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -9553,7 +9090,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read",
+            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -9562,8 +9099,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -9611,7 +9148,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read",
+            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -9620,8 +9157,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -9678,8 +9215,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -9727,7 +9264,7 @@
           },
           "instruction_parse": {
             "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read",
+            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
             "change_types": []
           }
         },
@@ -9736,8 +9273,8 @@
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`",
-      "unexplained_kind": ""
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -11744,7 +11281,6 @@
         "signal": "instruction_parse",
         "available": true,
         "units": [
-          "AR 2",
           "AR 3",
           "AR 5",
           "AR 6",
@@ -11753,7 +11289,6 @@
           "AR 17",
           "AR 23",
           "AR 23a",
-          "AR 29",
           "AR 61",
           "AR 62",
           "AR 63",
@@ -11763,7 +11298,6 @@
           "AR 81",
           "AR 86",
           "AR 90",
-          "AR 90a",
           "AR 92",
           "AR 93",
           "AR 94",
@@ -11776,13 +11310,11 @@
           "AR 106",
           "AR 106a",
           "AR 111",
-          "AR 116a",
           "AR 119",
           "AR 122",
           "AR 124",
           "AR 125",
           "AR 127",
-          "AR 145",
           "AR 147a",
           "AR 148",
           "AR 149",
@@ -11809,7 +11341,6 @@
           "AR 210",
           "AR 210a",
           "AR 212",
-          "AR 214a",
           "AR 218",
           "AR 219",
           "AR 220",
@@ -11817,48 +11348,24 @@
           "AR 222b",
           "AR 223",
           "AR 225",
-          "AR 226",
           "PRT II",
           "PRT V",
           "AN I",
           "AN II",
           "AN III",
-          "AN VI",
           "AN VII",
           "AN VIII",
           "AN X",
           "AN XI",
           "APP I"
         ],
-        "note": "32021R2117, 0.986 of its instruction clauses read",
+        "note": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
         "claims": [
-          {
-            "location": "AR 2",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (1)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
           {
             "location": "AR 3 PA 2",
             "change_type": "DELETED",
             "in_force": null,
             "source": "AR 001 (2) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
-            "location": "AR 3 PA 3",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (2) (b)",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -11932,28 +11439,6 @@
             }
           },
           {
-            "location": "PRT II",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (8) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
-            "location": "PRT II TIT SCT 1",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 001 (8) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
             "location": "AR 23 PA 11",
             "change_type": "MODIFIED",
             "in_force": null,
@@ -11991,17 +11476,6 @@
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001 (8) (d) (iii)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
-            "location": "AR 29 SCT 2",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 001 (8) (e)",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -12251,17 +11725,6 @@
             }
           },
           {
-            "location": "AR 90a",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (18)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
             "location": "AR 92 PA 1",
             "change_type": "INSERTED",
             "in_force": null,
@@ -12460,17 +11923,6 @@
             }
           },
           {
-            "location": "AR 116a",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (31)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
             "location": "AR 119 PA 1 PTA (a)",
             "change_type": "MODIFIED",
             "in_force": null,
@@ -12482,43 +11934,10 @@
             }
           },
           {
-            "location": "AR 119 PA 1",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (32) (a) (ii)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
             "location": "AR 119 PA 2",
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001 (32) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
-            "location": "AR 119 PA 4",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (32) (c)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
-            "location": "AR 119 PA 5",
-            "change_type": "INSERTED",
-            "in_force": null,
-            "source": "AR 001 (32) (c)",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -12607,17 +12026,6 @@
             "change_type": "DELETED",
             "in_force": null,
             "source": "AR 001 (34) (d)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
-            "location": "AR 145 PA 3",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (35)",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -13065,17 +12473,6 @@
             }
           },
           {
-            "location": "AR 214a",
-            "change_type": "MODIFIED",
-            "in_force": null,
-            "source": "AR 001 (62)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
             "location": "AR 218 PA 2",
             "change_type": "DELETED",
             "in_force": null,
@@ -13197,17 +12594,6 @@
             }
           },
           {
-            "location": "AR 225 PTA (a)",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 001 (68) (a)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
             "location": "AR 225 PTA (b)",
             "change_type": "DELETED",
             "in_force": null,
@@ -13234,17 +12620,6 @@
             "change_type": "MODIFIED",
             "in_force": null,
             "source": "AR 001 (68) (d)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
-            "location": "AR 226 PRT V",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 001 (69)",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -13377,17 +12752,6 @@
             "change_type": "DELETED",
             "in_force": null,
             "source": "AR 001 (72) (b)",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-            }
-          },
-          {
-            "location": "AN VI",
-            "change_type": "DELETED",
-            "in_force": null,
-            "source": "AR 001 (73)",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -13622,45 +12986,26 @@
         "left": "structural_diff",
         "right": "instruction_parse",
         "left_units": 64,
-        "right_units": 85,
+        "right_units": 77,
         "shared": 62,
         "precision": 0.96875,
-        "recall": 0.7294117647058823,
-        "f1": 0.832214765100671,
+        "recall": 0.8051948051948052,
+        "f1": 0.8794326241134752,
         "kind_mismatches": 0
       },
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
         "left_units": 73,
-        "right_units": 85,
+        "right_units": 77,
         "shared": 66,
         "precision": 0.9041095890410958,
-        "recall": 0.7764705882352941,
-        "f1": 0.8354430379746836,
+        "recall": 0.8571428571428571,
+        "f1": 0.88,
         "kind_mismatches": 1
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 2",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AR 3",
         "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
@@ -13737,44 +13082,6 @@
         ]
       },
       {
-        "unit": "AR 29",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 90a",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 99",
         "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
         "observed_by": [
@@ -13820,25 +13127,6 @@
             "instruction_parse",
             [
               "DELETED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 116a",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "INSERTED"
             ]
           ]
         ]
@@ -13902,25 +13190,6 @@
             "instruction_parse",
             [
               "DELETED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 145",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
             ]
           ]
         ]
@@ -14144,25 +13413,6 @@
         ]
       },
       {
-        "unit": "AR 214a",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 218",
         "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
@@ -14263,25 +13513,6 @@
         ]
       },
       {
-        "unit": "AR 226",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "PRT II",
         "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
@@ -14371,25 +13602,6 @@
             "instruction_parse",
             [
               "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN VI",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "DELETED"
             ]
           ]
         ]
@@ -14497,29 +13709,21 @@
       }
     ],
     "metadata_only_units": [
-      "AR 2",
       "AR 3",
-      "AR 29",
-      "AR 90a",
       "AR 111",
-      "AR 116a",
       "AR 124",
       "AR 127",
-      "AR 145",
       "AR 150",
       "AR 172",
       "AR 192",
       "AR 193",
       "AR 196",
       "AR 212",
-      "AR 214a",
       "AR 218",
-      "AR 226",
       "PRT II",
       "PRT III",
       "PRT V",
       "AN II",
-      "AN VI",
       "AN XI",
       "AN XII",
       "AN XIII",
@@ -14587,6 +13791,21 @@
         "schema_repairs": 0
       },
       "coordinates_checked": false
+    },
+    {
+      "kind": "corroboration",
+      "repaired_on": "2026-09-05",
+      "addressed": 92,
+      "repaired": 32,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
-  ]
+  ],
+  "evidence": []
 }

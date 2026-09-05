@@ -3316,22 +3316,12 @@ The only visible difference between the two versions is the removal of a semicol
 ### `02013R1308-20201229` → `02013R1308-20211207`
 
 - **Act** `eu:32013R1308` · **In force** 2021-01-01, 2021-12-07 · **Detected** 2026-09-04
-- **Touched** 92 provisions — 92 substantive · 0 date-only · **38 disputed**
-- **Diff** 10 inserted · 70 modified · 12 deleted · 0 renumbered · 0 deferred · 191 unchanged
-- **Gate** 0 sentences quoted verbatim · 28 changes shipped without an explanation
+- **Touched** 84 provisions — 64 substantive · 0 date-only · 20 with no text · **30 disputed**
+- **Diff** 8 inserted · 65 modified · 11 deleted · 0 renumbered · 0 deferred · 191 unchanged
+- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20201229` · `v2` = `02013R1308-20211207`
 
 ---
-
-**MODIFIED · Art. 2** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 3** · applies from: unknown
 
@@ -3339,7 +3329,7 @@ The only visible difference between the two versions is the removal of a semicol
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -3588,16 +3578,6 @@ The overall limit figure referenced in the paragraph on transfers between indica
 > (c) for school milk, in addition to the criteria referred to in points (a) and (b), the historical use of the Union aid for the supply of milk and milk products to children.
 > The allocations for the Member States concerned shall ensure that higher aid is allocated to the outermost regions listed in Article 349 TFEU in order to take into account the specific situation of those regions in the sourcing of products and to promote such sourcing between outermost regions that are in geographical proximity to each other.
 > The allocations for school milk resulting from the application […truncated by emendrix: 4180 characters omitted…]
-
-**MODIFIED · Art. 29** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 61 — Duration** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -3863,16 +3843,6 @@ Paragraph 3's opening sentence now begins with the same qualifying phrase used e
 > 3. Save as otherwise provided for in international agreements concluded in accordance with the TFEU, the import of the products referred to in paragraph 1 shall be subject to the presentation of:
 > (a) a certificate evincing compliance with the provisions referred to in paragraphs 1 and 2, drawn up by a competent body, included on a list to be made public by the Commission, in the product's country of origin;
 > (b) an analysis report drawn up by a body or department designated b […truncated by emendrix: 91 characters omitted…]
-
-**INSERTED · Art. 90a** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 92 — Scope** · applies from: unchanged
 
@@ -4259,17 +4229,7 @@ It further provides that the Union symbols and indications for protected designa
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 116a** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4373,7 +4333,7 @@ Point (d)(i) was expanded to also cover the conditions of use of closures, in ad
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4417,17 +4377,7 @@ Paragraph 3 no longer contains the opening phrase specifying that the conformity
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 145** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4515,7 +4465,7 @@ The threshold for the volume of raw milk covered by producer organisation negoti
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4897,7 +4847,7 @@ It further adds that these indicators may be based on relevant prices, productio
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4979,7 +4929,7 @@ The other paragraphs of Article 182, including those on exclusions, price determ
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -4989,7 +4939,7 @@ The other paragraphs of Article 182, including those on exclusions, price determ
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5016,7 +4966,7 @@ It further allows the Commission, applying those rules, to adopt implementing ac
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5119,17 +5069,7 @@ The new provision defines what counts as a sustainability standard, states that 
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 214a** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5139,7 +5079,7 @@ The new provision defines what counts as a sustainability standard, states that 
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5320,23 +5260,13 @@ Four new reporting points are added: (da) a report by 31 December 2023 on the Un
 > (db) by 31 December 2023, and every three years thereafter, on the use of the crisis measures in particular adopted pursuant to Articles 219, to 222;
 > (dc) by 31 Dec […truncated by emendrix: 549 characters omitted…]
 
-**MODIFIED · Art. 226** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Part II** · applies from: unknown
 
 *amended by* `32021R2117`
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5346,7 +5276,7 @@ Four new reporting points are added: (da) a report by 31 December 2023 on the Un
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5356,7 +5286,7 @@ Four new reporting points are added: (da) a report by 31 December 2023 on the Un
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5448,7 +5378,7 @@ Part XII gains a new point (e) covering CN code ex22029919, described as other d
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5519,16 +5449,6 @@ The substantive standards for paddy rice and sugar quality in sections A and B r
 > (b) minimum polarisation: 99,7;
 > (c) maximum moisture content: 0,06 %;
 > (d) maximum invert sugar cont […truncated by emendrix: 1316 characters omitted…]
-
-**DELETED · Annex VI** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Annex VII — ANNEX VII** · applies from: unchanged
 
@@ -5677,7 +5597,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5687,7 +5607,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5697,7 +5617,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5707,7 +5627,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 
 **DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5717,7 +5637,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 
 **DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20211207 -->
