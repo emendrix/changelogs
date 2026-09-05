@@ -937,21 +937,22 @@ No other paragraphs of Article 6 differ between the two texts. [Art. 6, v1](http
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-A new Article 28a is added, requiring administrators to submit specified information to a collection body so it can be made accessible on the European single access point, and setting out formatting and metadata requirements for that submission. [Art. 28a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_28a)
+A new Article 28a has been added, setting out requirements for administrators and competent authorities to submit specified information to a collection body so it can be made accessible on the European single access point established under Regulation (EU) 2023/2859. [Art. 28a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_28a)
 
-The article also designates the competent authority or ESMA as the relevant collection body for different categories of information, and directs ESMA to develop implementing technical standards and, where necessary, guidelines on the metadata to be submitted. [Art. 28a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_28a)
+The provision covers formatting and metadata requirements for submitted information, designates the collection body for different categories of information, and mandates ESMA to develop implementing technical standards and, where necessary, guidelines. [Art. 28a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_28a)
 
 *after* (`02016R1011-20240109`)
 
 > Article 28a
 > Accessibility of information on the European single access point
-> 1. From 10 January 2028, when making public any information referred to in Article 4(5), Article 11(1), point (c), Articles 12(3), 13(1), 25(7), 26(3), 27(1) and 28(1) of this Regulation, the administrator shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the CouncilRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
+> 1. From 10 January 2028, when making public any information referred to in Article 4(5), Article 11(1), point (c), Articles 12(3), 13(1), 25(7), 26(3), 27(1) and 28(1) of this Regulation, the administrator shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council
+> Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..
 > That information shall comply with the following requirements:
 > (a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
 > (b) be accompanied by the following metadata:
 > (i) all the names of the administrator to which the information relates;
 > (ii) for legal persons, the legal entity identifier of the administrator, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
-> (iii) […truncated by emendrix: 3413 characters omitted…]
+> (iii) […truncated by emendrix: 3414 characters omitted…]
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20240109 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20220101 -->
