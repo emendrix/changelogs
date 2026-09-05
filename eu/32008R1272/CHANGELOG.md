@@ -5296,7 +5296,7 @@ The entry for C; R34 changes its corresponding classification from Skin Corr. 1B
 ### `02008R1272-20170101` → `02008R1272-20170601`
 
 - **Act** `eu:32008R1272` · **In force** 2017-06-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20170101` · `v2` = `02008R1272-20170601`
