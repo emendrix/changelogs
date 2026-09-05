@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02010R1095-20250701` → `02010R1095-20251110`
 
 - **Act** `eu:32010R1095` · **In force** 2025-11-10 · **Detected** 2026-08-13
-- **Touched** 8 provisions — 8 substantive · 0 date-only · **0 disputed**
+- **Touched** 8 provisions — 8 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 2 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1095-20250701` · `v2` = `02010R1095-20251110`
