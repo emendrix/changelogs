@@ -3263,7 +3263,7 @@ In the entries 28 to 30 conditions, the reference to the concentration specified
 ### `02006R1907-20120605` → `02006R1907-20121009`
 
 - **Act** `eu:32006R1907` · **In force** 2012-10-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20120605` · `v2` = `02006R1907-20121009`
