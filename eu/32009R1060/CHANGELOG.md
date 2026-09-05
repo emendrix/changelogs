@@ -2271,9 +2271,11 @@ A minor wording change also appears earlier in the same paragraph, where the phr
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-The list of definitions in Article 3(1) gains three new points after point (o): a definition of competent authorities as the authorities designated by each Member State under Article 22, a definition of sectoral legislation referring to the legal acts of the Union mentioned in the first subparagraph of Article 4(1), and a definition of sectoral competent authorities describing national authorities designated under relevant sectoral legislation for supervising credit institutions, investment firms, insurance, assurance and reinsurance undertakings, UCITS, occupational retirement institutions and alternative investment funds. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_3)
+The definition list in point (1) now ends point (o) with a semicolon instead of a full stop and adds three new definitions. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_3)
 
-The prior version of Article 3(1) ended with point (o) on credit rating activities and contained no such points (p) through (r). [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_3)
+The new points define competent authorities as the authorities designated by each Member State under Article 22, sectoral legislation as the Union legal acts referred to in the first subparagraph of Article 4(1), and sectoral competent authorities as the national competent authorities designated under the relevant sectoral legislation for supervising credit institutions, investment firms, insurance, assurance and reinsurance undertakings, UCITS, institutions for occupational retirement provision and alternative investment funds. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_3)
+
+The earlier text contained only points (a) through (o) with no such additional definitions. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_3)
 
 *before* (`02009R1060-20091207`)
 
@@ -2286,7 +2288,7 @@ The prior version of Article 3(1) ended with point (o) on credit rating activiti
 > (d) rating analyst means a person who performs analytical functions that are necessary for the issuing of a credit rating;
 > (e) lead rating analyst means a person with primary responsibility for elaborating a credit rating or for communicating with the issuer with respect to a particular credit rating or, generally, with respect to the credit rating of a financial instrument issued by that issuer and, where relevant, for preparing recommendations to the rating committee in relation to such rating;
 > (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
-> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 3096 characters omitted…]
+> (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 3100 characters omitted…]
 
 *after* (`02009R1060-20110601`)
 
@@ -2307,7 +2309,7 @@ The prior version of Article 3(1) ended with point (o) on credit rating activiti
 >
 > (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
 >
-> (g) regulatory purposes means the use of credit ra […truncated by emendrix: 3769 characters omitted…]
+> (g) regulatory purposes means the use of credit ra […truncated by emendrix: 3773 characters omitted…]
 
 **MODIFIED · Art. 3.1** · applies from: unknown
 
@@ -2325,16 +2327,19 @@ The prior version of Article 3(1) ended with point (o) on credit rating activiti
 
 **DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
-Article 4(1) now refers to UCITS as defined under Directive 2009/65/EC rather than Directive 85/611/EEC, and adds alternative investment funds to the list of entities that may use credit ratings for regulatory purposes only if issued by registered credit rating agencies established in the Union. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_4)
+Paragraph 1 now refers to UCITS by citing Directive 2009/65/EC instead of Directive 85/611/EEC, and adds alternative investment funds to the list of entities that may use credit ratings for regulatory purposes only if issued by a registered credit rating agency established in the Union. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_4)
 
-In Article 4(3)(1)(b), (c), (d) and (h), the references to the competent authority of the home Member State, and to the college of competent authorities referred to in Article 29, are replaced with references to ESMA, and the sub-points (i) and (ii) under point (h) likewise substitute ESMA and the relevant supervisory authority of the third-country credit rating agency for the previously named competent authorities. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_4)
+In paragraph 3, points (b), (c), (d) and (h), including its sub-points (i) and (ii), replace references to the competent authority of the home Member State (and, for point (c), the college of competent authorities) with references to ESMA and its cooperation arrangements with third-country supervisory authorities. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_4)
 
 *before* (`02009R1060-20091207`)
 
 > Article 4
 > Use of credit ratings
-> 1. Credit institutions as defined in Directive 2006/48/EC, investments firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking-up and pursuit of the business of direct insurance other than life assuranceOJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assuranceOJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and the Council of 16 November 2005 on reinsuranceOJ L 323, 9.12.2005, p. 1., undertakings for collective investment in transferable securities (UCITS) as defined in Directive 85/611/EEC and institutions for occupational retirement provision as defined in Directive 2003/41/EC may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Community and registered in accordance with this Regulation.
-> Where a prospectus published under Directive 2003/71/EC and Regulation (EC) No 809/2004 contains a reference to a credit rating or credit ratings, the issuer, offeror, or person asking for admission to trading on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether or not such credit rati […truncated by emendrix: 4385 characters omitted…]
+> 1. Credit institutions as defined in Directive 2006/48/EC, investments firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking-up and pursuit of the business of direct insurance other than life assurance
+> OJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance
+> OJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and the Council of 16 November 2005 on reinsurance
+> OJ L 323, 9.12.2005, p. 1., undertakings for collective investment in transferable securities (UCITS) as defined in Directive 85/611/EEC and institutions for occupational retirement provision as defined in Directive 2003/41/EC may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Community and registered in accordance with this Regulation.
+> Where a prospectus published under Directive 2003/71/EC and Regulation (EC) No 809/2004 contains a reference to a credit rating or credit ratings, the issuer, offeror, or person asking for admission to trading on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether or not such credit r […truncated by emendrix: 4388 characters omitted…]
 
 *after* (`02009R1060-20110601`)
 
@@ -2342,8 +2347,12 @@ In Article 4(3)(1)(b), (c), (d) and (h), the references to the competent authori
 > Use of credit ratings
 >
 > 1.
-> Credit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking-up and pursuit of the business of direct insurance other than life assuranceOJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assuranceOJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsuranceOJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with this Regulation.
-> Where a prospectus published under Directive 2003/71/EC and Regulation (EC) No 809/2004 contains a reference to a credit rating or credit rati […truncated by emendrix: 4405 characters omitted…]
+> Credit institutions as defined in Directive 2006/48/EC, investment firms as defined in Directive 2004/39/EC, insurance undertakings subject to the First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking-up and pursuit of the business of direct insurance other than life assurance
+> OJ L 228, 16.8.1973, p. 3., assurance undertakings as defined in Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance
+> OJ L 345, 19.12.2002, p. 1., reinsurance undertakings as defined in Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsurance
+> OJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)
+> OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with this Regulation.
+> Where a prospectus published under Directive 2003/71/EC and Regulation (EC) No 809/2004 contains a reference to a credit rating or credit […truncated by emendrix: 4410 characters omitted…]
 
 **MODIFIED · Art. 4.1** · applies from: unknown
 
@@ -2738,9 +2747,11 @@ The registering authority named in paragraph 4 and the authority barred from imp
 
 *within* `AR 15 PA 1 ALN 1`, `AR 15 PA 2 ALN 1`, `AR 15 PA 3 ALN 1`, `AR 15 PA 4 ALN 1`, `AR 15 PA 4 ALN 2`, `AR 15 PA 5`, `AR 15 PA 6` · *dates* +1958-04-15 · *amended by* `32011R0513`
 
-The provision replaces CESR with ESMA as the body receiving registration applications and the associated notifications, and the language requirement in paragraph 3 is changed from submission in the home Member State's required language plus a language customary in international finance to submission in any official language of the institutions of the Union, with Regulation No 1 of 15 April 1958 on languages applying mutatis mutandis to communications between ESMA and credit rating agencies. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_15)
+The application for registration and related notices are now addressed to ESMA rather than to CESR throughout the article. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_15)
 
-The separate steps previously split between CESR's transmission and advice role and the competent authority of the home Member State's completeness assessment (paragraphs 4 to 6) are consolidated into a single paragraph 4 in which ESMA itself assesses completeness within 20 working days, sets deadlines for additional information, and notifies the credit rating agency, removing the prior distinct five-day, ten-day and 25-day steps and the involvement of the college of competent authorities. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_15)
+The language requirement changed from submission in the home Member State's required language plus a language customary in international finance to submission in any official language of the Union institutions, with Regulation No 1 of 15 April 1958 on languages applying mutatis mutandis to other communications between the agency and ESMA, and the prior provision on CESR-forwarded applications being counted as submitted by the agency was removed. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_15)
+
+The former multi-step process involving transmission to competent authorities of Member States, CESR's advice on completeness, and college assessment within specified working-day periods was replaced by a single step in which ESMA itself assesses completeness within 20 working days and notifies the agency, with the separate provisions on transmitting additional information to other Member States removed. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_15)
 
 *before* (`02009R1060-20091207`)
 
@@ -2763,7 +2774,8 @@ The separate steps previously split between CESR's transmission and advice role 
 > 2.
 > Where a group of credit rating agencies applies for registration, the members of the group shall mandate one of their number to submit all the applications to ESMA on behalf of the group. The mandated credit rating agency shall provide the information on the matters set out in Annex II for each member of the group.
 > 3.
-> A credit rating agency shall submit its application in any of the official languages of the institutions of the Union. The provisions of Regulation No 1 of 15 April 1958 determining the languages to be used by the European Economic CommunityOJ 17, 6.10.1958, p. 385/58. shall apply mutatis mutandis to any other communication between ESMA and the credit rating agencies and their staff.
+> A credit rating agency shall submit its application in any of the official languages of the institutions of the Union. The provisions of Regulation No 1 of 15 April 1958 determining the languages to be used by the European Economic Community
+> OJ 17, 6.10.1958, p. 385/58. shall apply mutatis mutandis to any other communication between ESMA and the credit rating agencies and their staff.
 > 4.
 > Within 20 working days of receipt of the application, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a deadline by which the credit rating agency is to provide additional information.
 > After assessing an application as complete, ESMA shall notify the credit rating agency accordingly.
@@ -2867,11 +2879,11 @@ A new paragraph 4 states that the decision adopted by ESMA under paragraph 3 tak
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The heading and the notifying/notified actor changed from the competent authority of the home Member State to ESMA, which now notifies the credit rating agency of decisions under Article 16, 17 or 20 and must give full reasons if it refuses registration or withdraws it. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_18)
+The heading now refers to notification of a decision to register, refuse or withdraw registration and publication of the list of registered credit rating agencies, and the actor performing notification, communication and publication tasks changes from the competent authority of the home Member State to ESMA, with the Commission's publication role limited to publishing the updated list in the Official Journal. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_18)
 
-The list of bodies receiving communication of such decisions was expanded from the Commission, CESR and other competent authorities to the Commission, EBA, EIOPA, the competent authorities and the sectoral competent authorities, with ESMA now performing this communication. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_18)
+Paragraph 1 now covers decisions under Article 16, 17 or 20 and includes withdrawal of registration among the situations requiring full reasons, whereas the earlier text covered only Articles 16 and 17 for registration and refusal. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_18)
 
-Publication duties were reallocated so that ESMA publishes the list of registered credit rating agencies on its website and updates it within five working days of a decision under Article 16, 17 or 20, while the Commission separately publishes that updated list in the Official Journal within 30 days of the update, replacing the earlier single 30-day update rule tied to notification under paragraph 2. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_18)
+Paragraph 2 adds EBA, EIOPA, the competent authorities and the sectoral competent authorities as recipients of the decision, replacing the earlier notification to the Commission, CESR and the other competent authorities, and paragraph 3 changes the list-update trigger to five working days following a decision under Article 16, 17 or 20, with the Commission's Official Journal publication occurring within 30 days of that update. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_18)
 
 *before* (`02009R1060-20091207`)
 
@@ -2888,7 +2900,9 @@ Publication duties were reallocated so that ESMA publishes the list of registere
 > 1.
 > Within five working days of the adoption of a decision under Article 16, 17 or 20 ESMA shall notify its decision to the credit rating agency concerned. Where ESMA refuses to register the credit rating agency or withdraws the registration of the credit rating agency, it shall provide full reasons in its decision.
 > 2.
-> ESMA shall communicate to the Commission, the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 12. (EBA), the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the CouncilOJ L 331, 15.12.2010, p. 48. (EIOPA), the competent authorities and the sectoral competent authorities, any decision under Article 16, 17 or 20.
+> ESMA shall communicate to the Commission, the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council
+> OJ L 331, 15.12.2010, p. 12. (EBA), the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council
+> OJ L 331, 15.12.2010, p. 48. (EIOPA), the competent authorities and the sectoral competent authorities, any decision under Article 16, 17 or 20.
 > 3.
 > ESMA shall publish on its website a list of credit rating agencies registered in accordance with this Regulation. That list shall be updated within five working days following the adoption of a decision under Article 16, 17 or 20. The Commission shall publish that updated list in the Official Journal of the European Union within 30 days following such update.
 
@@ -2971,11 +2985,11 @@ The remaining text reassigns to ESMA the function previously held by the compete
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-The provision's heading and body actor changes from the Committee of European Securities Regulators (CESR) to ESMA, and the substance shifts from CESR issuing advice and guidance to ESMA ensuring application of the Regulation and issuing guidelines under Article 16 of Regulation (EU) No 1095/2010. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_21)
+The provision's heading and body change from referring to CESR to referring to ESMA, and the substantive tasks assigned to that body are rewritten throughout the article. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_21)
 
-The guidance deadlines of 7 June 2010, 7 September 2010 and 7 December 2010 are replaced with new dates of 7 June 2011, 2 January 2012 and 1 January 2012, and the earlier guidance topics on registration, colleges and endorsement are replaced by a requirement for ESMA to submit draft regulatory technical standards on registration information, certification, disclosure presentation, methodology compliance assessment and ratings data reporting. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_21)
+The earlier duties to issue guidance by 7 June 2010, 7 September 2010 and to publish a first annual report by 7 December 2010 are replaced by duties to issue and update guidelines under Article 16 of Regulation (EU) No 1095/2010, to submit draft regulatory technical standards by 2 January 2012, and to publish a first annual report by 1 January 2012, with a new guideline deadline of 7 June 2011 for the endorsement regime. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_21)
 
-A new paragraph requires ESMA to report annually to the European Parliament, the Council and the Commission on supervisory measures and penalties, and the cooperation duty is changed from consulting the Committee of European Banking Supervisors and the Committee of European Insurance and Occupational Pensions Supervisors to cooperating with and consulting EBA and EIOPA. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_21)
+A new paragraph requiring an annual report to the European Parliament, the Council and the Commission on supervisory measures and penalties is added, and the cooperation obligation is changed from consulting the Committee of European Banking Supervisors and the Committee of European Insurance and Occupational Pensions Supervisors to cooperating with and consulting EBA and EIOPA. [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_21)
 
 *before* (`02009R1060-20091207`)
 
@@ -2990,7 +3004,7 @@ A new paragraph requires ESMA to report annually to the European Parliament, the
 > 3. By 7 September 2010, CESR shall issue guidance on:
 > (a) enforcement practices and activities to be conducted by competent authorities under this Regulation;
 > (b) common standards for assessment of compliance of credit rating methodologies with the requirements set out in Article 8(3);
-> (c) […truncated by emendrix: 1039 characters omitted…]
+> (c) […truncated by emendrix: 1041 characters omitted…]
 
 *after* (`02009R1060-20110601`)
 
@@ -3479,11 +3493,11 @@ The confidentiality provision in paragraph 2 changes from covering information e
 
 *within* `AR 34 ALN 1`, `AR 34 ALN 2`, `AR 34 ALN 3` · *dates* +2000-12-18 · *amended by* `32011R0513`
 
-The authority empowered to conclude cooperation agreements on exchange of information with third-country authorities changes from the competent authorities to ESMA, and the counterpart authorities are described as supervisory authorities rather than competent authorities. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_34)
+The authority permitted to conclude cooperation agreements with third-country counterparts changes from the competent authorities to ESMA, and the counterpart bodies are now described as supervisory authorities rather than competent authorities. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_34)
 
-The purpose clause for such information exchange is broadened to cover the performance of the tasks of ESMA in addition to those of the third-country supervisory authorities. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_34)
+The purpose clause is widened to cover the performance of the tasks of ESMA as well as those of the third-country supervisory authorities, rather than only the tasks of the competent authorities. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_34)
 
-The rule on transfer of personal data to a third country now names ESMA as the applying party and replaces the reference to Directive 95/46/EC with a reference to Regulation (EC) No 45/2001 of 18 December 2000. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_34)
+The rule on transfer of personal data to a third country now names ESMA as the actor applying the relevant instrument and points to Regulation (EC) No 45/2001 instead of Directive 95/46/EC, with Member States no longer mentioned in this sentence. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_34)
 
 *before* (`02009R1060-20091207`)
 
@@ -3500,7 +3514,8 @@ The rule on transfer of personal data to a third country now names ESMA as the a
 > ESMA may conclude cooperation agreements on exchange of information with the supervisory authorities of third countries only if the information disclosed is subject to guarantees of professional secrecy which are at least equivalent to those set out in Article 32.
 > Such exchange of information shall be intended for the performance of the tasks of ESMA or those supervisory authorities.
 >
-> With regard to transfer of personal data to a third country, ESMA shall apply Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such dataOJ L 8, 12.1.2001, p. 1..
+> With regard to transfer of personal data to a third country, ESMA shall apply Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data
+> OJ L 8, 12.1.2001, p. 1..
 
 **MODIFIED · Art. 35 — Disclosure of information from third countries** · applies from: unchanged
 
@@ -3889,9 +3904,11 @@ It also provides for the transfer of files and records to ESMA, for ESMA to act 
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-In Section A point 2 and Section B point 8, the availability of the independent board members' opinions and of the retained records is now directed to ESMA rather than to the competent authority of the Member States concerned. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#anx_I)
+In Section A point 2, opinions of the independent board members that were previously to be made available to the competent authority on request are now to be made available to ESMA on request. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#anx_I)
 
-In Section E, the annual disclosure list under point II.2 adds a new item requiring a list of credit ratings issued during the year showing the proportion of unsolicited ratings among them, and the wording of point (b) is adjusted accordingly with an added conjunction before the new point (c). [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#anx_I)
+In Section B point 8, records and audit trails that were previously to be made available upon request to the competent authorities of the Member States concerned are now to be made available upon request to ESMA. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#anx_I)
+
+In Section E, point II.2 now adds a new item (c) requiring an annual list of credit ratings issued during the year indicating the proportion of unsolicited credit ratings among them, alongside the previously existing items on the largest clients and clients with disproportionate revenue growth. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#anx_I)
 
 *before* (`02009R1060-20091207`)
 
@@ -3906,7 +3923,7 @@ In Section E, the annual disclosure list under point II.2 adds a new item requir
 > 2. A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 25883 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dismissal […truncated by emendrix: 25887 characters omitted…]
 
 *after* (`02009R1060-20110601`)
 
@@ -3929,7 +3946,7 @@ In Section E, the annual disclosure list under point II.2 adds a new item requir
 > A credit rating agency shall be organised in a way that ensures that its business interest does not impair the independence or accuracy of the credit rating activities.
 > The senior management of a credit rating agency shall be of good repute and sufficiently skilled and experienced, and shall ensure the sound and prudent management of the credit rating agency.
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
-> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dism […truncated by emendrix: 26011 characters omitted…]
+> The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dism […truncated by emendrix: 26015 characters omitted…]
 
 **MODIFIED · Annex II** · applies from: unknown
 
