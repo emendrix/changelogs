@@ -103,9 +103,9 @@ Point (d) is expanded to also cover modification of commitments by a WTO member 
 
 *within* `AR 4 PA 2 ALN 1 PTA (ba)`, `AR 4 PA 2 ALN 1 PTA (d)` · *amended by* `32021R0167`
 
-A new point (ba) has been added setting a cap so that measures taken to restrict trade with a third country under points (aa) or (ba) of Article 3 do not exceed the nullification or impairment of the Union's commercial interests caused by that third country's measures. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_4)
+A new point (ba) is added, providing that where measures are taken to restrict trade with a third country in situations under point (aa) or (ba) of Article 3, the level of such measures shall not exceed the nullification or impairment of the Union's commercial interests caused by that third country's measures. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_4)
 
-Point (d) has been expanded to cover modification, not only withdrawal, of concessions or commitments, and to add coverage of Article XXI of the GATS and its related implementing procedures alongside Article XXVIII of the GATT 1994 and its related Understanding, with the equivalence requirement extended to concessions or commitments modified as well as withdrawn. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_4)
+Point (d) is expanded to cover situations where concessions or commitments are modified or withdrawn, not only withdrawn, and to add a reference to Article XXI of the GATS and its related implementing procedures alongside Article XXVIII of the GATT 1994 and its related Understanding, with the equivalence and terms language adjusted accordingly. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20151105#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0654-20210213#art_4)
 
 *before* (`02014R0654-20151105`)
 
@@ -115,7 +115,7 @@ Point (d) has been expanded to cover modification, not only withdrawal, of conce
 > 2. Implementing acts adopted pursuant to paragraph 1 shall meet the following conditions:
 > (a) where concessions or other obligations are suspended following the adjudication of a trade dispute under the WTO Dispute Settlement Understanding, their level shall not exceed the level authorised by the WTO Dispute Settlement Body;
 > (b) where concessions or other obligations are suspended following the discharge of an international dispute settlement procedure under other international trade agreements, including regional or bilateral agreements, their level shall not exceed the level of nullification or impairment as a result of the third country measure concerned, as determined by the Commission or through recourse to arbitration, as the case may be;
-> (c) in the case of rebalancing of concessions or other obligations under provisions on safeguards in international trade agreements, the Union's action shall be substantially equivalent to the level of concessions or other obligations affected by the safeguard measure, in accordance with the conditions of the WTO Agreement on Safeguards or of the provisions on safeguards in other in […truncated by emendrix: 1447 characters omitted…]
+> (c) in the case of rebalancing of concessions or other obligations under provisions on safeguards in international trade agreements, the Union's action shall be substantially equivalent to the level of concessions or other obligations affected by the safeguard measure, in accordance with the conditions of the WTO Agreement on Safeguards or of the provisions on safeguards in other in […truncated by emendrix: 1448 characters omitted…]
 
 *after* (`02014R0654-20210213`)
 
@@ -126,7 +126,7 @@ Point (d) has been expanded to cover modification, not only withdrawal, of conce
 > (a) where concessions or other obligations are suspended following the adjudication of a trade dispute under the WTO Dispute Settlement Understanding, their level shall not exceed the level authorised by the WTO Dispute Settlement Body;
 > (b) where concessions or other obligations are suspended following the discharge of an international dispute settlement procedure under other international trade agreements, including regional or bilateral agreements, their level shall not exceed the level of nullification or impairment as a result of the third country measure concerned, as determined by the Commission or through recourse to arbitration, as the case may be;
 > (ba) where measures are taken to restrict trade with a third country in situations under point (aa) or (ba) of Article 3, the level of such measures shall not exceed the nullification or impairment of the Union’s commercial interests caused by the measures of that third country;
-> (c) in the case of rebalancing of concessions or other obligations under provisions on safeguards in inte […truncated by emendrix: 1907 characters omitted…]
+> (c) in the case of rebalancing of concessions or other obligations under provisions on safeguards in inte […truncated by emendrix: 1908 characters omitted…]
 
 **MODIFIED · Art. 5 — Commercial policy measures** · applies from: unchanged
 
