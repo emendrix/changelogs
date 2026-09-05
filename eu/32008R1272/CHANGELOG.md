@@ -7205,7 +7205,7 @@ The text shown is truncated before the end of the section, so only these visible
 ### `02008R1272-20101201` → `02008R1272-20110419`
 
 - **Act** `eu:32008R1272` · **In force** 2011-04-19 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 9 substantive · 0 date-only · **8 disputed**
+- **Touched** 9 provisions — 8 substantive · 0 date-only · 1 with no text · **8 disputed**
 - **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20101201` · `v2` = `02008R1272-20110419`
@@ -7218,7 +7218,7 @@ The text shown is truncated before the end of the section, so only these visible
 
 **DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
