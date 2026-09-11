@@ -10,6 +10,61 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20260819 -->
+## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
+### `02012R0528-20260615` → `02012R0528-20260819`
+
+- **Act** `eu:32012R0528` · **In force** 2026-08-19 · **Detected** 2026-09-11
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 103 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02012R0528-20260615` · `v2` = `02012R0528-20260819`
+
+---
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unchanged
+
+*within* `AN I` · *amended by* `32026R0447`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The entry for carbon dioxide (EC number 204-696-9) previously carried no restriction text in the restriction column, but the current version adds a set of exposure conditions covering professional users, general public users or by-standers, and a requirement that appropriate measures be taken as described in the summary of product characteristics. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260819#anx_I)
+
+The added conditions specify numeric acceptable exposure concentration limits for carbon dioxide, including a short-term exposure limit and a time-weighted average for professional users, and a separate ceiling for general public users or by-standers. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260819#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260615#anx_I)
+
+*before* (`02012R0528-20260615`)
+
+> ANNEX I
+> LIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)
+> The date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).
+> The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.
+> The date of approval of carbon dioxide generated from propane, butane or a mixture of both by combustion for product-type 19 for the purposes of Article 89(3) is 1 July 2022.
+> The date of approval of potassium sorbate for product-type 6 fo […truncated by emendrix: 3963 characters omitted…]
+
+*after* (`02012R0528-20260819`)
+
+> ANNEX I
+> LIST OF ACTIVE SUBSTANCES REFERRED TO IN ARTICLE 25(a)
+> The date of approval of vinegar for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of Saccharomyces cerevisiae for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of powdered egg for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of honey for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of D-fructose for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of cheese for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> The date of approval of concentrated apple juice for product-type 19 for the purposes of Article 89(3) is 1 June 2021.
+> Council Directive 2001/112/EC of 20 December 2001 relating to fruit juices and certain similar products intended for human consumption (OJ L 10, 12.1.2002, p. 58).
+> The purity indicated in this column was the minimum degree of purity of the active substance evaluated. The active substance in the product placed on the market can be of equal or different purity if it has been proven to be technically equivalent to the evaluated activesubstance.
+> The date of approval of carbon dioxide generated from propane, butane or a mixture of both by combustion for product-type 19 for the purposes of Article 89(3) is 1 July 2022.
+> The date of approval of potassium sorbate for product-type 6 fo […truncated by emendrix: 4556 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0528-20260819 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20260615 -->
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20240611` → `02012R0528-20260615`
