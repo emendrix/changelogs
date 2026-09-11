@@ -10,6 +10,65 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02023R1542-20260813 -->
+## Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste […]
+### `02023R1542-20250731` → `02023R1542-20260813`
+
+- **Act** `eu:32023R1542` · **In force** 2026-08-13 · **Detected** 2026-09-11
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02023R1542-20250731` · `v2` = `02023R1542-20260813`
+
+---
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN I` · *dates* +2008-12-31 +2014-02-26 +2019-01-01 +2024-01-01 · *amended by* `32026R1738`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The Annex I text expands substantially, adding a preamble referencing Directive 2014/35/EU and a voltage-related exemption note stating that the exemption shall be reviewed in 2030, before the substance table. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20260813#anx_I)
+
+For Cadmium, a new point 2 sets a 0,01 % by weight limit for electric vehicle and SLI batteries incorporated in M1 and N1 category vehicles, and a new point 3 excludes electric vehicle batteries used as spare parts for such vehicles placed on the market before 31 December 2008 from that limit. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20260813#anx_I)
+
+For Lead, new points 3 through 8 are added covering portable batteries, electric vehicle batteries, and SLI batteries incorporated in M1 and N1 vehicles, with a 0,1 % weight limit and various exclusions tied to type approval dates including 1 January 2019 and 1 January 2024, and a new entry for Hexavalent chromium sets a 0,1 % weight limit for batteries incorporated in such vehicles. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20260813#anx_I)
+
+*before* (`02023R1542-20250731`)
+
+> ANNEX I
+> RESTRICTION ON SUBSTANCES
+> Column 1
+> Designation of the substance or group of substances Column 2
+> Conditions of restriction
+> 1. Mercury
+> CAS No 7439-97-6
+> EC No 231-106-7 and its compounds Batteries, whether or not incorporated into appliances, light means of transport or other vehicles, shall not contain more than 0,0005 % of mercury (expressed as mercury metal) by weight.
+> 2. Cadmium
+> CAS No 7440-43-9
+> EC No 231-152-8 and its compounds Portable batteries, whether or not incorporated into appliances, light means of transport or other vehicles, shall not contain more than 0,002 % of cadmium (expressed as cadmium metal) by weight.
+> 3. Lead
+> CAS No 7439-92-1
+> EC No 231-100-4 and its compounds 1. From 18 August 2024, portable batteries, whether or not incorporated into appliances, shall not contain more than 0,01 % of lead (expressed as lead metal) by weight.
+> 2. The restriction set out in point 1 shall not apply to portable zinc-air button cells until 18 August 2028.
+
+*after* (`02023R1542-20260813`)
+
+> ANNEX I
+> Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits (OJ L 96, 29.3.2014, p. 357, ELI: http://data.europa.eu/eli/dir/2014/35/oj).
+> Systems that have a voltage of > 75 V DC as provided for in Article 1 of Directive 2014/35/EU of the European Parliament and of the Council
+> .
+> This exemption shall be reviewed in 2030.
+> This exemption shall be reviewed in 2030.
+> Column 1
+> Designation of the substance or group of substances Column 2
+> Conditions of restriction
+> 1. Mercury CAS No 7439-97-6 EC No 231-106-7 and its compounds Batteries, whether or not present in and incorporated into appliances, light means of transport or other vehicles, shall not contain more than 0,0005 % of mercury (expressed as mercury metal) by weight.
+> 2. Cadmium CAS No 7440-43-9 EC No 231-152-8 and its compounds 1. Portable batteries, whether or not present in and incorporated into appliances, light means of transport or other vehicles, shall not contain more than 0,002 % of cadmium (expressed as cadmium metal) by weight.
+> 2. Electric vehicle and SLI batteries, incorporated in vehicles, including special purpose vehicles, of the categories M1 and N1 as defined in Regulation (EU) 2018/858 shall not contain more than 0,01 % of cadmium (expressed as cadmium metal) by weight in homogeneous material.
+> 3. Point 2 shal […truncated by emendrix: 3068 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1542-20260813 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02023R1542-20250731 -->
 ## Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste […]
 ### `02023R1542-20240718` → `02023R1542-20250731`
