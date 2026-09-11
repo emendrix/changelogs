@@ -10,6 +10,77 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20260719 -->
+## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
+### `02017R0745-20260101` → `02017R0745-20260719`
+
+- **Act** `eu:32017R0745` · **In force** 2026-07-19 · **Detected** 2026-09-11
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 139 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02017R0745-20260101` · `v2` = `02017R0745-20260719`
+
+---
+
+**MODIFIED · Art. 52 — Conformity assessment procedures** · applies from: unchanged
+
+*within* `AR 52 PA 4 ALN 2`, `AR 52 PA 4 ALN 2 PTA (a)`, `AR 52 PA 4 ALN 2 PTA (b)` · *amended by* `32026R1359`
+
+The second subparagraph of paragraph 4 restructures the list of exempted class IIb implantable devices into two lettered sub-lists, labelled (a) and (b), instead of a single unlettered list of exceptions. [Art. 52, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#art_52) [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260719#art_52)
+
+The (a) sub-list retains the previously named devices such as sutures, staples, dental fillings and related items, while the new (b) sub-list adds a further set of named devices, including cannulas, catheters, feeding tubes, various suture and bone-related items, markers, distractors, nails, anchors, spinal fixations, textile braids, dental implants, orthodontic devices, dental barriers, and suspensory fixations and cinches, all now also excepted from the per-device technical documentation assessment requirement. [Art. 52, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260719#art_52)
+
+*before* (`02017R0745-20260101`)
+
+> Article 52
+> Conformity assessment procedures
+> 1. Prior to placing a device on the market, manufacturers shall undertake an assessment of the conformity of that device, in accordance with the applicable conformity assessment procedures set out in Annexes IX to XI.
+> 2. Prior to putting into service a device that is not placed on the market, manufacturers shall undertake an assessment of the conformity of that device, in accordance with the applicable conformity assessment procedures set out in Annexes IX to XI.
+> 3. Manufacturers of class III devices, other than custom-made or investigational devices, shall be subject to a conformity assessment as specified in Annex IX. Alternatively, the manufacturer may choose to apply a conformity assessment as specified in Annex X coupled with a conformity assessment as specified in Annex XI.
+> 4. Manufacturers of class IIb devices, other than custom-made or investigational devices, shall be subject to a conformity assessment as specified in Chapters I and III of Annex IX, and including an assessment of the technical documentation as specified in Section 4 of that Annex of at least one representative device per generic device group.
+> However, for class IIb implantable devices, except sutures, staples, dental fillings, dental braces, tooth crowns, screws, wedges, plates, wires, pins, clips and connectors, the assessment of the technical documentation as specified in Section 4 of Annex IX shall apply for every device.
+> Alternatively, the manufacturer […truncated by emendrix: 5969 characters omitted…]
+
+*after* (`02017R0745-20260719`)
+
+> Article 52
+> Conformity assessment procedures
+> 1. Prior to placing a device on the market, manufacturers shall undertake an assessment of the conformity of that device, in accordance with the applicable conformity assessment procedures set out in Annexes IX to XI.
+> 2. Prior to putting into service a device that is not placed on the market, manufacturers shall undertake an assessment of the conformity of that device, in accordance with the applicable conformity assessment procedures set out in Annexes IX to XI.
+> 3. Manufacturers of class III devices, other than custom-made or investigational devices, shall be subject to a conformity assessment as specified in Annex IX. Alternatively, the manufacturer may choose to apply a conformity assessment as specified in Annex X coupled with a conformity assessment as specified in Annex XI.
+> 4. Manufacturers of class IIb devices, other than custom-made or investigational devices, shall be subject to a conformity assessment as specified in Chapters I and III of Annex IX, and including an assessment of the technical documentation as specified in Section 4 of that Annex of at least one representative device per generic device group.
+> However, for class IIb implantable devices, the assessment of the technical documentation as specified in Section 4 of Annex IX shall apply for every device, except for the following class IIb implantable devices:
+> (a) sutures, staples, dental fillings, dental braces, tooth crowns, screws, wedges, plates, wires, pins, c […truncated by emendrix: 6426 characters omitted…]
+
+**MODIFIED · Art. 61 — Clinical evaluation** · applies from: unchanged
+
+*within* `AR 61 PA 6 ALN 1 PTA (b)`, `AR 61 PA 6 ALN 1 PTA (b) PTA (a)`, `AR 61 PA 6 ALN 1 PTA (b) PTA (b)` · *amended by* `32026R1451`
+
+Point (b) of paragraph 6 no longer lists a single flat set of exempted device types, but instead restructures the list into two sub-lists, one repeating the original items such as sutures, staples, dental fillings and similar fasteners, and a second, newly added sub-list naming a much larger range of additional device types including items such as cranial perforators, catheters, guidewires, embolisation coils and various surgical instruments. [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260719#art_61)
+
+The condition that the clinical evaluation for these devices be based on sufficient clinical data and comply with the relevant product-specific common specification, where available, is retained but is now expressed as an introductory qualifier applying to both sub-lists rather than to a single list. [Art. 61, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260101#art_61) [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260719#art_61)
+
+*before* (`02017R0745-20260101`)
+
+> Article 61
+> Clinical evaluation
+> 1. Confirmation of conformity with relevant general safety and performance requirements set out in Annex I under the normal conditions of the intended use of the device, and the evaluation of the undesirable side-effects and of the acceptability of the benefit-risk- ratio referred to in Sections 1 and 8 of Annex I, shall be based on clinical data providing sufficient clinical evidence, including where applicable relevant data as referred to in Annex III.
+> The manufacturer shall specify and justify the level of clinical evidence necessary to demonstrate conformity with the relevant general safety and performance requirements. That level of clinical evidence shall be appropriate in view of the characteristics of the device and its intended purpose.
+> To that end, manufacturers shall plan, conduct and document a clinical evaluation in accordance with this Article and Part A of Annex XIV.
+> 2. For all class III devices and for the class IIb devices referred to in point (b) of Article 54(1), the manufacturer may, prior to its clinical evaluation and/or investigation, consult an expert panel as referred to in Article 106, with the aim of reviewing the manufacturer's intended clinical development strategy and proposals for clinical investigation. The manufacturer shall give due consideration to the views expressed by the expert panel. Such consideration shall be documented in the clinical evaluation report referred to in paragraph 12 of this Article.
+> The ma […truncated by emendrix: 6986 characters omitted…]
+
+*after* (`02017R0745-20260719`)
+
+> Article 61
+> Clinical evaluation
+> 1. Confirmation of conformity with relevant general safety and performance requirements set out in Annex I under the normal conditions of the intended use of the device, and the evaluation of the undesirable side-effects and of the acceptability of the benefit-risk- ratio referred to in Sections 1 and 8 of Annex I, shall be based on clinical data providing sufficient clinical evidence, including where applicable relevant data as referred to in Annex III.
+> The manufacturer shall specify and justify the level of clinical evidence necessary to demonstrate conformity with the relevant general safety and performance requirements. That level of clinical evidence shall be appropriate in view of the characteristics of the device and its intended purpose.
+> To that end, manufacturers shall plan, conduct and document a clinical evaluation in accordance with this Article and Part A of Annex XIV.
+> 2. For all class III devices and for the class IIb devices referred to in point (b) of Article 54(1), the manufacturer may, prior to its clinical evaluation and/or investigation, consult an expert panel as referred to in Article 106, with the aim of reviewing the manufacturer's intended clinical development strategy and proposals for clinical investigation. The manufacturer shall give due consideration to the views expressed by the expert panel. Such consideration shall be documented in the clinical evaluation report referred to in paragraph 12 of this Article.
+> The ma […truncated by emendrix: 8109 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0745-20260719 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20260101 -->
 ## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
 ### `02017R0745-20250110` → `02017R0745-20260101`
