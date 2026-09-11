@@ -10,6 +10,201 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20260518 -->
+## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
+### `02009R1223-20260501` → `02009R1223-20260518`
+
+- **Act** `eu:32009R1223` · **In force** 2026-05-18 · **Detected** 2026-09-11
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02009R1223-20260501` · `v2` = `02009R1223-20260518`
+
+---
+
+**MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN II` · *dates* +2027-01-01 +2028-07-01 · *amended by* `32026R0909`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new introductory sentence has been added stating that from 1 January 2027 cosmetic products containing Triphenyl Phosphate and not complying with the restrictions shall not be placed on the Union market, and that from 1 July 2028 such products shall not be made available on the Union market. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_II)
+
+This sentence does not appear in the earlier version of the list of introductory dated statements. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_II)
+
+The text provided is truncated before the end of the numbered substance table in both versions, so no further differences beyond this added sentence can be described. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_II)
+
+*before* (`02009R1223-20260501`)
+
+> ANNEX II
+> LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
+> From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 22 November 2019 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be placed on the Union market. From 22 February 2020 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be made available on the Union market.
+> From 3 September 2021 hair and eyelash dye products containing those substances shall not be placed on the Union market.
+> From 3 June 2022 hair and eyelash dye products containing those substances shall not be made available on the Union market. […truncated by emendrix: 178392 characters omitted…]
+
+*after* (`02009R1223-20260518`)
+
+> ANNEX II
+> LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS
+> OJ L 159, 29.6.1996, p. 1
+> Modified INNM-name.
+> OJ L 273, 10.10.2002, p. 1.
+> for the individual ingredient see reference number 364 in Annex II.
+> for the individual ingredient see reference number 413 in Annex II.
+> From 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market. From 23 August 2021 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market. From 1 August 2019 cosmetic products containing that substance shall not be made available on the Union market.
+> From 22 November 2019 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be placed on the Union market. From 22 February 2020 hair dye products, including eyebrow dye products, and eyelash dye products containing those substances shall not be made available on the Union market.
+> From 3 September 2021 hair and eyelash dye products containing those substances shall not be placed on the Union market.
+> From 3 June 2022 hair and eyelash dye products containing those substances shall not be made available on the Union market. […truncated by emendrix: 178835 characters omitted…]
+
+**MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN III` · *dates* +2027-01-01 +2028-07-01 +2028-08-01 · *amended by* `32026R0909`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The AFTER text adds two new footnote-style sentences setting out placement and availability deadlines of 1 January 2027 and, respectively, 1 July 2028 and 1 August 2028 for cosmetic products containing certain substances that do not comply with restrictions. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_III)
+
+The AFTER text also rewrites entry 24 on water-soluble zinc salts, replacing the prior single-line listing of zinc acetate, chloride, gluconate and glutamate with a more detailed table that adds zinc citrate and zinc sulphate, lists separate CAS/EC numbers for each salt, and splits the permitted uses and maximum zinc concentrations into four separate product-type rows (toothpaste for users above 1 year, toothpaste for children between 6 months and 1 year, mouthwash for users above 6 years, and other products). [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_III)
+
+Because the provided texts are truncated before the end of the annex, no further differences beyond the marked cut point can be described. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_III)
+
+*before* (`02009R1223-20260501`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> Directive 2005/36/EC of the European Parliament and of the Coun […truncated by emendrix: 195886 characters omitted…]
+
+*after* (`02009R1223-20260518`)
+
+> ANNEX III
+> LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 1.
+> For use as a preservative, see Annex V, No. 5.
+> Only if the concentration exceeds 0,05 %.
+> These substances may be used singly or in combination provided that the sum of the ratios of the levels of each of them in the cosmetic product expressed with reference to the maximum level authorised for each of them does not exceed 2.
+> The quantity of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In cases of mixtures, the sum should not exceed the limits given in column g.
+> The concentration of sodium, potassium or lithium hydroxide is expressed as weight of sodium hydroxide. In case of mixtures, the sum should not exceed the limits given in column g.
+> For use as a preservative, see Annex V, No. 34.
+> For use as a preservative, see Annex V, No 43.
+> For use as a preservative, see Annex V, No. 54.
+> For use as a preservative see Annex V, No 3.
+> Solely for products which might be used for children under 3 years of age.
+> For use as a preservative, see Annex V, No 9.
+> For use as a preservative, see AnnexV, No 23.
+> For use as a preservative, see Annex V, No 8.
+> Directive 2005/36/EC of the European Parliament and of the Coun […truncated by emendrix: 203639 characters omitted…]
+
+**MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
+
+*within* `AN V` · *amended by* `32026R0909`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The AFTER text adds a new entry, numbered 61, for Silver zinc zeolite (Ammonium Silver Zinc Aluminium Silicate), listing its CAS and EC numbers, restricting it to deodorant spray and powder foundation product types at a maximum concentration of 1%, with an added condition that the silver content in the substance must not exceed 2,5% for those two product types. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_V)
+
+This entry is absent from the BEFORE text, which ends at entry 60. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_V)
+
+*before* (`02009R1223-20260501`)
+
+> ANNEX V
+> LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS
+> Preamble
+> 1. For the purposes of this list:
+> Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
+> Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
+> 2. All finished products containing substances which are listed in this Annex and which release formaldehyde shall be labelled with the warning releases formaldehyde where the total concentration of formaldehyde released in the finished product exceeds 0,001 % (10 ppm), irrespective of whether the finished product contains one or more substances releasing formaldehyde.
+> However, all finished products containing substances referred to in the first subparagraph which comply with Regulation (EC) No 1223/2009 as applicable on 30 July 2022 may be placed on the Union market until 31 July 2024 and be made available on the Union market until 31 July 2026.
+> For uses other than preservative, see Annex III, No 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, […truncated by emendrix: 16355 characters omitted…]
+
+*after* (`02009R1223-20260518`)
+
+> ANNEX V
+> LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS
+> Preamble
+> 1. For the purposes of this list:
+> Salts is taken to mean: salts of the cations sodium, potassium, calcium, magnesium, ammonium and ethanolamines; salts of the anions chloride, bromide, sulphate, acetate.
+> Esters is taken to mean: esters of methyl, ethyl, propyl, isopropyl, butyl, isobutyl, phenyl.
+> 2. All finished products containing substances which are listed in this Annex and which release formaldehyde shall be labelled with the warning releases formaldehyde where the total concentration of formaldehyde released in the finished product exceeds 0,001 % (10 ppm), irrespective of whether the finished product contains one or more substances releasing formaldehyde.
+> However, all finished products containing substances referred to in the first subparagraph which comply with Regulation (EC) No 1223/2009 as applicable on 30 July 2022 may be placed on the Union market until 31 July 2024 and be made available on the Union market until 31 July 2026.
+> For uses other than preservative, see Annex III, No 98.
+> Solely for products which might be used for children under 3 years of age and which remain in prolonged contact with the skin.
+> For use other than as a preservative, see Annex III, No. 13.
+> For use other than as a preservative, see Annex III. No. 101.
+> For use other than as a preservative, see Annex III, No. 99.
+> For use other than as a preservative, see Annex III, No. 100.
+> For other uses than preservatives, see Annex III, […truncated by emendrix: 16599 characters omitted…]
+
+**MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN VI` · *dates* +2027-01-01 +2028-07-01 · *amended by* `32026R0909`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+A new paragraph was added stating that from 1 January 2027 cosmetic products containing Benzoic acid, 2-[4-(diethylamino)-2-hydroxybenzoyl]-, hexyl ester and not complying with the conditions shall not be placed on the Union market, and that from 1 July 2028 such non-complying products shall not be made available on the Union market. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_VI)
+
+Entry 28 was renamed from Diethylamino Hydroxy benzoyl Hexyl Benzoate to Diethylamino Hydroxybenzoyl Hexyl Benzoate (DHHB), and its Other-conditions column changed from referencing colorant use in Annex IV, No 143 to a statement that Di-n-hexyl phthalate (DnHexP) as an unavoidable trace impurity in DHHB must not exceed 10 ppm. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_VI)
+
+*before* (`02009R1223-20260501`)
+
+> ANNEX VI
+> LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> However, cosmetic products containing that substance and complying with the restrictions set out in Regulation (EC) No 1223/2009 as applicable on 27 July 2022 may be placed on the Union market until 28 January 2023 and be made available on the Union market until 28 July 2023.
+> Benzophenone as an impurity and/or degradation product of Octocrylene shall be kept at trace level.
+> From 1 January 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 July 2025 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market.
+> In case of combined use of Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine and Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine (nano), the sum shall not exceed 10 %.
+> Reference nu […truncated by emendrix: 9229 characters omitted…]
+
+*after* (`02009R1223-20260518`)
+
+> ANNEX VI
+> LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS
+> Not required if concentration is 0,5 % or less and when it is used only for product protection purposes.
+> For use as a colorant, see Annex IV, No 143.
+> In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Titanium Dioxide and Titanium Dioxide (nano), the sum shall not exceed the limit given in column g.
+> In case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano), the sum shall not exceed the limit given in column g.
+> However, cosmetic products containing that substance and complying with the restrictions set out in Regulation (EC) No 1223/2009 as applicable on 27 July 2022 may be placed on the Union market until 28 January 2023 and be made available on the Union market until 28 July 2023.
+> Benzophenone as an impurity and/or degradation product of Octocrylene shall be kept at trace level.
+> From 1 January 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 July 2025 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market.
+> In case of combined use of Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine and Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine (nano), the sum shall not exceed 10 %.
+> From 1 Janua […truncated by emendrix: 9724 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1223-20260518 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1223-20260501 -->
 ## Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products […]
 ### `02009R1223-20250901` → `02009R1223-20260501`
