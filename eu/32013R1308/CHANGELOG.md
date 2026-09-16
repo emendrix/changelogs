@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common […]
 ### `02013R1308-20260318` → `02013R1308-20260818`
 
-- **Act** `eu:32013R1308` · **In force** 2026-08-18 · **Detected** 2026-09-04
+- **Act** `eu:32013R1308` · **In force** 2026-08-18 · **Detected** 2026-09-16
 - **Touched** 10 provisions — 10 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 248 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -68,9 +68,9 @@ Point (j) of Article 75(3) no longer excludes poultrymeat and spreadable fats fr
 
 *within* `AR 78 PA 1 ALN 1 PTA (a)`, `AR 78 PA 3 ALN 2` · *amended by* `32026R1739`
 
-Point (a) of paragraph 1 now describes the covered sector more broadly as all sectors producing edible parts of animals, naming beef and veal, pigmeat, sheepmeat, goatmeat and poultrymeat as examples, whereas the earlier text limited this point to beef and veal only. [Art. 78, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_78) [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_78)
+Point (a) of paragraph 1 now covers all sectors producing edible parts of animals, naming beef and veal, pigmeat, sheepmeat and goatmeat, and poultrymeat as particular examples, whereas it previously named only beef and veal. [Art. 78, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_78) [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_78)
 
-Paragraph 3 gains an added sentence empowering the Commission to adopt delegated acts under Article 227 supplementing the Regulation by granting derogations, specifically as regards Part Ia, point 3 of Annex VII, allowing use of designations reserved for meat-derived products for other products whose nature is clear through established long-term use and causes no consumer confusion. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_78)
+Paragraph 3 gains an added sentence empowering the Commission to adopt delegated acts under Article 227 granting derogations, in relation to Part Ia point 3 of Annex VII, allowing use of designations reserved for meat-derived products on other products whose nature is clear from established long-term use and does not cause consumer confusion. [Art. 78, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_78)
 
 *before* (`02013R1308-20260318`)
 
@@ -111,7 +111,7 @@ Paragraph 3 gains an added sentence empowering the Commission to adopt delegated
 
 **DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
 
-A new paragraph 6 has been added stating that Article 1, point (8), applies from 19 March 2030 and Article 1, point (10)(a), applies from 19 September 2027. [Art. 119, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_119)
+The later text adds a new paragraph 6 stating that Article 1, point (8) applies from 19 March 2030 and Article 1, point (10)(a) applies from 19 September 2027, a provision absent from the earlier version. [Art. 119, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_119)
 
 *before* (`02013R1308-20260318`)
 
@@ -149,9 +149,11 @@ A new paragraph 6 has been added stating that Article 1, point (8), applies from
 
 *within* `AR 149 PA 2 ALN 1 PTA (c) PTI (i)`, `AR 149 PA 2 ALN 1 PTA (c) PTI (ii)`, `AR 149 PA 2 ALN 1 PTA (c) PTI (iii)` · *amended by* `32026R1739`
 
-The threshold for the volume of raw milk covered by negotiations, expressed as a share of total Union production, is raised from 4% to 7%. [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149) [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149)
+The threshold for the volume of raw milk covered by negotiations relative to total Union production was raised from 4% to 7%. [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149) [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149)
 
-The two thresholds concerning the share of raw milk produced or delivered within a particular Member State are each raised from 33% to 36%. [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149) [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149)
+The thresholds for the volume of raw milk produced or delivered in a particular Member State were each raised from 33% to 36%. [Art. 149, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149) [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149)
+
+The punctuation at the end of points (c)(i) and (c)(ii) was also changed from commas to a semicolon and a semicolon followed by 'and', respectively. [Art. 149, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149)
 
 *before* (`02013R1308-20260318`)
 
@@ -185,11 +187,11 @@ The two thresholds concerning the share of raw milk produced or delivered within
 
 *within* `AR 152 PA 1 ALN 1 PTA (a)`, `AR 152 PA 1 ALN 1 PTA (b)`, `AR 152 PA 1 ALN 1 PTA (c) PTI (vi)`, `AR 152 PA 1a ALN 1`, `AR 152 PA 1b ALN 2` · *amended by* `32026R1739`
 
-Point (a) of Article 152(1)(1) now specifies that producer organisations must be controlled by farmer members producing agricultural products of the soil or of stockfarming, adds that recognition may be granted for one or more listed sectors provided the organisation meets the conditions for all of them, and allows Member States to permit that control to be exercised through associations of such farmers. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
+Point (a) of paragraph 1(1) now specifies that producer organisations are controlled by farmer members producing agricultural products of the soil or of stockfarming, allows recognition covering one or more sectors listed in Article 1(2) provided all sector conditions are met, and permits Member States to allow such farmer control to be exercised through associations of farmers. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
 
-Point (b) of Article 152(1)(1) now describes the organisations as formed on the initiative of farmers producing agricultural products of the soil or of stockfarming rather than simply producers, and point (c)(vi) now also refers to carrying out initiatives promoting short supply chains or use of the optional terms referred to in Article 88a. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
+Point (b) of paragraph 1(1) now requires that producer organisations be formed on the initiative of farmers producing agricultural products of the soil or of stockfarming, rather than simply on the initiative of producers, and point (c)(vi) now adds a reference to carrying out initiatives promoting short supply chains or the use of the optional terms referred to in Article 88a. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
 
-Article 152(1a)(1) now extends the derogation to producer organisations, including cooperatives or equivalent legal forms, that have applied for but not yet received recognition, subject to meeting the requirements of paragraph 1 and Article 154, and sets time limits for using that derogation tied to the recognition period or a five-year window from the application date, while Article 152(1b)(2) adds a new rule allowing associations of producer organisations that do not meet certain conditions in paragraph 1a to still carry out the paragraph 1a activities if their members individually satisfy specified conditions including a 36% national production volume cap. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
+Paragraph 1a(1) now extends the derogation from Article 101(1) TFEU to producer organisations, including cooperatives or equivalent legal forms, that have applied for but not yet received recognition, subject to meeting the requirements of paragraph 1 and Article 154, and sets out a period during which such an organisation may use the derogation tied to the timing set in Article 154(4)(a) or a five-year period from the date the application was submitted, while paragraph 1b(2) adds new conditions allowing an association of producer organisations that does not itself meet certain conditions in paragraph 1a to still carry out the activities referred to in paragraph 1a if its members meet specified membership, exclusivity and volume-share conditions. [Art. 152, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_152)
 
 *before* (`02013R1308-20260318`)
 
@@ -236,11 +238,11 @@ Article 152(1a)(1) now extends the derogation to producer organisations, includi
 
 *within* `AR 153 PA 1 ALN 1 PTA (b)`, `AR 153 PA 2 ALN 1 PTA (c)`, `AR 153 PA 2a ALN 1` · *amended by* `32026R1739`
 
-Point (b) of paragraph 1 now adds a clarification that any given product refers to products that are sufficiently distinct, in particular on the basis of their characteristics or intended final uses. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153)
+Paragraph 1(b) now clarifies that a given product refers to products that are sufficiently distinct, particularly by characteristics or intended final uses, whereas the earlier text did not include this qualification. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153) [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153)
 
-Point (c) of paragraph 2 now refers to farmer members producing agricultural products of the soil or of stockfarming having democratic scrutiny rights, rather than to producer members generally. [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153) [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153)
+Paragraph 2(c) now refers to farmer members producing agricultural products of the soil or of stockfarming as those entitled to scrutinise the organisation, replacing the earlier reference to producer members generally. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153) [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153)
 
-Paragraph 2a now speaks of members generally rather than producer members being in direct contact with purchasers, extends the safeguard to cover the objectives pursued by the producer organisation including concentration of supply and placing of products on the market, and adds a new sentence allowing the statutes to include internal control and prevention mechanisms to ensure such contact does not adversely affect the organisation's objectives, including concentration of supply. [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153) [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153)
+Paragraph 2a now speaks of members generally rather than producer members, extends the protected interest to the objectives pursued by the producer organisation including concentration of supply and placing of products on the market, and adds a new sentence allowing statutes to include internal control and prevention mechanisms to ensure such contact does not adversely affect those objectives, including concentration of supply. [Art. 153, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153) [Art. 153, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153)
 
 *before* (`02013R1308-20260318`)
 
@@ -279,7 +281,7 @@ Paragraph 2a now speaks of members generally rather than producer members being 
 
 *within* `AR 157 PA 1 ALN 1 PTA (c) PTI (xvii)` · *amended by* `32026R1739`
 
-A new point (xvii) has been added to the list of objectives in Article 157(1)(c), covering the promotion of the use of the optional terms referred to in Article 88a. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_157)
+A new point (xvii) is added to the list of objectives that interbranch organisations may pursue, covering the promotion of the use of the optional terms referred to in Article 88a. [Art. 157, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_157)
 
 *before* (`02013R1308-20260318`)
 
@@ -313,11 +315,11 @@ A new point (xvii) has been added to the list of objectives in Article 157(1)(c)
 
 *within* `AR 210a PA 3 ALN 1 PTA (a)`, `AR 210a PA 3 ALN 1 PTA (c)`, `AR 210a PA 3 ALN 1 PTA (d)`, `AR 210a PA 3 ALN 1 PTA (e)`, `AR 210a PA 3 ALN 1 PTA (f)`, `AR 210a PA 6 ALN 1`, `AR 210a PA 6 ALN 2`, `AR 210a PA 6 ALN 3`, `AR 210a PA 6 ALN 4`, `AR 210a PA 6 ALN 5` · *dates* +2009-11-30 +2028-08-19 · *amended by* `32026R1739`
 
-Paragraph 3 expands the list of objectives a sustainability standard can contribute to: point (a) is elaborated with references to irrigation systems and nutrient recycling of livestock manure, and three new points are added covering the economic viability of small family farms with standard output not exceeding EUR 100000 as defined by reference to Council Regulation (EC) No 1217/2009, attracting and supporting young producers, and improving working and safety conditions. [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
+Paragraph 3, point (a) now describes the environmental objectives with additional examples, including irrigation systems for water and soil protection and the nutrient recycling of livestock manure into organic fertilisers or energy production as part of the circular economy transition, and adds new points (d), (e) and (f) covering the economic viability of small family-labour farms with standard output not exceeding EUR 100000, attracting and supporting young producers, and improving working and safety conditions. [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
 
-Paragraph 6 now distinguishes two opinion-request windows for producers: one from 8 December 2023 covering the objectives in paragraph 3 points (a), (b) and (c), and a new one from 19 August 2028 covering the objectives in paragraph 3 points (d), (e) and (f). [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
+Paragraph 6 now splits the ability of producers to request a Commission opinion into two tracks, one covering the objectives in points (a), (b) and (c) of paragraph 3 and another, running from 19 August 2028, covering the new objectives in points (d), (e) and (f), whereas the earlier version referred to opinions on paragraph 1 as a whole without this split. [Art. 210a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_210a) [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
 
-The wording on the Commission sending its opinion and on declaring future application of Article 101(1) TFEU, and on amending an opinion, is rephrased without changing its substance compared with the earlier version. [Art. 210a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_210a) [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
+Minor wording changes also appear in paragraph 6, such as rephrasing how the Commission's opinion is sent and how it may declare Article 101(1) TFEU applicable or change an opinion's content. [Art. 210a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a)
 
 *before* (`02013R1308-20260318`)
 
@@ -343,9 +345,9 @@ The wording on the Commission sending its opinion and on declaring future applic
 
 *within* `AR 222 PA 1 ALN 1`, `AR 222 PA 1 ALN 2`, `AR 222 PA 1 ALN 3`, `AR 222 PA 1 ALN 4` · *amended by* `32026R1739`
 
-A new subparagraph was added stating that where the Commission adopts such implementing acts, it may decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned, with such financial support providing the means necessary for the implementation without delay of those agreements and decisions by the operators concerned. [Art. 222, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222)
+A new subparagraph was added allowing the Commission, when it adopts implementing acts under the first subparagraph, to decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned, with such support providing the means necessary for the operators concerned to implement the agreements and decisions without delay. [Art. 222, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222)
 
-The following subparagraph on implementing acts was revised to add that the Commission shall also specify, where applicable, the amount of the agricultural reserve allocated to the Member State concerned under the newly inserted subparagraph, alongside the previously specified scope and duration of the derogation. [Art. 222, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_222) [Art. 222, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222)
+The provision on the implementing acts specifying the scope and duration of the derogation was reworded to also cover, where applicable, the amount of the agricultural reserve allocated to the Member State concerned under the newly added subparagraph, whereas the earlier text only referred to specifying the substantive and geographic scope and the period of the derogation. [Art. 222, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_222) [Art. 222, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222)
 
 *before* (`02013R1308-20260318`)
 
@@ -382,7 +384,7 @@ The following subparagraph on implementing acts was revised to add that the Comm
 
 Paragraph 2 now adds a sentence stating that the Commission may make a specific distinction between organic and non-organic production within the Union market observatories. [Art. 222a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222a)
 
-The rest of Article 222a, including paragraphs 1, 3 and 4, remains textually unchanged between the two versions. [Art. 222a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_222a) [Art. 222a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222a)
+The rest of the provision, including paragraphs 1, 3 and 4, remains unchanged between the two versions. [Art. 222a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_222a) [Art. 222a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_222a)
 
 *before* (`02013R1308-20260318`)
 

@@ -8,7 +8,7 @@
   },
   "from_version": "02013R1308-20260318",
   "to_version": "02013R1308-20260818",
-  "detected_on": "2026-09-04",
+  "detected_on": "2026-09-16",
   "in_force": [
     "2026-08-18"
   ],
@@ -172,7 +172,7 @@
           },
           "corpus_metadata": {
             "status": "observed",
-            "detail": "32026R1739 R; 32026R1739 J; 32026R1739 DEL",
+            "detail": "32026R1739 DEL; 32026R1739 R; 32026R1739 J",
             "change_types": [
               "MODIFIED"
             ]
@@ -190,7 +190,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Point (a) of paragraph 1 now describes the covered sector more broadly as all sectors producing edible parts of animals, naming beef and veal, pigmeat, sheepmeat, goatmeat and poultrymeat as examples, whereas the earlier text limited this point to beef and veal only.",
+          "text": "Point (a) of paragraph 1 now covers all sectors producing edible parts of animals, naming beef and veal, pigmeat, sheepmeat and goatmeat, and poultrymeat as particular examples, whereas it previously named only beef and veal.",
           "fallback": false,
           "citations": [
             {
@@ -222,7 +222,7 @@
           ]
         },
         {
-          "text": "Paragraph 3 gains an added sentence empowering the Commission to adopt delegated acts under Article 227 supplementing the Regulation by granting derogations, specifically as regards Part Ia, point 3 of Annex VII, allowing use of designations reserved for meat-derived products for other products whose nature is clear through established long-term use and causes no consumer confusion.",
+          "text": "Paragraph 3 gains an added sentence empowering the Commission to adopt delegated acts under Article 227 granting derogations, in relation to Part Ia point 3 of Annex VII, allowing use of designations reserved for meat-derived products on other products whose nature is clear from established long-term use and does not cause consumer confusion.",
           "fallback": false,
           "citations": [
             {
@@ -299,7 +299,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new paragraph 6 has been added stating that Article 1, point (8), applies from 19 March 2030 and Article 1, point (10)(a), applies from 19 September 2027.",
+          "text": "The later text adds a new paragraph 6 stating that Article 1, point (8) applies from 19 March 2030 and Article 1, point (10)(a) applies from 19 September 2027, a provision absent from the earlier version.",
           "fallback": false,
           "citations": [
             {
@@ -384,7 +384,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The threshold for the volume of raw milk covered by negotiations, expressed as a share of total Union production, is raised from 4% to 7%.",
+          "text": "The threshold for the volume of raw milk covered by negotiations relative to total Union production was raised from 4% to 7%.",
           "fallback": false,
           "citations": [
             {
@@ -416,7 +416,7 @@
           ]
         },
         {
-          "text": "The two thresholds concerning the share of raw milk produced or delivered within a particular Member State are each raised from 33% to 36%.",
+          "text": "The thresholds for the volume of raw milk produced or delivered in a particular Member State were each raised from 33% to 36%.",
           "fallback": false,
           "citations": [
             {
@@ -432,6 +432,25 @@
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_149",
               "label": "Art. 149, 02013R1308-20260318"
             },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 149"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_149",
+              "label": "Art. 149, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "The punctuation at the end of points (c)(i) and (c)(ii) was also changed from commas to a semicolon and a semicolon followed by 'and', respectively.",
+          "fallback": false,
+          "citations": [
             {
               "ref": {
                 "act": {
@@ -516,7 +535,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Point (a) of Article 152(1)(1) now specifies that producer organisations must be controlled by farmer members producing agricultural products of the soil or of stockfarming, adds that recognition may be granted for one or more listed sectors provided the organisation meets the conditions for all of them, and allows Member States to permit that control to be exercised through associations of such farmers.",
+          "text": "Point (a) of paragraph 1(1) now specifies that producer organisations are controlled by farmer members producing agricultural products of the soil or of stockfarming, allows recognition covering one or more sectors listed in Article 1(2) provided all sector conditions are met, and permits Member States to allow such farmer control to be exercised through associations of farmers.",
           "fallback": false,
           "citations": [
             {
@@ -535,7 +554,7 @@
           ]
         },
         {
-          "text": "Point (b) of Article 152(1)(1) now describes the organisations as formed on the initiative of farmers producing agricultural products of the soil or of stockfarming rather than simply producers, and point (c)(vi) now also refers to carrying out initiatives promoting short supply chains or use of the optional terms referred to in Article 88a.",
+          "text": "Point (b) of paragraph 1(1) now requires that producer organisations be formed on the initiative of farmers producing agricultural products of the soil or of stockfarming, rather than simply on the initiative of producers, and point (c)(vi) now adds a reference to carrying out initiatives promoting short supply chains or the use of the optional terms referred to in Article 88a.",
           "fallback": false,
           "citations": [
             {
@@ -554,7 +573,7 @@
           ]
         },
         {
-          "text": "Article 152(1a)(1) now extends the derogation to producer organisations, including cooperatives or equivalent legal forms, that have applied for but not yet received recognition, subject to meeting the requirements of paragraph 1 and Article 154, and sets time limits for using that derogation tied to the recognition period or a five-year window from the application date, while Article 152(1b)(2) adds a new rule allowing associations of producer organisations that do not meet certain conditions in paragraph 1a to still carry out the paragraph 1a activities if their members individually satisfy specified conditions including a 36% national production volume cap.",
+          "text": "Paragraph 1a(1) now extends the derogation from Article 101(1) TFEU to producer organisations, including cooperatives or equivalent legal forms, that have applied for but not yet received recognition, subject to meeting the requirements of paragraph 1 and Article 154, and sets out a period during which such an organisation may use the derogation tied to the timing set in Article 154(4)(a) or a five-year period from the date the application was submitted, while paragraph 1b(2) adds new conditions allowing an association of producer organisations that does not itself meet certain conditions in paragraph 1a to still carry out the activities referred to in paragraph 1a if its members meet specified membership, exclusivity and volume-share conditions.",
           "fallback": false,
           "citations": [
             {
@@ -639,7 +658,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Point (b) of paragraph 1 now adds a clarification that any given product refers to products that are sufficiently distinct, in particular on the basis of their characteristics or intended final uses.",
+          "text": "Paragraph 1(b) now clarifies that a given product refers to products that are sufficiently distinct, particularly by characteristics or intended final uses, whereas the earlier text did not include this qualification.",
           "fallback": false,
           "citations": [
             {
@@ -654,13 +673,7 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153",
               "label": "Art. 153, 02013R1308-20260818"
-            }
-          ]
-        },
-        {
-          "text": "Point (c) of paragraph 2 now refers to farmer members producing agricultural products of the soil or of stockfarming having democratic scrutiny rights, rather than to producer members generally.",
-          "fallback": false,
-          "citations": [
+            },
             {
               "ref": {
                 "act": {
@@ -673,7 +686,13 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153",
               "label": "Art. 153, 02013R1308-20260318"
-            },
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2(c) now refers to farmer members producing agricultural products of the soil or of stockfarming as those entitled to scrutinise the organisation, replacing the earlier reference to producer members generally.",
+          "fallback": false,
+          "citations": [
             {
               "ref": {
                 "act": {
@@ -686,13 +705,7 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153",
               "label": "Art. 153, 02013R1308-20260818"
-            }
-          ]
-        },
-        {
-          "text": "Paragraph 2a now speaks of members generally rather than producer members being in direct contact with purchasers, extends the safeguard to cover the objectives pursued by the producer organisation including concentration of supply and placing of products on the market, and adds a new sentence allowing the statutes to include internal control and prevention mechanisms to ensure such contact does not adversely affect the organisation's objectives, including concentration of supply.",
-          "fallback": false,
-          "citations": [
+            },
             {
               "ref": {
                 "act": {
@@ -705,7 +718,13 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153",
               "label": "Art. 153, 02013R1308-20260318"
-            },
+            }
+          ]
+        },
+        {
+          "text": "Paragraph 2a now speaks of members generally rather than producer members, extends the protected interest to the objectives pursued by the producer organisation including concentration of supply and placing of products on the market, and adds a new sentence allowing statutes to include internal control and prevention mechanisms to ensure such contact does not adversely affect those objectives, including concentration of supply.",
+          "fallback": false,
+          "citations": [
             {
               "ref": {
                 "act": {
@@ -718,6 +737,19 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_153",
               "label": "Art. 153, 02013R1308-20260818"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260318",
+                "location": "AR 153"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_153",
+              "label": "Art. 153, 02013R1308-20260318"
             }
           ]
         }
@@ -786,7 +818,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new point (xvii) has been added to the list of objectives in Article 157(1)(c), covering the promotion of the use of the optional terms referred to in Article 88a.",
+          "text": "A new point (xvii) is added to the list of objectives that interbranch organisations may pursue, covering the promotion of the use of the optional terms referred to in Article 88a.",
           "fallback": false,
           "citations": [
             {
@@ -882,7 +914,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Paragraph 3 expands the list of objectives a sustainability standard can contribute to: point (a) is elaborated with references to irrigation systems and nutrient recycling of livestock manure, and three new points are added covering the economic viability of small family farms with standard output not exceeding EUR 100000 as defined by reference to Council Regulation (EC) No 1217/2009, attracting and supporting young producers, and improving working and safety conditions.",
+          "text": "Paragraph 3, point (a) now describes the environmental objectives with additional examples, including irrigation systems for water and soil protection and the nutrient recycling of livestock manure into organic fertilisers or energy production as part of the circular economy transition, and adds new points (d), (e) and (f) covering the economic viability of small family-labour farms with standard output not exceeding EUR 100000, attracting and supporting young producers, and improving working and safety conditions.",
           "fallback": false,
           "citations": [
             {
@@ -901,26 +933,7 @@
           ]
         },
         {
-          "text": "Paragraph 6 now distinguishes two opinion-request windows for producers: one from 8 December 2023 covering the objectives in paragraph 3 points (a), (b) and (c), and a new one from 19 August 2028 covering the objectives in paragraph 3 points (d), (e) and (f).",
-          "fallback": false,
-          "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32013R1308",
-                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-                },
-                "version": "02013R1308-20260818",
-                "location": "AR 210a"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a",
-              "label": "Art. 210a, 02013R1308-20260818"
-            }
-          ]
-        },
-        {
-          "text": "The wording on the Commission sending its opinion and on declaring future application of Article 101(1) TFEU, and on amending an opinion, is rephrased without changing its substance compared with the earlier version.",
+          "text": "Paragraph 6 now splits the ability of producers to request a Commission opinion into two tracks, one covering the objectives in points (a), (b) and (c) of paragraph 3 and another, running from 19 August 2028, covering the new objectives in points (d), (e) and (f), whereas the earlier version referred to opinions on paragraph 1 as a whole without this split.",
           "fallback": false,
           "citations": [
             {
@@ -936,6 +949,25 @@
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260318#art_210a",
               "label": "Art. 210a, 02013R1308-20260318"
             },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32013R1308",
+                  "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
+                },
+                "version": "02013R1308-20260818",
+                "location": "AR 210a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20260818#art_210a",
+              "label": "Art. 210a, 02013R1308-20260818"
+            }
+          ]
+        },
+        {
+          "text": "Minor wording changes also appear in paragraph 6, such as rephrasing how the Commission's opinion is sent and how it may declare Article 101(1) TFEU applicable or change an opinion's content.",
+          "fallback": false,
+          "citations": [
             {
               "ref": {
                 "act": {
@@ -1019,7 +1051,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new subparagraph was added stating that where the Commission adopts such implementing acts, it may decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned, with such financial support providing the means necessary for the implementation without delay of those agreements and decisions by the operators concerned.",
+          "text": "A new subparagraph was added allowing the Commission, when it adopts implementing acts under the first subparagraph, to decide to make Union support from the agricultural reserve referred to in Article 16 of Regulation (EU) 2021/2116 available to the Member States concerned, with such support providing the means necessary for the operators concerned to implement the agreements and decisions without delay.",
           "fallback": false,
           "citations": [
             {
@@ -1038,7 +1070,7 @@
           ]
         },
         {
-          "text": "The following subparagraph on implementing acts was revised to add that the Commission shall also specify, where applicable, the amount of the agricultural reserve allocated to the Member State concerned under the newly inserted subparagraph, alongside the previously specified scope and duration of the derogation.",
+          "text": "The provision on the implementing acts specifying the scope and duration of the derogation was reworded to also cover, where applicable, the amount of the agricultural reserve allocated to the Member State concerned under the newly added subparagraph, whereas the earlier text only referred to specifying the substantive and geographic scope and the period of the derogation.",
           "fallback": false,
           "citations": [
             {
@@ -1153,7 +1185,7 @@
           ]
         },
         {
-          "text": "The rest of Article 222a, including paragraphs 1, 3 and 4, remains textually unchanged between the two versions.",
+          "text": "The rest of the provision, including paragraphs 1, 3 and 4, remains unchanged between the two versions.",
           "fallback": false,
           "citations": [
             {
@@ -1234,18 +1266,7 @@
         "note": "21 annotations in (2026-03-18, 2026-08-18]",
         "claims": [
           {
-            "location": "AR 152 PA 1 PTA (a)",
-            "change_type": "MODIFIED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 149 PA 2 PTA (c)",
+            "location": "AR 153 PA 2a",
             "change_type": "MODIFIED",
             "in_force": "2026-08-18",
             "source": "32026R1739 R",
@@ -1267,139 +1288,7 @@
             }
           },
           {
-            "location": "AR 75 PA 3 PTA (j)",
-            "change_type": "MODIFIED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 157 PA 1 PTA (c) PTI (xvii)",
-            "change_type": "INSERTED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 210a PA 6",
-            "change_type": "MODIFIED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 153 PA 2a",
-            "change_type": "MODIFIED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 210a PA 3 PTA (d)",
-            "change_type": "INSERTED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 153 PA 1 PTA (b)",
-            "change_type": "MODIFIED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 222 PA 1",
-            "change_type": "MODIFIED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 78 PA 1 PTA (a)",
-            "change_type": "MODIFIED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 152 PA 1 PTA (c) PTI (vi)",
-            "change_type": "MODIFIED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 152 PA 1b ALN",
-            "change_type": "INSERTED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 210a PA 3 PTA (e)",
-            "change_type": "INSERTED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 78 PA 3 ALN",
-            "change_type": "INSERTED",
-            "in_force": "2026-08-18",
-            "source": "32026R1739 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32026R1739",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 222a PA 2",
+            "location": "AR 210a PA 3 PTA (a)",
             "change_type": "MODIFIED",
             "in_force": "2026-08-18",
             "source": "32026R1739 R",
@@ -1421,10 +1310,10 @@
             }
           },
           {
-            "location": "AR 210a PA 3 PTA (a)",
-            "change_type": "MODIFIED",
+            "location": "AR 210a PA 3 PTA (d)",
+            "change_type": "INSERTED",
             "in_force": "2026-08-18",
-            "source": "32026R1739 R",
+            "source": "32026R1739 J",
             "amending_act": {
               "corpus": "eu",
               "key": "32026R1739",
@@ -1432,7 +1321,7 @@
             }
           },
           {
-            "location": "AR 152 PA 1a ALN",
+            "location": "AR 222a PA 2",
             "change_type": "MODIFIED",
             "in_force": "2026-08-18",
             "source": "32026R1739 R",
@@ -1454,7 +1343,150 @@
             }
           },
           {
+            "location": "AR 152 PA 1a ALN",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 78 PA 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 149 PA 2 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 157 PA 1 PTA (c) PTI (xvii)",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 222 PA 1",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 152 PA 1b ALN",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 153 PA 1 PTA (b)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 75 PA 3 PTA (j)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 78 PA 3 ALN",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 210a PA 3 PTA (e)",
+            "change_type": "INSERTED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 152 PA 1 PTA (c) PTI (vi)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 152 PA 1 PTA (a)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
             "location": "AR 153 PA 2 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-08-18",
+            "source": "32026R1739 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R1739",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 210a PA 6",
             "change_type": "MODIFIED",
             "in_force": "2026-08-18",
             "source": "32026R1739 R",
@@ -1754,51 +1786,87 @@
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
-    "changes": 15,
+    "changes": 10,
     "explained": 10,
-    "unavailable": 5,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
     "model_failed": 0,
-    "nothing_to_explain": 5,
+    "nothing_to_explain": 0,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 64470,
-      "output_tokens": 4074,
-      "requests": 13,
-      "schema_repairs": 3
+      "input_tokens": 59751,
+      "output_tokens": 3834,
+      "requests": 12,
+      "schema_repairs": 2
     }
   },
   "gate": {
-    "changes": 15,
+    "changes": 10,
     "passed_first": 10,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 5,
+    "unexplained": 0,
     "retries": 0,
-    "sentences": 21,
-    "citations": 30,
+    "sentences": 22,
+    "citations": 32,
     "citations_rejected": 0,
     "notes_dropped": 1,
     "coordinates_unsupported": 0
   },
-  "repairs": [
+  "repairs": [],
+  "evidence": [
     {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-05",
-      "addressed": 15,
-      "repaired": 7,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
+      "location": "AR 75",
+      "occurrence": 0,
+      "digest": "sha256:988989a6e3aa949f6649ed68c63aebc0bc0273438a06cfb72c8802fe832f6e75"
+    },
+    {
+      "location": "AR 78",
+      "occurrence": 0,
+      "digest": "sha256:d6ae6fe0185adebcdb15f4e620db089263b812af7eba6815451dc9a220489a1e"
+    },
+    {
+      "location": "AR 119",
+      "occurrence": 0,
+      "digest": "sha256:a21867ab9cefc5a4e8aa93526f39822e6205ea79767ec8772e26eb1a29773c59"
+    },
+    {
+      "location": "AR 149",
+      "occurrence": 0,
+      "digest": "sha256:4f07d1c34853d025e5d717fe61979ddc399b8043e431a9933b831c10d52c0b85"
+    },
+    {
+      "location": "AR 152",
+      "occurrence": 0,
+      "digest": "sha256:aa6f95e783bcc32c8bf11345f018db2ad1f6dafa89730308c0f4b0413de87e6f"
+    },
+    {
+      "location": "AR 153",
+      "occurrence": 0,
+      "digest": "sha256:486748c8b57a9b7607a7601a48a4db25b5174bc442b97ac319822e20119c7c03"
+    },
+    {
+      "location": "AR 157",
+      "occurrence": 0,
+      "digest": "sha256:2c9d9de9dbf555e91790439d5c8bbd7e42934e69b8d704e5bc573595569aabc1"
+    },
+    {
+      "location": "AR 210a",
+      "occurrence": 0,
+      "digest": "sha256:94408ffbddbc58b0b2c48eef9c01c446c4fb18664eaa90a20fe781b24d5dd5e6"
+    },
+    {
+      "location": "AR 222",
+      "occurrence": 0,
+      "digest": "sha256:d8ef2ebc7a61cb581e405cbe1e2195ff12886b952886fc473be33de55eefeba3"
+    },
+    {
+      "location": "AR 222a",
+      "occurrence": 0,
+      "digest": "sha256:f40cd64e99fce25c2085ee23e861cb8a2a3eaa91ea59b23786a78ffab2aadbd9"
     }
-  ],
-  "evidence": []
+  ]
 }
