@@ -8,7 +8,7 @@
   },
   "from_version": "02014R1286-20211221",
   "to_version": "02014R1286-20240109",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-16",
   "in_force": [
     "2024-01-09"
   ],
@@ -90,7 +90,26 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "This is a newly inserted article requiring PRIIPs manufacturers to submit the key information document to a designated collection body so it can be made accessible on the European single access point, alongside detailed format, metadata and designation requirements for Member States and the ESAs.",
+          "text": "This is a newly inserted article requiring PRIIPs manufacturers, from 10 January 2028, to submit the key information document to a designated collection body so it can be made accessible on the European single access point, alongside specified metadata and format requirements.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R1286",
+                  "display_name": "Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (Text with EEA relevance)"
+                },
+                "version": "02014R1286-20240109",
+                "location": "AR 29a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20240109#art_29a",
+              "label": "Art. 29a, 02014R1286-20240109"
+            }
+          ]
+        },
+        {
+          "text": "It also requires Member States to designate a collection body by 9 January 2028 and provides that, from 10 January 2028, certain other information under this Regulation is likewise to be made accessible on that access point, with implementing technical standards and guidelines to be developed by the European Supervisory Authorities.",
           "fallback": false,
           "citations": [
             {
@@ -227,9 +246,9 @@
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
-    "changes": 2,
+    "changes": 1,
     "explained": 1,
-    "unavailable": 1,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
@@ -238,69 +257,26 @@
     "nothing_to_explain": 0,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 3870,
-      "output_tokens": 397,
+      "input_tokens": 3869,
+      "output_tokens": 269,
       "requests": 1,
       "schema_repairs": 0
     }
   },
   "gate": {
-    "changes": 2,
+    "changes": 1,
     "passed_first": 1,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 1,
+    "unexplained": 0,
     "retries": 0,
-    "sentences": 3,
-    "citations": 3,
+    "sentences": 2,
+    "citations": 2,
     "citations_rejected": 0,
-    "notes_dropped": 1,
+    "notes_dropped": 0,
     "coordinates_unsupported": 0
   },
-  "repairs": [
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-04",
-      "addressed": 2,
-      "repaired": 2,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-05",
-      "addressed": 1,
-      "repaired": 1,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "evidence",
-      "repaired_on": "2026-09-05",
-      "addressed": 1,
-      "repaired": 1,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 3869,
-        "output_tokens": 150,
-        "requests": 1,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": true
-    }
-  ],
+  "repairs": [],
   "evidence": [
     {
       "location": "AR 29a",

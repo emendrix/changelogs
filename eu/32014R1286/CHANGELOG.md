@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information […]
 ### `02014R1286-20211221` → `02014R1286-20240109`
 
-- **Act** `eu:32014R1286` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Act** `eu:32014R1286` · **In force** 2024-01-09 · **Detected** 2026-09-16
 - **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 34 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -28,7 +28,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 **DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
-This is a newly inserted article requiring PRIIPs manufacturers to submit the key information document to a designated collection body so it can be made accessible on the European single access point, alongside detailed format, metadata and designation requirements for Member States and the ESAs. [Art. 29a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20240109#art_29a)
+This is a newly inserted article requiring PRIIPs manufacturers, from 10 January 2028, to submit the key information document to a designated collection body so it can be made accessible on the European single access point, alongside specified metadata and format requirements. [Art. 29a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20240109#art_29a)
+
+It also requires Member States to designate a collection body by 9 January 2028 and provides that, from 10 January 2028, certain other information under this Regulation is likewise to be made accessible on that access point, with implementing technical standards and guidelines to be developed by the European Supervisory Authorities. [Art. 29a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R1286-20240109#art_29a)
 
 *after* (`02014R1286-20240109`)
 
