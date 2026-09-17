@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities […]
 ### `02014R0909-20250117` → `02014R0909-20260117`
 
-- **Act** `eu:32014R0909` · **In force** 2026-01-17 · **Detected** 2026-08-13
+- **Act** `eu:32014R0909` · **In force** 2026-01-17 · **Detected** 2026-09-17
 - **Touched** 35 provisions — 5 substantive · 0 date-only · 30 with no text · **31 disputed**
 - **Diff** 5 inserted · 29 modified · 1 deleted · 0 renumbered · 0 deferred · 78 unchanged
 - **Gate** 0 sentences quoted verbatim · 30 changes shipped without an explanation
@@ -46,9 +46,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 7 PA 3 ALN 1 PTA (a)`, `AR 7 PA 3 ALN 1 PTA (b)` · *amended by* `32023R2845`
 
-Paragraph 3 now includes two exemptions from the penalty mechanism that were absent before: one for settlement fails whose underlying cause is not attributable to the participants in the transaction, and one for operations that are not considered as trading. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_7)
+Paragraph 3 now includes two additional exemptions from the penalty mechanism, covering settlement fails whose underlying cause is not attributable to the participants in the transaction, and operations that are not considered as trading. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_7)
 
-The earlier version of this paragraph began directly with the exemption for transactions where the failing participant is a CCP, without these two preceding points. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_7)
+The earlier version of this list began directly with the exemption for transactions where the failing participant is a CCP, without these two preceding points. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_7)
 
 *before* (`02014R0909-20250117`)
 
@@ -162,9 +162,11 @@ The earlier version of this paragraph began directly with the exemption for tran
 
 *within* `AR 25 PA 2a` · *amended by* `32023R2845`
 
-A new paragraph 2a has been added, requiring a third-country CSD that intends to provide the core service listed in Section A, point 3, of the Annex in relation to financial instruments constituted under the law of a Member State to notify ESMA of that intention, and requiring ESMA to inform the competent authority of the Member State under whose law the instruments are constituted of the notification received. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_25)
+A new paragraph 2a has been inserted, requiring a third-country CSD that intends to provide the core service referred to in Section A, point 3 of the Annex, in relation to financial instruments constituted under the law of a Member State referred to in Article 49(1), second subparagraph, to notify ESMA of that intention. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_25)
 
-This paragraph did not exist in the earlier version of Article 25. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_25)
+The same new paragraph provides that ESMA shall inform the competent authority of the Member State under whose law the financial instruments are constituted of the notification received. [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_25)
+
+This paragraph 2a did not appear in the earlier version of Article 25, which moved directly from paragraph 2 to paragraph 3. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_25)
 
 *before* (`02014R0909-20250117`)
 
@@ -297,11 +299,9 @@ This paragraph did not exist in the earlier version of Article 25. [Art. 25, v1]
 
 **DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says MODIFIED, the instruction parse says INSERTED
 
-The after text adds two new paragraphs, numbered 1 and 2, ahead of the existing paragraph 3. [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_47a)
+Two new paragraphs are added at the start of the article: one requiring CSDs that apply deferred net settlement to define the rules and procedures for that mechanism and for settling participants' net claims and obligations, and another requiring such CSDs to measure, monitor, manage and report to competent authorities the credit and liquidity risks arising from that mechanism. [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_47a)
 
-Paragraph 1 requires CSDs applying deferred net settlement to define rules and procedures for that mechanism and for settling participants' net claims and obligations, and paragraph 2 requires such CSDs to measure, monitor, manage and report credit and liquidity risks arising from that mechanism to the competent authorities. [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_47a)
-
-The prior version of the article, which contained only the paragraph on ESMA's development of draft regulatory technical standards, did not include these two paragraphs. [Art. 47a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_47a)
+The remaining text on ESMA's development of draft regulatory technical standards, the submission deadline, and the delegation of power to the Commission is unchanged between the two versions. [Art. 47a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_47a) [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_47a)
 
 *before* (`02014R0909-20250117`)
 
@@ -345,11 +345,11 @@ The prior version of the article, which contained only the paragraph on ESMA's d
 
 *within* `AR 54 PA 5 ALN 1`, `AR 54 PA 5 ALN 2`, `AR 54 PA 6 ALN 1`, `AR 54 PA 7 ALN 1` · *amended by* `32023R2845`
 
-Paragraph 5 now exempts credit institutions under paragraph 2a, point (a), from paragraph 4 and also exempts credit institutions and CSDs under paragraph 2a from paragraph 4a, replacing the earlier fixed one per cent and EUR 2.5 billion cap with a threshold to be determined under paragraph 9, and it changes the exceeded-threshold referral from paragraph 4 to paragraph 2 while adding that the competent authority must transmit findings, together with underlying data, to both ESMA and EBA and also to the members of the ESCB. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54)
+Paragraph 5 now applies its exemption from paragraph 4 to credit institutions under paragraph 2a, point (a), and adds a further exemption from paragraph 4a for credit institutions and CSDs referred to in paragraph 2a, tying eligibility to a threshold to be determined under paragraph 9 rather than the earlier fixed one per cent and EUR 2.5 billion figures, and it changes the reporting chain so that the competent authority sends its findings and underlying data to both ESMA and EBA, and also informs the members of the ESCB, while directing an exceeding CSD to seek authorisation under paragraph 2 rather than paragraph 4. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54) [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54)
 
-Paragraph 6 is restated to let the competent authority require designation of more than one credit institution or of a CSD referred to in paragraph 2a, or designation of a credit institution or CSD alongside self-provision under paragraph 2, rather than referring only to credit institutions and to point (a) of paragraph 2 as before, and it drops the closing sentence that designated credit institutions are considered settlement agents. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54)
+Paragraph 6 is reworded so that the competent authority may require designation of more than one credit institution or of a CSD referred to in paragraph 2a, or combined designation with self-provision under paragraph 2, rather than the earlier wording limited to credit institutions and point (a) of paragraph 2. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54) [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54)
 
-Paragraph 7 now refers to a credit institution designated in accordance with paragraph 2a, point (a), instead of point (b) of paragraph 2. [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54) [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54)
+Paragraph 7 now refers to a credit institution designated in accordance with paragraph 2a, point (a), replacing the earlier reference to point (b) of paragraph 2. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54) [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54)
 
 *before* (`02014R0909-20250117`)
 
@@ -387,11 +387,11 @@ Paragraph 7 now refers to a credit institution designated in accordance with par
 
 *within* `AR 59 PA 4 ALN 1 PTA (c)`, `AR 59 PA 4 ALN 1 PTA (d)`, `AR 59 PA 4 ALN 1 PTA (e)`, `AR 59 PA 4 ALN 1 PTA (i)` · *amended by* `32023R2845`
 
-Point (c) now refers to maintaining sufficient qualifying liquid resources rather than merely having sufficient liquid resources, and it changes the reference stress scenario from the default of at least one participant to the default of at least two participants, while also dropping the phrase 'but not limited to' before the listed scenario. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
+Point (c) of paragraph 4(1) changes from requiring sufficient liquid resources covering the default of at least one participant to requiring sufficient qualifying liquid resources covering the default of at least two participants, and drops the phrase "but not limited to" before describing the stress scenario. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
 
-Point (d) now specifies 'each relevant currency' instead of 'each currency', and point (e) now conditions the selection of creditworthy financial institutions on the use of prearranged and highly reliable funding arrangements, committed lines of credit or similar arrangements, rather than simply on the use of prearranged funding arrangements. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
+Point (d) adds the word "relevant" before currency and inserts an additional comma, while point (e) expands the description of the funding arrangements covered from simply "prearranged funding arrangements" to "prearranged and highly reliable funding arrangements, committed lines of credit or similar arrangements." [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
 
-Point (i) now describes the arrangements as ensuring the ability to convert collateral from a defaulting client into cash in a timely fashion, rather than to liquidate that collateral, and adds a requirement that, where non-committed arrangements are used, any associated potential risks have been identified and mitigated. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
+Point (i) changes the obligation from having arrangements to liquidate collateral from a defaulting client in a timely fashion to having arrangements to convert that collateral into cash in a timely fashion, and adds a requirement to establish, where non-committed arrangements are used, that any associated potential risks have been identified and mitigated. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_59)
 
 *before* (`02014R0909-20250117`)
 

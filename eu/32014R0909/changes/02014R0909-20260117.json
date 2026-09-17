@@ -8,7 +8,7 @@
   },
   "from_version": "02014R0909-20250117",
   "to_version": "02014R0909-20260117",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-17",
   "in_force": [
     "2026-01-17"
   ],
@@ -210,7 +210,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Paragraph 3 now includes two exemptions from the penalty mechanism that were absent before: one for settlement fails whose underlying cause is not attributable to the participants in the transaction, and one for operations that are not considered as trading.",
+          "text": "Paragraph 3 now includes two additional exemptions from the penalty mechanism, covering settlement fails whose underlying cause is not attributable to the participants in the transaction, and operations that are not considered as trading.",
           "fallback": false,
           "citations": [
             {
@@ -229,7 +229,7 @@
           ]
         },
         {
-          "text": "The earlier version of this paragraph began directly with the exemption for transactions where the failing participant is a CCP, without these two preceding points.",
+          "text": "The earlier version of this list began directly with the exemption for transactions where the failing participant is a CCP, without these two preceding points.",
           "fallback": false,
           "citations": [
             {
@@ -834,7 +834,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new paragraph 2a has been added, requiring a third-country CSD that intends to provide the core service listed in Section A, point 3, of the Annex in relation to financial instruments constituted under the law of a Member State to notify ESMA of that intention, and requiring ESMA to inform the competent authority of the Member State under whose law the instruments are constituted of the notification received.",
+          "text": "A new paragraph 2a has been inserted, requiring a third-country CSD that intends to provide the core service referred to in Section A, point 3 of the Annex, in relation to financial instruments constituted under the law of a Member State referred to in Article 49(1), second subparagraph, to notify ESMA of that intention.",
           "fallback": false,
           "citations": [
             {
@@ -853,7 +853,26 @@
           ]
         },
         {
-          "text": "This paragraph did not exist in the earlier version of Article 25.",
+          "text": "The same new paragraph provides that ESMA shall inform the competent authority of the Member State under whose law the financial instruments are constituted of the notification received.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20260117",
+                "location": "AR 25"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_25",
+              "label": "Art. 25, 02014R0909-20260117"
+            }
+          ]
+        },
+        {
+          "text": "This paragraph 2a did not appear in the earlier version of Article 25, which moved directly from paragraph 2 to paragraph 3.",
           "fallback": false,
           "citations": [
             {
@@ -1517,7 +1536,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The after text adds two new paragraphs, numbered 1 and 2, ahead of the existing paragraph 3.",
+          "text": "Two new paragraphs are added at the start of the article: one requiring CSDs that apply deferred net settlement to define the rules and procedures for that mechanism and for settling participants' net claims and obligations, and another requiring such CSDs to measure, monitor, manage and report to competent authorities the credit and liquidity risks arising from that mechanism.",
           "fallback": false,
           "citations": [
             {
@@ -1536,26 +1555,7 @@
           ]
         },
         {
-          "text": "Paragraph 1 requires CSDs applying deferred net settlement to define rules and procedures for that mechanism and for settling participants' net claims and obligations, and paragraph 2 requires such CSDs to measure, monitor, manage and report credit and liquidity risks arising from that mechanism to the competent authorities.",
-          "fallback": false,
-          "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32014R0909",
-                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-                },
-                "version": "02014R0909-20260117",
-                "location": "AR 47a"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_47a",
-              "label": "Art. 47a, 02014R0909-20260117"
-            }
-          ]
-        },
-        {
-          "text": "The prior version of the article, which contained only the paragraph on ESMA's development of draft regulatory technical standards, did not include these two paragraphs.",
+          "text": "The remaining text on ESMA's development of draft regulatory technical standards, the submission deadline, and the delegation of power to the Commission is unchanged between the two versions.",
           "fallback": false,
           "citations": [
             {
@@ -1570,6 +1570,19 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_47a",
               "label": "Art. 47a, 02014R0909-20250117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20260117",
+                "location": "AR 47a"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_47a",
+              "label": "Art. 47a, 02014R0909-20260117"
             }
           ]
         }
@@ -1757,22 +1770,9 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Paragraph 5 now exempts credit institutions under paragraph 2a, point (a), from paragraph 4 and also exempts credit institutions and CSDs under paragraph 2a from paragraph 4a, replacing the earlier fixed one per cent and EUR 2.5 billion cap with a threshold to be determined under paragraph 9, and it changes the exceeded-threshold referral from paragraph 4 to paragraph 2 while adding that the competent authority must transmit findings, together with underlying data, to both ESMA and EBA and also to the members of the ESCB.",
+          "text": "Paragraph 5 now applies its exemption from paragraph 4 to credit institutions under paragraph 2a, point (a), and adds a further exemption from paragraph 4a for credit institutions and CSDs referred to in paragraph 2a, tying eligibility to a threshold to be determined under paragraph 9 rather than the earlier fixed one per cent and EUR 2.5 billion figures, and it changes the reporting chain so that the competent authority sends its findings and underlying data to both ESMA and EBA, and also informs the members of the ESCB, while directing an exceeding CSD to seek authorisation under paragraph 2 rather than paragraph 4.",
           "fallback": false,
           "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32014R0909",
-                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-                },
-                "version": "02014R0909-20250117",
-                "location": "AR 54"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54",
-              "label": "Art. 54, 02014R0909-20250117"
-            },
             {
               "ref": {
                 "act": {
@@ -1785,26 +1785,26 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54",
               "label": "Art. 54, 02014R0909-20260117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20250117",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54",
+              "label": "Art. 54, 02014R0909-20250117"
             }
           ]
         },
         {
-          "text": "Paragraph 6 is restated to let the competent authority require designation of more than one credit institution or of a CSD referred to in paragraph 2a, or designation of a credit institution or CSD alongside self-provision under paragraph 2, rather than referring only to credit institutions and to point (a) of paragraph 2 as before, and it drops the closing sentence that designated credit institutions are considered settlement agents.",
+          "text": "Paragraph 6 is reworded so that the competent authority may require designation of more than one credit institution or of a CSD referred to in paragraph 2a, or combined designation with self-provision under paragraph 2, rather than the earlier wording limited to credit institutions and point (a) of paragraph 2.",
           "fallback": false,
           "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32014R0909",
-                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-                },
-                "version": "02014R0909-20250117",
-                "location": "AR 54"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54",
-              "label": "Art. 54, 02014R0909-20250117"
-            },
             {
               "ref": {
                 "act": {
@@ -1817,26 +1817,26 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54",
               "label": "Art. 54, 02014R0909-20260117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20250117",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54",
+              "label": "Art. 54, 02014R0909-20250117"
             }
           ]
         },
         {
-          "text": "Paragraph 7 now refers to a credit institution designated in accordance with paragraph 2a, point (a), instead of point (b) of paragraph 2.",
+          "text": "Paragraph 7 now refers to a credit institution designated in accordance with paragraph 2a, point (a), replacing the earlier reference to point (b) of paragraph 2.",
           "fallback": false,
           "citations": [
-            {
-              "ref": {
-                "act": {
-                  "corpus": "eu",
-                  "key": "32014R0909",
-                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
-                },
-                "version": "02014R0909-20250117",
-                "location": "AR 54"
-              },
-              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54",
-              "label": "Art. 54, 02014R0909-20250117"
-            },
             {
               "ref": {
                 "act": {
@@ -1849,6 +1849,19 @@
               },
               "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20260117#art_54",
               "label": "Art. 54, 02014R0909-20260117"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32014R0909",
+                  "display_name": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012  Text with EEA relevance"
+                },
+                "version": "02014R0909-20250117",
+                "location": "AR 54"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0909-20250117#art_54",
+              "label": "Art. 54, 02014R0909-20250117"
             }
           ]
         }
@@ -1978,7 +1991,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Point (c) now refers to maintaining sufficient qualifying liquid resources rather than merely having sufficient liquid resources, and it changes the reference stress scenario from the default of at least one participant to the default of at least two participants, while also dropping the phrase 'but not limited to' before the listed scenario.",
+          "text": "Point (c) of paragraph 4(1) changes from requiring sufficient liquid resources covering the default of at least one participant to requiring sufficient qualifying liquid resources covering the default of at least two participants, and drops the phrase \"but not limited to\" before describing the stress scenario.",
           "fallback": false,
           "citations": [
             {
@@ -2010,7 +2023,7 @@
           ]
         },
         {
-          "text": "Point (d) now specifies 'each relevant currency' instead of 'each currency', and point (e) now conditions the selection of creditworthy financial institutions on the use of prearranged and highly reliable funding arrangements, committed lines of credit or similar arrangements, rather than simply on the use of prearranged funding arrangements.",
+          "text": "Point (d) adds the word \"relevant\" before currency and inserts an additional comma, while point (e) expands the description of the funding arrangements covered from simply \"prearranged funding arrangements\" to \"prearranged and highly reliable funding arrangements, committed lines of credit or similar arrangements.\"",
           "fallback": false,
           "citations": [
             {
@@ -2042,7 +2055,7 @@
           ]
         },
         {
-          "text": "Point (i) now describes the arrangements as ensuring the ability to convert collateral from a defaulting client into cash in a timely fashion, rather than to liquidate that collateral, and adds a requirement that, where non-committed arrangements are used, any associated potential risks have been identified and mitigated.",
+          "text": "Point (i) changes the obligation from having arrangements to liquidate collateral from a defaulting client in a timely fashion to having arrangements to convert that collateral into cash in a timely fashion, and adds a requirement to establish, where non-committed arrangements are used, that any associated potential risks have been identified and mitigated.",
           "fallback": false,
           "citations": [
             {
@@ -2462,10 +2475,32 @@
         "note": "12 annotations in (2025-01-17, 2026-01-17]",
         "claims": [
           {
-            "location": "AR 25 PA 2a",
+            "location": "AR 47a PA 2",
             "change_type": "INSERTED",
             "in_force": "2026-01-17",
             "source": "32023R2845 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 54 PA 5",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-17",
+            "source": "32023R2845 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 54 PA 6",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-17",
+            "source": "32023R2845 R",
             "amending_act": {
               "corpus": "eu",
               "key": "32023R2845",
@@ -2484,7 +2519,18 @@
             }
           },
           {
-            "location": "AR 47a PA 2",
+            "location": "AR 59 PA 4 PTA (e)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-17",
+            "source": "32023R2845 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AR 25 PA 2a",
             "change_type": "INSERTED",
             "in_force": "2026-01-17",
             "source": "32023R2845 J",
@@ -2495,7 +2541,7 @@
             }
           },
           {
-            "location": "AR 59 PA 4 PTA (d)",
+            "location": "AR 59 PA 4 PTA (c)",
             "change_type": "MODIFIED",
             "in_force": "2026-01-17",
             "source": "32023R2845 R",
@@ -2528,17 +2574,6 @@
             }
           },
           {
-            "location": "AR 59 PA 4 PTA (e)",
-            "change_type": "MODIFIED",
-            "in_force": "2026-01-17",
-            "source": "32023R2845 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32023R2845",
-              "display_name": null
-            }
-          },
-          {
             "location": "AR 7 PA 3 PTA (a)",
             "change_type": "MODIFIED",
             "in_force": "2026-01-17",
@@ -2550,40 +2585,18 @@
             }
           },
           {
+            "location": "AR 59 PA 4 PTA (d)",
+            "change_type": "MODIFIED",
+            "in_force": "2026-01-17",
+            "source": "32023R2845 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32023R2845",
+              "display_name": null
+            }
+          },
+          {
             "location": "AR 54 PA 7",
-            "change_type": "MODIFIED",
-            "in_force": "2026-01-17",
-            "source": "32023R2845 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32023R2845",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 59 PA 4 PTA (c)",
-            "change_type": "MODIFIED",
-            "in_force": "2026-01-17",
-            "source": "32023R2845 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32023R2845",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 54 PA 6",
-            "change_type": "MODIFIED",
-            "in_force": "2026-01-17",
-            "source": "32023R2845 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32023R2845",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 54 PA 5",
             "change_type": "MODIFIED",
             "in_force": "2026-01-17",
             "source": "32023R2845 R",
@@ -4148,90 +4161,212 @@
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
-    "changes": 36,
+    "changes": 35,
     "explained": 5,
-    "unavailable": 31,
+    "unavailable": 30,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
     "model_failed": 0,
-    "nothing_to_explain": 0,
+    "nothing_to_explain": 30,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 51125,
-      "output_tokens": 2933,
+      "input_tokens": 54259,
+      "output_tokens": 2944,
       "requests": 7,
       "schema_repairs": 2
     }
   },
   "gate": {
-    "changes": 36,
+    "changes": 35,
     "passed_first": 5,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 31,
+    "unexplained": 30,
     "retries": 0,
     "sentences": 13,
-    "citations": 19,
+    "citations": 20,
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
   },
-  "repairs": [
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-04",
-      "addressed": 36,
-      "repaired": 0,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-05",
-      "addressed": 36,
-      "repaired": 31,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "evidence",
-      "repaired_on": "2026-09-05",
-      "addressed": 2,
-      "repaired": 2,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 15051,
-        "output_tokens": 455,
-        "requests": 2,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": true
-    }
-  ],
+  "repairs": [],
   "evidence": [
+    {
+      "location": "AR 2",
+      "occurrence": 0,
+      "digest": "sha256:0e98f5c5d03499640c013f4b5d5d8512312419ac556bea863fc077d8bde6ee73"
+    },
+    {
+      "location": "AR 6",
+      "occurrence": 0,
+      "digest": "sha256:1fb28acf5cb952dcef68c3af22147a5a30630614b0b391d9f8718f904756c6f4"
+    },
     {
       "location": "AR 7",
       "occurrence": 0,
       "digest": "sha256:f31d3b52f944e1bba69c6757ac8351365cf6282f7ac92115c2ea9d63dd1066ac"
     },
     {
+      "location": "AR 12",
+      "occurrence": 0,
+      "digest": "sha256:1d0bc5d9eb33c082b9af407f9b84d51b7d6975aad3626ed357b75c4f411598e7"
+    },
+    {
+      "location": "AR 17",
+      "occurrence": 0,
+      "digest": "sha256:f28af1588a05015310aabc261372abbee2076260411444272cebfa23da0f265f"
+    },
+    {
+      "location": "AR 19",
+      "occurrence": 0,
+      "digest": "sha256:2838b0027693e902716701bdd62b9a7a134341dabbe386def0388468955caf3c"
+    },
+    {
+      "location": "AR 20",
+      "occurrence": 0,
+      "digest": "sha256:41cead24fda6d44315d4b286f28009a2d004268f566db895fe64f033c79d07a0"
+    },
+    {
+      "location": "AR 22",
+      "occurrence": 0,
+      "digest": "sha256:4d505a7c4ff5a68494d9c7af0b7029fa13fb529a2a1c264155d2fb8992e3e7b3"
+    },
+    {
+      "location": "AR 22a",
+      "occurrence": 0,
+      "digest": "sha256:45cdcf43bbc4dd2c4ddd09d2a9f6a31a855dd7f4e19342d58aa9448cefd1fcac"
+    },
+    {
+      "location": "AR 23",
+      "occurrence": 0,
+      "digest": "sha256:735fe27c2b04a4429daf5c5f12195aa1df9342c7127e19aef006ea8cf4b85125"
+    },
+    {
+      "location": "AR 24",
+      "occurrence": 0,
+      "digest": "sha256:edbb8fc07ab6264206ff5317bc85b30a00c022625f3321f87c23dddbcd2e8e24"
+    },
+    {
+      "location": "AR 24a",
+      "occurrence": 0,
+      "digest": "sha256:f35df9cedd59b2a3cbdcf7bc33a2035b9d32a5e38ac01bacb925786f211e7f07"
+    },
+    {
       "location": "AR 25",
       "occurrence": 0,
       "digest": "sha256:29c8591fa70ca490cb62212bbd9a0ccea19b6ab965bf41f2014ca43a5bc74fd4"
+    },
+    {
+      "location": "AR 26",
+      "occurrence": 0,
+      "digest": "sha256:4710c2f66aa17f91d1591b059a26b43d6d26d102c8d78de482f260528d21fbe3"
+    },
+    {
+      "location": "AR 27",
+      "occurrence": 0,
+      "digest": "sha256:336888483ab734520b536a105fb3c8eaeb7d4100b1bfe8750b461f4a0be5b899"
+    },
+    {
+      "location": "AR 27a",
+      "occurrence": 0,
+      "digest": "sha256:d1e647b229a4d2704e6c5a7841e449ebf123785ffe8240fd20b406c88d6814db"
+    },
+    {
+      "location": "AR 27b",
+      "occurrence": 0,
+      "digest": "sha256:75f573683bba3c4c116f24f4c6af2dd8f9669d02af9c984a6189489e7ed3830a"
+    },
+    {
+      "location": "AR 27c",
+      "occurrence": 0,
+      "digest": "sha256:e1c6774d7eba513815a1467a3503fe3490df808a690e9bfc0f4de4aaa8f7bad7"
+    },
+    {
+      "location": "AR 28",
+      "occurrence": 0,
+      "digest": "sha256:0eb7e116c1287469d4f21b08e566702393bc352fecf6df84d606826d49972974"
+    },
+    {
+      "location": "AR 29",
+      "occurrence": 0,
+      "digest": "sha256:cb52751defe99f3d7631b8a8181a6f378dbd4762bc5ccad61e2884256d4f9428"
+    },
+    {
+      "location": "AR 36",
+      "occurrence": 0,
+      "digest": "sha256:302cdc1c1ba0224cf2f2952991e0da8bd01ece0d608ba2d36b6e06a60bf1bcc7"
+    },
+    {
+      "location": "AR 40",
+      "occurrence": 0,
+      "digest": "sha256:b0fd7cdb99b96b14eea6ed0110224c872f3153a6ba8d917646a1c82a1fdd8d55"
+    },
+    {
+      "location": "AR 47",
+      "occurrence": 0,
+      "digest": "sha256:c292a170caa0cd2c49b694ae33c85c47c16645639b5a590e81c0fb62bd11aaf6"
+    },
+    {
+      "location": "AR 47a",
+      "occurrence": 0,
+      "digest": "sha256:fd39f53a31d14b3e92591a0547851818edca2eb1f4686435614a39d88cf408e3"
+    },
+    {
+      "location": "AR 49",
+      "occurrence": 0,
+      "digest": "sha256:3ad7fb130afb415fbf69d5b08455c5c00c8d383f600d9f2a471fc44464b0a6bc"
+    },
+    {
+      "location": "AR 52",
+      "occurrence": 0,
+      "digest": "sha256:c7d7b8be2a1b292ec73a3427d532a533cd75ed14c7f9cd7b55fd3e019fbe10f5"
+    },
+    {
+      "location": "AR 54",
+      "occurrence": 0,
+      "digest": "sha256:768408b8ea0f914e2ad0e06fed1aa5ed9aa72af48070ab628c0faa3814dcd8b4"
+    },
+    {
+      "location": "AR 55",
+      "occurrence": 0,
+      "digest": "sha256:11dcc64eccc036a020c55090a8e0054183088b79587e2e3cdbd35ba1e59eaeab"
+    },
+    {
+      "location": "AR 59",
+      "occurrence": 0,
+      "digest": "sha256:8ed646c1f95b74ca67f73463b45f3642dfbd49806e568b4a45d506bd8d732a6c"
+    },
+    {
+      "location": "AR 60",
+      "occurrence": 0,
+      "digest": "sha256:cfbae1063a4675db4885c3fd1d49e667112435f5bd1ed1bc027c48077051d4b6"
+    },
+    {
+      "location": "AR 67",
+      "occurrence": 0,
+      "digest": "sha256:f15b1390bab332b496ab889c20419f5900aea02437d6baa8c5c35c6a7cdaa8d1"
+    },
+    {
+      "location": "AR 68",
+      "occurrence": 0,
+      "digest": "sha256:15f17cb8d911737764956dbbab4946377e2dcde30c1eefb3c5fc3c1b2fba8c6f"
+    },
+    {
+      "location": "AR 69",
+      "occurrence": 0,
+      "digest": "sha256:cdc842c06f35088b8ffd945680932eb3f08438804421d42203fc7a98c54016bd"
+    },
+    {
+      "location": "AR 72",
+      "occurrence": 0,
+      "digest": "sha256:95217e439aea103a54c2062d06418875cf5b1c9f84217a557e05e1cdbbddc600"
+    },
+    {
+      "location": "AR 75",
+      "occurrence": 0,
+      "digest": "sha256:18646bf97eb031d2610df7f603607ef95880696bbb1507763d956ea9ded51451"
     }
   ]
 }
