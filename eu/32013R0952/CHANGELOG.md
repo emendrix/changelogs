@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union […]
 ### `02013R0952-20200101` → `02013R0952-20221212`
 
-- **Act** `eu:32013R0952` · **In force** 2022-12-12 · **Detected** 2026-08-13
+- **Act** `eu:32013R0952` · **In force** 2022-12-12 · **Detected** 2026-09-20
 - **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 288 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -26,9 +26,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 5 ALN 1 PO 2 PTA (e)` · *dates* +2022-11-23 · *amended by* `32022R2399`
 
-The definition of "customs legislation" in point (2) gains a new point (e), adding Regulation (EU) 2022/2399 of 23 November 2022, which establishes the European Union Single Window Environment for Customs and amends Regulation (EU) No 952/2013, along with the provisions supplementing or implementing it, to the list of instruments that make up customs legislation. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_5)
+A new point (e) has been added to the definition of "customs legislation" in point (2), naming Regulation (EU) 2022/2399 of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013, together with the provisions supplementing or implementing it, as part of that body of legislation. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_5)
 
-The earlier version's point (2) listed only points (a) through (d), without any reference to that Regulation. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_5)
+The earlier version listed only points (a) through (d) under the definition of "customs legislation", without any reference to that Regulation. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_5)
 
 *before* (`02013R0952-20200101`)
 
@@ -64,9 +64,9 @@ The earlier version's point (2) listed only points (a) through (d), without any 
 
 *within* `AR 163 PA 1 ALN 2` · *amended by* `32022R2399`
 
-Paragraph 1 gains a new sentence stating that supporting documents for the applicable Union non-customs formalities listed in the Annex to Regulation (EU) 2022/2399 are deemed to be in the declarant's possession and at the disposal of the customs authorities at the time the customs declaration is lodged, provided those authorities can obtain the necessary data from the corresponding Union non-customs systems through the European Union Customs Single Window Certificates Exchange System as described in Article 10(1), points (a) and (c), of that Regulation. [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_163)
+Paragraph 1 gains a new sentence stating that supporting documents for the applicable Union non-customs formalities listed in the Annex to Regulation (EU) 2022/2399 are deemed to be in the declarant's possession and at the disposal of the customs authorities when the customs declaration is lodged, provided those authorities can obtain the relevant data through the European Union Customs Single Window Certificates Exchange System as described in Article 10(1), points (a) and (c), of that Regulation. [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_163)
 
-Paragraphs 2 and 3 remain textually the same between the two versions shown. [Art. 163, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_163) [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_163)
+Paragraphs 2 and 3 remain worded the same as in the earlier version. [Art. 163, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20200101#art_163) [Art. 163, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0952-20221212#art_163)
 
 *before* (`02013R0952-20200101`)
 

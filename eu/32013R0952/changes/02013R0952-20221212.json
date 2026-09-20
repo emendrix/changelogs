@@ -8,7 +8,7 @@
   },
   "from_version": "02013R0952-20200101",
   "to_version": "02013R0952-20221212",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-09-20",
   "in_force": [
     "2022-12-12"
   ],
@@ -96,7 +96,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "The definition of \"customs legislation\" in point (2) gains a new point (e), adding Regulation (EU) 2022/2399 of 23 November 2022, which establishes the European Union Single Window Environment for Customs and amends Regulation (EU) No 952/2013, along with the provisions supplementing or implementing it, to the list of instruments that make up customs legislation.",
+          "text": "A new point (e) has been added to the definition of \"customs legislation\" in point (2), naming Regulation (EU) 2022/2399 of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013, together with the provisions supplementing or implementing it, as part of that body of legislation.",
           "fallback": false,
           "citations": [
             {
@@ -115,7 +115,7 @@
           ]
         },
         {
-          "text": "The earlier version's point (2) listed only points (a) through (d), without any reference to that Regulation.",
+          "text": "The earlier version listed only points (a) through (d) under the definition of \"customs legislation\", without any reference to that Regulation.",
           "fallback": false,
           "citations": [
             {
@@ -198,7 +198,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "Paragraph 1 gains a new sentence stating that supporting documents for the applicable Union non-customs formalities listed in the Annex to Regulation (EU) 2022/2399 are deemed to be in the declarant's possession and at the disposal of the customs authorities at the time the customs declaration is lodged, provided those authorities can obtain the necessary data from the corresponding Union non-customs systems through the European Union Customs Single Window Certificates Exchange System as described in Article 10(1), points (a) and (c), of that Regulation.",
+          "text": "Paragraph 1 gains a new sentence stating that supporting documents for the applicable Union non-customs formalities listed in the Annex to Regulation (EU) 2022/2399 are deemed to be in the declarant's possession and at the disposal of the customs authorities when the customs declaration is lodged, provided those authorities can obtain the relevant data through the European Union Customs Single Window Certificates Exchange System as described in Article 10(1), points (a) and (c), of that Regulation.",
           "fallback": false,
           "citations": [
             {
@@ -217,7 +217,7 @@
           ]
         },
         {
-          "text": "Paragraphs 2 and 3 remain textually the same between the two versions shown.",
+          "text": "Paragraphs 2 and 3 remain worded the same as in the earlier version.",
           "fallback": false,
           "citations": [
             {
@@ -391,8 +391,8 @@
     "nothing_to_explain": 0,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 11755,
-      "output_tokens": 559,
+      "input_tokens": 11760,
+      "output_tokens": 558,
       "requests": 2,
       "schema_repairs": 0
     }
@@ -408,43 +408,19 @@
     "citations": 5,
     "citations_rejected": 0,
     "notes_dropped": 0,
-    "coordinates_unsupported": 2
+    "coordinates_unsupported": 0
   },
-  "repairs": [
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-05",
-      "addressed": 2,
-      "repaired": 0,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "evidence",
-      "repaired_on": "2026-09-05",
-      "addressed": 1,
-      "repaired": 1,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 8879,
-        "output_tokens": 252,
-        "requests": 1,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": true
-    }
-  ],
+  "repairs": [],
   "evidence": [
     {
       "location": "AR 5",
       "occurrence": 0,
       "digest": "sha256:098c607c2d837090b04350d1bd6c55105041d510aaec329e345e2632507f7bdd"
+    },
+    {
+      "location": "AR 163",
+      "occurrence": 0,
+      "digest": "sha256:f24054e8d3ed834d7a7382482ed3b9e229b7b52e547d85124590f824c514fb49"
     }
   ]
 }
