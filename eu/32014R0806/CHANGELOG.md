@@ -14,10 +14,10 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules […]
 ### `02014R0806-20251110` → `02014R0806-20260611`
 
-- **Act** `eu:32014R0806` · **In force** 2026-06-11 · **Detected** 2026-08-13
+- **Act** `eu:32014R0806` · **In force** 2026-06-11 · **Detected** 2026-09-23
 - **Touched** 54 provisions — 31 substantive · 0 date-only · 23 with no text · **23 disputed**
 - **Diff** 9 inserted · 45 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
-- **Gate** 0 sentences quoted verbatim · 23 changes shipped without an explanation
+- **Gate** 0 sentences quoted verbatim · 24 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20251110` · `v2` = `02014R0806-20260611`
 
 ---
@@ -26,7 +26,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 3 PA 1 ALN 1 PO 24a` · *amended by* `32026R0808`
 
-The definition of resolution entity now identifies the entity making the identification as the Board or the national resolution authority acting in accordance with Article 8 of the Regulation, whereas previously it referred only to identification by the Board. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_3) [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_3)
+The definition of resolution entity in point (24a) now identifies the party that makes the identification as either the Board or the national resolution authority, whereas before it named only the Board. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_3)
+
+The wording also changes from describing the entity as one which is identified by the Board to one which the Board or the national resolution authority has identified, in accordance with Article 8 of the Regulation. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_3)
 
 *before* (`02014R0806-20251110`)
 
@@ -70,11 +72,11 @@ The definition of resolution entity now identifies the entity making the identif
 
 *within* `AR 4 PA 1a` · *amended by* `32026R0808`
 
-A new paragraph 1a is added, requiring Member States to inform the Board as soon as possible when they request to enter into close cooperation with the ECB under Article 7 of Regulation (EU) No 1024/2013. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_4)
+A new paragraph 1a has been added requiring Member States to inform the Board as soon as possible when they request to enter into close cooperation with the ECB under Article 7 of Regulation (EU) No 1024/2013. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_4)
 
-The same new paragraph also states that, following such notification and before close cooperation is established, Member States shall provide the Board with all information about entities and groups established in their territory that the Board may require to prepare for the tasks conferred on it by this Regulation and the Agreement. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_4)
+The same new paragraph adds that, following that notification and before close cooperation is established, Member States shall provide the Board with all information about entities and groups established in their territory that the Board may require to prepare for the tasks conferred on it by this Regulation and the Agreement. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_4)
 
-The remainder of Article 4, covering participating Member States, suspension or termination of close cooperation, and recoupment of contributions, is unchanged between the two versions. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_4)
+The remaining paragraphs of Article 4 are unchanged between the two versions. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_4)
 
 *before* (`02014R0806-20251110`)
 
@@ -99,9 +101,9 @@ The remainder of Article 4, covering participating Member States, suspension or 
 
 *within* `AR 5 PA 1a` · *dates* +2024-11-27 · *amended by* `32026R0808`
 
-A new paragraph 1a is inserted, providing that references to authorities designated under Article 3 of Directive 2014/59/EU in several specified provisions of Directive (EU) 2025/1 are to be read as references to the Board, for the entities and groups referred to in Article 7(2) of the Regulation and, where the conditions for those provisions are met, for the entities and groups referred to in Article 7(4), point (b), and Article 7(5). [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_5)
+A new paragraph 1a is inserted, stating that references to authorities designated under Article 3 of Directive 2014/59/EU in specified provisions of Directive (EU) 2025/1 are to be read as references to the Board for the entities and groups referred to in Article 7(2) of the Regulation, and for those referred to in Article 7(4), point (b), and Article 7(5) where the conditions for applying those provisions are met. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_5)
 
-The rest of Article 5, covering paragraph 1 and paragraph 2, remains textually unchanged between the two versions. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_5)
+The remainder of the article, covering paragraph 1 and paragraph 2, is unchanged between the two versions. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_5)
 
 *before* (`02014R0806-20251110`)
 
@@ -123,11 +125,11 @@ The rest of Article 5, covering paragraph 1 and paragraph 2, remains textually u
 
 *within* `AR 7 PA 3 ALN 4`, `AR 7 PA 5 ALN 1`, `AR 7 PA 5 ALN 2` · *amended by* `32026R0808`
 
-The list of provisions in Article 7(3), fourth subparagraph, in which references to the Board are to be read as references to national resolution authorities has been expanded, adding cross-references to Article 8(10) third subparagraph and (11a), Article 10a, Article 18(1a) and (5), Article 21(8) second subparagraph, Article 22(5), Article 27(16) second subparagraph, Article 30(2b) and (2c), Article 30a(1) and (2), and Article 79(1), (2), (7) and (8), while some existing cross-references were reworded. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_7) [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_7)
+The list of Article references in paragraph 3 that are to be read as references to national resolution authorities has been expanded and updated, adding citations such as Article 8(10) third subparagraph, (11a), Article 10a, Article 18(1a) and (5), Article 22(5), Article 30(2b) and (2c), Article 30a(1) and (2), and Article 79(1), (2), (7) and (8), while also changing the cross-reference in paragraph 5 from Article 12(2) to Article 12(3). [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_7) [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_7)
 
-In Article 7(5), first subparagraph, the internal cross-reference changed from Article 12(2) to Article 12(3), the wording describing entities and groups established in participating Member States' territory was rearranged, and the phrasing on notification obligations was slightly reworded without altering the reference to publication in the Official Journal. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_7) [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_7)
+Paragraph 5 also now allows participating Member States, after their earlier notification under that paragraph has taken effect, to decide that responsibility for the relevant tasks be returned to the national resolution authorities, with a further notification to the Board and the Commission taking effect upon its publication in the Official Journal. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_7)
 
-A new second subparagraph was added to Article 7(5) allowing participating Member States, after the earlier notification takes effect, to decide that responsibility for the relevant tasks be returned to the national resolution authorities, with that decision to be notified to the Board and the Commission and to take effect upon publication in the Official Journal. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_7)
+The wording of paragraph 5 describing the entities and groups covered and the notification obligation has also been rephrased, without changing which entities and groups are excluded by reference to paragraph 2. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_7) [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_7)
 
 *before* (`02014R0806-20251110`)
 
@@ -167,11 +169,9 @@ A new second subparagraph was added to Article 7(5) allowing participating Membe
 
 *within* `AR 8 PA 2 ALN 2` · *amended by* `32026R0808`
 
-A new subparagraph is added to Article 8(2) stating that the Board may instruct national resolution authorities to exercise the powers referred to in Article 10(8) of Directive 2014/59/EU. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_8)
+A new subparagraph is added at the end of paragraph 2 stating that the Board may instruct national resolution authorities to exercise the powers referred to in Article 10(8) of Directive 2014/59/EU. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_8)
 
-It further states that national resolution authorities shall implement the Board's instructions in accordance with Article 29 of the Regulation. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_8)
-
-The earlier version of Article 8(2) contained no such text. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_8)
+That same added text states that national resolution authorities shall implement the Board's instructions in accordance with Article 29 of this Regulation. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_8)
 
 *before* (`02014R0806-20251110`)
 
@@ -195,11 +195,11 @@ The earlier version of Article 8(2) contained no such text. [Art. 8, v1](https:/
 
 *within* `AR 10 PA 4 ALN 4`, `AR 10 PA 7 ALN 1`, `AR 10 PA 10 ALN 1`, `AR 10 PA 10 ALN 2`, `AR 10 PA 10 ALN 3` · *amended by* `32026R0808`
 
-In paragraph 4, the cross-reference identifying which subparagraph's assessment must be performed in addition to the assessment of the entire group's resolvability was changed from the first subparagraph to the third subparagraph. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10)
+In paragraph 4, the cross-reference to the subparagraph containing the assessment obligation was changed from 'first subparagraph' to 'third subparagraph'. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10)
 
-Paragraph 7 now refers to an assessment of the resolvability of an entity or group rather than an assessment of resolvability for an entity or group, addresses the report to the entity rather than the institution, and refers to the impact on the entity's or the group's business model instead of the institution's business model. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10)
+Paragraph 7 was reworded so that the report following an impediment finding is addressed to 'the entity' rather than 'the institution', and its analysis of business-model impact now refers to the entity's or the group's business model instead of the institution's business model. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10)
 
-Paragraph 10 has been rewritten so that the Board's decision-making step, the identification of alternative measures, and the avoidance-of-impact clause now consistently refer to the entity or the parent undertaking concerned, and to the entity or the group concerned, in place of the earlier wording referring to the institution and its business, while the substance of the assessment and instruction to national resolution authorities is expressed in restructured sentences. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10)
+Paragraph 10 was restructured and reworded, replacing the prior formulation centred on the Board taking a decision when proposed measures do not reduce or remove impediments with a version framed around the Board's finding that the measures are ineffective, and references throughout paragraph 10 to 'the institution' were changed to 'the entity or the parent undertaking concerned' or 'the entity or the group concerned'. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10)
 
 *before* (`02014R0806-20251110`)
 
@@ -227,9 +227,9 @@ Paragraph 10 has been rewritten so that the Board's decision-making step, the id
 
 *within* `AR 10a PA 1 ALN 1` · *amended by* `32026R0808`
 
-In paragraph 1, the Board's power changes from directly prohibiting an entity from making the listed distributions to instructing the national resolution authority to impose that prohibition. [Art. 10a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10a) [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10a)
+The provision now states that the Board's power is to instruct the national resolution authority to prohibit the entity from making the specified distributions, rather than the Board itself prohibiting them directly. [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10a)
 
-The cross-references to Article 141a(1) and Article 12a(2) of the underlying acts are also reformatted with the point letters moved after the article number, without altering which points or articles are referenced. [Art. 10a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10a) [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10a)
+The cross-references to Directive 2013/36/EU and to this Regulation's Article 12a(2) were reformatted to place the point letters after the article and paragraph numbers, without changing which provisions are referenced. [Art. 10a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_10a) [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_10a)
 
 *before* (`02014R0806-20251110`)
 
@@ -259,7 +259,7 @@ The cross-references to Article 141a(1) and Article 12a(2) of the underlying act
 
 A new paragraph 8 has been added, stating that the Board is responsible for granting the permissions referred to in Article 77(2) and Article 78a of Regulation (EU) No 575/2013 to the entities referred to in paragraph 1, and that the Board shall address a decision to the entity concerned. [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12)
 
-This paragraph 8 does not appear in the earlier version of the article, which ended at paragraph 7. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12)
+This paragraph does not appear in the earlier version of the Article, which ended at paragraph 7. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12)
 
 *before* (`02014R0806-20251110`)
 
@@ -325,9 +325,9 @@ This paragraph 8 does not appear in the earlier version of the article, which en
 
 *within* `AR 12g PA 1 ALN 2`, `AR 12g PA 4` · *amended by* `32026R0808`
 
-In paragraph 1, the description of the entity to which the Board may decide to apply the requirement was expanded from an entity referred to in Article 2, point (b), to also cover a financial institution referred to in Article 2, point (c), and the phrase describing consultation with competent authorities was reworded from consulting to having consulted. [Art. 12g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12g) [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12g)
+Paragraph 1 now describes the Board's discretionary power as extending not only to an entity referred to in Article 2, point (b), but also to a financial institution referred to in Article 2, point (c), and rewords the reference to consultation with competent authorities as having already occurred. [Art. 12g, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12g) [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12g)
 
-A new paragraph 4 was added addressing situations where, under the global resolution strategy, subsidiaries established in the Union or a Union parent undertaking and its subsidiary institutions are not resolution entities and the members of the European resolution college agree with that strategy, setting out that such subsidiaries or the Union parent undertaking shall comply with the Article 12a(1) requirement by issuing the instruments referred to in paragraph 2, points (a) and (b), to the ultimate parent undertaking established in a third country, to its subsidiaries established in the same third country, or to other entities under the conditions set out in paragraph 2, points (a)(i) and (b)(ii). [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12g)
+A new paragraph 4 has been added setting out that, where subsidiaries established in the Union, or a Union parent undertaking and its subsidiary institutions, are not resolution entities under the global resolution strategy and the members of the European resolution college agree with that strategy, they shall comply with the Article 12a(1) requirement by issuing the instruments referred to in paragraph 2, points (a) and (b), to their ultimate third-country parent undertaking, to that parent's subsidiaries established in the same third country, or to other entities under the conditions in paragraph 2, points (a)(i) and (b)(ii). [Art. 12g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12g)
 
 *before* (`02014R0806-20251110`)
 
@@ -368,11 +368,11 @@ A new paragraph 4 was added addressing situations where, under the global resolu
 
 *within* `AR 12k PA 3 ALN 1 PTA (a)`, `AR 12k PA 5 ALN 1`, `AR 12k PA 6 ALN 1` · *amended by* `32026R0808`
 
-In paragraph 3(a), the reference to the national resolution authority applying the bail-in tool has been removed, leaving only the Board as the actor mentioned. [Art. 12k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12k)
+In paragraph 3(a), the reference to the national resolution authority applying the bail-in tool alongside the Board has been removed, leaving only the Board named as the actor that applies the bail-in tool. [Art. 12k, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12k) [Art. 12k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12k)
 
-In paragraph 5, the national resolution authorities are no longer named alongside the Board as determining the transitional period, and the wording changes from referring to Articles 12f or 12g together to Article 12f or 12g. [Art. 12k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12k)
+In paragraph 5, the phrase naming both the Board and the national resolution authorities as jointly determining the transitional period has been changed to name only the Board, and the reference to Articles 12f or 12g is changed to Article 12f or 12g. [Art. 12k, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12k) [Art. 12k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12k)
 
-In paragraph 6, the national resolution authorities are likewise dropped from the list of actors communicating the planned minimum requirement, and the phrase is adjusted to specify paragraphs 1 to 5 of this Article. [Art. 12k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12k)
+In paragraph 6, the reference to the Board and the national resolution authorities communicating the planned minimum requirement has been changed to name only the Board, and the phrase now specifies paragraphs 1 to 5 of this Article. [Art. 12k, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_12k) [Art. 12k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_12k)
 
 *before* (`02014R0806-20251110`)
 
@@ -460,9 +460,11 @@ In paragraph 6, the national resolution authorities are likewise dropped from th
 
 *within* `AR 18 PA 7 ALN 2`, `AR 18 PA 11`, `AR 18 PA 12` · *amended by* `32026R0808`
 
-Paragraph 7's second subparagraph now describes the Commission's 24-hour decision as endorsing the resolution scheme or objecting to it either on discretionary aspects or on grounds that proposed State aid or Fund aid is not considered compatible with the internal market, whereas the earlier version referred only to objection regarding discretionary aspects. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_18) [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_18)
+In paragraph 7, second subparagraph, the Commission's endorsement or objection decision now also expressly covers objections based on proposed use of State aid or Fund aid considered incompatible with the internal market, alongside the existing discretionary-aspects ground. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_18)
 
-Two new paragraphs, 11 and 12, have been added, empowering the Board to instruct national resolution authorities to exercise powers under national law transposing Article 33a of Directive 2014/59/EU when the conditions in points (a) and (b) of paragraph 1 are met, and to exercise powers referred to in Article 84b(2) of Directive 2014/59/EU, with national resolution authorities implementing such instructions in accordance with Article 29. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_18)
+Two new paragraphs, 11 and 12, have been added, allowing the Board to instruct national resolution authorities to exercise powers under national law transposing Article 33a of Directive 2014/59/EU when the failing-or-likely-to-fail and no-alternative-measures conditions in paragraph 1 are met, and to exercise powers referred to in Article 84b(2) of that Directive, in both cases with implementation by the national resolution authorities in accordance with Article 29. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_18)
+
+These paragraphs 11 and 12 and the amended wording of paragraph 7 do not appear in the earlier version of the text. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_18)
 
 *before* (`02014R0806-20251110`)
 
@@ -498,11 +500,11 @@ Two new paragraphs, 11 and 12, have been added, empowering the Board to instruct
 
 *within* `AR 19 PA 1 ALN 1`, `AR 19 PA 1 ALN 2`, `AR 19 PA 3 ALN 1`, `AR 19 PA 3 ALN 2`, `AR 19 PA 3 ALN 3`, `AR 19 PA 3 ALN 4`, `AR 19 PA 3 ALN 5`, `AR 19 PA 3 ALN 6`, `AR 19 PA 3 ALN 7`, `AR 19 PA 3 ALN 8`, `AR 19 PA 10 ALN 1` · *amended by* `32026R0808`
 
-Paragraph 1 now allows the Commission's decision to take the form of a positive decision, a conditional decision, or a decision not to raise objections, and it adds a deadline tying that decision to the timing of the Board's endorsement of, or objection to, the resolution scheme or to the 24-hour period referenced in Article 18(7); it also replaces the earlier reference to acting under Article 3(3) of Directive 2014/59/EU with a requirement for structural arrangements ensuring operational independence and avoidance of conflicts of interest. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_19)
+Paragraph 1 now specifies that the resolution scheme cannot enter into force until the Commission adopts a positive, conditional, or no-objection decision, and it adds a deadline tying the Commission's compatibility decision to the timing of the Board's endorsement or objection under Article 18(7) or the 24-hour period referred to there, and it replaces the reference to Article 3(3) of Directive 2014/59/EU with a description of structural arrangements ensuring operational independence and avoidance of conflicts of interest. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_19)
 
-Paragraph 3 changes the notification process so the Board must first informally, promptly and confidentially contact the Commission before formally notifying it once sufficiently certain the resolution scheme will require Fund aid, replaces the prior preliminary and in-depth investigation stages (including third-party comment procedures) with a single assessment step, and adds that the Commission's decision must take into account the need for timely execution of resolution action by the Board. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_19)
+Paragraph 3 now describes an informal, confidential preliminary contact stage between the Board and the Commission before formal notification, drops the prior in-depth investigation procedure involving publication, third-party comments and Board observations, and changes the wording on the information the Board must supply and the guidance sources the Commission must follow, while also adding that the Commission's decision must take into account the need for timely execution of resolution action. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_19)
 
-Paragraph 10 changes the procedure so that an application to the Council may be made by a Member State or by the Board, sets a seven-day period for the Council's unanimous decision, and specifies that the Commission decides the case if the Council has not decided within that period, rather than merely not having made its attitude known. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_19)
+Paragraph 10 changes the procedure by allowing the application to the Council to be made by a Member State or the Board, sets a fixed seven-day period for the Council's unanimous decision, and provides that the Commission decides the case if the Council has not decided within that period, replacing the earlier wording about the Council's attitude not being made known. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_19)
 
 *before* (`02014R0806-20251110`)
 
@@ -535,9 +537,9 @@ Paragraph 10 changes the procedure so that an application to the Council may be 
 
 *within* `AR 21 PA 1 ALN 2`, `AR 21 PA 9 ALN 1` · *amended by* `32026R0808`
 
-The final subparagraph of paragraph 1 now assigns the assessment of conditions (a) to (d) to the ECB for entities under Article 7(2)(a), to the relevant national competent authority for entities under Article 7(2)(b), Article 7(4)(b) and (5), and to the Board in its executive session, following the allocation of tasks under the procedure in Article 18(1) and (2), whereas the earlier text assigned that assessment to the ECB after consulting the Board, or to the Board itself, without this differentiated allocation. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_21)
+The provision now assigns the assessment of the conditions in points (a) to (d) of paragraph 1 to the ECB for entities under Article 7(2)(a), to the relevant national competent authority for entities under Article 7(2)(b), Article 7(4)(b) and Article 7(5), and to the Board in its executive session, following the allocation of tasks under Article 18(1) and (2), replacing the prior wording that assigned this assessment to the ECB after consulting the Board for points (a), (c) and (d) only, with the Board also able to make such assessment. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_21)
 
-Paragraph 9 now specifies that the conditions in paragraph 1 and in Article 18(1) may be met in relation to the same entity or to an entity belonging to the same group, and adds a new sentence requiring the Board to adopt a single resolution scheme covering the entity meeting the Article 18(1) conditions together with any entity meeting the paragraph 1 conditions, elements absent from the earlier text. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_21)
+Paragraph 9 now specifies that the conditions in paragraph 1 and Article 18(1) must be met in relation to an entity referred to in paragraph 1, or in relation to that entity or an entity belonging to the same group, and it adds a new sentence stating that the Board shall adopt a single resolution scheme covering the entity meeting the Article 18(1) conditions together with any entity referred to in paragraph 1. [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_21)
 
 *before* (`02014R0806-20251110`)
 
@@ -583,11 +585,11 @@ Paragraph 9 now specifies that the conditions in paragraph 1 and in Article 18(1
 
 *within* `AR 30`, `AR 30 PA 2 ALN 1`, `AR 30 PA 2a`, `AR 30 PA 2b`, `AR 30 PA 2c`, `AR 30 PA 6 ALN 1`, `AR 30 PA 6 ALN 1 PTA (a)`, `AR 30 PA 6 ALN 1 PTA (b)`, `AR 30 PA 7 ALN 1` · *amended by* `32026R0808`
 
-The heading drops the words "within the SRM", and paragraph 2 now specifies that the information exchanged includes what is referred to in new paragraphs 2a, 2b and 2c. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
+The heading drops the words "within the SRM", and paragraph 2 now refers to information exchange including that described in new paragraphs 2a, 2b and 2c, which set out cooperation duties between the Board and the ESRB, EBA, ESMA and EIOPA, between the ECB and other ESCB members and the Board, and between designated authorities, deposit guarantee schemes and the Board respectively. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
 
-Three new paragraphs are added requiring cooperation and information exchange between the Board and the ESRB, EBA, ESMA and EIOPA, between the Board and the ECB and other ESCB members (subject to Article 88(6)), and between the Board and designated authorities and deposit guarantee schemes, the latter being made subject to the professional secrecy requirements of Article 88. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
+Paragraph 6 is restructured into an introductory sentence followed by points (a) and (b), with the prior single scenario becoming point (a) and a new point (b) added covering situations where the Board has contracted a financial arrangement for the Fund under Article 74. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
 
-Paragraph 6 is restructured into points (a) and (b), adding a new situation where the Board has contracted a financial arrangement for the Fund under Article 74, and paragraph 7 now also names other ESCB members and the designated authorities and deposit guarantee schemes as parties to the memorandum of understanding, extending its scope to paragraphs 2 to 2c and to Article 74, second paragraph. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
+Paragraph 7 now names other ESCB members and the designated authorities and deposit guarantee schemes as additional parties to the memorandum of understanding, and extends its coverage to cooperation under paragraphs 2 to 2c and under Article 74, second paragraph, instead of only paragraphs 2 and 4. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_30)
 
 *before* (`02014R0806-20251110`)
 
@@ -622,11 +624,11 @@ Paragraph 6 is restructured into points (a) and (b), adding a new situation wher
 
 *within* `AR 31 PA 3` · *amended by* `32026R0808`
 
-A new paragraph 3 has been added requiring national resolution authorities to consult the Board before acting under Article 86 of Directive 2014/59/EU for the entities and groups referred to in Article 7(2), and for those in Article 7(4)(b) and Article 7(5) where the conditions for applying those provisions are met. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_31)
+A new paragraph 3 has been added requiring national resolution authorities to consult the Board before acting under Article 86 of Directive 2014/59/EU, for the entities and groups referred to in Article 7(2), and for those in Article 7(4)(b) and Article 7(5) where the conditions for applying those provisions are met. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_31)
 
-The new paragraph 3 also sets a minimum time limit of two working days for the Board to respond to a consultation request, and states that if the Board neither responds within that limit nor requests an extension, it is treated as having no comments. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_31)
+The new paragraph 3 also states that national resolution authorities shall set a time limit for the Board's response of no less than two working days, and that if the Board neither responds within that limit nor requests an extension, it is assumed to have no comments. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_31)
 
-Paragraphs 1 and 2 of the provision remain the same in both versions. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_31)
+Paragraphs 1 and 2 remain unchanged between the two versions. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_31)
 
 *before* (`02014R0806-20251110`)
 
@@ -658,7 +660,7 @@ Paragraphs 1 and 2 of the provision remain the same in both versions. [Art. 31, 
 
 *within* `AR 32 PA 1 ALN 1` · *amended by* `32026R0808`
 
-In Article 32(1), the list of Directive 2014/59/EU articles that the Board follows when representing national resolution authorities has been changed from citing Articles 12 to 12k to citing Article 12 alone, and a new reference to Article 45h has been inserted into the list. [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_32) [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_32)
+*No explanation shipped — the model did not return a well-formed explanation for this change, so none is shipped; the verbatim before and after texts are unaffected.*
 
 *before* (`02014R0806-20251110`)
 
@@ -682,11 +684,11 @@ In Article 32(1), the list of Directive 2014/59/EU articles that the Board follo
 
 *within* `AR 34 PA 1 ALN 1`, `AR 34 PA 5 ALN 1`, `AR 34 PA 6 ALN 1` · *amended by* `32026R0808`
 
-Paragraph 1 now lets the Board draw on information already available not only from the ECB and national competent authorities but also from members of the ESCB, the ESRB, EBA, ESMA and EIOPA, and it specifies that information must be supplied in the procedure and form requested by the Board. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_34)
+Paragraph 1 now allows the Board to draw on information already available not only from the ECB and national competent authorities but also from members of the ESCB, the ESRB, EBA, ESMA and EIOPA, and adds that information must be provided in the procedure and form requested by the Board. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_34)
 
-Paragraph 5 extends the entities that may draw up memoranda of understanding on information exchange, and whose exchange of information is not deemed to breach professional secrecy, to include members of the ESCB, the ESRB, EBA, ESMA and EIOPA alongside the previously listed bodies. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_34)
+Paragraph 5 expands the list of bodies that may draw up memoranda of understanding on information exchange and that are covered by the professional secrecy exemption to include the members of the ESCB, the ESRB, EBA, ESMA and EIOPA alongside the previously named authorities. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_34)
 
-Paragraph 6 likewise adds members of the ESCB, the ESRB, EBA, ESMA and EIOPA to the authorities that cooperate with the Board and may supply already-available information, and it adds the qualifier that availability is assessed at the time the request is made, changes not present in the earlier text. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_34)
+Paragraph 6 similarly widens the set of authorities required to cooperate with the Board and to supply already-available information to include the members of the ESCB, the ESRB, EBA, ESMA and EIOPA, and adds the qualifier that availability is assessed at the time the request is made. [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_34) [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_34)
 
 *before* (`02014R0806-20251110`)
 
@@ -717,9 +719,9 @@ Paragraph 6 likewise adds members of the ESCB, the ESRB, EBA, ESMA and EIOPA to 
 
 *amended by* `32026R0808`
 
-A new Article 41a has been added, giving the Court of Justice of the European Union unlimited jurisdiction to review Board decisions that impose a fine or a periodic penalty payment. [Art. 41a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_41a)
+A new Article 41a has been added, giving the Court of Justice of the European Union unlimited jurisdiction to review decisions of the Board that impose a fine or a periodic penalty payment. [Art. 41a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_41a)
 
-The new provision also states that the Court may annul, reduce or increase the amount of the fine or periodic penalty payment imposed. [Art. 41a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_41a)
+The new article states that the Court may annul, reduce or increase the amount of the fine or periodic penalty payment imposed. [Art. 41a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_41a)
 
 *after* (`02014R0806-20260611`)
 
@@ -731,9 +733,9 @@ The new provision also states that the Court may annul, reduce or increase the a
 
 *within* `AR 43 PA 1 ALN 1 PTA (aa)`, `AR 43 PA 2 ALN 1` · *amended by* `32026R0808`
 
-A new point (aa) is added to Article 43(1), listing a Vice-Chair appointed in accordance with Article 56 as part of the Board's composition. [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_43)
+The list of Board members in paragraph 1 now includes a new point adding the Vice-Chair, appointed in accordance with Article 56, alongside the Chair. [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_43)
 
-Article 43(2) is revised to state that each member, including the Chair and the Vice-Chair, shall have one vote, whereas it previously referred only to the Chair. [Art. 43, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_43) [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_43)
+Paragraph 2 now states that the Vice-Chair, in addition to the Chair, has one vote as a member. [Art. 43, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_43)
 
 *before* (`02014R0806-20251110`)
 
@@ -776,11 +778,9 @@ Article 43(2) is revised to state that each member, including the Chair and the 
 
 *within* `AR 45`, `AR 45 PA 3a` · *amended by* `32026R0808`
 
-The article heading changes from "Accountability" to "Transparency and accountability". [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_45)
+The article's heading changed from "Accountability" to "Transparency and accountability". [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_45)
 
-A new paragraph 3a is inserted requiring the Board to publish its policies, guidelines, general instructions and staff working papers on resolution generally and on resolution practices and methodologies applied within the SRM, provided this does not entail disclosure of confidential information, while excluding from that publication requirement documents containing guidance or instructions to internal resolution teams or other documents prepared purely for internal information exchange within the SRM. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_45)
-
-All other paragraphs of the article remain the same as in the earlier version. [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_45)
+A new paragraph 3a was inserted requiring the Board to publish its policies, guidelines, general instructions and staff working papers on resolution and on resolution practices and methodologies applied within the SRM, provided this does not disclose confidential information, while excluding from that publication requirement documents giving guidance or instructions to internal resolution teams or other papers prepared purely for internal information exchange within the SRM. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_45)
 
 *before* (`02014R0806-20251110`)
 
@@ -809,9 +809,9 @@ All other paragraphs of the article remain the same as in the earlier version. [
 
 *within* `AR 50 PA 1 ALN 1 PTA (n)` · *amended by* `32026R0808`
 
-Point (n) now provides for the Board, in its plenary session, to appoint an internal auditor in addition to an Accounting Officer. [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_50)
+Point (n) of Article 50(1) now requires the Board to appoint an internal auditor in addition to an Accounting Officer, whereas the earlier version referred only to appointing an Accounting Officer. [Art. 50, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_50) [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_50)
 
-The phrase describing functional independence in the performance of duties was changed from referring to the Accounting Officer alone ('his or her duties') to referring to both appointees ('their duties'). [Art. 50, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_50) [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_50)
+The reference to functional independence in the performance of duties, previously phrased in the singular for the Accounting Officer, is now phrased in the plural to cover both appointees. [Art. 50, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_50)
 
 *before* (`02014R0806-20251110`)
 
@@ -839,9 +839,9 @@ The phrase describing functional independence in the performance of duties was c
 
 *within* `AR 53 PA 1 ALN 1`, `AR 53 PA 5 ALN 1` · *amended by* `32026R0808`
 
-Paragraph 1 now states that the Board in its executive session is composed of the Chair, the Vice-Chair, and the four members referred to in Article 43(1), point (b), adding the Vice-Chair to the composition previously described without one. [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_53) [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_53)
+Paragraph 1 now describes the Board in its executive session as composed of the Chair, a Vice-Chair, and the four members referred to in Article 43(1), point (b), whereas the earlier text listed only the Chair and those four members without mentioning a Vice-Chair. [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_53) [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_53)
 
-Paragraph 5 now identifies the members responsible for ensuring coherence of resolution decisions as those referred to in Article 43(1), points (a), (aa) and (b), whereas the earlier text referred only to points (a) and (b). [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_53) [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_53)
+Paragraph 5 now refers to the members of the Board covered by Article 43(1), points (a), (aa) and (b), adding point (aa) to the set of members named, where before it referred only to points (a) and (b). [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_53) [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_53)
 
 *before* (`02014R0806-20251110`)
 
@@ -869,11 +869,11 @@ Paragraph 5 now identifies the members responsible for ensuring coherence of res
 
 *within* `AR 54 PA 2 ALN 1`, `AR 54 PA 2 ALN 1 PTA (e)`, `AR 54 PA 2 ALN 1 PTA (f)`, `AR 54 PA 2a` · *amended by* `32026R0808`
 
-The introductory wording of paragraph 2 now specifies that the duties listed are exercised by the Board in its executive session, whereas before it referred simply to the Board. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_54)
+The introductory clause of paragraph 2 now explicitly names the Board in its executive session as the body exercising the listed duties, whereas before it referred only to "the Board". [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_54) [Art. 54, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_54)
 
-A new point (f) has been added to paragraph 2 giving the Board a task of conducting consultations, in accordance with a procedure set out in a new paragraph 2a, regarding guidelines, general instructions and other instruments of general application within the SRM that set out how the Board expects to implement the Regulation. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_54)
+Point (e) of paragraph 2 now ends with a semicolon instead of a full stop, and a new point (f) is added requiring the Board to conduct consultations under the procedure in paragraph 2a regarding guidelines, general instructions and other instruments of general application setting out how it expects to implement the Regulation. [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_54)
 
-The new paragraph 2a sets out a five-step consultation procedure between the Board's executive session and plenary session for such instruments, including presentation of a draft, consultation of certain members referred to in Article 43(1), point (c), review and assessment of comments, discussion, and a final decision, together with a requirement to give reasons to the plenary session and to publish a summary of those reasons in the Board's annual report referred to in Article 45(2). [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_54)
+A new paragraph 2a is inserted, setting out a five-step consultation procedure between the Board's executive and plenary sessions for such instruments, including consultation of the members referred to in Article 43(1)(c), review and assessment of comments, a final decision by the executive session, provision of reasons to the plenary session, and publication of a summary of those reasons in the Board's annual report under Article 45(2). [Art. 54, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_54)
 
 *before* (`02014R0806-20251110`)
 
@@ -906,9 +906,9 @@ The new paragraph 2a sets out a five-step consultation procedure between the Boa
 
 *within* `AR 55 PA 1 ALN 1`, `AR 55 PA 2 ALN 1` · *amended by* `32026R0808`
 
-In both paragraph 1 and paragraph 2, the decision-making body is changed from the Chair and the members referred to in Article 43(1)(b) to the Chair, the Vice-Chair and the members referred to in Article 43(1), point (b). [Art. 55, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_55)
+In both paragraph 1 and paragraph 2, the group of persons who take the decision by simple majority now includes the Vice-Chair alongside the Chair and the members referred to in Article 43(1), point (b), whereas previously only the Chair and those members were named. [Art. 55, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_55) [Art. 55, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_55)
 
-Paragraph 1 also rewords the phrase describing a group established only in one participating Member State to a group established in only one participating Member State, a wording change without altering the described entities. [Art. 55, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_55) [Art. 55, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_55)
+Paragraph 1 also changes the wording describing a group established in only one participating Member State from 'established only in one participating Member State' to 'established in only one participating Member State', and the reference to Article 43(1)(b) is rendered as Article 43(1), point (b). [Art. 55, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_55) [Art. 55, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_55)
 
 *before* (`02014R0806-20251110`)
 
@@ -930,11 +930,11 @@ Paragraph 1 also rewords the phrase describing a group established only in one p
 
 *within* `AR 56 PA 2 ALN 1 PTA (d)`, `AR 56 PA 5 ALN 1`, `AR 56 PA 7 ALN 1` · *amended by* `32026R0808`
 
-Paragraph 2(1)(d) now refers to the establishment of a preliminary draft budget and a draft budget of the Board in accordance with Article 61, whereas previously it referred only to a draft budget under Article 61(1). [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_56)
+Point (d) now refers to the establishment of a preliminary draft budget and a draft budget of the Board, citing Article 61 generally rather than only Article 61(1). [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_56)
 
-Paragraph 5 drops the earlier cross-reference to paragraph 7 that qualified the non-renewability of the term of office, and now simply states that the term shall not be renewable. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_56)
+Paragraph 5 drops the earlier qualifier making the five-year non-renewable term subject to paragraph 7, while otherwise keeping the same rule on term length and non-renewability. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_56)
 
-Paragraph 7 no longer sets a three-year term with a possible five-year renewal for the first Chair, and instead now states that the Chair, Vice-Chair and members remain in office until their successors are appointed and have taken up their duties in accordance with the Council decision referred to in paragraph 6. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_56)
+Paragraph 7 no longer sets a three-year first-Chair term renewable once for five years, and instead states that the Chair, Vice-Chair and members referred to in Article 43(1), point (b), remain in office until successors are appointed and have taken up duties under the Council decision in paragraph 6. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_56)
 
 *before* (`02014R0806-20251110`)
 
@@ -976,11 +976,11 @@ Paragraph 7 no longer sets a three-year term with a possible five-year renewal f
 
 *within* `AR 61`, `AR 61 PA 1 ALN 1`, `AR 61 PA 1 ALN 2`, `AR 61 PA 2 ALN 1`, `AR 61 PA 2 ALN 2` · *amended by* `32026R0808`
 
-The heading has been shortened by removing the word "implementation", leaving only "Establishment of the budget". [Art. 61, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_61) [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_61)
+The heading has been shortened, dropping the reference to implementation of the budget and now referring only to establishment of the budget. [Art. 61, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_61) [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_61)
 
-The single-step process, where the Chair submitted a draft budget by 15 February for adoption by the Board by 31 March, has been replaced by a two-stage process in which the Chair first submits a preliminary draft budget by 31 March for adjustment by the Board in plenary session, and then draws up a further draft budget based on that adopted preliminary draft, which is submitted to the Board in plenary session and, by 30 November, adjusted and adopted as the final budget together with the establishment plan. [Art. 61, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_61) [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_61)
+The procedure has changed from a single-stage draft submitted by 15 February and a final budget adopted by 31 March, to a two-stage process: a preliminary draft budget prepared by the Chair by 31 March and adjusted by the Board in plenary session, followed by a further draft budget prepared by the Chair on that basis and submitted to the Board, with the final budget and establishment plan adjusted and adopted by the Board in plenary session by 30 November. [Art. 61, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_61) [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_61)
 
-The establishment plan is now described as a draft establishment plan accompanying the preliminary draft budget, rather than accompanying only the final adopted budget as before. [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_61)
+The establishment plan is now described as a draft establishment plan for the following year at the preliminary stage, before being finalised together with the final budget at the later stage. [Art. 61, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_61)
 
 *before* (`02014R0806-20251110`)
 
@@ -1002,9 +1002,9 @@ The establishment plan is now described as a draft establishment plan accompanyi
 
 *within* `AR 62 PA 3 ALN 1` · *amended by* `32026R0808`
 
-Paragraph 3 now describes the Board's responsibility as covering the adoption of internal control standards in addition to putting in place internal control systems and procedures. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_62)
+Paragraph 3 now adds responsibility for adopting internal control standards alongside putting in place internal control systems and procedures. [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_62)
 
-The paragraph also specifies that this responsibility lies with the Board in its plenary session, rather than with the Board without that qualification. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_62)
+The responsibility described in paragraph 3 is now attributed to the Board acting in its plenary session, rather than to the Board generally. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_62)
 
 *before* (`02014R0806-20251110`)
 
@@ -1056,7 +1056,7 @@ The paragraph also specifies that this responsibility lies with the Board in its
 
 *within* `AR 74 ALN 2` · *amended by* `32026R0808`
 
-A new paragraph has been added requiring the Board to inform the Commission and the ECB as soon as it considers that activating the Fund's financial arrangements under this Article might become necessary. [Art. 74, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_74)
+A new paragraph has been added requiring the Board to inform the Commission and the ECB as soon as it considers that activation of the financial arrangements contracted for the Fund under this Article might be necessary. [Art. 74, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_74)
 
 The same new paragraph also requires the Board to provide the Commission and the ECB with all information necessary for the performance of their tasks in respect of those financial arrangements, a requirement absent from the earlier text. [Art. 74, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_74) [Art. 74, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_74)
 
@@ -1107,9 +1107,9 @@ The same new paragraph also requires the Board to provide the Commission and the
 
 *amended by* `32026R0808`
 
-A new Article 79b is added, requiring the Commission to submit a report to the European Parliament and to the Council on the issue of liquidity in resolution. [Art. 79b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_79b)
+This is a new provision requiring the Commission to submit a report to the European Parliament and to the Council on liquidity in resolution by 31 December 2026. [Art. 79b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_79b)
 
-The article specifies that the report must take stock of existing private and public arrangements for providing liquidity in resolution, examine the most efficient ways to address temporary liquidity shortfalls while considering relevant international developments, and present policy options. [Art. 79b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_79b)
+The report is to take stock of existing private and public arrangements for providing liquidity in resolution, examine the most efficient ways to address temporary liquidity shortfalls in light of relevant international developments, and present policy options. [Art. 79b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_79b)
 
 *after* (`02014R0806-20260611`)
 
@@ -1122,7 +1122,7 @@ The article specifies that the report must take stock of existing private and pu
 
 *within* `AR 85 PA 3 ALN 1` · *amended by* `32026R0808`
 
-In paragraph 3, the phrase describing the Board decisions subject to appeal changed from referring to a decision of the Board 'referred to in' the listed articles to a decision of the Board 'adopted under' those same listed articles. [Art. 85, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_85) [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_85)
+The only change in this provision is the wording describing a decision of the Board subject to appeal, replaced from a decision 'referred to in' the listed articles to a decision 'adopted under' those same listed articles. [Art. 85, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20251110#art_85) [Art. 85, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_85)
 
 *before* (`02014R0806-20251110`)
 
@@ -1146,9 +1146,9 @@ In paragraph 3, the phrase describing the Board decisions subject to appeal chan
 
 *within* `AR 88 PA 6 ALN 1`, `AR 88 PA 8` · *amended by* `32026R0808`
 
-Paragraph 6 now lists designated authorities, insurance resolution authorities and insurance supervisory authorities among the bodies with which the Board, the Council, the Commission, the ECB, national resolution authorities or national competent authorities may share information, in addition to the entities already named. [Art. 88, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_88)
+Paragraph 6 now includes designated authorities, insurance resolution authorities and insurance supervisory authorities among the bodies with which the Board and other listed authorities may share information, in addition to those already listed. [Art. 88, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_88)
 
-A new paragraph 8 has been added, addressing the Board's disclosure of its own analyses or assessments, including those based on information from entities under Article 2 or other authorities under paragraph 6, tying such disclosure to an assessment of public-interest effects referenced in paragraph 5 and treating it as an exercise of the Board's functions under paragraph 1. [Art. 88, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_88)
+A new paragraph 8 has been added stating that the Article does not prevent the Board from disclosing its analyses or assessments, including those based on information from entities under Article 2 or other authorities under paragraph 6, where the Board assesses that disclosure would not undermine protection of the public interest concerning financial, monetary or economic policy and that a public interest in disclosure overrides other interests referred to in paragraph 5, and it specifies that such disclosure is treated as made by the Board in the exercise of its functions under the Regulation for the purposes of paragraph 1. [Art. 88, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0806-20260611#art_88)
 
 *before* (`02014R0806-20251110`)
 
