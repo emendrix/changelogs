@@ -10,6 +10,57 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20260930 -->
+## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
+### `02019R1021-20260101` → `02019R1021-20260930`
+
+- **Act** `eu:32019R1021` · **In force** 2026-09-30 · **Detected** 2026-09-23
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 30 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02019R1021-20260101` · `v2` = `02019R1021-20260930`
+
+---
+
+**MODIFIED · Annex I — ANNEX I** · applies from: unchanged
+
+*within* `AN I` · *amended by* `32026R1423`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The later version adds a new substance entry for Chlorpyrifos, listing its CAS number 2921-88-2 and EC number 220-864-4, at the end of Part A before Part B. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260930#anx_I)
+
+This new entry states that, for that entry, point (b) of Article 4(1) applies to concentrations of chlorpyrifos equal to or below 0,01 mg/kg (0,000001 % by weight) where present in substances, mixtures or articles. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260930#anx_I)
+
+No such entry for chlorpyrifos appears in the earlier version of Annex I. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#anx_I)
+
+*before* (`02019R1021-20260101`)
+
+> ANNEX I
+> Part A
+> Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).
+> Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+> Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).
+> Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).
+> OJ C 10, 13.1.2016, p. 3.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been rep […truncated by emendrix: 36026 characters omitted…]
+
+*after* (`02019R1021-20260930`)
+
+> ANNEX I
+> Part A
+> Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention
+> Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).
+> Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).
+> Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).
+> Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).
+> Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).
+> OJ C 10, 13.1.2016, p. 3.
+> Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been rep […truncated by emendrix: 36274 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02019R1021-20260930 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02019R1021-20260101 -->
 ## Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic […]
 ### `02019R1021-20251203` → `02019R1021-20260101`
