@@ -10,6 +10,257 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20270101 -->
+## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
+### `02013R0575-20260626` → `02013R0575-20270101`
+
+- **Act** `eu:32013R0575` · **In force** 2027-01-01 · **Detected** 2026-09-23
+- **Touched** 15 provisions — 14 substantive · 0 date-only · 1 with no text · **15 disputed**
+- **Diff** 15 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 790 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Citations** `v1` = `02013R0575-20260626` · `v2` = `02013R0575-20270101`
+
+---
+
+**INSERTED · Art. 495i — Transitional provisions as regards the profit and loss attribution test under the alternative internal model approach for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+*amended by* `32026R1221`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+A new Article 495i is added, setting out transitional provisions on the profit and loss attribution test under the alternative internal model approach for market risk. [Art. 495i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495i)
+
+It states that, by way of derogation from Article 325az(2), point (d), and until 31 December 2029, institutions may use the alternative internal model approach to calculate own funds requirements for market risk for trading desks that do not meet the requirements of Article 325bg. [Art. 495i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495i)
+
+It also provides that, for those trading desks, institutions shall consider the theoretical changes in portfolio value derived from their risk measurement models to be close to the hypothetical changes in portfolio value derived from their pricing models. [Art. 495i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495i)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495i
+> Transitional provisions as regards the profit and loss attribution test under the alternative internal model approach for market risk
+> 1. By way of derogation from Article 325az(2), point (d), and until 31 December 2029, institutions may use the alternative internal model approach to calculate their own funds requirements for market risk for trading desks that do not meet the requirements laid down in Article 325bg.
+> 2. For the purposes of paragraph 1, institutions shall consider that, for the trading desks in scope, the theoretical changes in the value of those trading desks’ portfolios, based on the institutions’ risk measurement models, are close to the hypothetical changes in the value of those trading desks’ portfolios, based on the institutions’ pricing models.
+
+**INSERTED · Art. 495i-495v** · applies from: unknown
+
+*amended by* `32026R1221`
+
+**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 495j — Transitional operational relief measure on own funds requirements for non-modellable risk factors** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new Article 495j has been added, permitting institutions, by derogation from Articles 1(1) and 4(2) of Delegated Regulation (EU) 2022/2060 and until 31 December 2029, to treat as modellable a risk factor for which at least two verifiable prices have been identified over the specified observation periods. [Art. 495j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495j)
+
+The new article also sets out how a liquidity horizon is assigned to such risk factors, based on the number of verifiable prices identified, with a floor equal to the liquidity horizon that would otherwise apply, and states how these risk factors and other non-modellable risk factors are to be included in the calculations under Articles 325bb and 325bk. [Art. 495j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495j)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495j
+> Transitional operational relief measure on own funds requirements for non-modellable risk factors
+> 1. By way of derogation from Articles 1(1) and Article 4(2) of Commission Delegated Regulation (EU) 2022/2060
+> Commission Delegated Regulation (EU) 2022/2060 of 14 June 2022 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards specifying the criteria for assessing the modellability of risk factors under the internal model approach (IMA) and specifying the frequency of that assessment under Article 325be(3) of that Regulation (OJ L 276, 26.10.2022, p. 60, ELI: http://data.europa.eu/eli/reg_del/2022/2060/oj). and until 31 December 2029, institutions may assess as modellable for the purposes of Article 325be of this Regulation a risk factor for which the institution has identified at least two verifiable prices over the observation periods referred to in Article 1(1) and (2) and Article 4(2) and (3) of Delegated Regulation (EU) 2022/2060.
+> 2. Institutions shall assign to the risk factors referred to in paragraph 1 a liquidity horizon equal to 250 divided by the number of verifiable prices identified in accordance with Delegated Regulation (EU) 2022/2060, rounded to the nearest longer liquidity horizon set out in Table 2 of Article 325bd of this Regulation.
+> The liquidity horizon assigned in accordance with the first subparagraph shall not be shorter than the liquidity horizon that would be ass […truncated by emendrix: 496 characters omitted…]
+
+**INSERTED · Art. 495k — Transitional provisions on data requirements for the assessment of modellability of new issuances** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This new provision sets out transitional rules on the data institutions consider when assessing whether risk factors from recently issued or created instruments are modellable, departing from Article 1(2) and Article 4 of Delegated Regulation (EU) 2022/2060 until 31 December 2029. [Art. 495k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495k)
+
+It specifies that the observation period for such new risk factors begins on the day the instruments are first issued or traded in the market, and that the minimum number of verifiable representative prices required under that Delegated Regulation is prorated for the twelve months following that issuance or first trading date. [Art. 495k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495k)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495k
+> Transitional provisions on data requirements for the assessment of modellability of new issuances
+> By way of derogation from Article 1(2) and Article 4 of Delegated Regulation (EU) 2022/2060 and until 31 December 2029, institutions, when assessing the modellability of risk factors in accordance with Article 325be of this Regulation, shall consider that for new risk factors from recently issued or recently created instruments:
+> (a) the observation period referred to in Article 1(1) and Article 4 of Delegated Regulation (EU) 2022/2060 begins on the day on which those instruments are issued or traded for the first time in the market;
+> (b) the minimum number of verifiable prices which are representative of the risk factor in accordance with that Delegated Regulation are prorated until 12 months after that issuance or after that first trading date.
+
+**INSERTED · Art. 495l — Transitional provisions on own funds requirements under the internal default risk model** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new Article 495l has been added, setting out a transitional rule that departs from Article 325bp(5), point (a), by requiring institutions to apply a multiplier equal to 0 to probability of default estimates used in calculating own funds requirements for default risk under the internal default risk model, for all issuers or obligors whose exposures would attract a 0 % risk weight under the alternative standardised approach. [Art. 495l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495l)
+
+The provision states that this treatment applies until 31 December 2029. [Art. 495l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495l)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495l
+> Transitional provisions on own funds requirements under the internal default risk model
+> By way of derogation from Article 325bp(5), point (a), and until 31 December 2029, institutions shall apply a multiplier equal to 0 to the probability of default estimates used for the calculation of the own funds requirements for default risk under the internal default risk model laid down in Part Three, Title IV, Chapter 1b, Section 3 for all issuers or obligors the exposures to which would attract a 0 % risk weight in the calculation of own funds requirements for default risk under the alternative standardised approach.
+
+**INSERTED · Art. 495m — Transitional provisions on the calculation frequency for the alternative internal model approach** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This provision is new, adding transitional rules that let institutions applying the market risk own funds requirement calculation under Article 325ba(1) compute certain average values over the preceding 12 weeks rather than over the preceding 60 business days, until 31 December 2029. [Art. 495m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495m)
+
+It also allows institutions subject to the disclosure requirements in Article 455(2), points (a) and (b), to disclose those same values over the preceding 12 weeks instead of the preceding 60 business days, until the same date. [Art. 495m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495m)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495m
+> Transitional provisions on the calculation frequency for the alternative internal model approach
+> 1. Until 31 December 2029, institutions that apply Article 325ba(1) for the calculation of their own funds requirements for market risk may choose to calculate the average values referred to in Article 325ba(1), point (b), over the preceding 12 weeks, instead of over the preceding 60 business days.
+> 2. Until 31 December 2029, institutions that must comply with the disclosure requirements laid down in Article 455(2), points (a) and (b), may choose to disclose the values referred to in that Article for the preceding 12 weeks, instead of over the preceding 60 business days.
+
+**INSERTED · Art. 495n — Transitional provisions on own funds requirements for positions in CIUs under the alternative internal model approach** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This is a newly inserted article that creates temporary derogations from the look-through requirement of Article 325bh(1), point (i), for positions in CIUs under the alternative internal model approach. [Art. 495n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495n)
+
+It allows institutions, until 31 December 2029, to look through only at least 50% of a CIU's underlying positions by market value and to do so quarterly rather than weekly, with a specified risk weight applied to the remaining positions, while also requiring monitoring of risks from significant compositional changes between calculation dates and permitting use of an alternative modelling approach subject to competent authority approval. [Art. 495n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495n)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495n
+> Transitional provisions on own funds requirements for positions in CIUs under the alternative internal model approach
+> 1. By way of derogation from Article 325bh(1), point (i), and until 31 December 2029, institutions may look through:
+> (a) at least 50 % of all underlying positions of the CIU, measured by market value;
+> (b) the underlying positions of the CIUs on a quarterly basis rather than on a weekly basis.
+> For the purposes of the first subparagraph, point (a), institutions shall calculate the own funds requirement for market risk for all remaining positions in that CIU using the risk weight set out in Article 325j(1), point (b)(i).
+> 2. When carrying out the look through referred to in paragraph 1, institutions shall be able to monitor risks resulting from significant changes in the composition of the CIUs concerned between two calculation dates.
+> 3. By way of derogation from Article 325bh(1), point (i), an institution may use an alternative modelling approach for the calculation of the own funds requirements for market risk for positions in CIUs under the alternative internal model approach, subject to approval by its competent authority.
+
+**INSERTED · Art. 495o — Transitional provisions on own funds requirements for positions in CIUs under the alternative standardised approach** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new Article 495o has been added, permitting institutions, as a derogation from Article 325j(1), point (a), and until 31 December 2029, to look through at least 50% of the underlying positions in certain CIUs measured by market value and to look through the remaining underlying positions on a quarterly rather than monthly basis. [Art. 495o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495o)
+
+It also states that, as a derogation from Article 325j(1a) and (3) and until 31 December 2029, institutions may treat positions in CIUs as single equity positions with a 100% risk weight for calculating own funds requirements for vega risk, irrespective of the approaches used for other risk factors on the same positions. [Art. 495o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495o)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495o
+> Transitional provisions on own funds requirements for positions in CIUs under the alternative standardised approach
+> 1. By way of derogation from Article 325j(1), point (a), and until 31 December 2029, institutions may look through:
+> (a) at least 50 % of the underlying positions in those CIUs, measured by market value;
+> (b) the underlying positions of the CIU on a quarterly basis rather than on a monthly basis.
+> For the purposes of the first subparagraph, point (a), institutions shall calculate the own funds requirement for market risk for all remaining positions in those CIUs using the approach laid down in Article 325j(1), point (b)(i).
+> 2. By way of derogation from Article 325j(1a) and (3), and until 31 December 2029, institutions may consider positions in CIUs as single equity positions with a risk weight of 100 % for the calculation of their own funds requirements for vega risk, regardless of other approaches used for the calculation of their own funds requirements for other risk factors for the same positions.
+
+**INSERTED · Art. 495p — Transitional provisions on own funds requirements for residual risk add-on under the alternative standardised approach** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new Article 495p is added, setting out transitional provisions under which institutions apply a multiplier of 0 to own funds requirements for residual risks calculated under Article 325u for certain instruments, namely those referencing future realised volatility, options exercisable on a finite set of predetermined dates, and options on the difference between two constant maturity swap rates in the same currency, provided in each case that they would not otherwise attract a residual risk add-on. [Art. 495p, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495p)
+
+The text states this multiplier applies until 31 December 2029. [Art. 495p, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495p)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495p
+> Transitional provisions on own funds requirements for residual risk add-on under the alternative standardised approach
+> By way of derogation from Article 325u and until 31 December 2029, institutions shall apply a multiplier equal to 0 to the own funds requirements for residual risks calculated in accordance with that Article for the following instruments:
+> (a) instruments that reference future realised volatility as an underlying and that would not attract a residual risk add-on for other reasons;
+> (b) instruments that are options that can be exercised on a finite set of predetermined dates and that would not attract a residual risk add-on for other reasons;
+> (c) instruments that are options on the difference between two constant maturity swap rates denominated in the same currency and that would not attract a residual risk add-on for other reasons.
+
+**INSERTED · Art. 495q — Transitional provisions on the calculation of the own funds requirements for default risk under the alternative standardised approach** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This is a newly inserted provision allowing institutions, until 31 December 2029, to assign the same maturity as the hedged derivative to cash equity positions that hedge derivative instruments, or a three-month maturity to equity derivative exposures, as a derogation from Article 325x(4). [Art. 495q, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495q)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495q
+> Transitional provisions on the calculation of the own funds requirements for default risk under the alternative standardised approach
+> By way of derogation from Article 325x(4) and until 31 December 2029, institutions may at their discretion assign:
+> (a) to cash equity positions that hedge derivative instruments, the same maturity as the maturity of the derivative instruments they hedge;
+> (b) a maturity of three months to equity derivative exposures.
+
+**INSERTED · Art. 495r — Transitional provisions on the calculation of own funds requirements under the alternative standardised approach for instruments subject to EU ETS carbon trading risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new Article 495r is added, setting out a transitional rule that departs from Article 325at(2) by requiring institutions to divide the tenor correlation parameter set out there by 99.1% when calculating own funds requirements for market risk under the alternative standardised approach for instruments subject to EU ETS carbon trading delta commodity risk. [Art. 495r, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495r)
+
+The text states that this derogation applies until 31 December 2029. [Art. 495r, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495r)
+
+*Applicability:* By way of derogation from Article 325at(2) and until 31 December 2029, institutions shall divide by 99,1 % the tenor correlation parameter set out in that Article for the calculation of their own funds requirements for market risk under the alternative standardised approach for instruments subject to EU ETS carbon trading delta commodity risk. [Art. 495r, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495r)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495r
+> Transitional provisions on the calculation of own funds requirements under the alternative standardised approach for instruments subject to EU ETS carbon trading risk
+> By way of derogation from Article 325at(2) and until 31 December 2029, institutions shall divide by 99,1 % the tenor correlation parameter set out in that Article for the calculation of their own funds requirements for market risk under the alternative standardised approach for instruments subject to EU ETS carbon trading delta commodity risk.
+
+**INSERTED · Art. 495s — Transitional provisions on the phase-in of the own funds requirements under the alternative standardised approach and simplified standardised approach** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+A new Article 495s has been added, setting out transitional multipliers of 0,9 applied until 31 December 2029 to the own funds requirements for market risk calculated under the sensitivities-based method referenced in Article 325h(4), and under the simplified standardised approach referenced in Article 325(2). [Art. 495s, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495s)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495s
+> Transitional provisions on the phase-in of the own funds requirements under the alternative standardised approach and simplified standardised approach
+> 1. Until 31 December 2029, institutions shall apply a multiplier of 0,9 to the result of the calculation of their own funds requirements for market risk under the sensitivities-based method in accordance with Article 325h(4).
+> 2. Until 31 December 2029, institutions shall apply a multiplier of 0,9 to the result of the calculation of their own funds requirements for market risk under the simplified standardised approach referred to in Article 325(2).
+
+**INSERTED · Art. 495t — Transitional provisions on the treatment of instruments in the ACTP portfolio** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This is a newly inserted article allowing institutions to choose to also apply the treatment set out in Article 325i(1), points (a) and (b), to positions included in the ACTP, by way of derogation from that provision. [Art. 495t, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495t)
+
+The text states this option is available until 31 December 2029. [Art. 495t, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495t)
+
+*Applicability:* until 31 December 2029, institutions may choose to also apply the treatment laid down in that Article to positions included in the ACTP [Art. 495t, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495t)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495t
+> Transitional provisions on the treatment of instruments in the ACTP portfolio
+> By way of derogation from Article 325i(1), points (a) and (b), and until 31 December 2029, institutions may choose to also apply the treatment laid down in that Article to positions included in the ACTP.
+
+**INSERTED · Art. 495u — Transitional provisions on the derogation for small trading book business institutions** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+This is a newly inserted article allowing an institution that qualifies for the small trading book business treatment to use the approach described elsewhere in the Regulation for calculating own funds requirements for market risk on non-trading book positions exposed to foreign exchange or commodity risk. [Art. 495u, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495u)
+
+The provision states this option applies until 31 December 2029. [Art. 495u, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495u)
+
+*Applicability:* Until 31 December 2029, an institution that is eligible for the treatment set out in Article 94 may apply the approach referred to in Article 325(2) to calculate its own funds requirements for market risk of non-trading book positions that are subject to foreign exchange risk or commodity risk. [Art. 495u, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495u)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495u
+> Transitional provisions on the derogation for small trading book business institutions
+> Until 31 December 2029, an institution that is eligible for the treatment set out in Article 94 may apply the approach referred to in Article 325(2) to calculate its own funds requirements for market risk of non-trading book positions that are subject to foreign exchange risk or commodity risk.
+
+**INSERTED · Art. 495v — Transitional provisions on the application of a multiplier to own funds requirements for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+Article 495v is a newly added provision setting out transitional rules allowing an institution to apply a multiplier to its own funds requirements for market risk until 31 December 2029, based on comparing calculations made under different versions of the Regulation. [Art. 495v, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495v)
+
+The provision also sets conditions on when the multiplier cannot be used, requires notification to competent authorities, allows cessation of its use without later reapplication, and imposes ongoing reporting and disclosure obligations alongside a specific rule on trading book inclusion requirements. [Art. 495v, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20270101#art_495v)
+
+*after* (`02013R0575-20270101`)
+
+> Article 495v
+> Transitional provisions on the application of a multiplier to own funds requirements for market risk
+> 1. Until 31 December 2029, an institution may choose to apply a multiplier to its own funds requirements for market risk calculated using the approaches referred to in Article 325(1) and laid out in Articles 325c to 325ay, Articles 325az to 325bp and Articles 326 to 361, where its own funds requirements for market risk, calculated by applying this Regulation in the version in force on 9 July 2024 and taking into account the transitional treatments laid down in Articles 495i to 495t as of 31 March 2027, are higher than its own funds requirements for market risk calculated by applying Part Three, Title IV, of this Regulation in the version in force on 8 July 2024.
+> 2. An institution shall not apply the multiplier in paragraph 1 where it calculates its own funds requirements for market risk by applying only Articles 326 to 361.
+> 3. An institution that chooses to apply the treatment laid down in paragraph 1 shall notify the competent authorities without delay and shall provide evidence of meeting the requirements set out in that paragraph.
+> 4. An institution that applies the treatment laid down in paragraph 1 may cease to apply that treatment at any point in time, provided that it has notified its competent authority. An institution that ceases to apply that treatment shall not apply it again at a later date.
+> 5. An institution that chooses to use the multiplier referred […truncated by emendrix: 1390 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20270101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20260626 -->
 ## Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements […]
 ### `02013R0575-20260101` → `02013R0575-20260626`
