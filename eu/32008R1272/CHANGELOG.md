@@ -10,6 +10,581 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20270101 -->
+## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
+### `02008R1272-20260701` → `02008R1272-20270101`
+
+- **Act** `eu:32008R1272` · **In force** 2027-01-01 · **Detected** 2026-09-30
+- **Touched** 37 provisions — 8 substantive · 0 date-only · 29 with no text · **34 disputed**
+- **Diff** 3 inserted · 33 modified · 1 deleted · 0 renumbered · 0 deferred · 69 unchanged
+- **Gate** 0 sentences quoted verbatim · 29 changes shipped without an explanation
+- **Citations** `v1` = `02008R1272-20260701` · `v2` = `02008R1272-20270101`
+
+---
+
+**MODIFIED · Art. 1 — Purpose and scope** · applies from: unchanged
+
+*within* `AR 1 PA 1 ALN 1 PTA (e)`, `AR 1 PA 1 ALN 1 PTA (f)` · *amended by* `32024R2865`
+
+Point (e) now ends with a semicolon instead of a full stop, reflecting the addition of a new following point. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_1)
+
+A new point (f) is added, stating an obligation for downstream users, importers and distributors referred to in Article 45(1b) and (1c) to submit information relevant to an adequate emergency health response to appointed bodies in accordance with Annex VIII. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_1)
+
+*before* (`02008R1272-20260701`)
+
+> Article 1
+> Purpose and scope
+> 1. The purpose of this Regulation is to ensure a high level of protection of human health and the environment as well as the free movement of substances, mixtures and articles as referred to in Article 4(8) by:
+> (a) harmonising the criteria for classification of substances and mixtures, and the rules on labelling and packaging for hazardous substances and mixtures;
+> (b) providing an obligation for:
+> (i) manufacturers, importers and downstream users to classify substances and mixtures placed on the market;
+> (ii) suppliers to label and package substances and mixtures placed on the market;
+> (iii) manufacturers, producers of articles and importers to classify those substances not placed on the market that are subject to registration or notification under Regulation (EC) No 1907/2006;
+> (c) providing an obligation for manufacturers and importers of substances to notify the Agency of such classifications and label elements if these have not been submitted to the Agency as part of a registration under Regulation (EC) No 1907/2006;
+> (d) establishing a list of substances with their harmonised classifications and labelling elements at Community level in Part 3 of Annex VI;
+> (e) establishing a classification and labelling inventory of substances, which is made up of all notifications, submissions and harmonised classifications and labelling elements referred to in points (c) and (d).
+> 2. This Regulation shall not apply to the following:
+> (a) radioactive substances and m […truncated by emendrix: 2249 characters omitted…]
+
+*after* (`02008R1272-20270101`)
+
+> Article 1
+> Purpose and scope
+> 1. The purpose of this Regulation is to ensure a high level of protection of human health and the environment as well as the free movement of substances, mixtures and articles as referred to in Article 4(8) by:
+> (a) harmonising the criteria for classification of substances and mixtures, and the rules on labelling and packaging for hazardous substances and mixtures;
+> (b) providing an obligation for:
+> (i) manufacturers, importers and downstream users to classify substances and mixtures placed on the market;
+> (ii) suppliers to label and package substances and mixtures placed on the market;
+> (iii) manufacturers, producers of articles and importers to classify those substances not placed on the market that are subject to registration or notification under Regulation (EC) No 1907/2006;
+> (c) providing an obligation for manufacturers and importers of substances to notify the Agency of such classifications and label elements if these have not been submitted to the Agency as part of a registration under Regulation (EC) No 1907/2006;
+> (d) establishing a list of substances with their harmonised classifications and labelling elements at Community level in Part 3 of Annex VI;
+> (e) establishing a classification and labelling inventory of substances, which is made up of all notifications, submissions and harmonised classifications and labelling elements referred to in points (c) and (d);
+> (f) providing an obligation for downstream users, importers and distributors referred […truncated by emendrix: 2488 characters omitted…]
+
+**MODIFIED · Art. 2** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 5** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 6** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 9** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 10** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 13** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 18 — Product identifiers** · applies from: unchanged
+
+*within* `AR 18 PA 3 ALN 1 PTA (b)` · *amended by* `32024R2865`
+
+Article 18(3)(1)(b) now lists additional hazard classes that count toward identifying substances in a mixture, adding persistent, bioaccumulative and toxic, very persistent and very bioaccumulative, persistent, mobile and toxic, very persistent and very mobile properties, and endocrine disruption for human health or the environment to the previously listed hazard categories. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_18)
+
+The wording "specific target organ toxicity (STOT)" is shortened to "specific target organ toxicity" without the abbreviation, and "aspiration hazard" is followed by a comma rather than the word "or" before the newly added hazard categories. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_18)
+
+*before* (`02008R1272-20260701`)
+
+> Article 18
+> Product identifiers
+> 1. The label shall include details permitting the identification of the substance or mixture (hereinafter referred to as product identifiers).
+> The term used for identification of the substance or mixture shall be the same as that used in the safety data sheet drawn up in accordance with Article 31 of Regulation (EC) No 1907/2006 (hereinafter referred to as safety data sheet), without prejudice to Article 17(2) of this Regulation.
+> 2. The product identifier for a substance shall consist of at least the following:
+> (a) if the substance is included in Part 3 of Annex VI, a name and an identification number as given therein;
+> (b) if the substance is not included in Part 3 of Annex VI, but appears in the classification and labelling inventory, a name and an identification number as given therein;
+> (c) if the substance is not included in Part 3 of Annex VI nor in the classification and labelling inventory, the number provided by the CAS (hereinafter referred to as the CAS number), together with the name set out in the nomenclature provided by the IUPAC (hereinafter referred to as the IUPAC Nomenclature), or the CAS number together with another international chemical name(s); or
+> (d) if the CAS number is not available, the name set out in the IUPAC Nomenclature or another international chemical name(s).
+> Where the name in the IUPAC nomenclature exceeds 100 characters, one of the other names (usual name, trade name, abbreviation) referred to in section 2.1.2 […truncated by emendrix: 1116 characters omitted…]
+
+*after* (`02008R1272-20270101`)
+
+> Article 18
+> Product identifiers
+> 1. The label shall include details permitting the identification of the substance or mixture (hereinafter referred to as product identifiers).
+> The term used for identification of the substance or mixture shall be the same as that used in the safety data sheet drawn up in accordance with Article 31 of Regulation (EC) No 1907/2006 (hereinafter referred to as safety data sheet), without prejudice to Article 17(2) of this Regulation.
+> 2. The product identifier for a substance shall consist of at least the following:
+> (a) if the substance is included in Part 3 of Annex VI, a name and an identification number as given therein;
+> (b) if the substance is not included in Part 3 of Annex VI, but appears in the classification and labelling inventory, a name and an identification number as given therein;
+> (c) if the substance is not included in Part 3 of Annex VI nor in the classification and labelling inventory, the number provided by the CAS (hereinafter referred to as the CAS number), together with the name set out in the nomenclature provided by the IUPAC (hereinafter referred to as the IUPAC Nomenclature), or the CAS number together with another international chemical name(s); or
+> (d) if the CAS number is not available, the name set out in the IUPAC Nomenclature or another international chemical name(s).
+> Where the name in the IUPAC nomenclature exceeds 100 characters, one of the other names (usual name, trade name, abbreviation) referred to in section 2.1.2 […truncated by emendrix: 1323 characters omitted…]
+
+**MODIFIED · Art. 23** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 24** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 25** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 29** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 30 — Updating information on labels** · applies from: unchanged
+
+*within* `AR 30 PA 1 ALN 1`, `AR 30 PA 2 ALN 1`, `AR 30 PA 3 ALN 1`, `AR 30 PA 4` · *amended by* `32024R2865`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The updating trigger in paragraph 1 changes from a defined event tied to a new evaluation under Article 15(4), with a fixed 6-month deadline, to a duty to update without undue delay following any classification or labelling change, judged by the nature of the change for human health and environmental protection, and it adds a requirement that suppliers cooperate under Article 4(9) to complete labelling changes without undue delay. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_30)
+
+Paragraph 2 removes the reference to results of a new evaluation under Article 15(4) as the trigger for the 18-month deadline, keeping only the 18-month period for other required labelling changes. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_30)
+
+The former paragraph 3 exemption for changes triggered by harmonised classification delegated acts is removed, and the former paragraph 4 reference to Regulation (EC) No 1107/2009 and Regulation (EU) No 528/2012 is replaced by a new paragraph 3 referring instead to Directives 91/414/EEC and 98/8/EC. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_30)
+
+*before* (`02008R1272-20260701`)
+
+> Article 30
+> Updating information on labels
+> 1. In the event of a change regarding the classification or labelling of a substance or a mixture, which results in the addition of a new hazard class or in a more severe classification, or which requires new supplemental information on the label in accordance with Article 25, the supplier of that substance or that mixture shall ensure that the label is updated without undue delay and in any event no later than 6 months after the results of the new evaluation referred to in Article 15(4) are obtained by, or communicated to, that supplier.
+> 2. Where a change regarding the classification or labelling of a substance or a mixture, other than those referred to in paragraph 1 of this Article, is required, the supplier of that substance or that mixture shall ensure that the label is updated without undue delay and in any event no later than 18 months after the results of the new evaluation referred to in Article 15(4) are obtained by, or communicated to, that supplier.
+> 3. Paragraphs 1 and 2 shall not apply where a change regarding the classification and labelling of a substance or a mixture was triggered by a harmonised classification and labelling of a substance set out in a delegated act adopted pursuant to Article 37(5) or by a provision set out in a delegated act adopted pursuant to Article 53(1). In such cases, the supplier shall ensure that the label is updated by the date set out in the respective delegated act.
+> 4. The supplier of a su […truncated by emendrix: 169 characters omitted…]
+
+*after* (`02008R1272-20270101`)
+
+> Article 30
+> Updating information on labels
+> 1. The supplier shall ensure that the label is updated, without undue delay, following any change to the classification and labelling of that substance or mixture, where the new hazard is more severe or where new supplemental labelling elements are required under Article 25, taking into account the nature of the change as regards the protection of human health and the environment. Suppliers shall cooperate in accordance with Article 4(9) to complete the changes to the labelling without undue delay.
+> 2. Where labelling changes are required other than those referred to in paragraph 1, the supplier shall ensure that the label is updated within 18 months.
+> 3. The supplier of a substance or a mixture within the scope of Directives 91/414/EEC or 98/8/EC shall update the label in accordance with those Directives.
+
+**MODIFIED · Art. 31** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 32** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 34a** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 34b** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 35** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 36** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 37** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 38** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 40** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 42** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 45 — Appointment of bodies responsible for receiving information relating to emergency health response** · applies from: unchanged
+
+*within* `AR 45 PA 1a`, `AR 45 PA 1b`, `AR 45 PA 1c`, `AR 45 PA 3 ALN 1` · *amended by* `32024R2865`
+
+Three new paragraphs are added: paragraph 1a allows Member States to appoint the Agency as the body receiving the emergency health response information described in paragraph 1, paragraph 1b requires importers and downstream users placing hazardous mixtures on the market to submit the Part B Annex VIII information to the appointed body or bodies, and paragraph 1c imposes a similar submission duty on distributors placing such mixtures on the market when they subsequently distribute, rebrand or relabel them in other Member States, with an exemption if the same information was already received from importers and downstream users. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_45)
+
+Paragraph 3 is reworded so that the appointed bodies must have at their disposal information required from importers, downstream users and the distributors referred to in new paragraph 1c, rather than only from importers and downstream users responsible for marketing, and the reference now ties the tasks to paragraph 1. [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_45) [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_45)
+
+*before* (`02008R1272-20260701`)
+
+> Article 45
+> Appointment of bodies responsible for receiving information relating to emergency health response
+> 1. Member States shall appoint a body or bodies responsible for receiving the relevant harmonised information relating to emergency health response and preventative measures, in accordance with Annex VIII.
+> 2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:
+> (a) to meet medical demand by formulating preventative and curative measures, in particular in the event of an emergency;
+> and
+> (b) where requested by the Member State, the Commission or the Agency, to undertake a statistical analysis to identify where improved risk management measures may be needed.
+> The information shall not be used for other purposes.
+> 3. The appointed bodies shall have at their disposal all the information required from the importers and downstream users responsible for marketing to carry out the tasks for which they are responsible.
+> 4. The Commission is empowered to adopt delegated acts in accordance with Article 53a amending Annex VIII to further harmonise the information relating to emergency health response and preventative measures, following consultation with relevant stakeholders such as the European Association of Poison Centres and Clinical Toxicologists (EAPCCT).
+
+*after* (`02008R1272-20270101`)
+
+> Article 45
+> Appointment of bodies responsible for receiving information relating to emergency health response
+> 1. Member States shall appoint a body or bodies responsible for receiving the relevant harmonised information relating to emergency health response and preventative measures, in accordance with Annex VIII.
+> 1a. Member States may appoint the Agency as the body responsible for receiving information relating to emergency health response and preventative measures referred to in paragraph 1.
+> 1b. Importers and downstream users placing on the market mixtures that are classified as hazardous on the basis of their health or physical effects, shall submit to the body or bodies appointed in accordance with paragraph 1 the information referred to in Part B of Annex VIII.
+> 1c. Distributors placing on the market mixtures that are classified as hazardous on the basis of their health or physical effects shall submit to the body or bodies appointed in accordance with paragraph 1 the information referred to in Part B of Annex VIII where they subsequently distribute those mixtures in other Member States, or where they rebrand or relabel the mixtures. That obligation shall not apply if the distributors can demonstrate that the appointed body or bodies already received the same information from importers and downstream users.
+> 2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:
+> (a) t […truncated by emendrix: 941 characters omitted…]
+
+**MODIFIED · Art. 46** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 48 — Advertisement** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 48 PA 1 ALN 1`, `AR 48 PA 2 ALN 1`, `AR 48 PA 3`, `AR 48 PA 4` · *dates* +1997-05-20 · *amended by* `32024R2865`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+The advertisement requirement for hazardous substances changed from listing hazard pictograms, signal words, hazard statements and supplemental EUH statements, plus a general-public label-following notice, to a simpler duty to mention the hazard classes or hazard categories concerned. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_48)
+
+For mixtures, the earlier text required indicating the same pictograms, signal words and statements and, for public sales, the label-following notice, whereas the later text instead requires mentioning the type or types of hazard shown on the label, but only where the advertisement lets a member of the general public conclude a purchase contract without first seeing the label, and it adds a new cross-reference to Directive 97/7/EC on distance contracts. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_48)
+
+The prior paragraphs on prohibited label-inconsistent statements and on omitting pictograms and signal words for non-visual advertisements no longer appear in the later text shown. [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_48)
+
+*before* (`02008R1272-20260701`)
+
+> Article 48
+> Advertisement
+> 1. Any advertisement for a substance classified as hazardous shall indicate, as applicable, the hazard pictograms, signal words, hazard statements and supplemental EUH statements set out in Annex II. Any advertisement for such a substance for sale to the general public shall in addition state: Always follow the information on the product label..
+> 2. Any advertisement for a mixture classified as hazardous or covered by Article 25(6) shall indicate the hazard pictograms, signal words, hazard statements and supplemental EUH statements set out in Annex II. Any advertisement for such a mixture for sale to the general public shall, in addition, state: Always follow the information on the product label..
+> 3. Any advertisement for a substance or a mixture classified as hazardous shall not contain statements that are not to appear on the label or packaging of that substance or mixture in accordance with Article 25(4).
+> 4. By way of derogation from paragraphs 1 and 2, the hazard pictograms and signal words may be omitted where the advertisement is non-visual.
+
+*after* (`02008R1272-20270101`)
+
+> Article 48
+> Advertisement
+> 1. Any advertisement for a substance classified as hazardous shall mention the hazard classes or hazard categories concerned.
+> 2. Any advertisement for a mixture classified as hazardous or covered by Article 25(6) which allows a member of the general public to conclude a contract for purchase without first having sight of the label shall mention the type or types of hazard indicated on the label.
+> The first subparagraph shall be without prejudice to Directive 97/7/EC of the European Parliament and of the Council of 20 May 1997 on the protection of consumers in respect of distance contracts
+> OJ L 144, 4.6.1997, p. 19..
+
+**DELETED · Art. 48a — Distance sales offers** · applies from: unknown (a deleted provision has no application date to move)
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+
+Article 48a, which required that distance-sales offers of substances or mixtures clearly and visibly show the label elements referred to in Article 17, no longer appears in the text. [Art. 48a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_48a)
+
+*before* (`02008R1272-20260701`)
+
+> Article 48a
+> Distance sales offers
+> When substances or mixtures are placed on the market through distance sales, the offer shall clearly and visibly indicate the label elements referred to in Article 17.
+
+**MODIFIED · Art. 50** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 52** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 53** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 53a** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 53c** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 54** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**INSERTED · Art. 54a** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Art. 61** · applies from: unknown
+
+*amended by* `32024R2865`
+
+**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
+
+*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
+
+**MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
+
+*within* `AN II SCT 2`, `AN II SCT 5`
+
+**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+
+In section 2, the introductory sentence now refers only to sections 2.1 to 2.10 and no longer includes a reference to section 2.12. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#anx_II)
+
+In section 5, the heading changes from a description of a list to the phrase naming a list, and the body text is shortened to a single reference to ready mixed cement and concrete in the wet state, removing the earlier description of label-copy obligations and the separate paragraph on filling-station pumps and receptacles. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#anx_II)
+
+*before* (`02008R1272-20260701`)
+
+> ANNEX II
+> SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES
+> This Annex consists of 5 parts:
+> Part 1 contains special rules for the labelling of certain classified substances and mixtures.
+> Part 2 sets out rules for additional hazard statements to be included on the label of certain mixtures.
+> Part 3 sets out special rules for packaging.
+> Part 4 sets out a special rule for the labelling of plant protection products.
+> Part 5 sets up a list of hazardous substances and mixtures to which Article 29(3) applies.
+> 1. PART 1: SUPPLEMENTAL HAZARD INFORMATION
+> The statements set out in sections 1.1 and 1.2 shall be assigned in accordance with Article 25(1) to substances and mixtures classified for physical, health or environmental hazards.
+> 1.1. Physical properties
+> 1.1.1. EUH001 — Explosive when dry
+> For explosive substances and mixtures as referred to in section 2.1 of Annex I, placed on the market wetted with water or alcohols or diluted with other substances to suppress their explosive properties.
+> 1.1.2. EUH006 — Explosive with or without contact with air
+> For substances and mixtures which are unstable at ambient temperatures, such as acetylene.
+> 1.1.1. EUH014 — Reacts violently with water
+> For substances and mixtures which react violently with water, such as acetyl chloride, alkali metals, titanium tetrachloride.
+> 1.1.2. EUH018 — In use, may form flammable/explosive vapour-air mixture
+> For substances and mixtures not classified as flammable themselves, which may form fla […truncated by emendrix: 19424 characters omitted…]
+
+*after* (`02008R1272-20270101`)
+
+> ANNEX II
+> SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES
+> This Annex consists of 5 parts:
+> Part 1 contains special rules for the labelling of certain classified substances and mixtures.
+> Part 2 sets out rules for additional hazard statements to be included on the label of certain mixtures.
+> Part 3 sets out special rules for packaging.
+> Part 4 sets out a special rule for the labelling of plant protection products.
+> Part 5 sets up a list of hazardous substances and mixtures to which Article 29(3) applies.
+> 1. PART 1: SUPPLEMENTAL HAZARD INFORMATION
+> The statements set out in sections 1.1 and 1.2 shall be assigned in accordance with Article 25(1) to substances and mixtures classified for physical, health or environmental hazards.
+> 1.1. Physical properties
+> 1.1.1. EUH001 — Explosive when dry
+> For explosive substances and mixtures as referred to in section 2.1 of Annex I, placed on the market wetted with water or alcohols or diluted with other substances to suppress their explosive properties.
+> 1.1.2. EUH006 — Explosive with or without contact with air
+> For substances and mixtures which are unstable at ambient temperatures, such as acetylene.
+> 1.1.1. EUH014 — Reacts violently with water
+> For substances and mixtures which react violently with water, such as acetyl chloride, alkali metals, titanium tetrachloride.
+> 1.1.2. EUH018 — In use, may form flammable/explosive vapour-air mixture
+> For substances and mixtures not classified as flammable themselves, which may form fla […truncated by emendrix: 18722 characters omitted…]
+
+**MODIFIED · Annex VIII — HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES** · applies from: unchanged
+
+*within* `AN VIII`, `AN VIII SCT 1`, `AN VIII SCT 2`, `AN VIII SCT 2 PO 5`, `AN VIII SCT 2 PO 6`, `AN VIII SCT 3.1`, `AN VIII SCT 3.6`, `AN VIII SCT 3.7`, `AN VIII SCT 4.1`, `AN VIII SCT 1.4` · *amended by* `32024R2865`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The revised Annex now names distributors referred to in Article 45(1b) and (1c), alongside importers and downstream users, as subject to the application and definitions provisions in Part A sections 1 and 2, and also adds a new definition of a composition conforming with a standard formula in section 2.4. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#anx_VIII)
+
+Part B section 1.1a is newly added requiring the name and product description of the standard formula or fuel name to be included in a submission, section 3.1 adds text on notifying standard formula components with concentration ranges including 0%, and section 3.6's heading and text are adjusted to refer to compositions conforming with a standard formula, while section 3.7's fuel table column heading changes from Fuel to Fuel name and section 4.1 adds a new residual category covering other changes relevant for emergency health response. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#anx_VIII)
+
+Part C section 1.4 and the standard formula tables in Part D now include a standard formula name and product description field that was not present before, and the text is truncated before showing the remainder of the Part D changes. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#anx_VIII)
+
+*before* (`02008R1272-20260701`)
+
+> ANNEX VIII
+> HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES
+> PART A
+> GENERAL REQUIREMENTS
+> 1. APPLICATION
+> 1.1. Importers and downstream users placing on the market mixtures for consumer use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.2. Importers and downstream users placing on the market mixtures for professional use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.3. Importers and downstream users placing on the market mixtures for industrial use or mixtures with an end use not subject to notification within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2024.
+> 1.4. Importers and downstream users having submitted information relating to hazardous mixtures to a body appointed in accordance with Article 45(1) before the dates of applicability mentioned in Sections 1.1, 1.2 and 1.3 and which are not in accordance with this Annex, shall for those mixtures not be required to comply with this Annex until 1 January 2025.
+> 1.5. By way of derogation from Section 1.4, if one of the changes described in Section 4.1 of Part B of this Annex occurs before 1 January 2025, importers and downstream users shall comply with this Annex before placing that mixture, as changed, on the market.
+> 2. PURPOSE, SCOPE AND DEFINITIONS
+> 2.1. This Annex sets out the requirements that importers and […truncated by emendrix: 41268 characters omitted…]
+
+*after* (`02008R1272-20270101`)
+
+> ANNEX VIII
+> HARMONISED INFORMATION RELATING TO EMERGENCY HEALTH RESPONSE AND PREVENTATIVE MEASURES
+> PART A
+> GENERAL REQUIREMENTS
+> 1. APPLICATION
+> 1.1. Importers, downstream users and distributors referred to in Article 45(1b) and (1c) placing on the market mixtures for consumer use, within the meaning of section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.2. Importers, downstream users and distributors referred to in Article 45(1b) and (1c) placing on the market mixtures for professional use, within the meaning of section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.
+> 1.3. Importers, downstream users and distributors referred to in Article 45(1b) and (1c) placing on the market mixtures for industrial use or mixtures with an end use not subject to notification within the meaning of section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2024.
+> 1.4. Importers, downstream users and distributors referred to in Article 45(1b) and (1c) having submitted information relating to hazardous mixtures to a body appointed in accordance with Article 45(1) before the dates of applicability mentioned in sections 1.1, 1.2 and 1.3 and which are not in accordance with this Annex, shall for those mixtures not be required to comply with this Annex until 1 January 2025.
+> 1.5. By way of derogation from section 1.4, if one of the changes described in section 4.1 of Part B of this Annex occurs before 1 January 2025, […truncated by emendrix: 43987 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20270101 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20260701 -->
 ## Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification […]
 ### `02008R1272-20260501` → `02008R1272-20260701`
