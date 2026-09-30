@@ -10,6 +10,60 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02023R1115-20260918 -->
+## Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the […]
+### `02023R1115-20251226` → `02023R1115-20260918`
+
+- **Act** `eu:32023R1115` · **In force** 2026-09-18 · **Detected** 2026-09-30
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 41 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02023R1115-20251226` · `v2` = `02023R1115-20260918`
+
+---
+
+**MODIFIED · Annex I — Relevant commodities and relevant products as referred to in Article 1** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AN I` · *dates* +2001-11-06 +2004-03-31 +2018-12-11 +2027-12-30 · *amended by* `32026R2102`
+
+**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+
+The later text adds species and scope clarifications for cattle, oil palm and rubber, stating which genera and species the Regulation applies to and which it excludes, and it adds an exclusion for bamboo, rattan and other woody materials from the wood commodity category. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20260918#anx_I)
+
+It also adds a new exclusion for negligible-value samples and for products undergoing examination, analysis or testing, together with references to Directive 2001/83/EC, Regulation (EC) No 726/2004 and Regulation (EU) 2019/6. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20260918#anx_I)
+
+The commodity tables are expanded with numerous new or restated CN/HS codes and product descriptions, many carrying added parenthetical exclusions such as for waste, used or second-hand products, or single-use packing materials, and several entries carry a note that they apply from a later date. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20260918#anx_I)
+
+*before* (`02023R1115-20251226`)
+
+> ANNEX I
+> Relevant commodities and relevant products as referred to in Article 1
+> The following table lists goods as classified in the Combined Nomenclature set out in Annex I to Regulation (EEC) No 2658/87 that are referred to in Article 1 of this Regulation.
+> Except for by-products of a manufacturing process, where that process involved material that was not waste as defined in Article 3, point (1), of Directive 2008/98/EC, this Regulation does not apply to goods if they are produced entirely from material that has completed its lifecycle and would otherwise have been discarded as waste as defined in Article 3, point (1), of that Directive.
+> Relevant commodity Relevant products
+> Cattle 010221, 010229 Live cattle
+> ex0201 Meat of cattle, fresh or chilled
+> ex0202 Meat of cattle, frozen
+> ex020610 Edible offal of cattle, fresh or chilled
+> ex020622 Edible cattle livers, frozen
+> ex020629 Edible cattle offal (excluding tongues and livers), frozen
+> ex160250 Other prepared or preserved meat, meat offal, blood, of cattle
+> ex4101 Raw hides and skins of cattle (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split
+> ex4104 Tanned or crust hides and skins of cattle, without hair on, whether or not split, but not further prepared
+> ex4107 Leather of cattle, further prepared after tanning or crusting, including parchment-dressed leather, without hair on, whether or not split, other than leather of heading 411 […truncated by emendrix: 6515 characters omitted…]
+
+*after* (`02023R1115-20260918`)
+
+> ANNEX I
+> Relevant commodities and relevant products as referred to in Article 1
+> The following table lists goods as classified in the Combined Nomenclature set out in Annex I to Regulation (EEC) No 2658/87 that are referred to in Article 1 of this Regulation.
+> Except for by-products of a manufacturing process, where that process involved material that was not waste as defined in Article 3, point (1), of Directive 2008/98/EC, this Regulation does not apply to goods if they are produced entirely from material that has completed its lifecycle and would otherwise have been discarded as waste as defined in Article 3, point (1), of that Directive.
+> This Regulation only applies to cattle of the genus Bos and its sub-generas: Bos, Bibos, Novibos, and Poephagus falling under HS subheadings 010221 and 010229. It does not apply to buffalo (Syncerus genus) or bison (Bison genus) or any other live bovine animals.
+> This Regulation applies to oil palm of Elaeis spp. (including Elaeis guineensis). It does not apply to babassu oil from genus Attalea spp. (including Attalea speciosa) and other vegetable oils from other palm tree species.
+> This Regulation applies to rubber of Hevea brasiliensis. It does not apply to balata, gutta-percha, guayule, chicle and similar natural gums produced with other species and to synthetic rubber products.
+> This Regulation does not apply to bamboo, rattan and other materials of a woody nature and therefore it does also not apply to relevant products listed under the re […truncated by emendrix: 21239 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1115-20260918 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02023R1115-20251226 -->
 ## Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the […]
 ### `02023R1115-20241226` → `02023R1115-20251226`

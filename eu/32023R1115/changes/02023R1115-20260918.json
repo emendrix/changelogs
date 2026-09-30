@@ -1,0 +1,403 @@
+{
+  "schema_version": "1.2",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32023R1115",
+    "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+  },
+  "from_version": "02023R1115-20251226",
+  "to_version": "02023R1115-20260918",
+  "detected_on": "2026-09-30",
+  "in_force": [
+    "2026-09-18"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 41,
+    "disputed": 1
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "textless": 0,
+    "disputed": 1,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32023R1115",
+            "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+          },
+          "version": "02023R1115-20260918",
+          "location": "AN I"
+        },
+        "heading": "Relevant commodities and relevant products as referred to in Article 1",
+        "before": "ANNEX I\nRelevant commodities and relevant products as referred to in Article 1\nThe following table lists goods as classified in the Combined Nomenclature set out in Annex I to Regulation (EEC) No 2658/87 that are referred to in Article 1 of this Regulation.\nExcept for by-products of a manufacturing process, where that process involved material that was not waste as defined in Article 3, point (1), of Directive 2008/98/EC, this Regulation does not apply to goods if they are produced entirely from material that has completed its lifecycle and would otherwise have been discarded as waste as defined in Article 3, point (1), of that Directive.\nRelevant commodity Relevant products\nCattle 010221, 010229 Live cattle\nex0201 Meat of cattle, fresh or chilled\nex0202 Meat of cattle, frozen\nex020610 Edible offal of cattle, fresh or chilled\nex020622 Edible cattle livers, frozen\nex020629 Edible cattle offal (excluding tongues and livers), frozen\nex160250 Other prepared or preserved meat, meat offal, blood, of cattle\nex4101 Raw hides and skins of cattle (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split\nex4104 Tanned or crust hides and skins of cattle, without hair on, whether or not split, but not further prepared\nex4107 Leather of cattle, further prepared after tanning or crusting, including parchment-dressed leather, without hair on, whether or not split, other than leather of heading 4114\nCocoa 1801 Cocoa beans, whole or broken, raw or roasted\n1802 Cocoa shells, husks, skins and other cocoa waste\n1803 Cocoa paste, whether or not defatted\n1804 Cocoa butter, fat and oil\n1805 Cocoa powder, not containing added sugar or other sweetening matter\n1806 Chocolate and other food preparations containing cocoa\nCoffee 0901 Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion\nOil palm 120710 Palm nuts and kernels\n1511 Palm oil and its fractions, whether or not refined, but not chemically modified\n151321 Crude palm kernel and babassu oil and fractions thereof, whether or not refined, but not chemically modified\n151329 Palm kernel and babassu oil and their fractions, whether or not refined, but not chemically modified (excluding crude oil)\n230660 Oilcake and other solid residues of palm nuts or kernels, whether or not ground or in the form of pellets, resulting from the extraction of palm nut or kernel fats or oils\nex290545 Glycerol, with a purity of 95 % or more (calculated on the weight of the dry product)\n291570 Palmitic acid, stearic acid, their salts and esters\n291590 Saturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives (excluding formic acid, acetic acid, mono-, di- or trichloroacetic acids, propionic acid, butanoic acids, pentanoic acids, palmitic acid, stearic acid, their salts and esters, and acetic anhydride)\n382311 Stearic acid, industrial\n382312 Oleic acid, industrial\n382319 Industrial monocarboxylic fatty acids; acid oils from refining (excluding stearic acid, oleic acid and tall oil fatty acids)\n382370 Industrial fatty alcohols\nRubber 4001 Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip\nex4005 Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip\nex4006 Unvulcanised rubber in other forms (e.g. rods, tubes and profile shapes) and articles (e.g. discs and rings)\nex4007 Vulcanised rubber thread and cord\nex4008 Plates, sheets, strips, rods and profile shapes, of vulcanised rubber other than hard rubber\nex4010 Conveyer or transmission belts or belting, of vulcanised rubber\nex4011 New pneumatic tyres, of rubber\nex4012 Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber\nex4013 Inner tubes, of rubber\nex4015 Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber\nex4016 Other articles of vulcanised rubber other than hard rubber, not elsewhere specified in chapter 40\nex4017 Hard rubber (e.g. ebonite) in all forms including waste and scrap; articles of hard rubber\nSoya 1201 Soya beans, whether or not broken\n120810 Soya bean flour and meal\n1507 Soya-bean oil and its fractions, whether or not refined, but not chemically modified\n2304 Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil\nWood 4401 Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms\n4402 Wood charcoal (including shell or nut charcoal), whether or not agglomerated\n4403 Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared\n4404 Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking sticks, umbrellas, tool handles or the like; chipwood and the like\n4405 Wood wool; wood flour\n4406 Railway or tramway sleepers (cross-ties) of wood\n4407 Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm\n4408 Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for other similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm\n4409 Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed\n4410 Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances\n4411 Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances\n4412 Plywood, veneered panels and similar laminated wood\n4413 Densified wood, in blocks, plates, strips or profile shapes\n4414 Wooden frames for paintings, photographs, mirrors or similar objects\n4415 Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, box pallets and other load boards, of wood;\npallet collars of wood\n(not including packing material used exclusively as packing material to support, protect or carry another product placed on the market)\n4416 Casks, barrels, vats, tubs and other coopers’ products and parts thereof, of wood, including staves\n4417 Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood\n4418 Builders’ joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes\n4419 Tableware and kitchenware, of wood\n4420 Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94\n4421 Other articles of wood\nPulp and paper of Chapters 47 and 48 of the Combined Nomenclature, with the exception of bamboo-based and recovered (waste and scrap) products\nex 49 Printed books, newspapers, pictures and other products of the printing industry, manuscripts, typescripts and plans, of paper\nex9401 Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof, of wood\n940330, 940340, 940350, 940360 and 940391 Wooden furniture, and parts thereof\n940610 Prefabricated buildings of wood",
+        "after": "ANNEX I\nRelevant commodities and relevant products as referred to in Article 1\nThe following table lists goods as classified in the Combined Nomenclature set out in Annex I to Regulation (EEC) No 2658/87 that are referred to in Article 1 of this Regulation.\nExcept for by-products of a manufacturing process, where that process involved material that was not waste as defined in Article 3, point (1), of Directive 2008/98/EC, this Regulation does not apply to goods if they are produced entirely from material that has completed its lifecycle and would otherwise have been discarded as waste as defined in Article 3, point (1), of that Directive.\nThis Regulation only applies to cattle of the genus Bos and its sub-generas: Bos, Bibos, Novibos, and Poephagus falling under HS subheadings 010221 and 010229. It does not apply to buffalo (Syncerus genus) or bison (Bison genus) or any other live bovine animals.\nThis Regulation applies to oil palm of Elaeis spp. (including Elaeis guineensis). It does not apply to babassu oil from genus Attalea spp. (including Attalea speciosa) and other vegetable oils from other palm tree species.\nThis Regulation applies to rubber of Hevea brasiliensis. It does not apply to balata, gutta-percha, guayule, chicle and similar natural gums produced with other species and to synthetic rubber products.\nThis Regulation does not apply to bamboo, rattan and other materials of a woody nature and therefore it does also not apply to relevant products listed under the relevant commodity Wood to the extent that those products are made of bamboo, rattan and other materials of a woody nature.\nThis Regulation does not apply to:\n(a) Samples of products, which are of negligible value and quantity and can be consumed or used only to solicit orders for goods of the type they represent under the condition that the manner of presentation and quantity, for products of the same type or quality, rule out its consumption or use for any purpose other than that of seeking orders;\n(b) Products which are to undergo examination, analysis or tests to determine their composition, quality or other technical characteristics for purposes of information or industrial or commercial research under the condition that the products to be analysed, examined or tested are either completely used up or destroyed in the course of the examination, analysis or testing, or kept or returned for no other reason and purposes than complying with legal or contractual obligations related to examination, analysis or testing.\nDirective 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 67, http://data.europa.eu/eli/dir/2001/83/oj).\nRegulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Union procedures for the authorisation and supervision of medicinal products for human use and establishing a European Medicines Agency(OJ L 136, 30.4.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/726/oj).\nRegulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (OJ L 4, 7.1.2019, p. 43, ELI: http://data.europa.eu/eli/reg/2019/6/oj).\nRelevant commodity Relevant products\nCattle\nex0102 Live cattle\nex0201 Meat of cattle, fresh or chilled\nex0202 Meat of cattle, frozen\nex020610 Edible offal of cattle, fresh or chilled\nex02062100 Frozen cattle tongues\n(This provision shall apply from 30 December 2027)\nex020622 Edible cattle livers, frozen\nex020629 Edible cattle offal (excluding tongues and livers), frozen\nex160250 Other prepared or preserved meat, meat offal, blood, of cattle\nex4101 Raw hides and skins of cattle (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or not dehaired or split\nex4104 Tanned or crust hides and skins of cattle, without hair on, whether or not split, but not further prepared\nex4107 Leather of cattle, further prepared after tanning or crusting, including parchment-dressed leather, without hair on, whether or not split, other than leather of heading 4114\nCocoa 1801 Cocoa beans, whole or broken, raw or roasted\n1802 Cocoa shells, husks, skins and other cocoa waste\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\n1803 Cocoa paste, whether or not defatted\n1804 Cocoa butter, fat and oil\n1805 Cocoa powder, not containing added sugar or other sweetening matter\n1806 Chocolate and other food preparations containing cocoa\nCoffee 0901 Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion\n21011100 Extracts, essences, and concentrates of coffee\n(This provision shall apply from 30 December 2027)\nOil palm\nex12071000 Palm nuts and kernels\nex1511 Palm oil and its fractions, whether or not refined, but not chemically modified\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\nex151321 Crude palm kernel and babassu oil and fractions thereof, whether or not refined, but not chemically modified\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\nex151329 Palm kernel and babassu oil and their fractions, whether or not refined, other than crude oil, but not chemically modified\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\nex151620 Palm, palm kernel and babassu oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC of the European Parliament and of the Council\n, Regulation (EC) No 726/2004 of the European parliament and of the Council\n, or Regulation (EU) 2019/6 of the European Parliament and of the Council\n)\n(This provision shall apply from 30 December 2027)\nex151800 Palm, palm kernel and babassu oils and their fractions boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, that contain or have been made using oil palm\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\n(This provision shall apply from 30 December 2027)\nex152000 Crude glycerol, glycerol waters and lyes that have been produced using oil palm’;\n(This provision shall apply from 30 December 2027)\nex23066000 Oilcake and other solid residues of palm nuts or kernels, whether or not ground or in the form of pellets, resulting from the extraction of palm nut or kernel fats or oils\nex290516 Octanol (octyl alcohol) and isomers thereof, that have been synthesized using oil palm\n(This provision shall apply from 30 December 2027)\nex29051700 Dodecan-1-ol (lauryl alcohol), hexadecan-1-ol (cetyl alcohol) and octadecan-1-ol (stearyl alcohol), that have been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\n(This provision shall apply from 30 December 2027)\nex29051900 Other saturated monohydric alcohols, not elsewhere specified or included, that have synthesized using oil palm\n(This provision shall apply from 30 December 2027)\nex290545 Glycerol, with a purity of 95 % or more (calculated on the weight of the dry product), that has been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\nex291539 Esters of acetic acid, other than ethyl acetate, vinyl acetate, n-butyl acetate and dinoseb (ISO) acetate, that have been synthesized using oil palm\n(This provision shall apply from 30 December 2027)\nex291570 Palmitic acid, stearic acid, their salts and esters that have been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\nex291590 Saturated acyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives, other than formic acid, its salts and esters, acetic acid and its salts; acetic anhydride, esters of acetic acid, mono-, di- or trichloroacetic acids, their salts and esters, propionic acid, its salts and esters that have been synthesized using oil palm, butanoic acids, pentanoic acids, their salts and esters and palmitic acid, stearic acid, their salts and esters, that have been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\nex291615 Oleic, linoleic, linolenic acids, their salts and esters that have been synthesized using oil palm\n(This provision shall apply from 30 December 2027)\nex29161910 Undecenoic acids, its salts and esters that have been synthesized using oil palm\n(This provision shall apply from 30 December 2027)\nex292119 Acyclic monoamines and their derivatives; salts thereof, other than methylamine, di- or trimethylamine and their salts, 2-(N,N-dimethylamino)ethylchloride hydrochloride, 2-(N,N-diethylamino)ethylchloride hydrochloride and 2-(N,N-diisopropylamino)ethylchloride hydrochloride, that have been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\n(This provision shall apply from 30 December 2027)\nex29239000 Quaternary ammonium salts and hydroxides, other than choline and its salts, tetraethylammonium perfluorooctane sulphonate and didecyldimethylammonium perfluorooctane sulphonate, that have been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\n(This provision shall apply from 30 December 2027)\nex29241900 Acyclic amides, carbamates and their salts, other than meprobamate (INN), fluoroacetamide (ISO), monocrotophos (ISO) and phosphamidon (ISO), that have been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\n(This provision shall apply from 30 December 2027)\nex34011100 Soap in the form of bars, cakes, moulded pieces or shapes for toilet use (including medicated products), that contain or have been made using oil palm\n(This provision shall apply from 30 December 2027)\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\nex340120 Soap in forms other than bars, cakes, moulded pieces or shapes, that contain or have been made using oil palm\n(This provision shall apply from 30 December 2027)\nex38231100 Stearic acid, industrial that has been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\nex38231200 Oleic acid, industrial that has been synthesized using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\nex382319 Industrial monocarboxylic fatty acids; acid oils from refining other than stearic acid, oleic acid and tall oil fatty acids, that have been synthesized using oil palm\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\nex38237000 Industrial fatty alcohols that have been synthesized using oil palm\nex382499 Other chemical products and preparations of the chemical or allied industries (including those consisting of mixtures of natural products), not elsewhere specified or included, that contain or have been made using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\n(This provision shall apply from 30 December 2027)\nex390729 Other polyethers in primary forms, other than bis(polyoxyethylene) methylphosphonate, that have been made using oil palm\n(not including products to the extent they are used in the manufacturing of medicinal products for human or veterinary use within the scope of Directive 2001/83/EC, Regulation (EC) No 726/2004 or Regulation (EU) 2019/6)\n(This provision shall apply from 30 December 2027)\nRubber\nex4001 Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip\nex4005 Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip\nex4006 Unvulcanised rubber in other forms (e.g. rods, tubes and profile shapes) and articles (e.g. discs and rings)\nex4007 Vulcanised rubber thread and cord\nex4008 Plates, sheets, strips, rods and profile shapes, of vulcanised rubber other than hard rubber\n(not including used products and second-hand products)\nex4010 Conveyer or transmission belts or belting, of vulcanised rubber\nex4011 New pneumatic tyres, of rubber\nex40129030 Tyre treads\nex4013 Inner tubes, of rubber\nex4015 Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber\n(not including used products and second-hand products)\nex4016 Other articles of vulcanised rubber other than hard rubber, not elsewhere specified in chapter 40\nex4017 Hard rubber (e.g. ebonite) in all forms including waste and scrap; articles of hard rubber\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\n(not including used products and second-hand products)\nSoya 12019000 Soya beans, whether or not broken: other\n120810 Soya bean flour and meal\n1507 Soya-bean oil and its fractions, whether or not refined, but not chemically modified\n2304 Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil\nWood\nex4401 Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\n(not including single use packing material and packing containers used exclusively to support, protect or carry another product made available on the market or exported and presented with that product)\nex4402 Wood charcoal (including shell or nut charcoal), whether or not agglomerated\nex4403 Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared\n(not including used products and second-hand products)\nex4404 Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking sticks, umbrellas, tool handles or the like; chipwood and the like\n(not including used products and second-hand products)\nex4405 Wood wool; wood flour\n(not including single use packing material and packing containers used exclusively to support, protect or carry another product made available on the market or exported and presented with that product)\nex4406 Railway or tramway sleepers (cross-ties) of wood\n(not including used products and second-hand products)\nex4407 Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm\n(not including used products and second-hand products)\nex4408 Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for other similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm\nex4409 Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed\n(not including used products and second-hand products)\nex4410 Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances\n(not including used products and second-hand products)\nex4411 Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances\n(not including used products and second-hand products)\nex4412 Plywood, veneered panels and similar laminated wood\n(not including used products and second-hand products)\nex4413 Densified wood, in blocks, plates, strips or profile shapes\n(not including used products and second-hand products)\nex4414 Wooden frames for paintings, photographs, mirrors or similar objects\n(not including used products and second-hand products)\nex4415 Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, box pallets and other load boards, of wood; pallet collars of wood\n(not including used products and second-hand products)\n(not including single use packing material and packing containers used exclusively to support, protect or carry another product made available on the market or exported and presented with that product)\n(not including packing material and packing containers clearly suitable for repetitive use used exclusively to support, protect or carry another product made available on the market or exported and presented with that product from the moment they are used for such purpose and onwards)\nex4416 Casks, barrels, vats, tubs and other coopers’ products and parts thereof, of wood, including staves\n(not including used products and second-hand products)\n(not including single use packing material and packing containers used exclusively to support, protect or carry another product made available on the market or exported and presented with that product)\n(not including packing material and packing containers clearly suitable for repetitive use used exclusively to support, protect or carry another product made available on the market or exported and presented with that product from the moment they are used for such purpose and onwards)\nex4417 Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood\n(not including used products and second-hand products)\nex4418 Builders’ joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes\n(not including used products and second-hand products)\nex4419 Tableware and kitchenware, of wood\n(not including used products and second-hand products)\nex4420 Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden articles of furniture not falling in Chapter 94\n(not including used products and second-hand products)\nex4421 Other articles of wood\n(not including used products and second-hand products)\nex 47 Pulp of wood\n(not including used products and second-hand products)\n(not including recovered (waste and scrap) products and products derived from recovered (waste and scrap) products)\nex 48 Paper and Paperboard: Articles of paper pulp, of paper or of paperboard\n(not including waste as defined in Article 3, point (1), of Directive 2008/98/EC)\n(not including used products and second-hand products)\n(not including recovered (waste and scrap) products and products derived from recovered (waste and scrap) products)\n(not including single use packing material and packing containers used exclusively to support, protect or carry another product made available on the market or exported and presented with that product)\n(not including packing material and packing containers clearly suitable for repetitive use used exclusively to support, protect or carry another product made available on the market or exported and presented with that product from the moment they are used for such purpose and onwards)\n(not including items of correspondence and marketing and information materials exclusively accompanying another product made available on the market or exported, or supplied for marketing or information purposes free of charge)\nex 49 Printed books, newspapers, pictures and other products of the printing industry, manuscripts, typescripts and plans, of paper\nex94013100 Swivel seats with variable height adjustment, of wood\n(not including used products and second-hand products)\nex94014100 Seats other than garden seats or camping equipment, convertible into beds, of wood\n(not including used products and second-hand products)\nex94016100 Other seats, with wooden frames, upholstered\n(not including used products and second-hand products)\nex94016900 Other seats, with wooden frames, other than upholstered\n(not including used products and second-hand products)\nex94018000 Other seats, of wood\n(not including used products and second-hand products)\nex94019190 Other parts of seats, of wood\n(not including used products and second-hand products)\nex940330, ex940340, ex940350, ex940360 and ex940391 Wooden furniture, and parts thereof\n(not including used products and second-hand products)\nex94061000 Prefabricated buildings of wood\n(not including used products and second-hand products)",
+        "previous_location": null,
+        "changed_within": [
+          "AN I"
+        ],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R2102",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2001-11-06",
+          "2004-03-31",
+          "2018-12-11",
+          "2027-12-30"
+        ],
+        "in_force": "2026-09-18",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R2102 R; 32026R2102 J; 32026R2102 DEL",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "absent",
+            "detail": "32026R2102, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "change_types": []
+          }
+        },
+        "disputed": true
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "The later text adds species and scope clarifications for cattle, oil palm and rubber, stating which genera and species the Regulation applies to and which it excludes, and it adds an exclusion for bamboo, rattan and other woody materials from the wood commodity category.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20260918",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20260918#anx_I",
+              "label": "Annex I, 02023R1115-20260918"
+            }
+          ]
+        },
+        {
+          "text": "It also adds a new exclusion for negligible-value samples and for products undergoing examination, analysis or testing, together with references to Directive 2001/83/EC, Regulation (EC) No 726/2004 and Regulation (EU) 2019/6.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20260918",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20260918#anx_I",
+              "label": "Annex I, 02023R1115-20260918"
+            }
+          ]
+        },
+        {
+          "text": "The commodity tables are expanded with numerous new or restated CN/HS codes and product descriptions, many carrying added parenthetical exclusions such as for waste, used or second-hand products, or single-use packing materials, and several entries carry a note that they apply from a later date.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20251226",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#anx_I",
+              "label": "Annex I, 02023R1115-20251226"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32023R1115",
+                  "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+                },
+                "version": "02023R1115-20260918",
+                "location": "AN I"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20260918#anx_I",
+              "label": "Annex I, 02023R1115-20260918"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": "",
+      "unexplained_kind": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32023R1115",
+      "display_name": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)"
+    },
+    "from_version": "02023R1115-20251226",
+    "to_version": "02023R1115-20260918",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AN I"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AN I"
+        ],
+        "note": "8 annotations in (2025-12-26, 2026-09-18]",
+        "claims": [
+          {
+            "location": "AN I TAB COL TXT",
+            "change_type": "MODIFIED",
+            "in_force": "2026-09-18",
+            "source": "32026R2102 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2102",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I TAB COL NOTE (3)",
+            "change_type": "INSERTED",
+            "in_force": "2026-09-18",
+            "source": "32026R2102 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2102",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I TAB COL TXT",
+            "change_type": "INSERTED",
+            "in_force": "2026-09-18",
+            "source": "32026R2102 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2102",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I TAB COL NOTE (2)",
+            "change_type": "INSERTED",
+            "in_force": "2026-09-18",
+            "source": "32026R2102 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2102",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I TAB COL TXT",
+            "change_type": "DELETED",
+            "in_force": "2026-09-18",
+            "source": "32026R2102 DEL",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2102",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I TAB COL NOTE (4)",
+            "change_type": "INSERTED",
+            "in_force": "2026-09-18",
+            "source": "32026R2102 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2102",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I TAB COL NOTE (5)",
+            "change_type": "INSERTED",
+            "in_force": "2026-09-18",
+            "source": "32026R2102 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2102",
+              "display_name": null
+            }
+          },
+          {
+            "location": "AN I TAB COL NOTE (1)",
+            "change_type": "INSERTED",
+            "in_force": "2026-09-18",
+            "source": "32026R2102 J",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2102",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [],
+        "note": "32026R2102, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+        "claims": []
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 0,
+        "shared": 0,
+        "precision": 0.0,
+        "recall": 1.0,
+        "f1": 0.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [
+      {
+        "unit": "AN I",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
+        "observed_by": [
+          "structural_diff",
+          "corpus_metadata"
+        ],
+        "absent_from": [
+          "instruction_parse"
+        ],
+        "kinds": [
+          [
+            "structural_diff",
+            [
+              "MODIFIED"
+            ]
+          ],
+          [
+            "corpus_metadata",
+            [
+              "MODIFIED"
+            ]
+          ]
+        ]
+      }
+    ],
+    "metadata_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
+    "usage": {
+      "input_tokens": 13630,
+      "output_tokens": 390,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 3,
+    "citations": 4,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  },
+  "repairs": [],
+  "evidence": [
+    {
+      "location": "AN I",
+      "occurrence": 0,
+      "digest": "sha256:012118894e99375a44d3e25d45fb600803635aa6d43e2a6d3775a9490a0514ed"
+    }
+  ]
+}
