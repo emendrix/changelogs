@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the making […]
 ### `02019R1009-20251230` → `02019R1009-20260701`
 
-- **Act** `eu:32019R1009` · **In force** 2026-07-01 · **Detected** 2026-09-04
+- **Act** `eu:32019R1009` · **In force** 2026-07-01 · **Detected** 2026-10-03
 - **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -22,15 +22,15 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 ---
 
-**MODIFIED · Annex IV — ANNEX IV** · applies from: unchanged
+**MODIFIED · Annex IV — Conformity assessment procedures** · applies from: unchanged
 
 *within* `AN IV` · *amended by* `32025R1421`
 
-A new sentence has been added in Module A1, point 4, requiring that the thermal cycles and tests referred to in points 4.3 and 4.4 be carried out in laboratories accredited for those activities by a national accreditation body. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20260701#anx_IV)
+In Module A1, point 4 on product checks for oil retention and detonation resistance now adds a sentence requiring that the thermal cycles and tests referred to in points 4.3 and 4.4 be carried out in laboratories accredited for those activities by a national accreditation body. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20260701#anx_IV)
 
-The rest of the visible text of the Annex, including Parts I and II up to and beyond Module A1, is unchanged between the two versions. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20251230#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20260701#anx_IV)
+This sentence does not appear in the earlier version of point 4, which otherwise contains the same wording about the thermal cycles and tests being carried out under the responsibility of a notified body chosen by the manufacturer. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20251230#anx_IV)
 
-Both texts are truncated before their end, so no difference beyond the shown portion can be described. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20260701#anx_IV)
+The remainder of the text shown is otherwise identical between the two versions, and both excerpts are cut short before the end of the Annex. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20251230#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20260701#anx_IV)
 
 *before* (`02019R1009-20251230`)
 
