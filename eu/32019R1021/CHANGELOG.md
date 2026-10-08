@@ -777,7 +777,7 @@ The entry for Pentachlorophenol and its salts and esters, which previously carri
 ### `02019R1021-20200907` → `02019R1021-20210222`
 
 - **Act** `eu:32019R1021` · **In force** 2021-02-22 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20200907` · `v2` = `02019R1021-20210222`
@@ -787,8 +787,6 @@ The entry for Pentachlorophenol and its salts and esters, which previously carri
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2023-02-22 · *amended by* `32021R0115`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In point 3 of the PFOA entry, the earlier text referred to fluorochemicals with a carbon chain equal to or shorter than 6 atoms, while the later text specifies a perfluoro carbon chain equal to or shorter than 6 atoms. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200907#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20210222#anx_I)
 
