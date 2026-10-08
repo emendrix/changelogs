@@ -459,7 +459,7 @@ A new substance entry for Methoxychlor, including its definition and a specific 
 ### `02019R1021-20230818` → `02019R1021-20230828`
 
 - **Act** `eu:32019R1021` · **In force** 2023-08-28 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 29 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20230818` · `v2` = `02019R1021-20230828`
@@ -469,8 +469,6 @@ A new substance entry for Methoxychlor, including its definition and a specific 
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2026-08-28 · *amended by* `32023R1608`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The after text adds a new Part A entry for Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds, following the Dicofol entry, which was not present in the before text. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230828#anx_I)
 
