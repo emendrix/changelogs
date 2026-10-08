@@ -875,7 +875,7 @@ A new line item for Dicofol, with CAS number 115-32-2, EC number 204-082-0 and n
 ### `02019R1021-20190625` → `02019R1021-20200704`
 
 - **Act** `eu:32019R1021` · **In force** 2020-07-04 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20190625` · `v2` = `02019R1021-20200704`
@@ -885,8 +885,6 @@ A new line item for Dicofol, with CAS number 115-32-2, EC number 204-082-0 and n
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2017-04-05 +2020-07-04 +2020-12-03 +2022-07-05 +2023-01-01 +2023-07-04 +2025-07-04 +2026-12-31 +2036-12-31 · *amended by* `32020R0784`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of legal acts referenced in the introductory material of Annex I now includes a citation to Regulation (EU) 2017/745 on medical devices, which was absent from the earlier version. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200704#anx_I)
 
