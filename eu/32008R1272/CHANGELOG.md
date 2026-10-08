@@ -1502,7 +1502,7 @@ The remainder of the visible Annex VI text, including the introductory parts and
 ### `02008R1272-20241210` → `02008R1272-20250201`
 
 - **Act** `eu:32008R1272` · **In force** 2025-02-01 · **Detected** 2026-09-04
-- **Touched** 20 provisions — 20 substantive · 0 date-only · 0 with no text · **20 disputed**
+- **Touched** 20 provisions — 20 substantive · 0 date-only · 0 with no text · **19 disputed**
 - **Diff** 0 inserted · 19 modified · 1 deleted · 0 renumbered · 0 deferred · 55 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20241210` · `v2` = `02008R1272-20250201`
@@ -1513,7 +1513,7 @@ The remainder of the visible Annex VI text, including the introductory parts and
 
 *within* `AR 1 PA 1 ALN 1 PTA (e)`, `AR 1 PA 1 ALN 1 PTA (f)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Point (e) of Article 1(1)(1) now ends with a full stop instead of a semicolon, closing the list at that point. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_1)
 
@@ -1554,7 +1554,7 @@ Point (f), which had provided an obligation for downstream users, importers and 
 
 *within* `AR 5 PA 1 ALN 1 PTA (ca)`, `AR 5 PA 3`, `AR 5 PA 4`, `AR 5 PA 5`, `AR 5 PA 6`, `AR 5 PA 7`, `AR 5 PA 8`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The list of information types in Article 5(1) no longer includes the item on data obtained from new approach methodologies, which was previously listed as point (ca). [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_5)
 
@@ -1592,7 +1592,7 @@ The text provided is truncated after paragraph 2, so paragraphs 3 through 8, whi
 
 *within* `AR 6 PA 3 ALN 1`, `AR 6 PA 3 ALN 2`, `AR 6 PA 4 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Paragraph 3 no longer refers to endocrine disruption for human health or the environment, nor to the corresponding sections 3.11.3.1 and 4.2.3.1 of Annex I, and now covers only germ cell mutagenicity, carcinogenicity and reproductive toxicity under sections 3.5.3.1, 3.6.3.1 and 3.7.3.1. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_6)
 
@@ -1628,7 +1628,7 @@ Paragraph 4 removes the references to mobility, persistent bioaccumulative and t
 
 *within* `AR 9 PA 3 ALN 1`, `AR 9 PA 4 ALN 1`, `AR 9 PA 4 ALN 2`, `AR 9 PA 4 ALN 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In paragraph 3, the phrase referring back to paragraph 1's criteria has been shortened, dropping the words "referred to in paragraph 1" so the sentence now simply refers to "the criteria." [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_9)
 
@@ -1658,7 +1658,7 @@ The final subparagraph of paragraph 4 now states that the fallback to other meth
 
 *within* `AR 10`, `AR 10 PA 1 ALN 1`, `AR 10 PA 1 ALN 2`, `AR 10 PA 1 ALN 3`, `AR 10 PA 2 ALN 1`, `AR 10 PA 3 ALN 1`, `AR 10 PA 4 ALN 1`, `AR 10 PA 5 ALN 1`, `AR 10 PA 5 ALN 2`, `AR 10 PA 6 ALN 1`, `AR 10 PA 7 ALN 1`, `AR 10 PA 8`, `AR 10 PA 9`, `AR 10 PA 10`, `AR 10 PA 11`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and provision drop all references to acute toxicity estimates, and the paragraph that previously required manufacturers, importers and downstream users to establish acute toxicity estimates for acutely toxic substances, along with the related derogation for substances in Part 3 of Annex VI, no longer appears. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_10)
 
@@ -1689,7 +1689,7 @@ Some sentences are also rephrased, such as changing who is described as setting 
 
 *within* `AR 18 PA 3 ALN 1 PTA (b)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 18(3)(1)(b) no longer lists persistent, bioaccumulative and toxic, very persistent and very bioaccumulative, persistent, mobile and toxic, very persistent and very mobile properties, or endocrine disruption for human health or the environment among the hazard categories that trigger identification of contributing substances in a mixture. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_18)
 
@@ -1725,7 +1725,7 @@ The remaining list of hazard categories in that point is otherwise the same, wit
 
 *within* `AR 25 PA 3 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In paragraph 3, the reference to information excluded from the supplier's discretion was changed from paragraphs 1, 2 and 6 to 9 to just paragraphs 1 and 2. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_25)
 
@@ -1759,7 +1759,7 @@ The wording of the cross-reference to Article 17(1) points (a) to (g) was also s
 
 *within* `AR 29 PA 1 ALN 1`, `AR 29 PA 3 ALN 1`, `AR 29 PA 4b`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Paragraph 1 now refers to the label elements required under the first subparagraph of Article 17(2), replacing the earlier reference to the label elements set out in Article 17(1). [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_29)
 
@@ -1791,7 +1791,7 @@ Paragraph 4b, which had set out a derogation from Article 17(1) for ammunition p
 
 *within* `AR 30 PA 1 ALN 1`, `AR 30 PA 2 ALN 1`, `AR 30 PA 3 ALN 1`, `AR 30 PA 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision changes the timing rule in paragraph 1 from a fixed deadline tied to when results of a new evaluation under Article 15(4) are obtained or communicated, with an outer limit of six months, to a duty to update the label without undue delay following a change to classification and labelling, with cooperation between suppliers required under Article 4(9). [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_30)
 
@@ -1820,7 +1820,7 @@ The former paragraph 3 exemption tied to delegated acts under Article 37(5) or A
 
 *within* `AR 31 PA 1 ALN 1`, `AR 31 PA 3 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The sentence allowing a label to be presented as a fold-out label has been removed from paragraph 1. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_31)
 
@@ -1850,7 +1850,7 @@ Paragraph 3 no longer includes the statement that label elements shall be format
 
 *within* `AR 35 PA 2a`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The paragraph 2a provisions covering the supply of hazardous substances or mixtures to consumers and professional users via refill stations, including the conditions in section 3.4 of Annex II and the exemption referring to Article 29(3), have been removed entirely. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_35)
 
@@ -1884,7 +1884,7 @@ The paragraph 2a provisions covering the supply of hazardous substances or mixtu
 
 *within* `AR 40 PA 1 ALN 1`, `AR 40 PA 1 ALN 1 PTA (e)`, `AR 40 PA 1 ALN 1 PTA (f)`, `AR 40 PA 1 ALN 1 PTA (g)`, `AR 40 PA 1 ALN 1 PTA (h)`, `AR 40 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Point (e) drops the reference to acute toxicity estimates and rewords the justification requirement, and points (g) and (h), which addressed reasons for diverging from or introducing a more severe classification than the inventory, are removed entirely, leaving the list ending at point (f) and the cross-reference in the closing clause changed from covering points (a) to (h) to covering points (a) to (f). [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_40) [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_40)
 
@@ -1920,7 +1920,7 @@ Paragraph 2 changes the notification trigger and timing: instead of requiring th
 
 *within* `AR 42 PA 1 ALN 1`, `AR 42 PA 1 ALN 1 PTA (a)`, `AR 42 PA 1 ALN 1 PTA (b)`, `AR 42 PA 1 ALN 1 PTA (c)`, `AR 42 PA 1 ALN 1 PTA (d)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision replaces the list of items the Agency must make publicly available online and free of charge, along with the related confidentiality-justification, confidentiality-grounds and undue-claim-screening text, with a shorter arrangement under which only the information corresponding to Article 119(1) of Regulation (EC) No 1907/2006 is described as publicly accessible. [Art. 42, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_42) [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_42)
 
@@ -1962,7 +1962,7 @@ Paragraph 3, listing the additional entry information the Agency includes where 
 
 *within* `AR 45 PA 3 ALN 1`, `AR 45 PA 1a`, `AR 45 PA 1b`, `AR 45 PA 1c`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The After text removes paragraphs 1a, 1b and 1c, which in the Before text allowed Member States to appoint the Agency as the receiving body and set out submission obligations for importers, downstream users and distributors placing hazardous mixtures on the market. [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_45)
 
@@ -1996,7 +1996,7 @@ Paragraph 3 is reworded so that it now refers to information required from the i
 
 *within* `AR 48 PA 1 ALN 1`, `AR 48 PA 2 ALN 1`, `AR 48 PA 3`, `AR 48 PA 4` · *dates* +1997-05-20
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Paragraph 1 now requires an advertisement for a hazardous substance to mention the hazard classes or hazard categories concerned, replacing the earlier wording that required pictograms, signal words, hazard statements, EUH statements and a label-referral phrase for public-sale advertisements. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#art_48)
 
@@ -2024,7 +2024,7 @@ The former paragraph 3, barring advertisement statements that could not appear o
 
 **DELETED · Art. 48a — Distance sales offers** · applies from: unknown (a deleted provision has no application date to move)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision requiring that distance sales offers clearly and visibly display the label elements referred to in Article 17 has been removed entirely, with no replacement text remaining in its place. [Art. 48a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_48a)
 
@@ -2038,7 +2038,7 @@ The provision requiring that distance sales offers clearly and visibly display t
 
 *within* `AN I SCT 1 SCT 1.5 SCT 1.5.1`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (a)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (i)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (ii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (iii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (iv)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (v)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (vi)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (vii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (viii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (ix)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (x)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (xi)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (c)`, `AN I SCT 1 SCT 1.6`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Section 1.5.1.2 no longer refers to the signal words or to the trade name or designation for mixtures; it now requires only that the inner packaging label carry hazard pictograms, the product identifier referred to in Article 18, and the name and telephone number of the supplier. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_I)
 
@@ -2092,7 +2092,7 @@ Section 1.6, which had listed supplemental information referred to in Article 25
 
 *within* `AN II SCT 3 SCT 3.4`, `AN II SCT 5`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Section 3.4, which set out conditions for supplying hazardous substances or mixtures via refill stations, has been removed entirely from Annex II Part 3. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_II)
 
@@ -2146,8 +2146,6 @@ Part 5's heading changed from naming a list of hazardous substances and mixtures
 
 *within* `AN VI SCT 3` · *amended by* `32023R1435`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 Several boron entries in Table 3 (boric acid, diboron trioxide, tetraboron disodium heptaoxide hydrate and related salts) now carry a Note 11 reference in the Notes column, which was absent for these entries before. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VI)
 
 The entry for tetraboron disodium heptaoxide hydrate and its related salts also gained an added semicolon separating the listed salt names. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VI)
@@ -2184,7 +2182,7 @@ The remainder of the text supplied is truncated, so no further differences beyon
 
 *within* `AN VIII`, `AN VIII SCT 1`, `AN VIII SCT 2`, `AN VIII SCT 2 PO 5`, `AN VIII SCT 2 PO 6`, `AN VIII SCT 3.1`, `AN VIII SCT 3.6`, `AN VIII SCT 3.7`, `AN VIII SCT 4.1`, `AN VIII SCT 1.4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 References to distributors acting under Article 45(1b) and (1c) are removed throughout Part A, so the obligations in sections 1.1 to 1.5 and 2.1 now name only importers and downstream users as the actors placing mixtures on the market. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VIII)
 

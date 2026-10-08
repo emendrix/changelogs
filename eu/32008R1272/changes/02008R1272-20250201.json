@@ -21,14 +21,14 @@
     "deferred": 0,
     "touched_units": 20,
     "unchanged_units": 55,
-    "disputed": 20
+    "disputed": 19
   },
   "counts": {
     "touched": 20,
     "substantive": 20,
     "date_only": 0,
     "textless": 0,
-    "disputed": 20,
+    "disputed": 19,
     "quoted": 0,
     "unexplained": 0
   },
@@ -74,12 +74,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -185,12 +186,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -292,12 +294,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -445,12 +448,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -609,12 +613,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -759,12 +764,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -864,12 +870,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -984,12 +991,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1137,12 +1145,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1288,12 +1297,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1406,12 +1416,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1497,12 +1508,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1619,12 +1631,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1759,12 +1772,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1883,12 +1897,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2032,12 +2047,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2121,12 +2137,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2272,12 +2289,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2398,12 +2416,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2531,12 +2550,13 @@
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2702,9 +2722,9 @@
       },
       {
         "signal": "instruction_parse",
-        "available": true,
+        "available": false,
         "units": [],
-        "note": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+        "note": "32023R1435, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
         "claims": []
       }
     ],
@@ -2719,40 +2739,17 @@
         "recall": 1.0,
         "f1": 0.09523809523809523,
         "kind_mismatches": 0
-      },
-      {
-        "left": "structural_diff",
-        "right": "instruction_parse",
-        "left_units": 20,
-        "right_units": 0,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 1.0,
-        "f1": 0.0,
-        "kind_mismatches": 0
-      },
-      {
-        "left": "corpus_metadata",
-        "right": "instruction_parse",
-        "left_units": 1,
-        "right_units": 0,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 1.0,
-        "f1": 0.0,
-        "kind_mismatches": 0
       }
     ],
     "disagreements": [
       {
         "unit": "AR 1",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2765,13 +2762,12 @@
       },
       {
         "unit": "AR 5",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2784,13 +2780,12 @@
       },
       {
         "unit": "AR 6",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2803,13 +2798,12 @@
       },
       {
         "unit": "AR 9",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2822,13 +2816,12 @@
       },
       {
         "unit": "AR 10",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2841,13 +2834,12 @@
       },
       {
         "unit": "AR 18",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2860,13 +2852,12 @@
       },
       {
         "unit": "AR 25",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2879,13 +2870,12 @@
       },
       {
         "unit": "AR 29",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2898,13 +2888,12 @@
       },
       {
         "unit": "AR 30",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2917,13 +2906,12 @@
       },
       {
         "unit": "AR 31",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2936,13 +2924,12 @@
       },
       {
         "unit": "AR 35",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2955,13 +2942,12 @@
       },
       {
         "unit": "AR 40",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2974,13 +2960,12 @@
       },
       {
         "unit": "AR 42",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -2993,13 +2978,12 @@
       },
       {
         "unit": "AR 45",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -3012,13 +2996,12 @@
       },
       {
         "unit": "AR 48",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -3031,13 +3014,12 @@
       },
       {
         "unit": "AR 48a",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -3050,13 +3032,12 @@
       },
       {
         "unit": "AN I",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -3069,42 +3050,16 @@
       },
       {
         "unit": "AN II",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN VI",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
           "corpus_metadata"
         ],
-        "absent_from": [
-          "instruction_parse"
-        ],
         "kinds": [
           [
             "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
             [
               "MODIFIED"
             ]
@@ -3113,13 +3068,12 @@
       },
       {
         "unit": "AN VIII",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -3131,7 +3085,8 @@
         ]
       }
     ],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -3169,6 +3124,20 @@
     {
       "kind": "corroboration",
       "repaired_on": "2026-09-05",
+      "addressed": 20,
+      "repaired": 20,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
       "addressed": 20,
       "repaired": 20,
       "remaining": 0,
