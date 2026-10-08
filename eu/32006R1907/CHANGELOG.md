@@ -1609,7 +1609,7 @@ New entries numbered 44 through 54 were added to the table, listing additional s
 ### `02006R1907-20191030` → `02006R1907-20200101`
 
 - **Act** `eu:32006R1907` · **In force** 2020-01-01 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 9 substantive · 0 date-only · 0 with no text · **9 disputed**
+- **Touched** 9 provisions — 9 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 149 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20191030` · `v2` = `02006R1907-20200101`
@@ -1619,8 +1619,6 @@ New entries numbered 44 through 54 were added to the table, listing additional s
 **MODIFIED · Annex I — GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS** · applies from: unchanged
 
 *within* `AN I SCT 0`, `AN I SCT 0 SCT 0.6`, `AN I SCT 1 SCT 1.0`, `AN I SCT 1 SCT 1.3`, `AN I SCT 2`, `AN I SCT 3 SCT 3.0`, `AN I SCT 3 SCT 3.2`, `AN I SCT 4 SCT 4.0`, `AN I SCT 4 SCT 4.2`, `AN I SCT 5 SCT 5.0`, `AN I SCT 5 SCT 5.2` · *amended by* `32018R1881`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The after text adds repeated references to nanoforms of substances throughout the introduction and hazard/exposure assessment sections, requiring that chemical safety assessments, hazard assessments, exposure scenarios, exposure estimations and risk management measures address all nanoforms covered by the registration. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_I)
 
@@ -1650,8 +1648,6 @@ The provided after text is cut off before the end of the Chemical Safety Report 
 
 *within* `AN III`, `AN III PTA (b) PTI (ii)` · *amended by* `32018R1881`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The introductory sentence now adds a reference to nanoforms of substances, where applicable, alongside the substances themselves, for the purposes of the 1-10 tonne registration criteria. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_III)
 
 Point (b)(ii) has been expanded so that, in addition to the existing criterion about predicted classification under Regulation (EC) No 1272/2008, it now also covers substances with nanoforms, unless those nanoforms are soluble in biological and environmental media. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_III)
@@ -1680,8 +1676,6 @@ Point (b)(ii) has been expanded so that, in addition to the existing criterion a
 
 *within* `AN VI`, `AN VI SCT 2`, `AN VI SCT 3`, `AN VI SCT 5`, `AN VI SCT 6` · *dates* +2011-10-18 · *amended by* `32018R1881`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The introductory guidance note now adds substantial new material defining nanoforms and sets of similar nanoforms, describing how they must be characterised, and referencing the Commission Recommendation of 18 October 2011 on the definition of nanomaterial, none of which appeared in the earlier version. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_VI)
 
 Section 2 on identification of the substance adds a new subsection 2.4 requiring characterisation of nanoforms and amends 2.3 to require characterisation of nanoforms covered by a registration, and the steps for gathering information, identifying information needs and information gaps now refer explicitly to nanoforms of the substance. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VI)
@@ -1709,8 +1703,6 @@ Sections 3, 5 and 6 each gain new text requiring that, where a substance is manu
 **MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
 
 *within* `AN VII`, `AN VII SCT 7`, `AN VII SCT 8`, `AN VII SCT 9` · *amended by* `32018R1881`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The introductory text adds a new paragraph requiring characterisation of the nanoform tested and test conditions for any physicochemical, toxicological and ecotoxicological information submitted, along with a justification when QSARs or non-testing evidence are used and a description of the range of nanoform characteristics to which that evidence applies. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VII)
 
@@ -1748,8 +1740,6 @@ Section 8 adds a nanoform-specific adaptation rule to the in vitro gene mutation
 
 *within* `AN VIII`, `AN VIII SCT 7`, `AN VIII SCT 8`, `AN VIII SCT 9` · *amended by* `32018R1881`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The general introductory text now adds a requirement that any physicochemical, toxicological and ecotoxicological information cover characterisation of the nanoform tested and its test conditions, along with justification when QSARs or non-testing evidence are used, replacing the prior text that only referenced general adaptation rules in Annex XI. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VIII) [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20191030#anx_VIII)
 
 A new section 7.14ter on further physicochemical property testing for nanoforms has been inserted, and section 8 and section 9 entries have been expanded throughout with numerous nanoform-specific clauses covering acute toxicity route selection, repeated-dose toxicokinetics, toxicokinetics study triggers, and conditions under which insolubility in water alone cannot be used to waive aquatic toxicity, sludge respiration, hydrolysis, or adsorption/desorption studies. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_VIII)
@@ -1775,8 +1765,6 @@ The acute toxicity rule's wording changed from referring to a substance classifi
 **MODIFIED · Annex IX — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 100 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
 
 *within* `AN IX`, `AN IX SCT 8`, `AN IX SCT 9` · *amended by* `32018R1881`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The introductory column-1/column-2 text gains a new paragraph requiring that any relevant physicochemical, toxicological and ecotoxicological information include characterisation of the nanoform tested and its test conditions, together with justification where QSARs or other non-testing evidence is used and a description of the range of nanoform characteristics to which that evidence applies. [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_IX)
 
@@ -1806,8 +1794,6 @@ Section 9 adds several nanoform-specific qualifications to the adaptation rules:
 
 *within* `AN X`, `AN X SCT 8` · *amended by* `32018R1881`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The introductory text now includes an added passage requiring that any relevant physicochemical, toxicological and ecotoxicological information include characterisation of the nanoform tested and test conditions, along with a justification where QSARs are used or evidence is obtained by means other than testing, and a description of the range of nanoform characteristics or properties to which the evidence applies. [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_X)
 
 Section 8.6.3 gained an added sentence stating that if nanoforms are covered by the registration, physicochemical characteristics such as particle size, shape and other morphological parameters, surface functionalisation and surface area, as well as molecular structure, are to be taken into consideration when determining whether the listed conditions are met. [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_X)
@@ -1835,8 +1821,6 @@ These two passages are absent from the earlier text, which otherwise reads the s
 **MODIFIED · Annex XI — GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X** · applies from: unchanged
 
 *within* `AN XI`, `AN XI SCT 1 SCT 1.1 SCT 1.1.3`, `AN XI SCT 1 SCT 1.2`, `AN XI SCT 1 SCT 1.3`, `AN XI SCT 1 SCT 1.4`, `AN XI SCT 1 SCT 1.5` · *amended by* `32018R1881`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The introductory part of Annex XI now adds a statement that the requirements specific to nanoforms are without prejudice to requirements applicable to other forms of a substance. [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XI)
 
@@ -1885,8 +1869,6 @@ Section 1.5 also adds text stating that molecular structural similarities alone 
 **MODIFIED · Annex XII — GENERAL PROVISIONS FOR DOWNSTREAM USERS TO ASSESS SUBSTANCES AND PREPARE CHEMICAL SAFETY REPORTS** · applies from: unchanged
 
 *within* `AN XII` · *amended by* `32018R1881`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The after text adds statements requiring the assessment to address all nanoforms covered by the registration, with justifications and conclusions relevant to those nanoforms from receipt through the downstream user's own and identified uses. [Annex XII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XII)
 
