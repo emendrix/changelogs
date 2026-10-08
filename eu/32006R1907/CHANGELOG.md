@@ -3601,7 +3601,7 @@ The rest of Annex XVII shown, including the surrounding entries, remains textual
 ### `02006R1907-20130421` → `02006R1907-20130701`
 
 - **Act** `eu:32006R1907` · **In force** 2013-07-01 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20130421` · `v2` = `02006R1907-20130701`
@@ -3611,8 +3611,6 @@ The rest of Annex XVII shown, including the surrounding entries, remains textual
 **MODIFIED · Art. 3 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 3 ALN 1 PO 20 PTA (b)`, `AR 3 ALN 1 PO 20 PTA (c)` · *dates* +2013-07-01 · *amended by* `32013R0517`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In the definition of phase-in substance, points (b) and (c) both add a reference to countries acceding to the European Union on 1 July 2013, alongside the previously listed accession dates of 1 January 1995, 1 May 2004 and 1 January 2007. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130701#art_3)
 
