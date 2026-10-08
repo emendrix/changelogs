@@ -728,7 +728,7 @@ Both versions were shown truncated, so any further differences in the substance 
 ### `02009R1223-20221217` → `02009R1223-20230816`
 
 - **Act** `eu:32009R1223` · **In force** 2023-08-16 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20221217` · `v2` = `02009R1223-20230816`
@@ -738,8 +738,6 @@ Both versions were shown truncated, so any further differences in the substance 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2023-08-15 +2026-07-31 +2028-07-31 · *amended by* `32023R1545`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text adds several new introductory footnote-style entries not present in the BEFORE text, including statements allowing cosmetic products containing certain substances that do not comply with restrictions to still be placed on the Union market until 31 July 2026 and made available until 31 July 2028, one of which is conditioned on compliance with restrictions applicable on 15 August 2023. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20230816#anx_III)
 
