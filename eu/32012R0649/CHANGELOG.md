@@ -186,7 +186,7 @@ Part 2 of the Annex, covering mercury and mercury-added products, remains identi
 ### `02012R0649-20231101` → `02012R0649-20250301`
 
 - **Act** `eu:32012R0649` · **In force** 2025-03-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20231101` · `v2` = `02012R0649-20250301`
@@ -196,8 +196,6 @@ Part 2 of the Annex, covering mercury and mercury-added products, remains identi
 **MODIFIED · Annex I — LIST OF CHEMICALS (referred to in Article 7)** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32024R3199`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text adds numerous new chemical entries across Part 1 and Part 2 of Annex I, including substances such as 1,2-Benzenedicarboxylic acid, dihexyl ester and its di-C6-10-alkyl mixed ester variant, Abamectin, Acrolein, Asulam-sodium, Bendiocarb, Benfluralin, Benthiavalicarb, Calcium phosphide, Chloridazon, Chlorsulfuron, Clofentezine, d-Allethrin, Difenacoum, Dihexyl phthalate, Dimethomorph, Dimoxystrobin, Fenpropimorph, Flusilazole, Fuberidazole, Ioxynil, Ipconazole, Mepanipyrim, Methylene dithiocyanate, Metiram, Molinate, Oxadiazon, Oxamyl, Penflufen, Profenofos, Quinoclamine, Silver copper zeolite, Silver sodium hydrogen zirconium phosphate, Silver zeolite, S-metolachlor, Sodium perborate/perboric acid sodium salt, Sodium peroxometaborate, Spirotetramat, Tralkoxydim, Triadimenol and Triflusulfuron-methyl, each with their CAS, EC/CN or category and use-limitation codes. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_I)
 
@@ -240,8 +238,6 @@ The Part 3 list of chemicals subject to the PIC procedure is shown truncated in 
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32024R3199`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The entry for Endosulfan now lists additional CAS numbers (959-98-8 and 33213-65-9) alongside the original, and its CN code is written as ex29203000 rather than the plain 29203000 used before. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20231101#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_V)
 
