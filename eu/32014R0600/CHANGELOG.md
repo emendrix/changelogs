@@ -1618,7 +1618,7 @@ Paragraphs 1 and 2 remain unchanged between the two versions. [Art. 54, v1](http
 ### `02014R0600-20220101` → `02014R0600-20240109`
 
 - **Act** `eu:32014R0600` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 82 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20220101` · `v2` = `02014R0600-20240109`
@@ -1628,8 +1628,6 @@ Paragraphs 1 and 2 remain unchanged between the two versions. [Art. 54, v1](http
 **INSERTED · Art. 23a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32023R2869`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new Article 23a has been added, requiring that specified information under listed articles of the Regulation be made accessible on the European single access point established under Regulation (EU) 2023/2859, with ESMA designated as the collection body. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20240109#art_23a)
 
