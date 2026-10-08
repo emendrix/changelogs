@@ -3951,7 +3951,7 @@ All other entries and wording in the list, as they appeared in the earlier versi
 ### `02009R1223-20140401` → `02009R1223-20140701`
 
 - **Act** `eu:32009R1223` · **In force** 2014-04-30 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **3 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20140401` · `v2` = `02009R1223-20140701`
@@ -3961,8 +3961,6 @@ All other entries and wording in the list, as they appeared in the earlier versi
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32014R0358`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Both versions consist of the same numbered list of prohibited substances, and across the visible portion of the text the entries and their identifiers appear unchanged in substance. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_II)
 
@@ -4100,7 +4098,7 @@ Both excerpts are truncated before the end of the annex, so no comparison can be
 
 *within* `AN III`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Entry 8b now adds detailed labelling text for eyelash-colouring products, including warnings about severe allergic reactions, an age-16 restriction, henna-tattoo risk, conditions under which eyelashes should not be coloured, and an instruction to rinse eyes if contact occurs, none of which appeared before. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
 
@@ -4160,8 +4158,6 @@ Entry 12's column i wording is reorganised and expanded, notably by adding a spe
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32014R0358`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Entry 12 changes its scope for parabens: the AFTER text excludes esters of isopropyl, isobutyl, phenyl, benzyl and pentyl from the substances covered, and it also removes potassium ethylparaben and phenylparaben from the listed substance identifications while adjusting some of the accompanying CAS and EC numbers. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_V)
 
