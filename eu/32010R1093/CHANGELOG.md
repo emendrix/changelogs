@@ -2503,9 +2503,9 @@ The exception concerning financial institutions under the anti-money-laundering 
 ### `02010R1093-20140702` → `02010R1093-20140819`
 
 - **Act** `eu:32010R1093` · **In force** 2014-08-19 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 3 substantive · 0 date-only · 1 with no text · **2 disputed**
-- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20140702` · `v2` = `02010R1093-20140819`
 
 ---
@@ -2513,8 +2513,6 @@ The exception concerning financial institutions under the anti-money-laundering 
 **MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 4 ALN 1 PO 2`, `AR 4 ALN 1 PO 2 PTI (i)`, `AR 4 ALN 1 PO 2 PTI (iii)`, `AR 4 ALN 1 PO 2 PTI (iv)` · *dates* +2014-07-15 · *amended by* `32014R0806`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The defined term changes from the singular "competent authority" to the plural "competent authorities", and point (i) now adds the European Central Bank with regard to tasks conferred on it by Regulation (EU) No 1024/2013 alongside the reference tied to Regulation (EU) No 575/2013 and the two directives. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140702#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140819#art_4)
 
@@ -2547,16 +2545,6 @@ Point (iv) is expanded from naming only a resolution authority under Directive 2
 > (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
 > (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the Council
 > Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee scheme (OJ L 173, 12.6.2014, p. 149)., or, where the operation of the deposit guarantee scheme is administered by a private company, the public authority supervising those […truncated by emendrix: 1367 characters omitted…]
-
-**MODIFIED · Art. 4.2** · applies from: unknown
-
-*amended by* `32014R0806`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 25 — Recovery and resolution procedures** · applies from: unchanged
 
