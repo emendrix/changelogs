@@ -3652,7 +3652,7 @@ In the definition of phase-in substance, points (b) and (c) both add a reference
 ### `02006R1907-20130306` → `02006R1907-20130421`
 
 - **Act** `eu:32006R1907` · **In force** 2013-04-21 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20130306` · `v2` = `02006R1907-20130421`
@@ -3662,8 +3662,6 @@ In the definition of phase-in substance, points (b) and (c) both add a reference
 **MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XIV` · *dates* +2014-10-21 +2016-03-21 +2016-04-21 +2017-09-21 · *amended by* `32013R0348`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The later text keeps all fourteen entries from the earlier list unchanged and adds eight new entries, numbered 15 through 22, covering additional substances such as Trichloroethylene, Chromium trioxide, and several chromate and dichromate compounds. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#anx_XIV)
 
