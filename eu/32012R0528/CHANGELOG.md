@@ -170,7 +170,7 @@ All other text of the provision, including the surrounding transitional rules in
 ### `02012R0528-20220415` → `02012R0528-20240526`
 
 - **Act** `eu:32012R0528` · **In force** 2024-05-26 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 103 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20220415` · `v2` = `02012R0528-20240526`
@@ -180,8 +180,6 @@ All other text of the provision, including the surrounding transitional rules in
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32024R1290`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text adds a new entry for nitrogen generated from ambient air within Category 2, listing a restriction requiring that applications for product authorisations include evidence that exposure of the user and the general public to a hypoxic atmosphere is avoided and that necessary measures are taken where appropriate. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240526#anx_I)
 
