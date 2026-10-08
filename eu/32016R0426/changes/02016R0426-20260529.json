@@ -14,23 +14,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 6,
+    "inserted": 5,
     "modified": 1,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 7,
+    "touched_units": 6,
     "unchanged_units": 51,
-    "disputed": 6
+    "disputed": 5
   },
   "counts": {
-    "touched": 7,
+    "touched": 6,
     "substantive": 6,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 6,
+    "textless": 0,
+    "disputed": 5,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -93,7 +93,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -181,7 +182,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "detail": "3 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -192,7 +193,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -280,7 +282,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "detail": "3 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -291,7 +293,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -379,7 +382,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "detail": "3 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -390,7 +393,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -478,7 +482,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "detail": "3 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -489,7 +493,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -577,7 +582,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "3 annotations in (the act itself, 2026-05-29]",
+            "detail": "3 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -588,7 +593,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -634,64 +640,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32016R0426",
-            "display_name": "Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances burning gaseous fuels and repealing Directive 2009/142/EC (Text with EEA relevance)"
-          },
-          "version": "02016R0426-20260529",
-          "location": "CHA Va"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R2748",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2026-05-29",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32024R2748 J",
-            "change_types": [
-              "INSERTED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32024R2748, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -721,22 +669,10 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AR 2",
-          "CHA Va"
+          "AR 2"
         ],
-        "note": "3 annotations in (the act itself, 2026-05-29]",
+        "note": "3 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
-          {
-            "location": "CHA Va",
-            "change_type": "INSERTED",
-            "in_force": "2026-05-29",
-            "source": "32024R2748 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2748",
-              "display_name": null
-            }
-          },
           {
             "location": "AR 2 PO 32",
             "change_type": "INSERTED",
@@ -848,11 +784,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 6,
-        "right_units": 2,
+        "right_units": 1,
         "shared": 1,
         "precision": 0.16666666666666666,
-        "recall": 0.5,
-        "f1": 0.25,
+        "recall": 1.0,
+        "f1": 0.2857142857142857,
         "kind_mismatches": 0
       },
       {
@@ -869,12 +805,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 2,
+        "left_units": 1,
         "right_units": 6,
         "shared": 1,
-        "precision": 0.5,
+        "precision": 1.0,
         "recall": 0.16666666666666666,
-        "f1": 0.25,
+        "f1": 0.2857142857142857,
         "kind_mismatches": 0
       }
     ],
@@ -1003,30 +939,10 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "CHA Va",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
       }
     ],
-    "metadata_only_units": [
-      "CHA Va"
-    ]
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1066,6 +982,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 7,
       "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 7,
+      "repaired": 6,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

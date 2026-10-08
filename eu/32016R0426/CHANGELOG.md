@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32016R0426` → `02016R0426-20260529`
 
 - **Act** `eu:32016R0426` · **In force** 2026-05-29 · **Detected** 2026-09-04
-- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **6 disputed**
-- **Diff** 6 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 51 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **5 disputed**
+- **Diff** 5 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 51 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R0426` · `v2` = `02016R0426-20260529`
 
 ---
@@ -66,7 +66,7 @@ The prior version ended its list of definitions at point (31), the CE marking de
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 40a has been added, setting out conditions under which Articles 40b to 40e apply: an implementing act adopted under Article 28 of Regulation (EU) 2024/2747 covering the relevant appliances and fittings, a designation of those goods as crisis-relevant under Article 18(4) of that Regulation, and an activated internal market emergency mode under Article 18 of that Regulation, with Article 40c(7) stated to continue applying during that emergency mode and after its expiry or deactivation. [Art. 40a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40a)
 
@@ -86,7 +86,7 @@ The new article also gives the Commission power to adopt implementing acts on co
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new provision sets out that notified bodies must give priority processing to conformity assessment applications for appliances and fittings designated as crisis-relevant goods, regardless of when those applications were lodged relative to activation of the emergency procedures. [Art. 40b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40b)
 
@@ -105,7 +105,7 @@ It further states that this prioritisation must not cause additional disproporti
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new provision setting out a derogation procedure allowing a Member State to authorise placing on the market or use of a specific appliance or fitting without the notified-body conformity assessment otherwise required, subject to conditions, Commission review, and eventual extension of validity across the Union. [Art. 40c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40c)
 
@@ -122,7 +122,7 @@ It also specifies obligations on manufacturers, content requirements for any suc
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article establishing a mechanism by which the Commission may adopt implementing acts listing standards or establishing common specifications for appliances or fittings designated as crisis-relevant goods, applicable when harmonised standards are missing or when disruptions from an activated internal market emergency mode restrict use of existing harmonised standards. [Art. 40d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40d)
 
@@ -141,7 +141,7 @@ The provision sets out procedural steps for adopting and reviewing such acts, th
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 40e has been added, requiring Member States to prioritise market surveillance activities for appliances and fittings listed in the implementing act referred to in Article 40a(1), with the Commission facilitating coordination of that prioritisation through the Union Product Compliance Network under Regulation (EU) 2019/1020. [Art. 40e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0426-20260529#art_40e)
 
@@ -153,15 +153,5 @@ It also has market surveillance authorities of the Member States making best eff
 > Prioritisation of market surveillance activities and mutual assistance among authorities
 > 1. Member States shall prioritise the market surveillance activities for appliances and fittings listed in the implementing act referred to in Article 40a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.
 > 2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for appliances and fittings listed in the implementing act referred to in Article 40a(1).
-
-**INSERTED · CHA Va** · applies from: unknown
-
-*amended by* `32024R2748`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R0426-20260529 -->
 
