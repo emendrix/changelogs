@@ -1655,9 +1655,9 @@ The new provision also sets requirements for that information, including submiss
 ### `02014R0600-20210626` → `02014R0600-20220101`
 
 - **Act** `eu:32014R0600` · **In force** 2021-07-04, 2022-01-01 · **Detected** 2026-08-13
-- **Touched** 38 provisions — 36 substantive · 0 date-only · 2 with no text · **26 disputed**
-- **Diff** 28 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 36 provisions — 36 substantive · 0 date-only · 0 with no text · **24 disputed**
+- **Diff** 26 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0600-20210626` · `v2` = `02014R0600-20220101`
 
 ---
@@ -1852,7 +1852,7 @@ A new paragraph 4 is added giving ESMA power to suspend the reporting obligation
 
 **INSERTED · Art. 27a — Article 27a** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 27a has been added that defines the term national competent authority, for the purposes of the relevant Title, as a competent authority as defined in point (26) of Article 4(1) of Directive 2014/65/EU. [Art. 27a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27a)
 
@@ -1863,7 +1863,7 @@ A new Article 27a has been added that defines the term national competent author
 
 **INSERTED · Art. 27b — Requirement for authorisation** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 27b sets out that operating an APA, CTP or ARM as a regular occupation or business requires prior authorisation, generally by ESMA, though certain APAs or ARMs identified under a specified delegated act fall instead under authorisation and supervision by the relevant national competent authority. [Art. 27b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27b)
 
@@ -1882,7 +1882,7 @@ It also allows an investment firm or market operator running a trading venue to 
 
 **INSERTED · Art. 27c — Authorisation of data reporting services providers** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 27c is an entirely new provision setting out conditions under which data reporting services providers are authorised by ESMA or, where relevant, a national competent authority, including that the provider be a legal person established in the Union and meet the requirements of the Title. [Art. 27c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27c)
 
@@ -1901,7 +1901,7 @@ It further specifies that the authorisation identifies the particular data repor
 
 **INSERTED · Art. 27d — Procedures for granting and refusing applications for authorisation** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 27d sets out procedures for granting or refusing authorisation applications by data reporting services providers, requiring an application with information demonstrating that necessary arrangements and a programme of operations are in place, a completeness assessment within 20 working days, and a reasoned decision within six months of a complete application being received. [Art. 27d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27d)
 
@@ -1919,7 +1919,7 @@ The article also directs ESMA to develop draft regulatory technical standards on
 
 **INSERTED · Art. 27e — Withdrawal of authorisation** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 27e is new text that gives ESMA, or the national competent authority where relevant, the power to withdraw a data reporting services provider's authorisation on grounds such as non-use, renunciation, absence of activity for six months, obtaining authorisation through false statements or irregular means, no longer meeting the authorisation conditions, or serious and systematic infringement of the Regulation. [Art. 27e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27e)
 
@@ -1938,7 +1938,7 @@ It also adds a duty for ESMA to notify, where relevant and without undue delay, 
 
 **INSERTED · Art. 27f — Requirements for the management body of a data reporting services provider** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This article is new, setting out requirements for the management body of a data reporting services provider, covering good repute, knowledge, skills, experience and time commitment, as well as governance oversight duties. [Art. 27f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27f)
 
@@ -1956,7 +1956,7 @@ It also establishes notification duties to ESMA or the national competent author
 
 **INSERTED · Art. 27g — Organisational requirements for APAs** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This entry adds a new Article 27g setting out organisational requirements for APAs, covering obligations to make information public near real time and free of charge after a delay, the minimum data fields to be included, conflict-of-interest and security safeguards, error-checking systems, and mandates for ESMA to draft related regulatory technical standards and for the Commission to adopt delegated acts. [Art. 27g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27g)
 
@@ -1978,7 +1978,7 @@ This entry adds a new Article 27g setting out organisational requirements for AP
 
 **INSERTED · Art. 27h — Organisational requirements for CTPs** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 27h is a newly inserted provision setting out organisational requirements for CTPs, covering how they must collect, consolidate and disseminate published trade information, the specific data fields to be included, conflict-of-interest safeguards, security and resourcing obligations, and mandates for ESMA and the Commission to develop related technical standards and delegated acts. [Art. 27h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27h)
 
@@ -2002,7 +2002,7 @@ Article 27h is a newly inserted provision setting out organisational requirement
 
 **INSERTED · Art. 27i — Organisational requirements for ARMs** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly added article setting out organisational requirements for ARMs, covering timely reporting of information required under Article 26, arrangements to prevent conflicts of interest, security and confidentiality safeguards, and systems for detecting and correcting errors or omissions in transaction reports. [Art. 27i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_27i)
 
@@ -2020,7 +2020,7 @@ It also directs ESMA to develop draft regulatory technical standards on the mean
 
 **INSERTED · Art. 38a — Exercise of ESMA’s powers** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision stating that the powers given to ESMA, or to any official or other person authorised by ESMA, under Articles 38b to 38e are not to be used to require disclosure of information or documents that are subject to legal privilege. [Art. 38a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38a)
 
@@ -2032,7 +2032,7 @@ This is a new provision stating that the powers given to ESMA, or to any officia
 
 **INSERTED · Art. 38b — Request for information** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is newly inserted and gives ESMA power to require certain persons, including APAs, CTPs, ARMs, investment firms or market operators operating trading venues, and their controllers, managers, auditors and advisors, to supply information needed for ESMA to carry out its duties under this Regulation. [Art. 38b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38b)
 
@@ -2061,7 +2061,7 @@ The text sets out separate content requirements for a simple request versus a re
 
 **INSERTED · Art. 38c — General investigations** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article setting out ESMA's power to conduct general investigations of persons referred to in Article 38b(1), including examining records, taking copies, summoning explanations, interviewing consenting persons, and requesting telephone and data traffic records. [Art. 38c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38c)
 
@@ -2081,7 +2081,7 @@ The text also describes the authorisation and procedural requirements for such i
 
 **INSERTED · Art. 38d — On-site inspections** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 38d is a new provision granting ESMA the power to conduct on-site inspections at business premises of persons referred to in Article 38b(1), setting out procedures for notice to competent authorities, authorisation requirements, assistance from national authorities, and judicial review of such inspections. [Art. 38d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38d)
 
@@ -2099,7 +2099,7 @@ The text specifies powers of officials conducting inspections, including entry t
 
 **INSERTED · Art. 38e — Exchange of information** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 38e is added, titled Exchange of information, stating that ESMA and the competent authorities shall provide each other, without undue delay, with the information needed to carry out their duties under the Regulation. [Art. 38e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38e)
 
@@ -2111,7 +2111,7 @@ A new Article 38e is added, titled Exchange of information, stating that ESMA an
 
 **INSERTED · Art. 38f — Professional secrecy** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision, Article 38f, which states that the professional secrecy obligation set out in Article 76 of Directive 2014/65/EU applies to ESMA and to all persons who work or have worked for ESMA or for anyone to whom ESMA has delegated tasks, including auditors and experts under contract to ESMA. [Art. 38f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38f)
 
@@ -2123,7 +2123,7 @@ This is a new provision, Article 38f, which states that the professional secrecy
 
 **INSERTED · Art. 38g — Supervisory measures by ESMA** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new article setting out powers for ESMA to act against a person listed in point (a) of Article 38b(1) who has committed an infringement under Title IVa, including requiring the infringement to end, imposing fines or periodic penalty payments, or issuing public notices. [Art. 38g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38g)
 
@@ -2149,7 +2149,7 @@ It also lists criteria ESMA must weigh when choosing among those actions, and se
 
 **INSERTED · Art. 38h — Fines** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new article that gives ESMA power to adopt a decision imposing a fine when it finds a person has intentionally or negligently committed an infringement of the requirements set out in Title IVa, following a determination made under Article 38k(5). [Art. 38h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38h)
 
@@ -2168,7 +2168,7 @@ It also specifies that an infringement is treated as intentional where ESMA find
 
 **INSERTED · Art. 38i — Periodic penalty payments** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This article is new, setting out ESMA's power to impose periodic penalty payments to compel a person to end an infringement or to comply with information, investigation, or on-site inspection requirements. [Art. 38i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38i)
 
@@ -2190,7 +2190,7 @@ It specifies that such payments must be effective and proportionate, charged per
 
 **INSERTED · Art. 38j — Disclosure, nature, enforcement and allocation of fines and periodic penalty payments** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new article sets out that ESMA is to disclose to the public fines and periodic penalty payments imposed under Articles 38h and 38i, subject to an exception where disclosure would seriously jeopardise financial markets or cause disproportionate damage, and specifies that such disclosures must not contain personal data as defined in Regulation (EU) 2018/1725. [Art. 38j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38j)
 
@@ -2210,7 +2210,7 @@ It further provides that such fines and penalty payments are administrative in n
 
 **INSERTED · Art. 38k — Procedural rules for taking supervisory measures and imposing fines** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 38k is a newly inserted provision setting out procedural rules for ESMA's investigation officer, covering the appointment and independence of that officer, the investigation and file-submission process, rights of the defence and access to file, ESMA's decision-making on infringements under Title IVa, the Commission's mandate to adopt delegated acts on fines procedure, and referral of matters for criminal prosecution. [Art. 38k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38k)
 
@@ -2226,7 +2226,7 @@ Article 38k is a newly inserted provision setting out procedural rules for ESMA'
 
 **INSERTED · Art. 38l — Hearing of the persons concerned** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 38l is added, setting out procedures for ESMA to hear persons subject to proceedings before taking decisions under Articles 38g, 38h and 38i, including an exception allowing an interim decision where urgent action is needed to prevent significant and imminent damage to the financial system, followed by a hearing opportunity afterward. [Art. 38l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38l)
 
@@ -2242,7 +2242,7 @@ The new provision also establishes that the rights of defence of persons under i
 
 **INSERTED · Art. 38m — Review by the Court of Justice** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 38m is added, giving the Court of Justice unlimited jurisdiction to review decisions in which ESMA has imposed a fine or a periodic penalty payment. [Art. 38m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38m)
 
@@ -2256,7 +2256,7 @@ The new text also states that the Court of Justice may annul, reduce or increase
 
 **INSERTED · Art. 38n — Authorisation and supervisory fees** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This article is entirely new text, setting out that ESMA is to charge fees to data reporting services providers, that these fees are to cover ESMA's expenditure on authorisation and supervision plus reimbursement of certain competent authority costs, and that the amount charged to an individual provider is to cover the administrative costs relating to that provider and be proportionate to its turnover. [Art. 38n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38n)
 
@@ -2272,7 +2272,7 @@ It also states that the Commission is to adopt a delegated act by 1 October 2021
 
 **INSERTED · Art. 38o — Delegation of tasks by ESMA to competent authorities** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article setting out that ESMA may delegate specific supervisory tasks to a Member State's competent authority, including tasks such as requests for information, investigations and on-site inspections, subject to consultation, review, revocation, reimbursement and retained-responsibility provisions. [Art. 38o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0600-20220101#art_38o)
 
@@ -2492,26 +2492,6 @@ The new article also states that good-faith disclosure of such facts or decision
 > Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). or Article 73 of Directive 2009/65/EC or any other task prescribed by law, shall have a duty to report promptly to ESMA any fact or decision concerning that data reporting services provider of which that person has become aware while carrying out that task and which is liable to:
 > (a) constitute a material infringement of the laws, regulations or administrative provisions which lay down the conditions governing authorisation or which specifically govern pursuit of the activities of data reporting services provider;
 > (b) affect the continuous funct […truncated by emendrix: 785 characters omitted…]
-
-**INSERTED · TIS IVa** · applies from: unknown
-
-*amended by* `32019R2175`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · TIS VIa** · applies from: unknown
-
-*amended by* `32019R2175`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0600-20220101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0600-20210626 -->
