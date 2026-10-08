@@ -2215,9 +2215,9 @@ Entries concerning information requests and inspections are also reworded to add
 ### `02009R1060-20110601` → `02009R1060-20110721`
 
 - **Act** `eu:32009R1060` · **In force** 2011-07-21 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 1 substantive · 0 date-only · 1 with no text · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 61 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20110601` · `v2` = `02009R1060-20110721`
 
 ---
@@ -2225,8 +2225,6 @@ Entries concerning information requests and inspections are also reworded to add
 **MODIFIED · Art. 4 — Use of credit ratings** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 4 PA 1 ALN 1` · *dates* +2011-06-08 · *amended by* `32011L0061`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The list of entities in paragraph 1 now specifies that alternative investment funds are those as defined in Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers, with a citation to its Official Journal publication, whereas the earlier text referred to alternative investment funds without such a defining reference. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4)
 
@@ -2257,16 +2255,6 @@ The phrase describing the scope of the First Council Directive 73/239/EEC was al
 > OJ L 323, 9.12.2005, p. 1., UCITS as defined in Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)
 > OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds as defined in Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers
 > OJ L 174, 1.7.2011, p. 1. may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance […truncated by emendrix: 4570 characters omitted…]
-
-**MODIFIED · Art. 4.1** · applies from: unknown
-
-*amended by* `32011L0061`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20110721 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20110601 -->

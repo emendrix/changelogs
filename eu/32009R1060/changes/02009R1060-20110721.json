@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 2,
+    "modified": 1,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 2,
+    "touched_units": 1,
     "unchanged_units": 61,
-    "disputed": 2
+    "disputed": 0
   },
   "counts": {
-    "touched": 2,
+    "touched": 1,
     "substantive": 1,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 2,
+    "textless": 0,
+    "disputed": 0,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -56,14 +56,14 @@
           {
             "corpus": "eu",
             "key": "32011L0061",
-            "display_name": "Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010  Text with EEA relevance"
+            "display_name": null
           }
         ],
         "dates_removed": [],
         "dates_added": [
           "2011-06-08"
         ],
-        "in_force": null,
+        "in_force": "2011-07-21",
         "applies_from": {
           "kind": "unknown",
           "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
@@ -77,9 +77,11 @@
             ]
           },
           "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (2011-06-01, 2011-07-21]",
-            "change_types": []
+            "status": "observed",
+            "detail": "32011L0061 R",
+            "change_types": [
+              "MODIFIED"
+            ]
           },
           "instruction_parse": {
             "status": "observed",
@@ -89,7 +91,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -148,64 +151,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20110721",
-          "location": "AR 4.1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32011L0061",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2011-07-21",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32011L0061 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32011L0061, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -230,12 +175,12 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AR 4.1"
+          "AR 4"
         ],
         "note": "1 annotations in (2011-06-01, 2011-07-21]",
         "claims": [
           {
-            "location": "AR 4.1 L1",
+            "location": "AR 4 L1",
             "change_type": "MODIFIED",
             "in_force": "2011-07-21",
             "source": "32011L0061 R",
@@ -275,10 +220,10 @@
         "right": "corpus_metadata",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
@@ -297,62 +242,16 @@
         "right": "instruction_parse",
         "left_units": 1,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
-    "disagreements": [
-      {
-        "unit": "AR 4",
-        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
-        "observed_by": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 4.1",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      }
-    ],
-    "metadata_only_units": [
-      "AR 4.1"
-    ]
+    "disagreements": [],
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -428,6 +327,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
