@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02014R0806-20251110` → `02014R0806-20260611`
 
 - **Act** `eu:32014R0806` · **In force** 2026-06-11 · **Detected** 2026-09-23
-- **Touched** 54 provisions — 31 substantive · 0 date-only · 23 with no text · **23 disputed**
-- **Diff** 9 inserted · 45 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
-- **Gate** 0 sentences quoted verbatim · 24 changes shipped without an explanation
+- **Touched** 31 provisions — 31 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 2 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02014R0806-20251110` · `v2` = `02014R0806-20260611`
 
 ---
@@ -281,46 +281,6 @@ This paragraph does not appear in the earlier version of the Article, which ende
 > 3. When drafting resolution plans in accordance with Article 9, after consulting the competent authorities, national resolution authorities shall determine the requirements for own funds and eligible liabilities, as referred to in Articles 12a to 12i, subject to write-down and conversion powers, which are to be met at all times by the entities referred to in Article 7(3). In that regard the procedure established in Article 31 shall apply.
 > 4. The Board shall make any determination referred to in paragraph 1 of t […truncated by emendrix: 1164 characters omitted…]
 
-**MODIFIED · Art. 12a** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 12c** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 12d** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 12e** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 12g — Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities** · applies from: unchanged
 
 *within* `AR 12g PA 1 ALN 2`, `AR 12g PA 4` · *amended by* `32026R0808`
@@ -354,16 +314,6 @@ A new paragraph 4 has been added setting out that, where subsidiaries establishe
 > (i) the subsidiary is held directly by the resolution entity and:
 > the resolution entity is a Union parent financial holding company or a Union parent mixed financial […truncated by emendrix: 9865 characters omitted…]
 
-**MODIFIED · Art. 12i** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 12k — Transitional and post-resolution arrangements** · applies from: unchanged
 
 *within* `AR 12k PA 3 ALN 1 PTA (a)`, `AR 12k PA 5 ALN 1`, `AR 12k PA 6 ALN 1` · *amended by* `32026R0808`
@@ -396,66 +346,6 @@ In paragraph 6, the reference to the Board and the national resolution authoriti
 > (b) the prospect that the entity will be able to ensure compliance in a reasonable timeframe with the requirements in Articles 12f or 12g or with a requirement that results from the application of Article 12c(4), (5) or (7); and
 > (c […truncated by emendrix: 3107 characters omitted…]
 
-**MODIFIED · Art. 13** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 13a** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 13b** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 13c** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 14** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 16** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 18 — Resolution procedure** · applies from: unchanged
 
 *within* `AR 18 PA 7 ALN 2`, `AR 18 PA 11`, `AR 18 PA 12` · *amended by* `32026R0808`
@@ -486,16 +376,6 @@ These paragraphs 11 and 12 and the amended wording of paragraph 7 do not appear 
 > (c) a resolution action is necessary in the public interest pursuant to paragraph 5.
 > An assessment of the condition referred to in point (a) of the first subparagraph shall be made by the ECB, after consulting the Board. The Board, in its executive session, may make such an assessment only after informing the ECB of its intention and only if the ECB, within three calendar days of receipt of that information, does not make such an assessment. The ECB shall, without delay, provide the Board with any relevant […truncated by emendrix: 9861 characters omitted…]
 
-**INSERTED · Art. 18a** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 19 — State aid and Fund aid** · applies from: unchanged
 
 *within* `AR 19 PA 1 ALN 1`, `AR 19 PA 1 ALN 2`, `AR 19 PA 3 ALN 1`, `AR 19 PA 3 ALN 2`, `AR 19 PA 3 ALN 3`, `AR 19 PA 3 ALN 4`, `AR 19 PA 3 ALN 5`, `AR 19 PA 3 ALN 6`, `AR 19 PA 3 ALN 7`, `AR 19 PA 3 ALN 8`, `AR 19 PA 10 ALN 1` · *amended by* `32026R0808`
@@ -522,16 +402,6 @@ Paragraph 10 changes the procedure by allowing the application to the Council to
 > 1. Where resolution action involves the granting of State aid pursuant to Article 107(1) TFEU or of Fund aid in accordance with paragraph 3 of this Article, the resolution scheme referred to in Article 18(6) of this Regulation shall not enter into force until such time as the Commission adopts a positive or conditional decision, or a decision not to raise objections, concerning the compatibility of the use of such aid with the internal market. The Commission shall, taking into consideration the need for the timely execution of the resolution scheme by the Board, adopt the decision concerning the compatibility of the use of State aid or of Fund aid with the internal market by, at the latest, the time it endorses the resolution scheme or objects to it pursuant to Article 18(7), second subparagraph, of this Regulation, or before the expiry of the period of 24 hours referred to in Article 18(7), fifth subparagraph, of this Regulation, whichever is earlier.
 > In performing the tasks conferred on them by Article 18, Union institutions shall have in place structural arrangements that ensure operational independence and avoid conflicts of interest that could arise between the functions entrusted with the performance of those tasks and other functions and shall make public, in an appropriate manner, all relevant information on their internal organisation in that regard.
 > 2. On receiving a communication pursuant to Article 18(1) of this Regulation or on i […truncated by emendrix: 7238 characters omitted…]
-
-**MODIFIED · Art. 20** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 21 — Write-down or conversion of capital instruments and eligible liabilities** · applies from: unchanged
 
@@ -561,26 +431,6 @@ Paragraph 9 now specifies that the conditions in paragraph 1 and Article 18(1) m
 > (c) in the case of relevant capital instruments issued by a subsidiary and where those relevant capital instruments are recognised for the purposes of meeting own funds requirements on an individual basis and on a consolidated basis, unless the write-down or conversion power is exercised in relation to those instruments, the group will no longer be viable;
 > (d) in the case of relevant capital instruments issued at the level of the parent undertaking and where those […truncated by emendrix: 8578 characters omitted…]
 
-**MODIFIED · Art. 22** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 27** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 30 — Obligation to cooperate and information exchange** · applies from: unchanged
 
 *within* `AR 30`, `AR 30 PA 2 ALN 1`, `AR 30 PA 2a`, `AR 30 PA 2b`, `AR 30 PA 2c`, `AR 30 PA 6 ALN 1`, `AR 30 PA 6 ALN 1 PTA (a)`, `AR 30 PA 6 ALN 1 PTA (b)`, `AR 30 PA 7 ALN 1` · *amended by* `32026R0808`
@@ -609,16 +459,6 @@ Paragraph 7 now names other ESCB members and the designated authorities and depo
 > 2. In the exercise of their respective responsibilities under this Regulation, the Board, the Council, the Commission, the ECB and the national resolution authorities and national competent authorities shall cooperate closely, in particular in the resolution planning, early intervention and resolution phases pursuant to Articles 8 to 29. They shall provide each other with all information necessary for the performance of their respective tasks, including the information referred to in paragraphs 2a, 2b and 2c of this Article.
 > 2a. The Board, the ESRB, EBA, ESMA and EIOPA shall cooperate closely and provide each other with all of the information necessary for the performance of their respective tasks.
 > 2b. The ECB and other members of the European System of Central Banks (ESCB) shall cooperate closely with the Board and provide it with all of the information necessary for the performance of the Board’s tasks, including the information collected by them pursuant to the Statute of the European System of Central Banks and of the European Central Bank. Article 88(6) shall apply to all such exchange […truncated by emendrix: 2337 characters omitted…]
-
-**INSERTED · Art. 30a** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 31 — Cooperation within the SRM** · applies from: unchanged
 
@@ -1022,36 +862,6 @@ The responsibility described in paragraph 3 is now attributed to the Board actin
 > 2. The internal auditor shall advise the Board on dealing with risks, by issuing independent opinions on the quality of management and control systems and by issuing recommendations for improving the conditions of implementation of operations and promoting sound financial management.
 > 3. The responsibility for adopting internal control standards and putting in place internal control systems and procedures suitable for performing the tasks of the internal auditor shall lie with the Board in its plenary session.
 
-**MODIFIED · Art. 69** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 70** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 71** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 74 — Access to financial facility** · applies from: unchanged
 
 *within* `AR 74 ALN 2` · *amended by* `32026R0808`
@@ -1072,36 +882,6 @@ The same new paragraph also requires the Board to provide the Commission and the
 > Access to financial facility
 > The Board shall contract for the Fund financial arrangements, including, where possible, public financial arrangements, regarding the immediate availability of additional financial means to be used in accordance with Article 76, where the amounts raised or available in accordance with Articles 70 and 71 are not sufficient to meet the Funds' obligations.
 > The Board shall inform the Commission and the ECB as soon as it considers that it might be necessary to activate the financial arrangements contracted for the Fund in accordance with this Article, and shall provide the Commission and the ECB with all of the information necessary for the performance of their tasks in respect of those financial arrangements.
-
-**MODIFIED · Art. 76** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 79** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 79a** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **INSERTED · Art. 79b — Reporting on liquidity in resolution** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -1167,16 +947,6 @@ A new paragraph 8 has been added stating that the Article does not prevent the B
 > Information subject to the requirements of professional secrecy shall not be disclosed to another public or private entity except where such disclosure is due for the purpose of legal proceedings.
 > Those requirements shall also apply to potential purchasers contacted in order to prepare for the resolution of an entity pursuant to Article 13(3).
 > 2. The Board shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the discharge […truncated by emendrix: 3024 characters omitted…]
-
-**INSERTED · Art. 93a** · applies from: unknown
-
-*amended by* `32026R0808`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0806-20260611 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0806-20251110 -->
