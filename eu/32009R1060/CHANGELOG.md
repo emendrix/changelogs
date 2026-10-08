@@ -908,9 +908,9 @@ It also directs ESMA to publish the submitted individual credit ratings on a web
 ### `02009R1060-20130620` → `02009R1060-20140523`
 
 - **Act** `eu:32009R1060` · **In force** 2014-05-23 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 0 substantive · 0 date-only · 2 with no text · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 73 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 1 provisions — 0 substantive · 0 date-only · 1 with no text · **1 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 73 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20130620` · `v2` = `02009R1060-20140523`
 
 ---
@@ -919,17 +919,7 @@ It also directs ESMA to publish the submitted individual credit ratings on a web
 
 *amended by* `32014L0051`
 
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 2.3** · applies from: unknown
-
-*amended by* `32014L0051`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
