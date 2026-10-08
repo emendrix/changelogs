@@ -2973,9 +2973,9 @@ The earlier text contained no equivalent paragraphs 1a to 1d, moving directly fr
 ### `02012R0648-20191218` → `02012R0648-20200101`
 
 - **Act** `eu:32012R0648` · **In force** 2020-01-01 · **Detected** 2026-08-13
-- **Touched** 41 provisions — 39 substantive · 1 date-only · 1 with no text · **8 disputed**
-- **Diff** 26 inserted · 14 modified · 0 deleted · 0 renumbered · 1 deferred · 86 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 40 provisions — 39 substantive · 1 date-only · 0 with no text · **7 disputed**
+- **Diff** 25 inserted · 14 modified · 0 deleted · 0 renumbered · 1 deferred · 86 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20191218` · `v2` = `02012R0648-20200101`
 
 ---
@@ -3227,7 +3227,7 @@ The list of possible adverse effects has been expanded to include the transmissi
 
 *amended by* `32019R2099`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new text, establishing a permanent internal ESMA committee called the CCP Supervisory Committee, setting out its composition, voting arrangements, appointment and removal procedures for its Chair and independent members, and the tasks it carries out in relation to both authorised and third-country CCPs. [Art. 24a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24a)
 
@@ -3248,7 +3248,7 @@ This article is entirely new text, establishing a permanent internal ESMA commit
 
 *amended by* `32019R2099`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new text introducing Article 24b, which sets out procedures for the CCP Supervisory Committee to consult central banks of issue on certain draft decisions concerning Tier 2 CCPs, including response timeframes and treatment of proposed amendments or objections. [Art. 24b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24b)
 
@@ -3266,7 +3266,7 @@ It also establishes a separate agreement-seeking procedure for decisions under s
 
 *amended by* `32019R2099`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added and sets out that the CCP Supervisory Committee decides matters by a simple majority of its voting members, with the Chair given a casting vote in case of a tie. [Art. 24c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24c)
 
@@ -3280,7 +3280,7 @@ This provision is newly added and sets out that the CCP Supervisory Committee de
 
 *amended by* `32019R2099`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted provision setting out how the Board of Supervisors decides on draft decisions submitted to it by the CCP Supervisory Committee. [Art. 24d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24d)
 
@@ -3297,7 +3297,7 @@ It distinguishes decisions arising under a specified list of articles, including
 
 *amended by* `32019R2099`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new Article 24e establishing that the European Parliament or the Council may invite the Chair and independent members of the CCP Supervisory Committee to make a statement, with an obligation to do so and answer questions before the European Parliament when requested. [Art. 24e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#art_24e)
 
@@ -3897,7 +3897,7 @@ The date by which ESMA must assess staffing and resource needs and submit its re
 
 *amended by* `32019R2099`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says INSERTED, the instruction parse says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says INSERTED, the instruction parse says MODIFIED
 
 A new Annex III has been added, setting out a categorized list of infringements referred to in Article 25j(1), grouped under headings covering capital requirements, organisational requirements or conflicts of interest, operational requirements, transparency and availability of information, and obstacles to supervisory activities. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#anx_III)
 
@@ -3919,7 +3919,7 @@ Each listed item describes a specific infringement by a Tier 2 CCP, or in some c
 
 *amended by* `32019R2099`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex IV is newly added, setting out a list of coefficients tied to aggravating and mitigating factors used when applying Article 25j(3), including separate coefficient lists for aggravating factors such as repeated, prolonged, systemic, intentional, uncooperative or unremedied infringements, and for mitigating factors such as short-duration infringements, preventive measures, prompt disclosure to ESMA, or voluntary corrective action. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20200101#anx_IV)
 
@@ -3941,16 +3941,6 @@ The text states that these coefficients apply cumulatively to the basic amounts 
 > II. Adjustment coefficients linked to mitigating factors:
 > (a) if the infringement has been committed for less than 10 working days, a coefficient of 0,9 shall apply;
 > (b) if the CCP’s senior management can demonstrate to have taken all the necessary measures to prevent the infringement, a coefficie […truncated by emendrix: 310 characters omitted…]
-
-**INSERTED · CHA 3A** · applies from: unknown
-
-*amended by* `32019R2099`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20200101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0648-20191218 -->
