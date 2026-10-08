@@ -2957,7 +2957,7 @@ In entry 57, the maximum concentration allowed for Methylisothiazolinone in rins
 ### `02009R1223-20160812` → `02009R1223-20170303`
 
 - **Act** `eu:32009R1223` · **In force** 2017-03-03 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20160812` · `v2` = `02009R1223-20170303`
@@ -2967,8 +2967,6 @@ In entry 57, the maximum concentration allowed for Methylisothiazolinone in rins
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2017-09-03 +2018-03-03 · *amended by* `32017R0237`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new entry 8c has been added covering a nitro-phenylenediamine hair dye substance, with concentration limits and label wording that take effect as from specified 2017 and 2018 dates written directly into the entry. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_III)
 
@@ -3020,7 +3018,7 @@ Entry 9a itself has been restructured, splitting its restrictions and label word
 
 *within* `AN V`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only textual difference between the two versions is a minor formatting change in entry 12's header, where a line break and a space before "esters" were removed so the phrase reads as a single continuous line. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_V)
 
