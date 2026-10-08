@@ -371,9 +371,9 @@ Point (e) of paragraph 6 is expanded from a single assessment of market liquidit
 ### `02013R0575-20240709` → `02013R0575-20250101`
 
 - **Act** `eu:32013R0575` · **In force** 2024-12-24, 2025-01-01 · **Detected** 2026-08-13
-- **Touched** 283 provisions — 268 substantive · 0 date-only · 15 with no text · **41 disputed**
-- **Diff** 44 inserted · 232 modified · 7 deleted · 0 renumbered · 0 deferred · 523 unchanged
-- **Gate** 0 sentences quoted verbatim · 15 changes shipped without an explanation
+- **Touched** 281 provisions — 268 substantive · 0 date-only · 13 with no text · **39 disputed**
+- **Diff** 44 inserted · 230 modified · 7 deleted · 0 renumbered · 0 deferred · 523 unchanged
+- **Gate** 0 sentences quoted verbatim · 13 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20240709` · `v2` = `02013R0575-20250101`
 
 ---
@@ -566,7 +566,7 @@ Paragraph 2 similarly adds subsidiary intermediate financial holding companies a
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1373,7 +1373,7 @@ Two new paragraphs, 5 and 6, have been added: paragraph 5 requires institutions 
 
 *within* `AR 104c PA 1`, `AR 104c PA 2`, `AR 104c PA 3` · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The before text only contained paragraph 4 covering EBA's regulatory technical standards mandate, while the after text adds paragraphs 1, 2 and 3 setting out the conditions under which an institution may exclude a foreign exchange risk hedging position from own funds requirements for market risk, a consistency requirement for such exclusions, and a competent authority approval requirement for changes to the risk management framework and risk position details. [Art. 104c, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_104c) [Art. 104c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_104c)
 
@@ -1512,7 +1512,7 @@ The article also requires institutions to document, to the satisfaction of their
 
 *within* `AR 111 PA 1 ALN 1`, `AR 111 PA 1 ALN 1 PTA (a)`, `AR 111 PA 1 ALN 1 PTA (b)`, `AR 111 PA 1 ALN 1 PTA (c)`, `AR 111 PA 1 ALN 1 PTA (d)`, `AR 111 PA 1 ALN 2`, `AR 111 PA 1 ALN 3`, `AR 111 PA 2 ALN 1`, `AR 111 PA 2 ALN 1 PTA (a)`, `AR 111 PA 2 ALN 1 PTA (b)`, `AR 111 PA 2 ALN 1 PTA (c)`, `AR 111 PA 2 ALN 1 PTA (d)`, `AR 111 PA 2 ALN 1 PTA (e)`, `AR 111 PA 3 ALN 1`, `AR 111 PA 3 ALN 1 PTA (a)`, `AR 111 PA 3 ALN 1 PTA (b)`, `AR 111 PA 4`, `AR 111 PA 5`, `AR 111 PA 6`, `AR 111 PA 7` · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The provision is reorganized from three numbered paragraphs (1, 2, 3) plus paragraph 8 into seven numbered paragraphs (1 through 7) plus paragraph 8, with content that was previously combined in paragraph 1 now split across separate paragraphs 1 through 4. [Art. 111, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_111) [Art. 111, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_111)
 
@@ -1765,7 +1765,7 @@ The revised text also adds a specific rule assigning a 50% risk weight to such e
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1876,7 +1876,7 @@ Paragraph 2 no longer includes the alternative of applying the risk weight of ex
 
 *within* `AR 122a PA 1`, `AR 122a PA 2`, `AR 122a PA 3` · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The AFTER text adds paragraphs 1 through 3, which set out the definition of specialised lending exposures, the risk weights that apply when a directly applicable ECAI credit assessment exists, and the risk weights and detailed criteria that apply when no such assessment is available, none of which appear in the BEFORE text. [Art. 122a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_122a) [Art. 122a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_122a)
 
@@ -1997,7 +1997,7 @@ The paragraph numbering is also reorganized, with the authority-designation and 
 
 *within* `AR 125`, `AR 125 PA 1 ALN 1`, `AR 125 PA 1 ALN 1 PTA (a)`, `AR 125 PA 1 ALN 1 PTA (b)`, `AR 125 PA 1 ALN 2`, `AR 125 PA 1 ALN 3`, `AR 125 PA 1 ALN 4`, `AR 125 PA 1 ALN 5`, `AR 125 PA 2 ALN 1`, `AR 125 PA 2 ALN 1 PTA (a)`, `AR 125 PA 2 ALN 1 PTA (b)`, `AR 125 PA 2 ALN 1 PTA (c)`, `AR 125 PA 2 ALN 1 PTA (d)`, `AR 125 PA 2 ALN 2`, `AR 125 PA 2 ALN 3`, `AR 125 PA 2 ALN 4`, `AR 125 PA 3 ALN 1`, `AR 125 PA 3 ALN 1 PTA (a)`, `AR 125 PA 3 ALN 1 PTA (b)`, `AR 125 PA 3 ALN 2`, `AR 125 PA 4` · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The provision's title changes from referring to exposures fully and completely secured by mortgages on residential property to exposures secured by mortgages on residential property, and the entire substantive structure is replaced. [Art. 125, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_125) [Art. 125, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_125)
 
@@ -2031,7 +2031,7 @@ The earlier loss-rate derogation tied to Member State evidence of a well-develop
 
 *within* `AR 126`, `AR 126 PA 1 ALN 1`, `AR 126 PA 1 ALN 1 PTA (a)`, `AR 126 PA 1 ALN 1 PTA (b)`, `AR 126 PA 1 ALN 2`, `AR 126 PA 1 ALN 3`, `AR 126 PA 1 ALN 4`, `AR 126 PA 1 ALN 5`, `AR 126 PA 2 ALN 1`, `AR 126 PA 2 ALN 1 PTA (a)`, `AR 126 PA 2 ALN 1 PTA (b)`, `AR 126 PA 2 ALN 1 PTA (c)`, `AR 126 PA 2 ALN 1 PTA (d)`, `AR 126 PA 2 ALN 2`, `AR 126 PA 2 ALN 3`, `AR 126 PA 2 ALN 4`, `AR 126 PA 3 ALN 1`, `AR 126 PA 3 ALN 1 PTA (a)`, `AR 126 PA 3 ALN 1 PTA (b)`, `AR 126 PA 3 ALN 2`, `AR 126 PA 4 ALN 1`, `AR 126 PA 4 ALN 2` · *dates* +2027-12-31 +2028-12-31 · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The heading and substance of Article 126 have changed from setting risk weights for exposures fully and completely secured by mortgages on commercial immovable property under a 50% risk-weight framework, to a new structure assigning risk weights based on loan-to-value or exposure-to-value tranches referencing Article 124(2), including a 60% weight up to 55% of property value and a table of exposure-to-value buckets with weights of 70%, 90% and 110%. [Art. 126, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_126) [Art. 126, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_126)
 
@@ -2065,7 +2065,7 @@ The revised text also adds a new paragraph requiring EBA to submit a report to t
 
 *within* `AR 126a PA 1`, `AR 126a PA 2` · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The after text adds two new paragraphs, numbered 1 and 2, preceding the paragraph on EBA guidelines that was previously the only content shown for this article. [Art. 126a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_126a)
 
@@ -2830,7 +2830,7 @@ Paragraph 4 replaces the earlier list of conditions (a) to (e) for qualifying re
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -2905,7 +2905,7 @@ Paragraph 2 retains the treatment of discounts on defaulted balance-sheet exposu
 
 **INSERTED · Art. 159a — Non-application of PD, LGD and CCF input floors** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision, Article 159a, stating that for the purposes of Chapter 3, and specifically Articles 160(1), 161(4), 164(4) and 166(8c), the PD, LGD and CCF input floors do not apply to the portion of an exposure covered by an eligible guarantee provided by a central government, a central bank or the ECB. [Art. 159a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_159a)
 
@@ -3116,7 +3116,7 @@ New paragraphs 8a, 8b and 8c have been added, setting out how the SA-CCF and IRB
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3631,7 +3631,7 @@ The earlier version contained no equivalent paragraph 7 and ended with paragraph
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3799,7 +3799,7 @@ Paragraph 2 is restructured so that internally rated corporate entities under th
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -4060,7 +4060,7 @@ Paragraphs 1 and 2 remain textually identical between the two versions. [Art. 21
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -4273,7 +4273,7 @@ Table 3's percentages for main index equities and convertible bonds, other liste
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -5073,7 +5073,7 @@ Point (f) of Article 291(5) now refers to market risk calculations for default r
 
 **INSERTED · Art. 311a — Definitions** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new, adding Article 311a to define terms used within the Title, including operational risk event, aggregated gross loss, aggregated net loss, and grouped losses. [Art. 311a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_311a)
 
@@ -5091,7 +5091,7 @@ This provision is entirely new, adding Article 311a to define terms used within 
 
 *within* `AR 312`, `AR 312 ALN 1`, `AR 312 PA 1`, `AR 312 PA 2`, `AR 312 PA 3`, `AR 312 PA 4` · *dates* -2014-12-31
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The earlier version set out a permission and notification regime for institutions to use the Standardised Approach or Advanced Measurement Approaches for operational risk, including qualitative and quantitative standards, notification duties for model changes, and a mandate for EBA to develop regulatory technical standards. [Art. 312, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_312)
 
@@ -5119,7 +5119,7 @@ The heading of the article itself also changed, from referring to permission and
 
 *within* `AR 313`, `AR 313 ALN 1`, `AR 313 PA 1`, `AR 313 PA 2`, `AR 313 PA 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading of Article 313 changed from "Reverting to the use of less sophisticated approaches" to "Business indicator component", and the entire substantive text was replaced. [Art. 313, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_313) [Art. 313, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_313)
 
@@ -5150,7 +5150,7 @@ The earlier version set out conditions under which institutions could revert fro
 
 *within* `AR 314`, `AR 314 PA 1 ALN 1`, `AR 314 PA 2 ALN 1`, `AR 314 PA 2 ALN 1 PTA (a)`, `AR 314 PA 2 ALN 1 PTA (b)`, `AR 314 PA 3 ALN 1`, `AR 314 PA 3 ALN 1 PTA (a)`, `AR 314 PA 3 ALN 1 PTA (b)`, `AR 314 PA 3 ALN 1 PTA (c)`, `AR 314 PA 3 ALN 2`, `AR 314 PA 3 ALN 3`, `AR 314 PA 3 ALN 4`, `AR 314 PA 4 ALN 1`, `AR 314 PA 4 ALN 2`, `AR 314 PA 5 ALN 1`, `AR 314 PA 5 ALN 1 PTA (a)`, `AR 314 PA 5 ALN 1 PTA (b)`, `AR 314 PA 5 ALN 2`, `AR 314 PA 5 ALN 3`, `AR 314 PA 6`, `AR 314 PA 7`, `AR 314 PA 8`, `AR 314 PA 10 ALN 1` · *dates* -2016-12-31 +2024-07-08 +2027-12-31 +2031-12-31 +2032-12-31
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article has been entirely rewritten: its heading changed from Combined use of different approaches to Business indicator, and the former content on combining approaches such as the Advanced Measurement Approach, Basic Indicator Approach and Standardised Approach has been replaced with a formula-based calculation of the business indicator using an interest, leases and dividend component, a services component and a financial component. [Art. 314, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_314) [Art. 314, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_314)
 
@@ -5198,7 +5198,7 @@ The former paragraphs on regulatory technical standards for combined-approach pe
 
 *within* `AR 315`, `AR 315 PA 1 ALN 1`, `AR 315 PA 1 ALN 2`, `AR 315 PA 2 ALN 1`, `AR 315 PA 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article heading changed from "Own funds requirement" to "Adjustments to the business indicator", and the substantive content of paragraphs 1, 2 and 4 was replaced. [Art. 315, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_315) [Art. 315, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_315)
 
@@ -5238,7 +5238,7 @@ Paragraph 3 on EBA's development of draft regulatory technical standards and the
 
 *within* `AR 316`, `AR 316 PA 1 ALN 1`, `AR 316 PA 1 ALN 1 PO 1`, `AR 316 PA 1 ALN 1 PO 2`, `AR 316 PA 1 ALN 1 PO 3`, `AR 316 PA 1 ALN 1 PO 4`, `AR 316 PA 1 ALN 1 PO 5`, `AR 316 PA 1 ALN 1 PO 6`, `AR 316 PA 1 ALN 1 PO 7`, `AR 316 PA 1 ALN 2`, `AR 316 PA 1 ALN 2 PTA (a)`, `AR 316 PA 1 ALN 2 PTA (b)`, `AR 316 PA 1 ALN 2 PTA (c)`, `AR 316 PA 1 ALN 3`, `AR 316 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and substance of Article 316 changed from defining the "relevant indicator" based on profit-and-loss accounting elements under Directive 86/635/EEC to defining the "calculation of the annual operational risk loss" based on net losses exceeding thresholds in Article 319(1) or (2), calculated per Article 318(1). [Art. 316, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_316) [Art. 316, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_316)
 
@@ -5279,7 +5279,7 @@ The later version also adds a new paragraph 2 defining the relevant business ind
 
 *within* `AR 317`, `AR 317 PA 1 ALN 1`, `AR 317 PA 2 ALN 1`, `AR 317 PA 3 ALN 1`, `AR 317 PA 3 ALN 1 PTA (a)`, `AR 317 PA 3 ALN 1 PTA (b)`, `AR 317 PA 3 ALN 1 PTA (c)`, `AR 317 PA 4 ALN 1`, `AR 317 PA 4 ALN 1 PTA (a)`, `AR 317 PA 4 ALN 1 PTA (b)`, `AR 317 PA 4 ALN 2`, `AR 317 PA 4 ALN 3`, `AR 317 PA 5`, `AR 317 PA 6`, `AR 317 PA 7`, `AR 317 PA 8`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changed from "Own funds requirement" to "Loss data set", and the entire content of paragraphs 1 through 8 was replaced: the earlier text on the Standardised Approach, business line mapping, beta factors, the three-year averaging calculation, and Table 2 has been removed and replaced with provisions on establishing and maintaining a loss data set, its scope, the treatment of credit and market risk events within it, and requirements for IT systems and infrastructure supporting it. [Art. 317, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_317) [Art. 317, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_317)
 
@@ -5314,7 +5314,7 @@ Paragraphs 9 and 10, concerning EBA's development of regulatory technical standa
 
 *within* `AR 318`, `AR 318 PA 1 ALN 1`, `AR 318 PA 1 ALN 2`, `AR 318 PA 2 ALN 1`, `AR 318 PA 2 ALN 1 PTA (a)`, `AR 318 PA 2 ALN 1 PTA (a) PTI (i)`, `AR 318 PA 2 ALN 1 PTA (a) PTI (ii)`, `AR 318 PA 2 ALN 1 PTA (b)`, `AR 318 PA 2 ALN 1 PTA (c)`, `AR 318 PA 2 ALN 1 PTA (d)`, `AR 318 PA 2 ALN 1 PTA (e)`, `AR 318 PA 2 ALN 1 PTA (f)`, `AR 318 PA 2 ALN 1 PTA (g)`, `AR 318 PA 2 ALN 2`, `AR 318 PA 2 ALN 3`, `AR 318 PA 3 ALN 1`, `AR 318 PA 3 ALN 1 PTA (a)`, `AR 318 PA 3 ALN 1 PTA (b)`, `AR 318 PA 3 ALN 1 PTA (c)`, `AR 318 PA 3 ALN 2`, `AR 318 PA 3 ALN 3`, `AR 318 PA 4` · *dates* -2017-12-31
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and substance of Article 318 changed entirely, moving from principles for mapping business lines and activities into the standardised framework to rules on calculating net loss and gross loss for each operational risk event. [Art. 318, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_318) [Art. 318, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_318)
 
@@ -5355,7 +5355,7 @@ The new text also introduces requirements for institutions to maintain updated n
 
 *within* `AR 319`, `AR 319 PA 1 ALN 1`, `AR 319 PA 1 ALN 1 PTA (a)`, `AR 319 PA 1 ALN 1 PTA (b)`, `AR 319 PA 2 ALN 1`, `AR 319 PA 2 ALN 1 PTA (a)`, `AR 319 PA 2 ALN 1 PTA (b)`, `AR 319 PA 2 ALN 1 PTA (c)`, `AR 319 PA 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and content of Article 319 changed entirely: the earlier version set out the Alternative Standardised Approach for retail and commercial banking, including how the relevant indicator and loans and advances are defined and the conditions for using that approach, while the later version instead concerns loss data thresholds for operational risk events. [Art. 319, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_319) [Art. 319, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_319)
 
@@ -5385,7 +5385,7 @@ The later text requires institutions to include operational risk events with a n
 
 *within* `AR 320`, `AR 320 PA 1 ALN 1`, `AR 320 PA 1 ALN 1 PTA (a)`, `AR 320 PA 1 ALN 1 PTA (b)`, `AR 320 PA 1 ALN 1 PTA (b) PTI (i)`, `AR 320 PA 1 ALN 1 PTA (b) PTI (ii)`, `AR 320 PA 1 ALN 1 PTA (c)`, `AR 320 PA 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading changes from Criteria for the Standardised Approach to Exclusion of losses, and paragraph 1 is replaced entirely: it no longer sets out the assessment-system, integration, and reporting criteria, and instead describes conditions under which an institution may request permission from the competent authority to exclude exceptional operational risk events from its annual operational risk loss calculation, including demonstrating non-recurrence, meeting loss thresholds or divestment criteria, and satisfying a minimum retention period in the loss database. [Art. 320, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_320) [Art. 320, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_320)
 
@@ -5419,7 +5419,7 @@ Paragraph 3, concerning EBA's development of draft regulatory technical standard
 
 *within* `AR 321 PA 1 ALN 1`, `AR 321 PA 1 ALN 1 PTA (a)`, `AR 321 PA 1 ALN 1 PTA (b)`, `AR 321 PA 1 ALN 1 PTA (c)`, `AR 321 PA 1 ALN 1 PTA (d)`, `AR 321 PA 1 ALN 1 PTA (e)`, `AR 321 PA 1 ALN 1 PTA (f)`, `AR 321 PA 1 ALN 1 PTA (g)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Paragraph 1 no longer sets out the seven qualitative standards for the internal operational risk measurement system, such as integration into day-to-day risk management, an independent risk management function, regular reporting, documentation, periodic audits, sound validation processes, and transparent data flows. [Art. 321, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_321)
 
@@ -5456,7 +5456,7 @@ Paragraph 2, covering EBA's development of draft regulatory technical standards 
 
 *within* `AR 322`, `AR 322 PA 1 ALN 1`, `AR 322 PA 2 ALN 1`, `AR 322 PA 2 ALN 1 PTA (a)`, `AR 322 PA 2 ALN 1 PTA (b)`, `AR 322 PA 2 ALN 1 PTA (c)`, `AR 322 PA 2 ALN 1 PTA (d)`, `AR 322 PA 2 ALN 1 PTA (e)`, `AR 322 PA 3`, `AR 322 PA 4`, `AR 322 PA 5`, `AR 322 PA 6`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changed from 'Quantitative Standards' to 'Comprehensiveness, accuracy and quality of the loss data', and the detailed quantitative-standards provisions covering process, internal data, external data, scenario analysis, and business environment and internal control factors have been removed entirely. [Art. 322, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_322) [Art. 322, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_322)
 
@@ -5484,7 +5484,7 @@ In their place, the text now provides that institutions shall have organisation 
 
 *within* `AR 323 PA 1 ALN 1`, `AR 323 PA 1 ALN 1 PTA (a)`, `AR 323 PA 1 ALN 1 PTA (b)`, `AR 323 PA 1 ALN 1 PTA (c)`, `AR 323 PA 1 ALN 1 PTA (d)`, `AR 323 PA 1 ALN 1 PTA (e)`, `AR 323 PA 1 ALN 1 PTA (f)`, `AR 323 PA 1 ALN 1 PTA (g)`, `AR 323 PA 1 ALN 1 PTA (h)`, `AR 323 PA 3`, `AR 323 PA 4`, `AR 323 PA 5`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Paragraph 1 no longer addresses recognition of insurance and other risk transfer mechanisms subject to conditions in paragraphs 2 to 5; instead it now lists eight requirements (points (a) to (h)) for institutions to have an operational risk assessment and management system, an independent operational risk management function, senior management reporting, monitoring and corrective action procedures, compliance routines, periodic reviews, internal validation processes, and transparent data flows. [Art. 323, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_323) [Art. 323, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_323)
 
@@ -5520,7 +5520,7 @@ Former paragraphs 3, 4 and 5, which set out detailed conditions for insurance po
 
 **DELETED · Art. 324 — Loss event type classification** · applies from: unknown (a deleted provision has no application date to move)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 324, which set out the table classifying loss event types referred to in point (b) of Article 322(3), including categories such as internal fraud, external fraud, employment practices and workplace safety, clients, products and business practices, damage to physical assets, business disruption and system failures, and execution, delivery and process management, no longer appears in the text. [Art. 324, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_324)
 
@@ -5613,7 +5613,7 @@ Paragraphs 5 and 6 are reworded from describing cessation and reinstatement of t
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -5658,7 +5658,7 @@ This new paragraph 4 distinguishes calculation using the offsetting treatment fo
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -5765,7 +5765,7 @@ The list of maturities is also reworded slightly, replacing the comma before the
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -6745,7 +6745,7 @@ The final sentence on recognising a hedging instrument only to the extent it can
 
 *within* `AR 325bp PA 5 ALN 1 PTA (a)`, `AR 325bp PA 5 ALN 1 PTA (d)`, `AR 325bp PA 5 ALN 1 PTA (e)`, `AR 325bp PA 5 ALN 2`, `AR 325bp PA 6 ALN 1 PTA (c)`, `AR 325bp PA 6 ALN 1 PTA (d)`, `AR 325bp PA 6 ALN 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Point (a) of paragraph 5 now sets separate lower default probability floors of 0,01 % for exposures receiving a 0 % risk weight under Articles 114 to 118 and for covered bonds receiving a 10 % risk weight under Article 129, with the 0,03 % floor retained for all other cases, whereas the earlier text applied the 0,03 % floor uniformly. [Art. 325bp, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_325b) [Art. 325bp, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_325b)
 
@@ -6909,7 +6909,7 @@ The remaining wording, including the 2% threshold and the 8% multiplication, is 
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -7063,7 +7063,7 @@ The prior seven paragraphs covering the advanced internal model, its formulae, m
 
 *within* `AR 383a PA 1`, `AR 383a PA 2`, `AR 383a PA 3` · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The before text shown for Article 383a began directly with paragraph 4, containing no text for paragraphs 1 through 3, while the after text includes full text for paragraphs 1, 2 and 3 covering the requirements for a regulatory CVA model, the determination of probabilities of default, and qualitative requirements for institutions using such a model. [Art. 383a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_383a) [Art. 383a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_383a)
 
@@ -8139,7 +8139,7 @@ Paragraph 3 now refers to paragraph 1, points (a) to (f), instead of points (a) 
 
 *amended by* `32024R1623`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -8791,7 +8791,7 @@ It also sets out a separate derogation from Article 133 allowing continued use o
 
 *within* `AR 495b PA 1`, `AR 495b PA 3` · *dates* +2025-01-01 +2028-01-01 +2028-12-31 +2029-01-01 +2029-12-31 +2032-12-31 · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The after text adds a new paragraph 1 setting out phased-in multipliers for the LGD input floors applicable to specialised lending exposures under the IRB Approach, with factors of 50% for 2025-2027, 80% for 2028, and 100% for 2029, none of which appeared in the before text. [Art. 495b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_495b)
 
@@ -8827,7 +8827,7 @@ The paragraphs previously numbered 2 and 4 in the before text remain textually u
 
 *within* `AR 495c PA 1` · *dates* +2025-01-01 +2027-12-31 +2028-01-01 +2029-01-01 +2029-12-31 · *amended by* `32024R1623`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 A new paragraph 1 has been added, setting out a derogation from Article 230 for the applicable value of Hc corresponding to other physical collateral in leasing exposures under Article 199(7), scaling that value by specified percentages across three time periods running from 1 January 2025 through 31 December 2029. [Art. 495c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_495c)
 
@@ -9087,7 +9087,7 @@ It also states that the Commission, based on that report and relevant BCBS stand
 
 *within* `AR 520 ALN 1 PO 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The two versions of Article 520(1)(3) are textually identical apart from a trailing stray period after the final sentence, which is removed in the later version. [Art. 520, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20240709#art_520) [Art. 520, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20250101#art_520)
 
@@ -9159,16 +9159,6 @@ A new Article 520a has been added, stating that institutions shall continue appl
 > Application of own funds requirements for market risk
 > Until 1 January 2026, institutions shall continue to apply Part Three, Title IV, and the market risk requirements of Articles 430, 430b, 445 and 455 of this Regulation in the version in force on 8 July 2024.
 
-**MODIFIED · Part 3** · applies from: unknown
-
-*amended by* `32024R1623`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — Classification of off-balance-sheet items** · applies from: unchanged
 
 *within* `AN I`, `AN I PO 1`, `AN I PO 2`, `AN I PO 3`, `AN I PO 4` · *amended by* `32024R1623`
@@ -9222,16 +9212,6 @@ Some wording was also altered, such as replacing the phrase 'without notice' wit
 > (b) Performance bonds, bid bonds, warranties and standby letters of credit related to particular transactions and similar transaction-related contingent items, excluding trade finance off-balance-sheet items referred to in bucket 4;
 > (c) Other off-balance-sheet items carrying similar risk, as communicated to EBA.
 > 3 (a) The undrawn amount of commitments, regardless of the maturity of the underlying fa […truncated by emendrix: 1343 characters omitted…]
-
-**MODIFIED · TIS III** · applies from: unknown
-
-*amended by* `32024R1623`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20250101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20240709 -->
