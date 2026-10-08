@@ -2009,7 +2009,7 @@ Point 12 of Annex V now lists digestate alongside compost and biogas as an addit
 ### `02006R1907-20181201` → `02006R1907-20190107`
 
 - **Act** `eu:32006R1907` · **In force** 2019-01-07 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20181201` · `v2` = `02006R1907-20190107`
@@ -2019,8 +2019,6 @@ Point 12 of Annex V now lists digestate alongside compost and biogas as an addit
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +1944-12-07 +2011-01-14 +2020-07-07 +2024-01-07 · *amended by* `32018R2005`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of referenced legislative acts printed after the Annex heading gains one additional entry, a citation to Commission Regulation (EU) No 10/2011 of 14 January 2011 on plastic materials and articles intended to come into contact with food, which does not appear in the earlier list. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20190107#anx_XVII) [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20181201#anx_XVII)
 
