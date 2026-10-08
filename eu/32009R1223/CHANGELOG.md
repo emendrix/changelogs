@@ -2623,7 +2623,7 @@ Both texts are cut off before the substance table entries that these new stateme
 ### `02009R1223-20171225` → `02009R1223-20180711`
 
 - **Act** `eu:32009R1223` · **In force** 2018-07-11 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20171225` · `v2` = `02009R1223-20180711`
@@ -2633,8 +2633,6 @@ Both texts are cut off before the substance table entries that these new stateme
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32018R0885`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new combined-use sentence is added stating that in case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and its nano form, the sum shall not exceed the limit given in column g. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_VI)
 
