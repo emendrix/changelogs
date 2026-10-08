@@ -2587,7 +2587,7 @@ A new paragraph 3 is added listing three conditions that must be met for paragra
 ### `02012R0648-20200618` → `02012R0648-20210211`
 
 - **Act** `eu:32012R0648` · **In force** 2021-02-11 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 1 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 125 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20200618` · `v2` = `02012R0648-20210211`
@@ -2598,7 +2598,7 @@ A new paragraph 3 is added listing three conditions that must be met for paragra
 
 *within* `AR 1 PA 4 ALN 1 PTA (c) PTI (viii)`, `AR 1 PA 4 ALN 1 PTA (c) PTI (ix)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The list of countries in Article 1(4)(c) now ends with a semicolon after Switzerland rather than a full stop, and a new item (ix) adds the United Kingdom of Great Britain and Northern Ireland to the list of countries whose central banks and public debt management bodies are named. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_1)
 
@@ -2652,8 +2652,6 @@ All other text of Article 1, including paragraphs 1 through 3, 5, and 6, remains
 **INSERTED · Art. 13a — Replacement of interest rate benchmarks in legacy trades** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32021R0023`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new Article 13a is added, setting out that counterparties may keep applying their existing risk-management procedures for certain non-centrally cleared OTC derivative contracts even where those contracts are novated after 11 February 2021 solely to replace an interest rate benchmark or to add fallback provisions relating to it. [Art. 13a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20210211#art_13a)
 
