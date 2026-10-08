@@ -14,23 +14,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 4,
+    "inserted": 3,
     "modified": 22,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 26,
+    "touched_units": 25,
     "unchanged_units": 225,
-    "disputed": 8
+    "disputed": 7
   },
   "counts": {
-    "touched": 26,
+    "touched": 25,
     "substantive": 21,
     "date_only": 0,
-    "textless": 5,
-    "disputed": 8,
+    "textless": 4,
+    "disputed": 7,
     "quoted": 0,
-    "unexplained": 5
+    "unexplained": 4
   },
   "changes": [
     {
@@ -94,7 +94,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -232,7 +233,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -347,7 +349,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -430,7 +433,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -529,7 +533,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -647,7 +652,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -787,7 +793,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -934,7 +941,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1041,7 +1049,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1165,7 +1174,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1318,7 +1328,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1452,7 +1463,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1553,7 +1565,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1683,7 +1696,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1827,7 +1841,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -1885,7 +1900,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -1943,7 +1959,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -1992,7 +2009,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "53 annotations in (2017-08-01, 2018-01-01]",
+            "detail": "53 annotations in (2017-08-01, 2018-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -2003,7 +2020,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2105,7 +2123,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2204,7 +2223,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2367,7 +2387,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2469,7 +2490,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2581,65 +2603,8 @@
             ]
           }
         },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20180101",
-          "location": "SECTION 5a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R2393",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2018-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32017R2393 J",
-            "change_types": [
-              "INSERTED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32017R2393, 0.979 of its instruction clauses read, 1 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -2700,7 +2665,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2832,7 +2798,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2970,11 +2937,10 @@
           "AR 209",
           "AR 222",
           "AR 232",
-          "SECTION 5a",
           "AN VII",
           "AN VIII"
         ],
-        "note": "53 annotations in (2017-08-01, 2018-01-01]",
+        "note": "53 annotations in (2017-08-01, 2018-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 152 PA 1 PO (b)",
@@ -3223,17 +3189,6 @@
             "change_type": "INSERTED",
             "in_force": "2018-01-01",
             "source": "32017R2393 A",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32017R2393",
-              "display_name": null
-            }
-          },
-          {
-            "location": "SECTION 5a",
-            "change_type": "INSERTED",
-            "in_force": "2018-01-01",
-            "source": "32017R2393 J",
             "amending_act": {
               "corpus": "eu",
               "key": "32017R2393",
@@ -4059,11 +4014,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 21,
-        "right_units": 25,
+        "right_units": 24,
         "shared": 20,
         "precision": 0.9523809523809523,
-        "recall": 0.8,
-        "f1": 0.8695652173913043,
+        "recall": 0.8333333333333334,
+        "f1": 0.888888888888889,
         "kind_mismatches": 0
       },
       {
@@ -4080,12 +4035,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 25,
+        "left_units": 24,
         "right_units": 21,
         "shared": 20,
-        "precision": 0.8,
+        "precision": 0.8333333333333334,
         "recall": 0.9523809523809523,
-        "f1": 0.8695652173913043,
+        "f1": 0.888888888888889,
         "kind_mismatches": 1
       }
     ],
@@ -4204,25 +4159,6 @@
         ]
       },
       {
-        "unit": "SECTION 5a",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AN VII",
         "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
         "observed_by": [
@@ -4277,9 +4213,9 @@
       "AR 169",
       "AR 170",
       "AR 171",
-      "AR 232",
-      "SECTION 5a"
-    ]
+      "AR 232"
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -4319,6 +4255,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 27,
       "repaired": 8,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 26,
+      "repaired": 2,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

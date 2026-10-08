@@ -4439,9 +4439,9 @@ The after text adds a new paragraph 3 requiring Member States that grant such na
 ### `02013R1308-20170801` → `02013R1308-20180101`
 
 - **Act** `eu:32013R1308` · **In force** 2018-01-01 · **Detected** 2026-09-04
-- **Touched** 26 provisions — 21 substantive · 0 date-only · 5 with no text · **8 disputed**
-- **Diff** 4 inserted · 22 modified · 0 deleted · 0 renumbered · 0 deferred · 225 unchanged
-- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
+- **Touched** 25 provisions — 21 substantive · 0 date-only · 4 with no text · **7 disputed**
+- **Diff** 3 inserted · 22 modified · 0 deleted · 0 renumbered · 0 deferred · 225 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20170801` · `v2` = `02013R1308-20180101`
 
 ---
@@ -4960,7 +4960,7 @@ Paragraph 5 is reworded so the derogation now refers to paragraphs 1 and 1a and 
 
 *amended by* `32017R2393`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -4970,7 +4970,7 @@ Paragraph 5 is reworded so the derogation now refers to paragraphs 1 and 1a and 
 
 *amended by* `32017R2393`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -4980,7 +4980,7 @@ Paragraph 5 is reworded so the derogation now refers to paragraphs 1 and 1a and 
 
 *amended by* `32017R2393`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -4990,7 +4990,7 @@ Paragraph 5 is reworded so the derogation now refers to paragraphs 1 and 1a and 
 
 *amended by* `32017R2393`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new, introducing a possibility for farmers, including associations of farmers, and their first purchaser to agree on value-sharing clauses covering market bonuses and losses, which set out how changes in relevant market prices for the products concerned or other commodity markets are to be allocated between them. [Art. 172a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#art_172a)
 
@@ -5129,17 +5129,7 @@ The reference to associations of recognised producer organisations is also made 
 
 *amended by* `32017R2393`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Section 5a** · applies from: unknown
-
-*amended by* `32017R2393`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -5149,7 +5139,7 @@ The reference to associations of recognised producer organisations is also made 
 
 *within* `AN VII` · *amended by* `32017R2393`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 In Part II, point (1)(c), the exception allowing the total alcoholic strength of protected-designation-of-origin wines produced without enrichment to exceed 15% volume has been extended to also cover such wines enriched only by partial concentration processes listed in point 1 of Section B of Part I of Annex VIII, subject to the product specification in the technical file allowing that possibility. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#anx_VII)
 
@@ -5197,7 +5187,7 @@ Both texts provided are truncated before their end, so no comparison can be made
 
 *within* `AN VIII PO 3` · *amended by* `32017R2393`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 In Part I, Section A, point 3, the mechanism for raising the enrichment limit by 0,5 % in exceptionally unfavourable years has changed from a Member State request followed by a Commission implementing act to a direct increase authorised by the Member State itself as an exception for the regions concerned, with notification to the Commission afterwards. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20170801#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20180101#anx_VIII)
 
