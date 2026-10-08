@@ -5266,9 +5266,9 @@ The date until which the clearing obligation exemption for pension scheme arrang
 ### `02012R0648-20160112` → `02012R0648-20170103`
 
 - **Act** `eu:32012R0648` · **In force** 2017-01-03 · **Detected** 2026-08-13
-- **Touched** 6 provisions — 3 substantive · 0 date-only · 3 with no text · **5 disputed**
-- **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 95 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20160112` · `v2` = `02012R0648-20170103`
 
 ---
@@ -5276,8 +5276,6 @@ The date until which the clearing obligation exemption for pension scheme arrang
 **MODIFIED · Art. 5 — Clearing obligation procedure** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 5 PA 2 ALN 3` · *dates* +2014-05-15 · *amended by* `32014R0600`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new sentence has been added at the end of paragraph 2 stating that, when developing the draft regulatory technical standards under that paragraph, ESMA shall not prejudice the transitional provision relating to C6 energy derivative contracts laid down in Article 95 of Directive 2014/65/EU. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_5)
 
@@ -5309,21 +5307,9 @@ This sentence, along with an accompanying footnote citing Directive 2014/65/EU, 
 > (b) the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies; and
 > (c) the minimum remaining maturity of the OTC derivative contracts referred to in Article 4(1)(b)(ii). […truncated by emendrix: 3835 characters omitted…]
 
-**MODIFIED · Art. 5.2** · applies from: unknown
-
-*amended by* `32014R0600`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 7 — Access to a CCP** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 7 PA 1 ALN 1`, `AR 7 PA 1 ALN 1 PTA (a)`, `AR 7 PA 1 ALN 1 PTA (b)`, `AR 7 PA 6` · *dates* +2014-05-15 · *amended by* `32014R0600`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 1 now adds that non-discriminatory and transparent treatment covers collateral requirements and fees related to access, and it introduces new points (a) and (b) specifying non-discriminatory treatment regarding collateral requirements and netting of economically equivalent contracts, and cross-margining with correlated contracts cleared by the same CCP under a risk model complying with Article 41. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20170103#art_7)
 
@@ -5354,26 +5340,6 @@ The earlier version of Article 7 contained neither this expanded wording in para
 > 2. A CCP shall accede to or refuse a formal request for access by a trading venue within three months of such a request.
 > 3. Where a CCP refuses access under paragraph 2, it shall provide the trading venue with full reasons for such refusal.
 > 4. Save where the competent authority of the trading venue and that of the CCP refuse access, the CCP shall, subject to the second subparagraph, grant access within three months of a decision ac […truncated by emendrix: 1141 characters omitted…]
-
-**MODIFIED · Art. 7.1** · applies from: unknown
-
-*amended by* `32014R0600`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 7.6** · applies from: unknown
-
-*amended by* `32014R0600`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 81 — Transparency and data availability** · applies from: unchanged
 
