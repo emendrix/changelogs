@@ -875,7 +875,7 @@ This point did not appear in the earlier version of that list, which moved direc
 ### `02019R1009-20220716` → `02019R1009-20221003`
 
 - **Act** `eu:32019R1009` · **In force** 2022-10-03 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 54 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1009-20220716` · `v2` = `02019R1009-20221003`
@@ -885,8 +885,6 @@ This point did not appear in the earlier version of that list, which moved direc
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32022R1519`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In the list of organic carbon exclusions under PFC 1(C), point 2, the description of the substances covered was changed from referring to nitrification inhibitors, denitrification inhibitors or urease inhibitors to referring instead to nitrification, denitrification or urease inhibiting compounds. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_I)
 
@@ -984,8 +982,6 @@ Both texts are cut off before the end of PFC 6(B), so any further differences be
 
 *within* `AN II`, `AN II PO 2`, `AN II PO 2 PTA (a)`, `AN II PO 4`, `AN II PO 4 PTA (a)`, `AN II PO 4 PTA (a) PTI (i)`, `AN II PO 4 PTA (a) PTI (ii)`, `AN II PO 4 PTA (b)`, `AN II PO 4 PTA (c)`, `AN II PTA (d) PTI (i)`, `AN II PTI (i)`, `AN II PO 3a`, `AN II PO 3b`, `AN II PO 3c`, `AN II PO 3d`, `AN II PO 6`, `AN II PO 13`, `AN II PO 13 PTA (a)`, `AN II PO 13 PTA (b)` · *amended by* `32022R1519`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The registration requirement in CMC 1 point 2 now excludes polymers, adds a reference to point 10 (only for magnesia) among the Annex V exemptions, and several CMCs (3, 4, 5, 6 and 11) that previously repeated the full REACH registration wording now simply cross-refer to that point 2 requirement in CMC 1. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_II)
 
 CMC 1 point 4 renames the substances as nitrification, denitrification and urease "inhibiting compounds" rather than "inhibitors," adds wording tying the oxidation, nitrous oxide formation and hydrolysis to the nitrogen contained in the EU fertilising product itself, and adds new sentences requiring the inhibiting compound to be present within a concentration range that ensures the stated reduction. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_II)
@@ -1056,8 +1052,6 @@ CMC 4 and CMC 5 add new points 3a, 3b, 3c and 3d covering mechanically separated
 
 *within* `AN III`, `AN III PTA (b)`, `AN III PTA (c)`, `AN III PTA (d)`, `AN III PTI (ii)` · *amended by* `32022R1519`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The PFC 1 rules on inhibitors now refer to 'inhibiting compounds' rather than to 'inhibitors' when describing the nitrification, denitrification and urease content to be expressed, both in the general labelling text and in the corresponding tolerance table. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_III) [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_III)
 
 The PFC 5 (Inhibitor) section is expanded from a single sentence on declaring ingredients into three numbered points, adding a requirement to declare the content of the inhibiting compound(s) and detailed use-instruction requirements about compatible fertiliser types and minimum/maximum recommended mixing concentrations for nitrification, denitrification and urease inhibitors. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_III)
@@ -1101,8 +1095,6 @@ The PFC 7 (Fertilising Product Blend) section adds a new sentence stating that w
 **MODIFIED · Annex IV — ANNEX IV** · applies from: unchanged
 
 *within* `AN IV SCT 1 PTA (a)`, `AN IV SCT 3 PTA (a)` · *amended by* `32022R1519`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In section 1(a), the exclusion for virgin material substances or mixtures is rephrased from listing 'a nitrification inhibitor, a denitrification inhibitor or a urease inhibitor' to referring instead to 'a nitrification, a denitrification or a urease inhibiting compound'. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20220716#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20221003#anx_IV)
 
