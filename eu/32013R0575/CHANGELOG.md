@@ -16583,9 +16583,9 @@ It also states that an internal hedge using an equity derivative only qualifies 
 ### `02013R0575-20220708` → `02013R0575-20230101`
 
 - **Act** `eu:32013R0575` · **In force** 2022-11-14 · **Detected** 2026-08-13
-- **Touched** 11 provisions — 6 substantive · 0 date-only · 5 with no text · **7 disputed**
-- **Diff** 1 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 722 unchanged
-- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
+- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **3 disputed**
+- **Diff** 1 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 722 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20220708` · `v2` = `02013R0575-20230101`
 
 ---
@@ -16724,7 +16724,7 @@ The definitions section adds a new variable w_i and a new variable aLRE_i, and e
 
 *within* `AR 92 PA 1a`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The after text adds a new paragraph 1a requiring a G-SII to maintain a leverage ratio buffer, calculated as the G-SII's total exposure measure multiplied by 50% of its applicable G-SII buffer rate, in addition to the leverage ratio requirement in point (d) of paragraph 1. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_92)
 
@@ -16770,37 +16770,7 @@ The before text contains no equivalent paragraph 1a, moving directly from paragr
 
 *amended by* `32022R2036`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 113** · applies from: unknown
-
-*amended by* `32022R2036`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 151** · applies from: unknown
-
-*amended by* `32022R2036`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 429a** · applies from: unknown
-
-*amended by* `32022R2036`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -16810,7 +16780,7 @@ The before text contains no equivalent paragraph 1a, moving directly from paragr
 
 *amended by* `32022R2036`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new text, setting out a derogation from Article 72e(4) that allows a resolution authority of a parent institution, after considering the opinion of relevant subsidiary resolution authorities, to permit an adjusted calculation of amounts mi using alternative definitions of ri and wi based on risk-based and non-risk-based capital requirements applicable to a third-country subsidiary. [Art. 477a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20230101#art_477a)
 
@@ -16828,16 +16798,6 @@ It also adds a second paragraph specifying conditions under which such permissio
 > 2. The resolution authority may grant the permission referred to in paragraph 1 where the subsidiary is established in a third country that does not yet have in place an applicable local resolution regime if at least one of the following conditions is met:
 > (a) there is no current or foreseen material practical or legal impediment to the prompt transfer of assets from the subsidiary to the parent institution;
 > (b) the relevant third-country authority of the subsidiary has provided an opinion to the resolution authority of the parent institution that assets equal to the amount to be deducted by the sub […truncated by emendrix: 131 characters omitted…]
-
-**MODIFIED · Part 10** · applies from: unknown
-
-*amended by* `32022R2036`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20230101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20220708 -->

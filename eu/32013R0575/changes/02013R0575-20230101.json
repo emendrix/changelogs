@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 1,
-    "modified": 10,
+    "modified": 6,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 11,
+    "touched_units": 7,
     "unchanged_units": 722,
-    "disputed": 7
+    "disputed": 3
   },
   "counts": {
-    "touched": 11,
+    "touched": 7,
     "substantive": 6,
     "date_only": 0,
-    "textless": 5,
-    "disputed": 7,
+    "textless": 1,
+    "disputed": 3,
     "quoted": 0,
-    "unexplained": 5
+    "unexplained": 1
   },
   "changes": [
     {
@@ -88,7 +88,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -194,7 +195,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -341,7 +343,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -445,7 +448,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -560,7 +564,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "6 annotations in (2022-07-08, 2023-01-01]",
+            "detail": "6 annotations in (2022-07-08, 2023-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -569,7 +573,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -687,181 +692,8 @@
             ]
           }
         },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02013R0575-20230101",
-          "location": "AR 113"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32022R2036",
-            "display_name": "Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022 amending Regulation (EU) No 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of-entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "6 annotations in (2022-07-08, 2023-01-01]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (7)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02013R0575-20230101",
-          "location": "AR 151"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32022R2036",
-            "display_name": "Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022 amending Regulation (EU) No 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of-entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "6 annotations in (2022-07-08, 2023-01-01]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (8)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02013R0575-20230101",
-          "location": "AR 429a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32022R2036",
-            "display_name": "Regulation (EU) 2022/2036 of the European Parliament and of the Council of 19 October 2022 amending Regulation (EU) No 575/2013 and Directive 2014/59/EU as regards the prudential treatment of global systemically important institutions with a multiple-point-of-entry resolution strategy and methods for the indirect subscription of instruments eligible for meeting the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "6 annotations in (2022-07-08, 2023-01-01]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (9)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -910,7 +742,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "6 annotations in (2022-07-08, 2023-01-01]",
+            "detail": "6 annotations in (2022-07-08, 2023-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -921,7 +753,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -967,64 +800,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02013R0575-20230101",
-          "location": "PRT 10"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32022R2036",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2022-11-14",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32022R2036 J",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32022R2036, 1.000 of its instruction clauses read, 1 dated outside the window, 10 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -1058,10 +833,9 @@
           "AR 12a",
           "AR 72b",
           "AR 72e",
-          "AR 92a",
-          "PRT 10"
+          "AR 92a"
         ],
-        "note": "6 annotations in (2022-07-08, 2023-01-01]",
+        "note": "6 annotations in (2022-07-08, 2023-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 4 PA 1 PO 130a",
@@ -1112,17 +886,6 @@
             "change_type": "MODIFIED",
             "in_force": "2022-11-14",
             "source": "32022R2036 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32022R2036",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT 10 TIS I CHA 1 SCT 3 SBS 3a",
-            "change_type": "INSERTED",
-            "in_force": "2022-11-14",
-            "source": "32022R2036 J",
             "amending_act": {
               "corpus": "eu",
               "key": "32022R2036",
@@ -1265,11 +1028,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 6,
-        "right_units": 6,
+        "right_units": 5,
         "shared": 4,
         "precision": 0.6666666666666666,
-        "recall": 0.6666666666666666,
-        "f1": 0.6666666666666666,
+        "recall": 0.8,
+        "f1": 0.7272727272727272,
         "kind_mismatches": 0
       },
       {
@@ -1286,12 +1049,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 6,
+        "left_units": 5,
         "right_units": 9,
         "shared": 5,
-        "precision": 0.8333333333333334,
+        "precision": 1.0,
         "recall": 0.5555555555555556,
-        "f1": 0.6666666666666667,
+        "f1": 0.7142857142857143,
         "kind_mismatches": 0
       }
     ],
@@ -1341,63 +1104,6 @@
         ]
       },
       {
-        "unit": "AR 113",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 151",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 429a",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 477a",
         "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
         "observed_by": [
@@ -1421,33 +1127,15 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "PRT 10",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
     "metadata_only_units": [
-      "AR 92a",
+      "AR 92a"
+    ],
+    "instruction_only_units": [
       "AR 113",
       "AR 151",
-      "AR 429a",
-      "PRT 10"
+      "AR 429a"
     ]
   },
   "explain": {
@@ -1510,6 +1198,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 11,
+      "repaired": 6,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
