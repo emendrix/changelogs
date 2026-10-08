@@ -941,9 +941,9 @@ It also directs ESMA to publish the submitted individual credit ratings on a web
 ### `02009R1060-20110721` → `02009R1060-20130620`
 
 - **Act** `eu:32009R1060` · **In force** 2013-06-20 · **Detected** 2026-08-13
-- **Touched** 50 provisions — 33 substantive · 0 date-only · 17 with no text · **46 disputed**
-- **Diff** 13 inserted · 37 modified · 0 deleted · 0 renumbered · 0 deferred · 40 unchanged
-- **Gate** 0 sentences quoted verbatim · 17 changes shipped without an explanation
+- **Touched** 36 provisions — 33 substantive · 0 date-only · 3 with no text · **24 disputed**
+- **Diff** 11 inserted · 25 modified · 0 deleted · 0 renumbered · 0 deferred · 40 unchanged
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20110721` · `v2` = `02009R1060-20130620`
 
 ---
@@ -975,7 +975,7 @@ A new paragraph has been added stating that the Regulation also lays down obliga
 
 *within* `AR 2 PA 1 ALN 1` · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The provision changes the wording describing where credit rating agencies are registered from 'the Community' to 'the Union'. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_2)
 
@@ -1029,8 +1029,6 @@ The provision changes the wording describing where credit rating agencies are re
 
 *within* `AR 3 PA 1 ALN 1 PTA (g)`, `AR 3 PA 1 ALN 1 PTA (m)`, `AR 3 PA 1 ALN 1 PTA (pa)`, `AR 3 PA 1 ALN 1 PTA (pb)`, `AR 3 PA 1 ALN 1 PTA (pc)`, `AR 3 PA 1 ALN 1 PTA (pd)`, `AR 3 PA 1 ALN 1 PTA (pe)`, `AR 3 PA 1 ALN 1 PTA (pf)`, `AR 3 PA 1 ALN 1 PTA (pg)`, `AR 3 PA 1 ALN 1 PTA (ph)`, `AR 3 PA 1 ALN 1 PTA (pi)`, `AR 3 PA 1 ALN 1 PTA (pj)`, `AR 3 PA 1 ALN 1 PTA (q)`, `AR 3 PA 1 ALN 1 PTA (r)`, `AR 3 PA 1 ALN 1 PTA (s)`, `AR 3 PA 1 ALN 1 PTA (t)`, `AR 3 PA 1 ALN 1 PTA (u)`, `AR 3 PA 1 ALN 1 PTA (v)`, `AR 3 PA 1 ALN 1 PTA (w)`, `AR 3 PA 1 ALN 1 PTA (x)`, `AR 3 PA 1 ALN 1 PTA (y)`, `AR 3 PA 1 ALN 1 PTA (z)`, `AR 3 PA 1 ALN 1 PTA (aa)`, `AR 3 PA 3` · *dates* +2005-10-26 +2009-07-13 +2009-11-25 +2011-06-08 +2012-07-04 · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
-
 The definition of regulatory purposes was reworded to refer to compliance with Union law, or with Union law as implemented by national legislation, rather than Community law implemented by national legislation, and the group of credit rating agencies definition now refers to undertakings established in the Union instead of the Community. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
 
 A new set of definitions, points (pa) through (pj), was inserted covering terms such as credit institution, investment firm, insurance undertaking, reinsurance undertaking, institution for occupational retirement provision, management company, investment company, alternative investment fund manager, central counterparty and prospectus, and the definitions of sectoral legislation and sectoral competent authorities were rewritten to reference these new points and additional entity types. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_3)
@@ -1071,31 +1069,9 @@ Further new definitions were added as points (s) through (aa) covering issuer, o
 > (f) rated entity means a legal person whose creditworthiness is explicitly or implicitly rated in the credit rating, whether or not it has solicited that credit rating and whether or not it has provided information for that credit rating;
 > (g) regulatory purposes means the use of credit ratings f […truncated by emendrix: 7844 characters omitted…]
 
-**MODIFIED · Art. 3.1** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 3.3** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 4 — Use of credit ratings** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 4 PA 1 ALN 1`, `AR 4 PA 1 ALN 2`, `AR 4 PA 2 ALN 1`, `AR 4 PA 3 ALN 1`, `AR 4 PA 3 ALN 1 PTA (b)`, `AR 4 PA 4 ALN 1` · *dates* -1973-07-24 -2002-11-05 -2005-11-16 -2009-07-13 -2011-06-08 · *amended by* `32013R0462`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The list of entities covered by paragraph 1 was shortened, replacing the detailed named directives and their dates (covering credit institutions, investment firms, insurance and reinsurance undertakings, UCITS, occupational retirement institutions, and alternative investment funds) with a plain list of entity types including management companies, investment companies, alternative investment fund managers and central counterparties, and the reference to 'Community' was changed to 'Union' throughout. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_4)
 
@@ -1124,26 +1100,6 @@ Paragraph 3(b) now adds exceptions, excluding Articles 6a, 6b, 8a, 8b, 8c and 11
 > Where a prospectus contains a reference to a credit rating or credit ratings, the issuer, offeror, or person asking for admission to trading on a regulated market shall ensure that the prospectus also includes clear and prominent information stating whether or not such credit ratings are issued by a credit rating agency established in the Union and registered under this Regulation.
 > 2. A credit rating agency established in the Union and registered in accordance with this Regulation shall be deemed to have issued a credit rating when the credit rating has been published on the credit rating agency’s website or by other means or distributed by subscription and presented and disclosed in accordance with the obligations of Article 10, clearly identifying that the credit rating is endorsed in accordance with paragraph 3 of this Article.
 > 3. A credit rating agency established in the Union and registered in accordance with this Regulation may endorse a credit rating issued in a third country only when credit rating activities resulting […truncated by emendrix: 3543 characters omitted…]
-
-**MODIFIED · Art. 4.1** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 4.3** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 5 — Equivalence and certification based on equivalence** · applies from: unchanged
 
@@ -1192,31 +1148,11 @@ Paragraph 8 now names Article 23b alongside Articles 20 and 24 as applying to ce
 > 2. The credit rating agency referred to in paragraph 1 may apply for certification. The application shall be submitted to ESMA in accordance with the relevant provisions of Article 15.
 > 3. ESMA shall examine and decide on the application for certification in accordance with the procedure set out in Article 16. The certification decision shall be based on the criteria set out in points (a […truncated by emendrix: 4444 characters omitted…]
 
-**MODIFIED · Art. 5.6** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5.8** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 5a — Over-reliance on credit ratings by financial institutions** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 5a is added, requiring the entities referred to in the first subparagraph of Article 4(1) to make their own credit risk assessments and not rely solely or mechanistically on credit ratings when assessing the creditworthiness of an entity or financial instrument. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5a)
 
@@ -1233,7 +1169,7 @@ It also directs sectoral competent authorities supervising those entities to mon
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added, setting out that EBA, EIOPA and ESMA are not to refer to credit ratings in their guidelines, recommendations and draft technical standards where doing so could trigger sole or mechanistic reliance on credit ratings, and that these authorities are to review and remove such references from existing guidelines and recommendations by 31 December 2013. [Art. 5b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5b)
 
@@ -1253,7 +1189,7 @@ It also states that the European Systemic Risk Board is not to refer to credit r
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new provision states that the Commission is to continue reviewing whether references to credit ratings in Union law cause or risk causing sole or mechanistic reliance on such ratings by competent authorities, sectoral competent authorities, the entities referred to in Article 4(1) first subparagraph, or other financial market participants. [Art. 5c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_5c)
 
@@ -1268,8 +1204,6 @@ It further states that this review is aimed at deleting all references to credit
 **MODIFIED · Art. 6 — Independence and avoidance of conflicts of interest** · applies from: unchanged
 
 *within* `AR 6 PA 1 ALN 1`, `AR 6 PA 3 ALN 1`, `AR 6 PA 4` · *amended by* `32013R0462`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 1 now covers rating outlooks alongside credit ratings, and it adds shareholders to the list of persons whose conflicts of interest must not affect the issuing of a rating or rating outlook. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6)
 
@@ -1305,31 +1239,11 @@ A new paragraph 4 is added requiring credit rating agencies to establish, mainta
 > (a) the credit rating agency has fewer than 50 employees;
 > (b) the credit rating agency has implemented measures and procedures, in particular internal control mechanisms, reporting arrangements and measures ensuring independence of rating analysts and persons approving credit ratings, which ensure the effective compliance with the objectives of t […truncated by emendrix: 1180 characters omitted…]
 
-**MODIFIED · Art. 6.3** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 6.4** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 6a — Conflicts of interest concerning investments in credit rating agencies** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 6a is a wholly new provision setting out prohibitions on shareholders or members holding at least 5% of the capital or voting rights of one credit rating agency from simultaneously holding equivalent stakes, voting rights, board appointment powers, board membership, or control/dominant influence over another credit rating agency. [Art. 6a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6a)
 
@@ -1352,7 +1266,7 @@ The new text also excludes diversified collective investment scheme holdings suc
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article setting a maximum four-year duration for a credit rating agency's contractual relationship for issuing credit ratings on re-securitisations with underlying assets from the same originator, along with rules on exemptions, cooling-off periods, group-level application, monitoring of existing ratings, and a size-based exclusion for smaller agencies. [Art. 6b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_6b)
 
@@ -1372,7 +1286,7 @@ This is a new article setting a maximum four-year duration for a credit rating a
 
 *within* `AR 7 PA 5 ALN 1` · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 5 now refers to compensation and performance evaluation of employees involved in credit rating activities or rating outlooks, in addition to persons approving credit ratings, whereas the earlier text referred only to rating analysts and persons approving the credit ratings. [Art. 7, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_7) [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_7)
 
@@ -1407,7 +1321,7 @@ The provision also adds rating outlooks alongside credit ratings as the subject 
 
 *within* `AR 8 PA 2 ALN 1`, `AR 8 PA 2a`, `AR 8 PA 5 ALN 2`, `AR 8 PA 5a`, `AR 8 PA 6 ALN 1`, `AR 8 PA 6 ALN 1 PTA (aa)`, `AR 8 PA 6 ALN 1 PTA (ab)`, `AR 8 PA 7` · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The revised text extends paragraph 2 to cover rating outlooks alongside credit ratings, requires the use of applicable rating methodologies, and adds a statement that ratings and outlooks are the agency's opinion to be relied upon to a limited degree; it also adds a new paragraph 2a requiring that changes in credit ratings follow the agency's published rating methodologies. [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8)
 
@@ -1444,7 +1358,7 @@ Paragraph 6 now ties methodology changes to Article 14(3) and adds new points (a
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 8a on sovereign ratings has been added, setting out requirements for how sovereign ratings and related statements must be produced and disclosed, including individual country analysis, restrictions on public communications based on undisclosed information, and a requirement to publish an annual calendar of rating dates. [Art. 8a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8a)
 
@@ -1463,7 +1377,7 @@ The provision also sets conditions for deviating from that published calendar, r
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 8b is a newly added provision setting out obligations for issuers, originators and sponsors of structured finance instruments established in the Union to jointly publish, on a website set up by ESMA, information on the credit quality and performance of underlying assets, transaction structure, cash flows and collateral, along with information needed for stress testing. [Art. 8b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8b)
 
@@ -1488,7 +1402,7 @@ The provision further requires ESMA to set up the website referenced in paragrap
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 8c is added, requiring an issuer or related third party that intends to solicit a credit rating of a structured finance instrument to appoint at least two credit rating agencies to provide independent ratings. [Art. 8c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8c)
 
@@ -1511,7 +1425,7 @@ The provision also sets out conditions the appointed agencies must satisfy in re
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 8d is added, setting out that where an issuer or a related third party plans to appoint at least two credit rating agencies for the same issuance or entity, it is to consider appointing at least one agency with no more than 10% of total market share, provided ESMA's list shows such an agency is available, with documentation required if no such agency is appointed. [Art. 8d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_8d)
 
@@ -1528,8 +1442,6 @@ The new article also requires ESMA to annually publish a list of registered cred
 **MODIFIED · Art. 10 — Disclosure and presentation of credit ratings** · applies from: unchanged
 
 *within* `AR 10 PA 1 ALN 1`, `AR 10 PA 1 ALN 2`, `AR 10 PA 2 ALN 1`, `AR 10 PA 2a`, `AR 10 PA 5 ALN 1` · *amended by* `32013R0462`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 1 now covers rating outlooks in addition to credit ratings when requiring non-selective, timely disclosure and full reasons for discontinuation. [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_10)
 
@@ -1569,21 +1481,9 @@ Paragraph 5 adds a requirement to use a clearly distinguishable different colour
 > The list of persons to whom credit ratings, rating outlooks and information relating thereto are communicated before being disclosed shall be limited to persons identified by each rated entity for that purpose.
 > 3. When a credit rating agency issues credit ratings for structured finance instrum […truncated by emendrix: 1168 characters omitted…]
 
-**MODIFIED · Art. 10.5** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 11 — General and periodic disclosures** · applies from: unchanged
 
 *within* `AR 11 PA 2 ALN 1` · *amended by* `32013R0462`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The provision now specifies that the obligation to make historical performance data available in the ESMA central repository applies to a registered or certified credit rating agency, rather than to a credit rating agency generally. [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_11)
 
@@ -1610,21 +1510,9 @@ The second sentence of paragraph 2 correspondingly refers to "such a credit rati
 > 2. A registered or certified credit rating agency shall make available in a central repository established by ESMA information on its historical performance data, including the ratings transition frequency, and information about credit ratings issued in the past and on their changes. Such a credit rating agency shall provide information to that repository on a standard form as provided for by ESMA. ESMA shall make that information accessible to the public and shall publish summary information on the main developments observed on an annual basis.
 > 3. A credit rating agency shall provide annually, by 31 March, to ESMA information relating to matters set out in point 2 of Part II of Section E of Annex I.
 
-**MODIFIED · Art. 11.2** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 14 — Requirement for registration** · applies from: unchanged
 
 *within* `AR 14 PA 1 ALN 1`, `AR 14 PA 3 ALN 1` · *amended by* `32013R0462`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 In paragraph 1, the word describing where a credit rating agency must be established changes from 'Community' to 'Union'. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_14)
 
@@ -1661,21 +1549,9 @@ Paragraph 3 gains an added subparagraph requiring a credit rating agency to noti
 > Without prejudice to the second subparagraph, the credit rating agency shall notify ESMA of the intended material changes to the rating methodologies, models or key rating assumptions or the proposed new rating methodologies, models or key rating assumptions when the credit rating agency publishes the proposed changes or proposed new rating methodologies on its website in accordance with Article 8(5a). After the expiry of the consultation period, the credit rating agency shall notify ESMA of any changes due to the consultation.
 > 4. Without prejudice to Article 16 or 17, ESMA shall register the credit rating agency if it concludes from the examination of the application that the credit rating agency complies with the conditions for the issuing of credit ratings set out in this Regulatio […truncated by emendrix: 154 characters omitted…]
 
-**MODIFIED · Art. 14.3** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 18 — Notification of a decision to register, refuse or withdraw registration, and publication of the list of registered credit rating agencies** · applies from: unchanged
 
 *within* `AR 18 PA 2 ALN 1` · *amended by* `32013R0462`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 In paragraph 2, the earlier text spelled out the full names of the European Banking Authority and the European Insurance and Occupational Pensions Authority together with their establishing regulations and Official Journal references, while the later text simply refers to them by the abbreviations EBA and EIOPA. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_18)
 
@@ -1700,21 +1576,9 @@ In paragraph 2, the earlier text spelled out the full names of the European Bank
 > 2. ESMA shall communicate to the Commission, EBA, EIOPA, the competent authorities and the sectoral competent authorities, any decision under Article 16, 17 or 20.
 > 3. ESMA shall publish on its website a list of credit rating agencies registered in accordance with this Regulation. That list shall be updated within five working days following the adoption of a decision under Article 16, 17 or 20. The Commission shall publish that updated list in the Official Journal of the European Union within 30 days following such update.
 
-**MODIFIED · Art. 18.2** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 19 — Registration and supervisory fees** · applies from: unchanged
 
 *within* `AR 19 PA 1 ALN 1` · *amended by* `32013R0462`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The provision now states that ESMA's fees must fully cover expenditure relating to registration, certification and supervision of credit rating agencies, whereas the earlier text referred only to registration and supervision. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_19)
 
@@ -1740,16 +1604,6 @@ The wording describing the fees ESMA charges was also rephrased from charging fe
 > 2. The Commission shall adopt a regulation on fees. That regulation shall determine in particular the type of fees and the matters for which fees are due, the amount of the fees, the way in which they are to be paid and the way in which ESMA is to reimburse competent authorities in respect of any costs that they may incur carrying out work pursuant to this Regulation, in particular as a result of any delegation of tasks in accordance with Article 30.
 > The amount of a fee charged to a credit rating agency shall cover all administrative costs and be proportionate to the turnover of the credit rating agency concerned.
 > The Commission shall adopt the regulation on fees referred to in the first subparagraph by means of a delegated act in accordance with Article 38a and subject to the conditions of Articles 38b and 38c.
-
-**MODIFIED · Art. 19.1** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 21 — ESMA** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -1801,7 +1655,7 @@ Paragraph 5 removes the 1 January 2012 date for the first annual report and adds
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1811,7 +1665,7 @@ Paragraph 5 removes the 1 January 2012 date for the first annual report and adds
 
 *within* `AR 22a` · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The article heading changed from referring to compliance with the back-testing obligation to referring to compliance with methodology requirements. [Art. 22a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_22a) [Art. 22a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_22a)
 
@@ -1846,7 +1700,7 @@ The body text of paragraphs 1 and 2, including the listed points (a), (b) and (c
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1856,7 +1710,7 @@ The body text of paragraphs 1 and 2, including the listed points (a), (b) and (c
 
 *within* `AR 25a`, `AR 25a ALN 1` · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The heading now lists Articles 5a, 8b, 8c and 8d alongside Article 4(1) as provisions covered by the sectoral competent authorities' supervision and enforcement role, whereas before it named only Article 4(1). [Art. 25a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_25a) [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_25a)
 
@@ -1878,7 +1732,7 @@ The operative sentence was correspondingly expanded so that the sectoral compete
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new text establishing a civil liability regime for credit rating agencies, allowing investors or issuers to claim damages for infringements listed in Annex III that intentionally or with gross negligence had an impact on a credit rating. [Art. 35a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_35a)
 
@@ -1901,7 +1755,7 @@ The provision also states that it does not exclude further civil liability claim
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1911,7 +1765,7 @@ The provision also states that it does not exclude further civil liability claim
 
 *within* `AR 36a PA 2 ALN 1 PTA (a)`, `AR 36a PA 2 ALN 1 PTA (b)`, `AR 36a PA 2 ALN 1 PTA (d)`, `AR 36a PA 2 ALN 1 PTA (e)`, `AR 36a PA 2 ALN 1 PTA (h)` · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Points (a), (b), (d), (e) and (h) of Article 36a(2)(1) now list additional Annex III point numbers alongside the ones previously named, expanding the sets of infringements grouped under each fine bracket. [Art. 36a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_36a) [Art. 36a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_36a)
 
@@ -1989,7 +1843,7 @@ Paragraphs 1 to 3, which existed in the earlier version, remain present with the
 
 *within* `AR 39a`, `AR 39a ALN 1` · *dates* -2011-12-31 +2014-06-21 · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The article's heading changed from describing a report by ESMA to referring to ESMA's staffing and resources. [Art. 39a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#art_39a) [Art. 39a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39a)
 
@@ -2011,7 +1865,7 @@ The deadline by which ESMA must assess its staffing and resources needs and subm
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new article requires the Commission to submit several reports to the European Parliament and the Council: one by 31 December 2015 on steps taken to delete references to credit ratings that trigger sole or mechanistic reliance and on alternative tools for investors' own credit risk assessment, with a view to removing such references from Union law by 1 January 2020, with ESMA providing technical advice. [Art. 39b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#art_39b)
 
@@ -2029,21 +1883,11 @@ It also requires a report by 31 December 2014 on a European creditworthiness ass
 > Taking into consideration the findings of the report referred to in the first subparagraph and the situation of the market, the Commission shall, by 31 December 2016, submit a report to the European Parliament and to the Council, on the appropriateness and feasibility of supporting a European credit rating agency dedicated to assessing the creditworthiness of Member States’ sovereign debt and/or a European credit rating foundation for all other credit ratings.
 > 3. The Commission shall, by 31 December 2013, submit a re […truncated by emendrix: 509 characters omitted…]
 
-**MODIFIED · Title III** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST** · applies from: unchanged
 
 *within* `AN I SCT B SCT 1`, `AN I SCT B SCT 3`, `AN I SCT B SCT 3 PTA (aa)`, `AN I SCT B SCT 3 PTA (ba)`, `AN I SCT B SCT 3 PTA (ca)`, `AN I SCT B SCT 3a`, `AN I SCT B SCT 3b`, `AN I SCT B SCT 3c`, `AN I SCT B SCT 4`, `AN I SCT B SCT 7 PTA (a)`, `AN I SCT B SCT 7 PTA (d)`, `AN I SCT B SCT 7 PTA (e)`, `AN I SCT C SCT 2`, `AN I SCT C SCT 3 PTA (b)`, `AN I SCT C SCT 7`, `AN I SCT C SCT 8`, `AN I SCT C SCT 8 PTA (a)`, `AN I SCT C SCT 8 PTA (b)`, `AN I SCT C SCT 8 PTA (b) PTI (i)`, `AN I SCT C SCT 8 PTA (b) PTI (ii)`, `AN I SCT C SCT 8 PTA (c)`, `AN I SCT D`, `AN I SCT D SCT 1`, `AN I SCT D SCT 2`, `AN I SCT D SCT 2 PTA (a)`, `AN I SCT D SCT 2 PTA (d)`, `AN I SCT D SCT 2 PTA (e)`, `AN I SCT D SCT 2 PTA (f)`, `AN I SCT D SCT 2a`, `AN I SCT D SCT 3`, `AN I SCT D SCT 4`, `AN I SCT D SCT 5`, `AN I SCT D SCT 6`, `AN I SCT D PO 1`, `AN I SCT D PO 2`, `AN I SCT D PO 3`, `AN I SCT D PO 4`, `AN I SCT E`, `AN I SCT E SCT 3`, `AN I SCT E PTA (a)`, `AN I SCT E PTA (aa)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 Section B and Section C now extend most of the independence and record-keeping obligations that previously applied only to credit ratings so that they also cover rating outlooks, and add new conflict-of-interest triggers based on shareholders or members holding 5% or 10% or more of a credit rating agency's capital or voting rights, or otherwise able to exercise significant influence over it, including new obligations on fee non-discrimination and on indirect shareholders and controlling companies. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_I)
 
@@ -2093,7 +1937,7 @@ The prior single provision in Section D governing analyst rotation periods for l
 
 *within* `AN II SCT 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 In item 1, the reference to the registered office location changes from 'within the Community' to 'within the Union'. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110721#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_II)
 
@@ -2166,7 +2010,7 @@ The remaining items in the list of information to be provided are unchanged in s
 
 *within* `AN III`, `AN III PO 19`, `AN III PO 20`, `AN III PO 20a`, `AN III PO 21`, `AN III PO 22`, `AN III PO 22a`, `AN III PO 26a`, `AN III PO 26b`, `AN III PO 33`, `AN III PO 36`, `AN III PO 38`, `AN III PO 39`, `AN III PO 40`, `AN III PO 42`, `AN III PO 42a`, `AN III PO 42b`, `AN III PO 46`, `AN III PO 46a`, `AN III PO 49a`, `AN III PO 55`, `AN III PO 56`, `AN III PO 57`, `AN III PO 58`, `AN III PO 59`, `AN III PO 60`, `AN III PO 61`, `AN III PO 62`, `AN III PO 3a`, `AN III PO 3b`, `AN III PO 3c`, `AN III PO 4a`, `AN III PO 4b`, `AN III PO 4c` · *amended by* `32013R0462`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex III adds numerous new infringement entries covering matters such as re-securitisation contract durations, shareholder or member breaches of ownership restrictions, use of information outside Article 8(2), non-compliant rating methodology changes, sovereign rating monitoring and calendar publication, research report obligations, notification of methodology errors, and disclosure of new or changed rating methodologies, among others. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20130620#anx_III)
 
