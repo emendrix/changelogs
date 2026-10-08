@@ -4172,7 +4172,7 @@ The notes relating to classification and labelling of mixtures also gain a new N
 ### `02008R1272-20201114` → `02008R1272-20210510`
 
 - **Act** `eu:32008R1272` · **In force** 2021-05-10 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20201114` · `v2` = `02008R1272-20210510`
@@ -4182,8 +4182,6 @@ The notes relating to classification and labelling of mixtures also gain a new N
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2` · *dates* +2008-05-30 · *amended by* `32021R0643`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The wording of Notes J, K, L, M, N, P, Q and R in section 1.1.3.1 was rephrased from describing classification exemptions that 'need not apply' below stated thresholds to describing the harmonised classification as applying unless the substance is shown to fall below the stated threshold, with classification under Title II to be performed for those hazard classes in that case. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20210510#anx_VI)
 
