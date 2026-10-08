@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32023R1114` → `02023R1114-20240109`
 
 - **Act** `eu:32023R1114` · **In force** 2024-01-09 · **Detected** 2026-08-12
-- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **5 disputed**
+- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **4 disputed**
 - **Diff** 1 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 151 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32023R1114` · `v2` = `02023R1114-20240109`
@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 45 PA 4 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only change is a cross-reference in paragraph 4, where the reference to Article 36 has been updated from Article 36(6) to Article 36(4). [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1114#art_45) [Art. 45, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1114-20240109#art_45)
 
@@ -52,7 +52,7 @@ The only change is a cross-reference in paragraph 4, where the reference to Arti
 
 *within* `AR 81 PA 15 ALN 1 PTA (a)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In point (a) of paragraph 15, the internal cross-reference for the criteria on assessing knowledge and competence was changed from paragraph 2 to paragraph 7, and the subject of the assessment was described as knowledge and competence rather than client's knowledge and competence. [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1114#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1114-20240109#art_81)
 
@@ -82,7 +82,7 @@ In point (a) of paragraph 15, the internal cross-reference for the criteria on a
 
 *within* `AR 92 PA 2 ALN 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The AFTER text adds a new sentence at the end of paragraph 2 stating that power is delegated to the Commission to supplement the Regulation by adopting the regulatory technical standards referred to in the first subparagraph of that paragraph, in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010. [Art. 92, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1114-20240109#art_92)
 
@@ -116,8 +116,6 @@ Paragraph 3 remains textually identical between the two versions. [Art. 92, v1](
 
 *amended by* `32023R2869`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 This is a newly inserted article setting out requirements for making information accessible through the European single access point (ESAP), covering submission by issuers, offerors and persons seeking admission to trading, designation of collection bodies by Member States, ESMA's role as collection body for certain information, and the development of implementing technical standards and guidelines. [Art. 110a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1114-20240109#art_110a)
 
 The text specifies that certain obligations, such as submitting information to a collection body and making information under Articles 109 and 110 accessible on ESAP, apply from 10 January 2030, while Member States are to designate a collection body and notify ESMA by 9 January 2030. [Art. 110a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1114-20240109#art_110a)
@@ -137,7 +135,7 @@ The text specifies that certain obligations, such as submitting information to a
 
 *within* `AR 111 PA 1 ALN 3` · *dates* +2025-06-30
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only change is in Article 111(1), third subparagraph, where the notification deadline for Member States to inform the Commission, EBA and ESMA of the rules referred to in the first and second subparagraphs was moved from 30 June 2024 to 30 June 2025. [Art. 111, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1114#art_111) [Art. 111, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1114-20240109#art_111)
 
