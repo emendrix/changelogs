@@ -210,7 +210,7 @@ Entry 28 was renamed from Diethylamino Hydroxy benzoyl Hexyl Benzoate to Diethyl
 ### `02009R1223-20250901` → `02009R1223-20260501`
 
 - **Act** `eu:32009R1223` · **In force** 2026-05-01 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20250901` · `v2` = `02009R1223-20260501`
@@ -220,8 +220,6 @@ Entry 28 was renamed from Diethylamino Hydroxy benzoyl Hexyl Benzoate to Diethyl
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32026R0078`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -243,8 +241,6 @@ Entry 28 was renamed from Diethylamino Hydroxy benzoyl Hexyl Benzoate to Diethyl
 
 *within* `AN III` · *amended by* `32026R0078`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20250901`)
@@ -262,8 +258,6 @@ Entry 28 was renamed from Diethylamino Hydroxy benzoyl Hexyl Benzoate to Diethyl
 **MODIFIED · Annex IV — LIST OF COLORANTS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN IV` · *amended by* `32026R0078`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Entry 142 for Silver was changed from a general listing with no product type or maximum concentration restriction to one that specifies the substance as a powder with a particle diameter range between 100 nm and 1 mm, adds a CAS number, and limits use to lip products and eye shadow at a maximum concentration of 0,2 % for each. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20250901#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_IV)
 
@@ -296,8 +290,6 @@ Entry 142 for Silver was changed from a general listing with no product type or 
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32026R0078`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Entry 7 now covers Biphenyl-2-ol (o-Phenylphenol) together with a second substance, Sodium 2-biphenylate (Sodium o-Phenylphenate), adding its CAS and EC numbers alongside the original ones. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_V)
 
