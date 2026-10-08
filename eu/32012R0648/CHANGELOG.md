@@ -5855,18 +5855,16 @@ Point (j), which previously ended the list with the Agency for the Cooperation o
 ### `32012R0648` → `02012R0648-20140101`
 
 - **Act** `eu:32012R0648` · **In force** 2013-11-08, 2014-01-01 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 6 substantive · 0 date-only · 3 with no text · **8 disputed**
-- **Diff** 4 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 91 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **5 disputed**
+- **Diff** 4 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 91 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32012R0648` · `v2` = `02012R0648-20140101`
 
 ---
 
 **MODIFIED · Art. 1 — Subject matter and scope** · applies from: unchanged
 
-*within* `AR 1 PA 4 ALN 1 PTA (b)`, `AR 1 PA 4 ALN 1 PTA (c)`
-
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+*within* `AR 1 PA 4 ALN 1 PTA (b)`, `AR 1 PA 4 ALN 1 PTA (c)` · *amended by* `32013R1002`
 
 The list of entities to which the Regulation does not apply in Article 1(4) now includes a new point (c) naming the central banks and public bodies charged with or intervening in the management of the public debt of Japan and the United States of America, whereas the earlier version's list ended with the Bank for International Settlements. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0648#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_1)
 
@@ -5917,21 +5915,11 @@ The list of entities to which the Regulation does not apply in Article 1(4) now 
 >
 > (b) public sector entities within the meaning of point (18) of Article 4 of Di […truncated by emendrix: 1335 characters omitted…]
 
-**MODIFIED · Art. 1.4** · applies from: unknown
-
-*amended by* `32013R1002`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 11.5** · applies from: unknown
+**MODIFIED · Art. 11** · applies from: unknown
 
 *amended by* `32013R0575`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -5939,7 +5927,7 @@ The list of entities to which the Regulation does not apply in Article 1(4) now 
 
 **INSERTED · Art. 50a — Calculation of K CCP** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new, adding Article 50a which sets out how a CCP must calculate the hypothetical capital figure KCCP, including the formula and its components, for purposes of Article 308 of Regulation (EU) No 575/2013. [Art. 50a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50a)
 
@@ -5975,7 +5963,7 @@ It also specifies that the calculation must be performed at least quarterly or m
 
 **INSERTED · Art. 50b — General rules for the calculation of K CCP** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 50b is entirely new text, setting out general rules a CCP follows to calculate the values used in the KCCP calculation under Article 50a(2), covering how exposures to clearing members and other CCPs are valued, how collateral and initial margin are treated, how the mark-to-market potential future exposure formula and its NGR component are applied, what happens if NGR cannot be calculated, and how options, swaptions and multiple default funds are handled. [Art. 50b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50b)
 
@@ -5999,7 +5987,7 @@ Article 50b is entirely new text, setting out general rules a CCP follows to cal
 
 **INSERTED · Art. 50c — Reporting of information** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new Article 50c that sets out reporting obligations for a CCP toward clearing members that are institutions and their competent authorities, listing specific items such as hypothetical capital, pre-funded contributions, the amount of pre-funded resources required to be used before other clearing members' default fund contributions, the total number of clearing members, and the concentration factor. [Art. 50c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50c)
 
@@ -6035,7 +6023,7 @@ It also specifies a minimum quarterly notification frequency, with more frequent
 
 **INSERTED · Art. 50d — Calculation of specific items to be reported by the CCP** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 50d is entirely new text, setting out rules for calculating specific items a CCP must report under Article 50c, covering how a CCP treats financial resources used in parallel to or after depletion of clearing members' pre-funded contributions, and how it must calculate a concentration factor using potential future credit exposure figures for its clearing members. [Art. 50d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20140101#art_50d)
 
@@ -6086,15 +6074,5 @@ This paragraph 5a did not appear in the earlier version of Article 89. [Art. 89,
 > The OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.
 > 2.
 > In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of e […truncated by emendrix: 7291 characters omitted…]
-
-**MODIFIED · Title IV** · applies from: unknown
-
-*amended by* `32013R0575`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0648-20140101 -->
 

@@ -16,22 +16,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 4,
-    "modified": 5,
+    "modified": 3,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 9,
+    "touched_units": 7,
     "unchanged_units": 91,
-    "disputed": 8
+    "disputed": 5
   },
   "counts": {
-    "touched": 9,
+    "touched": 7,
     "substantive": 6,
     "date_only": 0,
-    "textless": 3,
-    "disputed": 8,
+    "textless": 1,
+    "disputed": 5,
     "quoted": 0,
-    "unexplained": 3
+    "unexplained": 1
   },
   "changes": [
     {
@@ -54,10 +54,16 @@
           "AR 1 PA 4 ALN 1 PTA (b)",
           "AR 1 PA 4 ALN 1 PTA (c)"
         ],
-        "amending_acts": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32013R1002",
+            "display_name": null
+          }
+        ],
         "dates_removed": [],
         "dates_added": [],
-        "in_force": null,
+        "in_force": "2013-11-08",
         "applies_from": {
           "kind": "unchanged"
         },
@@ -70,9 +76,11 @@
             ]
           },
           "corpus_metadata": {
-            "status": "absent",
-            "detail": "4 annotations in (the act itself, 2014-01-01]",
-            "change_types": []
+            "status": "observed",
+            "detail": "32013R1002 J",
+            "change_types": [
+              "MODIFIED"
+            ]
           },
           "instruction_parse": {
             "status": "unavailable",
@@ -80,7 +88,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -131,65 +140,7 @@
             "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
           },
           "version": "02012R0648-20140101",
-          "location": "AR 1.4"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R1002",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2013-11-08",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32013R1002 J",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0648",
-            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
-          },
-          "version": "02012R0648-20140101",
-          "location": "AR 11.5"
+          "location": "AR 11"
         },
         "heading": null,
         "before": null,
@@ -227,7 +178,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -270,7 +222,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "detail": "4 annotations in (the act itself, 2014-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -279,7 +231,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -361,7 +314,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "detail": "4 annotations in (the act itself, 2014-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -370,7 +323,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -433,7 +387,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "detail": "4 annotations in (the act itself, 2014-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -442,7 +396,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -524,7 +479,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "4 annotations in (the act itself, 2014-01-01]",
+            "detail": "4 annotations in (the act itself, 2014-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -533,7 +488,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -614,7 +570,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -679,64 +636,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0648",
-            "display_name": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories  Text with EEA relevance"
-          },
-          "version": "02012R0648-20140101",
-          "location": "TIT IV"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32013R0575 J",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32013R0575, 32013R1002",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -766,12 +665,11 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AR 1.4",
-          "AR 11.5",
-          "AR 89",
-          "TIT IV"
+          "AR 1",
+          "AR 11",
+          "AR 89"
         ],
-        "note": "4 annotations in (the act itself, 2014-01-01]",
+        "note": "4 annotations in (the act itself, 2014-01-01]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 89 .5BI",
@@ -785,7 +683,7 @@
             }
           },
           {
-            "location": "AR 11.5 PO B)",
+            "location": "AR 11 PO B)",
             "change_type": null,
             "in_force": "2014-01-01",
             "source": "32013R0575 SU",
@@ -796,18 +694,7 @@
             }
           },
           {
-            "location": "TIT IV CHA 4",
-            "change_type": "INSERTED",
-            "in_force": "2014-01-01",
-            "source": "32013R0575 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32013R0575",
-              "display_name": null
-            }
-          },
-          {
-            "location": "AR 1.4 PO C)",
+            "location": "AR 1 PO C)",
             "change_type": "INSERTED",
             "in_force": "2013-11-08",
             "source": "32013R1002 J",
@@ -832,53 +719,17 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 6,
-        "right_units": 4,
-        "shared": 1,
-        "precision": 0.16666666666666666,
-        "recall": 0.25,
-        "f1": 0.2,
+        "right_units": 3,
+        "shared": 2,
+        "precision": 0.3333333333333333,
+        "recall": 0.6666666666666666,
+        "f1": 0.4444444444444444,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
       {
-        "unit": "AR 1",
-        "reason": "seen by structural_diff, not by corpus_metadata",
-        "observed_by": [
-          "structural_diff"
-        ],
-        "absent_from": [
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 1.4",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 11.5",
+        "unit": "AR 11",
         "reason": "seen by corpus_metadata, not by structural_diff",
         "observed_by": [
           "corpus_metadata"
@@ -959,31 +810,12 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "TIT IV",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
     "metadata_only_units": [
-      "AR 1.4",
-      "AR 11.5",
-      "TIT IV"
-    ]
+      "AR 11"
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1031,6 +863,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 9,
+      "repaired": 9,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
