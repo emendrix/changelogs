@@ -582,7 +582,7 @@ Entry 25 (Triclosan) was restructured from separate (a) and (b) product categori
 ### `02009R1223-20231201` → `02009R1223-20240404`
 
 - **Act** `eu:32009R1223` · **In force** 2024-04-04 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20231201` · `v2` = `02009R1223-20240404`
@@ -592,8 +592,6 @@ Entry 25 (Triclosan) was restructured from separate (a) and (b) product categori
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II` · *dates* +2025-02-01 +2025-11-01 · *amended by* `32024R0858`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text adds a new transitional sentence stating that from 1 February 2025 cosmetic products containing that substance shall not be placed on the Union market, and from 1 November 2025 such products shall not be made available on the Union market. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20240404#anx_II)
 
@@ -636,8 +634,6 @@ The text shown is truncated before the end of the substance list in both version
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2025-02-01 +2025-11-01 · *amended by* `32024R0858`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text adds a new footnote sentence stating that from 1 February 2025 cosmetic products containing that substance and not complying with the restrictions shall not be placed on the Union market, and that from 1 November 2025 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20240404#anx_III)
 
