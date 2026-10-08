@@ -4393,9 +4393,9 @@ The appendices listed as differing (1 through 10, excluding 7) also change along
 ### `02006R1907-20090120` → `02006R1907-20090220`
 
 - **Act** `eu:32006R1907` · **In force** 2009-02-20 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 3 substantive · 0 date-only · 1 with no text · **4 disputed**
-- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 155 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 155 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20090120` · `v2` = `02006R1907-20090220`
 
 ---
@@ -4404,7 +4404,7 @@ The appendices listed as differing (1 through 10, excluding 7) also change along
 
 *within* `AR 3 ALN 1 PO 20 PTA (c)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In point 20(c), the earlier text tied placing on the market to a specific window between 18 September 1981 and 31 October 1993, whereas the later text instead ties placing on the market simply to before the entry into force of the Regulation, and moves the 18 September 1981 to 31 October 1993 date range into a new requirement for documentary evidence including proof that the substance was placed on the market by any manufacturer or importer within that window. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#art_3)
 
@@ -4448,9 +4448,7 @@ In point 20(c), the earlier text tied placing on the market to a specific window
 
 **MODIFIED · Annex XI — GENERAL RULES FOR ADAPTATION OF THE STANDARD TESTING REGIME SET OUT IN ANNEXES VII TO X** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
-*within* `AN XI SCT 3`, `AN XI SCT 3 SCT 3.1`, `AN XI SCT 3 SCT 3.2`, `AN XI SCT 3 SCT 3.3` · *dates* -2008-12-01
-
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+*within* `AN XI SCT 3`, `AN XI SCT 3 SCT 3.1`, `AN XI SCT 3 SCT 3.2`, `AN XI SCT 3 SCT 3.3` · *dates* -2008-12-01 · *amended by* `32009R0134`
 
 Section 3.1 now applies to omission of testing under Section 8.6 and 8.7 of Annex VIII together with Annex IX and Annex X, rather than describing it as testing under those sections "of Annex VIII, Annex IX and Annex X" as a single grouped phrase. [Annex XI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XI) [Annex XI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XI)
 
@@ -4509,21 +4507,11 @@ Section 3.3, which previously directed the Commission to adopt criteria defining
 > (3) the data are valid for the endpoint being investigated and the study is performed using an acceptable level of quality assurance.
 > 1.1.2. Data on human health and environmental properties from experiments not carr […truncated by emendrix: 10430 characters omitted…]
 
-**MODIFIED · Annex 11** · applies from: unknown
-
-*amended by* `32009R0134`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
 
 *within* `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Both the before and after texts of Annex XVII are cut off before reaching the appendices, so the visible portions of the main table read identically apart from minor spacing and line-break differences. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
 
