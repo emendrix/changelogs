@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32019R1238` → `02019R1238-20240109`
 
 - **Act** `eu:32019R1238` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 74 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32019R1238` · `v2` = `02019R1238-20240109`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **INSERTED · Art. 70a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32023R2869`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 This is a new article requiring PEPP providers to submit certain information to a designated collection body so that it can be made accessible on the European single access point, together with rules on data format, accompanying metadata, and related obligations for Member States, EIOPA, and the Commission. [Art. 70a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1238-20240109#art_70a)
 
