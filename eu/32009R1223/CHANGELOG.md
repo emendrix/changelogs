@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02009R1223-20260501` → `02009R1223-20260518`
 
 - **Act** `eu:32009R1223` · **In force** 2026-05-18 · **Detected** 2026-09-11
-- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20260501` · `v2` = `02009R1223-20260518`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II` · *dates* +2027-01-01 +2028-07-01 · *amended by* `32026R0909`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new introductory sentence has been added stating that from 1 January 2027 cosmetic products containing Triphenyl Phosphate and not complying with the restrictions shall not be placed on the Union market, and that from 1 July 2028 such products shall not be made available on the Union market. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_II)
 
@@ -69,8 +67,6 @@ The text provided is truncated before the end of the numbered substance table in
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2027-01-01 +2028-07-01 +2028-08-01 · *amended by* `32026R0909`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text adds two new footnote-style sentences setting out placement and availability deadlines of 1 January 2027 and, respectively, 1 July 2028 and 1 August 2028 for cosmetic products containing certain substances that do not comply with restrictions. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_III)
 
@@ -122,8 +118,6 @@ Because the provided texts are truncated before the end of the annex, no further
 
 *within* `AN V` · *amended by* `32026R0909`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The AFTER text adds a new entry, numbered 61, for Silver zinc zeolite (Ammonium Silver Zinc Aluminium Silicate), listing its CAS and EC numbers, restricting it to deodorant spray and powder foundation product types at a maximum concentration of 1%, with an added condition that the silver content in the substance must not exceed 2,5% for those two product types. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_V)
 
 This entry is absent from the BEFORE text, which ends at entry 60. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260501#anx_V)
@@ -167,8 +161,6 @@ This entry is absent from the BEFORE text, which ends at entry 60. [Annex V, v1]
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN VI` · *dates* +2027-01-01 +2028-07-01 · *amended by* `32026R0909`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new paragraph was added stating that from 1 January 2027 cosmetic products containing Benzoic acid, 2-[4-(diethylamino)-2-hydroxybenzoyl]-, hexyl ester and not complying with the conditions shall not be placed on the Union market, and that from 1 July 2028 such non-complying products shall not be made available on the Union market. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20260518#anx_VI)
 
