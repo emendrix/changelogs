@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02017R0852-20240730` → `02017R0852-20260320`
 
 - **Act** `eu:32017R0852` · **In force** 2026-03-20 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0852-20240730` · `v2` = `02017R0852-20260320`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Annex II — ANNEX II** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32026R0055`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new entry 2a is added to Part A, covering very high accuracy capacitance and loss measurement bridges and high frequency radio frequency switches and relays in monitoring and control instruments with a maximum mercury content of 20 mg per bridge, switch or relay, excluding those used for research and development purposes, with a prohibition date of 31.12.2025. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20260320#anx_II)
 
