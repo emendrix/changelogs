@@ -2890,7 +2890,7 @@ A new condition was added to entry 4 limiting use to not more than 0,5 % when th
 ### `02009R1223-20170303` → `02009R1223-20170727`
 
 - **Act** `eu:32009R1223` · **In force** 2017-07-27 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20170303` · `v2` = `02009R1223-20170727`
@@ -2900,8 +2900,6 @@ A new condition was added to entry 4 limiting use to not more than 0,5 % when th
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32017R1224`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In entry 57, the maximum concentration allowed for Methylisothiazolinone in rinse-off products was changed from 0,01 % to 0,0015 %. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_V)
 
