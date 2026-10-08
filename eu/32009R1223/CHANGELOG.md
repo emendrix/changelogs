@@ -4229,7 +4229,7 @@ Entry 25 for Triclosan now sets out separate maximum concentrations and specific
 ### `02009R1223-20130901` → `02009R1223-20140401`
 
 - **Act** `eu:32009R1223` · **In force** 2014-04-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20130901` · `v2` = `02009R1223-20140401`
@@ -4240,7 +4240,7 @@ Entry 25 for Triclosan now sets out separate maximum concentrations and specific
 
 *within* `AN II`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Within the visible portion of the text, the only detectable difference is the removal of a stray closing parenthesis after the entry for substance 433, Pseudoionone, which appears with the extra bracket in the earlier version and without it in the later version. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II)
 
@@ -4443,8 +4443,6 @@ Both texts are truncated at the same later point, so no comparison can be made b
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32013R0483`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new entry 8b has been added for p-Phenylenediamine and its salts, restricting their use in products intended for colouring eyelashes with a maximum concentration of 2% calculated as free base after mixing and limiting such use to professional application. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III)
 
