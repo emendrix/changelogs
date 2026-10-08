@@ -3341,7 +3341,7 @@ The revised text also states that two-generation reproductive toxicity studies i
 ### `02006R1907-20140410` → `02006R1907-20140822`
 
 - **Act** `eu:32006R1907` · **In force** 2014-08-22 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20140410` · `v2` = `02006R1907-20140822`
@@ -3351,8 +3351,6 @@ The revised text also states that two-generation reproductive toxicity studies i
 **MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XIV` · *dates* +2016-02-22 +2016-05-22 +2017-07-22 +2017-08-22 +2017-11-22 +2019-01-22 · *amended by* `32014R0895`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The later text adds nine new entries (numbers 23 through 31) covering substances including technical MDA, arsenic acid, bis(2-methoxyethyl) ether, 1,2-dichloroethane, MOCA, dichromium tris(chromate), strontium chromate, potassium hydroxyoctaoxodizincatedichromate and pentazinc chromate octahydroxide, each with its own intrinsic property, latest application date and sunset date. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
 
@@ -3470,7 +3468,7 @@ The entry for Hexabromocyclododecane (HBCDD) has its latest application date and
 
 *within* `AN XVII APP 2`, `AN XVII APP 6`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
