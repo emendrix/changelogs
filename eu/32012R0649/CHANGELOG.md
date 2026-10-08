@@ -1095,7 +1095,7 @@ Part 2, covering mercury-related chemicals and articles, remains unchanged betwe
 ### `02012R0649-20141201` → `02012R0649-20160201`
 
 - **Act** `eu:32012R0649` · **In force** 2015-12-23 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20141201` · `v2` = `02012R0649-20160201`
@@ -1105,8 +1105,6 @@ Part 2, covering mercury-related chemicals and articles, remains unchanged betwe
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32015R2229`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The Part 1 list of chemicals subject to export notification now includes additional entries such as 1,1-Dichloroethene, 1,1,2-Trichloroethane, 1,1,1,2-Tetrachloroethane, 1,1,2,2-Tetrachloroethane, Dibutyltin compounds, Dioctyltin compounds, Fenbutatin oxide, Lead compounds, Pentachloroethane, and Trichlorobenzene, none of which appeared in the earlier version. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20160201#anx_I)
 
