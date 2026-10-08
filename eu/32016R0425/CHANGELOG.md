@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32016R0425` → `02016R0425-20260529`
 
 - **Act** `eu:32016R0425` · **In force** 2026-05-29 · **Detected** 2026-09-04
-- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **6 disputed**
-- **Diff** 6 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **5 disputed**
+- **Diff** 5 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R0425` · `v2` = `02016R0425-20260529`
 
 ---
@@ -66,7 +66,7 @@ The definition of CE marking itself is unchanged apart from the punctuation need
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new provision sets out conditions under which Articles 41b to 41e apply, tying their application to a Commission implementing act adopted under Article 28 of Regulation (EU) 2024/2747, to PPE designated as crisis-relevant goods under Article 18(4) of that Regulation, and to the activation of the internal market emergency mode under Article 18 of that Regulation. [Art. 41a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41a)
 
@@ -86,7 +86,7 @@ It also states that Article 41c(7) continues to apply during the emergency mode 
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out rules for prioritising conformity assessment of PPE designated as crisis-relevant goods, covering PPE listed in the implementing act referred to in Article 41a(1) that requires mandatory notified body involvement, priority handling of applications by notified bodies regardless of lodging date, a limit on disproportionate additional costs to manufacturers from such prioritisation, and an expectation of reasonable efforts by notified bodies to expand testing capacity. [Art. 41b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41b)
 
@@ -103,7 +103,7 @@ This is a newly inserted article setting out rules for prioritising conformity a
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is an entirely new article setting out a national derogation procedure allowing a Member State, on an economic operator's duly justified request, to authorise the placing on the market of specific PPE listed in an implementing act even though the mandatory notified-body conformity assessment procedures under Article 19 have not been carried out, provided compliance with the essential health and safety requirements of Annex II is otherwise demonstrated. [Art. 41c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41c)
 
@@ -120,7 +120,7 @@ The new text also sets out the process for notifying the Commission and other Me
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new, adding Article 41d, which allows the Commission to adopt implementing acts listing standards or establishing common specifications for PPE designated as crisis-relevant goods, applicable when harmonised standards are missing or when internal market emergency mode disruptions limit manufacturers' use of existing harmonised standards. [Art. 41d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41d)
 
@@ -139,7 +139,7 @@ The new article sets out procedures for adopting and consulting on such implemen
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new, introducing a requirement for Member States to prioritise market surveillance activities for PPE listed in the implementing act referenced in Article 41a(1), with the Commission facilitating coordination through the Union Product Compliance Network. [Art. 41e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0425-20260529#art_41e)
 
@@ -151,15 +151,5 @@ It also adds a duty on market surveillance authorities to make best efforts to a
 > Prioritisation of market surveillance activities and mutual assistance among authorities
 > 1. Member States shall prioritise the market surveillance activities for PPE listed in the implementing act referred to in Article 41a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.
 > 2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for PPE listed in the implementing act referred to in Article 41a(1).
-
-**INSERTED · CHA VIa** · applies from: unknown
-
-*amended by* `32024R2748`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R0425-20260529 -->
 
