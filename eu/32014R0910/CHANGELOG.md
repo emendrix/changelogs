@@ -102,9 +102,9 @@ No other wording in these paragraphs, or in paragraphs 1 and 4, differs between 
 ### `32014R0910` → `02014R0910-20240520`
 
 - **Act** `eu:32014R0910` · **In force** 2024-05-20 · **Detected** 2026-08-12
-- **Touched** 86 provisions — 71 substantive · 0 date-only · 15 with no text · **52 disputed**
-- **Diff** 38 inserted · 46 modified · 2 deleted · 0 renumbered · 0 deferred · 21 unchanged
-- **Gate** 0 sentences quoted verbatim · 15 changes shipped without an explanation
+- **Touched** 79 provisions — 71 substantive · 0 date-only · 8 with no text · **45 disputed**
+- **Diff** 36 inserted · 41 modified · 2 deleted · 0 renumbered · 0 deferred · 21 unchanged
+- **Gate** 0 sentences quoted verbatim · 8 changes shipped without an explanation
 - **Citations** `v1` = `32014R0910` · `v2` = `02014R0910-20240520`
 
 ---
@@ -226,7 +226,7 @@ The remaining text, formerly paragraph 2, now adds an exception for specific rul
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This entry adds a new Article 5a on European Digital Identity Wallets, which did not previously exist in the legislation. [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a)
 
@@ -251,7 +251,7 @@ It further requires the Commission to adopt implementing acts by 21 November 202
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is new, establishing registration, disclosure, and identification requirements for relying parties that intend to use European Digital Identity Wallets. [Art. 5b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5b)
 
@@ -277,7 +277,7 @@ It sets out obligations covering registration in the Member State of establishme
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out a certification framework for European Digital Identity Wallets, covering conformity assessment by designated bodies, cybersecurity certification schemes, national certification schemes, certification validity and renewal, personal data processing certification, Commission implementing acts, communication of assessment body details, and delegated acts on assessment criteria. [Art. 5c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5c)
 
@@ -296,7 +296,7 @@ The text specifies that the Commission's implementing acts establishing referenc
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 5d is a newly inserted provision setting out obligations for Member States to inform the Commission and the Cooperation Group about certified European Digital Identity Wallets, including cancellations, and specifying the categories of information to be provided. [Art. 5d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5d)
 
@@ -321,7 +321,7 @@ It further describes the Commission's role in establishing, publishing and maint
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 5e is a newly inserted provision setting out obligations for Member States when European Digital Identity Wallets, their validation mechanisms, or the underlying electronic identification scheme are breached or partly compromised, including suspension, withdrawal, notification, re-establishment and revocation of validity. [Art. 5e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5e)
 
@@ -341,7 +341,7 @@ It also directs the Commission to publish corresponding amendments to the list r
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 5f is a newly added provision setting out obligations for public sector bodies, certain private relying parties, and providers of very large online platforms to accept European Digital Identity Wallets for authentication purposes, along with related Commission tasks on codes of conduct and assessment of wallet demand and usability. [Art. 5f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5f)
 
@@ -355,16 +355,6 @@ The provision states that private relying parties covered by its second paragrap
 > 2. Where private relying parties that provide services, with the exception of microenterprises and small enterprises as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC
 > Commission Recommendation 2003/361/EC of 6 May 2003concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36)., are required by Union or national law to use strong user authentication for online identification or where strong user authentication for online identification is required by contractual obligation, including in the areas of transport, energy, banking, financial services, social security, health, drinking water, postal services, digital infrastructure, education or telecommunications, those private relying parties shall, no later than 36 months from the date of entry into force of the implementing acts referred to in Article 5a(23) and Article 5c(6) and only upon the voluntary request of the user, also accept European Digital Identity Wallets that are provided in accordance with this Regulation.
 > 3. Where providers of very large online platforms as referred to in Article 33 of Regulation (EU) 2022/2065 of the European Parl […truncated by emendrix: 1396 characters omitted…]
-
-**MODIFIED · Art. 6** · applies from: unknown
-
-*amended by* `32024R1183`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 7 — Eligibility for notification of electronic identification schemes** · applies from: unchanged
 
@@ -569,7 +559,7 @@ Paragraph 8's deadline for the Commission to adopt implementing acts on the inte
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out that conformity of notified electronic identification schemes with the Regulation's cybersecurity requirements, including those tied to assurance levels under Article 8(2), is to be certified by conformity assessment bodies designated by Member States. [Art. 12a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12a)
 
@@ -589,7 +579,7 @@ The new text specifies that such certification is carried out under a cybersecur
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 12b is a newly added provision addressing access to hardware and software features, covering providers of European Digital Identity Wallets and issuers of notified electronic identification means that act as business users of gatekeeper core platform services under Regulation (EU) 2022/1925. [Art. 12b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_12b)
 
@@ -664,7 +654,7 @@ The former point (b) of paragraph 2 is moved into a new paragraph 3, restating t
 
 *within* `AR 15`, `AR 15 ALN 1` · *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading now adds a reference to special needs alongside persons with disabilities. [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_15)
 
@@ -686,7 +676,7 @@ The operative sentence changes from a feasibility-qualified accessibility requir
 
 *within* `AR 16 PA 1`, `AR 16 PA 2`, `AR 16 PA 3`, `AR 16 ALN 1` · *dates* +2022-12-14 · *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The single-paragraph provision requiring Member States to lay down effective, proportionate and dissuasive penalties has become paragraph 1, now prefaced by a reference to Article 31 of Directive (EU) 2022/2555 and otherwise rephrasing the penalty description as 'those penalties' rather than 'the penalties provided for'. [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_16)
 
@@ -713,7 +703,7 @@ Two new paragraphs have been added: paragraph 2 requires Member States to ensure
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -723,7 +713,7 @@ Two new paragraphs have been added: paragraph 2 requires Member States to ensure
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -733,7 +723,7 @@ Two new paragraphs have been added: paragraph 2 requires Member States to ensure
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article setting out obligations for non-qualified trust service providers, including maintaining policies to manage risks around registration, onboarding, procedural checks and management of trust services, and notifying supervisory bodies, affected individuals, the public where relevant, and other competent authorities of significant security breaches or disruptions within 24 hours of becoming aware of them. [Art. 19a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_19a)
 
@@ -846,7 +836,7 @@ New paragraphs 4a and 4b extend the revocation-information rules to qualified el
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 24a establishes cross-border recognition among Member States for a range of qualified trust services, including qualified electronic signatures, seals, signature and seal creation devices, validation and preservation services, time stamps, website authentication certificates, electronic registered delivery services, electronic attestation of attributes, electronic archiving services, and electronic ledgers. [Art. 24a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_24a)
 
@@ -865,7 +855,7 @@ Each paragraph states that a qualified service or device issued, certified, or p
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -875,7 +865,7 @@ Each paragraph states that a qualified service or device issued, certified, or p
 
 *within* `AR 26 PA 1`, `AR 26 PA 2`, `AR 26 ALN 1` · *dates* +2026-05-21 · *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The original list of requirements for advanced electronic signatures is now numbered as paragraph 1, with its four points unchanged. [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_26)
 
@@ -906,7 +896,7 @@ A new paragraph 2 has been added, providing that the Commission shall by 21 May 
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1163,7 +1153,7 @@ Paragraph 2 itself now requires the Commission to establish, by 21 May 2025, a l
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1202,7 +1192,7 @@ A new paragraph 2 is added requiring the Commission to assess by 21 May 2026 whe
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1260,7 +1250,7 @@ This provision is newly added and states that Article 29a applies mutatis mutand
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 40a has been added, setting out requirements for validating advanced electronic seals based on qualified certificates. [Art. 40a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_40a)
 
@@ -1276,7 +1266,7 @@ The new article states that Article 32a applies mutatis mutandis to this validat
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1395,7 +1385,7 @@ A new Article 45a is added setting out cybersecurity precautionary measures for 
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 45b is added that addresses electronic attestation of attributes, stating that such attestations shall not be denied legal effect or admissibility as evidence solely because they are electronic or do not meet the requirements for qualified electronic attestations of attributes. [Art. 45b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45b)
 
@@ -1413,7 +1403,7 @@ The new article further states that a qualified electronic attestation of attrib
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 45c is added, stating that where national law requires electronic identification using an electronic identification means and authentication to access a public sector body's online service, person identification data in an electronic attestation of attributes cannot substitute for that electronic identification and authentication unless a Member State specifically allows it. [Art. 45c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45c)
 
@@ -1429,7 +1419,7 @@ The new provision further states that when a Member State does allow such use, q
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted provision setting requirements for qualified electronic attestation of attributes, covering compliance with Annex V, the evaluation of that compliance, a bar on additional mandatory requirements, the effect of revocation on validity, and a Commission mandate to adopt implementing acts establishing reference standards, specifications and procedures. [Art. 45d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45d)
 
@@ -1451,7 +1441,7 @@ The text itself states that the Commission is to adopt those implementing acts b
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article requiring Member States to ensure that, within 24 months of the entry into force of the implementing acts referred to in Articles 5a(23) and 5c(6), measures are taken so that qualified trust service providers of electronic attestations of attributes can verify at least the attributes listed in Annex VI against authentic sources in the public sector, at the request of the user, in accordance with Union or national law. [Art. 45e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45e)
 
@@ -1468,7 +1458,7 @@ It also requires the Commission, by 21 November 2024, to adopt implementing acts
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 45f sets out requirements that an electronic attestation of attributes issued by or on behalf of a public sector body responsible for an authentic source must meet, including compliance with Annex VII and specific content in the supporting qualified certificate. [Art. 45f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45f)
 
@@ -1491,7 +1481,7 @@ The new article also addresses the reliability of issuing public sector bodies, 
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 45g is a new provision requiring providers of electronic attestations of attributes to let European Digital Identity Wallet users request, obtain, store and manage such attestations regardless of the Member State providing the wallet. [Art. 45g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45g)
 
@@ -1508,7 +1498,7 @@ It further states that providers of qualified electronic attestations of attribu
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out rules for providers of qualified and non-qualified electronic attestation of attributes services, requiring that personal data tied to those services not be combined with personal data from other services offered by the provider or its commercial partners. [Art. 45h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45h)
 
@@ -1526,7 +1516,7 @@ It further states that such personal data must be kept logically separate from o
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 45i has been added establishing that electronic data and documents preserved using an electronic archiving service cannot be denied legal effect or admissibility as evidence merely because they are electronic or because the service used is not a qualified one. [Art. 45i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45i)
 
@@ -1543,7 +1533,7 @@ The new provision also states that data and documents preserved using a qualifie
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 45j is a new provision setting out requirements that qualified electronic archiving services must meet, covering who provides them, how durability, legibility, integrity and origin accuracy are maintained, safeguards against loss or alteration, and an automated report confirming the presumption of integrity of retrieved data. [Art. 45j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45j)
 
@@ -1565,7 +1555,7 @@ It also requires that report to be delivered reliably and efficiently and to bea
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article stating that an electronic ledger cannot be denied legal effect or use as evidence in legal proceedings merely because it is electronic or fails to meet qualified electronic ledger requirements. [Art. 45k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45k)
 
@@ -1582,7 +1572,7 @@ It also states that data records held in a qualified electronic ledger benefit f
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article setting out requirements that qualified electronic ledgers must meet, including that they be created and managed by one or more qualified trust service providers, establish the origin of data records, ensure unique sequential chronological ordering of records, and make any subsequent change to recorded data immediately detectable. [Art. 45l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_45l)
 
@@ -1604,7 +1594,7 @@ It also provides that compliance with those requirements is presumed where a led
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article establishing supervision of the European Digital Identity Wallet Framework, requiring Member States to designate one or more supervisory bodies with powers and resources to oversee wallet providers, and setting out those bodies' notification duties, tasks, cooperation obligations, powers to require remedies or suspension of wallet provision, and annual reporting to the Commission. [Art. 46a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_46a)
 
@@ -1627,7 +1617,7 @@ The text also directs the Commission to adopt implementing acts establishing for
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 46b is a wholly new provision setting out requirements for Member States to designate a supervisory body for trust services, defining its resourcing, notification to the Commission, role, tasks, optional trust infrastructure function, annual reporting duty, and a deadline for the Commission to adopt related guidelines and implementing acts. [Art. 46b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_46b)
 
@@ -1648,7 +1638,7 @@ It did not exist in the earlier version of the text. [Art. 46b, v2](https://eur-
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added and requires each Member State to designate a single point of contact for trust services, European Digital Identity Wallets and notified electronic identification schemes. [Art. 46c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_46c)
 
@@ -1667,7 +1657,7 @@ It sets out that this contact point liaises to facilitate cross-border cooperati
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 46d is a newly added provision setting out mutual assistance arrangements among supervisory bodies designated under Articles 46a and 46b, including seeking assistance through the Cooperation Group, informing and consulting one another, requesting supervisory or enforcement measures, and carrying out joint investigations. [Art. 46d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_46d)
 
@@ -1689,7 +1679,7 @@ The provision also lists grounds on which a supervisory body may refuse a reques
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted provision establishing the European Digital Identity Cooperation Group, setting out its composition, chairing arrangement, observer participation, and a list of tasks covering cooperation on digital identity wallets, electronic identification and trust services. [Art. 46e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_46e)
 
@@ -1740,7 +1730,7 @@ In the earlier version these same paragraphs referred only to Article 30(4). [Ar
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 48a is a new provision requiring Member States to collect statistics on the functioning of European Digital Identity Wallets and qualified trust services provided in their territory, covering items such as wallet holder numbers, accepting services, complaints and incidents, and security breaches. [Art. 48a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_48a)
 
@@ -1814,31 +1804,11 @@ Paragraph 3 no longer concerns a certification-service-provider's submission of 
 > 3. The management of remote qualified electronic signature and seal creation devices by qualified trust service providers other than qualified trust service providers providing qualified trust services for the management of remote qualified electronic signature and seal creation devices in accordance with Articles 29a and 39a may be carried out without the need to obtain the qualified status for the provision of these management services until 21 May 2026.
 > 4. Qualified trust service providers that have been granted their qualified status under this Regulation before 20 May 2024 shall submit a conformity assessment report to the supervisory body proving compliance with Article 24(1), (1a) and (1b) as soon as possible and in any event by 21 May 2026.
 
-**INSERTED · Title** · applies from: unknown
-
-*amended by* `32024R1183`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Section 2** · applies from: unknown
-
-*amended by* `32024R1183`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I PTA (i)` · *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point (i) now refers to the information or the location of the services that can be used to enquire about the validity status of the qualified certificate, whereas the earlier version referred only to the location of such services. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#anx_I)
 
@@ -1882,7 +1852,7 @@ Point (i) now refers to the information or the location of the services that can
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1892,7 +1862,7 @@ Point (i) now refers to the information or the location of the services that can
 
 *within* `AN III PTA (i)` · *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point (i) now refers to the information or the location of the services usable to enquire about the validity status of the qualified certificate, whereas the earlier text referred only to the location of the services that can be used to enquire as to that validity status. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#anx_III)
 
@@ -1936,7 +1906,7 @@ Point (i) now refers to the information or the location of the services usable t
 
 *within* `AN IV PTA (c)`, `AN IV PTA (ca)`, `AN IV PTA (j)` · *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point (c) now ends the natural-person description with a semicolon and moves the legal-person description, previously combined in point (c), into a new separate point (ca), which adds the phrase describing a unique set of data unambiguously representing the legal person before restating the name and, where applicable, registration number requirement. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32014R0910#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#anx_IV)
 
@@ -1979,7 +1949,7 @@ Point (j) changes from referring only to the location of the certificate validit
 
 *amended by* `32024R1183`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says INSERTED, the instruction parse says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says INSERTED, the instruction parse says MODIFIED
 
 Annex V is newly added and sets out a list of items that a qualified electronic attestation of attributes must contain, covering an indication of its qualified status, identifying data for both the issuing qualified trust service provider and the entity to which the attributes refer, the attested attributes, the validity period, an attestation identity code, the qualified electronic signature or seal, the location of the supporting certificate, and information on how to check the attestation's validity status. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#anx_V)
 
@@ -2003,7 +1973,7 @@ Annex V is newly added and sets out a list of items that a qualified electronic 
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex VI is new text setting out a minimum list of attributes, including address, age, gender, civil status, family composition, nationality or citizenship, educational and professional qualifications, powers and mandates to represent persons, public permits and licences, and financial and company data for legal persons. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#anx_VI)
 
@@ -2030,7 +2000,7 @@ It states that, pursuant to Article 45e, Member States shall ensure that measure
 
 *amended by* `32024R1183`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex VII is a newly added annex setting out the content that an electronic attestation of attributes issued by or on behalf of a public body responsible for an authentic source must contain, listing items from an indication of the attestation's issuance basis through issuer identification, subject identification, attested attributes, validity period, attestation identity code, qualified electronic signature or seal, certificate location, and validity-status enquiry information. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#anx_VII)
 
@@ -2047,45 +2017,5 @@ Annex VII is a newly added annex setting out the content that an electronic atte
 > (f) the attestation identity code, which must be unique for the issuing public body and, if applicable, an indication of the scheme of attestations that the attestation of attributes is part of;
 > (g) the qualified electronic signature or qualified electronic seal of the issuing body;
 > (h) the location where the certificate supporting the qualifie […truncated by emendrix: 227 characters omitted…]
-
-**MODIFIED · CHA II** · applies from: unknown
-
-*amended by* `32024R1183`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · CHA III** · applies from: unknown
-
-*amended by* `32024R1183`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · CHA VI** · applies from: unknown
-
-*amended by* `32024R1183`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · CHA IVa** · applies from: unknown
-
-*amended by* `32024R1183`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0910-20240520 -->
 
