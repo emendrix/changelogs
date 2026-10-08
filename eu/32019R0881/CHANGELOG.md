@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32019R0881` → `02019R0881-20250204`
 
 - **Act** `eu:32019R0881` · **In force** 2025-02-04 · **Detected** 2026-08-13
-- **Touched** 19 provisions — 18 substantive · 0 date-only · 1 with no text · **1 disputed**
-- **Diff** 2 inserted · 17 modified · 0 deleted · 0 renumbered · 0 deferred · 53 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 18 provisions — 18 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 2 inserted · 16 modified · 0 deleted · 0 renumbered · 0 deferred · 53 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32019R0881` · `v2` = `02019R0881-20250204`
 
 ---
@@ -555,15 +555,5 @@ Paragraph 3 similarly extends the list of items covered by the essential cyberse
 > 2. The evaluation shall also assess the impact, effectiveness and efficiency of the provisions of Title III of this Regulation, including the procedures leading to the adoption of European cybersecurity certification schemes and their evidence bases, with regard to the objectives of ensuring an adequate level of cybersecurity of ICT products, ICT services, ICT processes and managed security services in the Union and improving the functioning of the internal market.
 > 3. The evaluation shall assess whether essential cybersecurity requirements for access to the internal market are necessary in order to prevent ICT products, ICT services, ICT processes and managed security services which do not meet basic cybersecurity requirements from entering the internal market.
 > 4. By 28 June 2024, and every five years thereafter, the Commission s […truncated by emendrix: 192 characters omitted…]
-
-**MODIFIED · Annex** · applies from: unknown
-
-*amended by* `32025R0037`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02019R0881-20250204 -->
 
