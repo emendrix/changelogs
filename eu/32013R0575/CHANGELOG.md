@@ -35060,9 +35060,9 @@ The new article also states that if an institution modifies the terms of such a 
 ### `02013R0575-20180101` → `02013R0575-20190101`
 
 - **Act** `eu:32013R0575` · **In force** 2019-01-01 · **Detected** 2026-08-13
-- **Touched** 50 provisions — 47 substantive · 0 date-only · 3 with no text · **38 disputed**
-- **Diff** 7 inserted · 43 modified · 0 deleted · 0 renumbered · 0 deferred · 487 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Touched** 48 provisions — 47 substantive · 0 date-only · 1 with no text · **36 disputed**
+- **Diff** 6 inserted · 42 modified · 0 deleted · 0 renumbered · 0 deferred · 487 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20180101` · `v2` = `02013R0575-20190101`
 
 ---
@@ -35369,7 +35369,7 @@ Instead, the point now describes eligible securitisation positions as those that
 
 *within* `AR 242 ALN 1`, `AR 242 ALN 1 PO 1`, `AR 242 ALN 1 PO 2`, `AR 242 ALN 1 PO 3`, `AR 242 ALN 1 PO 4`, `AR 242 ALN 1 PO 5`, `AR 242 ALN 1 PO 6`, `AR 242 ALN 1 PO 7`, `AR 242 ALN 1 PO 8`, `AR 242 ALN 1 PO 9`, `AR 242 ALN 1 PO 10`, `AR 242 ALN 1 PO 11`, `AR 242 ALN 1 PO 12`, `AR 242 ALN 1 PO 13`, `AR 242 ALN 1 PO 14`, `AR 242 ALN 1 PO 15`, `AR 242 ALN 1 PO 16`, `AR 242 ALN 1 PO 17`, `AR 242 ALN 1 PO 18`, `AR 242 ALN 1 PO 19`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The definitions list has been substantially rewritten: the earlier version's standalone definitions of excess spread, KIRB, ratings based method, supervisory formula method, revolving securitisation and second-loss reference in the first-loss tranche definition are removed, while several remaining terms such as liquidity facility, asset-backed commercial paper programme, traditional securitisation, synthetic securitisation, revolving exposure, early amortisation provision and first loss tranche are redefined by cross-reference to specific points of Article 2 of Regulation (EU) 2017/2402. [Art. 242, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_242) [Art. 242, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_242)
 
@@ -35407,7 +35407,7 @@ The clean-up call option definition is reworded to describe distinct repurchase 
 
 *within* `AR 243`, `AR 243 PA 1 ALN 1`, `AR 243 PA 1 ALN 1 PTA (a)`, `AR 243 PA 1 ALN 1 PTA (b)`, `AR 243 PA 1 ALN 2`, `AR 243 PA 1 ALN 3`, `AR 243 PA 1 ALN 4`, `AR 243 PA 2 ALN 1`, `AR 243 PA 2 ALN 1 PTA (a)`, `AR 243 PA 2 ALN 1 PTA (b)`, `AR 243 PA 2 ALN 1 PTA (b) PTI (i)`, `AR 243 PA 2 ALN 1 PTA (b) PTI (ii)`, `AR 243 PA 2 ALN 1 PTA (b) PTI (iii)`, `AR 243 PA 2 ALN 1 PTA (b) PTI (iv)`, `AR 243 PA 2 ALN 1 PTA (c)`, `AR 243 PA 2 ALN 1 PTA (d)`, `AR 243 PA 2 ALN 2`, `AR 243 PA 3`, `AR 243 PA 4`, `AR 243 PA 5`, `AR 243 PA 6` · *dates* -2017-12-31
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and substance changed entirely: the earlier version set out rules for traditional securitisation, covering significant risk transfer, mezzanine positions, competent authority permissions, documentation conditions and clean-up call options, while the later version instead sets out criteria for ABCP and non-ABCP STS securitisation positions to qualify for the treatment in Articles 260, 262 and 264. [Art. 243, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_243) [Art. 243, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_243)
 
@@ -35437,7 +35437,7 @@ The earlier text's provisions on originator conditions, EBA guideline reporting 
 
 *within* `AR 244`, `AR 244 PA 1 ALN 1`, `AR 244 PA 1 ALN 1 PTA (a)`, `AR 244 PA 1 ALN 1 PTA (b)`, `AR 244 PA 2 ALN 1`, `AR 244 PA 2 ALN 1 PTA (a)`, `AR 244 PA 2 ALN 1 PTA (b)`, `AR 244 PA 2 ALN 1 PTA (b) PTI (i)`, `AR 244 PA 2 ALN 1 PTA (b) PTI (ii)`, `AR 244 PA 2 ALN 2`, `AR 244 PA 3 ALN 1`, `AR 244 PA 3 ALN 1 PTA (a)`, `AR 244 PA 3 ALN 1 PTA (b)`, `AR 244 PA 4 ALN 1`, `AR 244 PA 4 ALN 1 PTA (a)`, `AR 244 PA 4 ALN 1 PTA (b)`, `AR 244 PA 4 ALN 1 PTA (c)`, `AR 244 PA 4 ALN 1 PTA (d)`, `AR 244 PA 4 ALN 1 PTA (e)`, `AR 244 PA 4 ALN 1 PTA (f)`, `AR 244 PA 4 ALN 1 PTA (g)`, `AR 244 PA 4 ALN 1 PTA (h)`, `AR 244 PA 4 ALN 2`, `AR 244 PA 5 ALN 1`, `AR 244 PA 5 ALN 1 PTA (a)`, `AR 244 PA 5 ALN 1 PTA (b)`, `AR 244 PA 5 ALN 1 PTA (c)`, `AR 244 PA 5 ALN 1 PTA (d)`, `AR 244 PA 5 ALN 1 PTA (e)`, `AR 244 PA 5 ALN 1 PTA (f)`, `AR 244 PA 6 ALN 1`, `AR 244 PA 6 ALN 1 PTA (a)`, `AR 244 PA 6 ALN 1 PTA (b)`, `AR 244 PA 6 ALN 1 PTA (c)`, `AR 244 PA 6 ALN 2` · *dates* -2017-12-31 +2021-01-02
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and subject matter change from synthetic securitisation to traditional securitisation, with the operative rule now expressed as excluding underlying exposures from risk-weighted exposure calculations rather than calculating them under Article 249. [Art. 244, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_244) [Art. 244, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_244)
 
@@ -35474,7 +35474,7 @@ The closing paragraphs replace the EBA guideline-issuance and Member State revie
 
 *within* `AR 245`, `AR 245 PA 1 ALN 1`, `AR 245 PA 1 ALN 1 PTA (a)`, `AR 245 PA 1 ALN 1 PTA (b)`, `AR 245 PA 2 ALN 1`, `AR 245 PA 2 ALN 1 PTA (a)`, `AR 245 PA 2 ALN 1 PTA (b)`, `AR 245 PA 2 ALN 2`, `AR 245 PA 3 ALN 1`, `AR 245 PA 3 ALN 1 PTA (a)`, `AR 245 PA 3 ALN 1 PTA (b)`, `AR 245 PA 4 ALN 1`, `AR 245 PA 4 ALN 1 PTA (a)`, `AR 245 PA 4 ALN 1 PTA (b)`, `AR 245 PA 4 ALN 1 PTA (c)`, `AR 245 PA 4 ALN 1 PTA (d)`, `AR 245 PA 4 ALN 1 PTA (e)`, `AR 245 PA 4 ALN 1 PTA (f)`, `AR 245 PA 4 ALN 1 PTA (g)`, `AR 245 PA 5 ALN 1`, `AR 245 PA 6 ALN 1`, `AR 245 PA 6 ALN 1 PTA (a)`, `AR 245 PA 6 ALN 1 PTA (b)`, `AR 245 PA 6 ALN 1 PTA (c)`, `AR 245 PA 6 ALN 2` · *dates* +2021-01-02
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from a general calculation-of-risk-weighted-exposure-amounts title to one specifically labelled Synthetic securitisation, and the article's content is replaced entirely: the earlier version covered both traditional and synthetic securitisation calculation rules along with tranche treatment and total risk weight determination, while the later version instead sets out detailed conditions for when an originator institution of a synthetic securitisation may calculate risk-weighted exposure amounts, including significant credit risk transfer tests, competent authority derogation procedures, documentation and legal opinion requirements, and EBA reporting and monitoring obligations. [Art. 245, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_245) [Art. 245, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_245)
 
@@ -35509,7 +35509,7 @@ The later version adds a specific reporting deadline requiring the EBA to report
 
 *within* `AR 246`, `AR 246 ALN 1`, `AR 246 PA 1`, `AR 246 PA 2`, `AR 246 PA 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and full text of Article 246 have been replaced: the earlier version set out rules for calculating exposure values of securitisation positions and treatment of overlapping positions and ABCP liquidity facilities, while the later version instead sets out operational requirements for early amortisation provisions in revolving-exposure securitisations. [Art. 246, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_246) [Art. 246, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_246)
 
@@ -35539,7 +35539,7 @@ The later text states that significant credit risk is only considered transferre
 
 *within* `AR 247`, `AR 247 PA 1 ALN 1`, `AR 247 PA 1 ALN 1 PTA (a)`, `AR 247 PA 1 ALN 1 PTA (b)`, `AR 247 PA 1 ALN 2`, `AR 247 PA 2 ALN 1`, `AR 247 PA 2 ALN 2`, `AR 247 PA 3 ALN 1`, `AR 247 PA 4 ALN 1`, `AR 247 PA 5`, `AR 247 PA 6`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and body of Article 247 were entirely replaced: the earlier version addressed recognition of funded and unfunded credit protection for securitisation positions, while the later version instead sets out rules for calculating risk-weighted exposure amounts, covering significant risk transfer, treatment of tranches, inclusion of the amount in the institution's total risk-weighted exposure amounts, and the formula for the risk-weighted exposure amount using the exposure value and total risk weight. [Art. 247, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_247) [Art. 247, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_247)
 
@@ -35569,7 +35569,7 @@ The provisions on eligible funded and unfunded credit protection, eligible prote
 
 *within* `AR 248`, `AR 248 PA 1 ALN 1`, `AR 248 PA 1 ALN 1 PTA (a)`, `AR 248 PA 1 ALN 1 PTA (b)`, `AR 248 PA 1 ALN 1 PTA (c)`, `AR 248 PA 1 ALN 1 PTA (d)`, `AR 248 PA 1 ALN 1 PTA (e)`, `AR 248 PA 1 ALN 2`, `AR 248 PA 1 ALN 3`, `AR 248 PA 1 ALN 4`, `AR 248 PA 2 ALN 1`, `AR 248 PA 2 ALN 2`, `AR 248 PA 2 ALN 3`, `AR 248 PA 2 ALN 4`, `AR 248 PA 3 ALN 1` · *dates* +2019-01-18
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and entire substantive content changed: the earlier version, titled Implicit support, set out rules restricting a sponsor or originator institution from providing undisclosed support to a securitisation and the consequences of failing to comply, while the later version, titled Exposure value, instead sets out rules for calculating the exposure value of on-balance sheet and off-balance sheet securitisation positions, treatment of overlapping positions, and treatment of liquidity facilities in ABCP programmes. [Art. 248, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_248) [Art. 248, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_248)
 
@@ -35603,7 +35603,7 @@ The after text also states that the EBA shall submit draft regulatory technical 
 
 *within* `AR 249`, `AR 249 PA 1`, `AR 249 PA 2`, `AR 249 PA 3`, `AR 249 PA 4`, `AR 249 PA 5`, `AR 249 PA 6`, `AR 249 PA 7`, `AR 249 PA 8`, `AR 249 PA 9`, `AR 249 PA 10`, `AR 249 ALN 1`, `AR 249 ALN 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading changed from a general treatment title to one specifically addressing recognition of credit risk mitigation for securitisation positions. [Art. 249, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_249) [Art. 249, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_249)
 
@@ -35632,7 +35632,7 @@ The later text introduces new substantive content on eligible collateral, credit
 
 *within* `AR 250`, `AR 250 PA 1`, `AR 250 PA 2`, `AR 250 PA 3`, `AR 250 PA 4`, `AR 250 PA 5`, `AR 250 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and text of Article 250 changed from setting out a maturity mismatch treatment for synthetic securitisations, with a formula and defined variables, to a wholly different set of rules on implicit support, prohibiting an originator or sponsor institution from providing support beyond contractual obligations to a securitisation, and setting out what counts as arm's length treatment, notification duties, EBA guidelines, and consequences of non-compliance. [Art. 250, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_250) [Art. 250, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_250)
 
@@ -35677,7 +35677,7 @@ The earlier version contained a single unnumbered block of text with points (a) 
 
 *within* `AR 251`, `AR 251 PA 1`, `AR 251 PA 2`, `AR 251 ALN 1`, `AR 251 ALN 2`, `AR 251 ALN 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading changed from a general rule on risk-weights for rated and unrated securitisation and re-securitisation positions to a rule specifically addressing originator institutions' calculation of risk-weighted exposure amounts for exposures securitised in a synthetic securitisation. [Art. 251, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_251) [Art. 251, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_251)
 
@@ -35708,7 +35708,7 @@ The later text also adds a statement that risk weights applied to positions bene
 
 *within* `AR 252`, `AR 252 ALN 1`, `AR 252 ALN 1 PTA (a)`, `AR 252 ALN 1 PTA (b)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 252 has been completely rewritten: the earlier version addressed originator and sponsor institutions and let risk-weighted exposure amounts be capped at the amounts that would apply to the securitised exposures if not securitised, subject to a presumed 150% risk weight for defaulted items and items associated with particularly high risk under Article 128. [Art. 252, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_252)
 
@@ -35748,7 +35748,7 @@ The later version instead carries the heading Treatment of maturity mismatches i
 
 *within* `AR 253`, `AR 253 PA 1 ALN 1`, `AR 253 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading changed from covering the treatment of unrated positions to covering reductions in risk-weighted exposure amounts. [Art. 253, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_253) [Art. 253, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_253)
 
@@ -35774,7 +35774,7 @@ The later text also adds that where this deduction alternative is used, the amou
 
 *within* `AR 254`, `AR 254 PA 1`, `AR 254 PA 2`, `AR 254 PA 3`, `AR 254 PA 4`, `AR 254 PA 5`, `AR 254 PA 6`, `AR 254 PA 7`, `AR 254 PA 8`, `AR 254 ALN 1` · *dates* +2018-11-17
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from a title about the treatment of securitisation positions in a second loss tranche or better in an ABCP programme to a title about the hierarchy of methods, and the entire body of the article is replaced. [Art. 254, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_254) [Art. 254, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_254)
 
@@ -35809,7 +35809,7 @@ The later text specifies that an institution notifying its decision under paragr
 
 *within* `AR 255`, `AR 255 PA 1 ALN 1`, `AR 255 PA 1 ALN 1 PTA (a)`, `AR 255 PA 1 ALN 1 PTA (b)`, `AR 255 PA 1 ALN 1 PTA (c)`, `AR 255 PA 1 ALN 1 PTA (d)`, `AR 255 PA 1 ALN 1 PTA (e)`, `AR 255 PA 1 ALN 1 PTA (f)`, `AR 255 PA 1 ALN 2`, `AR 255 PA 2 ALN 1`, `AR 255 PA 3`, `AR 255 PA 4`, `AR 255 PA 5`, `AR 255 PA 6`, `AR 255 PA 7`, `AR 255 PA 8`, `AR 255 PA 9` · *dates* +2019-01-18
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision was entirely replaced: the earlier version covered the treatment of unrated liquidity facilities in a securitisation, including conditions for applying conversion factors, while the later version instead concerns the determination of KIRB and KSA, setting out how institutions calculate these values under the SEC-IRBA and SEC-SA approaches. [Art. 255, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_255) [Art. 255, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_255)
 
@@ -35845,7 +35845,7 @@ The later text also states that the EBA shall submit its draft regulatory techni
 
 *within* `AR 256`, `AR 256 PA 1 ALN 1`, `AR 256 PA 1 ALN 2`, `AR 256 PA 2 ALN 1`, `AR 256 PA 2 ALN 2`, `AR 256 PA 2 ALN 3`, `AR 256 PA 2 ALN 4`, `AR 256 PA 3 ALN 1`, `AR 256 PA 3 ALN 1 PTA (a)`, `AR 256 PA 3 ALN 1 PTA (b)`, `AR 256 PA 4 ALN 1`, `AR 256 PA 4 ALN 1 PTA (a)`, `AR 256 PA 4 ALN 1 PTA (b)`, `AR 256 PA 4 ALN 2`, `AR 256 PA 5 ALN 1`, `AR 256 PA 5 ALN 2`, `AR 256 PA 6`, `AR 256 PA 7`, `AR 256 PA 8`, `AR 256 PA 9`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and entire substantive content were replaced: the earlier version addressed additional own funds requirements for securitisations of revolving exposures with early amortisation provisions, while the later version instead sets out how institutions determine the attachment point (A) and detachment point (D) for securitisation positions. [Art. 256, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_256) [Art. 256, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_256)
 
@@ -35874,7 +35874,7 @@ The prior rules on originator's and investors' interests, exemptions, maximum ri
 
 *within* `AR 257`, `AR 257 PA 1`, `AR 257 PA 2`, `AR 257 PA 3`, `AR 257 PA 4`, `AR 257 ALN 1` · *dates* +2019-12-31
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and entire content changed from a short provision on credit risk mitigation for securitisation positions under the Standardised Approach into a detailed set of rules for determining tranche maturity (MT), including two alternative measurement methods, a floor and cap on the maturity value, treatment of exposures where losses may arise from underlying exposures, and a mandate for the EBA to monitor practices and issue guidelines. [Art. 257, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_257) [Art. 257, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_257)
 
@@ -35905,7 +35905,7 @@ The after text specifies that the EBA shall issue guidelines by 31 December 2019
 
 *within* `AR 258`, `AR 258 PA 1`, `AR 258 PA 2`, `AR 258 ALN 1`, `AR 258 ALN 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and entire substance changed from a provision on reducing risk-weighted exposure amounts through deduction from Common Equity Tier 1 capital to a provision setting out conditions for using the SEC-IRBA to calculate risk-weighted exposure amounts for securitisation positions. [Art. 258, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_258) [Art. 258, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_258)
 
@@ -35936,7 +35936,7 @@ The prior text described an alternative deduction mechanism referencing Articles
 
 *within* `AR 259`, `AR 259 PA 1 ALN 1`, `AR 259 PA 1 ALN 1 PTA (a)`, `AR 259 PA 1 ALN 1 PTA (b)`, `AR 259 PA 1 ALN 1 PTA (c)`, `AR 259 PA 1 ALN 1 PTA (d)`, `AR 259 PA 1 ALN 1 PTA (e)`, `AR 259 PA 2 ALN 1`, `AR 259 PA 2 ALN 1 PTA (a)`, `AR 259 PA 2 ALN 1 PTA (b)`, `AR 259 PA 2 ALN 1 PTA (c)`, `AR 259 PA 3 ALN 1`, `AR 259 PA 3 ALN 1 PTA (a)`, `AR 259 PA 3 ALN 1 PTA (b)`, `AR 259 PA 3 ALN 1 PTA (c)`, `AR 259 PA 3 ALN 1 PTA (d)`, `AR 259 PA 3 ALN 1 PTA (e)`, `AR 259 PA 3 ALN 1 PTA (f)`, `AR 259 PA 3 ALN 1 PTA (g)`, `AR 259 PA 3 ALN 1 PTA (h)`, `AR 259 PA 3 ALN 1 PTA (i)`, `AR 259 PA 3 ALN 1 PTA (j)`, `AR 259 PA 3 ALN 1 PTA (k)`, `AR 259 PA 3 ALN 1 PTA (l)`, `AR 259 PA 3 ALN 1 PTA (m)`, `AR 259 PA 4 ALN 1`, `AR 259 PA 4 ALN 2`, `AR 259 PA 5 ALN 1`, `AR 259 PA 5 ALN 1 PTA (a)`, `AR 259 PA 5 ALN 1 PTA (b)`, `AR 259 PA 5 ALN 2`, `AR 259 PA 6`, `AR 259 PA 7`, `AR 259 PA 8`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading changed from "Hierarchy of methods" to "Calculation of risk-weighted exposure amounts under the SEC-IRBA", and the entire body of text was replaced. [Art. 259, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_259) [Art. 259, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_259)
 
@@ -35994,7 +35994,7 @@ The earlier version set out a hierarchy of methods (Ratings Based Method, Superv
 
 *within* `AR 260`, `AR 260 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from 'Maximum risk-weighted exposure amounts' to 'Treatment of STS securitisations under the SEC-IRBA', and the entire operative text is replaced. [Art. 260, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_260) [Art. 260, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_260)
 
@@ -36017,7 +36017,7 @@ The earlier text described a cap allowing certain institutions to limit risk-wei
 
 *within* `AR 261`, `AR 261 PA 1 ALN 1`, `AR 261 PA 1 ALN 2`, `AR 261 PA 1 ALN 3`, `AR 261 PA 1 ALN 4`, `AR 261 PA 1 ALN 5`, `AR 261 PA 1 ALN 6`, `AR 261 PA 1 ALN 7`, `AR 261 PA 2 ALN 1`, `AR 261 PA 2 ALN 1 PTA (a)`, `AR 261 PA 2 ALN 1 PTA (b)`, `AR 261 PA 2 ALN 2`, `AR 261 PA 2 ALN 3`, `AR 261 PA 2 ALN 4`, `AR 261 PA 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and title changed from the Ratings Based Method to the Standardised Approach (SEC-SA), and the calculation method was replaced accordingly, moving from a table of risk weights tied to credit quality steps and multiplied by 1.06 to a formula-based approach using attachment and detachment points, a KA parameter, and a 15% floor. [Art. 261, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_261) [Art. 261, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_261)
 
@@ -36087,7 +36087,7 @@ The before text addressed credit risk mitigation on securitisation positions und
 
 *within* `AR 262`, `AR 262 ALN 1`, `AR 262 PA 1`, `AR 262 PA 2`, `AR 262 PA 3`, `AR 262 PA 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and content changed from setting out the Supervisory Formula Method, with its detailed formula, parameters, and definitions for calculating risk weights on securitisation positions, to a much shorter provision addressing the treatment of STS securitisations under the SEC-SA. [Art. 262, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_262) [Art. 262, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_262)
 
@@ -36127,7 +36127,7 @@ The prior text's four numbered paragraphs covering the Supervisory Formula Metho
 
 *within* `AR 263`, `AR 263 PA 1 ALN 1`, `AR 263 PA 2 ALN 1`, `AR 263 PA 2 ALN 2`, `AR 263 PA 3 ALN 1`, `AR 263 PA 4`, `AR 263 PA 5`, `AR 263 PA 6`, `AR 263 PA 7`, `AR 263 PA 8`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and content of Article 263 changed entirely: the earlier version addressed Liquidity Facilities, covering the conversion factor for unrated securitisation positions, temporary use of a fallback calculation method subject to competent authority permission, and the highest-risk-weight approach with a 100% conversion factor. [Art. 263, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_263)
 
@@ -36175,7 +36175,7 @@ None of the liquidity facility provisions, including the conditions referencing 
 
 *within* `AR 264`, `AR 264 PA 1 ALN 1`, `AR 264 PA 2 ALN 1`, `AR 264 PA 2 ALN 1 PTA (a)`, `AR 264 PA 2 ALN 1 PTA (b)`, `AR 264 PA 2 ALN 1 PTA (c)`, `AR 264 PA 3 ALN 1`, `AR 264 PA 3 ALN 1 PTA (a)`, `AR 264 PA 3 ALN 1 PTA (b)`, `AR 264 PA 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and subject matter changed entirely, moving from provisions on credit risk mitigation for securitisation positions under the IRB Approach to provisions on the treatment of STS securitisations under the SEC-ERBA. [Art. 264, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_264) [Art. 264, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_264)
 
@@ -36230,7 +36230,7 @@ The later text's paragraph numbering and internal cross-references (to Articles 
 
 *within* `AR 265`, `AR 265 PA 1 ALN 1`, `AR 265 PA 1 ALN 2`, `AR 265 PA 2 ALN 1`, `AR 265 PA 2 ALN 1 PTA (a)`, `AR 265 PA 2 ALN 1 PTA (b)`, `AR 265 PA 2 ALN 1 PTA (c)`, `AR 265 PA 2 ALN 1 PTA (d)`, `AR 265 PA 2 ALN 1 PTA (e)`, `AR 265 PA 2 ALN 1 PTA (f)`, `AR 265 PA 2 ALN 1 PTA (g)`, `AR 265 PA 2 ALN 1 PTA (h)`, `AR 265 PA 2 ALN 1 PTA (i)`, `AR 265 PA 2 ALN 1 PTA (j)`, `AR 265 PA 2 ALN 1 PTA (k)`, `AR 265 PA 2 ALN 1 PTA (l)`, `AR 265 PA 2 ALN 1 PTA (m)`, `AR 265 PA 2 ALN 1 PTA (n)`, `AR 265 PA 2 ALN 1 PTA (o)`, `AR 265 PA 2 ALN 1 PTA (p)`, `AR 265 PA 2 ALN 1 PTA (q)`, `AR 265 PA 2 ALN 2`, `AR 265 PA 2 ALN 3`, `AR 265 PA 3 ALN 1`, `AR 265 PA 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and entire content of Article 265 changed from provisions on additional own funds requirements for securitisations of revolving exposures with early amortisation to provisions on the scope and operational requirements for the Internal Assessment Approach. [Art. 265, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_265) [Art. 265, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_265)
 
@@ -36263,7 +36263,7 @@ The earlier text set out a methodology for calculating a risk-weighted exposure 
 
 *within* `AR 266`, `AR 266 PA 1 ALN 1`, `AR 266 PA 2 ALN 1`, `AR 266 PA 3`, `AR 266 PA 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and text of Article 266 changed entirely, moving from provisions on reducing risk-weighted exposure amounts through specific credit risk adjustments and own-funds deduction options to a new subject matter concerning the Internal Assessment Approach for unrated positions in ABCP programmes or transactions. [Art. 266, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_266) [Art. 266, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_266)
 
@@ -36291,7 +36291,7 @@ The prior four paragraphs covering reductions for securitised and securitisation
 
 *within* `AR 267`, `AR 267 PA 1`, `AR 267 PA 2`, `AR 267 PA 3`, `AR 267 PA 4`, `AR 267 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading changes from a rule about using ECAI credit assessments to determine securitisation position risk weights to a heading about a maximum risk weight for senior securitisation positions using a look-through approach. [Art. 267, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_267) [Art. 267, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_267)
 
@@ -36318,7 +36318,7 @@ The prior single-sentence text on ECAI credit assessment endorsement is replaced
 
 *within* `AR 268`, `AR 268 PA 1`, `AR 268 PA 2`, `AR 268 PA 3`, `AR 268 PA 4`, `AR 268 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading changes from concerning requirements for credit assessments by ECAIs to concerning maximum capital requirements, and its entire body is replaced with new provisions. [Art. 268, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_268) [Art. 268, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_268)
 
@@ -36348,7 +36348,7 @@ The prior text set out conditions for using ECAI credit assessments, including p
 
 *within* `AR 269`, `AR 269 PA 1 ALN 1`, `AR 269 PA 1 ALN 1 PTA (a)`, `AR 269 PA 1 ALN 1 PTA (b)`, `AR 269 PA 1 ALN 1 PTA (c)`, `AR 269 PA 2 ALN 1`, `AR 269 PA 2 ALN 1 PTA (a)`, `AR 269 PA 2 ALN 1 PTA (b)`, `AR 269 PA 2 ALN 1 PTA (c)`, `AR 269 PA 2 ALN 1 PTA (d)`, `AR 269 PA 3 ALN 1`, `AR 269 PA 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and entire subject matter change from rules on the use of credit assessments from nominated ECAIs to rules specifically governing re-securitisation positions. [Art. 269, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_269) [Art. 269, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_269)
 
@@ -36382,7 +36382,7 @@ The earlier text set out principles for consistent use of ECAI credit assessment
 
 *within* `AR 270`, `AR 270 ALN 1`, `AR 270 ALN 1 PTA (a)`, `AR 270 ALN 1 PTA (b)`, `AR 270 ALN 1 PTA (c)`, `AR 270 ALN 1 PTA (d)`, `AR 270 ALN 1 PTA (e)`, `AR 270 ALN 2`, `AR 270 ALN 3` · *dates* -2014-07-01
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from Mapping to Senior positions in SME securitisations, and the entire substantive content is replaced. [Art. 270, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_270) [Art. 270, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270)
 
@@ -36417,7 +36417,7 @@ The later text introduces new conditions covering STS securitisation requirement
 
 **INSERTED · Art. 270a — Additional risk weight** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision, Article 270a on additional risk weight, is new and did not exist in the earlier version of the text. [Art. 270a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270a)
 
@@ -36433,7 +36433,7 @@ It sets out that competent authorities impose an additional risk weight where an
 
 **INSERTED · Art. 270b — Use of credit assessments by ECAIs** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is new, adding Article 270b to set out that institutions may only use credit assessments to determine the risk weight of a securitisation position where the credit assessment has been issued or endorsed by an ECAI in accordance with Regulation (EC) No 1060/2009. [Art. 270b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270b)
 
@@ -36445,7 +36445,7 @@ This provision is new, adding Article 270b to set out that institutions may only
 
 **INSERTED · Art. 270c — Requirements to be met by the credit assessments of ECAIs** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 270c is a newly added provision setting out conditions that institutions must satisfy before using an ECAI credit assessment for calculating risk-weighted exposure amounts under Section 3, covering matters such as payment-type matching, public availability of the ECAI's methodologies and data, inclusion in the ECAI's transition matrix, the absence of unfunded support from the institution itself, and a commitment by the ECAI to publish explanations of how underlying exposure performance affects the credit assessment. [Art. 270c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270c)
 
@@ -36463,7 +36463,7 @@ There is no prior version of this article to compare against, as it did not exis
 
 **INSERTED · Art. 270d — Use of credit assessments** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision setting out rules on how an institution uses credit assessments from External Credit Assessment Institutions (ECAIs) when calculating risk-weighted exposure amounts for securitisation positions, including the nomination of ECAIs, consistent and non-selective use of their ratings, and treatment of positions with multiple credit assessments. [Art. 270d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270d)
 
@@ -36483,7 +36483,7 @@ It also addresses how credit assessments interact with eligible credit protectio
 
 **INSERTED · Art. 270e — Securitisation mapping** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new Article 270e, titled Securitisation mapping, which did not appear in the earlier version of the text. [Art. 270e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_270e)
 
@@ -36505,7 +36505,7 @@ It directs the EBA to draft implementing technical standards mapping credit qual
 
 *within* `AR 276 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The formula in paragraph 2 shows a minor formatting change, with a comma and space inserted between the CMV and CMC terms in the exposure value expression. [Art. 276, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20180101#art_276) [Art. 276, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190101#art_276)
 
@@ -36685,7 +36685,7 @@ The earlier version contained no such consultation requirement and referred only
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -36709,26 +36709,6 @@ The new provision also states that the report shall take into account regulatory
 > (c) what measures would be warranted to reduce and counter any negative effects of securitisation on financial stability while preserving its positive effect on financing, including the possible introduction of a maximum limit on exposure to securitisations; and
 > (d) the effects on the ability of financial institutions to provide a sustainable and stable funding channel to the real economy, with particular attention to SMEs.
 > The report shall also take into account regulatory developments in international fora, in particular those relating to international sta […truncated by emendrix: 25 characters omitted…]
-
-**MODIFIED · P 3** · applies from: unknown
-
-*amended by* `32017R2401`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · P 5** · applies from: unknown
-
-*amended by* `32017R2401`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20190101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20180101 -->

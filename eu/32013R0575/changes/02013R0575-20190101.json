@@ -14,23 +14,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 7,
-    "modified": 43,
+    "inserted": 6,
+    "modified": 42,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 50,
+    "touched_units": 48,
     "unchanged_units": 487,
-    "disputed": 38
+    "disputed": 36
   },
   "counts": {
-    "touched": 50,
+    "touched": 48,
     "substantive": 47,
     "date_only": 0,
-    "textless": 3,
-    "disputed": 38,
+    "textless": 1,
+    "disputed": 36,
     "quoted": 0,
-    "unexplained": 3
+    "unexplained": 1
   },
   "changes": [
     {
@@ -102,7 +102,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -215,7 +216,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -312,7 +314,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -438,7 +441,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -551,7 +555,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -646,7 +651,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -759,7 +765,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -872,7 +879,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -987,7 +995,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -996,7 +1004,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1147,7 +1156,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1156,7 +1165,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1304,7 +1314,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1313,7 +1323,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1481,7 +1492,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1490,7 +1501,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1590,7 +1602,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1599,7 +1611,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1705,7 +1718,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1714,7 +1727,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1840,7 +1854,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1849,7 +1863,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1976,7 +1991,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1985,7 +2000,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2119,7 +2135,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -2128,7 +2144,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2242,7 +2259,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -2251,7 +2268,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2382,7 +2400,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -2391,7 +2409,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2476,7 +2495,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -2485,7 +2504,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2625,7 +2645,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -2634,7 +2654,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2781,7 +2802,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -2790,7 +2811,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2924,7 +2946,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -2933,7 +2955,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3037,7 +3060,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -3046,7 +3069,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3146,7 +3170,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -3155,7 +3179,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3284,7 +3309,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -3293,7 +3318,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3403,7 +3429,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -3412,7 +3438,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3535,7 +3562,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -3544,7 +3571,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3690,7 +3718,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -3699,7 +3727,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3817,7 +3846,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -3826,7 +3855,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3950,7 +3980,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -3959,7 +3989,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4111,7 +4142,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4120,7 +4151,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4233,7 +4265,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4242,7 +4274,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4356,7 +4389,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4365,7 +4398,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4466,7 +4500,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4475,7 +4509,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4595,7 +4630,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4604,7 +4639,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4724,7 +4760,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4733,7 +4769,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed_on_retry",
       "sentences": [
@@ -4860,7 +4897,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4869,7 +4906,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4951,7 +4989,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4960,7 +4998,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -5023,7 +5062,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -5032,7 +5071,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -5114,7 +5154,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -5123,7 +5163,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -5205,7 +5246,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -5214,7 +5255,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -5297,7 +5339,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "24 annotations in (2018-01-01, 2019-01-01]",
+            "detail": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -5306,7 +5348,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -5433,7 +5476,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5591,7 +5635,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5692,7 +5737,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed_on_retry",
       "sentences": [
@@ -5808,7 +5854,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -5868,7 +5915,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5914,122 +5962,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02013R0575-20190101",
-          "location": "P 3"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R2401",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2019-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32017R2401 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32019R0876, 32017R2401",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02013R0575-20190101",
-          "location": "P 5"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R2401",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2019-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32017R2401 A",
-            "change_types": [
-              "INSERTED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32019R0876, 32017R2401",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -6112,11 +6044,9 @@
           "AR 457",
           "AR 462",
           "AR 471",
-          "AR 519a",
-          "P 3",
-          "P 5"
+          "AR 519a"
         ],
-        "note": "24 annotations in (2018-01-01, 2019-01-01]",
+        "note": "24 annotations in (2018-01-01, 2019-01-01]; 2 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 471 PA 1",
@@ -6167,17 +6097,6 @@
             "change_type": "MODIFIED",
             "in_force": "2019-01-01",
             "source": "32017R2401 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32017R2401",
-              "display_name": null
-            }
-          },
-          {
-            "location": "P 5",
-            "change_type": "INSERTED",
-            "in_force": "2019-01-01",
-            "source": "32017R2401 A",
             "amending_act": {
               "corpus": "eu",
               "key": "32017R2401",
@@ -6241,17 +6160,6 @@
           },
           {
             "location": "AR 154 PA 6",
-            "change_type": "MODIFIED",
-            "in_force": "2019-01-01",
-            "source": "32017R2401 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32017R2401",
-              "display_name": null
-            }
-          },
-          {
-            "location": "P 3 TIT II CHA 5",
             "change_type": "MODIFIED",
             "in_force": "2019-01-01",
             "source": "32017R2401 R",
@@ -6397,11 +6305,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 47,
-        "right_units": 15,
+        "right_units": 13,
         "shared": 12,
         "precision": 0.2553191489361702,
-        "recall": 0.8,
-        "f1": 0.3870967741935484,
+        "recall": 0.9230769230769231,
+        "f1": 0.4,
         "kind_mismatches": 0
       }
     ],
@@ -7053,49 +6961,12 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "P 3",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "P 5",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
       }
     ],
     "metadata_only_units": [
-      "AR 471",
-      "P 3",
-      "P 5"
-    ]
+      "AR 471"
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -7171,6 +7042,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 50,
+      "repaired": 37,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
