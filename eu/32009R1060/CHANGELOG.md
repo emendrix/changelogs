@@ -2274,9 +2274,9 @@ The phrase describing the scope of the First Council Directive 73/239/EEC was al
 ### `02009R1060-20091207` → `02009R1060-20110601`
 
 - **Act** `eu:32009R1060` · **In force** 2011-06-01 · **Detected** 2026-08-13
-- **Touched** 75 provisions — 49 substantive · 0 date-only · 26 with no text · **66 disputed**
-- **Diff** 19 inserted · 54 modified · 2 deleted · 0 renumbered · 0 deferred · 13 unchanged
-- **Gate** 0 sentences quoted verbatim · 26 changes shipped without an explanation
+- **Touched** 54 provisions — 49 substantive · 0 date-only · 5 with no text · **38 disputed**
+- **Diff** 19 inserted · 33 modified · 2 deleted · 0 renumbered · 0 deferred · 13 unchanged
+- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20091207` · `v2` = `02009R1060-20110601`
 
 ---
@@ -2284,8 +2284,6 @@ The phrase describing the scope of the First Council Directive 73/239/EEC was al
 **MODIFIED · Art. 3 — Definitions** · applies from: unchanged
 
 *within* `AR 3 PA 1 ALN 1 PTA (o)`, `AR 3 PA 1 ALN 1 PTA (p)`, `AR 3 PA 1 ALN 1 PTA (q)`, `AR 3 PA 1 ALN 1 PTA (r)` · *amended by* `32011R0513`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The definition list in point (1) now ends point (o) with a semicolon instead of a full stop and adds three new definitions. [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_3)
 
@@ -2327,21 +2325,9 @@ The earlier text contained only points (a) through (o) with no such additional d
 >
 > (g) regulatory purposes means the use of credit ra […truncated by emendrix: 3773 characters omitted…]
 
-**MODIFIED · Art. 3.1** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 4 — Use of credit ratings** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 4 PA 1 ALN 1`, `AR 4 PA 3 ALN 1 PTA (b)`, `AR 4 PA 3 ALN 1 PTA (c)`, `AR 4 PA 3 ALN 1 PTA (d)`, `AR 4 PA 3 ALN 1 PTA (h)`, `AR 4 PA 3 ALN 1 PTA (h) PTI (i)`, `AR 4 PA 3 ALN 1 PTA (h) PTI (ii)` · *dates* +2009-07-13 · *amended by* `32011R0513`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 1 now refers to UCITS by citing Directive 2009/65/EC instead of Directive 85/611/EEC, and adds alternative investment funds to the list of entities that may use credit ratings for regulatory purposes only if issued by a registered credit rating agency established in the Union. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_4) [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_4)
 
@@ -2370,31 +2356,9 @@ In paragraph 3, points (b), (c), (d) and (h), including its sub-points (i) and (
 > OJ L 302, 17.11.2009, p. 32., institutions for occupational retirement provision as defined in Directive 2003/41/EC and alternative investment funds may use credit ratings for regulatory purposes only if they are issued by credit rating agencies established in the Union and registered in accordance with this Regulation.
 > Where a prospectus published under Directive 2003/71/EC and Regulation (EC) No 809/2004 contains a reference to a credit rating or credit […truncated by emendrix: 4410 characters omitted…]
 
-**MODIFIED · Art. 4.1** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 4.3** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 5 — Equivalence and certification based on equivalence** · applies from: unchanged
 
 *within* `AR 5 PA 2 ALN 1`, `AR 5 PA 3 ALN 1`, `AR 5 PA 4 ALN 1`, `AR 5 PA 4 ALN 1 PTA (b)`, `AR 5 PA 4 ALN 2`, `AR 5 PA 6 ALN 1`, `AR 5 PA 7 ALN 1`, `AR 5 PA 7 ALN 1 PTA (a)`, `AR 5 PA 8 ALN 1` · *amended by* `32011R0513`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The certification application process no longer routes through CESR and the college-of-competent-authorities procedure with CESR publishing lists and facilitators being selected; instead the application is submitted to and examined and decided upon by ESMA directly. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_5)
 
@@ -2438,81 +2402,9 @@ Paragraph 6's rulemaking mechanism now describes the Commission specifying or am
 > 3.
 > ESMA shall examine and decide on the application for certification in accordance with the procedure set out in Article 16. The certification decision shall be based on the criteria set out […truncated by emendrix: 4323 characters omitted…]
 
-**MODIFIED · Art. 5.2** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5.3** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5.4** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5.5** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5.6** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5.7** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5.8** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 6 — Independence and avoidance of conflicts of interest** · applies from: unchanged
 
 *within* `AR 6 PA 3 ALN 1` · *amended by* `32011R0513`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 In the first sentence of Article 6(3), the actor empowered to exempt a credit rating agency from certain requirements changes from the competent authority of the home Member State to ESMA. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_6)
 
@@ -2546,16 +2438,6 @@ Correspondingly, the sentence on ensuring that at least one credit rating agency
 >
 > (c) the size of the credit rating agen […truncated by emendrix: 407 characters omitted…]
 
-**MODIFIED · Art. 6.3** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 9 — Outsourcing** · applies from: unchanged
 
 *within* `AR 9 ALN 1` · *amended by* `32011R0513`
@@ -2577,8 +2459,6 @@ The provision now refers to ESMA as the body whose ability to supervise complian
 **MODIFIED · Art. 10 — Disclosure and presentation of credit ratings** · applies from: unchanged
 
 *within* `AR 10 PA 6 ALN 1` · *amended by* `32011R0513`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 In paragraph 6, the restriction on using an authority's name to indicate or suggest endorsement or approval, which previously named only a competent authority, now also names ESMA alongside any competent authority in both places that phrase appears. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_10)
 
@@ -2615,21 +2495,9 @@ In paragraph 6, the restriction on using an authority's name to indicate or sugg
 > 6.
 > A credi […truncated by emendrix: 261 characters omitted…]
 
-**MODIFIED · Art. 10.6** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 11 — General and periodic disclosures** · applies from: unchanged
 
 *within* `AR 11 PA 2 ALN 1`, `AR 11 PA 3 ALN 1` · *amended by* `32011R0513`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 References to CESR in the provisions on the central repository and the standard reporting form have been replaced with references to ESMA. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_11)
 
@@ -2656,31 +2524,9 @@ The obligation on a credit rating agency to provide annual information under poi
 > 3.
 > A credit rating agency shall provide annually, by 31 March, to ESMA information relating to matters set out in point 2 of Part II of Section E of Annex I.
 
-**MODIFIED · Art. 11.2** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 11.3** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 14 — Requirement for registration** · applies from: unchanged
 
 *within* `AR 14 PA 2 ALN 1`, `AR 14 PA 3 ALN 1`, `AR 14 PA 4 ALN 1`, `AR 14 PA 5 ALN 1` · *amended by* `32011R0513`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The territorial reference for effectiveness of registration changed from the Community to the Union, and the actor issuing the registration decision changed from the competent authority of the home Member State to ESMA, with the cross-references updated from Article 16(7)/17(7) to Article 16(3)/17(3). [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_14)
 
@@ -2718,46 +2564,6 @@ The registering authority named in paragraph 4 and the authority barred from imp
 > Without prejudice to Article 16 or 17, ESMA shall register the credit rating agency if it concludes from the examination of the application that the credit rating agency complies with the conditions for the issuing of credit ratings set out in this Regulation, taking into consideration Articles 4 and 6.
 > 5.
 > ESMA shall not impose requirements regarding registration which are not provided for in this Regulation.
-
-**MODIFIED · Art. 14.2** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 14.3** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 14.4** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 14.5** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 15 — Application for registration** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -2800,7 +2606,7 @@ The former multi-step process involving transmission to competent authorities of
 
 *within* `AR 16`, `AR 16 PA 1 ALN 1`, `AR 16 PA 1 ALN 1 PTA (a)`, `AR 16 PA 1 ALN 1 PTA (b)`, `AR 16 PA 2 ALN 1`, `AR 16 PA 3 ALN 1`, `AR 16 PA 4 ALN 1`, `AR 16 PA 5`, `AR 16 PA 6`, `AR 16 PA 7` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading and body of Article 16 change the examining actor from the competent authority of the home Member State and the members of the relevant college, coordinated by a facilitator, to ESMA acting alone. [Art. 16, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_16) [Art. 16, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_16)
 
@@ -2846,7 +2652,7 @@ A new paragraph is added stating that the decision adopted by ESMA under paragra
 
 *within* `AR 17`, `AR 17 PA 1 ALN 1`, `AR 17 PA 1 ALN 1 PTA (a)`, `AR 17 PA 1 ALN 1 PTA (b)`, `AR 17 PA 2 ALN 1`, `AR 17 PA 3 ALN 1`, `AR 17 PA 4 ALN 1`, `AR 17 PA 5`, `AR 17 PA 6`, `AR 17 PA 7` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading and text change the examining actor from the facilitator and the competent authorities of the relevant college to ESMA acting alone, and the examination period is shortened from 60 working days to 55 working days, referencing Article 15(4) instead of Article 15(5). [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_17)
 
@@ -2893,7 +2699,7 @@ A new paragraph 4 states that the decision adopted by ESMA under paragraph 3 tak
 
 *within* `AR 18`, `AR 18 PA 1 ALN 1`, `AR 18 PA 2 ALN 1`, `AR 18 PA 3 ALN 1` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading now refers to notification of a decision to register, refuse or withdraw registration and publication of the list of registered credit rating agencies, and the actor performing notification, communication and publication tasks changes from the competent authority of the home Member State to ESMA, with the Commission's publication role limited to publishing the updated list in the Official Journal. [Art. 18, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_18) [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_18)
 
@@ -2926,7 +2732,7 @@ Paragraph 2 adds EBA, EIOPA, the competent authorities and the sectoral competen
 
 *within* `AR 19 PA 1`, `AR 19 PA 2`, `AR 19 ALN 1` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The provision changes from a single unnumbered paragraph allowing the competent authority of the home Member State to charge fees proportionate to its costs, to a two-paragraph structure in which ESMA charges the fees to credit rating agencies. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_19)
 
@@ -2956,7 +2762,7 @@ The after text further specifies that the Commission is to adopt this fees regul
 
 *within* `AR 20 PA 1 ALN 1`, `AR 20 PA 1 ALN 1 PTA (b)`, `AR 20 PA 1 ALN 1 PTA (c)`, `AR 20 PA 1 ALN 1 PTA (d)`, `AR 20 PA 2 ALN 1`, `AR 20 PA 3 ALN 1`, `AR 20 PA 4` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The provision now assigns the withdrawal decision to ESMA rather than to the competent authority of the home Member State, and removes the earlier college-of-supervisors procedure involving notification of a facilitator, joint assessment, CESR advice and individual national decisions. [Art. 20, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_20) [Art. 20, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_20)
 
@@ -2999,7 +2805,7 @@ The remaining text reassigns to ESMA the function previously held by the compete
 
 *within* `AR 21`, `AR 21 PA 1 ALN 1`, `AR 21 PA 2 ALN 1`, `AR 21 PA 2 ALN 1 PTA (a)`, `AR 21 PA 2 ALN 1 PTA (b)`, `AR 21 PA 2 ALN 1 PTA (c)`, `AR 21 PA 2 ALN 1 PTA (d)`, `AR 21 PA 3 ALN 1`, `AR 21 PA 3 ALN 1 PTA (a)`, `AR 21 PA 3 ALN 1 PTA (b)`, `AR 21 PA 3 ALN 1 PTA (c)`, `AR 21 PA 3 ALN 1 PTA (d)`, `AR 21 PA 4 ALN 1`, `AR 21 PA 4 ALN 1 PTA (a)`, `AR 21 PA 4 ALN 1 PTA (b)`, `AR 21 PA 4 ALN 1 PTA (c)`, `AR 21 PA 4 ALN 1 PTA (d)`, `AR 21 PA 4 ALN 1 PTA (e)`, `AR 21 PA 5 ALN 1`, `AR 21 PA 6`, `AR 21 PA 7` · *dates* -2010-06-07 -2010-09-07 -2010-12-07 +2011-06-07 +2012-01-01 +2012-01-02 · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The provision's heading and body change from referring to CESR to referring to ESMA, and the substantive tasks assigned to that body are rewritten throughout the article. [Art. 21, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_21) [Art. 21, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_21)
 
@@ -3048,7 +2854,7 @@ A new paragraph requiring an annual report to the European Parliament, the Counc
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3058,7 +2864,7 @@ A new paragraph requiring an annual report to the European Parliament, the Counc
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article giving ESMA a role in regularly examining compliance with the back-testing obligation under Article 8(3) as part of its ongoing supervision of registered credit rating agencies. [Art. 22a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_22a)
 
@@ -3113,7 +2919,7 @@ The former paragraphs 2 and 3, which listed supervisory and investigatory powers
 
 **INSERTED · Art. 23a — Exercise of the powers referred to in Articles 23b to 23d** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 A new Article 23a is added, stating that the powers given to ESMA, or to any official or other person authorised by ESMA, under Articles 23b to 23d cannot be used to require disclosure of information or documents that are subject to legal privilege. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_23a)
 
@@ -3125,7 +2931,7 @@ A new Article 23a is added, stating that the powers given to ESMA, or to any off
 
 **INSERTED · Art. 23b — Requests for information** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 This new Article 23b sets out ESMA's power to require credit rating agencies, related persons, rated entities and other connected parties to supply information necessary for carrying out its duties, either through a simple request or a formal decision. [Art. 23b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_23b)
 
@@ -3166,7 +2972,7 @@ The article also addresses who must supply the requested information, including 
 
 **INSERTED · Art. 23c — General investigations** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 This is a newly inserted Article 23c that grants ESMA a set of investigatory powers over persons referred to in Article 23b(1), including examining records, taking copies, requesting oral or written explanations, interviewing consenting third parties, and requesting telephone and data traffic records. [Art. 23c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_23c)
 
@@ -3193,7 +2999,7 @@ The provision also sets out procedural requirements for such investigations, inc
 
 **INSERTED · Art. 23d — On-site inspections** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 This provision introduces a new Article 23d, which did not previously exist, empowering ESMA to conduct on-site inspections at the business premises of certain legal persons and setting out related procedures. [Art. 23d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_23d)
 
@@ -3215,7 +3021,7 @@ It describes the powers of ESMA officials during inspections, the obligations of
 
 **INSERTED · Art. 23e — Procedural rules for taking supervisory measures and imposing fines** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 A new Article 23e is added, setting out procedural rules for how ESMA takes supervisory measures and imposes fines, including the appointment of an independent investigating officer, that officer's investigative powers, the rights of persons under investigation, the Board of Supervisors' decision process, delegated rulemaking by the Commission on fine procedures, and referral of matters for criminal prosecution. [Art. 23e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_23e)
 
@@ -3236,7 +3042,7 @@ A new Article 23e is added, setting out procedural rules for how ESMA takes supe
 
 *within* `AR 24`, `AR 24 PA 1 ALN 1`, `AR 24 PA 1 ALN 1 PTA (a)`, `AR 24 PA 1 ALN 1 PTA (b)`, `AR 24 PA 1 ALN 1 PTA (c)`, `AR 24 PA 1 ALN 1 PTA (d)`, `AR 24 PA 1 ALN 1 PTA (e)`, `AR 24 PA 1 ALN 1 PTA (f)`, `AR 24 PA 2 ALN 1`, `AR 24 PA 2 ALN 1 PTA (a)`, `AR 24 PA 2 ALN 1 PTA (b)`, `AR 24 PA 2 ALN 1 PTA (c)`, `AR 24 PA 2 ALN 1 PTA (d)`, `AR 24 PA 3 ALN 1`, `AR 24 PA 4`, `AR 24 PA 5` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading and substance shift the supervisory power from the competent authority of the home Member State to ESMA's Board of Supervisors, which acts upon a finding under Article 23e(5) that an infringement listed in Annex III has occurred, rather than a general finding that a registered agency breaches the Regulation's obligations. [Art. 24, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_24) [Art. 24, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_24)
 
@@ -3294,7 +3100,7 @@ New paragraphs are added on the criteria ESMA must weigh when deciding on measur
 
 *within* `AR 25`, `AR 25 PA 1 ALN 1`, `AR 25 PA 1 ALN 1 PTA (a)`, `AR 25 PA 1 ALN 1 PTA (b)`, `AR 25 PA 1 ALN 1 PTA (c)`, `AR 25 PA 1 ALN 1 PTA (d)`, `AR 25 PA 1 ALN 2`, `AR 25 PA 2 ALN 1`, `AR 25 PA 3`, `AR 25 PA 4` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The provision's heading and subject matter changed entirely: the earlier version set out supervisory measures that a competent authority other than the home Member State's authority could take against a registered credit rating agency, including consultation with a college of supervisors and CESR, while the later version instead concerns the hearing of persons subject to proceedings before ESMA's Board of Supervisors. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_25)
 
@@ -3324,7 +3130,7 @@ The later text introduces provisions on the right to be heard before decisions u
 
 **INSERTED · Art. 25a — Sectoral competent authorities responsible for the supervision and enforcement of Article 4(1) (the use of credit ratings)** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 This article is newly added and assigns sectoral competent authorities the role of supervising and enforcing Article 4(1) in accordance with relevant sectoral legislation. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_25a)
 
@@ -3338,7 +3144,7 @@ This article is newly added and assigns sectoral competent authorities the role 
 
 *within* `AR 26 ALN 1`, `AR 26 PA 1`, `AR 26 PA 2` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The provision no longer contains two separate numbered paragraphs, replacing them with a single sentence naming ESMA, EBA, EIOPA, the competent authorities and the sectoral competent authorities as the bodies with the obligation to cooperate, in place of the earlier text which referred only to the competent authorities cooperating with each other and with those supervising the undertakings referred to in Article 4(1). [Art. 26, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_26) [Art. 26, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_26)
 
@@ -3361,7 +3167,7 @@ The cooperation is now stated to be needed for the purposes of this Regulation a
 
 *within* `AR 27 PA 1 ALN 1`, `AR 27 PA 2 ALN 1` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 1 now names ESMA, the competent authorities, and the sectoral competent authorities as the parties obliged to supply each other with information without undue delay, and adds that this duty also arises under the relevant sectoral legislation, whereas the earlier text referred only to competent authorities and to duties under this Regulation. [Art. 27, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_27) [Art. 27, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_27)
 
@@ -3389,7 +3195,7 @@ The reciprocal communication clause in paragraph 2 is now phrased in terms of in
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3399,7 +3205,7 @@ The reciprocal communication clause in paragraph 2 is now phrased in terms of in
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3445,7 +3251,7 @@ The statement that delegation does not affect the responsibility of the delegati
 
 *within* `AR 31`, `AR 31 PA 1 ALN 1`, `AR 31 PA 1 ALN 2`, `AR 31 PA 2 ALN 1`, `AR 31 PA 2 ALN 2` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The article's heading and content changed from describing a CESR mediation mechanism for disagreements between competent authorities into provisions on notifications by a competent authority to ESMA about acts contrary to the Regulation and on requests that ESMA suspend the regulatory use of a credit rating agency's ratings. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_31)
 
@@ -3473,7 +3279,7 @@ The earlier text had CESR establishing a mediation mechanism and receiving refer
 
 *within* `AR 32 PA 1 ALN 1`, `AR 32 PA 2 ALN 1` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The obligation of professional secrecy is extended to name ESMA itself and the competent authorities directly, alongside persons working for them, and the delegation reference changes from the competent authority delegating tasks to ESMA delegating tasks to any other person. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_32)
 
@@ -3499,7 +3305,7 @@ The confidentiality provision in paragraph 2 changes from covering information e
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3537,7 +3343,7 @@ The rule on transfer of personal data to a third country now names ESMA as the a
 
 *within* `AR 35 ALN 1` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The text now names ESMA as the actor that may disclose the information received, rather than the competent authority of a Member State. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_35)
 
@@ -3583,7 +3389,7 @@ The authority responsible for disclosing imposed penalties changes from the comp
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 36a is added, setting out a system of fines for credit rating agencies found by ESMA's Board of Supervisors to have intentionally or negligently committed infringements listed in Annex III. [Art. 36a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_36a)
 
@@ -3615,7 +3421,7 @@ It also caps any fine at 20% of the agency's preceding-year turnover, requires t
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 36b is a wholly new provision setting out periodic penalty payments, empowering ESMA's Board of Supervisors to impose such payments by decision to compel compliance with earlier decisions on infringements, information requests, investigations, or on-site inspections. [Art. 36b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_36b)
 
@@ -3647,7 +3453,7 @@ It further specifies that the payment must be effective and proportionate, impos
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new, adding Article 36c which sets out a right for persons subject to proceedings to be heard by ESMA's Board of Supervisors on ESMA's findings before a fine or periodic penalty payment decision is taken under Article 36a or points (a) to (d) of Article 36b(1), with decisions to be based only on findings the persons have had a chance to comment on. [Art. 36c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_36c)
 
@@ -3666,7 +3472,7 @@ It also adds a second paragraph stating that the rights of defence of the person
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new provision setting out that ESMA must disclose to the public fines and periodic penalty payments imposed under Articles 36a and 36b, unless disclosure would seriously jeopardise financial markets or cause disproportionate damage to the parties involved. [Art. 36d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_36d)
 
@@ -3693,7 +3499,7 @@ The new text also provides that the amounts collected from these fines and perio
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 36e is added, granting the Court of Justice of the European Union unlimited jurisdiction to review decisions in which ESMA has imposed a fine or periodic penalty payment. [Art. 36e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_36e)
 
@@ -3730,7 +3536,7 @@ The reference to convergence of supervisory practice as a ground for amendment h
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3740,7 +3546,7 @@ The reference to convergence of supervisory practice as a ground for amendment h
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 38a is added, setting out that the Commission's power to adopt delegated acts under the specified provisions is conferred for a four-year period starting 1 June 2011, with a report due at least six months before that period ends and automatic extension unless revoked under Article 38b. [Art. 38a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_38a)
 
@@ -3761,7 +3567,7 @@ The new article also states that the Commission must notify the European Parliam
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new, adding an Article 38b that sets out a procedure for the European Parliament or the Council to revoke the delegation of power referred to in the third subparagraph of Article 5(6), Article 19(2), Article 23e(7) and Article 37. [Art. 38b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_38b)
 
@@ -3782,7 +3588,7 @@ It further describes that the institution beginning an internal procedure to con
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article setting out a procedure by which the European Parliament or the Council may object to a delegated act within three months of notification, a period extendable by three months at either institution's initiative. [Art. 38c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_38c)
 
@@ -3838,7 +3644,7 @@ Paragraph 3 also now refers to effects on the stability of financial markets in 
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 39a is added, requiring ESMA to assess the staffing and resource needs arising from taking on its powers and duties under the Regulation and to submit a report on that assessment to the European Parliament, the Council and the Commission. [Art. 39a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_39a)
 
@@ -3876,7 +3682,7 @@ The cross-reference for what applies if registration is refused changes from Art
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This entire article is new, setting out transitional arrangements for shifting supervisory and enforcement competences over credit rating agencies from national competent authorities and colleges to ESMA, with the transfer of competences described as terminating on 1 July 2011, subject to an exception for registration applications received by 7 September 2010. [Art. 40a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#art_40a)
 
@@ -3894,31 +3700,11 @@ It also provides for the transfer of files and records to ESMA, for ESMA to act 
 > 3.
 > The competent authorities and colleges referred to in paragraph 1 shall ensure that any existing records and working papers, or certified copies thereof, shall be transferred to ESMA as soon as possible and in any event by 1 July 2011. Those competent authorities and colleges shall also render all necessary assistance and advice to ESMA to facilitate effective and efficient transfer and taking-up of supervisory and enforcement activity in the field of […truncated by emendrix: 747 characters omitted…]
 
-**MODIFIED · Title** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Title IV** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — INDEPENDENCE AND AVOIDANCE OF CONFLICTS OF INTEREST** · applies from: unchanged
 
 *within* `AN I SCT A SCT 2`, `AN I SCT B SCT 8`, `AN I SCT E PTA (a)`, `AN I SCT E PTA (b)`, `AN I SCT E PTA (c)` · *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 In Section A point 2, opinions of the independent board members that were previously to be made available to the competent authority on request are now to be made available to ESMA on request. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20091207#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#anx_I)
 
@@ -3964,21 +3750,11 @@ In Section E, point II.2 now adds a new item (c) requiring an annual list of cre
 > At least one third, but no less than two, of the members of the administrative or supervisory board of a credit rating agency shall be independent members who are not involved in credit rating activities.
 > The compensation of the independent members of the administrative or supervisory board shall not be linked to the business performance of the credit rating agency and shall be arranged so as to ensure the independence of their judgement. The term of office of the independent members of the administrative or supervisory board shall be for a pre-agreed fixed period not exceeding five years and shall not be renewable. The dism […truncated by emendrix: 26015 characters omitted…]
 
-**MODIFIED · Annex II** · applies from: unknown
-
-*amended by* `32011R0513`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Annex III — ANNEX III** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 This is a newly added Annex III, setting out a categorised list of infringements referred to in Article 24(1) and Article 36a(1), divided into three groups covering conflicts of interest and organisational or operational requirements, obstacles to supervisory activities, and disclosure provisions. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#anx_III)
 
@@ -4011,7 +3787,7 @@ Each numbered item in the list describes a specific way a credit rating agency i
 
 *amended by* `32011R0513`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex IV is newly added, setting out coefficients tied to aggravating and mitigating factors that apply cumulatively to the basic amounts referenced in Article 36a(2). [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20110601#anx_IV)
 
