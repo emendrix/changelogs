@@ -4516,7 +4516,7 @@ Entry 22 on Resorcinol has been reworded so the mixing concentration limit of 1.
 ### `02009R1223-20130711` → `02009R1223-20130901`
 
 - **Act** `eu:32009R1223` · **In force** 2013-07-31 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20130711` · `v2` = `02009R1223-20130901`
@@ -4526,8 +4526,6 @@ Entry 22 on Resorcinol has been reworded so the mixing concentration limit of 1.
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32013R0658`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -4728,8 +4726,6 @@ Entry 22 on Resorcinol has been reworded so the mixing concentration limit of 1.
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32013R0658`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Entry 16 changes its chemical name from 1-Naphthol to 1-Naphthalenol and raises the maximum concentration applied to hair after mixing under oxidative conditions from 1 % to 2,0 %, and also drops language previously excluding eyelash and eyebrow dyeing use. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III)
 
