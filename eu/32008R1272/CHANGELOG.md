@@ -590,22 +590,12 @@ Part C section 1.4 and the standard formula tables in Part D now include a stand
 ### `02008R1272-20260501` → `02008R1272-20260701`
 
 - **Act** `eu:32008R1272` · **In force** 2026-07-01 · **Detected** 2026-09-04
-- **Touched** 38 provisions — 18 substantive · 0 date-only · 20 with no text · **27 disputed**
-- **Diff** 4 inserted · 34 modified · 0 deleted · 0 renumbered · 0 deferred · 59 unchanged
-- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
+- **Touched** 18 provisions — 18 substantive · 0 date-only · 0 with no text · **7 disputed**
+- **Diff** 3 inserted · 15 modified · 0 deleted · 0 renumbered · 0 deferred · 59 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20260501` · `v2` = `02008R1272-20260701`
 
 ---
-
-**MODIFIED · Art. 2** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 4 — General obligations to classify, label and package** · applies from: unchanged
 
@@ -769,46 +759,6 @@ Two entirely new paragraphs, 10 and 11, are added addressing how the concentrati
 > Manufacturers, importers and downstream users may set a specific concentration limit for a substance in exceptional circumstances where adequate, reliable and conclusive scientific information shows that the hazard of a substance classified as hazardous is not evident at a level above the concentrations set for the relevant hazard class in Part 2 of Annex I or above the generic concentration limits set for the relevant hazard class in Parts 3, 4 and 5 of that Annex.
 > 2. Manufacturers, importers and downstream users shall establish M-factors for substances classified as hazardous to the aquatic environment, acute category 1 or chro […truncated by emendrix: 2679 characters omitted…]
 
-**MODIFIED · Art. 13** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 18** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 23** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 24** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 25 — Supplemental information on the label** · applies from: unchanged
 
 *within* `AR 25 PA 3 ALN 1` · *amended by* `32024R2865`
@@ -875,7 +825,7 @@ A new paragraph 4b is added, providing a derogation from the Article 17(1) label
 
 *within* `AR 30 PA 1 ALN 1`, `AR 30 PA 2 ALN 1`, `AR 30 PA 3 ALN 1`, `AR 30 PA 4` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 1 changes from a general obligation to update labels without undue delay for more severe hazards or new supplemental elements into an obligation that ties the update to a specific timeframe of no later than 6 months after the results of a new evaluation under Article 15(4) are obtained by or communicated to the supplier, and it drops the earlier reference to supplier cooperation under Article 4(9). [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260501#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_30)
 
@@ -933,21 +883,11 @@ Paragraph 1b sets out requirements for a data carrier linking to a digital label
 > 4. The shape, colour and the size of a hazard pictogram as well as the dimensions of the label shall be as set out in section 1.2.1 of Annex I.
 > 5. A label shall not be required when the label elemen […truncated by emendrix: 204 characters omitted…]
 
-**MODIFIED · Art. 32** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 34a — Physical and digital labelling** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article establishing that label elements for substances and mixtures under Article 17 must be provided in physical form, with an option to also provide them digitally. [Art. 34a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_34a)
 
@@ -968,7 +908,7 @@ It also states that where information is provided through a digital label, the r
 
 *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new article sets out general rules and technical requirements that a digital label must satisfy when a supplier affixes or prints a data carrier linking to it under Article 31(1b), covering matters such as grouping of label elements, searchability, minimum accessibility duration, free access, accessibility for vulnerable groups, click-limits, technology compatibility, and language choice. [Art. 34b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_34b)
 
@@ -1021,36 +961,6 @@ This new paragraph also states that its first subparagraph does not apply to haz
 > 2. Packaging containing a hazardous substance or a mixture supplied to the general public shall not have either a shape or design likely to attract or arouse the active curiosity of children or to mislead consumers, or have a similar presentation or a design used for foodstuff or animal feeding stuff or medicinal or cosmetic products, which would mislead consumers.
 > Where the packaging contains a substance or mixture which meets the requirements in section 3.1.1 of Annex II it shall have a child-resistant fastening in accordance with sections 3.1.2, 3.1.3 and 3.1.4.2 of Annex II.
 > Where the packaging contains a substance or mixture which meets the requirements in section 3.2.1 of Annex II it shall bear a tactile warning of da […truncated by emendrix: 1044 characters omitted…]
-
-**MODIFIED · Art. 36** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 37** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 38** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 40 — Obligation to notify the Agency** · applies from: unchanged
 
@@ -1126,31 +1036,11 @@ A new paragraph 3a is added requiring the Agency to request a notifier to notify
 > 2. The Agency shall update the inventory when it receives updated information in accordance with Article 40(2) or Article 41.
 > 3. In addition to the i […truncated by emendrix: 878 characters omitted…]
 
-**MODIFIED · Art. 45** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 46** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 48 — Advertisement** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 48 PA 1 ALN 1`, `AR 48 PA 2 ALN 1`, `AR 48 PA 3`, `AR 48 PA 4` · *dates* -1997-05-20 · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The requirement for advertisements of hazardous substances shifted from mentioning the hazard classes or categories concerned to indicating, as applicable, the hazard pictograms, signal words, hazard statements and supplemental EUH statements set out in Annex II, with an added statement directing the general public to always follow the label information. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260501#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_48)
 
@@ -1180,7 +1070,7 @@ Two new provisions were added: one prohibiting advertisements from containing st
 
 *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 48a is added, requiring that when substances or mixtures are placed on the market through distance sales, the offer must clearly and visibly indicate the label elements referred to in Article 17. [Art. 48a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_48a)
 
@@ -1190,91 +1080,11 @@ A new Article 48a is added, requiring that when substances or mixtures are place
 > Distance sales offers
 > When substances or mixtures are placed on the market through distance sales, the offer shall clearly and visibly indicate the label elements referred to in Article 17.
 
-**MODIFIED · Art. 50** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 52** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 53** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 53a** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 53c** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 54** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 54a** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 61** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES** · applies from: unchanged
 
 *within* `AN I SCT 1 SCT 1.2 SCT 1.2.1 SCT 1.2.1.6`, `AN I SCT 1 SCT 1.5 SCT 1.5.1`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (a)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (i)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (ii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (iii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (iv)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (v)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (vi)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (vii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (viii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (ix)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (x)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (xi)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (c)`, `AN I SCT 1 SCT 1.6` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new section 1.2.1.6 on fold-out labels has been added, setting out required content for the front page, inner pages and back page of such labels. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#anx_I)
 
@@ -1328,7 +1138,7 @@ Section 1.5.2.4.1 has been restructured into a list of three alternative conditi
 
 *within* `AN II SCT 3 SCT 3.4`, `AN II SCT 5` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new section 3.4 has been added covering supply via refill stations, setting out conditions suppliers must ensure are met, including labelling and packaging requirements, risk mitigation, staff training, restrictions based on hazard classification, and a derogation allowing a single label to cover multiple substances or mixtures with identical label elements. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#anx_II)
 
@@ -1377,16 +1187,6 @@ Part 5 has been retitled by dropping the word "LIST OF" from its heading, and it
 > For substances and mixtures which react violently with water, such as acetyl chloride, alkali metals, titanium tetrachloride.
 > 1.1.2. EUH018 — In use, may form flammable/explosive vapour-air mixture
 > For substances and mixtures not classified as flammable themselves, which may form fla […truncated by emendrix: 19424 characters omitted…]
-
-**MODIFIED · TIS III** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20260701 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02008R1272-20260501 -->
