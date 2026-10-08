@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 5,
-    "modified": 10,
+    "modified": 9,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 15,
+    "touched_units": 14,
     "unchanged_units": 52,
-    "disputed": 6
+    "disputed": 5
   },
   "counts": {
-    "touched": 15,
+    "touched": 14,
     "substantive": 14,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 6,
+    "textless": 0,
+    "disputed": 5,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -93,7 +93,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -201,7 +202,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -321,7 +323,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "21 annotations in (the act itself, 2019-12-10]",
+            "detail": "21 annotations in (the act itself, 2019-12-10]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -332,7 +334,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -420,7 +423,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "21 annotations in (the act itself, 2019-12-10]",
+            "detail": "21 annotations in (the act itself, 2019-12-10]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -431,7 +434,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -500,7 +504,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "21 annotations in (the act itself, 2019-12-10]",
+            "detail": "21 annotations in (the act itself, 2019-12-10]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -511,7 +515,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -617,7 +622,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "21 annotations in (the act itself, 2019-12-10]",
+            "detail": "21 annotations in (the act itself, 2019-12-10]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -628,7 +633,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -711,7 +717,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -808,7 +815,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -943,7 +951,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1077,7 +1086,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1201,7 +1211,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1366,7 +1377,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1487,7 +1499,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1599,7 +1612,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1645,64 +1659,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32016R1011",
-            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
-          },
-          "version": "02016R1011-20191210",
-          "location": "TIS III"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32019R2089",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2019-12-10",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32019R2089 J",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32019R2089, 0.955 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -1749,22 +1705,10 @@
           "AR 49",
           "AR 51",
           "AR 54",
-          "AN III",
-          "TIS III"
+          "AN III"
         ],
-        "note": "21 annotations in (the act itself, 2019-12-10]",
+        "note": "21 annotations in (the act itself, 2019-12-10]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
-          {
-            "location": "TIS III CHA 3a",
-            "change_type": "INSERTED",
-            "in_force": "2019-12-10",
-            "source": "32019R2089 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32019R2089",
-              "display_name": null
-            }
-          },
           {
             "location": "AN III",
             "change_type": "INSERTED",
@@ -2246,11 +2190,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 14,
-        "right_units": 11,
+        "right_units": 10,
         "shared": 10,
         "precision": 0.7142857142857143,
-        "recall": 0.9090909090909091,
-        "f1": 0.8,
+        "recall": 1.0,
+        "f1": 0.8333333333333333,
         "kind_mismatches": 0
       },
       {
@@ -2267,12 +2211,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 11,
+        "left_units": 10,
         "right_units": 13,
         "shared": 9,
-        "precision": 0.8181818181818182,
+        "precision": 0.9,
         "recall": 0.6923076923076923,
-        "f1": 0.7500000000000001,
+        "f1": 0.7826086956521738,
         "kind_mismatches": 0
       }
     ],
@@ -2401,30 +2345,10 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "TIS III",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
-    "metadata_only_units": [
-      "TIS III"
-    ]
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -2486,6 +2410,20 @@
         "schema_repairs": 1
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 15,
+      "repaired": 5,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

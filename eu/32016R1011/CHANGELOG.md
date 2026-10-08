@@ -2223,9 +2223,9 @@ A new paragraph 7 is added empowering the Commission to adopt a delegated act by
 ### `32016R1011` → `02016R1011-20191210`
 
 - **Act** `eu:32016R1011` · **In force** 2019-12-10 · **Detected** 2026-08-13
-- **Touched** 15 provisions — 14 substantive · 0 date-only · 1 with no text · **6 disputed**
-- **Diff** 5 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 52 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 14 provisions — 14 substantive · 0 date-only · 0 with no text · **5 disputed**
+- **Diff** 5 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 52 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R1011` · `v2` = `02016R1011-20191210`
 
 ---
@@ -2315,7 +2315,7 @@ Paragraphs 1(a) through (c), paragraph 2, and paragraphs 3 and 4 remain otherwis
 
 *amended by* `32019R2089`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 19a is added establishing requirements for EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks, applying the standards set out in Annex III on top of the existing Titles II, III and IV requirements. [Art. 19a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_19a)
 
@@ -2336,7 +2336,7 @@ It also empowers the Commission to adopt delegated acts specifying minimum stand
 
 *amended by* `32019R2089`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 19b is a new provision setting out requirements for EU Climate Transition Benchmarks, directing administrators to select, weight, or exclude underlying assets from companies following a decarbonisation trajectory by 31 December 2022, subject to disclosure of measurable carbon emission reduction targets, disaggregated emission reductions at subsidiary level, annual progress reporting, and a condition that related activities do not significantly harm other ESG objectives. [Art. 19b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_19b)
 
@@ -2354,7 +2354,7 @@ Article 19b is a new provision setting out requirements for EU Climate Transitio
 
 *amended by* `32019R2089`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 19c is added, giving the Commission power to adopt a delegated act supplementing the Regulation by identifying sectors to be excluded from EU Paris-aligned Benchmarks because they lack measurable carbon emission reduction targets aligned with the Paris Agreement's objectives, with that act to be adopted and updated periodically. [Art. 19c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_19c)
 
@@ -2373,7 +2373,7 @@ It also states that the Commission is to take into account the work of the TEG w
 
 *amended by* `32019R2089`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 19d has been added, setting out that administrators located in the Union which provide significant benchmarks determined on the basis of the value of one or more underlying assets or prices shall endeavour to provide one or more EU Climate Transition Benchmarks by 1 January 2022. [Art. 19d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#art_19d)
 
@@ -2614,7 +2614,7 @@ Paragraph 4 sets a review by the Commission of minimum standards for EU Climate 
 
 *amended by* `32019R2089`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex III is newly added and sets out methodology requirements for EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks, covering disclosure of constituents, criteria, weighting factors, exclusion criteria, decarbonisation trajectory data, and total carbon emissions of the index portfolio. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20191210#anx_III)
 
@@ -2634,15 +2634,5 @@ It also newly sets out requirements for administrators of EU Paris-aligned Bench
 > (e) the type and source of data used to determine the decarbonisation trajectory for:
 > (i) Scope 1 carbon emissions, namely emissions generated from sources that are controlled by the company that issues the underlying assets;
 > (ii) Scope 2 carbon emissions, namely emissions […truncated by emendrix: 3038 characters omitted…]
-
-**MODIFIED · TIS III** · applies from: unknown
-
-*amended by* `32019R2089`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20191210 -->
 
