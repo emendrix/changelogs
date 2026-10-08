@@ -3632,7 +3632,7 @@ The remainder of the visible Annex III text, including entries 2b through 67 and
 ### `02009R1223-20150416` → `02009R1223-20150716`
 
 - **Act** `eu:32009R1223` · **In force** 2015-07-16 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20150416` · `v2` = `02009R1223-20150716`
@@ -3642,8 +3642,6 @@ The remainder of the visible Annex III text, including entries 2b through 67 and
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32014R1003`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Two new preamble notes were added stating that Methylisothiazolinone (entry 57) and the Methylchloroisothiazolinone/Methylisothiazolinone mixture (entry 39) are mutually exclusive and cannot both be used in the same product. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150716#anx_V)
 
