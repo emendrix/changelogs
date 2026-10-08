@@ -188,7 +188,7 @@ A new paragraph 2a has been inserted between paragraphs 2 and 3, stating that wh
 ### `02011R0305-20210716` → `02011R0305-20241117`
 
 - **Act** `eu:32011R0305` · **In force** 2024-11-17 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R0305-20210716` · `v2` = `02011R0305-20241117`
@@ -198,8 +198,6 @@ A new paragraph 2a has been inserted between paragraphs 2 and 3, stating that wh
 **MODIFIED · Annex V — ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE** · applies from: unchanged
 
 *within* `AN V SCT 1`, `AN V SCT 1 PTA (a)`, `AN V SCT 1 PTA (b)`, `AN V SCT 1 SCT 1.6`, `AN V SCT 2 PO 3`, `AN V SCT 2 PO 4`, `AN V SCT 3 PO 6` · *amended by* `32024R2769`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The later text adds a new System 1.4a, System 3+, describing tasks the manufacturer must carry out based on data collection, assumptions and modelling, together with a set of validation tasks assigned to a notified assessment validation body. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20241117#anx_V)
 
