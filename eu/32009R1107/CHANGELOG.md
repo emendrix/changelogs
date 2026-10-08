@@ -639,7 +639,7 @@ New text also addresses naturally occurring substances and substances used for c
 ### `32009R1107` → `02009R1107-20130701`
 
 - **Act** `eu:32009R1107` · **In force** 2013-07-01 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32009R1107` · `v2` = `02009R1107-20130701`
@@ -649,8 +649,6 @@ New text also addresses naturally occurring substances and substances used for c
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32013R0518`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of Member States belonging to Zone C — South now includes Croatia, inserted between France and Italy, whereas it was absent before. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1107#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20130701#anx_I)
 
