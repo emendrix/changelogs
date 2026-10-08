@@ -3956,7 +3956,7 @@ Because the provided texts are truncated partway through the table, only these c
 ### `02008R1272-20211001` → `02008R1272-20220301`
 
 - **Act** `eu:32008R1272` · **In force** 2022-03-01 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20211001` · `v2` = `02008R1272-20220301`
@@ -3966,8 +3966,6 @@ Because the provided texts are truncated partway through the table, only these c
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 3` · *amended by* `32020R1182`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
