@@ -82,7 +82,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02006R1907-20251023` → `02006R1907-20260511`
 
 - **Act** `eu:32006R1907` · **In force** 2026-05-11 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20251023` · `v2` = `02006R1907-20260511`
@@ -92,8 +92,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2018-05-30 +2025-11-26 +2027-05-10 +2027-05-11 +2029-05-11 · *amended by* `32026R0859`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of referenced Union acts that precedes the substance table has had three new entries added, citing Regulation (EU) 2025/2509 on the safety of toys (repealing Directive 2009/48/EC) and Regulation (EU) 2018/858 on the approval and market surveillance of motor vehicles. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20260511#anx_XVII)
 
