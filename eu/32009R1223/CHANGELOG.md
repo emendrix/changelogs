@@ -3078,7 +3078,7 @@ No substances, concentrations, conditions, or wording of warnings were altered a
 ### `02009R1223-20160810` → `02009R1223-20160812`
 
 - **Act** `eu:32009R1223` · **In force** 2016-08-12 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20160810` · `v2` = `02009R1223-20160812`
@@ -3089,7 +3089,7 @@ No substances, concentrations, conditions, or wording of warnings were altered a
 
 *within* `AN III`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -3108,8 +3108,6 @@ No substances, concentrations, conditions, or wording of warnings were altered a
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32016R1198`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In entry 39's footnote, the reference to entry 39 was clarified by adding "of Annex V" and by changing the capitalisation of methylchloroisothiazolinone to lower case. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V)
 
