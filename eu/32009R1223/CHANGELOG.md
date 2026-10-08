@@ -425,7 +425,7 @@ The wording of conditions of use and warnings for entry 7 is expanded to add res
 ### `02009R1223-20240404` → `02009R1223-20240424`
 
 - **Act** `eu:32009R1223` · **In force** 2024-04-24 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **3 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20240404` · `v2` = `02009R1223-20240424`
@@ -435,8 +435,6 @@ The wording of conditions of use and warnings for entry 7 is expanded to add res
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II` · *dates* +2025-05-01 +2026-05-01 · *amended by* `32024R0996`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new sentence has been added to the introductory notes of the Annex stating a further market restriction, worded in the same style as the preceding sale-restriction notes but referencing dates of 1 May 2025 and 1 May 2026. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20240424#anx_II)
 
@@ -479,8 +477,6 @@ Both versions continue with the same long numbered list of substances, and the v
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2027-05-01 · *amended by* `32024R0996`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The footnote about a substance not complying with restrictions from 1 February 2025 and 1 November 2025 now adds the phrase 'and not complying with the restrictions' to the second sentence, where before that sentence lacked that qualifying phrase. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20240404#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20240424#anx_III)
 
@@ -531,8 +527,6 @@ Because the provided text is truncated, only these visible changes to the footno
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN V` · *dates* +2024-04-23 +2024-12-31 +2025-10-31 · *amended by* `32024R0996`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new preamble sentence was added stating that cosmetic products containing the substance referred to (Triclocarban/Triclosan context) that do not comply with the new conditions may, if they comply with the conditions applicable on 23 April 2024, be placed on the Union market until 31 December 2024 and continue to be made available until 31 October 2025. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20240424#anx_V)
 
