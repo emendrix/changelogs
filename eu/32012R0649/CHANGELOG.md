@@ -757,7 +757,7 @@ Part 2 also gains three new entries, numbered 5, 6 and 7 in the text shown, cove
 ### `02012R0649-20180401` → `02012R0649-20190501`
 
 - **Act** `eu:32012R0649` · **In force** 2019-05-01 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20180401` · `v2` = `02012R0649-20190501`
@@ -767,8 +767,6 @@ Part 2 also gains three new entries, numbered 5, 6 and 7 in the text shown, cove
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32019R0330`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex I gained numerous new chemical entries across Parts 1, 2 and 3, including substances such as Acetochlor, Amitrole, Asulam, Beta-cypermethrin, Chloropicrin, DPX KE 459, Fipronil, Flufenoxuron, Iprodione, Isoproturon, Linuron, Maneb, Naled, Orthosulfamuron, Picoxystrobin, Propargite, Triasulfuron and Short-chain chlorinated paraffins, none of which appeared in the prior text. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_I)
 
@@ -809,8 +807,6 @@ A number of existing entries in Parts 1 through 3 had their CN or HS codes, subc
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32019R0330`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Part 1 gains new entries for Endosulfan and for Short-chain chlorinated paraffins, each listed with its EC number, CAS number and CN code, alongside the previously listed persistent organic pollutants. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_V)
 
