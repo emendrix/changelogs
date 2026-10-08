@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02008R1272-20260701` → `02008R1272-20270101`
 
 - **Act** `eu:32008R1272` · **In force** 2027-01-01 · **Detected** 2026-09-30
-- **Touched** 37 provisions — 8 substantive · 0 date-only · 29 with no text · **34 disputed**
-- **Diff** 3 inserted · 33 modified · 1 deleted · 0 renumbered · 0 deferred · 69 unchanged
-- **Gate** 0 sentences quoted verbatim · 29 changes shipped without an explanation
+- **Touched** 8 provisions — 8 substantive · 0 date-only · 0 with no text · **5 disputed**
+- **Diff** 0 inserted · 7 modified · 1 deleted · 0 renumbered · 0 deferred · 69 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20260701` · `v2` = `02008R1272-20270101`
 
 ---
@@ -61,66 +61,6 @@ A new point (f) is added, stating an obligation for downstream users, importers 
 > (e) establishing a classification and labelling inventory of substances, which is made up of all notifications, submissions and harmonised classifications and labelling elements referred to in points (c) and (d);
 > (f) providing an obligation for downstream users, importers and distributors referred […truncated by emendrix: 2488 characters omitted…]
 
-**MODIFIED · Art. 2** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 6** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 9** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 10** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 13** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 18 — Product identifiers** · applies from: unchanged
 
 *within* `AR 18 PA 3 ALN 1 PTA (b)` · *amended by* `32024R2865`
@@ -155,51 +95,11 @@ The wording "specific target organ toxicity (STOT)" is shortened to "specific ta
 > (d) if the CAS number is not available, the name set out in the IUPAC Nomenclature or another international chemical name(s).
 > Where the name in the IUPAC nomenclature exceeds 100 characters, one of the other names (usual name, trade name, abbreviation) referred to in section 2.1.2 […truncated by emendrix: 1323 characters omitted…]
 
-**MODIFIED · Art. 23** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 24** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 25** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 29** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 30 — Updating information on labels** · applies from: unchanged
 
 *within* `AR 30 PA 1 ALN 1`, `AR 30 PA 2 ALN 1`, `AR 30 PA 3 ALN 1`, `AR 30 PA 4` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The updating trigger in paragraph 1 changes from a defined event tied to a new evaluation under Article 15(4), with a fixed 6-month deadline, to a duty to update without undue delay following any classification or labelling change, judged by the nature of the change for human health and environmental protection, and it adds a requirement that suppliers cooperate under Article 4(9) to complete labelling changes without undue delay. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_30)
 
@@ -223,106 +123,6 @@ The former paragraph 3 exemption for changes triggered by harmonised classificat
 > 1. The supplier shall ensure that the label is updated, without undue delay, following any change to the classification and labelling of that substance or mixture, where the new hazard is more severe or where new supplemental labelling elements are required under Article 25, taking into account the nature of the change as regards the protection of human health and the environment. Suppliers shall cooperate in accordance with Article 4(9) to complete the changes to the labelling without undue delay.
 > 2. Where labelling changes are required other than those referred to in paragraph 1, the supplier shall ensure that the label is updated within 18 months.
 > 3. The supplier of a substance or a mixture within the scope of Directives 91/414/EEC or 98/8/EC shall update the label in accordance with those Directives.
-
-**MODIFIED · Art. 31** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 32** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 34a** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 34b** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 35** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 36** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 37** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 38** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 40** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 42** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 45 — Appointment of bodies responsible for receiving information relating to emergency health response** · applies from: unchanged
 
@@ -356,21 +156,11 @@ Paragraph 3 is reworded so that the appointed bodies must have at their disposal
 > 2. The appointed bodies shall provide all requisite guarantees for maintaining the confidentiality of the information received. Such information may only be used:
 > (a) t […truncated by emendrix: 941 characters omitted…]
 
-**MODIFIED · Art. 46** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 48 — Advertisement** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 48 PA 1 ALN 1`, `AR 48 PA 2 ALN 1`, `AR 48 PA 3`, `AR 48 PA 4` · *dates* +1997-05-20 · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The advertisement requirement for hazardous substances changed from listing hazard pictograms, signal words, hazard statements and supplemental EUH statements, plus a general-public label-following notice, to a simpler duty to mention the hazard classes or hazard categories concerned. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#art_48)
 
@@ -400,7 +190,7 @@ The prior paragraphs on prohibited label-inconsistent statements and on omitting
 
 *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 48a, which required that distance-sales offers of substances or mixtures clearly and visibly show the label elements referred to in Article 17, no longer appears in the text. [Art. 48a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#art_48a)
 
@@ -410,91 +200,11 @@ Article 48a, which required that distance-sales offers of substances or mixtures
 > Distance sales offers
 > When substances or mixtures are placed on the market through distance sales, the offer shall clearly and visibly indicate the label elements referred to in Article 17.
 
-**MODIFIED · Art. 50** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 52** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 53** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 53a** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 53c** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 54** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 54a** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 61** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
 
 *within* `AN II SCT 2`, `AN II SCT 5`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 In section 2, the introductory sentence now refers only to sections 2.1 to 2.10 and no longer includes a reference to section 2.12. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260701#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#anx_II)
 
@@ -548,7 +258,7 @@ In section 5, the heading changes from a description of a list to the phrase nam
 
 *within* `AN VIII`, `AN VIII SCT 1`, `AN VIII SCT 2`, `AN VIII SCT 2 PO 5`, `AN VIII SCT 2 PO 6`, `AN VIII SCT 3.1`, `AN VIII SCT 3.6`, `AN VIII SCT 3.7`, `AN VIII SCT 4.1`, `AN VIII SCT 1.4` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The revised Annex now names distributors referred to in Article 45(1b) and (1c), alongside importers and downstream users, as subject to the application and definitions provisions in Part A sections 1 and 2, and also adds a new definition of a composition conforming with a standard formula in section 2.4. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20270101#anx_VIII)
 
