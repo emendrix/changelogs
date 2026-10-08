@@ -569,7 +569,7 @@ These additions do not appear in the earlier version of Annex II, which ends sec
 ### `02009R1107-20140630` → `02009R1107-20170828`
 
 - **Act** `eu:32009R1107` · **In force** 2017-08-28 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20140630` · `v2` = `02009R1107-20170828`
@@ -579,8 +579,6 @@ These additions do not appear in the earlier version of Annex II, which ends sec
 **MODIFIED · Annex II — ANNEX II** · applies from: unchanged
 
 *within* `AN II SCT 5`, `AN II SCT 5 SCT 5.1`, `AN II SCT 5 SCT 5.2` · *amended by* `32017R1432`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 5 on low-risk active substances is restructured into two new subsections, 5.1 covering active substances other than micro-organisms and 5.2 covering micro-organisms, replacing the single undivided list of disqualifying properties. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20140630#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20170828#anx_II)
 
