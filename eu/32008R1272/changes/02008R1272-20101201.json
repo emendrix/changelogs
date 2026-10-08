@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 7,
+    "modified": 4,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 7,
+    "touched_units": 4,
     "unchanged_units": 65,
-    "disputed": 7
+    "disputed": 4
   },
   "counts": {
-    "touched": 7,
+    "touched": 4,
     "substantive": 4,
     "date_only": 0,
-    "textless": 3,
-    "disputed": 7,
+    "textless": 0,
+    "disputed": 4,
     "quoted": 0,
-    "unexplained": 3
+    "unexplained": 0
   },
   "changes": [
     {
@@ -86,7 +86,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -169,64 +170,6 @@
             "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
           },
           "version": "02008R1272-20101201",
-          "location": "AN II"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32009R0790",
-            "display_name": "Commission Regulation (EC) No 790/2009 of 10 August 2009 amending, for the purposes of its adaptation to technical and scientific progress, Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (the act itself, 2010-12-01]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (1) (b)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32008R1272",
-            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
-          },
-          "version": "02008R1272-20101201",
           "location": "AN III"
         },
         "heading": "LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS",
@@ -272,7 +215,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -417,7 +361,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -519,64 +464,6 @@
             "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
           },
           "version": "02008R1272-20101201",
-          "location": "AN V"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32009R0790",
-            "display_name": "Commission Regulation (EC) No 790/2009 of 10 August 2009 amending, for the purposes of its adaptation to technical and scientific progress, Regulation (EC) No 1272/2008 of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (the act itself, 2010-12-01]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (2) (b)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32008R1272",
-            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
-          },
-          "version": "02008R1272-20101201",
           "location": "AN VI"
         },
         "heading": "Harmonised classification and labelling for certain hazardous substances",
@@ -587,10 +474,16 @@
           "AN VI SCT 1 SCT 1.1 SCT 1.1.4 SCT 1.1.4.4",
           "AN VI SCT 3"
         ],
-        "amending_acts": [],
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32009R0790",
+            "display_name": null
+          }
+        ],
         "dates_removed": [],
         "dates_added": [],
-        "in_force": null,
+        "in_force": "2010-12-01",
         "applies_from": {
           "kind": "unchanged"
         },
@@ -603,9 +496,11 @@
             ]
           },
           "corpus_metadata": {
-            "status": "absent",
-            "detail": "1 annotations in (the act itself, 2010-12-01]",
-            "change_types": []
+            "status": "observed",
+            "detail": "32009R0790 M",
+            "change_types": [
+              "MODIFIED"
+            ]
           },
           "instruction_parse": {
             "status": "absent",
@@ -613,7 +508,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -691,64 +587,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32008R1272",
-            "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
-          },
-          "version": "02008R1272-20101201",
-          "location": "AN 6"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32009R0790",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2010-12-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32009R0790 M",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32009R0790, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -776,12 +614,12 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AN 6"
+          "AN VI"
         ],
         "note": "1 annotations in (the act itself, 2010-12-01]",
         "claims": [
           {
-            "location": "AN 6 PA 3",
+            "location": "AN VI PA 3",
             "change_type": "MODIFIED",
             "in_force": "2010-12-01",
             "source": "32009R0790 M",
@@ -880,10 +718,10 @@
         "right": "corpus_metadata",
         "left_units": 4,
         "right_units": 1,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 1,
+        "precision": 0.25,
+        "recall": 1.0,
+        "f1": 0.4,
         "kind_mismatches": 0
       },
       {
@@ -927,25 +765,6 @@
               "MODIFIED"
             ]
           ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN II",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
           [
             "instruction_parse",
             [
@@ -1005,32 +824,13 @@
         ]
       },
       {
-        "unit": "AN V",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
+        "unit": "AN VI",
+        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
         "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
           "structural_diff",
           "corpus_metadata"
         ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN VI",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
-        "observed_by": [
-          "structural_diff"
-        ],
         "absent_from": [
-          "corpus_metadata",
           "instruction_parse"
         ],
         "kinds": [
@@ -1039,20 +839,7 @@
             [
               "MODIFIED"
             ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN 6",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
+          ],
           [
             "corpus_metadata",
             [
@@ -1062,10 +849,10 @@
         ]
       }
     ],
-    "metadata_only_units": [
+    "metadata_only_units": [],
+    "instruction_only_units": [
       "AN II",
-      "AN V",
-      "AN 6"
+      "AN V"
     ]
   },
   "explain": {
@@ -1128,6 +915,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 7,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

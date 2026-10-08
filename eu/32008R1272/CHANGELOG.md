@@ -8684,9 +8684,9 @@ In the row for N; R59, the entry under "This Regulation" changes from the code E
 ### `32008R1272` → `02008R1272-20101201`
 
 - **Act** `eu:32008R1272` · **In force** 2010-12-01 · **Detected** 2026-08-13
-- **Touched** 7 provisions — 4 substantive · 0 date-only · 3 with no text · **7 disputed**
-- **Diff** 0 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32008R1272` · `v2` = `02008R1272-20101201`
 
 ---
@@ -8695,7 +8695,7 @@ In the row for N; R59, the entry under "This Regulation" changes from the code E
 
 *within* `AN I SCT 2 SCT 2.1 SCT 2.1.4 PTA (b)` · *amended by* `32009R0790`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Both versions of Annex I are provided in full but are cut off before reaching the end, so any difference specifically within section 2.1.4(b) cannot be identified from the visible text. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_I)
 
@@ -8757,21 +8757,11 @@ The portions of section 2.1 and its subsection 2.1.4 that are shown, including t
 > Suppliers in an industry sector may cooperate to manage the transitional arrangements in Article 61 for substances and mixtures placed on the market.
 > Suppliers in an industry sector may cooperate through formation of a network or by other means to share data and expertise when classifying substances and mixtures in accordance wi […truncated by emendrix: 286177 characters omitted…]
 
-**MODIFIED · Annex II** · applies from: unknown
-
-*amended by* `32009R0790`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex III — LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS** · applies from: unchanged
 
 *within* `AN III SCT 1`, `AN III SCT 2`, `AN III SCT 3` · *amended by* `32009R0790`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The visible portions of Annex III sections 1 through 3 in both versions contain the same hazard statement codes, category descriptions and translations across all listed languages, including the Romanian entries which merely show diacritical mark rendering differences (e.g. ș/ț versus ş/ţ) rather than substantive wording changes. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_III)
 
@@ -8950,7 +8940,7 @@ Both texts are truncated before their end, so no conclusion can be drawn about a
 
 *within* `AN IV SCT 2` · *amended by* `32009R0790`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Both versions carry the same set of precautionary statement tables and translated phrases in Annex IV section 2, and the visible content of the codes, hazard classes, categories and conditions for use appears unchanged between the two texts. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_IV)
 
@@ -9073,21 +9063,11 @@ Because both texts were cut short before their end, any further differences beyo
 > P210
 > Keep away from heat […truncated by emendrix: 222708 characters omitted…]
 
-**MODIFIED · Annex V** · applies from: unknown
-
-*amended by* `32009R0790`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
-*within* `AN VI SCT 1 SCT 1.1 SCT 1.1.4 SCT 1.1.4.4`, `AN VI SCT 3`
+*within* `AN VI SCT 1 SCT 1.1 SCT 1.1.4 SCT 1.1.4.4`, `AN VI SCT 3` · *amended by* `32009R0790`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The table of hazardous substance entries in Part 3 has been revised, with some entries such as aluminium lithium hydride and dibutyltin hydrogen borate given different classification, labelling and specific concentration limit details, and new entries such as isobutyllithium and several boron and borate substances added. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
 
@@ -9129,15 +9109,5 @@ Because both texts are truncated before the full extent of the Table 3.1 changes
 >
 > 1.1.1.1. Index numbers
 > Entries in Part 3 are listed according to the atomic number of the element most characteristic of the properties of the substance. Organic substances, because of their variety, have been placed in classes. The Index number for each substance is in the form of a digit sequence of the type ABC-RST-VW-Y. ABC corresponds to the atomic number of the most cha […truncated by emendrix: 1968671 characters omitted…]
-
-**MODIFIED · Annex 6** · applies from: unknown
-
-*amended by* `32009R0790`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R1272-20101201 -->
 
