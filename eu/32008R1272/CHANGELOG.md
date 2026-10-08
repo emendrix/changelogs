@@ -4725,7 +4725,7 @@ The text shown is truncated before the rest of the entries in Table 3, so any fu
 ### `02008R1272-20200101` → `02008R1272-20200501`
 
 - **Act** `eu:32008R1272` · **In force** 2020-05-01 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 72 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20200101` · `v2` = `02008R1272-20200501`
@@ -4735,8 +4735,6 @@ The text shown is truncated before the rest of the entries in Table 3, so any fu
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 3` · *amended by* `32018R1480`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The explanatory note above the Table 3 column headers was changed from a statement about a converted acute toxicity point estimate referencing Annex I Table 3.1.2 to a statement explaining that ATEs for oral and dermal exposure routes are expressed in mg/kg bodyweight. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI)
 
