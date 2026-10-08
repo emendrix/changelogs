@@ -347,7 +347,7 @@ The wording of conditions of use and warnings for entry 7 is expanded to add res
 ### `02009R1223-20250501` → `02009R1223-20250901`
 
 - **Act** `eu:32009R1223` · **In force** 2025-09-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20250501` · `v2` = `02009R1223-20250901`
@@ -357,8 +357,6 @@ The wording of conditions of use and warnings for entry 7 is expanded to add res
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32025R0877`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -379,8 +377,6 @@ The wording of conditions of use and warnings for entry 7 is expanded to add res
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32025R0877`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
