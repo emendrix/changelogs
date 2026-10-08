@@ -3956,7 +3956,7 @@ A new subparagraph has been inserted at the end of entry 23, paragraph 1, statin
 ### `02006R1907-20120601` → `02006R1907-20120605`
 
 - **Act** `eu:32006R1907` · **In force** 2012-06-05 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20120601` · `v2` = `02006R1907-20120605`
@@ -3966,8 +3966,6 @@ A new subparagraph has been inserted at the end of entry 23, paragraph 1, statin
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
 
 *within* `AN XVII` · *amended by* `32012R0412`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The visible portion of the two texts is essentially identical in substance, with the only differences being formatting artifacts such as line breaks, spacing and paragraph wrapping around entry headings and sub-items. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII)
 
