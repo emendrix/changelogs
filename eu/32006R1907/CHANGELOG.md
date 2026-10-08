@@ -737,7 +737,7 @@ Both the before and after texts are cut off before the end of entry 31's conditi
 ### `02006R1907-20220501` → `02006R1907-20221014`
 
 - **Act** `eu:32006R1907` · **In force** 2022-10-14 · **Detected** 2026-08-13
-- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **5 disputed**
+- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 153 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20220501` · `v2` = `02006R1907-20221014`
@@ -747,8 +747,6 @@ Both the before and after texts are cut off before the end of entry 31's conditi
 **MODIFIED · Annex VI — INFORMATION REQUIREMENTS REFERRED TO IN ARTICLE 10** · applies from: unchanged
 
 *within* `AN VI SCT 1`, `AN VI SCT 2`, `AN VI SCT 3` · *amended by* `32022R0477`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 1 drops fax numbers from the registrant and third-party contact details, adds a new point 1.1.4 requiring information about the non-Union person who appointed an only representative, and rewrites the joint-submission text in point 1.2 to describe how lead and member registrants must identify which composition, nanoform or set of similar nanoforms specific information items relate to. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VI)
 
@@ -777,8 +775,6 @@ In section 3, point 3.5 changes from requiring a brief general description of id
 **MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
 
 *within* `AN VII SCT 8`, `AN VII SCT 9` · *amended by* `32022R0477`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 8.4 on mutagenicity now sets out a detailed follow-up testing sequence, requiring the registrant to perform an in vitro study referenced in Annex VIII point 8.4.2 after a positive in vitro gene mutation result, and to propose (or have the Agency require) an in vivo study referenced in Annex IX point 8.4.4 based on positive genotoxicity results, addressing chromosomal aberration or gene mutation concerns as appropriate, and it adds circumstances under which the bacterial gene mutation test and follow-up testing need not be conducted, whereas the earlier text only stated that further mutagenicity studies should be considered after a positive result. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VII) [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_VII)
 
@@ -816,8 +812,6 @@ In section 9.1.1, the adaptation condition changed from referring to "mitigating
 
 *within* `AN VIII SCT 8`, `AN VIII SCT 9` · *amended by* `32022R0477`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 Section 8.4 gains a new introductory paragraph setting out conditions under which the studies in points 8.4.2 and 8.4.3 do not need to be conducted, plus new text on proposing or requiring an in vivo study following a positive in vitro genotoxicity result or where an in vitro study is not applicable, and point 8.4.2 is retitled from an in vitro cytogenicity/micronucleus study to an in vitro mammalian chromosomal aberration or micronucleus study. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VIII)
 
 Section 8.7.1 now specifies OECD TG 421 or TG 422 with a preferred species of rat and a specified route of administration with allowance for justified deviations, and its column 2 conditions are reworded and expanded, including new references to specific OECD test guideline numbers and to serious concerns that may trigger an Extended One-Generation or pre-natal developmental toxicity study instead of the screening study. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_VIII)
@@ -843,8 +837,6 @@ In section 9, entries 9.1.3, 9.2 and 9.3 are rewritten with new or restructured 
 **MODIFIED · Annex IX — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 100 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN IX SCT 8`, `AN IX SCT 9` · *dates* +2022-04-14 · *amended by* `32022R0477`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 8.4 was rewritten from a single provision on in vivo somatic cell genotoxicity testing triggered by a positive in vitro result into a structured mutagenicity requirement with new sub-points 8.4.4 and 8.4.5, each carrying its own trigger conditions and adaptation rules for in vivo somatic cell and germ cell genotoxicity studies, and new conditions for not conducting these studies based on classification and risk management measures. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_IX) [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_IX)
 
@@ -873,8 +865,6 @@ Section 9 was changed by rewording the triggers for long-term aquatic toxicity a
 **MODIFIED · Annex X — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 1000 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
 
 *within* `AN X SCT 8`, `AN X SCT 9` · *amended by* `32022R0477`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 8.4 now carries a heading of 'Mutagenicity' and sets out two conditions under which the studies referenced in points 8.4.6 and 8.4.7 do not need to be conducted, replacing the earlier text about a second in vivo somatic cell test following a positive in vitro genotoxicity result, and new points 8.4.6 and 8.4.7 describe second in vivo mammalian somatic cell and germ cell genotoxicity studies together with a condition for not conducting the latter. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_X) [Annex X, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20221014#anx_X)
 
