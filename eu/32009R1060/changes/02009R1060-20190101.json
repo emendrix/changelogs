@@ -15,23 +15,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 2,
-    "modified": 22,
+    "inserted": 1,
+    "modified": 13,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 24,
+    "touched_units": 14,
     "unchanged_units": 66,
-    "disputed": 16
+    "disputed": 6
   },
   "counts": {
-    "touched": 24,
+    "touched": 14,
     "substantive": 8,
     "date_only": 0,
-    "textless": 16,
-    "disputed": 16,
+    "textless": 6,
+    "disputed": 6,
     "quoted": 0,
-    "unexplained": 16
+    "unexplained": 6
   },
   "changes": [
     {
@@ -87,7 +87,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -200,7 +201,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -310,7 +312,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -368,7 +371,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -386,7 +390,7 @@
             "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
           },
           "version": "02009R1060-20190101",
-          "location": "AR 6.1"
+          "location": "AR 6"
         },
         "heading": null,
         "before": null,
@@ -426,7 +430,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -444,7 +449,7 @@
             "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
           },
           "version": "02009R1060-20190101",
-          "location": "AR 7.5"
+          "location": "AR 7"
         },
         "heading": null,
         "before": null,
@@ -484,7 +489,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -539,8 +545,9 @@
           },
           "corpus_metadata": {
             "status": "observed",
-            "detail": "32017R2402 R; 32013R0462 J",
+            "detail": "32017R2402 R; 32013R0462 J; 32013R0462 M; 32013R0462 R",
             "change_types": [
+              "INSERTED",
               "MODIFIED"
             ]
           },
@@ -550,7 +557,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -590,238 +598,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "AR 8.2"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R0462",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2018-06-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32013R0462 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "AR 8.5"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R0462",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2018-06-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32013R0462 J; 32013R0462 M",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "AR 8.6"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R0462",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2018-06-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32013R0462 M",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "AR 8.7"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R0462",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2018-06-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32013R0462 J",
-            "change_types": [
-              "INSERTED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -873,7 +649,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -935,7 +712,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1019,11 +797,16 @@
             "corpus": "eu",
             "key": "32017R2402",
             "display_name": null
+          },
+          {
+            "corpus": "eu",
+            "key": "32013R0462",
+            "display_name": null
           }
         ],
         "dates_removed": [],
         "dates_added": [],
-        "in_force": "2019-01-01",
+        "in_force": "2018-06-01",
         "applies_from": {
           "kind": "unchanged"
         },
@@ -1037,7 +820,7 @@
           },
           "corpus_metadata": {
             "status": "observed",
-            "detail": "32017R2402 R",
+            "detail": "32017R2402 R; 32013R0462 R",
             "change_types": [
               "MODIFIED"
             ]
@@ -1048,7 +831,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1088,122 +872,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "AR 10.1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R0462",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2018-06-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32013R0462 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "AR 10.2"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32013R0462",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2018-06-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32013R0462 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -1255,7 +923,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -1316,7 +985,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1436,7 +1106,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1597,7 +1268,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1662,238 +1334,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "CONSID 22"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R2402",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2019-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32017R2402 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "CONSID 34"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R2402",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2019-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32017R2402 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "CONSID 40"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R2402",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2019-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32017R2402 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32009R1060",
-            "display_name": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)"
-          },
-          "version": "02009R1060-20190101",
-          "location": "CONSID 41"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R2402",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2019-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32017R2402 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32017R2402, 32013R0462",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -1929,28 +1369,18 @@
           "AR 3",
           "AR 4",
           "AR 5",
-          "AR 6.1",
-          "AR 7.5",
+          "AR 6",
+          "AR 7",
           "AR 8",
-          "AR 8.2",
-          "AR 8.5",
-          "AR 8.6",
-          "AR 8.7",
           "AR 8b",
           "AR 8c",
           "AR 10",
-          "AR 10.1",
-          "AR 10.2",
           "AR 25a",
           "AR 39",
           "AN I",
-          "AN III",
-          "CONSID 22",
-          "CONSID 34",
-          "CONSID 40",
-          "CONSID 41"
+          "AN III"
         ],
-        "note": "37 annotations in (2015-06-21, 2019-01-01]",
+        "note": "37 annotations in (2015-06-21, 2019-01-01]; 4 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AN III P III PO 8",
@@ -1987,17 +1417,6 @@
           },
           {
             "location": "AR 1 L 2",
-            "change_type": "MODIFIED",
-            "in_force": "2019-01-01",
-            "source": "32017R2402 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32017R2402",
-              "display_name": null
-            }
-          },
-          {
-            "location": "CONSID 22 TXT",
             "change_type": "MODIFIED",
             "in_force": "2019-01-01",
             "source": "32017R2402 R",
@@ -2063,17 +1482,6 @@
             }
           },
           {
-            "location": "CONSID 41 TXT",
-            "change_type": "MODIFIED",
-            "in_force": "2019-01-01",
-            "source": "32017R2402 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32017R2402",
-              "display_name": null
-            }
-          },
-          {
             "location": "AN I SECTION A PO 2 PO 5 TEXT",
             "change_type": "MODIFIED",
             "in_force": "2019-01-01",
@@ -2089,28 +1497,6 @@
             "change_type": "INSERTED",
             "in_force": "2019-01-01",
             "source": "32017R2402 A",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32017R2402",
-              "display_name": null
-            }
-          },
-          {
-            "location": "CONSID 34 TXT",
-            "change_type": "MODIFIED",
-            "in_force": "2019-01-01",
-            "source": "32017R2402 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32017R2402",
-              "display_name": null
-            }
-          },
-          {
-            "location": "CONSID 40 TXT",
-            "change_type": "MODIFIED",
-            "in_force": "2019-01-01",
-            "source": "32017R2402 R",
             "amending_act": {
               "corpus": "eu",
               "key": "32017R2402",
@@ -2206,7 +1592,7 @@
             }
           },
           {
-            "location": "AR 7.5",
+            "location": "AR 7",
             "change_type": "MODIFIED",
             "in_force": "2018-06-01",
             "source": "32013R0462 R",
@@ -2228,7 +1614,7 @@
             }
           },
           {
-            "location": "AR 8.6",
+            "location": "AR 8",
             "change_type": "MODIFIED",
             "in_force": "2018-06-01",
             "source": "32013R0462 M",
@@ -2239,7 +1625,7 @@
             }
           },
           {
-            "location": "AR 10.2",
+            "location": "AR 10",
             "change_type": "MODIFIED",
             "in_force": "2018-06-01",
             "source": "32013R0462 R",
@@ -2272,7 +1658,7 @@
             }
           },
           {
-            "location": "AR 6.1",
+            "location": "AR 6",
             "change_type": "MODIFIED",
             "in_force": "2018-06-01",
             "source": "32013R0462 R",
@@ -2283,7 +1669,7 @@
             }
           },
           {
-            "location": "AR 8.5 BI",
+            "location": "AR 8 BI",
             "change_type": "INSERTED",
             "in_force": "2018-06-01",
             "source": "32013R0462 J",
@@ -2305,7 +1691,7 @@
             }
           },
           {
-            "location": "AR 8.7",
+            "location": "AR 8",
             "change_type": "INSERTED",
             "in_force": "2018-06-01",
             "source": "32013R0462 J",
@@ -2316,7 +1702,7 @@
             }
           },
           {
-            "location": "AR 10.1",
+            "location": "AR 10",
             "change_type": "MODIFIED",
             "in_force": "2018-06-01",
             "source": "32013R0462 R",
@@ -2327,7 +1713,7 @@
             }
           },
           {
-            "location": "AR 8.2",
+            "location": "AR 8",
             "change_type": "MODIFIED",
             "in_force": "2018-06-01",
             "source": "32013R0462 R",
@@ -2338,7 +1724,7 @@
             }
           },
           {
-            "location": "AR 8.5",
+            "location": "AR 8",
             "change_type": "MODIFIED",
             "in_force": "2018-06-01",
             "source": "32013R0462 M",
@@ -2374,11 +1760,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 8,
-        "right_units": 24,
+        "right_units": 14,
         "shared": 8,
         "precision": 1.0,
-        "recall": 0.3333333333333333,
-        "f1": 0.5,
+        "recall": 0.5714285714285714,
+        "f1": 0.7272727272727273,
         "kind_mismatches": 0
       }
     ],
@@ -2420,7 +1806,7 @@
         ]
       },
       {
-        "unit": "AR 6.1",
+        "unit": "AR 6",
         "reason": "seen by corpus_metadata, not by structural_diff",
         "observed_by": [
           "corpus_metadata"
@@ -2438,7 +1824,7 @@
         ]
       },
       {
-        "unit": "AR 7.5",
+        "unit": "AR 7",
         "reason": "seen by corpus_metadata, not by structural_diff",
         "observed_by": [
           "corpus_metadata"
@@ -2451,78 +1837,6 @@
             "corpus_metadata",
             [
               "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 8.2",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 8.5",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 8.6",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 8.7",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "INSERTED"
             ]
           ]
         ]
@@ -2546,115 +1860,7 @@
         ]
       },
       {
-        "unit": "AR 10.1",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 10.2",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 25a",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "CONSID 22",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "CONSID 34",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "CONSID 40",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "CONSID 41",
         "reason": "seen by corpus_metadata, not by structural_diff",
         "observed_by": [
           "corpus_metadata"
@@ -2675,21 +1881,12 @@
     "metadata_only_units": [
       "AR 4",
       "AR 5",
-      "AR 6.1",
-      "AR 7.5",
-      "AR 8.2",
-      "AR 8.5",
-      "AR 8.6",
-      "AR 8.7",
+      "AR 6",
+      "AR 7",
       "AR 8b",
-      "AR 10.1",
-      "AR 10.2",
-      "AR 25a",
-      "CONSID 22",
-      "CONSID 34",
-      "CONSID 40",
-      "CONSID 41"
-    ]
+      "AR 25a"
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -2737,6 +1934,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 24,
+      "repaired": 16,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

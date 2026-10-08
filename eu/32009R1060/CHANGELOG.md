@@ -157,9 +157,9 @@ This is a new Article 13a establishing rules for making information under this R
 ### `02009R1060-20150621` → `02009R1060-20190101`
 
 - **Act** `eu:32009R1060` · **In force** 2018-06-01, 2019-01-01 · **Detected** 2026-08-13
-- **Touched** 24 provisions — 8 substantive · 0 date-only · 16 with no text · **16 disputed**
-- **Diff** 2 inserted · 22 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
-- **Gate** 0 sentences quoted verbatim · 16 changes shipped without an explanation
+- **Touched** 14 provisions — 8 substantive · 0 date-only · 6 with no text · **6 disputed**
+- **Diff** 1 inserted · 13 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
+- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
 - **Citations** `v1` = `02009R1060-20150621` · `v2` = `02009R1060-20190101`
 
 ---
@@ -224,7 +224,7 @@ The cross-reference for that definition changes from Article 4(36) of Directive 
 
 *amended by* `32017R2402`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -234,27 +234,27 @@ The cross-reference for that definition changes from Article 4(36) of Directive 
 
 *amended by* `32017R2402`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · Art. 6.1** · applies from: unknown
+**MODIFIED · Art. 6** · applies from: unknown
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
-**MODIFIED · Art. 7.5** · applies from: unknown
+**MODIFIED · Art. 7** · applies from: unknown
 
 *amended by* `32013R0462`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -286,51 +286,11 @@ The only change is a terminology substitution in the first paragraph of Article 
 > 3. A credit rating agency shall use rating methodologies that are rigorous, systematic, continuous and subject to validation based on historical experience, including back-testing.
 > 4. Where a credit rating agency is using an existing credit rating prepared by another credit rating agency with respect to underlying assets or securitisation instruments, it shall not refuse to issue a credit rating of an entity or a financial instrument because a portion o […truncated by emendrix: 2955 characters omitted…]
 
-**MODIFIED · Art. 8.2** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 8.5** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 8.6** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 8.7** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 8b** · applies from: unknown
 
 *amended by* `32017R2402`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -372,7 +332,7 @@ The remainder of the article, including the conditions listed in paragraph 2, is
 
 **MODIFIED · Art. 10 — Disclosure and presentation of credit ratings** · applies from: unchanged
 
-*within* `AR 10 PA 3 ALN 1` · *amended by* `32017R2402`
+*within* `AR 10 PA 3 ALN 1` · *amended by* `32017R2402`, `32013R0462`
 
 In paragraph 3, the term used for the type of instrument covered by the additional rating-category symbol has changed from 'structured finance instruments' to 'securitisation instruments', with the same change made to the parallel reference to 'structured finance instruments' being differentiated. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20150621#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1060-20190101#art_10)
 
@@ -400,31 +360,11 @@ In paragraph 3, the term used for the type of instrument covered by the addition
 > The list of persons to whom credit ratings, rating outlooks and information relating thereto are communicated before being disclosed shall be limited to persons identified by each rated entity for that purpose.
 > 3. When a credit rating agency issues credit ratings for securitisation instruments […truncated by emendrix: 1160 characters omitted…]
 
-**MODIFIED · Art. 10.1** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 10.2** · applies from: unknown
-
-*amended by* `32013R0462`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 25a** · applies from: unknown
 
 *amended by* `32017R2402`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -529,46 +469,6 @@ The same substitution of "structured finance instruments" with "securitisation i
 > 4. The credit rating agency infringes Article 6(2), in conjunction with the first paragraph of point 2 of Section A of Annex I, by not ensuring that its business interest does not impair the independence or accuracy of the credit rating activities.
 > 5. The credit rating agency infringes Article 6(2), in conjunction with the second paragraph of point 2 of Section A of Annex I, by appointing senior management which are not of good repute, sufficiently skilled or experienced, or cannot ensure the sound and prudent management of the credit rating agency.
 > 6. The credit rating agency infringes Article 6(2), in conjunction with the third paragraph of point 2 of Section A […truncated by emendrix: 29571 characters omitted…]
-
-**MODIFIED · CONSID 22** · applies from: unknown
-
-*amended by* `32017R2402`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · CONSID 34** · applies from: unknown
-
-*amended by* `32017R2402`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · CONSID 40** · applies from: unknown
-
-*amended by* `32017R2402`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · CONSID 41** · applies from: unknown
-
-*amended by* `32017R2402`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02009R1060-20190101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02009R1060-20150621 -->
