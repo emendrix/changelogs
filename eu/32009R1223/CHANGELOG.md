@@ -963,7 +963,7 @@ Two new entries, 33 and 34, were added for Bis-(Diethylaminohydroxybenzoyl Benzo
 ### `02009R1223-20220731` → `02009R1223-20221006`
 
 - **Act** `eu:32009R1223` · **In force** 2022-10-06 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **3 disputed**
+- **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **2 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20220731` · `v2` = `02009R1223-20221006`
@@ -974,7 +974,7 @@ Two new entries, 33 and 34, were added for Bis-(Diethylaminohydroxybenzoyl Benzo
 
 *amended by* `32022R1531`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -983,8 +983,6 @@ Two new entries, 33 and 34, were added for Bis-(Diethylaminohydroxybenzoyl Benzo
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32022R1531`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Also missing from the earlier list, entry 51's chemical name for the substance changed from Sodium hydroxymethylamino acetate to Sodium N-(hydroxymethyl)glycinate. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221006#anx_V)
 
@@ -1030,7 +1028,7 @@ The condition of use for that entry changed from a prohibition applying when the
 
 *within* `AN VI`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Comparing the two texts, the only visible difference is the removal of a stray letter "s" that appeared on its own line after entry 10 (Octocrylene) in the earlier version, which is absent in the later version. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221006#anx_VI)
 
