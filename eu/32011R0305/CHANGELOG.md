@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02011R0305-20260108` → `02011R0305-20260529`
 
 - **Act** `eu:32011R0305` · **In force** 2026-05-29 · **Detected** 2026-09-04
-- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **5 disputed**
-- **Diff** 5 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **4 disputed**
+- **Diff** 4 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02011R0305-20260108` · `v2` = `02011R0305-20260529`
 
 ---
@@ -64,7 +64,7 @@ The prior version ended the list at point 28 with the 'life cycle' definition an
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out conditions under which Articles 38b to 38d apply, including that the Commission must have adopted an implementing act under Article 28 of Regulation (EU) 2024/2747 for construction products, that the products must be designated as crisis-relevant goods under Article 18(4) of that Regulation, and that the internal market emergency mode must be active under Article 18 of that Regulation. [Art. 38a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38a)
 
@@ -83,7 +83,7 @@ It also allows the Commission to adopt implementing acts on corrective or restri
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new article introduces a requirement that notified bodies make best efforts to prioritise, as a matter of priority, requests for third-party assessment and verification of constancy of performance for construction products designated as crisis-relevant goods, regardless of whether the request was lodged before or after emergency procedures were activated. [Art. 38b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38b)
 
@@ -102,7 +102,7 @@ The provision also states that this prioritisation must not result in additional
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article that empowers the Commission to adopt implementing acts listing standards or establishing common specifications for assessing and declaring the performance of construction products designated as crisis-relevant goods, applicable in specified situations involving missing harmonised standards or an activated internal market emergency mode. [Art. 38c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38c)
 
@@ -121,7 +121,7 @@ The provision sets out procedural steps for adopting and amending such implement
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article requiring Member States to prioritise market surveillance activities for construction products listed in the implementing act referred to in Article 38a(1), with the Commission facilitating coordination of that prioritisation through the Union Product Compliance Network. [Art. 38d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02011R0305-20260529#art_38d)
 
@@ -158,16 +158,6 @@ A new paragraph 2a has been inserted between paragraphs 2 and 3, stating that wh
 > 2a. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 of the European Parliament and of the Council
 > Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13). shall apply.
 > 3. Member States shall ensure that the members of the Standing Committee on Construction are able to carry out their functions in a manner that avoids conflicts of interest, particularly in respect of the procedures for obtaining the CE marking.
-
-**INSERTED · CHA VIa** · applies from: unknown
-
-*amended by* `32024R2748`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02011R0305-20260529 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02011R0305-20260108 -->
