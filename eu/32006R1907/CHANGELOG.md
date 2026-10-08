@@ -1567,7 +1567,7 @@ No substance entries were added, removed, or changed in substantive content such
 ### `02006R1907-20200101` → `02006R1907-20200227`
 
 - **Act** `eu:32006R1907` · **In force** 2020-02-27 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20200101` · `v2` = `02006R1907-20200227`
@@ -1577,8 +1577,6 @@ No substance entries were added, removed, or changed in substantive content such
 **MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XIV` · *dates* -2019-09-01 -2021-03-01 +2021-08-27 +2021-09-01 +2021-11-27 +2022-02-27 +2022-05-27 +2023-02-27 +2023-03-01 +2023-05-27 +2023-08-27 +2023-11-27 · *amended by* `32020R0171`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The transitional arrangement dates referring to Article 58(1)(c)(ii) and (i) were changed from 1 September 2019 and 1 March 2021 to 1 September 2021 and 1 March 2023, with corresponding wording added covering spare parts as articles or complex products and specifying that the spare part cannot be produced without that substance. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV)
 
