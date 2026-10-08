@@ -4039,9 +4039,9 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 ### `02013R1308-20190101` → `02013R1308-20201229`
 
 - **Act** `eu:32013R1308` · **In force** 2020-01-01, 2020-12-29 · **Detected** 2026-09-04
-- **Touched** 11 provisions — 10 substantive · 0 date-only · 1 with no text · **2 disputed**
-- **Diff** 1 inserted · 10 modified · 0 deleted · 0 renumbered · 0 deferred · 237 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 10 provisions — 10 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 1 inserted · 9 modified · 0 deleted · 0 renumbered · 0 deferred · 237 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20190101` · `v2` = `02013R1308-20201229`
 
 ---
@@ -4253,7 +4253,7 @@ The latest expiry date for unused authorisations, in cases where a Member State 
 
 *amended by* `32020R2220`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a wholly new article allowing producer Member States to lay down marketing rules to regulate supply of olive oil and olives in order to improve and stabilise the common market's operation, subject to conditions that such rules be proportionate, not apply beyond the first marketing of the produce, not permit price fixing including guidance or recommended prices, and not withhold an excessive share of a marketing year's production. [Art. 167a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_167a)
 
@@ -4382,16 +4382,6 @@ Czech Republic's label is changed to Czechia, and the countries previously left 
 > Slovenia 5045 5045 5045 5045 4849
 > Slovakia 5085 5085 5085 5085 4887
 > United Kingdom 120 — — — —
-
-**MODIFIED · TIS II** · applies from: unknown
-
-*amended by* `32020R2220`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20201229 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20190101 -->

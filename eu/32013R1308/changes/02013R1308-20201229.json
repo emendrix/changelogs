@@ -16,22 +16,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 1,
-    "modified": 10,
+    "modified": 9,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 11,
+    "touched_units": 10,
     "unchanged_units": 237,
-    "disputed": 2
+    "disputed": 1
   },
   "counts": {
-    "touched": 11,
+    "touched": 10,
     "substantive": 10,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 2,
+    "textless": 0,
+    "disputed": 1,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -97,7 +97,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -217,7 +218,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -337,7 +339,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -472,7 +475,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -579,7 +583,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -708,7 +713,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -822,7 +828,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "12 annotations in (2019-01-01, 2020-12-29]",
+            "detail": "12 annotations in (2019-01-01, 2020-12-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -833,7 +839,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -935,7 +942,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1050,7 +1058,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1133,7 +1142,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1192,64 +1202,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20201229",
-          "location": "TIS II"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32020R2220",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2020-12-29",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32020R2220 J",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32020R2220, 0.955 of its instruction clauses read, 0 dated outside the window, 12 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -1291,10 +1243,9 @@
           "AR 68",
           "AR 211",
           "AR 214a",
-          "AN VI",
-          "TIS II"
+          "AN VI"
         ],
-        "note": "12 annotations in (2019-01-01, 2020-12-29]",
+        "note": "12 annotations in (2019-01-01, 2020-12-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 29 PA 1 ALN",
@@ -1364,17 +1315,6 @@
           },
           {
             "location": "AR 211 PA 3",
-            "change_type": "INSERTED",
-            "in_force": "2020-12-29",
-            "source": "32020R2220 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32020R2220",
-              "display_name": null
-            }
-          },
-          {
-            "location": "TIS II CHA III SCT 4 AR 167a",
             "change_type": "INSERTED",
             "in_force": "2020-12-29",
             "source": "32020R2220 J",
@@ -1587,11 +1527,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 10,
-        "right_units": 10,
+        "right_units": 9,
         "shared": 9,
         "precision": 0.9,
-        "recall": 0.9,
-        "f1": 0.9,
+        "recall": 1.0,
+        "f1": 0.9473684210526316,
         "kind_mismatches": 0
       },
       {
@@ -1608,12 +1548,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 10,
+        "left_units": 9,
         "right_units": 10,
         "shared": 9,
-        "precision": 0.9,
+        "precision": 1.0,
         "recall": 0.9,
-        "f1": 0.9,
+        "f1": 0.9473684210526316,
         "kind_mismatches": 0
       }
     ],
@@ -1642,30 +1582,10 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "TIS II",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
-    "metadata_only_units": [
-      "TIS II"
-    ]
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1719,6 +1639,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 11,
       "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 11,
+      "repaired": 2,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,
