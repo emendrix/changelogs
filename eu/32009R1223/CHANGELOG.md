@@ -3790,7 +3790,7 @@ A new entry 12a was added covering butyl and propyl 4-hydroxybenzoate and their 
 ### `02009R1223-20140701` → `02009R1223-20140829`
 
 - **Act** `eu:32009R1223` · **In force** 2014-08-29 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **3 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20140701` · `v2` = `02009R1223-20140829`
@@ -3800,8 +3800,6 @@ A new entry 12a was added covering butyl and propyl 4-hydroxybenzoate and their 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32014R0866`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new footnote line stating a cross-reference to Annex V, entry No 44 for use as a preservative has been added to the list of footnotes at the start of the Annex. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_III)
 
@@ -3852,8 +3850,6 @@ Both texts are truncated before reaching their end, so any further differences b
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32014R0866`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The preamble now includes two additional footnote lines referencing Annex III entries No 287 and No 286, which were not present before. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_V)
 
@@ -3910,8 +3906,6 @@ The formatting of the row for reference number 44 (alkyl C12-22 trimethyl ammoni
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32014R0866`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The updated table adds a new entry, numbered 29, for the substance identified as 1,3,5-Triazine, 2,4,6-tris[1,1'-biphenyl]-4-yl-, also referred to by the common names Tris-biphenyl triazine and Tris-biphenyl triazine (nano), with CAS number 31274-51-8 and a maximum concentration of 10%. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_VI)
 
