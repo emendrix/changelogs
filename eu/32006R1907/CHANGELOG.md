@@ -155,7 +155,7 @@ The remainder of the Annex, including the numbered restriction entries shown, ap
 ### `02006R1907-20250901` → `02006R1907-20251023`
 
 - **Act** `eu:32006R1907` · **In force** 2025-10-23 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20250901` · `v2` = `02006R1907-20251023`
@@ -165,8 +165,6 @@ The remainder of the Annex, including the numbered restriction entries shown, ap
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2025-10-23 +2026-10-23 +2027-04-23 +2030-10-23 +2035-10-23 · *amended by* `32025R1988`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
