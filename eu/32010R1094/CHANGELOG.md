@@ -2131,9 +2131,9 @@ A new point (g) on the functioning of the Joint Committee was added to the list 
 ### `32010R1094` → `02010R1094-20140523`
 
 - **Act** `eu:32010R1094` · **In force** 2014-05-23 · **Detected** 2026-09-04
-- **Touched** 5 provisions — 3 substantive · 0 date-only · 2 with no text · **5 disputed**
-- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 79 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 79 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32010R1094` · `v2` = `02010R1094-20140523`
 
 ---
@@ -2141,8 +2141,6 @@ A new point (g) on the functioning of the Joint Committee was added to the list 
 **MODIFIED · Art. 13 — Objections to regulatory technical standards** · applies from: unchanged
 
 *within* `AR 13 PA 1 ALN 1`, `AR 13 PA 1 ALN 2` · *amended by* `32014L0051`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The numerals expressing the objection periods in paragraph 1 were changed from digit form to spelled-out words, such as three months and one month instead of 3 months and 1 month. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1094#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_13)
 
@@ -2166,21 +2164,9 @@ A new sentence was added at the end of the second subparagraph of paragraph 1 st
 > 2. If, on the expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the regulatory technical standard, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein. The regulatory technical standard may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
 > 3. If either the European Parliament or the Council objects to a regul […truncated by emendrix: 244 characters omitted…]
 
-**MODIFIED · Art. 13.1** · applies from: unknown
-
-*amended by* `32014L0051`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 17 — Breach of Union law** · applies from: unchanged
 
 *within* `AR 17 PA 2 ALN 1` · *amended by* `32014L0051`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The second paragraph of Article 17(2) now adds that the information the competent authority must provide to the Authority without delay includes information on how the acts referred to in Article 1(2) are applied in accordance with Union law. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1094#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_17)
 
@@ -2205,21 +2191,11 @@ The second paragraph of Article 17(2) now adds that the information the competen
 > 3. The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.
 > The competent authority shall, within ten working days of receipt of the recommendation, inform the Authority of the steps it ha […truncated by emendrix: 2502 characters omitted…]
 
-**MODIFIED · Art. 17.2** · applies from: unknown
-
-*amended by* `32014L0051`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 62 — Budget of the Authority** · applies from: unchanged
 
 *within* `AR 62 PA 1 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The only change is a punctuation adjustment where the phrase referring to the Financial Regulation is now enclosed in curly quotation marks instead of plain quotation marks. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1094#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20140523#art_62)
 

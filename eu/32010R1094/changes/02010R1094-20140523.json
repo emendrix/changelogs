@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 5,
+    "modified": 3,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 5,
+    "touched_units": 3,
     "unchanged_units": 79,
-    "disputed": 5
+    "disputed": 1
   },
   "counts": {
-    "touched": 5,
+    "touched": 3,
     "substantive": 3,
     "date_only": 0,
-    "textless": 2,
-    "disputed": 5,
+    "textless": 0,
+    "disputed": 1,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 0
   },
   "changes": [
     {
@@ -57,12 +57,12 @@
           {
             "corpus": "eu",
             "key": "32014L0051",
-            "display_name": "Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)"
+            "display_name": null
           }
         ],
         "dates_removed": [],
         "dates_added": [],
-        "in_force": null,
+        "in_force": "2014-05-23",
         "applies_from": {
           "kind": "unchanged"
         },
@@ -75,9 +75,11 @@
             ]
           },
           "corpus_metadata": {
-            "status": "absent",
-            "detail": "3 annotations in (the act itself, 2014-05-23]",
-            "change_types": []
+            "status": "observed",
+            "detail": "32014L0051 R",
+            "change_types": [
+              "MODIFIED"
+            ]
           },
           "instruction_parse": {
             "status": "observed",
@@ -87,7 +89,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -157,64 +160,6 @@
             "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
           },
           "version": "02010R1094-20140523",
-          "location": "AR 13.1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014L0051",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-05-23",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32014L0051 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32014L0051, 1.000 of its instruction clauses read, 0 dated outside the window, 2 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32010R1094",
-            "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
-          },
-          "version": "02010R1094-20140523",
           "location": "AR 17"
         },
         "heading": "Breach of Union law",
@@ -228,12 +173,12 @@
           {
             "corpus": "eu",
             "key": "32014L0051",
-            "display_name": "Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)"
+            "display_name": null
           }
         ],
         "dates_removed": [],
         "dates_added": [],
-        "in_force": null,
+        "in_force": "2014-05-23",
         "applies_from": {
           "kind": "unchanged"
         },
@@ -246,9 +191,11 @@
             ]
           },
           "corpus_metadata": {
-            "status": "absent",
-            "detail": "3 annotations in (the act itself, 2014-05-23]",
-            "change_types": []
+            "status": "observed",
+            "detail": "32014L0051 R",
+            "change_types": [
+              "MODIFIED"
+            ]
           },
           "instruction_parse": {
             "status": "observed",
@@ -258,7 +205,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -309,64 +257,6 @@
             "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
           },
           "version": "02010R1094-20140523",
-          "location": "AR 17.2"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014L0051",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-05-23",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32014L0051 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32014L0051, 1.000 of its instruction clauses read, 0 dated outside the window, 2 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32010R1094",
-            "display_name": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC"
-          },
-          "version": "02010R1094-20140523",
           "location": "AR 62"
         },
         "heading": "Budget of the Authority",
@@ -402,7 +292,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -468,13 +359,13 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AR 13.1",
-          "AR 17.2"
+          "AR 13",
+          "AR 17"
         ],
         "note": "3 annotations in (the act itself, 2014-05-23]",
         "claims": [
           {
-            "location": "AR 17.2 L2",
+            "location": "AR 17 L2",
             "change_type": "MODIFIED",
             "in_force": "2014-05-23",
             "source": "32014L0051 R",
@@ -485,7 +376,7 @@
             }
           },
           {
-            "location": "AR 13.1 .3",
+            "location": "AR 13 .3",
             "change_type": "MODIFIED",
             "in_force": "2014-05-23",
             "source": "32014L0051 R",
@@ -496,7 +387,7 @@
             }
           },
           {
-            "location": "AR 13.1",
+            "location": "AR 13",
             "change_type": "MODIFIED",
             "in_force": "2014-05-23",
             "source": "32014L0051 R",
@@ -548,10 +439,10 @@
         "right": "corpus_metadata",
         "left_units": 3,
         "right_units": 2,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 2,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8,
         "kind_mismatches": 0
       },
       {
@@ -570,102 +461,14 @@
         "right": "instruction_parse",
         "left_units": 2,
         "right_units": 2,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 0.0,
-        "f1": 0.0,
+        "shared": 2,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 13",
-        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
-        "observed_by": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 13.1",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 17",
-        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
-        "observed_by": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 17.2",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AR 62",
         "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
@@ -686,10 +489,8 @@
         ]
       }
     ],
-    "metadata_only_units": [
-      "AR 13.1",
-      "AR 17.2"
-    ]
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -729,6 +530,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 5,
       "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 5,
+      "repaired": 4,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,
