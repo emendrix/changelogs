@@ -1,0 +1,281 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32016R0679",
+  "title": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02016R0679-20160504",
+      "from_version": "32016R0679",
+      "detected_on": "2026-08-12",
+      "in_force": [],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32016R0679/changes/02016R0679-20160504.json",
+      "sha256": "9c35420d226dc71d5f4b76bffbb9c2924f717c54ebd02286c5208cf806d404b1",
+      "diff_only": false,
+      "counts": {
+        "touched": 9,
+        "substantive": 9,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 37": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 37 PA 1 ALN 1 PTA (c)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 41": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 41 PA 3 ALN 1",
+          "AR 41 PA 5 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 42": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 42 PA 7 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 43": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 43 PA 3 ALN 1",
+          "AR 43 PA 6 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 57": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 57 PA 1 ALN 1 PTA (p)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 64": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 64 PA 1 ALN 1 PTA (c)",
+          "AR 64 PA 6 ALN 1",
+          "AR 64 PA 7 ALN 1",
+          "AR 64 PA 8 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 65": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 65 PA 1 ALN 1 PTA (a)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 69": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 69 PA 2 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 70": [
+      {
+        "version": "02016R0679-20160504",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 70 PA 1 ALN 1 PTA (l)",
+          "AR 70 PA 1 ALN 1 PTA (o)",
+          "AR 70 PA 1 ALN 1 PTA (p)"
+        ],
+        "occurrence": 1
+      }
+    ]
+  }
+}

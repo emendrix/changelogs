@@ -1,0 +1,72 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32023R2631",
+  "title": "Regulation (EU) 2023/2631 of the European Parliament and of the Council of 22 November 2023 on European Green Bonds and optional disclosures for bonds marketed as environmentally sustainable and for sustainability-linked bonds (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02023R2631-20240109",
+      "from_version": "32023R2631",
+      "detected_on": "2026-09-05",
+      "in_force": [
+        "2024-01-09"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32023R2631/changes/02023R2631-20240109.json",
+      "sha256": "c9fd02c8014f9bbf912bd5ad2037c477ec6def30114b459b0ff410cd455945b6",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 15a": [
+      {
+        "version": "02023R2631-20240109",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "after",
+        "in_force": "2024-01-09",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32023R2869"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ]
+  }
+}

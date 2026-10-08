@@ -1,0 +1,194 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32024R1157",
+  "title": "Regulation (EU) 2024/1157 of the European Parliament and of the Council of 11 April 2024 on shipments of waste, amending Regulations (EU) No 1257/2013 and (EU) 2020/1056 and repealing Regulation (EC) No 1013/2006 (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02024R1157-20260730",
+      "from_version": "02024R1157-20250109",
+      "detected_on": "2026-09-05",
+      "in_force": [
+        "2026-07-30"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32024R1157/changes/02024R1157-20260730.json",
+      "sha256": "e9a7e70d497e2a8ebe226cf6e9d630d0e7ac7967cc13758304c0e719e09072cd",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02024R1157-20250109",
+      "from_version": "32024R1157",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2025-01-09"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32024R1157/changes/02024R1157-20250109.json",
+      "sha256": "e116efc2b7202fd41111d3fd2969e7e5479a0671feb1347926e9b8cabd7bba89",
+      "diff_only": false,
+      "counts": {
+        "touched": 3,
+        "substantive": 3,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AN III": [
+      {
+        "version": "02024R1157-20250109",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2025-01-09",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2026-12-31"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R3230"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AN IV": [
+      {
+        "version": "02024R1157-20250109",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2025-01-09",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2026-12-31"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R3230"
+        ],
+        "changed_within": [
+          "AN IV PTA (c)",
+          "AN IV PTA (g)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AN V": [
+      {
+        "version": "02024R1157-20250109",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2025-01-09",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R3230"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 44": [
+      {
+        "version": "02024R1157-20260730",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2026-07-30",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R1703"
+        ],
+        "changed_within": [
+          "AR 44 PA 2 ALN 1 PTA (f)"
+        ],
+        "occurrence": 1
+      }
+    ]
+  }
+}

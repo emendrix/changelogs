@@ -1,0 +1,182 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32023R1114",
+  "title": "Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02023R1114-20240109",
+      "from_version": "32023R1114",
+      "detected_on": "2026-08-12",
+      "in_force": [
+        "2024-01-09"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32023R1114/changes/02023R1114-20240109.json",
+      "sha256": "32d41788300b705299d2d12249934aa2ab9a1f4d538b8831ea6e957c551ab34c",
+      "diff_only": false,
+      "counts": {
+        "touched": 5,
+        "substantive": 5,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 4,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-04"
+        },
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 110a": [
+      {
+        "version": "02023R1114-20240109",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "after",
+        "in_force": "2024-01-09",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32023R2869"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ],
+    "AR 111": [
+      {
+        "version": "02023R1114-20240109",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [
+          "2025-06-30"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 111 PA 1 ALN 3"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 45": [
+      {
+        "version": "02023R1114-20240109",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 45 PA 4 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 81": [
+      {
+        "version": "02023R1114-20240109",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 81 PA 15 ALN 1 PTA (a)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 92": [
+      {
+        "version": "02023R1114-20240109",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 92 PA 2 ALN 3"
+        ],
+        "occurrence": 1
+      }
+    ]
+  }
+}

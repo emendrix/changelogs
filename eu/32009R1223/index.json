@@ -1,0 +1,4101 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32009R1223",
+  "title": "Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02009R1223-20260518",
+      "from_version": "02009R1223-20260501",
+      "detected_on": "2026-09-11",
+      "in_force": [
+        "2026-05-18"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20260518.json",
+      "sha256": "152aee866eec9b2c29d37141e16ccc4396692a9ef686c52f17fbbf46ad374d3d",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20260501",
+      "from_version": "02009R1223-20250901",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2026-05-01"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20260501.json",
+      "sha256": "c8ea0aa8037f749260df5b52e097701931968263b9961af430b53afee28c910a",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 2
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20250901",
+      "from_version": "02009R1223-20250501",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2025-09-01"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20250901.json",
+      "sha256": "662491603e4d5e735887e45f9367999e7ff18f7ac112f2f5ff83a85db92ac0be",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 2
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20250501",
+      "from_version": "02009R1223-20240424",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2025-05-01"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20250501.json",
+      "sha256": "7ecc1cf6a208c56acdc84b3730a87b79a54b7c8d35817e33b722d29356151630",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 0,
+        "date_only": 0,
+        "textless": 1,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [
+        "AN VI"
+      ],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20240424",
+      "from_version": "02009R1223-20240404",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2024-04-24"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20240424.json",
+      "sha256": "d29338dfe1c7ee972e28e87140446b3bf06d6634e92d394fb912a8402623baa6",
+      "diff_only": false,
+      "counts": {
+        "touched": 3,
+        "substantive": 3,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20240404",
+      "from_version": "02009R1223-20231201",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2024-04-04"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20240404.json",
+      "sha256": "60716958066383228e8b6fd42d07ff90bb79f3319ae0a5b69b487b992820206d",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20231201",
+      "from_version": "02009R1223-20230816",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2023-12-01"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20231201.json",
+      "sha256": "f4b44e298141eb28e7356165a5061a674afe3a29741e5f302b64f6924bcdc647",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20230816",
+      "from_version": "02009R1223-20221217",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2023-08-16"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20230816.json",
+      "sha256": "d93d8dd13474a13c34590b7bb64684927cc7f8e72a3658a2710aa5eb990e486f",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20221217",
+      "from_version": "02009R1223-20221006",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2022-12-01",
+        "2022-12-17"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20221217.json",
+      "sha256": "a9a8c25bbe839be48a288a41d4a5a63b907ea0102d2101cde77af9bde9ae6dd2",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20221006",
+      "from_version": "02009R1223-20220731",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2022-10-06"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20221006.json",
+      "sha256": "bd34e28d197a8b099a25654eb9990f1123ded965691d8eda0abea1850e5c154b",
+      "diff_only": false,
+      "counts": {
+        "touched": 3,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 1,
+        "disputed": 2,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [
+        "AN II"
+      ],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20220731",
+      "from_version": "02009R1223-20220301",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2022-07-28",
+        "2022-07-31"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20220731.json",
+      "sha256": "82fa1e50abdf3d7f032ea306f28c9414a20a2983f3c537ef08958baae6d65f75",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20220301",
+      "from_version": "02009R1223-20211001",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2022-02-21",
+        "2022-03-01"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20220301.json",
+      "sha256": "e082b69ac3003cd9dd285c856f023df7fd67f6c4761af45c889d149edfc4e82e",
+      "diff_only": false,
+      "counts": {
+        "touched": 3,
+        "substantive": 3,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20211001",
+      "from_version": "02009R1223-20210823",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2021-10-01"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20211001.json",
+      "sha256": "49b07ccb946a52a7177685a9c285dfc2989f5999931c7aa8ce45210dc9e05772",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 4,
+        "quoted": 0,
+        "unexplained": 2
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-04"
+        },
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20210823",
+      "from_version": "02009R1223-20210617",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2021-07-26"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20210823.json",
+      "sha256": "c75809fd0231e0832f8446b2fdfd7ca404b831143f4345a58d0c28f1a8c711ce",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20210617",
+      "from_version": "02009R1223-20210526",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2021-06-17"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20210617.json",
+      "sha256": "d5a78273ab0ba66ed98445a1a41f5770713123dd85e0335e2fe1a30abbfdb851",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 1,
+        "disputed": 2,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-04"
+        },
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [
+        "AN II"
+      ],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20210526",
+      "from_version": "02009R1223-20201203",
+      "detected_on": "2026-08-13",
+      "in_force": [],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20210526.json",
+      "sha256": "e2ddf92df167733ed3a6d0b5ff2733f2b5384c2ef73b8ffb605cfe49e4b4122b",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20201203",
+      "from_version": "02009R1223-20200501",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2020-05-26",
+        "2020-12-03"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20201203.json",
+      "sha256": "0f9fee22062ebf36eff0a1e67467a0629b5cfce6f9480f226d1506e8b9cd0a3d",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 3,
+        "date_only": 0,
+        "textless": 1,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [
+        "AR 2"
+      ],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20200501",
+      "from_version": "02009R1223-20191218",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2020-05-01"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20200501.json",
+      "sha256": "cfb4f143d3f81acb86fc64698b659211d1828c52944c524d8a77d27a55e76690",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20191218",
+      "from_version": "02009R1223-20191127",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2019-12-18"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20191218.json",
+      "sha256": "c518a91526e6b1517cb0607cf5cd32fbd5963070513e76dbd2aed50a4ed1c711",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20191127",
+      "from_version": "02009R1223-20190813",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2019-11-27"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20191127.json",
+      "sha256": "6e5dfd9f001a0647909bc35fdcf8037b6a4ddcd3b745cfa348dcd4a23deabeb0",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20190813",
+      "from_version": "02009R1223-20190617",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2019-08-13"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20190813.json",
+      "sha256": "6475832db604a746987c27e50ab870412f5e9b98b6d096f44b9e74a7d90948d1",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 0,
+        "date_only": 0,
+        "textless": 1,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [
+        "AN III"
+      ],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20190617",
+      "from_version": "02009R1223-20180801",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2019-05-22",
+        "2019-05-27",
+        "2019-06-12"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20190617.json",
+      "sha256": "738e2c64147b1a9f351fa0147200ff32ab4c262c90aa0924c424416fb0a304f7",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20180801",
+      "from_version": "02009R1223-20180711",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2018-08-01"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20180801.json",
+      "sha256": "3c5513a3e2b608fe6508588b1f51a288577cdf2dde37cf56f1bfc56207b57563",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20180711",
+      "from_version": "02009R1223-20171225",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2018-07-11"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20180711.json",
+      "sha256": "83ec4373f646dc049f080c76a020a5918641e47e77d6699fdbe6571d97fdd530",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20171225",
+      "from_version": "02009R1223-20170903",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2017-12-25"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20171225.json",
+      "sha256": "51937eee9826e698322d9543afc07d8c7565c32255cfb2e798e44e1ba21f7992",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20170903",
+      "from_version": "02009R1223-20170727",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2017-08-23",
+        "2017-08-24",
+        "2017-09-03"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20170903.json",
+      "sha256": "5ddd17e1d98289222c0a6289abbc0582477dcab9a48d3cd54550c75fd65f8beb",
+      "diff_only": false,
+      "counts": {
+        "touched": 3,
+        "substantive": 3,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20170727",
+      "from_version": "02009R1223-20170303",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2017-07-27"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20170727.json",
+      "sha256": "c39ecd917b5add5bff7eb1b98962c4147b0447d4a37c505488f6eb2660702230",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20170303",
+      "from_version": "02009R1223-20160812",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2017-03-03"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20170303.json",
+      "sha256": "5d5d9675012bf6ca9778ea525f1f94f482759ac4199d54599f21a1a9c46556ad",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20160812",
+      "from_version": "02009R1223-20160810",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2016-08-12"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20160812.json",
+      "sha256": "c45b28342c1fe52de7011ec82c91d24c06e34a393578c657cdb57d52e9137fc2",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20160810",
+      "from_version": "02009R1223-20160512",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2016-08-01",
+        "2016-08-03"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20160810.json",
+      "sha256": "c816a7e620453f6c0d6b29daecfd8d75b9b563a4fb2096df65cb18c38efe102f",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20160512",
+      "from_version": "02009R1223-20160325",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2016-05-12"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20160512.json",
+      "sha256": "3aa513d2f9041a7efe8751356dffe803a2690d4571f4e1237e5552af62d868e4",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20160325",
+      "from_version": "02009R1223-20150818",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2016-03-25"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20160325.json",
+      "sha256": "af727ada052ffca76e4d3a83ee9a74b5cafe9f9ed277f3f662387b669f92bf0d",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20150818",
+      "from_version": "02009R1223-20150810",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2015-08-18"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20150818.json",
+      "sha256": "9c206c2e666c67ecdc4b58040a1f8906bb0148b88dab65fb5d6b436ea058a513",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 1,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 2
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [
+        "AN VI"
+      ],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20150810",
+      "from_version": "02009R1223-20150716",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2015-08-10"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20150810.json",
+      "sha256": "a586953c2ced842d15e0038b499053e89a5833f5e06cf2962f5eeef359387074",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20150716",
+      "from_version": "02009R1223-20150416",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2015-07-16"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20150716.json",
+      "sha256": "fde3bd17e2b76bd3aa5e4982a05cc9a71466a907b7deac52d094716d9e09d7f5",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20150416",
+      "from_version": "02009R1223-20140829",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2015-04-16"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20150416.json",
+      "sha256": "67da3ef00656cbe40d5438c567d5501a2284c3a5370135668121c1f6e722ac4b",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20140829",
+      "from_version": "02009R1223-20140701",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2014-08-29"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20140829.json",
+      "sha256": "0cfad55bcf398bd656a408bc7d56b8845335638bce47aa1dd4954d7fdd8e6b78",
+      "diff_only": false,
+      "counts": {
+        "touched": 3,
+        "substantive": 3,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20140701",
+      "from_version": "02009R1223-20140401",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2014-04-30"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20140701.json",
+      "sha256": "b9a15fe7f7e9e9179f83b6d4769d1a796b1797f38a1805be9132460c2fa8359f",
+      "diff_only": false,
+      "counts": {
+        "touched": 3,
+        "substantive": 3,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20140401",
+      "from_version": "02009R1223-20130901",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2014-04-01"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20140401.json",
+      "sha256": "c3ff07f8beb15e12bc2d5968b259285b7630e754d63d58e0ad1298c47c63d11c",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20130901",
+      "from_version": "02009R1223-20130711",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2013-07-31"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20130901.json",
+      "sha256": "7ea19f0d901f1c7217fc2371f5e2569845e819342cb16f4ed2ccb67e37798f82",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02009R1223-20130711",
+      "from_version": "32009R1223",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2013-07-11"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32009R1223/changes/02009R1223-20130711.json",
+      "sha256": "ff5361956b88d2ad40325f270588e4d18924502dde6f878602735b63a19c6dde",
+      "diff_only": false,
+      "counts": {
+        "touched": 5,
+        "substantive": 5,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AN I": [
+      {
+        "version": "02009R1223-20200501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN I SCT 2"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AN II": [
+      {
+        "version": "02009R1223-20260518",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-05-18",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2027-01-01",
+          "2028-07-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R0909"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20260501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-05-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R0078"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20250901",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2025-09-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32025R0877"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20240424",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2024-04-24",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2025-05-01",
+          "2026-05-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R0996"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20240404",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2024-04-04",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2025-02-01",
+          "2025-11-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R0858"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20231201",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2023-12-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32023R1490"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20221217",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-12-17",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32022R1531"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20221006",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "none",
+        "in_force": "2022-10-06",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32022R1531"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20220301",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-03-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R1902"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20211001",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "kind_mismatch",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-10-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0850"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20210823",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2021-07-26",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R1099"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20210617",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_both_others",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "none",
+        "in_force": "2021-06-17",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32021R0850"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20201203",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2020-12-03",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2021-09-03",
+          "2022-06-03"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32020R1683"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20200501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2020-05-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1966"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20191218",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2019-12-18",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1966"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20190617",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2019-05-22",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2019-11-22",
+          "2020-02-22"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R0831",
+          "32019R0681",
+          "32019R1966"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20180801",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2018-08-01",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2019-05-01",
+          "2019-08-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32018R0978"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20170903",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2017-08-23",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2019-08-23",
+          "2021-08-23"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32017R1410"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20150818",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2015-08-18",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32015R1298"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20140701",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2014-04-30",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32014R0358"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20140401",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20130901",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2013-07-31",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32013R0658"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20130711",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2013-07-11",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32013R0344"
+        ],
+        "changed_within": [
+          "AN II"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AN III": [
+      {
+        "version": "02009R1223-20260518",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-05-18",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2027-01-01",
+          "2028-07-01",
+          "2028-08-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R0909"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20260501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-05-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R0078"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20250901",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2025-09-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32025R0877"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20240424",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2024-04-24",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2027-05-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R0996"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20240404",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2024-04-04",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2025-02-01",
+          "2025-11-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R0858"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20230816",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2023-08-16",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2023-08-15",
+          "2026-07-31",
+          "2028-07-31"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32023R1545"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20221217",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-12-01",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2023-07-01",
+          "2024-01-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32022R2195",
+          "32022R1531"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20220301",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-02-21",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2022-08-21",
+          "2022-11-21"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R1902",
+          "32022R0135"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20211001",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "instruction_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "absent"
+        },
+        "text": "both",
+        "in_force": "2021-10-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0850"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20210823",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2021-07-26",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2022-01-26",
+          "2022-04-22"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R1099",
+          "32017R1410"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20210617",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "instruction_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "absent"
+        },
+        "text": "both",
+        "in_force": "2021-06-17",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0850"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20210526",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20201203",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2020-12-03",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2021-06-03",
+          "2021-09-03",
+          "2021-12-03"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32020R1683",
+          "32020R1682"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20200501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2020-05-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1966"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20191218",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2019-12-18",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1966"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20190813",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "none",
+        "in_force": "2019-08-13",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32019R1257"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20190617",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2019-05-27",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2005-09-07",
+          "2019-11-27",
+          "2020-02-27"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R0831",
+          "32019R1966",
+          "32019R0698"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20180801",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2018-08-01",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2019-05-01",
+          "2019-08-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32018R0978"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20171225",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2017-12-25",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2018-09-25",
+          "2018-12-25"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32017R2228"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20170303",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2017-03-03",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2017-09-03",
+          "2018-03-03"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32017R0237"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160812",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160810",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160512",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2016-05-12",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32016R0622"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160325",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2016-03-25",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32016R0314"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20150810",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2015-08-10",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32015R1190"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20150416",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20140829",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2014-08-29",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32014R0866"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20140701",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20140401",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2014-04-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32013R0483"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20130901",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2013-07-31",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32013R0658"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20130711",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2013-07-11",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [
+          "2009-12-31"
+        ],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32013R1197",
+          "32013R0344"
+        ],
+        "changed_within": [
+          "AN III"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AN IV": [
+      {
+        "version": "02009R1223-20260501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-05-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R0078"
+        ],
+        "changed_within": [
+          "AN IV"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20211001",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "instruction_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "absent"
+        },
+        "text": "both",
+        "in_force": "2021-10-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0850"
+        ],
+        "changed_within": [
+          "AN IV"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20170903",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2017-08-24",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32017R1413"
+        ],
+        "changed_within": [
+          "AN IV"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160810",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2016-08-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32016R1120"
+        ],
+        "changed_within": [
+          "AN IV"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AN V": [
+      {
+        "version": "02009R1223-20260518",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-05-18",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R0909"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20260501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-05-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R0078"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20240424",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2024-04-24",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2024-04-23",
+          "2024-12-31",
+          "2025-10-31"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R0996"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20221217",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20221006",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-10-06",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32022R1531"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20220731",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-07-31",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2022-07-30",
+          "2024-07-31",
+          "2026-07-31"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32022R1181"
+        ],
+        "changed_within": [
+          "AN V SCT 2"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20220301",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-03-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R1902"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20200501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2020-05-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1966"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20191127",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2019-11-27",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2019-11-27",
+          "2020-02-27"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1858",
+          "32019R0698"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20190617",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2019-06-12",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2019-06-17",
+          "2019-09-17"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R0831",
+          "32018R1847"
+        ],
+        "changed_within": [
+          "AN V",
+          "AN V SCT 2"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20170727",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2017-07-27",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32017R1224"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20170303",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160812",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2016-08-12",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32016R1198"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160810",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2016-08-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32016R1121"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20150716",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2015-07-16",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32014R1003"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20150416",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2015-04-16",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32014R1004"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20140829",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2014-08-29",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32014R0866"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20140701",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2014-04-30",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32014R0358"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20130711",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2013-07-11",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32013R0344"
+        ],
+        "changed_within": [
+          "AN V"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AN VI": [
+      {
+        "version": "02009R1223-20260518",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-05-18",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2027-01-01",
+          "2028-07-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32026R0909"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20250501",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "none",
+        "in_force": "2025-05-01",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32024R0996"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20221217",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-12-01",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2025-01-01",
+          "2025-07-01"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32022R2195"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20221006",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20220731",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2022-07-28",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2022-07-27",
+          "2023-01-28",
+          "2023-07-28"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32022R1176"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20211001",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "instruction_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "absent"
+        },
+        "text": "both",
+        "in_force": "2021-10-01",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0850"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20201203",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2020-12-03",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32020R1684"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20191127",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2019-11-27",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1857"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20190617",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2019-05-22",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R0680"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20180711",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2018-07-11",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32018R0885"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20170903",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2017-09-03",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32017R0238"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160810",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2016-08-03",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32016R1143"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20160512",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2016-05-12",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32016R0621"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20150818",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "none",
+        "in_force": "2015-08-18",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32015R1298"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20140829",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2014-08-29",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32014R0866"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20130711",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2013-07-11",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32013R0344"
+        ],
+        "changed_within": [
+          "AN VI"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 13": [
+      {
+        "version": "02009R1223-20130711",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 13 PA 3 ALN 1 PTA (d)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 2": [
+      {
+        "version": "02009R1223-20210526",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 2 PA 4"
+        ],
+        "occurrence": 1
+      },
+      {
+        "version": "02009R1223-20201203",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "none",
+        "in_force": "2020-05-26",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32017R0745"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ]
+  }
+}

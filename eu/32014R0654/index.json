@@ -1,0 +1,433 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32014R0654",
+  "title": "Regulation (EU) No 654/2014 of the European Parliament and of the Council of 15 May 2014 concerning the exercise of the Union's rights for the application and enforcement of international trade rules and amending Council Regulation (EC) No 3286/94 laying down Community procedures in the field of the common commercial policy in order to ensure the exercise of the Community's rights under international trade rules, in particular those established under the auspices of the World Trade Organization",
+  "events": [
+    {
+      "to_version": "02014R0654-20210213",
+      "from_version": "02014R0654-20151105",
+      "detected_on": "2026-08-13",
+      "in_force": [
+        "2021-02-13"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32014R0654/changes/02014R0654-20210213.json",
+      "sha256": "e2388e0778886bc6bb943fec834b2b7bdf56f1521d573a709e60f1f56a519145",
+      "diff_only": false,
+      "counts": {
+        "touched": 9,
+        "substantive": 9,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02014R0654-20151105",
+      "from_version": "02014R0654-20140627",
+      "detected_on": "2026-08-15",
+      "in_force": [
+        "2015-11-05"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32014R0654/changes/02014R0654-20151105.json",
+      "sha256": "caa39bfb0e11549c506c6e0535c7da46af9d633aafb9b3b172ebc5db32e7b62e",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 0,
+        "date_only": 0,
+        "textless": 1,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [
+        "AR 11"
+      ],
+      "instruction_only_units": []
+    },
+    {
+      "to_version": "02014R0654-20140627",
+      "from_version": "32014R0654",
+      "detected_on": "2026-08-13",
+      "in_force": [],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32014R0654/changes/02014R0654-20140627.json",
+      "sha256": "9cfae9349545d5eba9e1b861fbf35ca55325b011a0654ab8da3ebe4df4bc051c",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "evidence",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 1": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 1 ALN 1 PTA (b)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 10": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2021-02-13"
+        ],
+        "dates_removed": [
+          "2017-07-18",
+          "2019-07-18"
+        ],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 10 PA 1 ALN 1",
+          "AR 10 PA 2 ALN 1",
+          "AR 10 PA 2 ALN 1 PTA (a)",
+          "AR 10 PA 2 ALN 1 PTA (b)",
+          "AR 10 PA 2 ALN 1 PTA (c)",
+          "AR 10 PA 2 ALN 1 PTA (d)",
+          "AR 10 PA 2 ALN 1 PTA (e)",
+          "AR 10 PA 2 ALN 2"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 11": [
+      {
+        "version": "02014R0654-20151105",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "none",
+        "in_force": "2015-11-05",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32015R1843"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      },
+      {
+        "version": "02014R0654-20140627",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 11 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 2": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 2 ALN 1 PTA (b)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 3": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 3 ALN 1 PTA (aa)",
+          "AR 3 ALN 1 PTA (ba)",
+          "AR 3 ALN 1 PTA (d)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 4": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 4 PA 2 ALN 1 PTA (ba)",
+          "AR 4 PA 2 ALN 1 PTA (d)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 5": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 5 PA 1 ALN 1 PTA (ba)",
+          "AR 5 PA 1 ALN 1 PTA (bb)",
+          "AR 5 PA 1a",
+          "AR 5 PA 1b"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 6": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 6 PA 3"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 7": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 7 PA 2 ALN 1 PTA (c)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 9": [
+      {
+        "version": "02014R0654-20210213",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-02-13",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32021R0167"
+        ],
+        "changed_within": [
+          "AR 9 PA 1 ALN 1",
+          "AR 9 PA 1a"
+        ],
+        "occurrence": 1
+      }
+    ]
+  }
+}

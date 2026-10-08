@@ -1,0 +1,137 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32008R0765",
+  "title": "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02008R0765-20210716",
+      "from_version": "32008R0765",
+      "detected_on": "2026-09-04",
+      "in_force": [
+        "2021-07-16"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32008R0765/changes/02008R0765-20210716.json",
+      "sha256": "83b6380d440bc5ac1faf164089c900936cff92b978bdeac8a167e8e10283a8e3",
+      "diff_only": false,
+      "counts": {
+        "touched": 3,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 2,
+        "disputed": 3,
+        "quoted": 0,
+        "unexplained": 2
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-04"
+        },
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [
+        "AR 1",
+        "AR 2"
+      ],
+      "instruction_only_units": [
+        "AN III"
+      ]
+    }
+  ],
+  "provisions": {
+    "AR 1": [
+      {
+        "version": "02008R0765-20210716",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "absent"
+        },
+        "text": "none",
+        "in_force": "2021-07-16",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32019R1020"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ],
+    "AR 2": [
+      {
+        "version": "02008R0765-20210716",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "absent"
+        },
+        "text": "none",
+        "in_force": "2021-07-16",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32019R1020"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ],
+    "AR 32": [
+      {
+        "version": "02008R0765-20210716",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "instruction_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "absent"
+        },
+        "text": "both",
+        "in_force": "2021-07-16",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1020"
+        ],
+        "changed_within": [
+          "AR 32 PA 1 ALN 1 PTA (c)",
+          "AR 32 PA 1 ALN 1 PTA (f)",
+          "AR 32 PA 1 ALN 1 PTA (g)"
+        ],
+        "occurrence": 1
+      }
+    ]
+  }
+}

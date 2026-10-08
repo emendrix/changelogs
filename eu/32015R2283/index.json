@@ -1,0 +1,171 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32015R2283",
+  "title": "Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02015R2283-20210327",
+      "from_version": "32015R2283",
+      "detected_on": "2026-09-04",
+      "in_force": [
+        "2021-03-27"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32015R2283/changes/02015R2283-20210327.json",
+      "sha256": "dc10907e98d7c771ac44fd3340ccac7b0492ba03295792c78efd85da82973fdf",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "explanations",
+          "repaired_on": "2026-09-04"
+        },
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 10": [
+      {
+        "version": "02015R2283-20210327",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-03-27",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1381"
+        ],
+        "changed_within": [
+          "AR 10 PA 1 ALN 1",
+          "AR 10 PA 3 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 15": [
+      {
+        "version": "02015R2283-20210327",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-03-27",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1381"
+        ],
+        "changed_within": [
+          "AR 15 PA 2 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 16": [
+      {
+        "version": "02015R2283-20210327",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-03-27",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1381"
+        ],
+        "changed_within": [
+          "AR 16 ALN 1",
+          "AR 16 ALN 2"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 23": [
+      {
+        "version": "02015R2283-20210327",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2021-03-27",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32019R1381"
+        ],
+        "changed_within": [
+          "AR 23",
+          "AR 23 PA 1 ALN 1",
+          "AR 23 PA 2 ALN 1",
+          "AR 23 PA 3 ALN 1",
+          "AR 23 PA 4 ALN 1",
+          "AR 23 PA 4 ALN 1 PTA (a)",
+          "AR 23 PA 4 ALN 1 PTA (b)",
+          "AR 23 PA 4 ALN 2",
+          "AR 23 PA 5 ALN 1",
+          "AR 23 PA 6 ALN 1",
+          "AR 23 PA 7",
+          "AR 23 PA 8"
+        ],
+        "occurrence": 1
+      }
+    ]
+  }
+}

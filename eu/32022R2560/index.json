@@ -1,0 +1,227 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32022R2560",
+  "title": "Regulation (EU) 2022/2560 of the European Parliament and of the Council of 14 December 2022 on foreign subsidies distorting the internal market",
+  "events": [
+    {
+      "to_version": "02022R2560-20221223",
+      "from_version": "32022R2560",
+      "detected_on": "2026-08-13",
+      "in_force": [],
+      "updated_on": "2026-08-13",
+      "schema_version": "1.0",
+      "path": "eu/32022R2560/changes/02022R2560-20221223.json",
+      "sha256": "97548aa76b03b60b4d613e5fe0bb691ea6471bc7bf312f530e90ab0af27139d9",
+      "diff_only": false,
+      "counts": {
+        "touched": 6,
+        "substantive": 6,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 46": [
+      {
+        "version": "02022R2560-20221223",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [
+          "2026-01-13"
+        ],
+        "dates_removed": [
+          "2026-01-12"
+        ],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 46 PA 1 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 47": [
+      {
+        "version": "02022R2560-20221223",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [
+          "2023-07-13"
+        ],
+        "dates_removed": [
+          "2023-07-12"
+        ],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 47 PA 4 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 50": [
+      {
+        "version": "02022R2560-20221223",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [
+          "2025-01-13"
+        ],
+        "dates_removed": [
+          "2025-01-12"
+        ],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 50 PA 2 ALN 1",
+          "AR 50 PA 3 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 52": [
+      {
+        "version": "02022R2560-20221223",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [
+          "2026-07-14"
+        ],
+        "dates_removed": [
+          "2026-07-13"
+        ],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 52 PA 2 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 53": [
+      {
+        "version": "02022R2560-20221223",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [
+          "2023-07-13"
+        ],
+        "dates_removed": [
+          "2023-07-12"
+        ],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 53 PA 1 ALN 1",
+          "AR 53 PA 2 ALN 1",
+          "AR 53 PA 3 ALN 1",
+          "AR 53 PA 4 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 54": [
+      {
+        "version": "02022R2560-20221223",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [
+          "2023-01-12",
+          "2023-07-13",
+          "2023-10-13",
+          "2024-01-13"
+        ],
+        "dates_removed": [
+          "2023-01-11",
+          "2023-07-12",
+          "2023-10-12",
+          "2024-01-12"
+        ],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 54 PA 2 ALN 1",
+          "AR 54 PA 3 ALN 1",
+          "AR 54 PA 4 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32016R0425",
+  "title": "Regulation (EU) 2016/425 of the European Parliament and of the Council of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02016R0425-20260529",
+      "from_version": "32016R0425",
+      "detected_on": "2026-09-04",
+      "in_force": [
+        "2026-05-29"
+      ],
+      "updated_on": "2026-10-08",
+      "schema_version": "1.2",
+      "path": "eu/32016R0425/changes/02016R0425-20260529.json",
+      "sha256": "ddb445e612c60eb7472cc8147d1e7b923b25f89c736649bb5c7b82bb8a700ae3",
+      "diff_only": false,
+      "counts": {
+        "touched": 6,
+        "substantive": 6,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 5,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "signals",
+          "repaired_on": "2026-10-08"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 3": [
+      {
+        "version": "02016R0425-20260529",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2026-05-29",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2024-10-09"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R2748"
+        ],
+        "changed_within": [
+          "AR 3 ALN 1 PO 18",
+          "AR 3 ALN 1 PO 19",
+          "AR 3 ALN 1 PO 20"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 41a": [
+      {
+        "version": "02016R0425-20260529",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "observed"
+        },
+        "text": "after",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R2748"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ],
+    "AR 41b": [
+      {
+        "version": "02016R0425-20260529",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "observed"
+        },
+        "text": "after",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R2748"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ],
+    "AR 41c": [
+      {
+        "version": "02016R0425-20260529",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "observed"
+        },
+        "text": "after",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R2748"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ],
+    "AR 41d": [
+      {
+        "version": "02016R0425-20260529",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "observed"
+        },
+        "text": "after",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R2748"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ],
+    "AR 41e": [
+      {
+        "version": "02016R0425-20260529",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "metadata_silent",
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "absent",
+          "instruction_parse": "observed"
+        },
+        "text": "after",
+        "in_force": null,
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32024R2748"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ]
+  }
+}

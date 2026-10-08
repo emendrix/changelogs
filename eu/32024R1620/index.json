@@ -1,0 +1,154 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32024R1620",
+  "title": "Regulation (EU) 2024/1620 of the European Parliament and of the Council of 31 May 2024 establishing the Authority for Anti-Money Laundering and Countering the Financing of Terrorism and amending Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02024R1620-20251110",
+      "from_version": "32024R1620",
+      "detected_on": "2026-09-05",
+      "in_force": [
+        "2025-11-10"
+      ],
+      "updated_on": "2026-09-05",
+      "schema_version": "1.2",
+      "path": "eu/32024R1620/changes/02024R1620-20251110.json",
+      "sha256": "b5085459ebede0da35747709cc854f11410edbb78496aeb5caf244ba9b115e1a",
+      "diff_only": false,
+      "counts": {
+        "touched": 4,
+        "substantive": 4,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [
+        {
+          "kind": "corroboration",
+          "repaired_on": "2026-09-05"
+        }
+      ],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 5": [
+      {
+        "version": "02024R1620-20251110",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2025-11-10",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32025R2088"
+        ],
+        "changed_within": [
+          "AR 5 PA 1 ALN 1 PTA (j)",
+          "AR 5 PA 1 ALN 1 PTA (k)"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 55": [
+      {
+        "version": "02024R1620-20251110",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2025-11-10",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32025R2088"
+        ],
+        "changed_within": [
+          "AR 55 PA 1 ALN 2",
+          "AR 55 PA 1 ALN 3"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 88": [
+      {
+        "version": "02024R1620-20251110",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2025-11-10",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32025R2088"
+        ],
+        "changed_within": [
+          "AR 88 PA 3a"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AR 92a": [
+      {
+        "version": "02024R1620-20251110",
+        "change_type": "INSERTED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "after",
+        "in_force": "2025-11-10",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32025R2088"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      }
+    ]
+  }
+}

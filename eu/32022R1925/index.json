@@ -1,0 +1,61 @@
+{
+  "index_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32022R1925",
+  "title": "Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance)",
+  "events": [
+    {
+      "to_version": "02022R1925-20221012",
+      "from_version": "32022R1925",
+      "detected_on": "2026-08-12",
+      "in_force": [],
+      "updated_on": "2026-08-12",
+      "schema_version": "1.0",
+      "path": "eu/32022R1925/changes/02022R1925-20221012.json",
+      "sha256": "4b58cbc61376d6dfd7a19508f9794b14dff4ff53eab97074e574139be937dc79",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [],
+      "evidence": false,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    }
+  ],
+  "provisions": {
+    "AR 13": [
+      {
+        "version": "02022R1925-20221012",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "unavailable",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": null,
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [],
+        "changed_within": [
+          "AR 13 PA 8 ALN 1"
+        ],
+        "occurrence": 1
+      }
+    ]
+  }
+}
