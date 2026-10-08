@@ -559,7 +559,7 @@ The body of the Annex, including the numbered entries and their conditions of re
 ### `02006R1907-20230629` → `02006R1907-20230806`
 
 - **Act** `eu:32006R1907` · **In force** 2023-08-06 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20230629` · `v2` = `02006R1907-20230806`
@@ -569,8 +569,6 @@ The body of the Annex, including the numbered entries and their conditions of re
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII`, `AN XVII APP 14` · *dates* +2012-05-22 +2026-08-06 +2027-08-06 · *amended by* `32023R1464`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of source directives and regulations cited in the introductory material of the Annex has been extended to include Regulation (EU) No 528/2012 of 22 May 2012 concerning the making available on the market and use of biocidal products, which does not appear in the earlier text. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20230806#anx_XVII)
 
