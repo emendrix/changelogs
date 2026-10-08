@@ -100,7 +100,7 @@ The sentence stating that the information referred to in points 2.1.1 and 2.1.2 
 ### `02018R0848-20230221` → `02018R0848-20241201`
 
 - **Act** `eu:32018R0848` · **In force** 2024-12-01 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02018R0848-20230221` · `v2` = `02018R0848-20241201`
@@ -110,8 +110,6 @@ The sentence stating that the information referred to in points 2.1.1 and 2.1.2 
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V SCT 1` · *amended by* `32024R2867`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The description of the reference colour in point 1.2 changed from a Pantone and four-colour-process description to a CMYK value, a Pantone number, and an RGB value. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20230221#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20241201#anx_V)
 
@@ -151,7 +149,7 @@ Point 1.5 changes the wording about using a delimiting outer line from an option
 
 *within* `AN VI`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In the section on category (a) unprocessed plants and plant products, the checkbox symbol before the option for production during the conversion period changed from a single box mark to a doubled box mark. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R0848-20241201#anx_VI)
 
