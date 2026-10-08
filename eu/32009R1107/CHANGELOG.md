@@ -522,7 +522,7 @@ This paragraph does not appear in the earlier version of Article 80, which ends 
 ### `02009R1107-20170828` → `02009R1107-20181110`
 
 - **Act** `eu:32009R1107` · **In force** 2018-11-10 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20170828` · `v2` = `02009R1107-20181110`
@@ -532,8 +532,6 @@ This paragraph does not appear in the earlier version of Article 80, which ends 
 **MODIFIED · Annex II — ANNEX II** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II SCT 3 SCT 3.6`, `AN II SCT 3 SCT 3.6 PO 1`, `AN II SCT 3 SCT 3.6 PO 2`, `AN II SCT 3 SCT 3.6 PO 3`, `AN II SCT 3 SCT 3.6 PTA (a)`, `AN II SCT 3 SCT 3.6 PTA (b)`, `AN II SCT 3 SCT 3.6 PTA (c)`, `AN II SCT 3 SCT 3.6 PTA (d)`, `AN II SCT 3 SCT 3.6 PTA (e)`, `AN II SCT 3 SCT 3.6 PO 4`, `AN II SCT 3 SCT 3.8`, `AN II SCT 3 SCT 3.8 PO 1`, `AN II SCT 3 SCT 3.8 PO 2`, `AN II SCT 3 SCT 3.8 PO 3`, `AN II SCT 3 SCT 3.8 PTA (a)`, `AN II SCT 3 SCT 3.8 PTA (b)`, `AN II SCT 3 SCT 3.8 PTA (c)`, `AN II SCT 3 SCT 3.8 PTA (d)`, `AN II SCT 3 SCT 3.8 PTA (e)`, `AN II SCT 3 SCT 3.8 PO 4` · *dates* +2018-11-10 · *amended by* `32018R0605`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 3.6 gains new paragraphs setting out detailed scientific criteria for identifying an active substance, safener or synergist as having endocrine disrupting properties that may cause adverse effects in humans, including a list of factors to weigh in assessing available scientific data. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20181110#anx_II)
 
