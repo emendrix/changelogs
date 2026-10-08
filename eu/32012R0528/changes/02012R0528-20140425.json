@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 34,
+    "modified": 29,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 34,
+    "touched_units": 29,
     "unchanged_units": 76,
-    "disputed": 11
+    "disputed": 4
   },
   "counts": {
-    "touched": 34,
+    "touched": 29,
     "substantive": 28,
     "date_only": 0,
-    "textless": 6,
-    "disputed": 11,
+    "textless": 1,
+    "disputed": 4,
     "quoted": 0,
-    "unexplained": 6
+    "unexplained": 1
   },
   "changes": [
     {
@@ -56,12 +56,12 @@
           {
             "corpus": "eu",
             "key": "32014R0334",
-            "display_name": "Regulation (EU) No 334/2014 of the European Parliament and of the Council of 11 March 2014 amending Regulation (EU) No 528/2012 concerning the making available on the market and use of biocidal products, with regard to certain conditions for access to the market  Text with EEA relevance"
+            "display_name": null
           }
         ],
         "dates_removed": [],
         "dates_added": [],
-        "in_force": null,
+        "in_force": "2014-04-25",
         "applies_from": {
           "kind": "unchanged"
         },
@@ -74,9 +74,11 @@
             ]
           },
           "corpus_metadata": {
-            "status": "absent",
-            "detail": "37 annotations in (2013-09-23, 2014-04-25]",
-            "change_types": []
+            "status": "observed",
+            "detail": "32014R0334 R",
+            "change_types": [
+              "MODIFIED"
+            ]
           },
           "instruction_parse": {
             "status": "observed",
@@ -86,7 +88,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -137,64 +140,6 @@
             "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
           },
           "version": "02012R0528-20140425",
-          "location": "AR 2.5"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0334",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-04-25",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32014R0334 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0528",
-            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
-          },
-          "version": "02012R0528-20140425",
           "location": "AR 3"
         },
         "heading": "Definitions",
@@ -212,12 +157,12 @@
           {
             "corpus": "eu",
             "key": "32014R0334",
-            "display_name": "Regulation (EU) No 334/2014 of the European Parliament and of the Council of 11 March 2014 amending Regulation (EU) No 528/2012 concerning the making available on the market and use of biocidal products, with regard to certain conditions for access to the market  Text with EEA relevance"
+            "display_name": null
           }
         ],
         "dates_removed": [],
         "dates_added": [],
-        "in_force": null,
+        "in_force": "2014-04-25",
         "applies_from": {
           "kind": "unchanged"
         },
@@ -230,9 +175,11 @@
             ]
           },
           "corpus_metadata": {
-            "status": "absent",
-            "detail": "37 annotations in (2013-09-23, 2014-04-25]",
-            "change_types": []
+            "status": "observed",
+            "detail": "32014R0334 SU; 32014R0334 R",
+            "change_types": [
+              "MODIFIED"
+            ]
           },
           "instruction_parse": {
             "status": "observed",
@@ -242,7 +189,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -325,64 +273,6 @@
             "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
           },
           "version": "02012R0528-20140425",
-          "location": "AR 3.1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0334",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-04-25",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32014R0334 SU; 32014R0334 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0528",
-            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
-          },
-          "version": "02012R0528-20140425",
           "location": "AR 19"
         },
         "heading": "Conditions for granting an authorisation",
@@ -436,7 +326,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -525,180 +416,6 @@
             "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
           },
           "version": "02012R0528-20140425",
-          "location": "AR 19.1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0334",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-04-25",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32014R0334 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0528",
-            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
-          },
-          "version": "02012R0528-20140425",
-          "location": "AR 19.4"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0334",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-04-25",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32014R0334 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0528",
-            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
-          },
-          "version": "02012R0528-20140425",
-          "location": "AR 19.6"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0334",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-04-25",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32014R0334 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32014R0334, 1.000 of its instruction clauses read, 1 dated outside the window, 34 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0528",
-            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
-          },
-          "version": "02012R0528-20140425",
           "location": "AR 23"
         },
         "heading": "Comparative assessment of biocidal products",
@@ -744,7 +461,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -840,7 +558,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -923,7 +642,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1019,7 +739,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1110,7 +831,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -1174,7 +896,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1302,7 +1025,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1418,7 +1142,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1546,7 +1271,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1674,7 +1400,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1790,7 +1517,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1918,7 +1646,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2047,7 +1776,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2175,7 +1905,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2258,7 +1989,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2386,7 +2118,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2514,7 +2247,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2638,7 +2372,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2798,7 +2533,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2905,7 +2641,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3031,7 +2768,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3198,7 +2936,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3345,7 +3084,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3441,7 +3181,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3578,7 +3319,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3674,7 +3416,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3765,12 +3508,9 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AR 2.5",
-          "AR 3.1",
+          "AR 2",
+          "AR 3",
           "AR 19",
-          "AR 19.1",
-          "AR 19.4",
-          "AR 19.6",
           "AR 23",
           "AR 34",
           "AR 35",
@@ -3820,7 +3560,7 @@
             }
           },
           {
-            "location": "AR 3.1 PO V)",
+            "location": "AR 3 PO V)",
             "change_type": null,
             "in_force": "2014-04-25",
             "source": "32014R0334 SU",
@@ -3897,7 +3637,7 @@
             }
           },
           {
-            "location": "AR 19.1 PO A)",
+            "location": "AR 19 PO A)",
             "change_type": "MODIFIED",
             "in_force": "2014-04-25",
             "source": "32014R0334 R",
@@ -3908,7 +3648,7 @@
             }
           },
           {
-            "location": "AR 19.1 PO E)",
+            "location": "AR 19 PO E)",
             "change_type": "MODIFIED",
             "in_force": "2014-04-25",
             "source": "32014R0334 R",
@@ -4018,7 +3758,7 @@
             }
           },
           {
-            "location": "AR 19.6",
+            "location": "AR 19",
             "change_type": "MODIFIED",
             "in_force": "2014-04-25",
             "source": "32014R0334 R",
@@ -4062,7 +3802,7 @@
             }
           },
           {
-            "location": "AR 3.1 PO S)",
+            "location": "AR 3 PO S)",
             "change_type": "MODIFIED",
             "in_force": "2014-04-25",
             "source": "32014R0334 R",
@@ -4117,7 +3857,7 @@
             }
           },
           {
-            "location": "AR 19.4 PO C)",
+            "location": "AR 19 PO C)",
             "change_type": "MODIFIED",
             "in_force": "2014-04-25",
             "source": "32014R0334 R",
@@ -4150,7 +3890,7 @@
             }
           },
           {
-            "location": "AR 2.5 PO B)",
+            "location": "AR 2 PO B)",
             "change_type": "MODIFIED",
             "in_force": "2014-04-25",
             "source": "32014R0334 R",
@@ -4172,7 +3912,7 @@
             }
           },
           {
-            "location": "AR 19.4 PO B)",
+            "location": "AR 19 PO B)",
             "change_type": "MODIFIED",
             "in_force": "2014-04-25",
             "source": "32014R0334 R",
@@ -4621,11 +4361,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 28,
-        "right_units": 29,
-        "shared": 23,
-        "precision": 0.8214285714285714,
-        "recall": 0.7931034482758621,
-        "f1": 0.8070175438596492,
+        "right_units": 26,
+        "shared": 25,
+        "precision": 0.8928571428571429,
+        "recall": 0.9615384615384616,
+        "f1": 0.9259259259259259,
         "kind_mismatches": 0
       },
       {
@@ -4642,161 +4382,16 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 29,
+        "left_units": 26,
         "right_units": 26,
-        "shared": 24,
-        "precision": 0.8275862068965517,
-        "recall": 0.9230769230769231,
-        "f1": 0.8727272727272727,
+        "shared": 26,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 1
       }
     ],
     "disagreements": [
-      {
-        "unit": "AR 2",
-        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
-        "observed_by": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 2.5",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 3",
-        "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
-        "observed_by": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 3.1",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 19.1",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 19.4",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 19.6",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AR 45",
         "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
@@ -4875,13 +4470,9 @@
       }
     ],
     "metadata_only_units": [
-      "AR 2.5",
-      "AR 3.1",
-      "AR 19.1",
-      "AR 19.4",
-      "AR 19.6",
       "AR 45"
-    ]
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -4921,6 +4512,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 34,
       "repaired": 9,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 34,
+      "repaired": 7,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

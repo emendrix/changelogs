@@ -490,9 +490,9 @@ Both texts are cut off before the end of the Annex, so any further differences b
 ### `02012R0528-20130923` → `02012R0528-20140425`
 
 - **Act** `eu:32012R0528` · **In force** 2014-04-25 · **Detected** 2026-09-04
-- **Touched** 34 provisions — 28 substantive · 0 date-only · 6 with no text · **11 disputed**
-- **Diff** 0 inserted · 34 modified · 0 deleted · 0 renumbered · 0 deferred · 76 unchanged
-- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Touched** 29 provisions — 28 substantive · 0 date-only · 1 with no text · **4 disputed**
+- **Diff** 0 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 76 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20130923` · `v2` = `02012R0528-20140425`
 
 ---
@@ -500,8 +500,6 @@ Both texts are cut off before the end of the Annex, so any further differences b
 **MODIFIED · Art. 2 — Scope** · applies from: unchanged
 
 *within* `AR 2 PA 5 ALN 1 PTA (b)` · *amended by* `32014R0334`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 Point (b) of Article 2(5) now specifies that the exclusion for biocidal products used as processing aids applies within the meaning of Regulation (EC) No 1831/2003 and Regulation (EC) No 1333/2008, a qualification absent from the earlier text. [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_2) [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_2)
 
@@ -537,21 +535,9 @@ Point (b) of Article 2(5) now specifies that the exclusion for biocidal products
 > (d) Regulation (EC) No 1831/2003;
 > (e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the h […truncated by emendrix: 5717 characters omitted…]
 
-**MODIFIED · Art. 2.5** · applies from: unknown
-
-*amended by* `32014R0334`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 3 — Definitions** · applies from: unchanged
 
 *within* `AR 3 PA 1 ALN 1 PTA (s)`, `AR 3 PA 1 ALN 1 PTA (s) PTI (i)`, `AR 3 PA 1 ALN 1 PTA (s) PTI (ii)`, `AR 3 PA 1 ALN 1 PTA (s) PTI (iii)`, `AR 3 PA 1 ALN 1 PTA (s) PTI (iv)` · *amended by* `32014R0334`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The definition of biocidal product family was rewritten from a single descriptive sentence into a four-point list, requiring similar uses, the same active substances, similar composition with specified variations, and similar levels of risk and efficacy. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_3)
 
@@ -582,16 +568,6 @@ The earlier version described the active substances as having the same specifica
 > (b) micro-organism means any microbiological entity, cellular or non-cellular, capable of replication or of transferring genetic material, including lower fungi, viruses, bacteria, yeasts, moulds, algae, protozoa and microscopic parasitic helminths;
 > (c) active substance means a substance or a micro-organism that has an action on or against harmful organisms;
 > (d) existing active substance means a substance which was on the market on 14 May 2000 as an active substance of a biocidal product for purposes other than scientific or product and process-orientated res […truncated by emendrix: 8517 characters omitted…]
-
-**MODIFIED · Art. 3.1** · applies from: unknown
-
-*amended by* `32014R0334`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 19 — Conditions for granting an authorisation** · applies from: unchanged
 
@@ -630,36 +606,6 @@ Paragraph 6 is restructured so that the biocidal product family assessment under
 > (iv) the biocidal product has no unacceptable effects itself, or as a result of its residues, on the environment, having particular regard to the following considerations:
 > the fate and distribution of the biocidal product in the environment,
 > contamination of surface waters (including estuarial […truncated by emendrix: 7957 characters omitted…]
-
-**MODIFIED · Art. 19.1** · applies from: unknown
-
-*amended by* `32014R0334`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 19.4** · applies from: unknown
-
-*amended by* `32014R0334`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 19.6** · applies from: unknown
-
-*amended by* `32014R0334`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 23 — Comparative assessment of biocidal products** · applies from: unchanged
 
@@ -784,7 +730,7 @@ The time period referenced for the Member States' obligation to authorise a bioc
 
 *amended by* `32014R0334`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1234,7 +1180,7 @@ The end point for this permission is now tied to whether applications for approv
 
 *within* `AR 94 PA 1 ALN 1`, `AR 94 PA 1 ALN 1 PTA (a)`, `AR 94 PA 1 ALN 1 PTA (b)`, `AR 94 PA 2 ALN 1` · *dates* -2013-09-01 +2017-03-01
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The provision changes the derogation reference from Article 58 generally to Article 58(2) specifically, and it replaces the earlier single-paragraph test based on treated articles being available on the market on 1 September 2013 with a new test based on active substances being under examination or subject to a pending approval application by 1 September 2016. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_94)
 
@@ -1262,7 +1208,7 @@ The former paragraph 2, which barred placing on the market 180 days after a non-
 
 *within* `AR 95 PA 1 ALN 1`, `AR 95 PA 1 ALN 1 PTA (a)`, `AR 95 PA 1 ALN 1 PTA (b)`, `AR 95 PA 1 ALN 1 PTA (c)`, `AR 95 PA 1 ALN 2`, `AR 95 PA 1 ALN 3`, `AR 95 PA 1 ALN 4`, `AR 95 PA 1 ALN 5`, `AR 95 PA 2 ALN 1`, `AR 95 PA 3 ALN 1`, `AR 95 PA 3 ALN 2`, `AR 95 PA 4 ALN 1`, `AR 95 PA 5`, `AR 95 PA 6`, `AR 95 PA 7` · *dates* -2016-09-01
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The provision moves from requiring each relevant person to individually submit a dossier, letter of access, or reference to the Agency, to instead having the Agency itself compile and regularly update a public list of active substances with complete substance dossiers and the persons who submitted them. [Art. 95, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#art_95) [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#art_95)
 
@@ -1354,7 +1300,7 @@ The Category 7 heading, which previously appeared on the same line as the preced
 
 *within* `AN III`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The wording of item 8.3 Skin sensitisation under Title 1 for chemical products is unchanged in substance, with only a line break removed so that the heading and the description of the assessment steps now run together rather than being separated onto a new line. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_III)
 
