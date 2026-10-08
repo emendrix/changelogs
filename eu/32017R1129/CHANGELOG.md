@@ -1918,7 +1918,7 @@ Annex IX is newly added, setting out a list of information items to be included 
 ### `02017R1129-20211110` → `02017R1129-20240109`
 
 - **Act** `eu:32017R1129` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R1129-20211110` · `v2` = `02017R1129-20240109`
@@ -1928,8 +1928,6 @@ Annex IX is newly added, setting out a list of information items to be included 
 **INSERTED · Art. 21a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32023R2869`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 This is a newly inserted article requiring issuers, offerors, or persons seeking admission to trading to submit specified information simultaneously to a collection body so it becomes accessible on the European single access point (ESAP), and it sets out the format, metadata, and legal entity identifier requirements for that submission. [Art. 21a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#art_21a)
 
