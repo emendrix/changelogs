@@ -5622,9 +5622,9 @@ Three olive oil descriptive terms were reworded: "fruity" became "fruitiness", "
 ### `02013R1308-20140101` → `02013R1308-20160726`
 
 - **Act** `eu:32013R1308` · **In force** 2016-06-13, 2016-07-26 · **Detected** 2026-09-04
-- **Touched** 5 provisions — 5 substantive · 0 date-only · **4 disputed**
-- **Diff** 0 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 246 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Touched** 4 provisions — 1 substantive · 0 date-only · 3 with no text · **3 disputed**
+- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 246 unchanged
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20140101` · `v2` = `02013R1308-20160726`
 
 ---
@@ -5633,9 +5633,9 @@ Three olive oil descriptive terms were reworded: "fruity" became "fruitiness", "
 
 *amended by* `32016R0791`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5643,9 +5643,9 @@ Three olive oil descriptive terms were reworded: "fruity" became "fruitiness", "
 
 *amended by* `32016R0791`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5653,9 +5653,9 @@ Three olive oil descriptive terms were reworded: "fruity" became "fruitiness", "
 
 *amended by* `32016R0791`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
+*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
 *No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
@@ -5708,16 +5708,6 @@ This point did not appear in the earlier version of the Annex, which ended at po
 > POINT IV
 > 1. Delivery contracts shall provide for beet collection places and the conditions linked to delivery and transport.
 > 2. Delivery contracts shall provide tha […truncated by emendrix: 4692 characters omitted…]
-
-**MODIFIED · P II** · applies from: unknown
-
-*amended by* `32016R0791`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20160726 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20140101 -->

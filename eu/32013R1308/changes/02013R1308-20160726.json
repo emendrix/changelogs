@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.2",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -16,21 +16,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 5,
+    "modified": 4,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 5,
+    "touched_units": 4,
     "unchanged_units": 246,
-    "disputed": 4
+    "disputed": 3
   },
   "counts": {
-    "touched": 5,
-    "substantive": 5,
+    "touched": 4,
+    "substantive": 1,
     "date_only": 0,
-    "disputed": 4,
+    "textless": 3,
+    "disputed": 3,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 3
   },
   "changes": [
     {
@@ -83,12 +84,14 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -140,12 +143,14 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -197,12 +202,14 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
+      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -257,7 +264,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -301,64 +309,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20160726",
-          "location": "P II"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32016R0791",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2016-06-13",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32016R0791 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 2 amending acts: 32016R0791, 32016R1166",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`"
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -386,22 +338,10 @@
           "AR 217",
           "AR 225",
           "AN V",
-          "AN X",
-          "P II"
+          "AN X"
         ],
-        "note": "6 annotations in (2014-01-01, 2016-07-26]",
+        "note": "6 annotations in (2014-01-01, 2016-07-26]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
-          {
-            "location": "P II TIT I CHA II SECTION 1",
-            "change_type": "MODIFIED",
-            "in_force": "2016-06-13",
-            "source": "32016R0791 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32016R0791",
-              "display_name": null
-            }
-          },
           {
             "location": "AR 225 PO (e)",
             "change_type": "INSERTED",
@@ -472,11 +412,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 1,
-        "right_units": 5,
+        "right_units": 4,
         "shared": 1,
         "precision": 1.0,
-        "recall": 0.2,
-        "f1": 0.33333333333333337,
+        "recall": 0.25,
+        "f1": 0.4,
         "kind_mismatches": 0
       }
     ],
@@ -534,32 +474,14 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "P II",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
     "metadata_only_units": [
       "AR 217",
       "AR 225",
-      "AN V",
-      "P II"
-    ]
+      "AN V"
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -572,6 +494,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 4,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 6380,
       "output_tokens": 221,
@@ -591,5 +514,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 5,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
