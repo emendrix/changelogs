@@ -5863,7 +5863,7 @@ The entry for C; R34 changes its corresponding classification from Skin Corr. 1B
 ### `02008R1272-20170101` → `02008R1272-20170601`
 
 - **Act** `eu:32008R1272` · **In force** 2017-06-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20170101` · `v2` = `02008R1272-20170601`
@@ -5874,7 +5874,7 @@ The entry for C; R34 changes its corresponding classification from Skin Corr. 1B
 
 *within* `AN I SCT 2 SCT 2.15 SCT 2.15.2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -5923,8 +5923,6 @@ The entry for C; R34 changes its corresponding classification from Skin Corr. 1B
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.3`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2`, `AN VI SCT 1 SCT 1.2`, `AN VI SCT 1 SCT 1.2 SCT 1.2.1`, `AN VI SCT 1 SCT 1.2 SCT 1.2.2`, `AN VI SCT 1 SCT 1.2 SCT 1.2.3`, `AN VI SCT 1 SCT 1.2 SCT 1.2.4`, `AN VI SCT 3` · *amended by* `32017R0776`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The introductory text now refers to a single Table 3 rather than distinguishing Table 3.1 and Table 3.2, and references to Community level and Community-level dossiers in the introductory wording have become Union level in the corresponding places. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI)
 
