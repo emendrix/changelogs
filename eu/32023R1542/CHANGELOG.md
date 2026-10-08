@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02023R1542-20250731` → `02023R1542-20260813`
 
 - **Act** `eu:32023R1542` · **In force** 2026-08-13 · **Detected** 2026-09-11
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 110 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02023R1542-20250731` · `v2` = `02023R1542-20260813`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2008-12-31 +2014-02-26 +2019-01-01 +2024-01-01 · *amended by* `32026R1738`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The Annex I text expands substantially, adding a preamble referencing Directive 2014/35/EU and a voltage-related exemption note stating that the exemption shall be reviewed in 2030, before the substance table. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20260813#anx_I)
 
