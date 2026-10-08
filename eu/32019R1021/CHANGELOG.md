@@ -314,7 +314,7 @@ The PFOS entry's points 1 and 2 have been rewritten so that the limit for PFOS a
 ### `02019R1021-20250804` → `02019R1021-20251015`
 
 - **Act** `eu:32019R1021` · **In force** 2025-10-15 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 29 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20250804` · `v2` = `02019R1021-20251015`
@@ -324,8 +324,6 @@ The PFOS entry's points 1 and 2 have been rewritten so that the limit for PFOS a
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2028-04-01 +2028-04-15 +2030-02-26 · *amended by* `32025R1930`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The later text adds a new Part A entry for Dechlorane Plus, identified by its CAS and EC numbers and covering its syn- and anti-isomers, which was not present in the earlier text. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251015#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20250804#anx_I)
 
