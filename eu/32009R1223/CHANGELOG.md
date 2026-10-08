@@ -1835,7 +1835,7 @@ All other entries and the introductory notes of the annex remain as they were in
 ### `02009R1223-20191218` → `02009R1223-20200501`
 
 - **Act** `eu:32009R1223` · **In force** 2020-05-01 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 46 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20191218` · `v2` = `02009R1223-20200501`
@@ -1846,7 +1846,7 @@ All other entries and the introductory notes of the annex remain as they were in
 
 *within* `AN I SCT 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading of section 2 shows a single character substitution, with the word "chemical" rendered as "chěmical" using an accented letter in place of the plain "e". [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_I)
 
@@ -1894,8 +1894,6 @@ No other wording in section 2 or elsewhere in Annex I differs between the two te
 
 *within* `AN II` · *amended by* `32019R1966`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20191218`)
@@ -1923,8 +1921,6 @@ No other wording in section 2 or elsewhere in Annex I differs between the two te
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32019R1966`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 One footnote changes wording slightly, replacing "For use as a preservative, see Annex V, No. 3" with "For use as a preservative see Annex V, No 3", a minor punctuation adjustment. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191218#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_III)
 
@@ -1975,8 +1971,6 @@ The remainder of the visible text, including the numbered substance entries, app
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32019R1966`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Entry 3, covering salicylic acid and its salts, is restructured so that salicylic acid itself is now listed on its own line with its own CAS and EC numbers, separated from the other salicylate salts, which are grouped on a second line with their own identifiers. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191218#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_V)
 
