@@ -2424,7 +2424,7 @@ Because the difference lies beyond the truncation marker, the specific wording t
 ### `02006R1907-20170102` → `02006R1907-20170302`
 
 - **Act** `eu:32006R1907` · **In force** 2017-03-02 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20170102` · `v2` = `02006R1907-20170302`
@@ -2435,7 +2435,7 @@ Because the difference lies beyond the truncation marker, the specific wording t
 
 *within* `AN VII SCT 8` · *dates* -2016-10-11 +2017-05-10
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The date by which in vivo skin sensitisation studies must have been carried out or initiated to be considered appropriate has been changed from 11 October 2016 to 10 May 2017. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170102#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_VII)
 
@@ -2470,8 +2470,6 @@ A minor wording change also adds a colon after the phrase introducing the condit
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2006-05-17 +2008-02-20 +2013-02-05 +2019-03-02 +2027-03-02 · *amended by* `32017R0227`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of directives and regulations cited at the start of Annex XVII gains three additional entries in the later version: Regulation (EU) No 167/2013 on agricultural and forestry vehicles, Directive 2006/42/EC on machinery, and Regulation (EC) No 216/2008 on civil aviation. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII)
 
