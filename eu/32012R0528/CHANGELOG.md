@@ -225,7 +225,7 @@ This entry, along with its associated restriction text, is not present in the BE
 ### `02012R0528-20210610` → `02012R0528-20220415`
 
 - **Act** `eu:32012R0528` · **In force** 2022-04-15 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 102 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20210610` · `v2` = `02012R0528-20220415`
@@ -235,8 +235,6 @@ This entry, along with its associated restriction text, is not present in the BE
 **MODIFIED · Annex II — ANNEX II** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II`, `AN II PO 2`, `AN II PO 5` · *dates* +2022-04-15 · *amended by* `32021R0525`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The pre-submission consultation obligation is rephrased so that the applicant must initiate consultation with the prospective evaluating body, and a new requirement is added for the applicant to document such consultations and their outcomes and include the relevant documents in the application. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210610#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_II)
 
@@ -265,8 +263,6 @@ Within the table, several endpoint entries in Title 1, including those on skin c
 **MODIFIED · Annex III — ANNEX III** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III`, `AN III PO 2`, `AN III PO 5` · *dates* +2008-05-30 +2022-04-15 · *amended by* `32021R0525`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The introductory part now adds a statement that the information already supplied on non-active substances may not be sufficient or adequate to determine hazardous properties, allowing the evaluating body to conclude further data are required, and it changes the pre-submission consultation wording from an obligation the applicant 'has' to initiate to a duty the applicant 'shall' initiate with the prospective evaluating body, adding a requirement to document such consultations and include the related documents in the application. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_III)
 
