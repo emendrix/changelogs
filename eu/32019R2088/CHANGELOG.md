@@ -56,7 +56,7 @@ Paragraphs 1 and 2 remain unchanged from the earlier version of the Article. [Ar
 ### `02019R2088-20200712` → `02019R2088-20240109`
 
 - **Act** `eu:32019R2088` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 21 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R2088-20200712` · `v2` = `02019R2088-20240109`
@@ -66,8 +66,6 @@ Paragraphs 1 and 2 remain unchanged from the earlier version of the Article. [Ar
 **INSERTED · Art. 18a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32023R2869`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new Article 18a is added, requiring financial market participants and financial advisers to submit certain disclosures to a designated collection body so that the information can be made accessible through the European single access point. [Art. 18a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2088-20240109#art_18a)
 
