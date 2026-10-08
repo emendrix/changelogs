@@ -1904,9 +1904,9 @@ Paragraph 2 now groups the evidence power with Article 51(2) and Article 25(2) d
 ### `02016R1011-20191210` → `02016R1011-20210213`
 
 - **Act** `eu:32016R1011` · **In force** 2021-02-13 · **Detected** 2026-08-13
-- **Touched** 12 provisions — 11 substantive · 0 date-only · 1 with no text · **4 disputed**
-- **Diff** 4 inserted · 8 modified · 0 deleted · 0 renumbered · 0 deferred · 59 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 11 provisions — 11 substantive · 0 date-only · 0 with no text · **3 disputed**
+- **Diff** 4 inserted · 7 modified · 0 deleted · 0 renumbered · 0 deferred · 59 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20191210` · `v2` = `02016R1011-20210213`
 
 ---
@@ -2015,7 +2015,7 @@ The new article also directs the Commission to hold a public consultation by 31 
 
 *amended by* `32021R0168`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 23a is added, setting out that the Chapter's rules on statutory replacement of a benchmark apply to contracts or financial instruments under Directive 2014/65/EU that reference a benchmark and are subject to the law of a Member State, and to contracts referencing a benchmark where all parties are established in the Union and the contract is subject to a third-country law that does not provide for an orderly wind-down of the benchmark. [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23a)
 
@@ -2031,7 +2031,7 @@ A new Article 23a is added, setting out that the Chapter's rules on statutory re
 
 *amended by* `32021R0168`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 23b is an entirely new provision that did not exist in the earlier version of the text, setting out rules for the Commission to designate a replacement for a benchmark in specified circumstances. [Art. 23b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23b)
 
@@ -2053,7 +2053,7 @@ The new article covers which benchmarks it applies to, the triggering events for
 
 *amended by* `32021R0168`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article that allows the national competent authority of a Member State where the majority of a benchmark's contributors is located to designate one or more replacements for a benchmark under certain listed conditions. [Art. 23c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20210213#art_23c)
 
@@ -2206,16 +2206,6 @@ A new paragraph 7 is added empowering the Commission to adopt a delegated act by
 > (c) the functioning and effectiveness of Article 19(2), in particular the scope of its application.
 > 2. The Commission shall review the evolution of international principles applicable to benchmarks and of legal frameworks and supervisory practices in third countries concerning the provision of benchmarks and report to the European Parliament and to the Council every five years after 1 January 2018. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.
 > 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to extend the 42-month period referred to in Article 51(2) by 24 months, if the report referred to in point (b) of paragraph 1 of this Article provides evidence that the transitional registration regime under Articl […truncated by emendrix: 1888 characters omitted…]
-
-**MODIFIED · TIS III** · applies from: unknown
-
-*amended by* `32021R0168`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20210213 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20191210 -->

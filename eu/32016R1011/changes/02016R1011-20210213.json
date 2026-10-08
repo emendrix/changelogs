@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 4,
-    "modified": 8,
+    "modified": 7,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 12,
+    "touched_units": 11,
     "unchanged_units": 59,
-    "disputed": 4
+    "disputed": 3
   },
   "counts": {
-    "touched": 12,
+    "touched": 11,
     "substantive": 11,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 4,
+    "textless": 0,
+    "disputed": 3,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -89,7 +89,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -192,7 +193,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -306,7 +308,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -394,7 +397,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "13 annotations in (2019-12-10, 2021-02-13]",
+            "detail": "13 annotations in (2019-12-10, 2021-02-13]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -405,7 +408,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -474,7 +478,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "13 annotations in (2019-12-10, 2021-02-13]",
+            "detail": "13 annotations in (2019-12-10, 2021-02-13]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -485,7 +489,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -573,7 +578,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "13 annotations in (2019-12-10, 2021-02-13]",
+            "detail": "13 annotations in (2019-12-10, 2021-02-13]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -584,7 +589,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -686,7 +692,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -833,7 +840,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -940,7 +948,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1078,7 +1087,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1200,7 +1210,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1259,64 +1270,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32016R1011",
-            "display_name": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)"
-          },
-          "version": "02016R1011-20210213",
-          "location": "TIS III"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R0168",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2021-02-13",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32021R0168 J; 32021R0168 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32021R0168, 0.938 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -1358,10 +1311,9 @@
           "AR 29",
           "AR 49",
           "AR 51",
-          "AR 54",
-          "TIS III"
+          "AR 54"
         ],
-        "note": "13 annotations in (2019-12-10, 2021-02-13]",
+        "note": "13 annotations in (2019-12-10, 2021-02-13]; 2 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 3 PA 1 PO 24 PTA (a) PTI (i)",
@@ -1387,28 +1339,6 @@
           },
           {
             "location": "AR 28 PA 2",
-            "change_type": "MODIFIED",
-            "in_force": "2021-02-13",
-            "source": "32021R0168 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R0168",
-              "display_name": null
-            }
-          },
-          {
-            "location": "TIS III CHA 4A",
-            "change_type": "INSERTED",
-            "in_force": "2021-02-13",
-            "source": "32021R0168 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R0168",
-              "display_name": null
-            }
-          },
-          {
-            "location": "TIS III CHA 2 TIT",
             "change_type": "MODIFIED",
             "in_force": "2021-02-13",
             "source": "32021R0168 R",
@@ -1688,11 +1618,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 11,
-        "right_units": 9,
+        "right_units": 8,
         "shared": 8,
         "precision": 0.7272727272727273,
-        "recall": 0.8888888888888888,
-        "f1": 0.7999999999999999,
+        "recall": 1.0,
+        "f1": 0.8421052631578948,
         "kind_mismatches": 0
       },
       {
@@ -1709,12 +1639,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 9,
+        "left_units": 8,
         "right_units": 11,
         "shared": 8,
-        "precision": 0.8888888888888888,
+        "precision": 1.0,
         "recall": 0.7272727272727273,
-        "f1": 0.7999999999999999,
+        "f1": 0.8421052631578948,
         "kind_mismatches": 0
       }
     ],
@@ -1793,30 +1723,10 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "TIS III",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
-    "metadata_only_units": [
-      "TIS III"
-    ]
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1906,6 +1816,20 @@
         "schema_repairs": 1
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 12,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
