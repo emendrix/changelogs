@@ -3480,7 +3480,7 @@ Part C's section 1.4 (and related identification text) is updated to add referen
 ### `02008R1272-20230731` → `02008R1272-20231201`
 
 - **Act** `eu:32008R1272` · **In force** 2023-12-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20230731` · `v2` = `02008R1272-20231201`
@@ -3491,7 +3491,7 @@ Part C's section 1.4 (and related identification text) is updated to add referen
 
 *within* `AN III SCT 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -3532,8 +3532,6 @@ Part C's section 1.4 (and related identification text) is updated to add referen
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 3` · *amended by* `32022R0692`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
