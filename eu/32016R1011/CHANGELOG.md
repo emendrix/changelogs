@@ -960,9 +960,9 @@ The provision covers formatting and metadata requirements for submitted informat
 ### `02016R1011-20210213` → `02016R1011-20220101`
 
 - **Act** `eu:32016R1011` · **In force** 2022-01-01 · **Detected** 2026-08-13
-- **Touched** 35 provisions — 34 substantive · 0 date-only · 1 with no text · **15 disputed**
-- **Diff** 14 inserted · 21 modified · 0 deleted · 0 renumbered · 0 deferred · 50 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 34 provisions — 34 substantive · 0 date-only · 0 with no text · **14 disputed**
+- **Diff** 14 inserted · 20 modified · 0 deleted · 0 renumbered · 0 deferred · 50 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20210213` · `v2` = `02016R1011-20220101`
 
 ---
@@ -1547,7 +1547,7 @@ Paragraph 2 also changes the timing requirement for providing information to ESM
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new article states that powers given to ESMA, to any ESMA official, or to any other person authorised by ESMA under Articles 48b to 48d cannot be used to require disclosure of information or documents that are subject to legal privilege. [Art. 48a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48a)
 
@@ -1561,7 +1561,7 @@ This new article states that powers given to ESMA, to any ESMA official, or to a
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new, giving ESMA power to require specified persons, including benchmark contributors and related third parties, to supply information needed for its duties, either by simple request or by decision. [Art. 48b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48b)
 
@@ -1590,7 +1590,7 @@ It also addresses who must supply the information, including representatives and
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 48c has been added that sets out ESMA's power to conduct general investigations of persons referred to in Article 48b(1), including examining records, taking copies, summoning explanations, interviewing willing persons, and requesting telephone and data traffic records. [Art. 48c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48c)
 
@@ -1612,7 +1612,7 @@ The article also details procedural requirements for such investigations, includ
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 48d has been added, setting out ESMA's power to conduct on-site inspections at business premises of persons referred to in Article 48b(1), including procedures for notice, written authorisation, assistance from national competent authorities, and judicial authorisation requirements. [Art. 48d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48d)
 
@@ -1632,7 +1632,7 @@ The provision also specifies the matters a national judicial authority must veri
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 48e is a newly added provision setting out supervisory measures ESMA may take when it finds an infringement under point (a) of Article 42(1), including ordering the infringement to end, imposing fines, or issuing public notices. [Art. 48e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48e)
 
@@ -1660,7 +1660,7 @@ It also lists criteria ESMA must weigh when choosing among those actions, and se
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted provision setting out fines that ESMA may impose on a person found, intentionally or negligently, to have committed one of the infringements listed in point (a) of Article 42(1), including maximum amounts for legal and natural persons and rules for calculating those amounts and their aggregation across multiple infringements. [Art. 48f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48f)
 
@@ -1679,7 +1679,7 @@ This is a newly inserted provision setting out fines that ESMA may impose on a p
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 48g is newly added, setting out that ESMA may impose periodic penalty payments to compel a person to end an infringement or to comply with requests for information, investigations, or on-site inspections referenced in other articles. [Art. 48g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48g)
 
@@ -1703,7 +1703,7 @@ The provision specifies that such payments must be effective and proportionate, 
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new provision sets out that ESMA is to publicly disclose fines and periodic penalty payments imposed under Articles 48f and 48g, except where disclosure would seriously jeopardise financial markets or cause disproportionate damage, and specifies that such disclosures must not contain personal data as defined in Regulation (EU) 2018/1725. [Art. 48h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48h)
 
@@ -1725,7 +1725,7 @@ It further states that such fines and penalty payments are administrative in nat
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly inserted and sets out procedural rules covering the appointment of an independent investigation officer, the conduct of investigations, rights of access to the file, the decision-making process on infringements and fines, and referral of matters for criminal prosecution. [Art. 48i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48i)
 
@@ -1745,7 +1745,7 @@ It also directs that delegated acts specifying rules of procedure for imposing f
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article establishing that before ESMA decides under Articles 48f, 48g or 48e, it must give persons subject to the proceedings a chance to be heard, basing its decisions only on findings those persons could comment on, with an exception allowing an interim decision plus later hearing where urgent action under Article 48e is needed to prevent significant and imminent damage to the financial system. [Art. 48j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48j)
 
@@ -1763,7 +1763,7 @@ The new provision also states that the rights of defence of persons subject to t
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new provision, Article 48k, giving the Court of Justice unlimited jurisdiction to review decisions by which ESMA has imposed a fine or a periodic penalty payment. [Art. 48k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48k)
 
@@ -1779,7 +1779,7 @@ It states that the Court of Justice may annul, reduce or increase the fine or pe
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted Article 48l establishing that ESMA shall charge supervisory fees to administrators referred to in Article 40(1), with those fees covering ESMA's necessary expenditure on supervision and reimbursement of costs competent authorities incur under the Regulation. [Art. 48l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48l)
 
@@ -1797,7 +1797,7 @@ The provision further states that an individual administrator's fee shall cover 
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 48m is newly added, setting out rules under which ESMA may delegate specific supervisory tasks to a Member State's competent authority, including information requests, investigations, and on-site inspections, while excluding delegation of the authorisation of critical benchmarks. [Art. 48m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48m)
 
@@ -1821,7 +1821,7 @@ The new article also requires ESMA to consult the relevant competent authority b
 
 *amended by* `32019R2175`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new article sets out transition measures shifting supervisory and enforcement competences and duties over administrators from national competent authorities to ESMA, effective 1 January 2022, along with the transfer of related files, working documents and records. [Art. 48n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20220101#art_48n)
 
@@ -1887,16 +1887,6 @@ Paragraph 2 now groups the evidence power with Article 51(2) and Article 25(2) d
 > 1. ESMA shall seek to build a common European supervisory culture and consistent supervisory practices and ensure consistent approaches among competent authorities in relation to the application of Article 33. To that end, the endorsements authorised in accordance with Article 33 shall be reviewed by ESMA every two years.
 > ESMA shall issue an opinion to each competent authority that has endorsed a third-country benchmark assessing how that competent authority applies the relevant requirements of Article 33 and the requirements of any relevant delegated act and regulatory or implementing technical standards based on this Regulation.
 > 2. ESMA shall have the power to require the documented evidence from a competent authority for any of the decisions adopted in accordance with the first subparagraph of Article 51(2) and Article 25(2), as well as for actions taken with regard to the enforcement of Article 24(1).
-
-**MODIFIED · TIS VI** · applies from: unknown
-
-*amended by* `32019R2175`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20220101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20210213 -->
