@@ -928,9 +928,9 @@ A new point 2a has been added allowing Member States to exempt eggs from the poi
 ### `02013R1308-20231208` → `02013R1308-20240513`
 
 - **Act** `eu:32013R1308` · **In force** 2024-05-13 · **Detected** 2026-09-04
-- **Touched** 21 provisions — 10 substantive · 0 date-only · 11 with no text · **13 disputed**
-- **Diff** 1 inserted · 12 modified · 8 deleted · 0 renumbered · 0 deferred · 248 unchanged
-- **Gate** 0 sentences quoted verbatim · 11 changes shipped without an explanation
+- **Touched** 19 provisions — 10 substantive · 0 date-only · 9 with no text · **11 disputed**
+- **Diff** 1 inserted · 11 modified · 7 deleted · 0 renumbered · 0 deferred · 248 unchanged
+- **Gate** 0 sentences quoted verbatim · 9 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20231208` · `v2` = `02013R1308-20240513`
 
 ---
@@ -1035,7 +1035,7 @@ The sustainable development description clause is replaced with a reference to s
 
 *within* `AR 95`, `AR 95 PA 1 ALN 1`, `AR 95 PA 1 ALN 1 PTA (a)`, `AR 95 PA 1 ALN 1 PTA (b)`, `AR 95 PA 1 ALN 1 PTA (c)`, `AR 95 PA 1 ALN 1 PTA (d)`, `AR 95 PA 1 ALN 1 PTA (e)`, `AR 95 PA 1 ALN 1 PTA (f)`, `AR 95 PA 1 ALN 1 PTA (g)`, `AR 95 PA 1 ALN 1 PTA (h)`, `AR 95 PA 1 ALN 1 PTA (i)`, `AR 95 PA 1 ALN 1 PTA (j)`, `AR 95 PA 1 ALN 1 PTA (k)`, `AR 95 PA 2 ALN 1`, `AR 95 PA 3` · *amended by* `32024R1143`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading and content of Article 95 have been replaced entirely: the earlier version concerned who may apply for protection of a designation of origin or geographical indication, while the later version concerns the required content of a single document. [Art. 95, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_95) [Art. 95, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_95)
 
@@ -1071,7 +1071,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1081,7 +1081,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1091,7 +1091,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1101,7 +1101,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1111,17 +1111,7 @@ The earlier text set out three short paragraphs on applicants, joint application
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**DELETED · Art. 101** · applies from: unknown
-
-*amended by* `32024R1143`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1158,7 +1148,7 @@ The later text replaces all of that detail with a single sentence stating that p
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1168,7 +1158,7 @@ The later text replaces all of that detail with a single sentence stating that p
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1178,7 +1168,7 @@ The later text replaces all of that detail with a single sentence stating that p
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1188,7 +1178,7 @@ The later text replaces all of that detail with a single sentence stating that p
 
 *amended by* `32024R1143`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1248,7 +1238,7 @@ A new Article 113a is added, setting out rules on how traditional terms relate t
 
 *within* `AR 116a PA 1 ALN 1`, `AR 116a PA 2 ALN 1`, `AR 116a PA 3 ALN 1`, `AR 116a PA 3 ALN 2`, `AR 116a PA 4 ALN 1`, `AR 116a PA 4 ALN 1 PTA (b)`, `AR 116a PA 4 ALN 1 PTA (c)`, `AR 116a PA 4 ALN 1 PTA (d)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 Paragraph 1 now refers only to the unlawful use of protected traditional terms, removing the earlier reference to protected designations of origin and protected geographical indications. [Art. 116a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20231208#art_116a) [Art. 116a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20240513#art_116a)
 
@@ -1355,16 +1345,6 @@ A new paragraph 3 has been added stating that Article 113a does not apply to app
 > 1. In order to ensure the smooth transition from the arrangements provided for in Regulation (EC) No 1234/2007 to those laid down in this Regulation, the Commission shall be empowered to adopt delegated acts in accordance with Article 227 concerning measures necessary to protect the acquired rights and legitimate expectations of undertakings.
 > 2. All multiannual programmes adopted before 1 January 2014 shall continue to be governed by the concerned provisions of Regulation (EC) No 1234/2007 following the entry into force of this Regulation until those programmes come to an end.
 > 3. Article 113a shall not apply with regard to applications for protection of a traditional term submitted to the Commission before 13 May 2024.
-
-**MODIFIED · Part II** · applies from: unknown
-
-*amended by* `32024R1143`
-
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R1308-20240513 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R1308-20231208 -->
