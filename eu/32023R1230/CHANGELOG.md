@@ -114,9 +114,9 @@ Paragraph 6 likewise extends the non-objection entry-into-force procedure for de
 ### `02023R1230-20230629` → `02023R1230-20260529`
 
 - **Act** `eu:32023R1230` · **In force** 2026-05-29 · **Detected** 2026-08-12
-- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **6 disputed**
-- **Diff** 6 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **5 disputed**
+- **Diff** 5 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 65 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02023R1230-20230629` · `v2` = `02023R1230-20260529`
 
 ---
@@ -161,7 +161,7 @@ Point 36, defining 'professional user', is unchanged in substance, with its endi
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 25a has been added, setting out conditions under which Articles 25b to 25e apply, namely that the Commission has adopted an implementing act under Article 28 of Regulation (EU) 2024/2747 for the relevant machinery and related products, that those products have been designated as crisis-relevant goods under Article 18(4) of that Regulation, and that an internal market emergency mode activated under Article 18 of that Regulation is in effect. [Art. 25a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25a)
 
@@ -181,7 +181,7 @@ The new article also states that Article 25c(7) continues to apply during the em
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out how notified bodies are to handle conformity assessments for machinery and related products designated as crisis-relevant goods. [Art. 25b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25b)
 
@@ -200,7 +200,7 @@ It defines its own scope by reference to the list in the emergency implementing 
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article allowing a Member State to authorise, on a duly justified request from an economic operator, the placing on the market or putting into service of specific machinery or related products for which mandatory notified-body conformity assessment procedures were not carried out but for which compliance with the applicable essential health and safety requirements has been demonstrated by other means. [Art. 25c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25c)
 
@@ -217,7 +217,7 @@ The provision sets out related mechanisms including Commission notification and 
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 25d is a newly added provision setting out when the Commission may adopt implementing acts listing standards or establishing common specifications for machinery or related products designated as crisis-relevant goods, covering the essential health and safety requirements of Annex III where harmonised standards are missing or delayed, or where an internal market emergency mode significantly restricts use of existing harmonised standards. [Art. 25d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25d)
 
@@ -236,7 +236,7 @@ The provision describes the procedure for adopting and time-limiting such implem
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article requiring Member States to prioritise market surveillance activities for machinery and related products listed in the implementing act referred to in Article 25a(1), with the Commission facilitating coordination of that prioritisation through the Union Product Compliance Network. [Art. 25e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1230-20260529#art_25e)
 
@@ -248,16 +248,6 @@ It also newly provides that market surveillance authorities are to make best eff
 > Prioritisation of market surveillance activities and mutual assistance among authorities
 > 1. The Member States shall prioritise the market surveillance activities for machinery and related products listed in the implementing act referred to in Article 25a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.
 > 2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for machinery and the related products listed in the implementing act referred to in Article 25a(1).
-
-**INSERTED · CHA IVa** · applies from: unknown
-
-*amended by* `32024R2748`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1230-20260529 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02023R1230-20230629 -->
