@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32017R0821` → `02017R0821-20201119`
 
 - **Act** `eu:32017R0821` · **In force** 2020-11-19 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 22 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32017R0821` · `v2` = `02017R0821-20201119`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32020R1588`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 For tantalum or niobium ores and concentrates, gold ores and concentrates, tin oxides and hydroxides, tantalates, and carbides of tantalum, the earlier text's volume threshold column stated that Article 1(4) and Article 18 apply, while the later text replaces that statement with specific numeric kilogram values for each of these entries. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0821#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0821-20201119#anx_I)
 
