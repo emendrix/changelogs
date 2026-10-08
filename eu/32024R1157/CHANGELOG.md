@@ -58,7 +58,7 @@ Point (f) of Article 44(2) now adds an exception for Switzerland to the prohibit
 ### `32024R1157` → `02024R1157-20250109`
 
 - **Act** `eu:32024R1157` · **In force** 2025-01-09 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **3 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 96 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32024R1157` · `v2` = `02024R1157-20250109`
@@ -68,8 +68,6 @@ Point (f) of Article 44(2) now adds an exception for Switzerland to the prohibit
 **MODIFIED · Annex III — LIST OF WASTES SUBJECT TO THE GENERAL INFORMATION REQUIREMENTS LAID DOWN IN ARTICLE 18 ( GREEN LISTED WASTE) AS REFERRED TO IN ARTICLE 4(4)(a)** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2026-12-31 · *amended by* `32024R3230`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Two new footnote-style sentences are added to Part II stating that entry GC010 and entry GC020 apply only for waste shipped within the Union and only until 31 December 2026. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20250109#anx_III)
 
@@ -108,8 +106,6 @@ The rest of the Annex, including the entries and descriptions themselves, remain
 **MODIFIED · Annex IV — LIST OF WASTES SUBJECT TO THE PROCEDURE OF PRIOR WRITTEN NOTIFICATION AND CONSENT ( AMBER LISTED WASTE) This list originates from the OECD Decision, Appendix 4. AS REFERRED TO IN ARTICLE 4(2)(a)** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN IV PTA (c)`, `AN IV PTA (g)` · *dates* +2026-12-31 · *amended by* `32024R3230`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point (c) no longer states that Basel entry A1180 does not apply, and no longer refers to OECD entry GC010 as an applicable substitute alongside GG040; it now only addresses Basel entry A2060, with OECD entry GG040 as the sole substitute. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32024R1157#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20250109#anx_IV)
 
@@ -150,8 +146,6 @@ A new point (g) has been added stating that, for waste shipped within the Union 
 **MODIFIED · Annex V — WASTE LISTS FOR THE PURPOSE OF ARTICLE 39** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32024R3230`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Entry A1180 on List A, which covered waste electrical and electronic assemblies or scrap contaminated with certain hazardous constituents, has been replaced by a new entry A1181 describing electrical and electronic waste in more detailed terms, including waste equipment, waste components, and wastes arising from processing such equipment or components, each defined by reference to Annex I constituents and Annex III characteristics. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1157-20250109#anx_V)
 
