@@ -4273,9 +4273,9 @@ The rest of Article 39, covering paragraphs 1 through 10, remains unchanged betw
 ### `02012R0648-20190101` → `02012R0648-20190617`
 
 - **Act** `eu:32012R0648` · **In force** 2019-06-17 · **Detected** 2026-08-13
-- **Touched** 27 provisions — 24 substantive · 0 date-only · 3 with no text · **4 disputed**
-- **Diff** 3 inserted · 24 modified · 0 deleted · 0 renumbered · 0 deferred · 77 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Touched** 24 provisions — 24 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 3 inserted · 21 modified · 0 deleted · 0 renumbered · 0 deferred · 77 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20190101` · `v2` = `02012R0648-20190617`
 
 ---
@@ -4563,26 +4563,6 @@ The submission deadline text was also changed so that the ESAs submit the draft 
 > 2. Financial counterparties and non-financial counterparties referred to in Article 10 shall mark-to-market on a daily basis the value of outstanding contracts. Where market conditions prevent marking-to-market, reliable and prudent marking-to-model shall be used.
 > 3. Financial counterparties shall have risk-management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC derivative contracts that are entered into on or after 16 August 2012. Non-financial counterparties referred to in Article 10 shall have risk-management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC derivative co […truncated by emendrix: 10296 characters omitted…]
 
-**MODIFIED · Art. 38** · applies from: unknown
-
-*amended by* `32019R0834`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 39** · applies from: unknown
-
-*amended by* `32019R0834`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 56 — Application for registration** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 56 PA 1 ALN 1`, `AR 56 PA 1 ALN 1 PTA (a)`, `AR 56 PA 1 ALN 1 PTA (b)`, `AR 56 PA 3 ALN 1`, `AR 56 PA 3 ALN 1 PTA (a)`, `AR 56 PA 3 ALN 1 PTA (b)`, `AR 56 PA 3 ALN 2`, `AR 56 PA 3 ALN 3`, `AR 56 PA 4 ALN 1`, `AR 56 PA 4 ALN 1 PTA (a)`, `AR 56 PA 4 ALN 1 PTA (b)`, `AR 56 PA 4 ALN 2`, `AR 56 PA 4 ALN 3`, `AR 56 PA 4 ALN 4` · *dates* -2012-09-30 +2020-06-18 · *amended by* `32019R0834`
@@ -4813,16 +4793,6 @@ The article further specifies that, upon a request from such third-country autho
 > (c) guarantees of professional secrecy exist, including the protection of business secrets shared with third parties by the authorities, and they are at least equivalent to those set out in this Regulation;
 > (d) trade repositories authorised in that third country are subject to a legally binding and enforceable obligation to grant the entities referred to in Article 81(3) direct and immediate access to the data.
 
-**MODIFIED · Art. 78** · applies from: unknown
-
-*amended by* `32019R0834`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 80 — Safeguarding and recording** · applies from: unchanged
 
 *within* `AR 80 PA 5a` · *amended by* `32019R0834`
@@ -5020,7 +4990,7 @@ A new second subparagraph was added to paragraph 1 stating that the clearing obl
 
 *within* `AN I PTI (i) PTA (h)`, `AN I PTI (i) PTA (i)`, `AN I PTI (i) PTA (j)`, `AN I PTI (i) PTA (k)`, `AN I PTI (iv) PTA (c)`, `AN I PTI (iv) PTA (d)` · *amended by* `32019R0834`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of infringements relating to organisational requirements or conflicts of interest gains three new entries covering a trade repository's failure to establish adequate procedures for data reconciliation between trade repositories, failure to establish adequate procedures to verify the completeness and correctness of reported data, and failure to establish adequate policies for the orderly transfer of data to other trade repositories, each tied to a specific point of Article 78(9). [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0648-20190617#anx_I)
 
