@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32023R0988` → `02023R0988-20260529`
 
 - **Act** `eu:32023R0988` · **In force** 2026-05-29 · **Detected** 2026-08-12
-- **Touched** 6 provisions — 5 substantive · 0 date-only · 1 with no text · **4 disputed**
-- **Diff** 4 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 50 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 5 provisions — 5 substantive · 0 date-only · 0 with no text · **3 disputed**
+- **Diff** 3 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 50 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32023R0988` · `v2` = `02023R0988-20260529`
 
 ---
@@ -108,7 +108,7 @@ The prior version of the article ended with the definition of antiques and conta
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 8a is added, stating that Articles 8b and 8c apply only if the Commission has adopted an implementing act under Article 28 of Regulation (EU) 2024/2747 with respect to products covered by this Regulation. [Art. 8a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R0988-20260529#art_8a)
 
@@ -126,7 +126,7 @@ It further states that Articles 8b and 8c apply only to products designated as c
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 8b establishes that, alongside the presumption of conformity under Article 7, conformity with the general safety requirement in Article 5 may also be presumed where severe internal market disruptions considered when activating the internal market emergency mode significantly restrict manufacturers' ability to use published European standards, provided the product conforms to national health and safety requirements compliant with Union law. [Art. 8b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R0988-20260529#art_8b)
 
@@ -145,7 +145,7 @@ It further states that Article 7(3) applies to the presumption of conformity est
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article establishing that Member States are to prioritise market surveillance activities for products covered by the Regulation that are listed in the implementing act referred to in Article 8a(1). [Art. 8c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R0988-20260529#art_8c)
 
@@ -157,15 +157,5 @@ It further states that market surveillance authorities of the Member States are 
 > Prioritisation of market surveillance activities and mutual assistance among authorities
 > 1. Member States shall prioritise market surveillance activities for products covered by this Regulation that are listed in the implementing act referred to in Article 8a(1).
 > 2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode.
-
-**INSERTED · CHA IIa** · applies from: unknown
-
-*amended by* `32024R2748`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02023R0988-20260529 -->
 

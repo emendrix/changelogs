@@ -14,23 +14,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 4,
+    "inserted": 3,
     "modified": 2,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 6,
+    "touched_units": 5,
     "unchanged_units": 50,
-    "disputed": 4
+    "disputed": 3
   },
   "counts": {
-    "touched": 6,
+    "touched": 5,
     "substantive": 5,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 4,
+    "textless": 0,
+    "disputed": 3,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -88,7 +88,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -195,7 +196,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -302,7 +304,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "4 annotations in (the act itself, 2026-05-29]",
+            "detail": "4 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -313,7 +315,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -401,7 +404,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "4 annotations in (the act itself, 2026-05-29]",
+            "detail": "4 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -412,7 +415,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -519,7 +523,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "4 annotations in (the act itself, 2026-05-29]",
+            "detail": "4 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -530,7 +534,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -576,64 +581,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32023R0988",
-            "display_name": "Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC (Text with EEA relevance)"
-          },
-          "version": "02023R0988-20260529",
-          "location": "CHA IIa"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32024R2748",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2026-05-29",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32024R2748 J",
-            "change_types": [
-              "INSERTED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32024R2748, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -663,24 +610,12 @@
         "available": true,
         "units": [
           "AR 2",
-          "AR 3",
-          "CHA IIa"
+          "AR 3"
         ],
-        "note": "4 annotations in (the act itself, 2026-05-29]",
+        "note": "4 annotations in (the act itself, 2026-05-29]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 3 PO 29",
-            "change_type": "INSERTED",
-            "in_force": "2026-05-29",
-            "source": "32024R2748 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32024R2748",
-              "display_name": null
-            }
-          },
-          {
-            "location": "CHA IIa",
             "change_type": "INSERTED",
             "in_force": "2026-05-29",
             "source": "32024R2748 J",
@@ -789,11 +724,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 5,
-        "right_units": 3,
+        "right_units": 2,
         "shared": 2,
         "precision": 0.4,
-        "recall": 0.6666666666666666,
-        "f1": 0.5,
+        "recall": 1.0,
+        "f1": 0.5714285714285715,
         "kind_mismatches": 0
       },
       {
@@ -810,12 +745,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 3,
+        "left_units": 2,
         "right_units": 5,
         "shared": 2,
-        "precision": 0.6666666666666666,
+        "precision": 1.0,
         "recall": 0.4,
-        "f1": 0.5,
+        "f1": 0.5714285714285715,
         "kind_mismatches": 0
       }
     ],
@@ -894,30 +829,10 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "CHA IIa",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
       }
     ],
-    "metadata_only_units": [
-      "CHA IIa"
-    ]
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -957,6 +872,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 6,
       "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 6,
+      "repaired": 4,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,
