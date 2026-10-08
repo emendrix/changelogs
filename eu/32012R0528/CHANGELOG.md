@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02012R0528-20260615` → `02012R0528-20260819`
 
 - **Act** `eu:32012R0528` · **In force** 2026-08-19 · **Detected** 2026-09-11
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 103 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20260615` · `v2` = `02012R0528-20260819`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32026R0447`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The entry for carbon dioxide (EC number 204-696-9) previously carried no restriction text in the restriction column, but the current version adds a set of exposure conditions covering professional users, general public users or by-standers, and a requirement that appropriate measures be taken as described in the summary of product characteristics. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260819#anx_I)
 
