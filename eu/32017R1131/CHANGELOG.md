@@ -130,7 +130,7 @@ Paragraph 6(c) now refers to financial derivative instruments that are not centr
 ### `02017R1131-20190101` → `02017R1131-20240109`
 
 - **Act** `eu:32017R1131` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 47 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R1131-20190101` · `v2` = `02017R1131-20240109`
@@ -140,8 +140,6 @@ Paragraph 6(c) now refers to financial derivative instruments that are not centr
 **INSERTED · Art. 37a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32023R2869`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new Article 37a is added, setting out that information referred to in Article 4(7) is to be made accessible on the European single access point, naming ESMA as the collection body and describing how ESMA draws that data from information notified by competent authorities under Article 4(6). [Art. 37a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1131-20240109#art_37a)
 
