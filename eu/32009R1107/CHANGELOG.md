@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02009R1107-20221121` → `02009R1107-20260616`
 
 - **Act** `eu:32009R1107` · **In force** 2026-06-16 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20221121` · `v2` = `02009R1107-20260616`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Annex III — ANNEX III** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32026R1120`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text adds twelve new numbered entries (145 through 156) to the table of co-formulants not accepted for inclusion in plant protection products, listing substances such as acetaldehyde, propylene oxide, cumene, several cyclosiloxanes, bumetrizole, a further petroleum distillate, a quaternary ammonium chloride compound, a perfluoroalkyl phosphinic acid derivative, 1,4-dioxane and a propionaldehyde derivative, each with its associated names, CAS/EC numbers and classification or property. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20260616#anx_III)
 
