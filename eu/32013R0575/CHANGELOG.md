@@ -29327,9 +29327,9 @@ In paragraph 1, the word describing the entities subject to the reporting requir
 ### `02013R0575-20190426` → `02013R0575-20190627`
 
 - **Act** `eu:32013R0575` · **In force** 2019-06-27 · **Detected** 2026-08-13
-- **Touched** 291 provisions — 161 substantive · 0 date-only · 130 with no text · **214 disputed**
-- **Diff** 164 inserted · 127 modified · 1 deleted · 0 renumbered · 0 deferred · 477 unchanged
-- **Gate** 0 sentences quoted verbatim · 130 changes shipped without an explanation
+- **Touched** 161 provisions — 161 substantive · 0 date-only · 0 with no text · **84 disputed**
+- **Diff** 101 inserted · 61 modified · 0 deleted · 0 renumbered · 0 deferred · 477 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20190426` · `v2` = `02013R0575-20190627`
 
 ---
@@ -29373,7 +29373,7 @@ A new paragraph has been added stating that the Regulation also lays down unifor
 
 *within* `AR 2 PA 1`, `AR 2 PA 2`, `AR 2 PA 3`, `AR 2 PA 4`, `AR 2 ALN 1` · *dates* +2013-10-15 +2014-05-15 +2014-07-15 · *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The single unnumbered paragraph in the earlier text, which only referenced competent authorities' powers under Directive 2013/36/EU, is replaced by four numbered paragraphs. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_2)
 
@@ -29466,26 +29466,6 @@ Paragraphs 2 through 5 remain textually unchanged between the two versions. [Art
 > 3. No institution which is either a parent undertaking or a subsidiary, and no institution included in the consolidation pursuant to Article 18, shall be required to comply with the obligations laid down in Part Eight on an individual basis.
 > 4. Credit institutions and investment firms that are authorised to provide the investment services and activities listed in points (3) and (6) of Section A of Annex I to Directive 2004/39/EC shall comply with the obligations laid down in Part Six […truncated by emendrix: 583 characters omitted…]
 
-**MODIFIED · Art. 8** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 10** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 11 — General treatment** · applies from: unchanged
 
 *within* `AR 11 PA 3a` · *amended by* `32019R0876`
@@ -29513,16 +29493,6 @@ This paragraph 3a did not appear in the earlier version of Article 11. [Art. 11,
 > 2. Institutions controlled by a parent financial holding company or a parent mixed financial holding company in a Member State shall comply, to the extent and in the manner prescribed in Article 18, with the obligations laid down in Parts Two to Four and Part Seven on the basis of the consolidated situation of that financial holding company or mixed financial holding company.
 > Where more than one institution is controlled by a parent financial holding company or by a parent mixed financial holding company in a Member State, the first subparagraph shall apply only to the institution to which supervision on a consolidated basis applies in accordance with Article 111 of Directive 2013/36/EU.
 > 3. EU parent institutions, institutions controlled by an EU parent financial holding company and institutions controlled by […truncated by emendrix: 2908 characters omitted…]
-
-**DELETED · Art. 12** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **INSERTED · Art. 12a — Consolidated calculation for G-SIIs with multiple resolution entities** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -29576,7 +29546,7 @@ Paragraph 3 now specifies that only the first subparagraph of paragraph 1 does n
 
 *within* `AR 14`, `AR 14 PA 1 ALN 1`, `AR 14 PA 2 ALN 1`, `AR 14 PA 3` · *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading and paragraph 1 now refer to obligations under Article 5 of Regulation (EU) 2017/2402 on a consolidated or sub-consolidated basis, replacing the earlier reference to obligations laid down in Part Five of this Regulation. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_14)
 
@@ -29598,26 +29568,6 @@ The former paragraph 3, which addressed a third-country legality exemption from 
 > Application of requirements of Article 5 of Regulation (EU) 2017/2402 on a consolidated basis
 > 1. Parent undertakings and their subsidiaries that are subject to this Regulation shall be required to meet the obligations laid down in Article 5 of Regulation (EU) 2017/2402 on a consolidated or sub-consolidated basis, to ensure that their arrangements, processes and mechanisms required by those provisions are consistent and well-integrated and that any data and information relevant to the purpose of supervision can be produced. In particular, they shall ensure that subsidiaries that are not subject to this Regulation implement arrangements, processes and mechanisms to ensure compliance with those provisions.
 > 2. Institutions shall apply an additional risk weight in accordance with Article 270a of this Regulation when applying Article 92 of this Regulation on a consolidated or sub-consolidated basis if the requirements laid down in Article 5 of Regulation (EU) 2017/2402 are breached at the level of an entity established in a third country included in the consolidation in accordance with Article 18 of this Regulation if the breach is material in relation to the overall risk profile of the group.
-
-**MODIFIED · Art. 15** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 16** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 18 — Methods of prudential consolidation** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -29651,16 +29601,6 @@ The remaining paragraphs, including paragraphs 2 through 8, are unchanged in wor
 > (a) the liability of the parent undertaking is limited to the share of capital that the parent undertaking holds in the subsidiary in view of the liability of the other shareholders or members;
 > (b) the solvency of those other shareholders or members is satisfactory;
 > (c) the liability of the other shareholders and members is clearly established in a lega […truncated by emendrix: 3138 characters omitted…]
-
-**MODIFIED · Art. 22** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 26 — Common Equity Tier 1 items** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -30774,16 +30714,6 @@ The remainder of the article, including the conditions in points (a) to (d) and 
 > (d) the only asset of the special purpose entity is its investment in the own funds of the parent undertaking or a subsidiary thereof that is included fully in the consolidation pursuant to Chapter 2 of Title II of Part One, the form of which satisfies the relevant conditions laid down in Articles 52(1) or 63, as applicable.
 > Where the competent authority considers the assets of a special purpose entity other than its investment in the own funds of the parent undertaking or a subsidiary thereof that is included in the scope of consolidation pursuant to Chapter 2 of Title II of Part One, to be minimal and ins […truncated by emendrix: 663 characters omitted…]
 
-**INSERTED · Art. 88a** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 92a — Requirements for own funds and eligible liabilities for G-SIIs** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32019R0876`
@@ -30820,56 +30750,6 @@ It further specifies that Additional Tier 1, Tier 2 and eligible liabilities ins
 > (a) in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim resulting from the liability ranks below claims resulting from liabilities that do not fulfil the conditions set out in paragraph 2 of this Article and that do not qualify as own funds;
 > (b) it is subject to the write-down or conversion powers in accordance with Articles 59 to 62 of Directive 2014/59/EU.
 
-**MODIFIED · Art. 94** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 102** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 103** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 104** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 104a** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 104b — Requirements for trading desk** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32019R0876`
@@ -30889,36 +30769,6 @@ It lists conditions each trading desk must meet, including a distinct business s
 > (c) position limits shall be set within each trading desk according to the business strategy of that trading desk;
 > (d) reports on the activities, profitability, risk management and regulatory requirements at the trading desk level shall be produced at least on a weekly basis and communicated to the management body on a regular basis;
 > (e) each trading desk shall have a clear annual business plan including a well-defined remuneration policy on the basis of sound criteria used for performance m […truncated by emendrix: 989 characters omitted…]
-
-**MODIFIED · Art. 105** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 106** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 107** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 117 — Exposures to multilateral development banks** · applies from: unchanged
 
@@ -31006,16 +30856,6 @@ Point (a) previously referred only to the Union, whereas it now names both the E
 > (e) the European Stability Mechanism;
 > (f) an international financial institution established by two or more Member States, which has the purpose to mobilise funding and provide financial assistance to the benefit of its members that are experiencing or threatened by severe financing problems.
 
-**MODIFIED · Art. 123** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 124 — Exposures secured by mortgages on immovable property** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 124 PA 4 ALN 1`, `AR 124 PA 4 ALN 1 PTA (a)`, `AR 124 PA 4 ALN 1 PTA (b)`, `AR 124 PA 4 ALN 2`, `AR 124 PA 4 ALN 3`, `AR 124 PA 5 ALN 1`, `AR 124 PA 5 ALN 1 PTA (a)`, `AR 124 PA 5 ALN 1 PTA (b)` · *dates* -2014-12-31 +2019-12-31 · *amended by* `32019R0876`
@@ -31048,31 +30888,11 @@ Paragraph 5 no longer states that institutions of one Member State apply risk we
 > (b) forward-looking immovable property markets developments;
 > Competent authorities may set a higher risk weight or stricter […truncated by emendrix: 2886 characters omitted…]
 
-**MODIFIED · Art. 128** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 132** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 132a — Approaches for calculating risk-weighted exposure amounts of CIUs** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32019R0876`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED, the instruction parse says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED, the instruction parse says INSERTED
 
 This provision is entirely new, adding Article 132a on approaches for calculating risk-weighted exposure amounts of CIUs, and the visible excerpt covers only paragraph 4, which directs EBA to develop draft regulatory technical standards specifying how institutions are to calculate the risk-weighted exposure amount referred to in paragraph 2 when some required inputs are unavailable. [Art. 132a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_132a)
 
@@ -31088,61 +30908,11 @@ The provided text is truncated, showing only paragraph 4 of the new article, so 
 > EBA shall submit those draft regulatory technical standards to the Commission by 28 March 2020.
 > Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
 
-**INSERTED · Art. 132b** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 132c** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 144** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 152** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 158** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 162 — Maturity** · applies from: unchanged
 
 *within* `AR 162 PA 2 ALN 1 PTA (a)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 Comparing the two texts of Article 162 point (a) in paragraph 2, the wording and formula for calculating M for an instrument subject to a cash flow schedule are identical apart from a minor spacing difference in how the formula is rendered. [Art. 162, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_162) [Art. 162, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_162)
 
@@ -31200,81 +30970,11 @@ Paragraph 9 allows the ESRB, in close cooperation with EBA and by means of recom
 > 3. For the purposes of Article 154(2), the LGD of a comparable direct exposure to the protection provider referred to in Article 153(3) shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether, in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respectively.
 > 4. The exposur […truncated by emendrix: 3025 characters omitted…]
 
-**MODIFIED · Art. 201** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 204a** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 223** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 272** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 273** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 273a** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 273b** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 277 — Transactions with a linear risk profile** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 277 PA 5` · *dates* +2019-12-28
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 A new paragraph 5 is added requiring EBA to develop draft regulatory technical standards specifying the method for identifying transactions with only one material risk driver and the method for identifying transactions with more than one material risk driver and the most material of those drivers for purposes of paragraph 3. [Art. 277, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_277)
 
@@ -31306,7 +31006,7 @@ Paragraphs 1 through 4 remain unchanged between the two versions. [Art. 277, v1]
 
 **INSERTED · Art. 279a — Supervisory delta** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 This is a new provision, Article 279a, setting out a numbered paragraph 3 that directs EBA to draft regulatory technical standards covering the formula for the supervisory delta of call and put options mapped to the interest rate risk category and the method for determining whether a transaction is a long or short position in the primary or most material risk driver for transactions referred to in Article 277(3). [Art. 279a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_279a)
 
@@ -31322,151 +31022,11 @@ The text also states that EBA is to submit those draft standards to the Commissi
 > EBA shall submit those draft regulatory technical standards to the Commission by 28 December 2019.
 > Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
 
-**MODIFIED · Art. 283** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 298** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 299** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 300** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 301** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 302** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 303** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 304** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 305** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 306** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 307** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 308** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 309** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 316** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 325 — Approaches for calculating the own funds requirements for market risk** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 325`, `AR 325 PA 1 ALN 1`, `AR 325 PA 1 ALN 1 PTA (a)`, `AR 325 PA 1 ALN 1 PTA (b)`, `AR 325 PA 2 ALN 1`, `AR 325 PA 2 ALN 1 PTA (a)`, `AR 325 PA 2 ALN 1 PTA (b)`, `AR 325 PA 2 ALN 1 PTA (c)`, `AR 325 PA 3 ALN 1`, `AR 325 PA 3 ALN 1 PTA (a)`, `AR 325 PA 3 ALN 1 PTA (b)`, `AR 325 PA 3 ALN 1 PTA (c)`, `AR 325 PA 4`, `AR 325 PA 5`, `AR 325 PA 6`, `AR 325 PA 7`, `AR 325 PA 8`, `AR 325 PA 9` · *dates* +2020-09-28
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The article's heading and entire substance changed from allowances for offsetting positions between institutions or undertakings for consolidated own funds calculations to a description of approaches for calculating own funds requirements for market risk. [Art. 325, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_325) [Art. 325, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325)
 
@@ -31504,7 +31064,7 @@ The later text states that EBA shall submit its draft regulatory technical stand
 
 **INSERTED · Art. 325a — Exemptions from specific reporting requirements for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 A new Article 325a has been added, setting out conditions under which an institution is exempted from the market risk reporting requirement in Article 430b, based on the size of its on- and off-balance-sheet business subject to market risk relative to total assets and a fixed euro threshold. [Art. 325a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -31526,7 +31086,7 @@ It also states that an institution eligible for the treatment in Article 94 is e
 
 **INSERTED · Art. 325b — Permission for consolidated requirements** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 This provision is new, introducing a permission allowing institutions to offset positions in one institution or undertaking against positions in another institution or undertaking solely for calculating net positions and own funds requirements on a consolidated basis. [Art. 325b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -31549,7 +31109,7 @@ The text sets out conditions competent authorities must find met before granting
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325c is a new provision setting out that the alternative standardised approach described in this Chapter is to be used only for the reporting requirement laid down in Article 430b(1). [Art. 325c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325c)
 
@@ -31569,7 +31129,7 @@ It further sets out that institutions calculate own funds requirements for marke
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 325d has been added, setting out definitions for the purposes of this Chapter, including risk class, sensitivity, and bucket. [Art. 325d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325d)
 
@@ -31595,7 +31155,7 @@ The risk class definition lists seven categories covering general interest rate 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new, setting out that institutions calculate the own funds requirement for market risk under the sensitivities-based method by aggregating own funds requirements for delta, vega and curvature risk. [Art. 325e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325e)
 
@@ -31618,7 +31178,7 @@ It further specifies that positions in instruments with optionality are subject 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out a multi-step process for institutions to calculate own funds requirements for delta and vega risks, covering identification of risk factors, calculation of sensitivities, assignment to buckets, netting, weighting, and aggregation formulas. [Art. 325f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325f)
 
@@ -31648,7 +31208,7 @@ The article defines the formulas and variables used at each stage, including wei
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added and sets out that institutions calculate own funds requirements for curvature risk in accordance with a delegated act referred to in Article 461a. [Art. 325g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325g)
 
@@ -31662,7 +31222,7 @@ This provision is newly added and sets out that institutions calculate own funds
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 325h has been added, setting out a process by which institutions aggregate risk-class specific own funds requirements for delta, vega and curvature risks across three correlation scenarios (medium, high, and low correlations), and taking the highest of the three resulting scenario-specific totals as the own funds requirement under the sensitivities-based method. [Art. 325h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325h)
 
@@ -31682,7 +31242,7 @@ A new Article 325h has been added, setting out a process by which institutions a
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added provision requiring institutions to treat index instruments and multi-underlying options according to the delegated act referred to in Article 461a. [Art. 325i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325i)
 
@@ -31696,7 +31256,7 @@ This is a newly added provision requiring institutions to treat index instrument
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is new, adding Article 325j on the treatment of collective investment undertakings, which states that institutions shall treat such undertakings in accordance with a delegated act referred to in Article 461a. [Art. 325j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325j)
 
@@ -31710,7 +31270,7 @@ This provision is new, adding Article 325j on the treatment of collective invest
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added article setting out a process institutions may use to calculate own funds requirements for market risk on underwriting positions in debt or equity instruments. [Art. 325k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325k)
 
@@ -31736,7 +31296,7 @@ It specifies a table of multiplying factors keyed to business days since an inst
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out how general interest rate risk factors, including inflation risk and cross-currency basis risk, are to be bucketed by currency and mapped to specified maturities for delta, vega and curvature calculations under the sensitivities-based method. [Art. 325l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325l)
 
@@ -31756,7 +31316,7 @@ It also specifies how institutions are to derive risk-free rates, treat sovereig
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly inserted, setting out how institutions determine delta, vega and curvature credit spread risk factors for non-securitisation instruments. [Art. 325m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325m)
 
@@ -31774,7 +31334,7 @@ It specifies the maturities and bucketing used for issuer credit spread rates an
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added article setting out credit spread risk factors for securitisation positions, distinguishing between positions included in the ACTP and those that are not. [Art. 325n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325n)
 
@@ -31798,7 +31358,7 @@ It also specifies that the applicable risk-weighting buckets for ACTP securitisa
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325o is a new provision setting out equity risk factors, covering delta, vega and curvature risk for equity positions. [Art. 325o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325o)
 
@@ -31819,7 +31379,7 @@ It defines buckets for equity risk factors, specifies equity spot prices and equ
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is newly added and sets out how commodity risk factors are defined for delta, vega and curvature purposes under the own funds framework. [Art. 325p, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325p)
 
@@ -31838,7 +31398,7 @@ It specifies the sector buckets, the commodity spot price maturities and conditi
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added provision setting out foreign exchange risk factors, defining foreign exchange delta risk factors as the spot exchange rates between an instrument's currency and the institution's reporting currency, with one bucket per currency pair holding a single risk factor and net sensitivity. [Art. 325q, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325q)
 
@@ -31859,7 +31419,7 @@ It also states that institutions are not required to distinguish between onshore
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted provision setting out formulas by which institutions are to calculate delta risk sensitivities for general interest rate risk, credit spread risk, equity risk, commodity risk, and foreign exchange risk. [Art. 325r, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325r)
 
@@ -31905,7 +31465,7 @@ It defines the specific variables and pricing functions used in each calculation
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added, setting out a formula and rules for institutions to calculate the vega risk sensitivity of an option to a given implied-volatility risk factor. [Art. 325s, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325s)
 
@@ -31935,7 +31495,7 @@ It further states that vega risk is not to be calculated for certain securitisat
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is newly added and sets out requirements for how institutions must derive and calculate sensitivities used in market risk own funds calculations, including default assumptions for delta and vega risk sensitivities and conditions under which alternative sensitivity definitions may be used with competent authority permission. [Art. 325t, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325t)
 
@@ -31954,7 +31514,7 @@ This article is newly added and sets out requirements for how institutions must 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article introducing an additional own funds requirement for institutions holding instruments considered exposed to residual risks, covering exotic underlyings and instruments bearing other residual risks, calculated as a percentage of gross notional amounts, with exemptions for exchange-listed instruments, centrally clearable instruments, and perfectly offsetting positions. [Art. 325u, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325u)
 
@@ -31976,7 +31536,7 @@ The article also directs EBA to develop regulatory technical standards defining 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added, setting out definitions for terms such as short exposure, long exposure, gross and net jump-to-default amounts, loss given default, and default risk weight, all applicable to a Section on default risk. [Art. 325v, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325v)
 
@@ -31999,7 +31559,7 @@ It also states that own funds requirements for default risk apply to debt and eq
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325w is a newly added provision setting out formulas and rules for institutions to calculate gross jump-to-default (JTD) amounts for long and short exposures to debt and equity instruments, including prescribed loss-given-default percentages and treatment of derivative instruments. [Art. 325w, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325w)
 
@@ -32034,7 +31594,7 @@ It also directs the European Banking Authority to develop draft regulatory techn
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325x is new text setting out how institutions calculate net jump-to-default amounts by offsetting gross JTD amounts of short and long exposures to the same obligor, subject to seniority conditions. [Art. 325x, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325x)
 
@@ -32055,7 +31615,7 @@ It further specifies rules distinguishing full and partial offsetting based on m
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out how the own funds requirement for default risk is calculated, including a table of default risk weights by credit quality step, treatment of exposures that would receive a 0% risk weight under the Standardised Approach, allocation of weighted net JTD amounts into corporate, sovereign, and local government/municipality buckets, a formula for aggregating weighted net JTD amounts within each bucket accounting for a hedging benefit ratio, and a rule that the final default risk requirement for non-securitisations is the simple sum of the bucket-level requirements. [Art. 325y, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325y)
 
@@ -32093,7 +31653,7 @@ This is a newly inserted article setting out how the own funds requirement for d
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added and sets out how gross and net jump-to-default amounts for securitisation exposures are to be determined, including rules on offsetting between exposures sharing the same underlying asset pool and tranche, and on using decomposed or combined exposures for that offsetting. [Art. 325z, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325z)
 
@@ -32113,7 +31673,7 @@ It also states that the maturity rules of Article 325x apply to both the existin
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out rules for calculating the own funds requirement for default risk on securitisation exposures, covering net JTD amount multipliers, maturity assumptions, fair value caps, bucket assignment across asset classes and regions, and the aggregation and summation methods used to reach the final requirement. [Art. 325aa, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32134,7 +31694,7 @@ This is a newly inserted article setting out rules for calculating the own funds
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325ab is new text setting out the scope of default risk own funds requirements for the ACTP, covering securitisation exposures, non-securitisation hedges, and the treatment of diversification between these categories. [Art. 325ab, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32151,7 +31711,7 @@ It also states that for traded non-securitisation credit and equity derivatives,
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out definitions and rules for calculating jump-to-default amounts for the Alternative Correlation Trading Portfolio, including terms such as decomposition, replication, and decomposition with a valuation model. [Art. 325ac, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32176,7 +31736,7 @@ It specifies how gross JTD amounts for securitisation and non-securitisation exp
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new text, setting out a method for calculating own funds requirements for default risk for the ACTP by multiplying net JTD amounts by specified default risk weights, assigning risk-weighted amounts to buckets, aggregating them with a formula that nets long and short positions using a hedging-benefit ratio, and then combining bucket-level results into an overall requirement. [Art. 325ad, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32208,7 +31768,7 @@ This article is entirely new text, setting out a method for calculating own fund
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new Article 325ae sets out risk weights for general interest rate risk, listing maturities and corresponding buckets in Table 3 and stating that for currencies outside the most liquid currency sub-category the risk weights of risk-free rate sensitivities are to be specified in a delegated act referred to in Article 461a. [Art. 325ae, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32238,7 +31798,7 @@ It also states that a common risk weight for inflation sensitivities and for cro
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new text, setting out five paragraphs of correlation parameters to apply within a bucket for general interest rate risk sensitivities, covering combinations of same or different curves, same or different maturities, inflation risk factors, and cross-currency basis risk factors. [Art. 325af, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32263,7 +31823,7 @@ It specifies fixed correlation values such as 99,90%, 40% and 0% for particular 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly introduced and sets out two aggregation parameters for combining general interest rate risk factors across different buckets. [Art. 325ag, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32280,7 +31840,7 @@ It specifies a gamma value of 50% for aggregating risk factors from different bu
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted provision setting out risk weights for credit spread risk sensitivities for non-securitisations, applying the same risk weight across all listed maturities within each bucket of Table 4, with buckets differentiated by credit quality step and sector. [Art. 325ah, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32309,7 +31869,7 @@ It also sets out how institutions are to assign a risk exposure to a sector, req
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly inserted and sets out how the correlation parameter between two sensitivities within the same credit spread risk bucket for non-securitisations is calculated, combining separate name, tenor and basis factors with fixed percentages applied when the relevant elements are not identical. [Art. 325ai, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32331,7 +31891,7 @@ It also states that these correlation parameters do not apply to bucket 18, for 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new, setting out a formula for the correlation parameter γbc used when aggregating sensitivities across different buckets for credit spread risk on non-securitisations, combining a rating-based factor and a sector-based factor. [Art. 325aj, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32361,7 +31921,7 @@ It specifies that the rating factor equals 1 when both buckets share the same cr
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article that sets out risk weights for credit spread risk sensitivities applicable to securitisations included in the ACTP, specifying that the weights are uniform across the listed maturities within each of the eighteen buckets defined in Table 6. [Art. 325ak, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32390,7 +31950,7 @@ The buckets in Table 6 assign risk weights by combining credit quality step rang
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new provision sets out how the delta risk correlation ρkl for securitisations included in the ACTP is to be derived by reference to Article 325ai, with a fixed basis correlation of 1 when two sensitivities relate to the same curves and 99.00% otherwise. [Art. 325al, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32407,7 +31967,7 @@ It also states that the correlation γbc for this purpose is to be derived in ac
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision, setting out risk weights for credit spread risk for securitisations not included in the ACTP, appears as new text establishing a Table 7 of bucket numbers, credit quality steps and sectors with associated risk weights applicable across five specified maturities. [Art. 325m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325m)
 
@@ -32451,7 +32011,7 @@ It also sets out, in a second paragraph, how institutions are to assign a risk e
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added article setting out how the correlation parameter between two sensitivities in the same bucket is calculated for credit spread risk on securitisations not included in the ACTP, combining a tranche factor, a tenor factor and a basis factor. [Art. 325an, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32473,7 +32033,7 @@ It also states that these correlation parameters do not apply to bucket 25, for 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new provision sets the cross-bucket correlation parameter for credit spread risk on securitisations not included in the ACTP at 0%. [Art. 325ao, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32490,7 +32050,7 @@ It also specifies that the own funds requirement for bucket 25 is added directly
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new, introducing Article 325ap which sets out risk weights for equity and equity repo rate risk sensitivities, organized into eleven buckets in Table 8 based on market capitalisation, economy type, and sector. [Art. 325ap, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32521,7 +32081,7 @@ It further specifies that the definitions of small and large market capitalisati
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new, setting out intra-bucket correlation parameters for equity risk that did not previously exist in the regulation. [Art. 325aq, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32544,7 +32104,7 @@ It specifies fixed correlation values between sensitivities to equity spot price
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325ar is a new provision setting out the correlation parameter γbc used to aggregate sensitivities between different buckets for equity risk. [Art. 325ar, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32560,7 +32120,7 @@ It specifies that this parameter is set at 15% when the two buckets in question 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 325as is added, setting out that risk weights for sensitivities to commodity risk factors are to be specified for each bucket in a Table 9, with the values to follow from a delegated act referred to in Article 461a. [Art. 325as, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32589,7 +32149,7 @@ The article lists eleven numbered buckets with names covering categories such as
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new provision sets out how correlation parameters between sensitivities within the same commodity risk bucket are to be calculated, combining separate factors for commodity identity, tenor, and delivery location basis. [Art. 325at, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32628,7 +32188,7 @@ It also sets out a table of fixed intra-bucket correlation values for eleven nam
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new provision setting the cross-bucket correlation parameter γbc used when aggregating commodity risk sensitivities, fixing it at 20% when both buckets are among numbers 1 to 10 and at 0% when either bucket is bucket number 11. [Art. 325au, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32644,7 +32204,7 @@ This is a new provision setting the cross-bucket correlation parameter γbc used
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new, introducing Article 325av which sets out rules for risk weights applicable to foreign exchange risk sensitivities, including a general rule tied to a delegated act and special rules for currency pairs involving the euro and ERM II currencies. [Art. 325av, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32666,7 +32226,7 @@ It further specifies distinct risk-weight treatments for the most liquid currenc
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added and sets a uniform correlation parameter of 60% to be applied when aggregating sensitivities to foreign exchange risk factors. [Art. 325aw, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32680,7 +32240,7 @@ This provision is newly added and sets a uniform correlation parameter of 60% to
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is newly added and sets out rules for determining vega and curvature risk weights, including a formula linking a vega risk factor's weight to its presumed liquidity horizon and a fixed value of 55% for RWσ. [Art. 325ax, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32715,7 +32275,7 @@ It also specifies that delta buckets and delta risk weights are to be used as th
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out how correlation parameters for vega and curvature risk are to be determined within the standardised approach. [Art. 325ay, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32740,7 +32300,7 @@ It specifies formulas for vega correlations within a bucket for GIRR and for oth
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new text, setting out rules for the alternative internal model approach and the conditions under which competent authorities grant or withdraw permission for institutions to use alternative internal models for market risk own funds requirements. [Art. 325az, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325a)
 
@@ -32763,7 +32323,7 @@ It covers matters such as the criteria trading desks must meet, notification dut
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted provision setting out how an institution using an alternative internal model must calculate own funds requirements for the pool of positions assigned to trading desks with the relevant permission, based on the higher of two sets of expected shortfall and stress scenario risk measure calculations. [Art. 325ba, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32788,7 +32348,7 @@ It also adds a separate own funds requirement for institutions holding traded de
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out a formula and method for institutions to calculate an expected shortfall risk measure across broad risk factor categories, using unconstrained and partial expected shortfall components combined with a supervisory correlation factor of 50%. [Art. 325bb, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32825,7 +32385,7 @@ It specifies that scenarios of future shocks apply only to the specific set of m
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new provision setting out how institutions must calculate the partial expected shortfall measures referenced elsewhere, including the required frequency, confidence interval, formula, and liquidity-horizon table. [Art. 325bc, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32858,7 +32418,7 @@ It further specifies distinct calibration and risk-factor-subset requirements fo
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision, Article 325bd on Liquidity horizons, is entirely new text with no prior counterpart, setting out rules for mapping trading-desk risk factors to broad categories and sub-categories of risk factors and their associated liquidity horizons, including a Table 2 listing those categories and horizon lengths. [Art. 325bd, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32878,7 +32438,7 @@ It also specifies a formula for calculating an effective liquidity horizon for m
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added article setting out how institutions assess whether risk factors of positions on their permitted or pending trading desks are modellable, requiring own funds calculations under Article 325bk for factors found not modellable, and directing EBA to draft regulatory technical standards on the assessment criteria and frequency, to be submitted to the Commission by 28 March 2020. [Art. 325be, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32896,7 +32456,7 @@ This is a newly added article setting out how institutions assess whether risk f
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new provision setting out regulatory back-testing requirements and multiplication factors for trading desks using alternative internal models, defining overshootings, back-testing counting methods, the compliance thresholds over the most recent 250 business days, the calculation of the multiplication factor with its add-on table, competent authority monitoring and notification duties, a derogation for non-modellable risk factors, and a mandate for EBA to develop draft regulatory technical standards. [Art. 325bf, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32918,7 +32478,7 @@ The text specifies that EBA must submit those draft regulatory technical standar
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added article setting out a profit and loss (P&L) attribution requirement for an institution's trading desks, defining when such a desk meets that requirement and what the requirement is meant to ensure. [Art. 325bg, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32940,7 +32500,7 @@ It also directs EBA to draft regulatory technical standards covering the closene
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325bh is new text, setting out requirements that an internal risk-measurement model used to calculate own funds requirements for market risk must meet, covering risk-factor capture, yield-curve modelling, foreign exchange and commodity treatment, proxy use, and volatility risk for optionality. [Art. 325bh, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32959,7 +32519,7 @@ It also states conditions under which institutions may use empirical correlation
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added article setting out qualitative requirements for internal risk-measurement models used to calculate market risk capital requirements, covering integration into daily risk management, an independent risk control unit, senior management involvement, staffing, internal policies, model accuracy, stress testing, and independent review. [Art. 325bi, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -32978,7 +32538,7 @@ It also adds a paragraph specifying the scope of the annual review of the overal
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325bj is a new provision requiring institutions to have processes ensuring that internal risk-measurement models used under this Chapter are validated by suitably qualified parties independent of the model's development process, so as to confirm the models are conceptually sound and capture all material risks. [Art. 325bj, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -33001,7 +32561,7 @@ It specifies that such validation must occur both when a model is first develope
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 325bk is a newly added provision defining the stress scenario risk measure for a non-modellable risk factor as the loss incurred on positions subject to foreign exchange or commodity risk when an extreme future shock scenario is applied to that factor. [Art. 325bk, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -33023,7 +32583,7 @@ It requires institutions to develop extreme shock scenarios for non-modellable r
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article that sets out which positions of an institution fall within the scope of the internal default risk model, requiring an own funds requirement for default risk for positions assigned to permitted trading desks that contain a risk factor mapped to equity or credit spread risk factor categories, calculated using that internal model. [Art. 325bl, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -33040,7 +32600,7 @@ It also requires that for each such position an institution identify one issuer 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is entirely new, setting out that competent authorities shall grant an institution permission to use an internal default risk model to calculate own funds requirements for trading book positions assigned to a trading desk that meets specified requirements. [Art. 325bm, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -33057,7 +32617,7 @@ It also adds that where a trading desk holding at least one such position does n
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article setting out how institutions calculate own funds requirements for default risk using an internal default risk model, covering the value-at-risk measure, the definition of potential loss, the determination of default correlations, and the one-year constant position assumption. [Art. 325bn, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -33077,7 +32637,7 @@ It also specifies that this calculation must be performed at least weekly, and p
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out rules on how institutions may incorporate and recognise hedges within an internal default risk model, including netting of positions in the same financial instrument and limited recognition of hedging or diversification effects across different instruments, securities or issuers. [Art. 325bo, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -33095,7 +32655,7 @@ It also requires institutions to capture material risks arising between a hedgin
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out detailed requirements for an institution's internal default risk model, covering how issuer defaults and their correlations must be modelled, how default probabilities and losses given default are to be estimated and floored, how nonlinear positions and economic-cycle effects must be reflected, and what independent review, documentation and concentration analysis institutions must perform. [Art. 325bp, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_325b)
 
@@ -33113,26 +32673,6 @@ It also directs the EBA to draft regulatory technical standards on the methodolo
 > (a) the default probabilities shall be floored at 0,03 %;
 > (b) the default probabilities shall be based on a one-year time horizon, unless stated otherwise in this Section;
 > (c) the default probabilities shall be measured us […truncated by emendrix: 4126 characters omitted…]
-
-**MODIFIED · Art. 384** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 385** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 390 — Calculation of the exposure value** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -33189,16 +32729,6 @@ The original single-paragraph text defining an institution for large exposures p
 > For the purposes of calculating the value of exposures in accordance with this Part the term institution shall include a private or public undertaking, including its branches, which, were it established in the Union, would fulfil the definition of the term institution and has been authorised in a third country that applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union.
 > For the purposes of the first paragraph, the Commission may adopt, by means of implementing acts, and subject to the examination procedure referred to in Article 464(2), decisions as to whether a third country applies prudential supervisory and regulatory requirements at least equivalent to those applied in the Union.
 
-**MODIFIED · Art. 392** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 394 — Reporting requirements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 394 PA 4 ALN 1`, `AR 394 PA 4 ALN 1 PTA (a)`, `AR 394 PA 4 ALN 1 PTA (b)`, `AR 394 PA 4 ALN 1 PTA (c)`, `AR 394 PA 4 ALN 2`, `AR 394 PA 4 ALN 2 PTA (a)`, `AR 394 PA 4 ALN 2 PTA (b)`, `AR 394 PA 4 ALN 3`, `AR 394 PA 4 ALN 4` · *dates* -2014-01-01 +2020-06-28 · *amended by* `32019R0876`
@@ -33235,16 +32765,6 @@ The submission deadline for EBA's draft standards to the Commission changed from
 > (a) the identification of the client or the group of connected clients to which an institution has a large exposure;
 > (b) the exposure value before taking into account the effect of the credit risk mit […truncated by emendrix: 1552 characters omitted…]
 
-**MODIFIED · Art. 395** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 396 — Compliance with large exposures requirements** · applies from: unchanged
 
 *within* `AR 396 PA 3` · *amended by* `32019R0876`
@@ -33272,56 +32792,6 @@ Paragraphs 1 and 2 remain textually unchanged between the two versions. [Art. 39
 > (a) the exceptional cases referred to in paragraph 1 of this Article;
 > (b) the time considered appropriate for returning to compliance;
 > (c) the measures to be taken to ensure the timely return to compliance of the institution.
-
-**MODIFIED · Art. 397** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 399** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 400** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 401** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 402** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 403 — Substitution approach** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -33355,36 +32825,6 @@ The added paragraph also states that EBA shall publish those guidelines by 31 De
 > 2. Where an institution applies point (a) of paragraph 1:
 > (a) […truncated by emendrix: 1048 characters omitted…]
 
-**MODIFIED · Art. 411** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 412** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 413** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 415 — Reporting obligation and reporting format** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 415 PA 3a` · *dates* +2020-06-28 · *amended by* `32019R0876`
@@ -33414,16 +32854,6 @@ The remainder of the article, including paragraphs 1, 2, 3, 4, 5 and 6, is uncha
 > 2. An institution shall report separately to the competent authorities of the home Member State the items referred to in paragraph 1 in the currency below when it has:
 > (a) aggregate liabilities in a currency different from the reporting currency under paragraph 1 amounting to or exceeding 5 % of the institution's or the single liquidity sub-group's total liabilities; or
 > (b) a signific […truncated by emendrix: 3598 characters omitted…]
-
-**MODIFIED · Art. 416** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 419 — Currencies with constraints on the availability of liquid assets** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -33455,571 +32885,11 @@ A comma was added after "application" in the first sentence of paragraph 5, comp
 > (b) for currencies of a Member State or third countries, required liquid assets may be substituted by credit lines from the central bank of that Member State or third country, which are contractually irrevocably committed for the next 30 days and are fairly priced, independent of the amount currently drawn, provided that the competent authorities of that Member State or third country do the same and that Member State or third country has comparable reporting requirements in place.
 > 3. The derogations applied in accordance with paragraph 2 shall be inversely proportional to the availability of the relevant assets. The justified needs of institutions shall be assessed taking into account their ability to reduce, by sound liquidity management, the need for those liquid assets and the holdings of those as […truncated by emendrix: 931 characters omitted…]
 
-**MODIFIED · Art. 422** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 423** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 424** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 425** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428a** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428aa** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ab** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ac** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ad** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ae** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428af** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ag** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ah** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ai** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428aj** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ak** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428al** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428am** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428an** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ao** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ap** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428aq** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ar** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428as** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428at** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428au** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428av** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428aw** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ax** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428ay** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428az** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428b** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428c** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428d** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428e** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428f** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428g** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428h** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428i** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428j** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428k** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428l** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428m** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428n** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428o** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428p** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428q** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428r** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428s** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428t** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428u** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428v** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428w** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428x** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428y** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 428z** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 430 — Reporting on prudential requirements and financial information** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 430`, `AR 430 PA 7`, `AR 430 PA 8` · *dates* +2014-04-16 +2020-06-28 +2021-06-28 · *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The article's heading changes from a general reporting requirement heading to one specifically covering reporting on prudential requirements and financial information. [Art. 430, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_430) [Art. 430, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430)
 
@@ -34050,21 +32920,11 @@ Paragraph 8 further directs that EBA's report classify institutions by size and 
 > Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
 > 7. EBA shall develop draft implementing technical standards to specify the uniform reporting formats and templates, the instructions and methodology on how to use those templates, the frequency and dates of reporting, the definiti […truncated by emendrix: 4007 characters omitted…]
 
-**INSERTED · Art. 430a** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 430b — Specific reporting requirements for market risk** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out specific reporting requirements for market risk, covering institutions' calculations under the alternative standardised approach and, later, the alternative internal model approach, as well as rules on combining the two approaches and a mandate for EBA to develop implementing technical standards on reporting templates. [Art. 430b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430b)
 
@@ -34080,7 +32940,7 @@ This is a newly inserted article setting out specific reporting requirements for
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 430c is added, requiring EBA to prepare a feasibility report on developing a consistent and integrated system for collecting statistical, resolution and prudential data, and to report its findings to the Commission by 28 June 2020. [Art. 430c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_430c)
 
@@ -34103,7 +32963,7 @@ It further states that within one year of that report's presentation, the Commis
 
 *within* `AR 432 PA 1 ALN 1`, `AR 432 PA 1 ALN 2`, `AR 432 PA 1 ALN 3`, `AR 432 PA 2 ALN 1`, `AR 432 PA 2 ALN 2`, `AR 432 PA 2 ALN 3`, `AR 432 PA 2 ALN 4` · *dates* -2014-12-31
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The paragraph 1 exemption now covers disclosures listed in both Titles II and III, rather than only Title II, and the EBA guideline deadline of 31 December 2014 has been removed from both paragraph 1 and paragraph 2. [Art. 432, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_432) [Art. 432, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_432)
 
@@ -34133,7 +32993,7 @@ Paragraph 2's wording on proprietary and confidential information has been rephr
 
 **INSERTED · Art. 434a — Uniform disclosure formats** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 This new article requires EBA to develop draft implementing technical standards setting out uniform disclosure formats and instructions for the disclosures required under Titles II and III, and it directs EBA to submit those drafts to the Commission by 28 June 2020. [Art. 434a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_434a)
 
@@ -34148,36 +33008,6 @@ The text specifies that these formats must convey sufficiently comprehensive and
 > Uniform disclosure formats shall be tabular where appropriate.
 > EBA shall submit those draft implementing technical standards to the Commission by 28 June 2020.
 > Power is conferred on the Commission to adopt those implementing technical standards in accordance with Article 15 of Regulation (EU) No 1093/2010.
-
-**MODIFIED · Art. 456** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 457** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 458** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 460 — Liquidity** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -34265,7 +33095,7 @@ Paragraph 6 also spells out the time periods as 'three months' rather than using
 
 *within* `AR 471 PA 1 ALN 1`, `AR 471 PA 1 ALN 1 PTA (a)`, `AR 471 PA 1 ALN 1 PTA (c)` · *dates* -2014-01-01 -2022-12-31 +2018-12-31 +2024-12-31 · *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The derogation period in paragraph 1 changed from running from 1 January 2014 to 31 December 2022 to running from 31 December 2018 to 31 December 2024, and the reference date in point (c) for the 15% threshold was likewise extended from 31 December 2022 to 31 December 2024. [Art. 471, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190426#art_471) [Art. 471, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_471)
 
@@ -34294,16 +33124,6 @@ Point (a) was altered so that it now references the conditions in points (a) and
 > (c) the equity holdings of the institution in the insurance undertaking, reinsurance undertaking or insurance holding company do not exceed 15 % of the Common Equity Tier 1 instruments issued by that insurance entity as at 31 December 2012 and during the period from 1 January 2013 to 31 December 2024;
 > (d) the amount of the equity holding which is not deducted does not exceed the amount held in the Common Equity Tier 1 instruments in the insurance undertaking, reinsurance undertaking or insurance holding company as at 31 December 2012.
 > 2. The equity holdings which are not deducted pursuant to paragraph 1 shall qualify as exposures and be risk weighted at 370 %.
-
-**MODIFIED · Art. 493** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 494 — Transitional provisions concerning the requirement for own funds and eligible liabilities** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
@@ -34402,26 +33222,6 @@ The power for the Commission to extend the transitional provisions is changed fr
 > (iii) for those CCPs that submitted the application before 27 June 2019, 28 June 2021.
 > 2. Until the expiration of the deadline referred to in paragraph 1 of this Article, where a CCP referred to in that paragraph does not have a default fund and does not have in place a binding arrangement with its clearing members that allows it to use all or part of the initial margin received f […truncated by emendrix: 1206 characters omitted…]
 
-**MODIFIED · Art. 498** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 499** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 500 — Adjustment for massive disposals** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 500`, `AR 500 PA 1 ALN 1`, `AR 500 PA 1 ALN 1 PTA (a)`, `AR 500 PA 1 ALN 1 PTA (b)`, `AR 500 PA 1 ALN 1 PTA (c)`, `AR 500 PA 1 ALN 2`, `AR 500 PA 2 ALN 1`, `AR 500 PA 3`, `AR 500 PA 4`, `AR 500 PA 5`, `AR 500 PA 6` · *dates* -2000-03-20 -2007-01-01 -2010-01-01 -2017-01-01 -2017-12-31 +2016-11-23 +2022-06-28 · *amended by* `32019R0876`
@@ -34458,7 +33258,7 @@ The structure of the provision also changed, with the earlier six paragraphs on 
 
 *amended by* `32019R0876`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED, the instruction parse says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED, the instruction parse says INSERTED
 
 Article 501a is added as a new provision, containing only paragraphs 4 and 5, which set out a Commission reporting obligation on the impact of own funds requirements on infrastructure lending and an EBA reporting obligation feeding into that Commission report. [Art. 501a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_501a)
 
@@ -34492,7 +33292,7 @@ The waiver applies as a derogation from Article 430 and is described as covering
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article added to the regulation, setting out that EBA, after consulting the ESRB, is to assess whether a dedicated prudential treatment of exposures linked to environmental and/or social objectives is warranted, covering risk-comparison methodologies, criteria for physical and transition risks, and potential effects on financial stability and bank lending. [Art. 501c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_501c)
 
@@ -34695,7 +33495,7 @@ It further provides that, by 30 June 2020, the Commission is to submit a report,
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly added article establishing a Compliance tool, requiring EBA to develop an electronic tool intended to help institutions comply with the Regulation, Directive 2013/36/EU, and related regulatory technical standards, implementing technical standards, guidelines and templates. [Art. 519c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20190627#art_519c)
 
@@ -34709,106 +33509,6 @@ The article further specifies that the tool must at least allow each institution
 > 2. The tool referred to in paragraph 1 shall at least enable each institution to:
 > (a) rapidly identify the relevant provisions to comply with in relation to the institution's size and business model;
 > (b) follow the changes made in legislative acts and in the related implementing provisions, guidelines and templates.
-
-**MODIFIED · Title** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 2** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 3** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 7** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 8** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 10** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Section 1** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Section 2** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Section 3** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · CHA 5a** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02013R0575-20190627 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02013R0575-20190426 -->
