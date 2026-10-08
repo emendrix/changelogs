@@ -3870,7 +3870,7 @@ In the shared provision applying to entries 28 to 30, the reference to the conce
 ### `02006R1907-20120605` → `02006R1907-20121009`
 
 - **Act** `eu:32006R1907` · **In force** 2012-10-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20120605` · `v2` = `02006R1907-20121009`
@@ -3880,8 +3880,6 @@ In the shared provision applying to entries 28 to 30, the reference to the conce
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +1961-12-10 +2012-11-19 +2013-10-09 +2017-10-09 · *amended by* `32012R0836`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 An additional Official Journal reference (OJ L 326, 29.12.1969, p. 36) has been added to the list of citations at the top of the Annex. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
 
