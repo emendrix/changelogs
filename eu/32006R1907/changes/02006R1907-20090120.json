@@ -14,23 +14,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 1,
+    "inserted": 0,
     "modified": 40,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 41,
+    "touched_units": 40,
     "unchanged_units": 118,
-    "disputed": 41
+    "disputed": 32
   },
   "counts": {
-    "touched": 41,
+    "touched": 40,
     "substantive": 40,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 41,
+    "textless": 0,
+    "disputed": 32,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -69,16 +69,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -181,16 +182,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -305,16 +307,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -391,16 +394,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -478,16 +482,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -564,16 +569,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -669,16 +675,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -775,12 +782,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -903,12 +911,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1039,16 +1048,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1158,16 +1168,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1276,16 +1287,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1363,16 +1375,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1486,16 +1499,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1591,16 +1605,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1692,12 +1707,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1806,16 +1822,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1905,12 +1922,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1987,16 +2005,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2073,16 +2092,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2191,16 +2211,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2278,16 +2299,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2397,16 +2419,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2515,16 +2538,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2645,12 +2669,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2742,12 +2767,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2888,16 +2914,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2976,16 +3003,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3082,16 +3110,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3168,16 +3197,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3254,16 +3284,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3340,16 +3371,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3411,64 +3443,6 @@
     },
     {
       "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32006R1907",
-            "display_name": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
-          },
-          "version": "02006R1907-20090120",
-          "location": "TIT XI"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32008R1272",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2009-01-20",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32008R1272 A",
-            "change_types": [
-              "INSERTED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
         "change_type": "MODIFIED",
         "provision": {
           "act": {
@@ -3503,16 +3477,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3649,16 +3624,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3754,16 +3730,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3841,16 +3818,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3959,16 +3937,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4064,16 +4043,17 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "28 annotations in (2008-10-12, 2009-01-20]",
+            "detail": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4162,12 +4142,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -4294,12 +4275,13 @@
             ]
           },
           "instruction_parse": {
-            "status": "absent",
-            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+            "status": "unavailable",
+            "detail": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -4459,11 +4441,10 @@
           "AR 59",
           "AR 76",
           "AR 77",
-          "TIT XI",
           "AN XV",
           "AN XVII"
         ],
-        "note": "28 annotations in (2008-10-12, 2009-01-20]",
+        "note": "28 annotations in (2008-10-12, 2009-01-20]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AN XV SECTION II PO 1",
@@ -4481,17 +4462,6 @@
             "change_type": "MODIFIED",
             "in_force": "2009-01-20",
             "source": "32008R1272 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32008R1272",
-              "display_name": null
-            }
-          },
-          {
-            "location": "TIT XI",
-            "change_type": "INSERTED",
-            "in_force": "2009-01-20",
-            "source": "32008R1272 A",
             "amending_act": {
               "corpus": "eu",
               "key": "32008R1272",
@@ -4777,9 +4747,9 @@
       },
       {
         "signal": "instruction_parse",
-        "available": true,
+        "available": false,
         "units": [],
-        "note": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
+        "note": "32008R1272, 0.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed, nothing claimed in this window, so this signal has no reading of it",
         "claims": []
       }
     ],
@@ -4788,46 +4758,23 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 40,
-        "right_units": 9,
+        "right_units": 8,
         "shared": 8,
         "precision": 0.2,
-        "recall": 0.8888888888888888,
-        "f1": 0.326530612244898,
-        "kind_mismatches": 0
-      },
-      {
-        "left": "structural_diff",
-        "right": "instruction_parse",
-        "left_units": 40,
-        "right_units": 0,
-        "shared": 0,
-        "precision": 0.0,
         "recall": 1.0,
-        "f1": 0.0,
-        "kind_mismatches": 0
-      },
-      {
-        "left": "corpus_metadata",
-        "right": "instruction_parse",
-        "left_units": 9,
-        "right_units": 0,
-        "shared": 0,
-        "precision": 0.0,
-        "recall": 1.0,
-        "f1": 0.0,
+        "f1": 0.33333333333333337,
         "kind_mismatches": 0
       }
     ],
     "disagreements": [
       {
         "unit": "AR 1",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -4840,13 +4787,12 @@
       },
       {
         "unit": "AR 2",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -4859,13 +4805,12 @@
       },
       {
         "unit": "AR 3",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -4878,13 +4823,12 @@
       },
       {
         "unit": "AR 5",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -4897,13 +4841,12 @@
       },
       {
         "unit": "AR 6",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -4916,13 +4859,12 @@
       },
       {
         "unit": "AR 8",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -4935,67 +4877,16 @@
       },
       {
         "unit": "AR 9",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 14",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
           "corpus_metadata"
         ],
-        "absent_from": [
-          "instruction_parse"
-        ],
         "kinds": [
           [
             "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 31",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
             [
               "MODIFIED"
             ]
@@ -5004,13 +4895,12 @@
       },
       {
         "unit": "AR 32",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5023,13 +4913,12 @@
       },
       {
         "unit": "AR 34",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5042,13 +4931,12 @@
       },
       {
         "unit": "AR 35",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5061,13 +4949,12 @@
       },
       {
         "unit": "AR 36",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5080,13 +4967,12 @@
       },
       {
         "unit": "AR 37",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5099,42 +4985,16 @@
       },
       {
         "unit": "AR 38",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 56",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
           "corpus_metadata"
         ],
-        "absent_from": [
-          "instruction_parse"
-        ],
         "kinds": [
           [
             "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
             [
               "MODIFIED"
             ]
@@ -5143,42 +5003,16 @@
       },
       {
         "unit": "AR 58",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 59",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
           "corpus_metadata"
         ],
-        "absent_from": [
-          "instruction_parse"
-        ],
         "kinds": [
           [
             "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
             [
               "MODIFIED"
             ]
@@ -5187,13 +5021,12 @@
       },
       {
         "unit": "AR 62",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5206,13 +5039,12 @@
       },
       {
         "unit": "AR 65",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5225,13 +5057,12 @@
       },
       {
         "unit": "AR 67",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5244,13 +5075,12 @@
       },
       {
         "unit": "AR 68",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5263,13 +5093,12 @@
       },
       {
         "unit": "AR 69",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5282,67 +5111,16 @@
       },
       {
         "unit": "AR 72",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 76",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
           "corpus_metadata"
         ],
-        "absent_from": [
-          "instruction_parse"
-        ],
         "kinds": [
           [
             "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 77",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
             [
               "MODIFIED"
             ]
@@ -5351,13 +5129,12 @@
       },
       {
         "unit": "AR 109",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5370,13 +5147,12 @@
       },
       {
         "unit": "AR 118",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5389,13 +5165,12 @@
       },
       {
         "unit": "AR 119",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5408,13 +5183,12 @@
       },
       {
         "unit": "AR 123",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5427,13 +5201,12 @@
       },
       {
         "unit": "AR 128",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5446,13 +5219,12 @@
       },
       {
         "unit": "AR 129",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5464,33 +5236,13 @@
         ]
       },
       {
-        "unit": "TIT XI",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AN I",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5503,13 +5255,12 @@
       },
       {
         "unit": "AN II",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5522,13 +5273,12 @@
       },
       {
         "unit": "AN III",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5541,13 +5291,12 @@
       },
       {
         "unit": "AN V",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5560,13 +5309,12 @@
       },
       {
         "unit": "AN VI",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
+          "corpus_metadata"
         ],
         "kinds": [
           [
@@ -5579,67 +5327,16 @@
       },
       {
         "unit": "AN XII",
-        "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
+        "reason": "seen by structural_diff, not by corpus_metadata",
         "observed_by": [
           "structural_diff"
         ],
         "absent_from": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN XV",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
           "corpus_metadata"
         ],
-        "absent_from": [
-          "instruction_parse"
-        ],
         "kinds": [
           [
             "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN XVII",
-        "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
-        "observed_by": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "structural_diff",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "corpus_metadata",
             [
               "MODIFIED"
             ]
@@ -5647,9 +5344,8 @@
         ]
       }
     ],
-    "metadata_only_units": [
-      "TIT XI"
-    ]
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -5711,6 +5407,20 @@
         "schema_repairs": 1
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 41,
+      "repaired": 41,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

@@ -4580,9 +4580,9 @@ The sub-provisions said to differ, Appendix 1, Appendix 2 and Appendix 4, fall w
 ### `02006R1907-20081012` → `02006R1907-20090120`
 
 - **Act** `eu:32006R1907` · **In force** 2009-01-20 · **Detected** 2026-08-13
-- **Touched** 41 provisions — 40 substantive · 0 date-only · 1 with no text · **41 disputed**
-- **Diff** 1 inserted · 40 modified · 0 deleted · 0 renumbered · 0 deferred · 118 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 40 provisions — 40 substantive · 0 date-only · 0 with no text · **32 disputed**
+- **Diff** 0 inserted · 40 modified · 0 deleted · 0 renumbered · 0 deferred · 118 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20081012` · `v2` = `02006R1907-20090120`
 
 ---
@@ -4591,7 +4591,7 @@ The sub-provisions said to differ, Appendix 1, Appendix 2 and Appendix 4, fall w
 
 *within* `AR 1 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In paragraph 2, the term "preparations" is replaced throughout with "mixtures", both in the reference to substances and mixtures within the meaning of Article 3 and in the description of manufacture, placing on the market or use. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_1)
 
@@ -4620,7 +4620,7 @@ The numbering of paragraphs 1, 2 and 3 is presented with the numeral on its own 
 
 *within* `AR 2 PA 1 ALN 1 PTA (b)`, `AR 2 PA 1 ALN 1 PTA (d)`, `AR 2 PA 2 ALN 1`, `AR 2 PA 3 ALN 1`, `AR 2 PA 6 ALN 1`, `AR 2 PA 6 ALN 1 PTA (c)`, `AR 2 PA 7 ALN 1 PTA (c)`, `AR 2 PA 7 ALN 1 PTA (d)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Throughout the listed sub-provisions, every occurrence of the word "preparation" or "preparations" has been replaced with "mixture" or "mixtures". [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_2)
 
@@ -4673,7 +4673,7 @@ No other wording, structure, or substantive scope of the exemptions in Article 2
 
 *within* `AR 3 ALN 1 PO 2`, `AR 3 ALN 1 PO 13`, `AR 3 ALN 1 PO 14`, `AR 3 ALN 1 PO 22`, `AR 3 ALN 1 PO 26`, `AR 3 ALN 1 PO 32`, `AR 3 ALN 1 PO 34`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The defined term formerly labelled "preparation" in point 2 is renamed "mixture", and every other point that used the word "preparation" (points 13, 14, 22, 26, 32 and 34) now uses "mixture" instead. [Art. 3, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_3) [Art. 3, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_3)
 
@@ -4719,7 +4719,7 @@ The defined term formerly labelled "preparation" in point 2 is renamed "mixture"
 
 *within* `AR 5 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The text now refers to substances in mixtures rather than substances in preparations, with no other wording changed. [Art. 5, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_5) [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_5)
 
@@ -4739,7 +4739,7 @@ The text now refers to substances in mixtures rather than substances in preparat
 
 *within* `AR 6`, `AR 6 PA 1 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and the text of paragraph 1 replace the word "preparations"/"preparation(s)" with "mixtures"/"mixture(s)", while the rest of the wording in paragraph 1 and the remaining paragraphs stays the same. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_6)
 
@@ -4775,7 +4775,7 @@ The heading and the text of paragraph 1 replace the word "preparations"/"prepara
 
 *within* `AR 8 PA 1 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In paragraph 1, the terms "preparations" and "preparation" have been replaced with "mixtures" and "mixture" respectively. [Art. 8, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_8) [Art. 8, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_8)
 
@@ -4804,7 +4804,7 @@ The numbering of paragraphs 1, 2 and 3 has been reformatted onto separate lines,
 
 *within* `AR 9 PA 4 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In paragraph 4, the word "preparation" has been replaced by "mixture" in both places it appeared, describing the same substance handling and availability conditions. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_9)
 
@@ -4850,8 +4850,6 @@ In paragraph 4, the word "preparation" has been replaced by "mixture" in both pl
 
 *within* `AR 14 PA 1 ALN 2`, `AR 14 PA 2 ALN 1`, `AR 14 PA 2 ALN 1 PTA (b)`, `AR 14 PA 2 ALN 1 PTA (ba)`, `AR 14 PA 2 ALN 1 PTA (e)`, `AR 14 PA 2 ALN 1 PTA (ea)` · *dates* +2008-12-16 · *amended by* `32008R1272`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 References to a substance being present in a 'preparation' in paragraphs 1 and 2 have been replaced with references to a 'mixture'. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_14)
 
 Points (b) and (e) of paragraph 2 now point to concentration limits and classification and labelling inventory entries under Regulation (EC) No 1272/2008 instead of Directive 67/548/EEC, and two new points, (ba) and (ea), have been added addressing an M-factor cut-off value for substances hazardous to the aquatic environment, calculated by reference to Annex I of that Regulation. [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_14)
@@ -4893,8 +4891,6 @@ Points (b) and (e) of paragraph 2 now point to concentration limits and classifi
 
 *within* `AR 31 PA 1 ALN 1`, `AR 31 PA 1 ALN 1 PTA (a)`, `AR 31 PA 2 ALN 1`, `AR 31 PA 3 ALN 1`, `AR 31 PA 3 ALN 1 PTA (a)`, `AR 31 PA 3 ALN 1 PTA (b)`, `AR 31 PA 4 ALN 1`, `AR 31 PA 5 ALN 1`, `AR 31 PA 6 ALN 1 PO 1`, `AR 31 PA 8 ALN 1`, `AR 31 PA 9 ALN 2`, `AR 31 PA 10` · *dates* +2010-12-01 +2015-06-01 · *amended by* `32008R1272`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 Throughout the article the term "preparation" has been replaced by "mixture" wherever it appeared, including in the headings, safety data sheet content list, and thresholds set out in paragraphs 1 through 9. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_31)
 
 Paragraph 8 now specifies that a safety data sheet must be provided free of charge no later than the date the substance or mixture is first supplied, a timing element absent from the earlier text. [Art. 31, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_31) [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_31)
@@ -4933,7 +4929,7 @@ A new paragraph 10 has been added setting out rules on how classifications under
 
 *within* `AR 32`, `AR 32 PA 1 ALN 1`, `AR 32 PA 2 ALN 1`, `AR 32 PA 3 ALN 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and the operative text replace every occurrence of the word 'preparation' or 'preparations' with 'mixture' or 'mixtures'. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_32)
 
@@ -4983,7 +4979,7 @@ This substitution occurs in the heading, paragraph 1's introductory sentence, pa
 
 *within* `AR 34`, `AR 34 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and the introductory sentence of Article 34 replace the term "preparations" with "mixtures" when describing the substances covered by the duty to communicate information up the supply chain. [Art. 34, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_34) [Art. 34, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_34)
 
@@ -5013,7 +5009,7 @@ The remaining text, including points (a) and (b) and the sentence on distributor
 
 *within* `AR 35 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only change in Article 35(1) is the replacement of the word "preparations" with "mixtures" when describing the substances covered by workers' access to information. [Art. 35, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_35) [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_35)
 
@@ -5033,7 +5029,7 @@ The only change in Article 35(1) is the replacement of the word "preparations" w
 
 *within* `AR 36 PA 1 ALN 1`, `AR 36 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The term "preparation" in paragraph 1's description of what was manufactured, imported, supplied or used has been replaced with "mixture". [Art. 36, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_36) [Art. 36, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_36)
 
@@ -5059,7 +5055,7 @@ The same substitution of "mixture" for "preparation" appears in paragraph 2's re
 
 *within* `AR 37 PA 2 ALN 1`, `AR 37 PA 3 ALN 1`, `AR 37 PA 4 ALN 1`, `AR 37 PA 4 ALN 2 PTA (a)`, `AR 37 PA 4 ALN 2 PTA (c)`, `AR 37 PA 4 ALN 2 PTA (e)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The wording throughout the listed paragraphs replaces every occurrence of the term "preparation" with "mixture", covering references in paragraphs 2, 3, 4 and its sub-points (a), (c) and (e). [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_37)
 
@@ -5090,7 +5086,7 @@ No other wording in these paragraphs was altered. [Art. 37, v2](https://eur-lex.
 
 *within* `AR 38 PA 5 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The paragraph on the tonnage-based exemption from reporting now refers to a substance used on its own or in a mixture, whereas the earlier version referred to a substance used on its own or in a preparation. [Art. 38, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_38) [Art. 38, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_38)
 
@@ -5142,8 +5138,6 @@ The paragraph on the tonnage-based exemption from reporting now refers to a subs
 
 *within* `AR 56 PA 1 ALN 1 PTA (a)`, `AR 56 PA 1 ALN 1 PTA (b)`, `AR 56 PA 6 ALN 1`, `AR 56 PA 6 ALN 1 PTA (b)` · *amended by* `32008R1272`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The term "preparation" in paragraphs 1(1)(a) and 1(1)(b) is replaced with "mixture", and the same substitution occurs in paragraph 6's introductory text and in point 6(1)(b). [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_56)
 
 Point 6(1)(b) also changes its cross-reference for concentration limits from Annex I to Directive 67/548/EEC to Part 3 of Annex VI to Regulation (EC) No 1272/2008, and it now refers to classification of the "mixture" rather than the "preparation" as dangerous. [Art. 56, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_56) [Art. 56, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_56)
@@ -5186,7 +5180,7 @@ Point 6(1)(b) also changes its cross-reference for concentration limits from Ann
 
 *within* `AR 58 PA 5 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In paragraph 5, the phrase referring to the use of the substance on its own, in a preparation, or in an article has been changed so that it now refers to the use of the substance on its own, in a mixture, or in an article. [Art. 58, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_58) [Art. 58, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_58)
 
@@ -5231,8 +5225,6 @@ In paragraph 5, the phrase referring to the use of the substance on its own, in 
 
 *within* `AR 59 PA 2 ALN 1`, `AR 59 PA 3 ALN 1` · *amended by* `32008R1272`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 In paragraphs 2 and 3, the reference to an entry in Annex I of Directive 67/548/EEC has been replaced with a reference to an entry in Part 3 of Annex VI to Regulation (EC) No 1272/2008. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_59)
 
 *before* (`02006R1907-20081012`)
@@ -5264,7 +5256,7 @@ In paragraphs 2 and 3, the reference to an entry in Annex I of Directive 67/548/
 
 *within* `AR 62 PA 4 ALN 1 PTA (c)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In Article 62(4)(1)(c), the word "preparations" in the earlier version has been replaced by the word "mixtures" in the later version, describing the use of the substance in that context. [Art. 62, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_62) [Art. 62, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_62)
 
@@ -5309,7 +5301,7 @@ In Article 62(4)(1)(c), the word "preparations" in the earlier version has been 
 
 *within* `AR 65 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The word "preparation" in two places has been replaced with "mixture", referring to the substance combined with other substances. [Art. 65, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_65) [Art. 65, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_65)
 
@@ -5331,7 +5323,7 @@ The remainder of the text, including the reference to Directives 67/548/EEC and 
 
 *within* `AR 67 PA 1 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The term "a preparation" in the first paragraph has been replaced with "a mixture", while the remaining wording of paragraph 1 and the rest of Article 67 is unchanged. [Art. 67, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_67) [Art. 67, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_67)
 
@@ -5358,7 +5350,7 @@ The term "a preparation" in the first paragraph has been replaced with "a mixtur
 
 *within* `AR 68 PA 1 ALN 1`, `AR 68 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The term "preparations" in paragraph 1 was replaced with "mixtures". [Art. 68, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_68) [Art. 68, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_68)
 
@@ -5386,7 +5378,7 @@ The term "a preparation" in paragraph 2 was replaced with "a mixture". [Art. 68,
 
 *within* `AR 69 PA 1 ALN 1`, `AR 69 PA 4 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In paragraph 1, the word "preparation" has been replaced with "mixture" when describing the forms a substance can take. [Art. 69, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_69) [Art. 69, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_69)
 
@@ -5418,7 +5410,7 @@ In the first sentence of paragraph 4, the same substitution of "mixture" for "pr
 
 *within* `AR 72 PA 1 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In paragraph 1, the term "preparations" is replaced with "mixtures" when describing the substances covered by suggested restrictions. [Art. 72, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_72) [Art. 72, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_72)
 
@@ -5446,8 +5438,6 @@ The remaining wording of paragraph 1, and paragraphs 2 and 3, is otherwise uncha
 **MODIFIED · Art. 76 — Composition** · applies from: unchanged
 
 *within* `AR 76 PA 1 ALN 1 PTA (c)` · *amended by* `32008R1272`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In point (c) of paragraph 1, the reference to proposals for classification and labelling was changed from being made under Title XI of this Regulation to being made under Title V of Regulation (EC) No 1272/2008. [Art. 76, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_76) [Art. 76, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_76)
 
@@ -5488,8 +5478,6 @@ In point (c) of paragraph 1, the reference to proposals for classification and l
 **MODIFIED · Art. 77 — Tasks** · applies from: unchanged
 
 *within* `AR 77 PA 2 ALN 1 PTA (e)`, `AR 77 PA 2 ALN 1 PTA (i)`, `AR 77 PA 3 ALN 1 PTA (a)`, `AR 77 PA 3 ALN 1 PTA (c)` · *amended by* `32008R1272`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In point (e) of Article 77(2)(1), a reference to the harmonised classification and labelling list being established in accordance with Regulation (EC) No 1272/2008 has been added. [Art. 77, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_77) [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_77)
 
@@ -5537,7 +5525,7 @@ In point (a) of Article 77(3)(1), the range of Titles allotted to the Committees
 
 *within* `AR 109 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only change is the replacement of the word "preparations" with "mixtures" when describing the substances covered by the transparency rules. [Art. 109, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_109) [Art. 109, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_109)
 
@@ -5557,7 +5545,7 @@ The only change is the replacement of the word "preparations" with "mixtures" wh
 
 *within* `AR 118 PA 2 ALN 1 PTA (a)`, `AR 118 PA 2 ALN 1 PTA (b)`, `AR 118 PA 2 ALN 1 PTA (c)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In points (a), (b) and (c) of Article 118(2)(1), the word "preparation" is replaced with "mixture" wherever it appeared. [Art. 118, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_118) [Art. 118, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_118)
 
@@ -5603,7 +5591,7 @@ No other wording in these points or elsewhere in the article is altered. [Art. 1
 
 *within* `AR 119 PA 1 ALN 1`, `AR 119 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In both the introductory sentence of paragraph 1 and the introductory sentence of paragraph 2, the word 'preparations' was replaced with 'mixtures'. [Art. 119, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_119) [Art. 119, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_119)
 
@@ -5651,7 +5639,7 @@ In both the introductory sentence of paragraph 1 and the introductory sentence o
 
 *within* `AR 123 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The text replaces the word "preparations" with "mixtures" when describing the substances covered by the Agency's guidance on communicating risk and safe-use information. [Art. 123, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_123) [Art. 123, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_123)
 
@@ -5671,7 +5659,7 @@ The text replaces the word "preparations" with "mixtures" when describing the su
 
 *within* `AR 128 PA 1 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only textual change in Article 128(1) is the replacement of the word "preparation" with "mixture" when referring to a substance's form. [Art. 128, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_128) [Art. 128, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_128)
 
@@ -5695,7 +5683,7 @@ The only textual change in Article 128(1) is the replacement of the word "prepar
 
 *within* `AR 129 PA 1 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only substantive change in paragraph 1 is the replacement of the word "preparation" with "mixture" when referring to the substance context. [Art. 129, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#art_129) [Art. 129, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#art_129)
 
@@ -5729,21 +5717,11 @@ The remaining paragraph numbering and text of Article 129 are otherwise unchange
 > 4.
 > In the case of a decision as referred to in paragraph 2(a), the Commission shall consider whether this Regulation needs to be adapted.
 
-**INSERTED · Title XI** · applies from: unknown
-
-*amended by* `32008R1272`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex I — GENERAL PROVISIONS FOR ASSESSING SUBSTANCES AND PREPARING CHEMICAL SAFETY REPORTS** · applies from: unchanged
 
 *within* `AN I SCT 0`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The term "preparation" used in section 0.3 and the term "special preparation" used in section 0.11 have been replaced with "mixture" and "special mixture" respectively. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_I)
 
@@ -5774,7 +5752,7 @@ In section 0.6, the reference to a substance or the preparation meeting classifi
 
 *within* `AN II`, `AN II SCT 1`, `AN II SCT 1 SCT 1.1`, `AN II SCT 1 SCT 1.2`, `AN II SCT 1 SCT 1.3`, `AN II SCT 2`, `AN II SCT 3`, `AN II SCT 4`, `AN II SCT 5`, `AN II SCT 6`, `AN II SCT 7 SCT 7.1`, `AN II SCT 7 SCT 7.2`, `AN II SCT 8 SCT 8.1`, `AN II SCT 8 SCT 8.2 SCT 8.2.1`, `AN II SCT 8 SCT 8.2 SCT 8.2.1 PTA (b)`, `AN II SCT 9`, `AN II SCT 9 SCT 9.1`, `AN II SCT 9 SCT 9.2`, `AN II SCT 9 SCT 9.3`, `AN II SCT 10`, `AN II SCT 10 SCT 10.3`, `AN II SCT 11`, `AN II SCT 12`, `AN II SCT 12 SCT 12.1`, `AN II SCT 12 SCT 12.2`, `AN II SCT 12 SCT 12.3`, `AN II SCT 12 SCT 12.4`, `AN II SCT 13`, `AN II SCT 15`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Throughout Annex II, every occurrence of the word "preparation" or "preparations" has been replaced with "mixture" or "mixtures" across the introductory text and sections 1 through 15, including headings, subheadings and cross-references such as those in sections 1.1 to 1.3, 3.2 to 3.3, 7.1 to 7.2, 8.1 to 8.2.1, 9.1 to 9.3, 10.3, and 12.1 to 12.4. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_II)
 
@@ -5801,7 +5779,7 @@ Alongside this terminology substitution, the after text adds extra blank lines a
 
 *within* `AN III PTA (b) PTI (i)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In point (b)(i), the term used to describe dispersive or diffuse consumer uses was changed from 'consumer preparations' to 'consumer mixtures'. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_III)
 
@@ -5834,7 +5812,7 @@ In point (b)(i), the term used to describe dispersive or diffuse consumer uses w
 
 *within* `AN V PO 2`, `AN V PO 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In point 2, the word "preparation" was replaced with "mixture" when describing substances resulting from a chemical reaction incidental to storage of another substance or article. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_V)
 
@@ -5875,7 +5853,7 @@ In point 3, the word "preparations" was replaced with "mixtures" when describing
 
 *within* `AN VI SCT 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In section 3.4, the word "preparation" is replaced with "mixture" and "preparations" is replaced with "mixtures" when describing the form and concentration of the substance made available to downstream users. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_VI)
 
@@ -5907,7 +5885,7 @@ The rest of the Annex, including the guidance note, steps, notes and remaining i
 
 *within* `AN XII`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only textual change is in the introduction, where the word "preparation" describing how a substance may be used has been replaced with "mixture". [Annex XII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XII) [Annex XII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XII)
 
@@ -5935,8 +5913,6 @@ The only textual change is in the introduction, where the word "preparation" des
 **MODIFIED · Annex XV — DOSSIERS** · applies from: unchanged
 
 *within* `AN XV` · *amended by* `32008R1272`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of purposes for dossiers in the introduction now describes the identification item as covering CMRs, PBTs, vPvBs, or a substance of equivalent concern in accordance with Article 59, whereas the earlier version described this item as covering PBTs, vPvBs, or a substance of equivalent concern without mentioning CMRs or Article 59 there. [Annex XV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XV) [Annex XV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XV)
 
@@ -5999,8 +5975,6 @@ The remainder of the Annex, including the content-of-dossiers section, is unchan
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
 
 *within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 3`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6` · *amended by* `32008R1272`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Throughout the Annex the word 'preparations' has been replaced by 'mixtures', including in the Annex heading and in the column header describing the substances, groups of substances or mixtures covered. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
 
