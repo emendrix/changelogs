@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 18,
+    "modified": 17,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 18,
+    "touched_units": 17,
     "unchanged_units": 105,
-    "disputed": 18
+    "disputed": 17
   },
   "counts": {
-    "touched": 18,
+    "touched": 17,
     "substantive": 17,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 18,
+    "textless": 0,
+    "disputed": 17,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
     {
@@ -89,7 +89,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -205,7 +206,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -363,7 +365,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -457,7 +460,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -570,7 +574,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -696,7 +701,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -753,64 +759,6 @@
             "display_name": "Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC"
           },
           "version": "02016R2031-20191214",
-          "location": "AR 47"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R0625",
-            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "17 annotations in (the act itself, 2019-12-14]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 165",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32016R2031",
-            "display_name": "Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC"
-          },
-          "version": "02016R2031-20191214",
           "location": "AR 49"
         },
         "heading": "Temporary measures concerning plants, plant products and other objects likely to pose newly identified pest risks or other suspected phytosanitary risks",
@@ -854,7 +802,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -982,7 +931,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1127,7 +1077,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1253,7 +1204,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1379,7 +1331,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1473,7 +1426,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1567,7 +1521,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1661,7 +1616,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1755,7 +1711,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1861,7 +1818,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1979,7 +1937,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -2495,25 +2454,6 @@
         ]
       },
       {
-        "unit": "AR 47",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 49",
         "reason": "seen by structural_diff, corpus_metadata, not by instruction_parse",
         "observed_by": [
@@ -2783,7 +2723,8 @@
         ]
       }
     ],
-    "metadata_only_units": [
+    "metadata_only_units": [],
+    "instruction_only_units": [
       "AR 47"
     ]
   },
@@ -2839,6 +2780,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 18,
       "repaired": 18,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 18,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

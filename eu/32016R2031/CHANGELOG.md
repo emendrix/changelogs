@@ -648,9 +648,9 @@ Paragraph 6's list of provisions under which a delegated act is subject to the t
 ### `32016R2031` → `02016R2031-20191214`
 
 - **Act** `eu:32016R2031` · **In force** 2019-12-14 · **Detected** 2026-09-04
-- **Touched** 18 provisions — 17 substantive · 0 date-only · 1 with no text · **18 disputed**
-- **Diff** 0 inserted · 18 modified · 0 deleted · 0 renumbered · 0 deferred · 105 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 17 provisions — 17 substantive · 0 date-only · 0 with no text · **17 disputed**
+- **Diff** 0 inserted · 17 modified · 0 deleted · 0 renumbered · 0 deferred · 105 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32016R2031` · `v2` = `02016R2031-20191214`
 
 ---
@@ -659,7 +659,7 @@ Paragraph 6's list of provisions under which a delegated act is subject to the t
 
 *within* `AR 2 ALN 1 PO 6` · *dates* +2017-03-15 · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The definition of competent authority in point (6) was changed from a self-contained description naming the central authority or authorities of a Member State or third country responsible for organising official controls and other official activities, to a cross-reference pointing to the definition of competent authorities in Article 3(3) of Regulation (EU) 2017/625. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_2)
 
@@ -717,7 +717,7 @@ The later text also adds the full title and Official Journal citation details of
 
 *within* `AR 10 ALN 1`, `AR 10 ALN 2`, `AR 10 ALN 3`, `AR 10 ALN 4` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The provision now states that the required diagnosis must come from an official laboratory as referred to in Article 37 of Regulation (EU) 2017/625, rather than from an official laboratory designated by the competent authority under conditions set out in Union legislation on official controls, and this reference to the diagnosis basis has been merged into the first paragraph rather than being stated as a separate paragraph. [Art. 10, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_10) [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_10)
 
@@ -746,7 +746,7 @@ The paragraph on phytosanitary measures pending confirmation now refers to "the 
 
 *within* `AR 11 ALN 2` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The word describing the notification changed from singular to plural, and the reference identifying the single authority was changed from a general reference to Union legislation on official controls to a specific citation of Article 4(2) of Regulation (EU) 2017/625. [Art. 11, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_11) [Art. 11, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_11)
 
@@ -774,7 +774,7 @@ The word describing the notification changed from singular to plural, and the re
 
 *within* `AR 25 PA 2 ALN 1 PTA (a)` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point (a) now describes the trigger for the contingency plan as a confirmed or suspected presence of the priority pest, rather than an officially confirmed or suspected presence. [Art. 25, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_25) [Art. 25, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_25)
 
@@ -804,7 +804,7 @@ Point (a) also adds cross-references identifying the other public authorities as
 
 *within* `AR 41 PA 4 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 In Article 41(4), the reference to a violation of paragraph 1 is clarified to specify paragraph 1 of this Article. [Art. 41, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_41) [Art. 41, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_41)
 
@@ -836,7 +836,7 @@ The wording referring to the necessary measures under Union legislation on offic
 
 *within* `AR 44 PA 2 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The provision now specifies that the Commission's investigations in the third country are carried out in accordance with Article 120 of Regulation (EU) 2017/625, and adds a reference to paragraph 1 as being of this Article. [Art. 44, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_44)
 
@@ -862,21 +862,11 @@ The prior sentence stating that such investigations shall comply with requiremen
 > Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 107(2).
 > 2. Where appropriate, the Commission shall carry out investigations in the third country concerned and in accordance with Article 120 of Regulation (EU) 2017/625, to verify whether the conditions referred to in points (a) and (b) of the first subparagraph of paragraph 1 of this Article are fulfilled.
 
-**MODIFIED · Art. 47** · applies from: unknown
-
-*amended by* `32017R0625`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 49 — Temporary measures concerning plants, plant products and other objects likely to pose newly identified pest risks or other suspected phytosanitary risks** · applies from: unchanged
 
 *within* `AR 49 PA 6 ALN 3` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The third subparagraph now specifies the cross-references as Article 103 and paragraph 2 'of this Regulation' and 'of this Article' respectively, where the earlier text simply referred to Article 103 and paragraph 2 without that qualifying phrase. [Art. 49, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_49) [Art. 49, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_49)
 
@@ -912,7 +902,7 @@ The reference to measures taken on the plants, plant products or other objects c
 
 *within* `AR 76 PA 4 ALN 1`, `AR 76 PA 4 ALN 2`, `AR 76 PA 5 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The sentence on informing Member States and operators through the electronic notification system now adds a cross-reference to point (a) of Article 132 of Regulation (EU) 2017/625. [Art. 76, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_76)
 
@@ -948,7 +938,7 @@ The provision on electronic phytosanitary certificates no longer refers to a com
 
 *within* `AR 77 PA 1 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The phrase describing that the certificate no longer accompanies the plants, plant products or other objects was reworded without changing its meaning. [Art. 77, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_77) [Art. 77, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_77)
 
@@ -978,7 +968,7 @@ The reference for the measures the competent authority must take was changed fro
 
 *within* `AR 91 PA 1 ALN 2` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The only change is in paragraph 1, where the sentence about authorised operators implementing an approved pest risk management plan possibly being subject to inspections with a reduced frequency now adds a cross-reference to point (b) of Article 22(3) of Regulation (EU) 2017/625. [Art. 91, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_91) [Art. 91, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_91)
 
@@ -1019,7 +1009,7 @@ Paragraph 2 remains textually identical between the two versions. [Art. 91, v1](
 
 *within* `AR 94 PA 1 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The provision now specifies that the internal cross-references to Articles 87, 79(1), 80(1), 85 and 86 refer to this Regulation, and it replaces the earlier reference to checks by means of official controls at the border control post with a reference to checks under Article 49(1) of Regulation (EU) 2017/625. [Art. 94, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_94) [Art. 94, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_94)
 
@@ -1045,7 +1035,7 @@ The provision now specifies that the internal cross-references to Articles 87, 7
 
 *within* `AR 100 PA 5 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The only textual change is in paragraph 5, where the phrase describing the system through which electronic phytosanitary certificates for export are provided is changed from a description of a computerised information management system for official controls at Union level to a reference to the IMSOC. [Art. 100, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_100) [Art. 100, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_100)
 
@@ -1077,7 +1067,7 @@ The only textual change is in paragraph 5, where the phrase describing the syste
 
 *within* `AR 101 PA 6 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 6 now refers to electronic phytosanitary certificates for re-export being provided through, or in electronic exchange with, the IMSOC, replacing the earlier wording that described a computerised information management system for official controls at Union level. [Art. 101, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_101) [Art. 101, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_101)
 
@@ -1111,7 +1101,7 @@ Paragraph 6 now refers to electronic phytosanitary certificates for re-export be
 
 *within* `AR 102 PA 4 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 In paragraph 4, the reference to a computerised information management system for official controls at Union level has been replaced with a reference to the IMSOC. [Art. 102, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_102) [Art. 102, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_102)
 
@@ -1143,7 +1133,7 @@ In paragraph 4, the reference to a computerised information management system fo
 
 *within* `AR 103 ALN 2` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The second sentence of the provision changes its reference from a computerised information management system for official controls at Union level to the IMSOC. [Art. 103, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_103) [Art. 103, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_103)
 
@@ -1165,7 +1155,7 @@ The second sentence of the provision changes its reference from a computerised i
 
 *within* `AR 109 PA 1 ALN 1`, `AR 109 PA 1 ALN 1 PTA (a)`, `AR 109 PA 1 ALN 1 PTA (b)`, `AR 109 PA 1 ALN 1 PTA (c)`, `AR 109 PA 1 ALN 1 PTA (d)`, `AR 109 PA 1 ALN 1 PTA (e)`, `AR 109 PA 1 ALN 1 PTA (f)`, `AR 109 PA 1 ALN 1 PTA (g)`, `AR 109 PA 1 ALN 1 PTA (h)`, `AR 109 PA 1 ALN 1 PTA (i)`, `AR 109 PA 1 ALN 1 PTA (j)`, `AR 109 PA 1 ALN 1 PTA (k)`, `AR 109 PA 1 ALN 1 PTA (l)` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 1 no longer lists specific exempted provisions of Directive 2000/29/EC through points (a) to (l); instead it states that the repeal of that Directive is without prejudice to Article 165(2), (3) and (4) of Regulation (EU) 2017/625. [Art. 109, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#art_109) [Art. 109, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#art_109)
 
@@ -1215,7 +1205,7 @@ The list of excepted articles and annex that previously appeared in Art. 109(1)(
 
 *within* `AN VIII PTA (k)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The text of point (k) in Part B is unchanged in substance, with the only visible difference being that the checkbox symbol used before the words original, packed, repacked and additional inspection is rendered as an empty square character rather than the earlier boxed placeholder. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R2031#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R2031-20191214#anx_VIII)
 
