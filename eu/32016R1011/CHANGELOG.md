@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02016R1011-20250117` → `02016R1011-20260101`
 
 - **Act** `eu:32016R1011` · **In force** 2026-01-01 · **Detected** 2026-08-13
-- **Touched** 31 provisions — 26 substantive · 0 date-only · 5 with no text · **6 disputed**
-- **Diff** 1 inserted · 30 modified · 0 deleted · 0 renumbered · 0 deferred · 60 unchanged
-- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
+- **Touched** 30 provisions — 26 substantive · 0 date-only · 4 with no text · **5 disputed**
+- **Diff** 1 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 60 unchanged
+- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20250117` · `v2` = `02016R1011-20260101`
 
 ---
@@ -113,7 +113,7 @@ Similarly, the reference for an approved reporting mechanism was changed from po
 
 *amended by* `32025R0914`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -123,7 +123,7 @@ Similarly, the reference for an approved reporting mechanism was changed from po
 
 *amended by* `32025R0914`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -168,7 +168,7 @@ The earlier version required an explanation of how the methodology's key element
 
 *amended by* `32025R0914`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -230,7 +230,7 @@ Paragraph 2 no longer sets a 31 December 2022 deadline for the public consultati
 
 *within* `AR 19`, `AR 19 ALN 1`, `AR 19 PA 1`, `AR 19 PA 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The article's heading changes from a general reference to commodity benchmarks to a narrower one covering commodity benchmarks based on contributed input data. [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20250117#art_19) [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20260101#art_19)
 
@@ -818,7 +818,7 @@ The remainder of Article 51, including paragraphs 1 through 4b and the first two
 
 *amended by* `32025R0914`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -855,16 +855,6 @@ Paragraphs 1 through 7 remain unchanged between the two versions. [Art. 54, v1](
 > (c) the functioning and effectiveness of Article 19(2), in particular the scope of its application.
 > 2. The Commission shall review the evolution of international principles applicable to benchmarks and of legal frameworks and supervisory practices in third countries concerning the provision of benchmarks and report to the European Parliament and to the Council every five years after 1 January 2018. That report shall assess in particular whether there is a need to amend this Regulation and shall be accompanied by a legislative proposal, if appropriate.
 > 3. The Commission shall be empowered to adopt delegated acts in accordance with Article 49 in order to extend the 42-month period referred to in Article 51(2) by 24 months, if the report referred to in point (b) of paragraph 1 of this Article provides evidence that the transitional registration regime under Articl […truncated by emendrix: 2805 characters omitted…]
-
-**MODIFIED · TIS III** · applies from: unknown
-
-*amended by* `32025R0914`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R1011-20260101 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R1011-20250117 -->
