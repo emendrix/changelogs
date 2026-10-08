@@ -391,7 +391,7 @@ Both texts are truncated before their end, so any further differences beyond wha
 ### `02006R1907-20231201` → `02006R1907-20240606`
 
 - **Act** `eu:32006R1907` · **In force** 2024-06-06 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20231201` · `v2` = `02006R1907-20240606`
@@ -401,8 +401,6 @@ Both texts are truncated before their end, so any further differences beyond wha
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2026-06-06 +2027-06-06 +2031-06-06 +2034-06-06 · *amended by* `32024R1328`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of Union acts referenced at the start of the Annex gains one further entry, an additional citation to Regulation (EC) No 1223/2009 on cosmetic products described as a recast, alongside the earlier reference list. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20240606#anx_XVII)
 
