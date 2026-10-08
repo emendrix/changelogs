@@ -829,9 +829,9 @@ It also directs the Commission to adopt delegated acts specifying the reduced co
 ### `02017R1129-20240109` → `02017R1129-20241204`
 
 - **Act** `eu:32017R1129` · **In force** 2024-12-04 · **Detected** 2026-08-13
-- **Touched** 39 provisions — 32 substantive · 0 date-only · 7 with no text · **16 disputed**
-- **Diff** 5 inserted · 31 modified · 3 deleted · 0 renumbered · 0 deferred · 30 unchanged
-- **Gate** 1 sentences quoted verbatim · 7 changes shipped without an explanation
+- **Touched** 34 provisions — 32 substantive · 0 date-only · 2 with no text · **11 disputed**
+- **Diff** 4 inserted · 29 modified · 1 deleted · 0 renumbered · 0 deferred · 30 unchanged
+- **Gate** 1 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02017R1129-20240109` · `v2` = `02017R1129-20241204`
 
 ---
@@ -906,16 +906,6 @@ The former definition of durable medium in point (z) was replaced with a new def
 > (d) offer of securities to the public means a communication to persons in any form and by any means, presenting sufficient information on the terms of the offer and the securities to be offered, so as to enable an investor to decide to purchase or subscribe for those securities. This definition also applies to the placing of securities through financial intermediaries;
 > (da) restructuring means restructuring as defined in Article 2(1), point (1), of Directive (EU) 2019/1023 of the European Parliament and of the Council
 > Directive (EU) 2019/1023 of the European Parliament and of the Council of […truncated by emendrix: 6817 characters omitted…]
-
-**MODIFIED · Art. 3** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 4 — Voluntary prospectus** · applies from: unchanged
 
@@ -1007,7 +997,7 @@ The list of cross-referenced provisions in paragraph 1's introductory clause was
 
 *within* `AR 7 PA 14`, `AR 7 PA 15` · *dates* +2025-12-05 · *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The after text adds a new paragraph 14 directing ESMA to develop guidelines on comprehensibility and on the use of plain language in summaries so that the information provided is concise, clear and user friendly. [Art. 7, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#art_7)
 
@@ -1131,46 +1121,6 @@ Instead, the revised text states only that those delegated acts shall comply wit
 > (d) where applicable, the public nature of the issuer;
 > (e) where applicable, the specific nature of the activities of the issuer.
 > For the purposes of point (b) of the second subparagraph, when setting out the various prospectus schedules, the Commission shall set out specific information requirements for prospectuses that relate to the admission to trading on a regulated market of non-equity secur […truncated by emendrix: 1443 characters omitted…]
-
-**DELETED · Art. 14** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 14a** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**DELETED · Art. 15** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 15a** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 16 — Risk factors** · applies from: unchanged
 
@@ -1569,7 +1519,7 @@ A new paragraph 3 was added requiring ESMA to include, in addition to the paragr
 
 *amended by* `32024R2809`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1628,7 +1578,7 @@ It further states that, as a derogation, prospectuses approved under Article 14 
 
 *within* `AN I`, `AN I PTA (a)`, `AN I PTA (b)`, `AN I PTA (i)`, `AN I PTA (ii)`, `AN I PTA (iii)`, `AN I PTA (iv)`, `AN I PTA (v)`, `AN I PTA (vi)`, `AN I PTA (vii)`, `AN I PTA (viii)`, `AN I PTA (ix)`, `AN I PTA (x)`, `AN I PTA (xi)` · *dates* +2024-10-23 · *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The annex's list of prospectus sections has been rewritten entirely, replacing the earlier eleven headings (Identity of directors, Offer statistics, Essential information, Information on the company, Operating and financial review, Directors and employees, Major shareholders, Financial information, Details of the offer, Additional information) with a new set of seventeen headings covering topics such as purpose and persons responsible, strategy and performance, management report including sustainability reporting, working capital statement, risk factors, terms and conditions of securities, ESG-related information, corporate governance, shareholder and security holder information, dividend policy, guarantor information, underlying securities information, consent information, and documents available. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_I)
 
@@ -1672,7 +1622,7 @@ The financial information section's description of the periods to be covered by 
 
 *within* `AN II`, `AN II PTA (a)`, `AN II PTA (b)`, `AN II PTA (i)`, `AN II PTA (ii)`, `AN II PTA (iii)`, `AN II PTA (iv)`, `AN II PTA (v)`, `AN II PTA (vi)`, `AN II PTA (vii)`, `AN II PTA (viii)` · *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of sections in Annex II is restructured, replacing the eight roman-numeral headings on directors and senior management, essential information, company information, operating and financial review, directors and employees, major shareholders and related-party transactions, financial information, and additional information with a new set of nine headings covering purpose and responsible persons, strategy and business environment, management report including sustainability reporting, risk factors, corporate governance, financial information, shareholder and security holder information, dividend policy, and documents available. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_II)
 
@@ -1717,7 +1667,7 @@ The lettered sub-points that previously appeared under most headings (such as A 
 
 *within* `AN III`, `AN III PTA (i)`, `AN III PTA (ii)`, `AN III PTA (iii)`, `AN III PTA (iv)`, `AN III PTA (v)`, `AN III PTA (vi)`, `AN III PTA (vii)` · *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The seven-section structure of Annex III has been replaced with a nine-section structure, with new headings and purpose statements covering topics such as terms and conditions of the securities, ESG-related information, information on the guarantor, information on underlying securities, and information on consent. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_III)
 
@@ -1767,7 +1717,7 @@ The later text also adds a reference stating that, where applicable, the terms a
 
 *within* `AN IV`, `AN IV PTI (i)`, `AN IV PTI (ii)`, `AN IV PTI (iii)`, `AN IV PTI (iv)`, `AN IV PTI (v)`, `AN IV PTI (vi)`, `AN IV PTA (i)`, `AN IV PTA (ii)`, `AN IV PTA (iii)`, `AN IV PTA (iv)`, `AN IV PTA (v)`, `AN IV PTA (vi)` · *dates* +2006-05-17 +2014-04-16 · *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The annex's heading and entire content changed from the registration document for the EU Growth prospectus to the information required for the EU Follow-on prospectus for shares and equivalent transferable securities. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_IV)
 
@@ -1807,7 +1757,7 @@ The after text also incorporates specific references to dated instruments, inclu
 
 *within* `AN V`, `AN V SCT 1`, `AN V SCT 2`, `AN V PTI (i)`, `AN V PTI (ii)`, `AN V PTI (iii)`, `AN V PTI (iv)`, `AN V PTI (v)`, `AN V PTI (vi)`, `AN V PTI (vii)`, `AN V PTA (a)`, `AN V PTA (b)`, `AN V PTA (i)`, `AN V PTA (ii)`, `AN V PTA (iii)`, `AN V PTA (iv)`, `AN V PTA (v)` · *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The annex's heading changed from describing a securities note for the EU Growth prospectus to describing information for the EU Follow-on prospectus for securities other than shares or equivalent transferable securities. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_V) [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20240109#anx_V)
 
@@ -1844,7 +1794,7 @@ The later text introduces numbered and lettered sub-points, such as items (i) th
 
 *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 This annex is newly added and sets out the categories of information required in the EU Growth issuance prospectus for shares and equivalent transferable securities, covering topics from the summary and issuer identification through risk factors, financial information, offer details, use of proceeds, working capital, conflicts of interest, dilution and available documents. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_VII)
 
@@ -1865,7 +1815,7 @@ This annex is newly added and sets out the categories of information required in
 
 *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 This Annex is newly added and sets out a complete list of headings and content requirements for an EU Growth issuance prospectus covering securities other than shares, including sections on the issuer, responsibility statements, risk factors, business strategy, corporate governance, financial information, offer details, essential securities information, use of proceeds, conflicts of interest, and documents available for inspection. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_VIII)
 
@@ -1887,7 +1837,7 @@ This Annex is newly added and sets out a complete list of headings and content r
 
 *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex IX is newly added, setting out a list of information items to be included in the document referred to in Article 1(4), first subparagraph, points (da) and (db), and in Article 1(5), first subparagraph, point (ba), covering matters such as issuer identification, a responsibility declaration, the competent authority and non-prospectus status, compliance with reporting obligations, availability of regulated information, inside information disclosure, reasons for issuance, risk factors, securities characteristics, dilution, offer terms, and admission to trading on other markets. [Annex IX, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20241204#anx_IX)
 
@@ -1906,7 +1856,7 @@ Annex IX is newly added, setting out a list of information items to be included 
 
 *amended by* `32024R2809`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
