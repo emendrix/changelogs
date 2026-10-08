@@ -925,7 +925,7 @@ Part 2 is restructured into a numbered list of four entries, adding an EC number
 ### `02012R0649-20160201` → `02012R0649-20180401`
 
 - **Act** `eu:32012R0649` · **In force** 2018-04-01 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20160201` · `v2` = `02012R0649-20180401`
@@ -935,8 +935,6 @@ Part 2 is restructured into a numbered list of four entries, adding an EC number
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32018R0172`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Part 1 of the Annex gains new chemical entries not present before, including 3-decen-2-one, 5-tert-butyl-2,4,6-trinitro-m-xylene, benzyl butyl phthalate, diarsenic pentaoxide, diisobutyl phthalate, cybutryne, tepraloxydim, triclosan, triflumuron, and tris (2-chloroethyl) phosphate, each with its CAS, Einecs and CN code data. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20180401#anx_I)
 
@@ -979,8 +977,6 @@ In Part 3, the entry for Methamidophos changes its CN code from 29305000 to ex29
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32018R0172`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Part 1 of the list of persistent organic pollutants subject to export ban now includes additional entries not present before, namely Hexabromocyclododecane, Hexachlorobutadiene, and Polychlorinated naphthalenes, each with its own EC, CAS and CN code identifiers. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20160201#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20180401#anx_V)
 
