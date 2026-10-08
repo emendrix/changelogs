@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *amended by* `32023R2845`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -56,7 +56,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 15 ALN 1`, `AR 15 PA 1`, `AR 15 PA 2` · *amended by* `32023R2845`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The provision no longer contains a separate numbered paragraph 2 requiring daily payments from a person who fails to deliver shares by settlement date, nor the following sentence requiring those payments to be sufficiently high to act as a deterrent. [Art. 15, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240109#art_15) [Art. 15, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0236-20240116#art_15)
 
