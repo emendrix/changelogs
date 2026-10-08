@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 1,
-    "modified": 5,
+    "modified": 4,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 6,
+    "touched_units": 5,
     "unchanged_units": 284,
-    "disputed": 6
+    "disputed": 5
   },
   "counts": {
-    "touched": 6,
+    "touched": 5,
     "substantive": 4,
     "date_only": 0,
-    "textless": 2,
-    "disputed": 6,
+    "textless": 1,
+    "disputed": 5,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -92,7 +92,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -181,64 +182,6 @@
             "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
           },
           "version": "02016R0429-20191214",
-          "location": "AR 14"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32017R0625",
-            "display_name": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "6 annotations in (2016-03-31, 2019-12-14]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 164",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32016R0429",
-            "display_name": "Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (Text with EEA relevance)"
-          },
-          "version": "02016R0429-20191214",
           "location": "AR 81"
         },
         "heading": "Disease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals",
@@ -274,7 +217,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -360,7 +304,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -454,7 +399,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -545,7 +491,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -737,25 +684,6 @@
         ]
       },
       {
-        "unit": "AR 14",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 81",
         "reason": "seen by structural_diff, not by corpus_metadata, instruction_parse",
         "observed_by": [
@@ -839,8 +767,10 @@
       }
     ],
     "metadata_only_units": [
-      "AR 14",
       "AR 281"
+    ],
+    "instruction_only_units": [
+      "AR 14"
     ]
   },
   "explain": {
@@ -895,6 +825,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 6,
       "repaired": 6,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 6,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

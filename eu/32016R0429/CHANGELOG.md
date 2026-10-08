@@ -124,9 +124,9 @@ Several diseases present in the earlier list, such as swine vesicular disease, T
 ### `02016R0429-20160331` → `02016R0429-20191214`
 
 - **Act** `eu:32016R0429` · **In force** 2019-12-14 · **Detected** 2026-09-04
-- **Touched** 6 provisions — 4 substantive · 0 date-only · 2 with no text · **6 disputed**
-- **Diff** 1 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 284 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 5 provisions — 4 substantive · 0 date-only · 1 with no text · **5 disputed**
+- **Diff** 1 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 284 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02016R0429-20160331` · `v2` = `02016R0429-20191214`
 
 ---
@@ -135,7 +135,7 @@ Several diseases present in the earlier list, such as swine vesicular disease, T
 
 *within* `AR 4 ALN 1 PO 33`, `AR 4 ALN 1 PO 51`, `AR 4 ALN 1 PO 53`, `AR 4 ALN 1 PO 55` · *dates* +2017-03-15 · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The definition of official control in point (33) changed from control carried out by a competent authority for verifying compliance with this Regulation to control performed in accordance with Regulation (EU) 2017/625, with a full citation of that regulation added. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_4)
 
@@ -189,21 +189,11 @@ The definition of official veterinarian in point (53) changed from a veterinaria
 > (iii) other products;
 > (b) restocki […truncated by emendrix: 11288 characters omitted…]
 
-**MODIFIED · Art. 14** · applies from: unknown
-
-*amended by* `32017R0625`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 81 — Disease control measures for listed diseases as referred to in point (b) of Article 9(1) in wild animals** · applies from: unchanged
 
 *within* `AR 81 ALN 1 PTA (a)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 In point (a), the cross-reference to the compulsory eradication programme was changed from Article 30(1) to Article 31(1), matching the reference already used in point (b). [Art. 81, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_81) [Art. 81, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_81)
 
@@ -227,7 +217,7 @@ In point (a), the cross-reference to the compulsory eradication programme was ch
 
 *within* `AR 227 ALN 1 PTA (d) PTI (iii)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 In point (d)(iii), the cross-reference to Article 165 has been replaced with a reference to Article 167, while the accompanying reference to Article 168 remains unchanged. [Art. 227, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_227) [Art. 227, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_227)
 
@@ -257,7 +247,7 @@ In point (d)(iii), the cross-reference to Article 165 has been replaced with a r
 
 *within* `AR 229 PA 2 ALN 1` · *amended by* `32017R0625`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 In paragraph 2, the reference to official control under Article 3 of Directive 91/496/EEC and Article 3 of Directive 97/78/EC has been replaced with a reference to Article 47 of Regulation (EU) 2017/625. [Art. 229, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20160331#art_229) [Art. 229, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0429-20191214#art_229)
 
@@ -287,7 +277,7 @@ In paragraph 2, the reference to official control under Article 3 of Directive 9
 
 *amended by* `32017R0625`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
