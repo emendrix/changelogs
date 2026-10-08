@@ -1276,7 +1276,7 @@ The transitional arrangements for these same four entries have been expanded to 
 ### `02006R1907-20210215` → `02006R1907-20210705`
 
 - **Act** `eu:32006R1907` · **In force** 2021-07-05 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20210215` · `v2` = `02006R1907-20210705`
@@ -1286,8 +1286,6 @@ The transitional arrangements for these same four entries have been expanded to 
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unchanged
 
 *within* `AN XVII APP 2`, `AN XVII APP 6` · *amended by* `32020R2096`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
