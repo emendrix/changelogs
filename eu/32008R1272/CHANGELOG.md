@@ -7276,11 +7276,11 @@ Because both provided texts are truncated before the table concludes, only these
 
 ---
 
-**MODIFIED · Art. 14.2** · applies from: unknown
+**MODIFIED · Art. 14** · applies from: unknown
 
 *amended by* `32013R0487`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -7290,7 +7290,7 @@ Because both provided texts are truncated before the table concludes, only these
 
 *amended by* `32013R0487`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -7376,7 +7376,7 @@ Because both provided texts are truncated before the table concludes, only these
 
 *amended by* `32013R0487`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -7704,7 +7704,7 @@ Both versions being shown are truncated before the full extent of the added or c
 
 *amended by* `32013R0487`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -7768,7 +7768,7 @@ The text shown is truncated at the same point in both versions, so further diffe
 
 *amended by* `32013R0487`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 

@@ -44,7 +44,7 @@
             "display_name": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)"
           },
           "version": "02008R1272-20131201",
-          "location": "AR 14.2"
+          "location": "AR 14"
         },
         "heading": null,
         "before": null,
@@ -82,7 +82,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -140,7 +141,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -208,7 +210,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -266,7 +269,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -334,7 +338,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -476,7 +481,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -586,7 +592,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -662,7 +669,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -804,7 +812,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -838,7 +847,7 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AR 14.2",
+          "AR 14",
           "AR 23",
           "AN I",
           "AN II",
@@ -961,7 +970,7 @@
             }
           },
           {
-            "location": "AR 14.2 PO C)",
+            "location": "AR 14 PO C)",
             "change_type": null,
             "in_force": "2013-06-21",
             "source": "32013R0487 SU",
@@ -1073,7 +1082,7 @@
     ],
     "disagreements": [
       {
-        "unit": "AR 14.2",
+        "unit": "AR 14",
         "reason": "seen by corpus_metadata, not by structural_diff",
         "observed_by": [
           "corpus_metadata"
@@ -1157,12 +1166,13 @@
       }
     ],
     "metadata_only_units": [
-      "AR 14.2",
+      "AR 14",
       "AR 23",
       "AN II",
       "AN V",
       "AN VII"
-    ]
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1238,6 +1248,20 @@
         "schema_repairs": 1
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 9,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
