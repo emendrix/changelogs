@@ -2226,9 +2226,9 @@ Section 3.6's heading changes from referring to a mixture's composition conformi
 ### `02008R1272-20231201` → `02008R1272-20241210`
 
 - **Act** `eu:32008R1272` · **In force** 2024-12-10 · **Detected** 2026-09-04
-- **Touched** 40 provisions — 37 substantive · 0 date-only · 3 with no text · **22 disputed**
-- **Diff** 4 inserted · 36 modified · 0 deleted · 0 renumbered · 0 deferred · 38 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Touched** 38 provisions — 37 substantive · 0 date-only · 1 with no text · **20 disputed**
+- **Diff** 2 inserted · 36 modified · 0 deleted · 0 renumbered · 0 deferred · 38 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20231201` · `v2` = `02008R1272-20241210`
 
 ---
@@ -2237,7 +2237,7 @@ Section 3.6's heading changes from referring to a mixture's composition conformi
 
 *within* `AR 1 PA 1 ALN 1 PTA (e)`, `AR 1 PA 1 ALN 1 PTA (f)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 Point (e) now ends with a semicolon instead of a full stop, and a new point (f) is added imposing an obligation on downstream users, importers and distributors referred to in Article 45(1b) and (1c) to submit information relevant to an adequate emergency health response to appointed bodies in accordance with Annex VIII. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_1)
 
@@ -2316,7 +2316,7 @@ The prior version ended its list of definitions at intermediate packaging, with 
 
 *within* `AR 4 PA 3 ALN 1`, `AR 4 PA 3 ALN 2`, `AR 4 PA 3 ALN 3` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 3 now states that the exemption from Title II classification for hazard classes or differentiations covered by a harmonised entry in Part 3 of Annex VI also extends to forms or physical states covered by that entry. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_4) [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#art_4)
 
@@ -2353,7 +2353,7 @@ The following sentence, describing when Title II classification must still be ca
 
 *within* `AR 5 PA 1 ALN 1 PTA (ca)`, `AR 5 PA 3`, `AR 5 PA 4`, `AR 5 PA 5`, `AR 5 PA 6`, `AR 5 PA 7`, `AR 5 PA 8` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The list of information to be identified under paragraph 1 now includes a new point covering data obtained from new approach methodologies, inserted between the point on Annex XI information and the point on new scientific information. [Art. 5, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_5)
 
@@ -2393,7 +2393,7 @@ The original text of paragraphs 1 and 2 remains present in both versions without
 
 *within* `AR 6 PA 3 ALN 1`, `AR 6 PA 3 ALN 2`, `AR 6 PA 4 ALN 1` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 3 now lists endocrine disruption for human health and endocrine disruption for the environment alongside germ cell mutagenicity, carcinogenicity and reproductive toxicity, adding references to sections 3.11.3.1 and 4.2.3.1 of Annex I, and it now states that the substance-based information is to be used and not the information on the mixture itself, with the second subparagraph correspondingly extended to cover endocrine disruption effects. [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_6)
 
@@ -2427,7 +2427,7 @@ Paragraph 4 adds persistency and mobility to the biodegradation and bioaccumulat
 
 *within* `AR 9 PA 3 ALN 1`, `AR 9 PA 4 ALN 1`, `AR 9 PA 4 ALN 2`, `AR 9 PA 4 ALN 3` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 3 now specifies that the criteria that cannot be applied directly are those referred to in paragraph 1, whereas the earlier text referred to "the criteria" without that cross-reference. [Art. 9, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#art_9) [Art. 9, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_9)
 
@@ -2455,7 +2455,7 @@ Paragraph 4 has been rewritten from a rule tied to information under Article 6(5
 
 *within* `AR 10`, `AR 10 PA 1 ALN 1`, `AR 10 PA 1 ALN 2`, `AR 10 PA 1 ALN 3`, `AR 10 PA 2 ALN 1`, `AR 10 PA 3 ALN 1`, `AR 10 PA 4 ALN 1`, `AR 10 PA 5 ALN 1`, `AR 10 PA 5 ALN 2`, `AR 10 PA 6 ALN 1`, `AR 10 PA 7 ALN 1`, `AR 10 PA 8`, `AR 10 PA 9`, `AR 10 PA 10`, `AR 10 PA 11` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The article's heading and text now add acute toxicity estimates alongside concentration limits and M-factors, with a new paragraph 3 requiring manufacturers, importers and downstream users to establish acute toxicity estimates for substances classified as acutely toxic for human health, and a corresponding derogation paragraph 6 for such estimates when harmonised values appear in Part 3 of Annex VI. [Art. 10, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_10)
 
@@ -2512,7 +2512,7 @@ In point (b), the cross-reference to point (a) was reworded from "(a)" to "point
 
 *within* `AR 18 PA 3 ALN 1 PTA (b)` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 18(3)(b) now lists additional hazard categories whose contributing substances must be identified, adding persistent, bioaccumulative and toxic; very persistent and very bioaccumulative; persistent, mobile and toxic; very persistent and very mobile properties; and endocrine disruption for human health or the environment, alongside the hazard categories already listed. [Art. 18, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_18)
 
@@ -2644,7 +2644,7 @@ A new paragraph 9 has been added stating that label elements resulting from requ
 
 *within* `AR 29 PA 1 ALN 1`, `AR 29 PA 3 ALN 1`, `AR 29 PA 4b` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 1 now refers to the label elements set out in Article 17(1) instead of those under the first subparagraph of Article 17(2). [Art. 29, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#art_29) [Art. 29, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_29)
 
@@ -2676,7 +2676,7 @@ A new paragraph 4b has been added, setting out a derogation from the Article 17(
 
 *within* `AR 30 PA 1 ALN 1`, `AR 30 PA 2 ALN 1`, `AR 30 PA 3 ALN 1`, `AR 30 PA 4` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 1 now ties the trigger for updating a label to a change resulting in a new hazard class or a more severe classification, or a need for new supplemental information under Article 25, and sets a deadline of no later than 6 months after the results of the new evaluation referred to in Article 15(4) are obtained by or communicated to the supplier, replacing the earlier wording that referred to a more severe hazard or new supplemental labelling elements without a fixed time limit tied to that evaluation. [Art. 30, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#art_30) [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_30)
 
@@ -2705,7 +2705,7 @@ A new paragraph 3 excludes changes triggered by a harmonised classification and 
 
 *within* `AR 31 PA 1 ALN 1`, `AR 31 PA 3 ALN 1` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The provision now adds a sentence stating that the label may be presented in the form of a fold-out label. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_31)
 
@@ -2735,27 +2735,7 @@ The text on label elements standing out from the background now specifies that t
 
 *amended by* `32024R2865`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 34a** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 34b** · applies from: unknown
-
-*amended by* `32024R2865`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -2765,7 +2745,7 @@ The text on label elements standing out from the background now specifies that t
 
 *within* `AR 35 PA 2a` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new paragraph 2a is added, stating that hazardous substances or mixtures may be supplied to consumers and professional users via refill stations only if the conditions in section 3.4 of Annex II are fulfilled. [Art. 35, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_35)
 
@@ -2903,7 +2883,7 @@ Point (c) of Article 38(1) now also lists acute toxicity estimates alongside spe
 
 *within* `AR 40 PA 1 ALN 1`, `AR 40 PA 1 ALN 1 PTA (e)`, `AR 40 PA 1 ALN 1 PTA (f)`, `AR 40 PA 1 ALN 1 PTA (g)`, `AR 40 PA 1 ALN 1 PTA (h)`, `AR 40 PA 2 ALN 1` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Point (e) now also covers acute toxicity estimates alongside specific concentration limits and M-factors, and its justification requirement is phrased as referring to the relevant parts of Annex I instead of using the relevant parts of Annex I. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#art_40) [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_40)
 
@@ -2941,7 +2921,7 @@ Paragraph 2 no longer speaks of updating and notifying information when a classi
 
 *within* `AR 42 PA 1 ALN 1`, `AR 42 PA 1 ALN 1 PTA (a)`, `AR 42 PA 1 ALN 1 PTA (b)`, `AR 42 PA 1 ALN 1 PTA (c)`, `AR 42 PA 1 ALN 1 PTA (d)` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 1 now sets out a list of four categories of information that the Agency must make publicly available online and free of charge, covering the notified identity information under Article 40(1)(a), the identity of the importer or manufacturer submitting a group notification, the information corresponding to Article 119(1) of Regulation (EC) No 1907/2006, and the date of the latest update of the classification and labelling. [Art. 42, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_42)
 
@@ -3042,7 +3022,7 @@ Paragraphs 1, 2 and 3 remain worded as they were in the earlier version. [Art. 4
 
 *within* `AR 48 PA 1 ALN 1`, `AR 48 PA 2 ALN 1`, `AR 48 PA 3`, `AR 48 PA 4` · *dates* -1997-05-20 · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The requirement for advertisements of hazardous substances shifted from mentioning hazard classes or categories to indicating hazard pictograms, signal words, hazard statements and supplemental EUH statements from Annex II, with an added statement directing sale-to-the-general-public advertisements to note that the product label information should always be followed. [Art. 48, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#art_48) [Art. 48, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_48)
 
@@ -3072,7 +3052,7 @@ Two new paragraphs were added: one prohibiting advertisements from containing st
 
 *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 48a has been added, requiring that when substances or mixtures are offered for sale via distance sales, the offer must clearly and visibly show the label elements referred to in Article 17. [Art. 48a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#art_48a)
 
@@ -3292,7 +3272,7 @@ Paragraph 8 makes a parallel statement for substances and mixtures classified, l
 
 *within* `AN I SCT 1 SCT 1.1 SCT 1.1.1`, `AN I SCT 1 SCT 1.3 SCT 1.3.7`, `AN I SCT 1 SCT 1.5 SCT 1.5.1`, `AN I SCT 1 SCT 1.5 SCT 1.5.1 PTA (a)`, `AN I SCT 1 SCT 1.5 SCT 1.5.1 PTA (b)`, `AN I SCT 1 SCT 1.5 SCT 1.5.1 PTA (c)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (a)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (i)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (ii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (iii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (iv)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (v)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (vi)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (vii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (viii)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (ix)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (x)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (b) PTI (xi)`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (c)`, `AN I SCT 1 SCT 1.6` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 1.1.1.3 now describes weight of evidence determination with separated treatment of substance-related information (including category approach and (Q)SAR results) and mixture-related information tied to Article 9(4), and adds explicit mention of site of action and mechanism or mode of action study results, replacing the earlier single combined description. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#anx_I)
 
@@ -3346,7 +3326,7 @@ Section 1.5.1 has been reworded to remove the fold-out label option and to requi
 
 *within* `AN II SCT 3 SCT 3.4`, `AN II SCT 5`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 A new section 3.4 has been added setting out conditions that a supplier must ensure are met when hazardous substances or mixtures are supplied through refill stations, covering matters such as labelling of the refill station, risk mitigation, staff training, and exclusion of certain hazard classes from refill supply. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_II)
 
@@ -3400,7 +3380,7 @@ Part 5 has been changed from a bare list heading naming only ready mixed cement 
 
 *within* `AN VI SCT 2`, `AN VI SCT 3` · *amended by* `32024R2865`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 2 now adds a new dossier component requiring a scientific justification where a harmonised classification and labelling proposal is made for a group of substances, alongside the existing proposal and justification elements. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VI)
 
@@ -3438,7 +3418,7 @@ That paragraph also now refers to the Union level rather than Community level an
 
 *within* `AN VIII`, `AN VIII SCT 1`, `AN VIII SCT 2`, `AN VIII SCT 2 PO 5`, `AN VIII SCT 2 PO 6`, `AN VIII SCT 3.1`, `AN VIII SCT 3.6`, `AN VIII SCT 3.7`, `AN VIII SCT 4.1`, `AN VIII SCT 1.4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The revised Annex extends the application, purpose and derogation provisions of Part A sections 1 and 2 to distributors referred to in Article 45(1b) and (1c), in addition to importers and downstream users, and adds a new definition of a composition conforming with a standard formula in section 2.4. [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VIII)
 
