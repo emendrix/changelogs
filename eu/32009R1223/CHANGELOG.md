@@ -2677,7 +2677,7 @@ Entry 23 for Bisoctrizole/Methylene Bis-Benzotriazolyl Tetramethylbutylphenol is
 ### `02009R1223-20170903` → `02009R1223-20171225`
 
 - **Act** `eu:32009R1223` · **In force** 2017-12-25 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20170903` · `v2` = `02009R1223-20171225`
@@ -2687,8 +2687,6 @@ Entry 23 for Bisoctrizole/Methylene Bis-Benzotriazolyl Tetramethylbutylphenol is
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2018-09-25 +2018-12-25 · *amended by* `32017R2228`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The later text adds two new explanatory notes concerning peanut oil, extracts and derivatives, and hydrolyzed wheat proteins, each stating that cosmetic products containing the substance and not complying with the stated restriction shall not be placed on the Union market from 25 September 2018 and shall not be made available on the Union market from 25 December 2018. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20171225#anx_III)
 
