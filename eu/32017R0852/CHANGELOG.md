@@ -244,7 +244,7 @@ The remaining entries and Part B text are unchanged between the two versions. [A
 ### `02017R0852-20221225` → `02017R0852-20231016`
 
 - **Act** `eu:32017R0852` · **In force** 2023-10-16 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02017R0852-20221225` · `v2` = `02017R0852-20231016`
@@ -254,8 +254,6 @@ The remaining entries and Part B text are unchanged between the two versions. [A
 **MODIFIED · Annex II — ANNEX II** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II` · *dates* +2025-12-31 · *amended by* `32023R2049`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The Part A table in Annex II gains new entries not present before: entry 3a covering integrated-ballast compact fluorescent lamps with a 31.12.2025 prohibition date, entry 6a covering cold cathode and external electrode fluorescent lamps of all lengths not covered by entry 6, also dated 31.12.2025, entry 10 covering certain electrical and electronic melt pressure measuring devices with the same 31.12.2025 date, and entry 11 listing other mercury-added products such as mercury vacuum pumps, tyre balancers and wheel weights, photographic film and paper, and propellant for satellites and spacecraft, also dated 31.12.2025. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20221225#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0852-20231016#anx_II)
 
