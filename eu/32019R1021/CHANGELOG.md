@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02019R1021-20260101` → `02019R1021-20260930`
 
 - **Act** `eu:32019R1021` · **In force** 2026-09-30 · **Detected** 2026-09-23
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 30 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20260101` · `v2` = `02019R1021-20260930`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32026R1423`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The later version adds a new substance entry for Chlorpyrifos, listing its CAS number 2921-88-2 and EC number 220-864-4, at the end of Part A before Part B. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260930#anx_I)
 
