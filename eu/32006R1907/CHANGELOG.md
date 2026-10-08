@@ -4312,18 +4312,16 @@ The visible text is cut off before the rest of the differences across the listed
 ### `02006R1907-20090220` → `02006R1907-20090627`
 
 - **Act** `eu:32006R1907` · **In force** 2009-06-27 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 1 substantive · 0 date-only · 1 with no text · **2 disputed**
-- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20090220` · `v2` = `02006R1907-20090627`
 
 ---
 
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
-*within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 3`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6`, `AN XVII APP 8`, `AN XVII APP 9`, `AN XVII APP 10` · *dates* -1975-05-20 -1985-10-01 -1986-06-30 -1987-07-23 -1991-12-12 -2007-06-15 -2008-01-01 -2008-12-31 +2002-03-18 +2003-05-26 +2003-07-17 +2004-08-15 +2006-12-27 +2007-09-05 +2007-09-30 +2007-10-03 +2008-06-27 +2009-04-03 +2009-10-03 +2010-06-27 +2010-12-27 +2011-06-01 +2011-06-27 +2014-07-01
-
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+*within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 3`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6`, `AN XVII APP 8`, `AN XVII APP 9`, `AN XVII APP 10` · *dates* -1975-05-20 -1985-10-01 -1986-06-30 -1987-07-23 -1991-12-12 -2007-06-15 -2008-01-01 -2008-12-31 +2002-03-18 +2003-05-26 +2003-07-17 +2004-08-15 +2006-12-27 +2007-09-05 +2007-09-30 +2007-10-03 +2008-06-27 +2009-04-03 +2009-10-03 +2010-06-27 +2010-12-27 +2011-06-01 +2011-06-27 +2014-07-01 · *amended by* `32009R0552`
 
 The annex's introductory material and footnote references have been replaced, adding a new export-related exemption statement and a different set of Official Journal citations in place of the earlier ones. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
 
@@ -4376,16 +4374,6 @@ The appendices listed as differing (1 through 10, excluding 7) also change along
 > EC No 200-831-0 Shall not be used as propellant in aerosols for any use.
 > Aerosols dispensers containing the substance as propellant shall not be placed on the market.
 > 3. Liquid substances or mixtures, which are regarded as dangerous according to the definitions in Council Directive 67/548/E […truncated by emendrix: 416582 characters omitted…]
-
-**MODIFIED · Annex 17** · applies from: unknown
-
-*amended by* `32009R0552`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20090627 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02006R1907-20090220 -->
