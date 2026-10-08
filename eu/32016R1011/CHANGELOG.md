@@ -924,7 +924,7 @@ The prior version of Article 6 contained only paragraphs 1 through 5 and did not
 ### `02016R1011-20220101` → `02016R1011-20240109`
 
 - **Act** `eu:32016R1011` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R1011-20220101` · `v2` = `02016R1011-20240109`
@@ -934,8 +934,6 @@ The prior version of Article 6 contained only paragraphs 1 through 5 and did not
 **INSERTED · Art. 28a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32023R2869`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new Article 28a has been added, setting out requirements for administrators and competent authorities to submit specified information to a collection body so it can be made accessible on the European single access point established under Regulation (EU) 2023/2859. [Art. 28a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R1011-20240109#art_28a)
 
