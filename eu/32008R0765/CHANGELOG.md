@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32008R0765` → `02008R0765-20210716`
 
 - **Act** `eu:32008R0765` · **In force** 2021-07-16 · **Detected** 2026-09-04
-- **Touched** 6 provisions — 1 substantive · 0 date-only · 5 with no text · **6 disputed**
-- **Diff** 0 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 45 unchanged
-- **Gate** 0 sentences quoted verbatim · 5 changes shipped without an explanation
+- **Touched** 3 provisions — 1 substantive · 0 date-only · 2 with no text · **3 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 45 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `32008R0765` · `v2` = `02008R0765-20210716`
 
 ---
@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *amended by* `32019R1020`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -36,7 +36,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *amended by* `32019R1020`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -46,7 +46,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 32 PA 1 ALN 1 PTA (c)`, `AR 32 PA 1 ALN 1 PTA (f)`, `AR 32 PA 1 ALN 1 PTA (g)` · *amended by* `32019R1020`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 In point (c), the phrase covering conformity assessment and market surveillance has been shortened to refer only to conformity assessment, dropping the reference to market surveillance. [Art. 32, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R0765#art_32) [Art. 32, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R0765-20210716#art_32)
 
@@ -77,35 +77,5 @@ In point (g), the reference to promotion and enhancement of policies and systems
 > (d) inter-comparison activities linked to the operation of safeguard clauses;
 > (e) the making available to the Commission of technical expertise for the purpose of assisting the Commission in its implementation of market surveillance administrative cooperation, including the financing of administrative cooperation groups, market surveillance decisions and safeguard clause cases;
 > (f) the performance of preliminary or ancillary work in connection with the implementation of the conformity assessment, metrology and accreditation activities linked to the implementation of Community legislation, such as studies, programmes, evaluations, guidelines, comparative analy […truncated by emendrix: 744 characters omitted…]
-
-**MODIFIED · Title** · applies from: unknown
-
-*amended by* `32019R1020`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Annex III** · applies from: unknown
-
-*amended by* `32019R1020`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · CHA III** · applies from: unknown
-
-*amended by* `32019R1020`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02008R0765-20210716 -->
 
