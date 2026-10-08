@@ -2739,9 +2739,9 @@ The earlier text contained only the sentence referring to Directive 94/19/EC and
 ### `02010R1093-20131030` → `02010R1093-20140320`
 
 - **Act** `eu:32010R1093` · **In force** 2014-03-20 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 2 substantive · 0 date-only · 2 with no text · **4 disputed**
-- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20131030` · `v2` = `02010R1093-20140320`
 
 ---
@@ -2749,8 +2749,6 @@ The earlier text contained only the sentence referring to Directive 94/19/EC and
 **MODIFIED · Art. 13 — Objections to regulatory technical standards** · applies from: unchanged
 
 *within* `AR 13 PA 1 ALN 1` · *amended by* `32014L0017`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The provision on extending the objection period at the initiative of the European Parliament or the Council, in the case where the Commission adopts a regulatory technical standard identical to the Authority's draft, changes from a single flat one-month extension to an initial one-month extension that is further extendable by another one month. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_13)
 
@@ -2782,21 +2780,9 @@ The provision on extending the objection period at the initiative of the Europea
 > 3.
 > If either the European Parliament or the Council objects to a regulatory technical standard within the period referred […truncated by emendrix: 193 characters omitted…]
 
-**MODIFIED · Art. 13.1** · applies from: unknown
-
-*amended by* `32014L0017`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 17 — Breach of Union law** · applies from: unchanged
 
 *within* `AR 17 PA 2 ALN 1` · *amended by* `32014L0017`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 In paragraph 2, the description of the information a competent authority must provide to the Authority during an investigation now includes information on how the acts referred to in Article 1(2) are applied in accordance with Union law, a phrase absent from the earlier version. [Art. 17, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20131030#art_17) [Art. 17, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1093-20140320#art_17)
 
@@ -2827,16 +2813,6 @@ In paragraph 2, the description of the information a competent authority must pr
 > 3.
 > The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.
 > The competent authority shall, within 10 working days of receipt of the recommendation, inform the Authority of the steps it has taken or […truncated by emendrix: 2497 characters omitted…]
-
-**MODIFIED · Art. 17.2** · applies from: unknown
-
-*amended by* `32014L0017`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20140320 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20131030 -->
