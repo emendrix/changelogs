@@ -586,7 +586,7 @@ Several existing entries in Part 2, such as those on cosmetic soaps, metallic me
 ### `02012R0649-20190501` → `02012R0649-20200901`
 
 - **Act** `eu:32012R0649` · **In force** 2020-09-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 36 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0649-20190501` · `v2` = `02012R0649-20200901`
@@ -596,8 +596,6 @@ Several existing entries in Part 2, such as those on cosmetic soaps, metallic me
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32020R1068`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text adds numerous new chemical entries across Parts 1, 2 and 3 that were not present in the BEFORE text, including substances such as Chlorothalonil, Chlorpropham, Clothianidin, Desmedipham, Dimethoate, Diquat, Ethoprophos, Fenamidone, Flurtamone, Glufosinate, Imidacloprid, Oxasulfuron, Phorate, Propiconazole, Propineb, Pymetrozine, Quinoxyfen, Thiamethoxam and Thiram, along with their CAS numbers, codes, categories and use limitations. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_I)
 
@@ -638,8 +636,6 @@ Part 3 in the AFTER text also gains a new entry for Hexabromocyclododecane with 
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32020R1068`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In Part 2, entry 3 now lists two additional mercury compounds, mercury (II) sulphate and mercury (II) nitrate, alongside the previously listed cinnabar ore, mercury (I) chloride, mercury (II) oxide and mercury sulphide, together with new CAS RNs and EC Nos for these two added substances. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_V)
 
