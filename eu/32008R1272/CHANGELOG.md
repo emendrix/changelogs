@@ -5085,7 +5085,7 @@ No other wording, table entries, or structure in section 1 of Annex VII changed 
 ### `02008R1272-20181201` → `02008R1272-20190726`
 
 - **Act** `eu:32008R1272` · **In force** 2019-07-26 · **Detected** 2026-09-04
-- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **7 disputed**
+- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 3 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20181201` · `v2` = `02008R1272-20190726`
@@ -5095,8 +5095,6 @@ No other wording, table entries, or structure in section 1 of Annex VII changed 
 **MODIFIED · Art. 37 — Procedure for harmonisation of classification and labelling of substances** · applies from: unchanged
 
 *within* `AR 37 PA 5 ALN 1`, `AR 37 PA 5 ALN 2`, `AR 37 PA 5 ALN 3` · *amended by* `32019R1243`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 5 no longer describes the Commission submitting a draft decision to amend Table 3.1 of Part 3 of Annex VI through the regulatory procedure with scrutiny, but instead describes it adopting delegated acts under Article 53a to make that amendment. [Art. 37, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_37) [Art. 37, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_37)
 
@@ -5125,8 +5123,6 @@ The reference to the urgency procedure under Article 54(4) is replaced with a re
 **MODIFIED · Art. 45 — Appointment of bodies responsible for receiving information relating to emergency health response** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 45 PA 4 ALN 1` · *dates* -2012-01-20 · *amended by* `32019R1243`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Paragraph 4 no longer refers to a Commission review to be carried out by 20 January 2012 to assess harmonising the information referred to in paragraph 1, nor to a Regulation adding an Annex adopted under the regulatory procedure with scrutiny referred to in Article 54(3). [Art. 45, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_45)
 
@@ -5162,8 +5158,6 @@ In its place, the text now empowers the Commission to adopt delegated acts in ac
 
 *within* `AR 53 PA 1 ALN 1`, `AR 53 PA 1 ALN 2` · *amended by* `32019R1243`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The provision changes from authorising the Commission to adjust and adapt the listed Articles and Annexes I to VII under the regulatory procedure with scrutiny to instead empowering the Commission to adopt delegated acts under Article 53a amending those same provisions and extending the annex reference to Annexes I to VIII. [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_53) [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53)
 
 The urgency mechanism changes from a reference to the urgency procedure in Article 54(4) to a reference to the procedure in Article 53b applying to delegated acts adopted under this paragraph. [Art. 53, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#art_53) [Art. 53, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53)
@@ -5187,8 +5181,6 @@ The urgency mechanism changes from a reference to the urgency procedure in Artic
 
 *amended by* `32019R1243`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 A new Article 53a has been added, setting out the conditions under which the Commission may exercise the power to adopt delegated acts referenced elsewhere in the act, including the duration of the delegation, procedures for revocation, expert consultation, notification to the European Parliament and Council, and the period within which objections may be raised. [Art. 53a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53a)
 
 *after* (`02008R1272-20190726`)
@@ -5206,8 +5198,6 @@ A new Article 53a has been added, setting out the conditions under which the Com
 
 *amended by* `32019R1243`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 A new Article 53b is added, setting out an urgency procedure for delegated acts, under which such acts enter into force without delay and apply unless an objection is raised, with the notification to the European Parliament and Council required to state the reasons for using this procedure. [Art. 53b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53b)
 
 It further provides that either the European Parliament or the Council may object to such a delegated act following the procedure referred to in Article 53a(6), in which case the Commission is to repeal the act immediately after notification of that objection. [Art. 53b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53b)
@@ -5223,8 +5213,6 @@ It further provides that either the European Parliament or the Council may objec
 
 *amended by* `32019R1243`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 A new Article 53c has been added, stating that the Commission shall adopt a separate delegated act for each power delegated to it under this Regulation. [Art. 53c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_53c)
 
 *after* (`02008R1272-20190726`)
@@ -5237,7 +5225,7 @@ A new Article 53c has been added, stating that the Commission shall adopt a sepa
 
 *amended by* `32019R1243`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
