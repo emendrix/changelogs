@@ -16,22 +16,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 8,
-    "modified": 65,
-    "deleted": 11,
+    "modified": 59,
+    "deleted": 9,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 84,
+    "touched_units": 76,
     "unchanged_units": 191,
-    "disputed": 30
+    "disputed": 22
   },
   "counts": {
-    "touched": 84,
+    "touched": 76,
     "substantive": 64,
     "date_only": 0,
-    "textless": 20,
-    "disputed": 30,
+    "textless": 12,
+    "disputed": 22,
     "quoted": 0,
-    "unexplained": 20
+    "unexplained": 12
   },
   "changes": [
     {
@@ -86,7 +86,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -151,7 +152,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -283,7 +285,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -402,7 +405,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -550,7 +554,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -665,7 +670,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -748,7 +754,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
+            "detail": "167 annotations in (2020-12-29, 2021-12-07]; 18 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -759,7 +765,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -846,7 +853,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
+            "detail": "167 annotations in (2020-12-29, 2021-12-07]; 18 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -857,7 +864,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1022,7 +1030,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1144,7 +1153,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1288,7 +1298,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1414,7 +1425,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1548,7 +1560,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1680,7 +1693,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1813,7 +1827,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1934,7 +1949,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2050,7 +2066,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2165,7 +2182,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2292,7 +2310,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2456,7 +2475,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2605,7 +2625,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2747,7 +2768,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2887,7 +2909,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3023,7 +3046,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -3138,7 +3162,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3301,7 +3326,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3439,7 +3465,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3557,7 +3584,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3703,7 +3731,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3802,7 +3831,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -3868,7 +3898,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -3998,7 +4029,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -4066,64 +4098,6 @@
     },
     {
       "change": {
-        "change_type": "DELETED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AR 124"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (34) (a)",
-            "change_types": [
-              "DELETED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
         "change_type": "MODIFIED",
         "provision": {
           "act": {
@@ -4167,7 +4141,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
+            "detail": "167 annotations in (2020-12-29, 2021-12-07]; 18 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -4178,7 +4152,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -4218,64 +4193,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "DELETED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "AR 127"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (34) (d)",
-            "change_types": [
-              "DELETED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     },
     {
       "change": {
@@ -4331,7 +4248,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -4433,7 +4351,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -4554,7 +4473,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -4647,7 +4567,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -4714,7 +4635,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -4830,7 +4752,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -4960,7 +4883,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5094,7 +5018,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5194,7 +5119,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5355,7 +5281,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5476,7 +5403,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5640,7 +5568,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5774,7 +5703,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5888,7 +5818,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -5990,7 +5921,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -6102,7 +6034,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -6166,7 +6099,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "kind_mismatch"
       },
       "outcome": "passed",
       "sentences": [
@@ -6291,7 +6225,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -6395,7 +6330,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -6539,7 +6475,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -6597,7 +6534,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -6646,7 +6584,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
+            "detail": "167 annotations in (2020-12-29, 2021-12-07]; 18 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -6657,7 +6595,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -6714,64 +6653,6 @@
             "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
           },
           "version": "02013R1308-20211207",
-          "location": "AR 196"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (56)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
           "location": "AR 206"
         },
         "heading": "Commission guidelines on the application of competition rules to agriculture",
@@ -6817,7 +6698,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -6913,7 +6795,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -7034,7 +6917,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -7180,7 +7064,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -7279,7 +7164,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -7339,7 +7225,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -7403,7 +7290,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -7521,7 +7409,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
+            "detail": "167 annotations in (2020-12-29, 2021-12-07]; 18 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -7532,7 +7420,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -7652,7 +7541,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
+            "detail": "167 annotations in (2020-12-29, 2021-12-07]; 18 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -7663,7 +7552,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -7751,7 +7641,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
+            "detail": "167 annotations in (2020-12-29, 2021-12-07]; 18 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -7762,7 +7652,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -7846,7 +7737,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -7992,7 +7884,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -8062,184 +7955,6 @@
             "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
           },
           "version": "02013R1308-20211207",
-          "location": "PRT II"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2021-01-01",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32021R2117 R; 32021R2117 DEL",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (34) (b)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "PRT III"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2021-12-07",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32021R2117 DEL",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "PRT V"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2021-12-07",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32021R2117 R; 32021R2117 J",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (65) (a)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
           "location": "AN I"
         },
         "heading": "ANNEX I",
@@ -8285,7 +8000,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -8442,7 +8158,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -8508,7 +8225,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -8642,7 +8360,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -8777,7 +8496,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -8911,7 +8631,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -9036,7 +8757,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -9094,7 +8816,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -9152,123 +8875,8 @@
             "change_types": []
           }
         },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "APP I"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": "Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "167 annotations in (2020-12-29, 2021-12-07]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (74) (c) (i); AR 001 (74) (c) (ii); AR 001 (74) (c) (iii); AR 001 (74) (c) (iv); AR 001 (74) (c) (v)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R1308",
-            "display_name": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007"
-          },
-          "version": "02013R1308-20211207",
-          "location": "CHA IV"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R2117",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2021-12-07",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32021R2117 J",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32021R2117, 0.986 of its instruction clauses read, 15 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -9422,9 +9030,6 @@
           "AR 219",
           "AR 223",
           "AR 225",
-          "PRT II",
-          "PRT III",
-          "PRT V",
           "AN I",
           "AN II",
           "AN III",
@@ -9433,10 +9038,9 @@
           "AN X",
           "AN XI",
           "AN XII",
-          "AN XIII",
-          "CHA IV"
+          "AN XIII"
         ],
-        "note": "167 annotations in (2020-12-29, 2021-12-07]",
+        "note": "167 annotations in (2020-12-29, 2021-12-07]; 18 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AN I PRT I PTA (d) TXT",
@@ -9472,32 +9076,10 @@
             }
           },
           {
-            "location": "PRT V CHA I SCT 2 AR 220 TIT",
-            "change_type": "MODIFIED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
             "location": "AR 210 PA 6",
             "change_type": "DELETED",
             "in_force": "2021-12-07",
             "source": "32021R2117 DEL",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT II TIS I CHA II AR 23 PA 11",
-            "change_type": "MODIFIED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 R",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -9520,17 +9102,6 @@
             "change_type": "MODIFIED",
             "in_force": "2021-12-07",
             "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT II TIS I CHA II AR 23a PA 2 ALN 3 FR",
-            "change_type": "DELETED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 DEL",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -9575,17 +9146,6 @@
             "change_type": "MODIFIED",
             "in_force": "2021-12-07",
             "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT V CHA Ia AR 220a",
-            "change_type": "INSERTED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 J",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -9813,17 +9373,6 @@
             }
           },
           {
-            "location": "PRT V CHA I SCT 2 AR 220 PA 4",
-            "change_type": "MODIFIED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
             "location": "AR 97 PA 4",
             "change_type": "MODIFIED",
             "in_force": "2021-12-07",
@@ -9934,54 +9483,10 @@
             }
           },
           {
-            "location": "PRT II TIS I CHA II AR 23a PA 1",
-            "change_type": "MODIFIED",
-            "in_force": "2021-01-01",
-            "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT V CHA I SCT 2 TIT",
-            "change_type": "MODIFIED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT II TIS II CHA II SCT 1 SBS 2",
-            "change_type": "DELETED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 DEL",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
             "location": "AR 5",
             "change_type": "MODIFIED",
             "in_force": "2021-12-07",
             "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "CHA IV AR 193a",
-            "change_type": "INSERTED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 J",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -10015,28 +9520,6 @@
             "change_type": "MODIFIED",
             "in_force": "2021-12-07",
             "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT II TIS II CHA II SCT 1 AR 124",
-            "change_type": "DELETED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 DEL",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT V CHA I SCT 2 AR 220 PA 2 PTA (-a)",
-            "change_type": "INSERTED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 J",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -10253,32 +9736,10 @@
             }
           },
           {
-            "location": "PRT II TIS II CHA II SCT 1 AR 125 PA 3",
-            "change_type": "MODIFIED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
             "location": "AN I PRT X TXT",
             "change_type": "DELETED",
             "in_force": "2021-12-07",
             "source": "32021R2117 DEL",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT II TIS I CHA II AR 23a PA 4 ALN 1",
-            "change_type": "MODIFIED",
-            "in_force": "2021-01-01",
-            "source": "32021R2117 R",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -10529,17 +9990,6 @@
           },
           {
             "location": "AR 97 PA 3",
-            "change_type": "MODIFIED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT V CHA I SCT 2 AR 220 PA 1 PTA (a)",
             "change_type": "MODIFIED",
             "in_force": "2021-12-07",
             "source": "32021R2117 R",
@@ -10825,17 +10275,6 @@
             }
           },
           {
-            "location": "PRT III CHA VI",
-            "change_type": "DELETED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 DEL",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
             "location": "AR 210 PA 5",
             "change_type": "DELETED",
             "in_force": "2021-12-07",
@@ -11016,17 +10455,6 @@
             "change_type": "DELETED",
             "in_force": "2021-12-07",
             "source": "32021R2117 DEL",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT V CHA Ia AR 222b",
-            "change_type": "INSERTED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 J",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -11236,28 +10664,6 @@
             "change_type": "INSERTED",
             "in_force": "2021-12-07",
             "source": "32021R2117 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT II TIS II CHA II SCT 1 SBS 3",
-            "change_type": "DELETED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 DEL",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R2117",
-              "display_name": null
-            }
-          },
-          {
-            "location": "PRT II TIS II CHA II SCT 1 SBS 1",
-            "change_type": "DELETED",
-            "in_force": "2021-12-07",
-            "source": "32021R2117 DEL",
             "amending_act": {
               "corpus": "eu",
               "key": "32021R2117",
@@ -12975,11 +12381,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 64,
-        "right_units": 73,
+        "right_units": 69,
         "shared": 57,
         "precision": 0.890625,
-        "recall": 0.7808219178082192,
-        "f1": 0.8321167883211679,
+        "recall": 0.8260869565217391,
+        "f1": 0.8571428571428571,
         "kind_mismatches": 1
       },
       {
@@ -12996,12 +12402,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 73,
+        "left_units": 69,
         "right_units": 77,
-        "shared": 66,
-        "precision": 0.9041095890410958,
-        "recall": 0.8571428571428571,
-        "f1": 0.88,
+        "shared": 64,
+        "precision": 0.927536231884058,
+        "recall": 0.8311688311688312,
+        "f1": 0.8767123287671235,
         "kind_mismatches": 1
       }
     ],
@@ -13132,25 +12538,6 @@
         ]
       },
       {
-        "unit": "AR 124",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "DELETED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 125",
         "reason": "seen by structural_diff, instruction_parse, not by corpus_metadata",
         "observed_by": [
@@ -13171,25 +12558,6 @@
             "instruction_parse",
             [
               "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AR 127",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "DELETED"
             ]
           ]
         ]
@@ -13369,25 +12737,6 @@
         ]
       },
       {
-        "unit": "AR 196",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 212",
         "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
@@ -13513,75 +12862,6 @@
         ]
       },
       {
-        "unit": "PRT II",
-        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "PRT III",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "PRT V",
-        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AN II",
         "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
@@ -13668,67 +12948,29 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "APP I",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "CHA IV",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
     "metadata_only_units": [
       "AR 3",
       "AR 111",
-      "AR 124",
-      "AR 127",
       "AR 150",
       "AR 172",
       "AR 192",
       "AR 193",
-      "AR 196",
       "AR 212",
       "AR 218",
-      "PRT II",
-      "PRT III",
-      "PRT V",
       "AN II",
       "AN XI",
       "AN XII",
-      "AN XIII",
-      "APP I",
-      "CHA IV"
+      "AN XIII"
+    ],
+    "instruction_only_units": [
+      "AR 124",
+      "AR 127",
+      "AR 196",
+      "PRT II",
+      "PRT V",
+      "APP I"
     ]
   },
   "explain": {
@@ -13797,6 +13039,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 92,
       "repaired": 32,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 84,
+      "repaired": 15,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

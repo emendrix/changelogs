@@ -1708,9 +1708,9 @@ The only visible difference between the two versions is the removal of a semicol
 ### `02013R1308-20201229` → `02013R1308-20211207`
 
 - **Act** `eu:32013R1308` · **In force** 2021-01-01, 2021-12-07 · **Detected** 2026-09-04
-- **Touched** 84 provisions — 64 substantive · 0 date-only · 20 with no text · **30 disputed**
-- **Diff** 8 inserted · 65 modified · 11 deleted · 0 renumbered · 0 deferred · 191 unchanged
-- **Gate** 0 sentences quoted verbatim · 20 changes shipped without an explanation
+- **Touched** 76 provisions — 64 substantive · 0 date-only · 12 with no text · **22 disputed**
+- **Diff** 8 inserted · 59 modified · 9 deleted · 0 renumbered · 0 deferred · 191 unchanged
+- **Gate** 0 sentences quoted verbatim · 12 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20201229` · `v2` = `02013R1308-20211207`
 
 ---
@@ -1719,7 +1719,7 @@ The only visible difference between the two versions is the removal of a semicol
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1894,7 +1894,7 @@ Point (b) of the list of eligible products now includes table olives alongside o
 
 *within* `AR 23 PA 11 ALN 1` · *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 In the list of environmental benefits Member States may encourage under paragraph 11, the after text adds a reference to sustainable packaging alongside local or regional purchasing, organic products and short supply chains. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_23) [Art. 23, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_23)
 
@@ -1934,7 +1934,7 @@ In the list of environmental benefits Member States may encourage under paragrap
 
 *within* `AR 23a PA 1 ALN 1`, `AR 23a PA 1 ALN 1 PTA (a)`, `AR 23a PA 1 ALN 1 PTA (b)`, `AR 23a PA 1 ALN 2`, `AR 23a PA 4 ALN 1` · *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The overall annual funding ceiling for the school scheme was changed from EUR 250 million to EUR 220804135. [Art. 23a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_23a) [Art. 23a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_23a)
 
@@ -2458,7 +2458,7 @@ The provisions on notifying the Commission of consultation outcomes, repeating s
 
 *within* `AR 99 PA 1`, `AR 99 PA 2`, `AR 99 PA 3`, `AR 99 ALN 1`, `AR 99 ALN 2` · *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The earlier version described a single decision procedure in which the Commission adopts implementing acts either conferring or rejecting protection after completion of the objection procedure under Article 98, always following the examination procedure of Article 229(2). [Art. 99, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_99)
 
@@ -2619,7 +2619,7 @@ It further provides that the Union symbols and indications for protected designa
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -2719,21 +2719,11 @@ Point (d)(i) was expanded to also cover the conditions of use of closures, in ad
 > (i) the conditions of use of certain bottle shapes and of closures, and a list of certain specific bottle shapes;
 > (ii) the conditions of use of "sparkling wine"-type […truncated by emendrix: 1220 characters omitted…]
 
-**DELETED · Art. 124** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 125 — Sugar sector agreements** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 125 PA 3 ALN 1` · *dates* -2017-10-01 · *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 3 no longer contains the opening phrase specifying that the conformity requirement applies from 1 October 2017, leaving the sentence to state simply that agreements within the trade shall conform to the purchase terms laid down in Annex X. [Art. 125, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_125) [Art. 125, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_125)
 
@@ -2762,16 +2752,6 @@ Paragraph 3 no longer contains the opening phrase specifying that the conformity
 > (b) update the purchase terms for beet referred to in Annex X;
 > (c) lay down further rules on the determination of gross weight, tare and sugar content of sugar beet delivered to an undertaking, and on beet pulp.
 > 5. The Commission may adopt implementing acts laying down the measures necessary for the application of this Article, including in respect of procedures, notifications and administrative assistance in the case […truncated by emendrix: 185 characters omitted…]
-
-**DELETED · Art. 127** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **INSERTED · Art. 147a — Payment delays for sales of wine in bulk** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -2855,7 +2835,7 @@ The threshold for the volume of raw milk covered by producer organisation negoti
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3237,7 +3217,7 @@ It further adds that these indicators may be based on relevant prices, productio
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3247,7 +3227,7 @@ It further adds that these indicators may be based on relevant prices, productio
 
 *within* `AR 172a`, `AR 172a ALN 1` · *amended by* `32021R2117`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED, the instruction parse says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED, the instruction parse says MODIFIED
 
 The heading changes from a hyphenated form to two separate words, reading Value sharing instead of Value-sharing. [Art. 172a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20201229#art_172a) [Art. 172a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_172a)
 
@@ -3269,7 +3249,7 @@ The party farmers may agree with is changed from their first purchaser to downst
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 A new Article 172b is added, allowing interbranch organisations recognised under Article 157 that operate in the wine sector to issue non-mandatory price guidance indicators for the sale of grapes used to produce wines with a protected designation of origin or protected geographical indication, as a derogation from Article 101(1) TFEU. [Art. 172b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_172b)
 
@@ -3319,7 +3299,7 @@ The other paragraphs of Article 182, including those on exclusions, price determ
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3329,7 +3309,7 @@ The other paragraphs of Article 182, including those on exclusions, price determ
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3339,7 +3319,7 @@ The other paragraphs of Article 182, including those on exclusions, price determ
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This provision is newly added, empowering the Commission to adopt delegated acts establishing rules for suspending import duties, in whole or in part, on molasses falling within CN Code 1703. [Art. 193a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_193a)
 
@@ -3351,16 +3331,6 @@ It further allows the Commission, applying those rules, to adopt implementing ac
 > Suspension of import duties for molasses
 > 1. The Commission shall be empowered to adopt delegated acts in accordance with Article 227 supplementing this Regulation by establishing rules for the suspension of import duties in whole or in part for molasses falling within CN Code 1703.
 > 2. In application of the rules referred to in paragraph 1 of this Article, the Commission may adopt implementing acts to suspend in whole or in part import duties for molasses falling within CN Code 1703, without applying the procedure referred to in Article 229(2) or (3).
-
-**MODIFIED · Art. 196** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 206 — Commission guidelines on the application of competition rules to agriculture** · applies from: unchanged
 
@@ -3459,7 +3429,7 @@ The new provision defines what counts as a sustainability standard, states that 
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3469,7 +3439,7 @@ The new provision defines what counts as a sustainability standard, states that 
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3503,7 +3473,7 @@ The list of possible measures no longer mentions providing for export refunds an
 
 *within* `AR 220`, `AR 220 PA 1 ALN 1 PTA (a)`, `AR 220 PA 2 ALN 1`, `AR 220 PA 4 ALN 1` · *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The heading and paragraph 1(a) now refer to plant pests in addition to animal diseases, extending the reference to restrictions arising from measures combating the spread of plant pests alongside animal diseases. [Art. 220, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_220)
 
@@ -3555,7 +3525,7 @@ Paragraph 4 now also allows the measures where the Member State has taken phytos
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is entirely new, establishing Union market observatories that the Commission is to set up to improve transparency in the food supply chain, inform economic operators and public authorities, and monitor market developments and threats of disturbance. [Art. 222a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_222a)
 
@@ -3579,7 +3549,7 @@ It further states that the Commission may decide for which agricultural sectors 
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 222b is added, requiring Union market observatories set up under Article 222a to identify threats of market disturbance in their reports, and requiring the Commission to regularly inform the European Parliament and the Council about the market situation for agricultural products, the causes of market disturbances, possible response measures, and the rationale for those measures. [Art. 222b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_222b)
 
@@ -3651,36 +3621,6 @@ Four new reporting points are added: (da) a report by 31 December 2023 on the Un
 > (da) by 31 December 2023 on the Union market observatories set up in accordance with Article 222a;
 > (db) by 31 December 2023, and every three years thereafter, on the use of the crisis measures in particular adopted pursuant to Articles 219, to 222;
 > (dc) by 31 Dec […truncated by emendrix: 549 characters omitted…]
-
-**MODIFIED · Part II** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part III** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part V** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
@@ -3768,7 +3708,7 @@ Part XII gains a new point (e) covering CN code ex22029919, described as other d
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3987,7 +3927,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -3997,7 +3937,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -4007,27 +3947,7 @@ Point XI(1) changes the cross-reference format for the agreements within the tra
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Appendix I** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · CHA IV** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff, the instruction parse
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
