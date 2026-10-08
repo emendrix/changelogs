@@ -4333,7 +4333,7 @@ Part C's Section 1.4 heading and content are changed to address mixture componen
 ### `02008R1272-20200501` → `02008R1272-20201017`
 
 - **Act** `eu:32008R1272` · **In force** 2020-10-17 · **Detected** 2026-09-04
-- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **6 disputed**
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 67 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20200501` · `v2` = `02008R1272-20201017`
@@ -4343,8 +4343,6 @@ Part C's Section 1.4 heading and content are changed to address mixture componen
 **MODIFIED · Annex I — CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES** · applies from: unchanged
 
 *within* `AN I SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.2`, `AN I SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.7`, `AN I SCT 1 SCT 1.3 SCT 1.3.2`, `AN I SCT 2 SCT 2.1 SCT 2.1.1 PTA (c)`, `AN I SCT 2 SCT 2.1 SCT 2.1.2 PTA (f)`, `AN I SCT 2 SCT 2.1 SCT 2.1.4`, `AN I SCT 2 SCT 2.1 SCT 2.1.4 PTA (c)`, `AN I SCT 2 SCT 2.2`, `AN I SCT 2 SCT 2.2 SCT 2.2.1`, `AN I SCT 2 SCT 2.2 SCT 2.2.2`, `AN I SCT 2 SCT 2.2 SCT 2.2.3`, `AN I SCT 2 SCT 2.2 SCT 2.2.4`, `AN I SCT 2 SCT 2.6 SCT 2.6.4`, `AN I SCT 2 SCT 2.7 SCT 2.7.2`, `AN I SCT 2 SCT 2.12 SCT 2.12.2`, `AN I SCT 2 SCT 2.17`, `AN I SCT 3 SCT 3.1 SCT 3.1.1`, `AN I SCT 3 SCT 3.1 SCT 3.1.2`, `AN I SCT 3 SCT 3.2 SCT 3.2.1 SCT 3.2.1.1`, `AN I SCT 3 SCT 3.3 SCT 3.3.1 SCT 3.3.1.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.3 SCT 3.4.2.1.3.1`, `AN I SCT 3 SCT 3.4 SCT 3.4.2 SCT 3.4.2.1 SCT 3.4.2.1.3 SCT 3.4.2.1.3.1 PTA (a)`, `AN I SCT 3 SCT 3.4 SCT 3.4.3 SCT 3.4.3.3`, `AN I SCT 3 SCT 3.5 SCT 3.5.1`, `AN I SCT 3 SCT 3.5 SCT 3.5.2 SCT 3.5.2.3`, `AN I SCT 3 SCT 3.6 SCT 3.6.1`, `AN I SCT 3 SCT 3.7 SCT 3.7.1`, `AN I SCT 3 SCT 3.7 SCT 3.7.2 SCT 3.7.2.5`, `AN I SCT 3 SCT 3.8 SCT 3.8.1`, `AN I SCT 3 SCT 3.8 SCT 3.8.3 SCT 3.8.3.4`, `AN I SCT 3 SCT 3.9 SCT 3.9.1`, `AN I SCT 3 SCT 3.9 SCT 3.9.3 SCT 3.9.3.4`, `AN I SCT 3 SCT 3.10 SCT 3.10.1`, `AN I SCT 3 SCT 3.10 SCT 3.10.3 SCT 3.10.3.3 SCT 3.10.3.3.1`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.3 SCT 4.1.3.5.5.3.1` · *amended by* `32019R0521`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Table 1.1 gains two new generic cut-off value entries, for specific target organ toxicity single exposure Category 3 and for aspiration toxicity, each set at 1%, along with an added footnote reference to section 3.8.3.4.6. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_I)
 
@@ -4398,8 +4396,6 @@ Section 2.1.1.1(c) rewords the phrase describing articles manufactured with a vi
 
 *within* `AN II SCT 1 SCT 1.1`, `AN II SCT 1 SCT 1.1 SCT 1.1.3`, `AN II SCT 1 SCT 1.1 SCT 1.1.4`, `AN II SCT 1 SCT 1.1 SCT 1.1.5`, `AN II SCT 1 SCT 1.1 SCT 1.1.6`, `AN II SCT 2 SCT 2.10` · *amended by* `32019R0521`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The sub-point numbers for the EUH014, EUH018, EUH019 and EUH044 entries under section 1.1 were changed from 1.1.3, 1.1.4, 1.1.5 and 1.1.6 to 1.1.1, 1.1.2, 1.1.3 and 1.1.4 respectively, duplicating the numbering already used for EUH001 and EUH006. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_II)
 
 In section 2.10, the qualifying phrase describing sensitisers with a specific concentration limit lower than 0,1 % was shortened to refer simply to a substance with a specific concentration limit, removing the numeric threshold wording. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_II)
@@ -4451,8 +4447,6 @@ In section 2.10, the qualifying phrase describing sensitisers with a specific co
 **MODIFIED · Annex III — LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS** · applies from: unchanged
 
 *within* `AN III SCT 1` · *amended by* `32019R0521`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The after text adds new hazard statement entries H206, H207 and H208 for desensitised explosives, each given with translations across the listed languages, which are not present in the before text. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_III)
 
@@ -4526,8 +4520,6 @@ A new entry H232 for pyrophoric gas under Hazard Category 1A, with its full set 
 
 *within* `AN IV`, `AN IV SCT 1`, `AN IV SCT 2` · *amended by* `32019R0521`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
-
 The introductory guidance before the tables has been expanded, adding statements about a matrix guiding selection of precautionary statements, encouragement to combine or consolidate phrases to save label space, and allowance for minor textual variations in precautionary statements that assist communication without diluting safety advice. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_IV)
 
 Within the tables, several codes are altered or added, including P103 wording changing from a simple instruction to a fuller instruction with a condition tied to P202, a new P212 statement for desensitised explosives, added hazard-category references such as desensitised explosives (section 2.17) and pyrophoric gas across multiple codes like P210, P222, P280, P370, P371, P375, P377, P380, P381, P401 and P403, and revised wording for P332 that ties omission to P333 instead of listing category 3. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_IV)
@@ -4562,8 +4554,6 @@ The text provided is truncated before the remainder of the tables can be compare
 **MODIFIED · Annex V — HAZARD PICTOGRAMS** · applies from: unchanged
 
 *within* `AN V SCT 1 SCT 1.2` · *amended by* `32019R0521`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In section 1.2, the entry for flammable gases under GHS02 changes from referring to hazard category 1 to referring to hazard categories 1A and 1B. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_V)
 
@@ -4684,8 +4674,6 @@ Section 1.2 also adds a new entry under GHS02 for Section 2.17, desensitised exp
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1` · *amended by* `32019R0521`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In Table 1.1 the row for flammable gases now lists the codes Flam. Gas 1A, Flam. Gas 1B, Flam. Gas 2 and Pyr. Gas in place of the earlier Flam. Gas 1 and Flam. Gas 2 codes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_VI)
 
