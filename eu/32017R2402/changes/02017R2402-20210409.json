@@ -14,23 +14,23 @@
   ],
   "diff_only": false,
   "summary": {
-    "inserted": 8,
-    "modified": 19,
+    "inserted": 7,
+    "modified": 17,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 27,
+    "touched_units": 24,
     "unchanged_units": 32,
-    "disputed": 9
+    "disputed": 6
   },
   "counts": {
-    "touched": 27,
+    "touched": 24,
     "substantive": 23,
     "date_only": 0,
-    "textless": 4,
-    "disputed": 9,
+    "textless": 1,
+    "disputed": 6,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 1
   },
   "changes": [
     {
@@ -99,7 +99,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -220,7 +221,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -354,7 +356,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -466,7 +469,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -600,7 +604,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -715,7 +720,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -812,7 +818,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -945,7 +952,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1033,7 +1041,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "51 annotations in (the act itself, 2021-04-09]",
+            "detail": "51 annotations in (the act itself, 2021-04-09]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1044,7 +1052,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1132,7 +1141,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "51 annotations in (the act itself, 2021-04-09]",
+            "detail": "51 annotations in (the act itself, 2021-04-09]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1143,7 +1152,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1212,7 +1222,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "51 annotations in (the act itself, 2021-04-09]",
+            "detail": "51 annotations in (the act itself, 2021-04-09]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1223,7 +1233,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1311,7 +1322,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "51 annotations in (the act itself, 2021-04-09]",
+            "detail": "51 annotations in (the act itself, 2021-04-09]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1322,7 +1333,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1428,7 +1440,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "51 annotations in (the act itself, 2021-04-09]",
+            "detail": "51 annotations in (the act itself, 2021-04-09]; 2 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -1439,7 +1451,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1534,7 +1547,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1681,7 +1695,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1802,7 +1817,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1909,7 +1925,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2048,7 +2065,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2184,7 +2202,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2285,7 +2304,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2370,7 +2390,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2488,7 +2509,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -2550,7 +2572,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2657,7 +2680,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2716,182 +2740,6 @@
       "applicability_note": null,
       "unexplained": "",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R2402",
-            "display_name": "Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012"
-          },
-          "version": "02017R2402-20210409",
-          "location": "SCT 1"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R0557",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2021-04-09",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32021R0557 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (7)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "INSERTED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R2402",
-            "display_name": "Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012"
-          },
-          "version": "02017R2402-20210409",
-          "location": "SCT 2a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R0557",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2021-04-09",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32021R0557 J",
-            "change_types": [
-              "INSERTED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32021R0557, 1.000 of its instruction clauses read, 0 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32017R2402",
-            "display_name": "Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012"
-          },
-          "version": "02017R2402-20210409",
-          "location": "AN II"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32021R0557",
-            "display_name": "Regulation (EU) 2021/557 of the European Parliament and of the Council of 31 March 2021 amending Regulation (EU) 2017/2402 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation to help the recovery from the COVID-19 crisis (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "51 annotations in (the act itself, 2021-04-09]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (2) (c)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -2956,11 +2804,9 @@
           "AR 44",
           "AR 45",
           "AR 45a",
-          "AR 46",
-          "SCT 1",
-          "SCT 2a"
+          "AR 46"
         ],
-        "note": "51 annotations in (the act itself, 2021-04-09]",
+        "note": "51 annotations in (the act itself, 2021-04-09]; 2 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 6 PA 7 ALN 1 PTA (g)",
@@ -3381,17 +3227,6 @@
             }
           },
           {
-            "location": "SCT 1 CHA 4 TIT",
-            "change_type": "MODIFIED",
-            "in_force": "2021-04-09",
-            "source": "32021R0557 R",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R0557",
-              "display_name": null
-            }
-          },
-          {
             "location": "AR 2 PO 30",
             "change_type": "INSERTED",
             "in_force": "2021-04-09",
@@ -3437,17 +3272,6 @@
           },
           {
             "location": "AR 22 PA 4 ALN",
-            "change_type": "INSERTED",
-            "in_force": "2021-04-09",
-            "source": "32021R0557 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32021R0557",
-              "display_name": null
-            }
-          },
-          {
-            "location": "SCT 2a",
             "change_type": "INSERTED",
             "in_force": "2021-04-09",
             "source": "32021R0557 J",
@@ -4050,11 +3874,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 23,
-        "right_units": 21,
+        "right_units": 19,
         "shared": 18,
         "precision": 0.782608695652174,
-        "recall": 0.8571428571428571,
-        "f1": 0.8181818181818182,
+        "recall": 0.9473684210526315,
+        "f1": 0.8571428571428571,
         "kind_mismatches": 0
       },
       {
@@ -4071,12 +3895,12 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 21,
+        "left_units": 19,
         "right_units": 26,
-        "shared": 20,
-        "precision": 0.9523809523809523,
-        "recall": 0.7692307692307693,
-        "f1": 0.8510638297872339,
+        "shared": 19,
+        "precision": 1.0,
+        "recall": 0.7307692307692307,
+        "f1": 0.8444444444444443,
         "kind_mismatches": 1
       }
     ],
@@ -4230,75 +4054,13 @@
             ]
           ]
         ]
-      },
-      {
-        "unit": "SCT 1",
-        "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata",
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ],
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "SCT 2a",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "INSERTED"
-            ]
-          ]
-        ]
-      },
-      {
-        "unit": "AN II",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
       }
     ],
     "metadata_only_units": [
-      "AR 45",
+      "AR 45"
+    ],
+    "instruction_only_units": [
       "SCT 1",
-      "SCT 2a",
       "AN II"
     ]
   },
@@ -4362,6 +4124,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 27,
+      "repaired": 8,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

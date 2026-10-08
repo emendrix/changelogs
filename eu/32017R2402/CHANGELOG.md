@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `32017R2402` → `02017R2402-20210409`
 
 - **Act** `eu:32017R2402` · **In force** 2021-04-09 · **Detected** 2026-08-13
-- **Touched** 27 provisions — 23 substantive · 0 date-only · 4 with no text · **9 disputed**
-- **Diff** 8 inserted · 19 modified · 0 deleted · 0 renumbered · 0 deferred · 32 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Touched** 24 provisions — 23 substantive · 0 date-only · 1 with no text · **6 disputed**
+- **Diff** 7 inserted · 17 modified · 0 deleted · 0 renumbered · 0 deferred · 32 unchanged
+- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32017R2402` · `v2` = `02017R2402-20210409`
 
 ---
@@ -244,7 +244,7 @@ A new paragraph 6 is added requiring the ESAs, by 10 July 2021, to develop draft
 
 *amended by* `32021R0557`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a new article establishing that synthetic securitisations meeting the requirements of Articles 26b to 26e are to be considered STS on-balance-sheet securitisations. [Art. 26a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_26a)
 
@@ -261,7 +261,7 @@ It also provides that EBA, working closely with ESMA and EIOPA, may adopt guidel
 
 *amended by* `32021R0557`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out detailed simplicity requirements for a securitisation, covering matters such as the originator's status, the origination and homogeneity of underlying exposures, prohibitions on active portfolio management and hedging, required representations and warranties, underwriting standards, exclusions relating to defaulted or credit-impaired debtors, and a mandate for EBA to develop related regulatory technical standards. [Art. 26b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_26b)
 
@@ -283,7 +283,7 @@ This is a newly inserted article setting out detailed simplicity requirements fo
 
 *amended by* `32021R0557`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 26c is an entirely new provision setting out requirements relating to standardisation, covering matters such as risk retention, interest rate and currency risk mitigation, referenced interest payments, enforcement rights, loss allocation and amortisation, early amortisation triggers, servicing and documentation duties, and conflict-resolution provisions between classes of investors. [Art. 26c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_26c)
 
@@ -305,7 +305,7 @@ There is no prior version of this article to compare against, so the entire text
 
 *amended by* `32021R0557`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article setting out requirements relating to transparency, covering disclosure of historical default and loss performance data, external verification of a sample of underlying exposures, provision of a liability cash flow model, publication of environmental performance information for certain residential and auto loan or lease exposures, originator responsibility for compliance with Article 7 disclosures, and a mandate for the ESAs to develop draft regulatory technical standards on sustainability-related disclosure content and methodology. [Art. 26d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_26d)
 
@@ -326,7 +326,7 @@ The article specifies timing for various disclosures, including that certain inf
 
 *amended by* `32021R0557`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 26e is a newly added provision setting out detailed requirements for the credit protection agreement, the third-party verification agent and the synthetic excess spread in securitisations using these mechanisms, covering matters such as eligible credit events, calculation and timing of protection payments, appointment and duties of the verification agent, permitted early termination grounds, use of synthetic excess spread, and collateral and legal-opinion requirements. [Art. 26e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R2402-20210409#art_26e)
 
@@ -589,7 +589,7 @@ The prior version of the article, which listed only points (a) through (d) and c
 
 *amended by* `32021R0557`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -644,35 +644,5 @@ Point (h) now ends with 'and' rather than concluding the list, and a new point (
 > (b) the differences in use of the modalities referred to in Article 6(3), based on the data reported pursuant to point (e)(iii) of the first subparagraph of Article 7(1). If the findings show an increase in prudential risks caused by the use of the modalities referred to in points (a), (b), (c) and (e) of Article 6(3), then suitable redress shall be considered;
 > (c) whether there has been a disproportionate rise of the number of transactions referred to in the third subparagraph of Article 7(2), since the application of this Regulation and whether market participants structured transactions in a way to circumvent the obligation under Article 7 to make available information through securitisation repositories;
 > (d) whether there is a need to extend disclosure requirements under Artic […truncated by emendrix: 2030 characters omitted…]
-
-**MODIFIED · Section 1** · applies from: unknown
-
-*amended by* `32021R0557`
-
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Section 2a** · applies from: unknown
-
-*amended by* `32021R0557`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Annex II** · applies from: unknown
-
-*amended by* `32021R0557`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02017R2402-20210409 -->
 
