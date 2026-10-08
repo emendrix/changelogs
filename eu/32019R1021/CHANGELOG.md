@@ -683,7 +683,7 @@ The waste code table adds new entries for fly ash from peat and untreated wood (
 ### `02019R1021-20210315` → `02019R1021-20221213`
 
 - **Act** `eu:32019R1021` · **In force** 2022-12-13 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20210315` · `v2` = `02019R1021-20221213`
@@ -693,8 +693,6 @@ The waste code table adds new entries for fly ash from peat and untreated wood (
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32022R2291`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The Hexachlorobenzene entry, which previously showed a dash with no specific exemption or specification, now includes a specification stating that Article 4(1), point (b), applies to concentrations of hexachlorobenzene equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances, mixtures or articles. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20210315#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20221213#anx_I)
 
