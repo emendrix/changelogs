@@ -3567,7 +3567,7 @@ Two new entries, numbered 30 and 30a, are added to the table for zinc oxide and 
 ### `02009R1223-20150716` → `02009R1223-20150810`
 
 - **Act** `eu:32009R1223` · **In force** 2015-08-10 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20150716` · `v2` = `02009R1223-20150810`
@@ -3577,8 +3577,6 @@ Two new entries, numbered 30 and 30a, are added to the table for zinc oxide and 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32015R1190`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Entry 2a for thioglycolic acid and its salts was rewritten to split the product category into four sub-items (a) hair waving or straightening products with general and professional use concentrations, (b) depilatories, (c) other hair rinse-off products, and (d) products intended for eyelash waving, whereas the earlier version organised the same substance under three sub-items (a) hair products, (b) depilatories, and (c) hair rinse-off products without a separate eyelash-waving category. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150716#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150810#anx_III)
 
