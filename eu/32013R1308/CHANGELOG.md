@@ -420,9 +420,9 @@ The rest of the provision, including paragraphs 1, 3 and 4, remains unchanged be
 ### `02013R1308-20241108` → `02013R1308-20260318`
 
 - **Act** `eu:32013R1308` · **In force** 2026-03-18 · **Detected** 2026-09-04
-- **Touched** 15 provisions — 13 substantive · 0 date-only · 2 with no text · **2 disputed**
-- **Diff** 0 inserted · 15 modified · 0 deleted · 0 renumbered · 0 deferred · 245 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 13 provisions — 13 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 13 modified · 0 deleted · 0 renumbered · 0 deferred · 245 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20241108` · `v2` = `02013R1308-20260318`
 
 ---
@@ -627,16 +627,6 @@ A new paragraph 3a is added setting out conditions a Member State may attach to 
 > 2. Member States may grant the authorisation referred to in paragraph 1 to producers undertaking to grub up an area planted with vines if the grubbing up of the pledged area is carried out at the latest by the end of the fourth year from the date on which new vines have been planted.
 > 3. The authorisation referred to in paragraph 1 of this Article shall be used on the same holding on which the grubbing up was undertaken. Member States may, on the basis of a recommendation from a recognised professional organisation referred to in Articles 152, 156 and 157 of this Regulation or a producer group referred to in Articles 32 and 33 of Regulation (EU) 2024/1143, restrict in areas eligible for the production of wines with protected designation of origin or protected geographical indicati […truncated by emendrix: 2735 characters omitted…]
 
-**MODIFIED · Art. 67** · applies from: unknown
-
-*amended by* `32026R0471`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 69 — Delegated powers** · applies from: unchanged
 
 *within* `AR 69 ALN 1`, `AR 69 ALN 1 PTA (a)`, `AR 69 ALN 1 PTA (b)`, `AR 69 ALN 1 PTA (c)`, `AR 69 ALN 1 PTA (e)`, `AR 69 ALN 2` · *amended by* `32026R0471`
@@ -669,16 +659,6 @@ The former point (d) on co-existence of vines is retained in substance but is no
 > (d) the co-existence of vines that the producer has undertaken to grub up with newly planted vines pursuant to Article 66(2);
 > (e) the grounds for Member State decisions under Article 66(3) and (3a).
 > The Commission is empowered to adopt delegated acts in accordance with Article 227 to amend this Regulation by adding additional criteria to those listed in Article 64(1) and (2).
-
-**MODIFIED · Art. 119** · applies from: unknown
-
-*amended by* `32026R0471`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 122 — Delegated powers** · applies from: unchanged
 
