@@ -3833,7 +3833,7 @@ Both texts are shown truncated partway through the substance listing table, so a
 ### `02008R1272-20220301` → `02008R1272-20221217`
 
 - **Act** `eu:32008R1272` · **In force** 2022-12-17 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 71 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20220301` · `v2` = `02008R1272-20221217`
@@ -3844,7 +3844,7 @@ Both texts are shown truncated partway through the substance listing table, so a
 
 *within* `AN III SCT 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Both the before and after texts of Annex III section 1 are truncated in the material provided, and within the visible portion the only textual difference is a small formatting change to the H220 entry heading, where an en-dash spacing variant was adjusted. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20220301#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_III)
 
@@ -3915,8 +3915,6 @@ All of the hazard statement codes, language entries, and translated phrases show
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 3` · *amended by* `32021R0849`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In the visible portion of Section 3's table, several boron entries have been altered: the boric acid entry (005-007-00-2) and the diboron trioxide entry (005-008-00-8) drop the specific-concentration-limit notes and percentage thresholds for Repr. 1B / H360FD that appeared in the earlier text. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20220301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_VI)
 
