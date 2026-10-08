@@ -906,7 +906,7 @@ In section 9, the wording for points 9.2, 9.4 and 9.5.1 is revised to state that
 ### `02006R1907-20220301` → `02006R1907-20220501`
 
 - **Act** `eu:32006R1907` · **In force** 2022-05-01 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20220301` · `v2` = `02006R1907-20220501`
@@ -916,8 +916,6 @@ In section 9, the wording for points 9.2, 9.4 and 9.5.1 is revised to state that
 **MODIFIED · Annex XIV — LIST OF SUBSTANCES SUBJECT TO AUTHORISATION** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XIV` · *dates* +2023-11-01 +2025-05-01 · *amended by* `32022R0586`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Five new entries, numbered 55 to 59, have been added to the table of substances subject to authorisation, covering tetraethyllead, a Michler's ketone/base-related trityl alcohol compound, a reaction product involving 4-heptylphenol, DOTE, and a reaction mass of DOTE and MOTE. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_XIV)
 
