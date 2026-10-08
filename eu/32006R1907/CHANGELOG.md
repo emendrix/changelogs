@@ -318,7 +318,7 @@ The remainder of the Annex, including the numbered restriction entries shown, ap
 ### `02006R1907-20240606` → `02006R1907-20241010`
 
 - **Act** `eu:32006R1907` · **In force** 2024-10-10 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 157 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20240606` · `v2` = `02006R1907-20241010`
@@ -328,8 +328,6 @@ The remainder of the Annex, including the numbered restriction entries shown, ap
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2012-07-04 +2019-06-20 +2026-04-10 +2026-10-10 +2027-10-10 +2029-10-10 · *amended by* `32024R2462`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The list of referenced Union acts at the start of the Annex has been extended, adding Directive 2012/18/EU on the control of major-accident hazards involving dangerous substances and Regulation (EU) 2019/1021 on persistent organic pollutants to the citations that were already present. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20241010#anx_XVII)
 
