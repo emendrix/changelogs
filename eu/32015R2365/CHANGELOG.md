@@ -15,7 +15,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02015R2365-20220812` → `02015R2365-20240109`
 
 - **Act** `eu:32015R2365` · **In force** 2024-01-09 · **Detected** 2026-08-13
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 33 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02015R2365-20220812` · `v2` = `02015R2365-20240109`
@@ -25,8 +25,6 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 **INSERTED · Art. 32a — Accessibility of information on the European single access point** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32023R2869`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 This new provision requires trade repositories, from 10 January 2030, to submit information otherwise made public under Article 12(1) to a designated collection body so it can be made accessible on the European single access point, together with specified formatting and metadata requirements. [Art. 32a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02015R2365-20240109#art_32a)
 
