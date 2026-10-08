@@ -28766,9 +28766,9 @@ The paragraphs describing the Commission's reporting duty by 31 December 2015 an
 ### `02013R0575-20191225` → `02013R0575-20200627`
 
 - **Act** `eu:32013R0575` · **In force** 2020-06-27 · **Detected** 2026-08-13
-- **Touched** 17 provisions — 13 substantive · 0 date-only · 4 with no text · **8 disputed**
-- **Diff** 5 inserted · 12 modified · 0 deleted · 0 renumbered · 0 deferred · 631 unchanged
-- **Gate** 0 sentences quoted verbatim · 4 changes shipped without an explanation
+- **Touched** 16 provisions — 13 substantive · 0 date-only · 3 with no text · **7 disputed**
+- **Diff** 5 inserted · 11 modified · 0 deleted · 0 renumbered · 0 deferred · 631 unchanged
+- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20191225` · `v2` = `02013R0575-20200627`
 
 ---
@@ -28777,7 +28777,7 @@ The paragraphs describing the Commission's reporting duty by 31 December 2015 an
 
 *within* `AR 47a PA 6 ALN 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The sentence on full and timely repayment in Article 47a(6) changed from stating that repayment shall not be considered likely unless the obligor has executed regular and timely payments of the specified amounts, to stating that repayment may be considered likely where the obligor has executed such payments. [Art. 47a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_47a) [Art. 47a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_47a)
 
@@ -28843,7 +28843,7 @@ The introductory phrase of paragraph 4 was also tightened to specify that the de
 
 *amended by* `32020R0873`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -28853,7 +28853,7 @@ The introductory phrase of paragraph 4 was also tightened to specify that the de
 
 *within* `AR 123 ALN 5`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The after text adds a new paragraph covering loans granted by a credit institution to pensioners or employees with a permanent contract that are secured by an unconditional transfer of part of the borrower's pension or salary, assigning such exposures a risk weight of 35 % instead of the 75 % applied elsewhere in the article. [Art. 123, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_123)
 
@@ -28920,21 +28920,11 @@ The reference to a 0% risk weight being assigned under Article 495(2) has been r
 > (ii) exposures to central governments and central banks are assigned a 0 % risk weight under Article 114(2) or (4);
 > (e) exposures of an institution to a counterparty which is i […truncated by emendrix: 2871 characters omitted…]
 
-**MODIFIED · Art. 429a** · applies from: unknown
-
-*amended by* `32020R0873`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 467** · applies from: unknown
 
 *amended by* `32020R0873`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -29021,7 +29011,7 @@ Paragraph 6's phase-in factors and date ranges are replaced with new percentages
 
 *amended by* `32020R0873`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -29106,7 +29096,7 @@ The new provision distinguishes treatment under trade date accounting from treat
 
 *within* `AR 501`, `AR 501 PA 1 ALN 1`, `AR 501 PA 2 ALN 1`, `AR 501 PA 2 ALN 1 PTA (a)`, `AR 501 PA 2 ALN 1 PTA (b)`, `AR 501 PA 2 ALN 1 PTA (c)`, `AR 501 PA 3`, `AR 501 PA 4`, `AR 501 PA 5` · *dates* -2016-06-28
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The heading and title changed from a flat capital requirements deduction described in a single multiplier to an adjustment of risk-weighted non-defaulted SME exposures expressed through a formula involving RWEA and E*. [Art. 501, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501) [Art. 501, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20200627#art_501)
 
@@ -29147,7 +29137,7 @@ The former paragraph 2(a) exclusion of exposures in default, paragraph 2(c)'s EU
 
 *within* `AR 501a PA 1`, `AR 501a PA 2`, `AR 501a PA 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The before text contains only paragraphs 4 and 5, dealing with the Commission's reporting obligation and EBA's supporting analysis, with no paragraphs 1 through 3 present. [Art. 501a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20191225#art_501a)
 

@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 5,
-    "modified": 12,
+    "modified": 11,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 17,
+    "touched_units": 16,
     "unchanged_units": 631,
-    "disputed": 8
+    "disputed": 7
   },
   "counts": {
-    "touched": 17,
+    "touched": 16,
     "substantive": 13,
     "date_only": 0,
-    "textless": 4,
-    "disputed": 8,
+    "textless": 3,
+    "disputed": 7,
     "quoted": 0,
-    "unexplained": 4
+    "unexplained": 3
   },
   "changes": [
     {
@@ -78,7 +78,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -174,7 +175,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -286,7 +288,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -339,7 +342,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -473,7 +477,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -543,64 +548,6 @@
             "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
           },
           "version": "02013R0575-20200627",
-          "location": "AR 429a"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32020R0873",
-            "display_name": "Regulation (EU) 2020/873 of the European Parliament and of the Council of 24 June 2020 amending Regulations (EU) No 575/2013 and (EU) 2019/876 as regards certain adjustments in response to the COVID-19 pandemic (Text with EEA relevance)"
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": null,
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "absent",
-            "detail": "24 annotations in (2019-12-25, 2020-06-27]",
-            "change_types": []
-          },
-          "instruction_parse": {
-            "status": "observed",
-            "detail": "AR 001 (4) (a); AR 001 (4) (b) (i); AR 001 (4) (b) (ii); AR 001 (4) (c)",
-            "change_types": [
-              "MODIFIED"
-            ]
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32013R0575",
-            "display_name": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02013R0575-20200627",
           "location": "AR 467"
         },
         "heading": null,
@@ -643,7 +590,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -737,7 +685,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -916,7 +865,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1073,7 +1023,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -1135,7 +1086,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1255,7 +1207,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1337,7 +1290,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1438,7 +1392,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1541,7 +1496,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1693,7 +1649,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -1794,7 +1751,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -2555,25 +2513,6 @@
         ]
       },
       {
-        "unit": "AR 429a",
-        "reason": "seen by instruction_parse, not by structural_diff, corpus_metadata",
-        "observed_by": [
-          "instruction_parse"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "corpus_metadata"
-        ],
-        "kinds": [
-          [
-            "instruction_parse",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
-      {
         "unit": "AR 467",
         "reason": "seen by corpus_metadata, instruction_parse, not by structural_diff",
         "observed_by": [
@@ -2664,9 +2603,11 @@
     ],
     "metadata_only_units": [
       "AR 114",
-      "AR 429a",
       "AR 467",
       "AR 495"
+    ],
+    "instruction_only_units": [
+      "AR 429a"
     ]
   },
   "explain": {
@@ -2729,6 +2670,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 17,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
