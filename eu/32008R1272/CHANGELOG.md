@@ -1405,7 +1405,7 @@ Part 5 has been retitled by dropping the word "LIST OF" from its heading, and it
 
 *amended by* `32024R2564`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1415,7 +1415,7 @@ Part 5 has been retitled by dropping the word "LIST OF" from its heading, and it
 
 *within* `AN VI SCT 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The entry for trimethyl borate (index 005-005-00-1) has been changed so that, in addition to the flammable liquid classification, it now carries a Repr. 1B classification with hazard statement H360FD, alongside a revised Acute Tox. 4 entry, and its pictograms, labelling codes and hazard statements have been updated accordingly, with a Note 11 reference added. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260501#anx_VI)
 
