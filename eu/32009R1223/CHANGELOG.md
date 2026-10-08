@@ -2496,7 +2496,7 @@ This entry is not present in the earlier version of the annex, which ends its li
 ### `02009R1223-20180711` → `02009R1223-20180801`
 
 - **Act** `eu:32009R1223` · **In force** 2018-08-01 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 48 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20180711` · `v2` = `02009R1223-20180801`
@@ -2506,8 +2506,6 @@ This entry is not present in the earlier version of the annex, which ends its li
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II` · *dates* +2019-05-01 +2019-08-01 · *amended by* `32018R0978`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The AFTER text inserts two additional sentences stating that from 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market, and that from 1 August 2019 such products shall not be made available on the Union market, repeated twice, following the existing sentence about the 23 August 2019 and 23 August 2021 dates. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II)
 
@@ -2568,8 +2566,6 @@ The remainder of the numbered substance list shown is identical between the two 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2019-05-01 +2019-08-01 · *amended by* `32018R0978`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The later version adds four new footnote-style statements, each providing that from 1 May 2019 cosmetic products containing a given substance and not complying with the restrictions shall not be placed on the Union market, and from 1 August 2019 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_III)
 
