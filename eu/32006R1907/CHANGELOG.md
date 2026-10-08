@@ -2820,7 +2820,7 @@ The remainder of the entry, including the earlier requirement for Member States 
 ### `02006R1907-20160401` → `02006R1907-20160621`
 
 - **Act** `eu:32006R1907` · **In force** 2016-06-21 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20160401` · `v2` = `02006R1907-20160621`
@@ -2830,8 +2830,6 @@ The remainder of the entry, including the earlier requirement for Member States 
 **MODIFIED · Annex VII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF ONE TONNE OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
 
 *within* `AN VII SCT 8` · *amended by* `32016R0863`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 8.1 and 8.2 have been rewritten: the former stepwise skin irritation/corrosion assessment (points 1-4) and separate eye irritation assessment (points 1-3) are replaced with combined headings for skin corrosion/irritation and serious eye damage/eye irritation, each with new in vitro sub-points (8.1.1, 8.1.2, 8.2.1) and revised column 2 conditions for when the studies need not be conducted. [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VII)
 
@@ -2868,8 +2866,6 @@ Section 8.3 on skin sensitisation and the remaining sections 8.4, 8.5 and 9 are 
 **MODIFIED · Annex VIII — STANDARD INFORMATION REQUIREMENTS FOR SUBSTANCES MANUFACTURED OR IMPORTED IN QUANTITIES OF 10 TONNES OR MORE This Annex shall apply to producers of articles that are required to register in accordance with Article 7 and to other downstream users that are required to carry out tests under this Regulation adapted as necessary.** · applies from: unchanged
 
 *within* `AN VIII SCT 8` · *amended by* `32016R0863`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 8.1, previously titled "Skin irritation" and requiring an in vivo skin irritation study with listed exemptions, is retitled "Skin corrosion/irritation" and now states that an in vivo study is only to be considered when the in vitro studies under Annex VII points 8.1.1 and 8.1.2 are not applicable or their results are inadequate for classification and risk assessment, with a revised and reworded set of conditions under which the study does not need to be conducted. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160401#anx_VIII) [Annex VIII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_VIII)
 
