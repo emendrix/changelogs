@@ -2443,9 +2443,9 @@ The earlier version of that same sentence in Article 17(2) did not include this 
 ### `32010R1095` → `02010R1095-20110721`
 
 - **Act** `eu:32010R1095` · **In force** 2011-07-21 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **3 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 80 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 80 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32010R1095` · `v2` = `02010R1095-20110721`
 
 ---
@@ -2453,8 +2453,6 @@ The earlier version of that same sentence in Article 17(2) did not include this 
 **MODIFIED · Art. 1 — Establishment and scope of action** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AR 1 PA 2 ALN 1` · *dates* +2011-06-08 · *amended by* `32011L0061`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The reference to "any future legislation in the area of Alternative Investment Fund Managers (AIFM)" in paragraph 2 has been replaced with a specific reference to Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers, with its Official Journal citation. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1095#art_1) [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20110721#art_1)
 
@@ -2475,21 +2473,11 @@ The reference to "any future legislation in the area of Alternative Investment F
 > OJ L 174, 1.7.2011, p. 1., and Regulation (EC) No 1060/2009, and, to the extent that these acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares and the competent authorities that supervise them, within the relevant parts of, Directive 2002/87/EC, Directive 2005/60/EC, Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority.
 > 3. The Authority shall also act in the field of activities of market participants in relation to issues not directly covered in the acts referred to in paragraph 2, including matters of corporate governance, auditing and […truncated by emendrix: 1988 characters omitted…]
 
-**MODIFIED · Art. 1.2** · applies from: unknown
-
-*amended by* `32011L0061`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 64 — Implementation and control of the budget** · applies from: unchanged
 
 *within* `AR 64 PA 9 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The only visible difference is a formatting change in paragraph 9, where the spacing in the expression referring to the year N plus two was altered, with no change to any wording. [Art. 64, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32010R1095#art_64) [Art. 64, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1095-20110721#art_64)
 
