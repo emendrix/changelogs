@@ -69,9 +69,9 @@ The commodity tables are expanded with numerous new or restated CN/HS codes and 
 ### `02023R1115-20241226` → `02023R1115-20251226`
 
 - **Act** `eu:32023R1115` · **In force** 2025-12-26 · **Detected** 2026-08-12
-- **Touched** 31 provisions — 28 substantive · 0 date-only · 3 with no text · **7 disputed**
-- **Diff** 2 inserted · 29 modified · 0 deleted · 0 renumbered · 0 deferred · 14 unchanged
-- **Gate** 0 sentences quoted verbatim · 3 changes shipped without an explanation
+- **Touched** 30 provisions — 28 substantive · 0 date-only · 2 with no text · **6 disputed**
+- **Diff** 2 inserted · 28 modified · 0 deleted · 0 renumbered · 0 deferred · 14 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02023R1115-20241226` · `v2` = `02023R1115-20251226`
 
 ---
@@ -226,7 +226,7 @@ A new paragraph 6 introduces a verification step for non-SME downstream operator
 
 *within* `AR 6 PA 1 ALN 1`, `AR 6 PA 2 ALN 1`, `AR 6 PA 3 ALN 1` · *amended by* `32025R2650`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The revised text restricts paragraph 1 to operators alone, removing the earlier reference to traders, and adds that an authorised representative may also submit a simplified declaration under Article 4a(2) alongside the due diligence statement under Article 4(2). [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#art_6)
 
@@ -304,7 +304,7 @@ Point (f) changes the recipient description from any business, operator or trade
 
 *within* `AR 12 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The only visible difference between the two versions of Article 12(2) is the addition of a full stop at the end of the sentence stating that operators shall keep a record of updates in their due diligence systems for five years. [Art. 12, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_12) [Art. 12, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#art_12)
 
@@ -416,7 +416,7 @@ Point (b) of paragraph 1 drops the reference to a non-SME trader making a produc
 
 *within* `AR 19`, `AR 19 PA 1 ALN 1`, `AR 19 PA 2 ALN 1` · *amended by* `32025R2650`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The heading and the body of both paragraphs now refer to 'downstream operators and traders' instead of only 'SME traders'. [Art. 19, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#art_19) [Art. 19, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20241226#art_19)
 
@@ -838,7 +838,7 @@ Paragraph 3 has also been reworded to describe eligible operators as natural per
 
 *amended by* `32025R2650`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -848,7 +848,7 @@ Paragraph 3 has also been reworded to describe eligible operators as natural per
 
 *amended by* `32025R2650`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -858,7 +858,7 @@ Paragraph 3 has also been reworded to describe eligible operators as natural per
 
 *amended by* `32025R2650`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 Annex III is a newly added section setting out the information required for the one-time simplified declaration that micro or small primary operators may submit, covering identification details, product codes and estimated quantities, production location or geolocation data, and a fixed declaratory statement of due diligence. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1115-20251226#anx_III)
 
@@ -870,16 +870,6 @@ Annex III is a newly added section setting out the information required for the 
 > 1. Micro or small primary operator’s name, address and, in the event of relevant commodities and relevant products entering or leaving the market, the Economic Operators Registration and Identification (EORI) number in accordance with Article 9 of Regulation (EU) No 952/2013.
 > 2. Harmonised System code and free-text description of the relevant products, including the trade name, and the one-off estimated annual quantity of relevant products intended to be placed on the market or exported, expressed in net mass specifying a percentage estimate or deviation or, where applicable, volume or number of items. For relevant products entering or leaving the market, the estimated quantity is to be expressed in kilograms of net mass and, where applicable, in the supplementary unit set out in Annex I to Regulation (EEC) No 2658/87 against the indicated Harmonised System code or, in all other cases, expressed in net mass specifying a percentage estimate or deviation or, where applicable, volume or number of items. A supplementary unit is applicable where it is defined consistently for all possible subheadings under the Harmonised System code referred to in the due diligence statement.
 > 3. Country of production and the geolocation of all plots of land, or the postal address of the establ […truncated by emendrix: 961 characters omitted…]
-
-**MODIFIED · CHA 2** · applies from: unknown
-
-*amended by* `32025R2650`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02023R1115-20251226 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02023R1115-20241226 -->
