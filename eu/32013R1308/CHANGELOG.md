@@ -1427,9 +1427,9 @@ The earlier version of the provision contained only points (a) through (g) in pa
 ### `02013R1308-20211207` → `02013R1308-20230101`
 
 - **Act** `eu:32013R1308` · **In force** 2023-01-01 · **Detected** 2026-09-04
-- **Touched** 13 provisions — 7 substantive · 0 date-only · 6 with no text · **10 disputed**
-- **Diff** 2 inserted · 10 modified · 1 deleted · 0 renumbered · 0 deferred · 250 unchanged
-- **Gate** 0 sentences quoted verbatim · 6 changes shipped without an explanation
+- **Touched** 9 provisions — 7 substantive · 0 date-only · 2 with no text · **6 disputed**
+- **Diff** 2 inserted · 6 modified · 1 deleted · 0 renumbered · 0 deferred · 250 unchanged
+- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02013R1308-20211207` · `v2` = `02013R1308-20230101`
 
 ---
@@ -1486,21 +1486,11 @@ Paragraph 4 no longer limits the Commission's delegated act power to updating de
 > 5. For the purposes of this Regulation:
 > (a) "less developed regions" means those regions defined as such in point (a) of the first subparagraph of Article 90(2) […truncated by emendrix: 1010 characters omitted…]
 
-**MODIFIED · Art. 29** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **INSERTED · Art. 90a — Checks and penalties related to marketing rules** · applies from: unknown (an inserted provision states its own application date only in prose)
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article establishing checks and administrative penalties tied to marketing rules, covering labelling conformity, import checks, risk-based verification of compliance, penalties for wine sector infringements, and delegated and implementing powers for the Commission on databanks, control cooperation, and check procedures. [Art. 90a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_90a)
 
@@ -1518,7 +1508,7 @@ This is a newly inserted article establishing checks and administrative penaltie
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This is a newly inserted article requiring Member States to act against unlawful use of protected designations of origin, protected geographical indications and protected traditional terms, and setting out rules on designation of a competent checking authority, annual verification of compliance with product specifications, and Commission implementing acts on related communications, authority rules, preventive actions and checks. [Art. 116a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_116a)
 
@@ -1559,7 +1549,7 @@ Paragraph 3 now refers to Member States providing for restructuring and conversi
 
 *within* `AR 214a ALN 1`, `AR 214a ALN 1 PTA (a)`, `AR 214a ALN 3` · *amended by* `32021R2117`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED, the instruction parse says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED, the instruction parse says MODIFIED
 
 The provision now covers the period 2023-2027 rather than 2014-2020, and permits Finland to continue granting national aid based on amounts granted in 2022 rather than 2013, with the legal basis for the aid changed from Article 141 of the 1994 Act of Accession to this Article itself. [Art. 214a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#art_214a) [Art. 214a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#art_214a)
 
@@ -1590,37 +1580,7 @@ The final paragraph permitting continued aid in 2021 and 2022 under the same con
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 226** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part II** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part V** · applies from: unknown
-
-*amended by* `32021R2117`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1630,7 +1590,7 @@ The final paragraph permitting continued aid in 2021 and 2022 under the same con
 
 *within* `AN III`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
 The only visible difference between the two versions is the removal of a semicolon after the citation of Council Regulation (EU) No 1370/2013, which is now followed by no punctuation mark. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20211207#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R1308-20230101#anx_III)
 
@@ -1696,7 +1656,7 @@ The only visible difference between the two versions is the removal of a semicol
 
 *amended by* `32021R2117`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
