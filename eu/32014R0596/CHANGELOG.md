@@ -15,62 +15,12 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02014R0596-20241204` → `02014R0596-20260605`
 
 - **Act** `eu:32014R0596` · **In force** 2026-06-05 · **Detected** 2026-08-13
-- **Touched** 18 provisions — 3 substantive · 0 date-only · 15 with no text · **17 disputed**
-- **Diff** 2 inserted · 15 modified · 1 deleted · 0 renumbered · 0 deferred · 41 unchanged
-- **Gate** 0 sentences quoted verbatim · 15 changes shipped without an explanation
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **2 disputed**
+- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 41 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02014R0596-20241204` · `v2` = `02014R0596-20260605`
 
 ---
-
-**MODIFIED · Art. 3** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 5** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 7** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 11** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 13** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 17 — Public disclosure of inside information** · applies from: unchanged
 
@@ -101,91 +51,11 @@ Paragraph 7 is expanded so that the obligation to disclose once confidentiality 
 > Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).. The issuer shall not combine the disclosure of inside information to the public with the marketing of its activities. The issuer shall post and maintain on its website for a period of at least five years, all inside information it is required to disclose publicly.
 > This Arti […truncated by emendrix: 10612 characters omitted…]
 
-**MODIFIED · Art. 18** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 19** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 23** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 25** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 25a** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**INSERTED · Art. 25b** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**DELETED · Art. 28** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 29** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Art. 30 — Administrative sanctions and other administrative measures** · applies from: unchanged
 
 *within* `AR 30 PA 2 ALN 1 PTA (e)`, `AR 30 PA 2 ALN 1 PTA (f)`, `AR 30 PA 2 ALN 1 PTA (g)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (i)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (ii)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (iii)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (iv)`, `AR 30 PA 2 ALN 1 PTA (j) PTI (v)`, `AR 30 PA 2 ALN 3` · *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The management-function bans and the ban from dealing on own account in points (e), (f) and (g) are extended to cover managerial responsibilities within benchmark administrators and supervised contributors, in addition to investment firms, and the permanent ban in point (f) for repeated infringements of Article 14 or 15 is replaced with a ban of at least 10 years. [Art. 30, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_30)
 
@@ -217,7 +87,7 @@ The legal-person pecuniary sanction thresholds in point (j) are restructured: po
 
 *within* `AR 31 PA 1 ALN 1`, `AR 31 PA 1 ALN 1 PTA (c)`, `AR 31 PA 1 ALN 1 PTA (f)`, `AR 31 PA 1 ALN 1 PTA (g)`, `AR 31 PA 1 ALN 1 PTA (h)` · *amended by* `32024R2809`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 The introductory clause of paragraph 1 now adds that the relevant circumstances are to be taken into account in order to apply proportionate sanctions, a phrase absent from the earlier text. [Art. 31, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0596-20260605#art_31)
 
@@ -253,26 +123,6 @@ A new point (h) has been added, addressing the disadvantage for the person respo
 > (g) measures taken by the person responsible for the infringement to prevent its repetition; and
 > (h) the disadvantage for the person responsible for the infringement resulting from the duplication of criminal and administrative proceedings and penalties for the same conduct.
 > 2. In the exercise of their powers to impose administrative sanctions and other administrative measures under Article 30, competent authorities shall cooperate cl […truncated by emendrix: 483 characters omitted…]
-
-**MODIFIED · Art. 35** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Art. 38** · applies from: unknown
-
-*amended by* `32024R2809`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02014R0596-20260605 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02014R0596-20241204 -->
