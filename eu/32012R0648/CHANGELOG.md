@@ -2061,22 +2061,12 @@ In section IV, points (g) and (h) are reworded to refer to margin simulation at 
 ### `02012R0648-20210628` → `02012R0648-20220812`
 
 - **Act** `eu:32012R0648` · **In force** 2022-08-12 · **Detected** 2026-08-13
-- **Touched** 9 provisions — 7 substantive · 0 date-only · 2 with no text · **2 disputed**
-- **Diff** 3 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 122 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 7 provisions — 7 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 2 inserted · 5 modified · 0 deleted · 0 renumbered · 0 deferred · 122 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0648-20210628` · `v2` = `02012R0648-20220812`
 
 ---
-
-**MODIFIED · Art. 1** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **INSERTED · Art. 6b — Suspension of clearing obligation in the case of resolution** · applies from: unknown (an inserted provision states its own application date only in prose)
 
@@ -2094,16 +2084,6 @@ The new article sets out the process for ESMA opinions, notification to the ESRB
 > Regulation (EU) 2021/23 of the European Parliament and of the Council of 16 December 2020 on a framework for the recovery and resolution of central counterparties and amending Regulations (EU) No 1095/2010, (EU) No 648/2012, (EU) No 600/2014, (EU) No 806/2014 and (EU) 2015/2365 and Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 (OJ L 022, 22.1.2021, p. 1)., the resolution authority of the CCP designated under Article 3(1) of that Regulation or the competent authority designated in accordance with Article 22(1) of this Regulation may, on their own initiative or at the request of a competent authority responsible for the supervision of a clearing member of the CCP under resolution, request that the Commission suspend the clearing obligation referred to in Article 4(1) of this Regulation for specific classes of OTC derivatives or for a specific type of counterparty where the following conditions are met:
 > (a) the CCP under resolution is authorised to clear the specific classes of OTC derivatives subject to the clearing obligation for which the suspension is requested; and
 > (b) the suspension of the clearing obligation for those specific classes of OTC derivatives or for a specific type of counterparty is necessary to avoid or address a serious threat to fina […truncated by emendrix: 6565 characters omitted…]
-
-**INSERTED · Art. 13a** · applies from: unknown
-
-*amended by* `32021R0023`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Art. 24a — CCP Supervisory Committee** · applies from: unchanged
 
