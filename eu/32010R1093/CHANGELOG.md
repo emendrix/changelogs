@@ -2416,9 +2416,9 @@ The revised text adds statements that the seat's location does not affect the Au
 ### `02010R1093-20140819` → `02010R1093-20160112`
 
 - **Act** `eu:32010R1093` · **In force** 2016-01-12 · **Detected** 2026-08-13
-- **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **1 disputed**
-- **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 84 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02010R1093-20140819` · `v2` = `02010R1093-20160112`
 
 ---
@@ -2486,16 +2486,6 @@ The exception concerning financial institutions under the anti-money-laundering 
 > (ii) with regard to Directives 2002/65/EC and 2005/60/EC, the authorities competent for ensuring compliance with the requirements of those Directives by credit and financial institutions;
 > (iii) with regard to deposit guarantee schemes, bodies which administer deposit guarantee schemes pursuant to Directive 2014/49/EU of the European Parliament and of the Council
 > Directive 2014/49/EU of the Eur […truncated by emendrix: 1612 characters omitted…]
-
-**MODIFIED · Annex I** · applies from: unknown
-
-*amended by* `32015L2366`
-
-**DISPUTED** — seen by the instruction parse, not by the structural diff, corpus metadata
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1093-20160112 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1093-20140819 -->
