@@ -15,9 +15,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ### `02016R0424-20160331` → `02016R0424-20260529`
 
 - **Act** `eu:32016R0424` · **In force** 2026-05-29 · **Detected** 2026-09-04
-- **Touched** 7 provisions — 6 substantive · 0 date-only · 1 with no text · **6 disputed**
-- **Diff** 6 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **5 disputed**
+- **Diff** 5 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02016R0424-20160331` · `v2` = `02016R0424-20260529`
 
 ---
@@ -60,7 +60,7 @@ The earlier version contains no equivalent points (28) or (29) and ends its list
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new article sets out the conditions under which Articles 43b to 43e apply, tying their operation to the Commission adopting an implementing act under Article 28 of Regulation (EU) 2024/2747, to subsystems and safety components designated as crisis-relevant goods under Article 18(4) of that Regulation, and to the activation of the internal market emergency mode under Article 18 of that Regulation. [Art. 43a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0424-20260529#art_43a)
 
@@ -80,7 +80,7 @@ It also states that Article 43c(7) continues to apply during the emergency mode 
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This new article sets out rules for prioritising conformity assessment of subsystems and safety components designated as crisis-relevant goods, covering the scope of application, the obligation on notified bodies to prioritise applications, a limit on resulting costs to manufacturers, and an effort to increase testing capacity. [Art. 43b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0424-20260529#art_43b)
 
@@ -97,7 +97,7 @@ This new article sets out rules for prioritising conformity assessment of subsys
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 Article 43c is a newly inserted provision setting out a derogation from the conformity assessment procedures that normally require the mandatory involvement of a notified body, allowing a Member State to authorise placing on the market or incorporation of a specific subsystem or safety component on the basis of a duly justified request from an economic operator. [Art. 43c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0424-20260529#art_43c)
 
@@ -114,7 +114,7 @@ It also lays out the procedure for informing the Commission and other Member Sta
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 A new Article 43d has been inserted, empowering the Commission to adopt implementing acts listing standards or establishing common specifications for subsystems and safety components designated as crisis-relevant goods, applicable where harmonised standards are unpublished or unavailable within a reasonable time, or where severe internal market disruptions restrict manufacturers' use of already-published harmonised standards. [Art. 43d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0424-20260529#art_43d)
 
@@ -133,7 +133,7 @@ The new article sets out how such implementing acts are adopted, how long they a
 
 *amended by* `32024R2748`
 
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, the instruction parse, not by corpus metadata
 
 This article is newly added and sets out that Member States are to prioritise market surveillance activities for the subsystems and safety components listed in the implementing act referred to in Article 43a(1), with the Commission facilitating coordination of that prioritisation through the Union Product Compliance Network. [Art. 43e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0424-20260529#art_43e)
 
@@ -145,16 +145,6 @@ It also provides that market surveillance authorities of the Member States are t
 > Prioritisation of market surveillance activities and mutual assistance among authorities
 > 1. Member States shall prioritise the market surveillance activities for subsystems and safety components listed in the implementing act referred to in Article 43a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020.
 > 2. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for subsystems and safety components listed in the implementing act referred to in Article 43a(1).
-
-**INSERTED · CHA Va** · applies from: unknown
-
-*amended by* `32024R2748`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02016R0424-20260529 -->
 
 <!-- emendrix:entry b7f4a1c2-9e3d 02016R0424-20160331 -->
