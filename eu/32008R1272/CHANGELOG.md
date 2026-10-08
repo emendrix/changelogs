@@ -3620,7 +3620,7 @@ The corresponding before text in section 1.1.3.1 ends with Note W and the before
 ### `02008R1272-20221217` → `02008R1272-20230420`
 
 - **Act** `eu:32008R1272` · **In force** 2023-04-20 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **4 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20221217` · `v2` = `02008R1272-20230420`
@@ -3630,8 +3630,6 @@ The corresponding before text in section 1.1.3.1 ends with Note W and the before
 **MODIFIED · Annex I — CLASSIFICATION AND LABELLING REQUIREMENTS FOR HAZARDOUS SUBSTANCES AND MIXTURES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I SCT 3 SCT 3.11`, `AN I SCT 4 SCT 4.2`, `AN I SCT 4 SCT 4.3`, `AN I SCT 4 SCT 4.4` · *dates* +2025-05-01 +2026-05-01 +2026-11-01 +2028-05-01 · *amended by* `32023R0707`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -3680,8 +3678,6 @@ The corresponding before text in section 1.1.3.1 ends with Note W and the before
 **MODIFIED · Annex II — SPECIAL RULES FOR LABELLING AND PACKAGING OF CERTAIN SUBSTANCES AND MIXTURES** · applies from: unchanged
 
 *within* `AN II SCT 2 SCT 2.10` · *amended by* `32023R0707`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Section 2.10 now adds two further concentration triggers requiring the EUH210 statement, covering mixtures containing 0.1% or more of a substance classified as an endocrine disruptor for human health category 2 or as an endocrine disruptor for the environment category 2. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230420#anx_II) [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_II)
 
@@ -3732,8 +3728,6 @@ Section 2.10 now adds two further concentration triggers requiring the EUH210 st
 **MODIFIED · Annex III — LIST OF HAZARD STATEMENTS, SUPPLEMENTAL HAZARD INFORMATION AND SUPPLEMENTAL LABEL ELEMENTS** · applies from: unchanged
 
 *within* `AN III SCT 1`, `AN III SCT 1 PTA (b)`, `AN III SCT 1 PTA (c)`, `AN III SCT 1 PTA (d)` · *amended by* `32023R0707`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The introductory list of precedence principles for hazard statements gains two new points, (c) and (d), alongside the existing (a) and (b). [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230420#anx_III)
 
@@ -3792,8 +3786,6 @@ The remainder of the shown text, including the hazard statement tables, is uncha
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1` · *amended by* `32023R0707`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The table of hazard class and category codes in section 1.1.2.1.1 now includes new rows for endocrine disruptor codes for human health (ED HH 1 and ED HH 2) and for the environment (ED ENV 1 and ED ENV 2), and it adds persistence-related codes PBT, vPvB, PMT and vPvM alongside the aspiration and aquatic hazard entries. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230420#anx_VI)
 
