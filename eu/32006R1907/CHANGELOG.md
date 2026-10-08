@@ -6059,9 +6059,9 @@ Because the visible material is truncated before the end of both texts, further 
 ### `02006R1907-20071123` → `02006R1907-20081012`
 
 - **Act** `eu:32006R1907` · **In force** 2008-10-12 · **Detected** 2026-08-13
-- **Touched** 4 provisions — 2 substantive · 0 date-only · 2 with no text · **4 disputed**
-- **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
-- **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 156 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02006R1907-20071123` · `v2` = `02006R1907-20081012`
 
 ---
@@ -6069,8 +6069,6 @@ Because the visible material is truncated before the end of both texts, further 
 **MODIFIED · Annex IV — ANNEX IV** · applies from: unchanged
 
 *within* `AN IV` · *amended by* `32008R0987`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 The list of substances exempted from registration under Article 2(7)(a) has been substantially revised, with numerous entries present in the earlier version, such as several fatty acids, oils, glycerides and other named substances, no longer appearing in the later version. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20071123#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_IV)
 
@@ -6152,21 +6150,9 @@ Some entries retained in both versions show minor wording changes, such as the r
 > 232-442-7 Tallow, hydrogenated 8030-12-4
 > 23 […truncated by emendrix: 1123 characters omitted…]
 
-**MODIFIED · Annex 4** · applies from: unknown
-
-*amended by* `32008R0987`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V PO 7`, `AN V PO 8`, `AN V PO 9`, `AN V PO 10`, `AN V PO 11`, `AN V PO 12`, `AN V PO 13` · *amended by* `32008R0987`
-
-**DISPUTED** — seen by the structural diff, the instruction parse, not by corpus metadata
 
 Paragraph 7's list of naturally occurring substances was shortened, dropping minerals-related terms like ore listings and natural gas variants while retaining others such as coal and crude oil. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20071123#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_V)
 
@@ -6199,15 +6185,5 @@ New paragraphs 9 through 13 were added covering substances obtained from natural
 > (b) a substance solely intended to provide a specific physicochemical characteristic functions as intended.
 > 5. By-products, unless they are imported or placed on the market themselves.
 > 6. Hydrates of a substance or hydrated ions, formed by association of a substance with water […truncated by emendrix: 2544 characters omitted…]
-
-**MODIFIED · Annex 5** · applies from: unknown
-
-*amended by* `32008R0987`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 <!-- emendrix:entry-end b7f4a1c2-9e3d 02006R1907-20081012 -->
 
