@@ -15,22 +15,22 @@
   "diff_only": false,
   "summary": {
     "inserted": 1,
-    "modified": 1,
+    "modified": 0,
     "deleted": 0,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 2,
+    "touched_units": 1,
     "unchanged_units": 55,
-    "disputed": 1
+    "disputed": 0
   },
   "counts": {
-    "touched": 2,
+    "touched": 1,
     "substantive": 1,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 1,
+    "textless": 0,
+    "disputed": 0,
     "quoted": 0,
-    "unexplained": 2
+    "unexplained": 1
   },
   "changes": [
     {
@@ -87,71 +87,14 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "unexplained",
       "sentences": [],
       "applicability_note": null,
       "unexplained": "ModelAPIError: Connection error.",
       "unexplained_kind": ""
-    },
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32014R0600",
-            "display_name": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012  Text with EEA relevance"
-          },
-          "version": "02014R0600-20200326",
-          "location": "TIS III"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32019R2033",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2020-03-26",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32019R2033 R",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "absent",
-            "detail": "32019R2033, 0.962 of its instruction clauses read, 16 dated outside the window, 0 undated and claimed",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
     }
   ],
   "corroboration": {
@@ -176,27 +119,15 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AR 17a",
-          "TIS III"
+          "AR 17a"
         ],
-        "note": "2 annotations in (2016-07-01, 2020-03-26]",
+        "note": "2 annotations in (2016-07-01, 2020-03-26]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AR 17a",
             "change_type": "INSERTED",
             "in_force": "2020-03-26",
             "source": "32019R2033 J",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32019R2033",
-              "display_name": null
-            }
-          },
-          {
-            "location": "TIS III TIT",
-            "change_type": "MODIFIED",
-            "in_force": "2020-03-26",
-            "source": "32019R2033 R",
             "amending_act": {
               "corpus": "eu",
               "key": "32019R2033",
@@ -232,11 +163,11 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 1,
-        "right_units": 2,
+        "right_units": 1,
         "shared": 1,
         "precision": 1.0,
-        "recall": 0.5,
-        "f1": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 1.0,
         "kind_mismatches": 0
       },
       {
@@ -253,39 +184,18 @@
       {
         "left": "corpus_metadata",
         "right": "instruction_parse",
-        "left_units": 2,
+        "left_units": 1,
         "right_units": 1,
         "shared": 1,
-        "precision": 0.5,
+        "precision": 1.0,
         "recall": 1.0,
-        "f1": 0.6666666666666666,
+        "f1": 1.0,
         "kind_mismatches": 0
       }
     ],
-    "disagreements": [
-      {
-        "unit": "TIS III",
-        "reason": "seen by corpus_metadata, not by structural_diff, instruction_parse",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff",
-          "instruction_parse"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      }
-    ],
-    "metadata_only_units": [
-      "TIS III"
-    ]
+    "disagreements": [],
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -325,6 +235,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 8,
       "repaired": 7,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,
