@@ -19683,9 +19683,9 @@ The rest of the paragraph, including the percentage figures and the 28 June 2025
 ### `02013R0575-20201228` → `02013R0575-20210629`
 
 - **Act** `eu:32013R0575` · **In force** 2021-04-10, 2021-06-26, 2021-06-28 · **Detected** 2026-08-13
-- **Touched** 230 provisions — 214 substantive · 0 date-only · 16 with no text · **128 disputed**
-- **Diff** 85 inserted · 145 modified · 0 deleted · 0 renumbered · 0 deferred · 513 unchanged
-- **Gate** 0 sentences quoted verbatim · 16 changes shipped without an explanation
+- **Touched** 224 provisions — 214 substantive · 0 date-only · 10 with no text · **122 disputed**
+- **Diff** 85 inserted · 139 modified · 0 deleted · 0 renumbered · 0 deferred · 513 unchanged
+- **Gate** 0 sentences quoted verbatim · 10 changes shipped without an explanation
 - **Citations** `v1` = `02013R0575-20201228` · `v2` = `02013R0575-20210629`
 
 ---
@@ -19855,7 +19855,7 @@ The introductory wording of paragraph 1 now specifies that the waivable requirem
 
 **INSERTED · Art. 10a — Application of prudential requirements on a consolidated basis where investment firms are parent undertakings** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 10a has been added, providing that investment firms are to be treated as parent financial holding companies in a Member State or as Union parent financial holding companies when they are parent undertakings of an institution or of an investment firm subject to the Regulation as referred to in Article 1(2) or (5) of Regulation (EU) 2019/2033. [Art. 10a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_10a)
 
@@ -19947,7 +19947,7 @@ The prior version referred only to the requirements laid down in Part Seven, wit
 
 *amended by* `32019R2033`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -20376,7 +20376,7 @@ Within the requirements carried over into paragraph 2, the wording is adjusted t
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -20478,7 +20478,7 @@ The remainder of Article 119, including paragraphs 1 through 4 and the first sen
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -21277,7 +21277,7 @@ It also establishes that an institution which has ceased using the simplified me
 
 *within* `AR 274`, `AR 274 PA 1 ALN 1`, `AR 274 PA 1 ALN 1 PTA (a)`, `AR 274 PA 1 ALN 1 PTA (b)`, `AR 274 PA 1 ALN 1 PTA (c)`, `AR 274 PA 1 ALN 2`, `AR 274 PA 2 ALN 1`, `AR 274 PA 2 ALN 1 PTA (a)`, `AR 274 PA 2 ALN 1 PTA (b)`, `AR 274 PA 2 ALN 1 PTA (c)`, `AR 274 PA 3 ALN 1`, `AR 274 PA 4 ALN 1`, `AR 274 PA 5`, `AR 274 PA 6`, `AR 274 PA 7`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading changed from Mark-to-Market Method to Exposure value, and its entire content was replaced from a method based on current market values and notional-amount percentage tables to a framework based on netting sets, contractual netting agreements, and a formula using replacement cost, potential future exposure and an alpha factor. [Art. 274, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_274) [Art. 274, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_274)
 
@@ -21322,7 +21322,7 @@ The earlier text set out rules for attaching current market values to contracts,
 
 *within* `AR 275`, `AR 275 PA 1 ALN 1`, `AR 275 PA 2 ALN 1`, `AR 275 PA 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision was retitled from Original Exposure Method to Replacement cost, and the entire content was replaced. [Art. 275, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_275) [Art. 275, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_275)
 
@@ -21376,7 +21376,7 @@ The later text also adds a statement on how NICAMA may be calculated, at trade l
 
 *within* `AR 276`, `AR 276 PA 1 ALN 1`, `AR 276 PA 1 ALN 1 PTA (a)`, `AR 276 PA 1 ALN 1 PTA (b)`, `AR 276 PA 1 ALN 1 PTA (c)`, `AR 276 PA 1 ALN 1 PTA (d)`, `AR 276 PA 1 ALN 1 PTA (e)`, `AR 276 PA 1 ALN 1 PTA (f)`, `AR 276 PA 1 ALN 1 PTA (g)`, `AR 276 PA 2 ALN 1`, `AR 276 PA 2 ALN 2`, `AR 276 PA 3 ALN 1`, `AR 276 PA 3 ALN 1 PTA (a)`, `AR 276 PA 3 ALN 1 PTA (b)`, `AR 276 PA 3 ALN 1 PTA (c)`, `AR 276 PA 3 ALN 1 PTA (d)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading and substance changed from describing a Standardised Method exposure-value formula for OTC derivatives and long settlement transactions to describing recognition and treatment of collateral, including rules for calculating VM, VMMA, NICA and NICAMA amounts. [Art. 276, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_276) [Art. 276, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_276)
 
@@ -21438,7 +21438,7 @@ The earlier paragraph 3 listed four lettered rules on sign conventions, eligible
 
 *within* `AR 277`, `AR 277 PA 1 ALN 1`, `AR 277 PA 1 ALN 1 PTA (a)`, `AR 277 PA 1 ALN 1 PTA (b)`, `AR 277 PA 1 ALN 1 PTA (c)`, `AR 277 PA 1 ALN 1 PTA (d)`, `AR 277 PA 1 ALN 1 PTA (e)`, `AR 277 PA 1 ALN 1 PTA (f)`, `AR 277 PA 1 ALN 2`, `AR 277 PA 2 ALN 1`, `AR 277 PA 3 ALN 1`, `AR 277 PA 4 ALN 1`, `AR 277 PA 4 ALN 1 PTA (a)`, `AR 277 PA 4 ALN 1 PTA (b)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading and substance changed from governing transactions with a linear risk profile, mapping them to interest rate, equity/commodity or currency risk positions with sizing rules based on notional value, duration or maturity, to a broader mapping of every transaction of a netting set into one of six named risk categories (interest rate, foreign exchange, credit, equity, commodity, other). [Art. 277, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_277) [Art. 277, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_277)
 
@@ -21475,7 +21475,7 @@ The former paragraphs on the sizing of risk positions for linear transactions, d
 
 **INSERTED · Art. 277a — Hedging sets** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted Article 277a, which sets out rules for institutions to establish hedging sets for each risk category of a netting set and to assign transactions to them based on criteria such as currency, currency pair, risk category, or identical primary risk driver. [Art. 277a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_277a)
 
@@ -21502,7 +21502,7 @@ It also requires separate individual hedging sets for transactions whose primary
 
 *within* `AR 278`, `AR 278 PA 1 ALN 1`, `AR 278 PA 1 ALN 2`, `AR 278 PA 2 ALN 1`, `AR 278 PA 3 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from Transactions with a non-linear risk profile to Potential future exposure, and the substance of the article shifts from defining risk position sizes for non-linear OTC derivatives based on delta equivalent effective notional value to defining a formula for calculating the potential future exposure of a netting set using add-on values per risk category and a multiplier. [Art. 278, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_278) [Art. 278, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_278)
 
@@ -21548,7 +21548,7 @@ The prior text's paragraphs on non-linear risk positions tied to Article 280(1) 
 
 *within* `AR 279`, `AR 279 ALN 1`, `AR 279 ALN 1 PTA (a)`, `AR 279 ALN 1 PTA (b)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changed from Treatment of collateral to Calculation of the risk position, and the article's subject matter changed accordingly. [Art. 279, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_279) [Art. 279, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_279)
 
@@ -21580,7 +21580,7 @@ The earlier text set out rules for treating collateral received from or posted w
 
 *within* `AR 279a PA 1`, `AR 279a PA 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The after text adds two new paragraphs, numbered 1 and 2, preceding what had been the sole paragraph 3 in the before text. [Art. 279a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_279a)
 
@@ -21627,7 +21627,7 @@ Paragraph 2 defines what constitutes a long position and a short position in the
 
 **INSERTED · Art. 279b — Adjusted notional amount** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article setting out how institutions calculate the adjusted notional amount of a derivative transaction, including separate methods for transactions mapped to the interest rate, credit, foreign exchange, equity, commodity and other risk categories. [Art. 279b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_279b)
 
@@ -21653,7 +21653,7 @@ It also specifies how the notional amount or number of units of the underlying i
 
 **INSERTED · Art. 279c — Maturity Factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 279c is a newly added provision defining the maturity factor used in institutions' calculations, setting out separate formulas for netting sets referred to in Article 275(1) and for those referred to in Article 275(2) and (3), and specifying how remaining maturity and margin period of risk are to be applied. [Art. 279c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_279c)
 
@@ -21681,7 +21681,7 @@ The text also states a rule for determining the margin period of risk between a 
 
 *within* `AR 280`, `AR 280 ALN 1`, `AR 280 PA 1`, `AR 280 PA 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading and substance changed entirely: the earlier version set out how an institution determines the size and sign of a risk position, including formulas for linear and non-linear instruments and debt instruments, and how risk positions are grouped into hedging sets to calculate a net risk position under Article 276(2). [Art. 280, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_280)
 
@@ -21726,7 +21726,7 @@ The prior calculation methodology and its formulas for notional value, delta equ
 
 **INSERTED · Art. 280a — Interest rate risk category add-on** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision introducing a defined method for calculating the interest rate risk category add-on for a netting set, including formulas covering hedging set supervisory factor coefficients, the supervisory factor, and effective notional amounts across time buckets. [Art. 280a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_280a)
 
@@ -21763,7 +21763,7 @@ It also sets out how transactions within a hedging set are mapped to one of thre
 
 **INSERTED · Art. 280b — Foreign exchange risk category add-on** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly added provision that sets out how institutions calculate the foreign exchange risk category add-on for a netting set, expressed as the sum of add-ons across foreign exchange hedging sets. [Art. 280b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_280b)
 
@@ -21795,7 +21795,7 @@ It further specifies the calculation for each hedging set using a supervisory fa
 
 **INSERTED · Art. 280c — Credit risk category add-on** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 280c is newly added, setting out how institutions establish credit reference entities within a netting set and how they calculate the credit risk category add-on for the purposes of Article 278, including formulas for hedging-set and entity-level add-ons and supervisory factor mappings via Tables 3 and 4. [Art. 280c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_280c)
 
@@ -21818,7 +21818,7 @@ Article 280c is newly added, setting out how institutions establish credit refer
 
 **INSERTED · Art. 280d — Equity risk category add-on** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 280d is a newly added provision setting out how institutions establish equity reference entities within a netting set and calculate the equity risk category add-on for that netting set, for hedging sets, and for individual equity reference entities. [Art. 280d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_280d)
 
@@ -21843,7 +21843,7 @@ The text specifies distinct rules and correlation and supervisory factor values 
 
 **INSERTED · Art. 280e — Commodity risk category add-on** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 280e is a new provision setting out how institutions calculate the commodity risk category add-on for a netting set, including the formulas for the overall add-on, the hedging-set add-on, and the add-on for each commodity reference type, plus rules on how commodity reference types and hedging sets are established. [Art. 280e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_280e)
 
@@ -21866,7 +21866,7 @@ It also allows competent authorities to require an institution significantly exp
 
 **INSERTED · Art. 280f — Other risks category add-on** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is newly inserted and sets out a method for institutions to calculate an add-on for the other risks category within a netting set, defined as the sum of add-ons for each other risk hedging set. [Art. 280f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_280f)
 
@@ -21902,7 +21902,7 @@ It further specifies how the add-on for a given hedging set j is calculated, usi
 
 *within* `AR 281`, `AR 281 PA 1 ALN 1`, `AR 281 PA 2 ALN 1`, `AR 281 PA 2 ALN 1 PTA (a)`, `AR 281 PA 2 ALN 1 PTA (b)`, `AR 281 PA 2 ALN 1 PTA (c)`, `AR 281 PA 2 ALN 1 PTA (d)`, `AR 281 PA 2 ALN 1 PTA (e)`, `AR 281 PA 2 ALN 1 PTA (f)`, `AR 281 PA 2 ALN 1 PTA (g)`, `AR 281 PA 2 ALN 1 PTA (h)`, `AR 281 PA 2 ALN 1 PTA (i)`, `AR 281 PA 2 ALN 1 PTA (j)`, `AR 281 PA 2 ALN 1 PTA (k)`, `AR 281 PA 2 ALN 1 PTA (l)`, `AR 281 PA 2 ALN 1 PTA (m)`, `AR 281 PA 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading and entire substance have been replaced: the earlier version addressed interest rate risk positions and hedging set assignment under Article 336, while the revised version instead sets out how institutions calculate a single exposure value at netting set level, with detailed derogations and formulas referencing Articles 274 through 280e. [Art. 281, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_281) [Art. 281, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_281)
 
@@ -21956,7 +21956,7 @@ The earlier version's Table 4 on hedging sets by currency and maturity, and its 
 
 *within* `AR 282`, `AR 282 PA 1 ALN 1`, `AR 282 PA 2 ALN 1`, `AR 282 PA 2 ALN 2`, `AR 282 PA 3 ALN 1`, `AR 282 PA 3 ALN 1 PTA (a)`, `AR 282 PA 3 ALN 1 PTA (b)`, `AR 282 PA 3 ALN 2`, `AR 282 PA 3 ALN 3`, `AR 282 PA 4 ALN 1`, `AR 282 PA 4 ALN 1 PTA (a)`, `AR 282 PA 4 ALN 1 PTA (b)`, `AR 282 PA 4 ALN 1 PTA (c)`, `AR 282 PA 4 ALN 1 PTA (d)`, `AR 282 PA 4 ALN 2`, `AR 282 PA 4 ALN 2 PTA (a)`, `AR 282 PA 4 ALN 2 PTA (b)`, `AR 282 PA 4 ALN 2 PTA (c)`, `AR 282 PA 4 ALN 2 PTA (d)`, `AR 282 PA 5`, `AR 282 PA 6`, `AR 282 PA 7`, `AR 282 PA 8`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading and substance were entirely replaced: the earlier version defined hedging sets, their categories and CCR multipliers for a mark-to-market-type method, while the later version instead sets out a formula-based calculation of the exposure value using replacement cost and potential future exposure. [Art. 282, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_282) [Art. 282, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_282)
 
@@ -22071,7 +22071,7 @@ All the specific calculation rules, formulas, tables and cross-references to Art
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -22589,7 +22589,7 @@ The closing phrase was adjusted from "calculating own funds requirements for CVA
 
 *amended by* `32019R2033`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -22632,7 +22632,7 @@ Paragraph 6(a) and (b) now refer to "business days" instead of "working days," a
 
 *within* `AR 392 ALN 1` · *amended by* `32019R0876`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says INSERTED
 
 The threshold for classifying an exposure as a large exposure is now measured against the institution's Tier 1 capital rather than its eligible capital. [Art. 392, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_392) [Art. 392, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_392)
 
@@ -23279,7 +23279,7 @@ The same point also changed the reference to who may withdraw and request paymen
 
 *amended by* `32019R2033`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says INSERTED, corpus metadata says MODIFIED
 
 This new article sets out how the net stable funding ratio applies on a consolidated basis, covering the treatment of assets, off-balance-sheet items, liabilities, own funds and liquid assets of third-country subsidiaries whose national law imposes different stable funding factors, and the consolidated treatment of certain investment firms within a group. [Art. 428a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23295,7 +23295,7 @@ This new article sets out how the net stable funding ratio applies on a consolid
 
 **INSERTED · Art. 428b — The net stable funding ratio** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new article setting out the net stable funding ratio, defining it as the ratio of available stable funding to required stable funding expressed as a percentage, with a minimum level of 100% to be maintained by institutions. [Art. 428b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428b)
 
@@ -23312,7 +23312,7 @@ The text also sets out consequences when the ratio falls or is expected to fall 
 
 **INSERTED · Art. 428c — Calculation of the net stable funding ratio** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision setting out how institutions calculate the net stable funding ratio, requiring assets, liabilities and off-balance-sheet items to be taken into account on a gross basis unless otherwise specified. [Art. 428c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428c)
 
@@ -23329,7 +23329,7 @@ It further specifies that institutions apply stable funding factors from Chapter
 
 **INSERTED · Art. 428d — Derivative contracts** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 428d is a newly added provision setting out how institutions calculate required stable funding for derivative contracts, covering netting on a gross or net basis, treatment of cash collateral, and a possible waiver for certain derivative contracts with central banks. [Art. 428d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428d)
 
@@ -23348,7 +23348,7 @@ It did not exist in the earlier version of the text and appears here for the fir
 
 **INSERTED · Art. 428e — Netting of secured lending transactions and capital market-driven transactions** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly added provision setting out that assets and liabilities arising from securities financing transactions with a single counterparty are to be calculated on a net basis, subject to the netting conditions specified in Article 429b(4). [Art. 428e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428e)
 
@@ -23360,7 +23360,7 @@ This is a newly added provision setting out that assets and liabilities arising 
 
 **INSERTED · Art. 428f — Interdependent assets and liabilities** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 428f is a newly added provision setting out conditions under which an institution may, subject to prior approval of competent authorities, treat an asset and a liability as interdependent. [Art. 428f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428f)
 
@@ -23382,7 +23382,7 @@ It also lists specific products and services, such as centralised regulated savi
 
 **INSERTED · Art. 428g — Deposits in institutional protection schemes and cooperative networks** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new, adding rules for sight deposits that an institution belonging to an institutional protection scheme, a waiver-eligible network under Article 10, or a cooperative network maintains with its central institution and treats as liquid assets. [Art. 428g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428g)
 
@@ -23398,7 +23398,7 @@ It sets out that the depositing institution applies the required stable funding 
 
 **INSERTED · Art. 428h — Preferential treatment within a group or within an institutional protection scheme** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new text, setting out conditions under which competent authorities may allow institutions to apply a higher available stable funding factor or a lower required stable funding factor to certain assets, liabilities and committed credit or liquidity facilities involving group or institutional-protection-scheme counterparties. [Art. 428h, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428h)
 
@@ -23420,7 +23420,7 @@ It lists the categories of qualifying counterparties, the conditions relating to
 
 **INSERTED · Art. 428i — Calculation of the amount of available stable funding** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new article sets out that the available stable funding amount is calculated by multiplying the accounting value of categories of liabilities and own funds by the applicable available stable funding factors, with the total being the sum of those weighted amounts. [Art. 428i, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428i)
 
@@ -23435,7 +23435,7 @@ It also states that bonds and other debt securities issued by the institution, s
 
 **INSERTED · Art. 428j — Residual maturity of a liability or of own funds** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new text, setting out rules on how institutions determine the residual maturity of liabilities and own funds for purposes of available stable funding factors under Section 2. [Art. 428j, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428j)
 
@@ -23452,7 +23452,7 @@ It covers treatment of options, deposits with fixed notice periods, term deposit
 
 **INSERTED · Art. 428k — 0 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is an entirely new article establishing a 0% available stable funding factor for liabilities without a stated maturity, with specified exceptions for deferred tax liabilities and minority interests, and setting out further factors for those exceptions and for other listed liabilities and netting-set calculations. [Art. 428k, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428k)
 
@@ -23473,7 +23473,7 @@ This is an entirely new article establishing a 0% available stable funding facto
 
 **INSERTED · Art. 428l — 50 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 428l is a newly added provision setting a 50% available stable funding factor for a defined list of liabilities. [Art. 428l, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428l)
 
@@ -23500,7 +23500,7 @@ The listed categories include certain operational deposits, liabilities with a r
 
 **INSERTED · Art. 428m — 90 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article setting a 90% available stable funding factor for sight retail deposits, retail deposits with a fixed notice period of less than one year, and term retail deposits with a residual maturity of less than one year, where such deposits meet the criteria for other retail deposits laid down in the delegated act mentioned in Article 460(1). [Art. 428m, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428m)
 
@@ -23512,7 +23512,7 @@ This is a newly inserted article setting a 90% available stable funding factor f
 
 **INSERTED · Art. 428n — 95 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 428n is added, setting a 95% available stable funding factor for sight retail deposits, retail deposits with a fixed notice period of less than one year, and term retail deposits with a residual maturity of less than one year, provided they meet the stable retail deposit criteria set out in the delegated act referred to in Article 460(1). [Art. 428n, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428n)
 
@@ -23524,7 +23524,7 @@ A new Article 428n is added, setting a 95% available stable funding factor for s
 
 **INSERTED · Art. 428o — 100 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 428o is a newly added provision setting out that certain liabilities, capital items and instruments are to be subject to a 100% available stable funding factor, covering categories of Common Equity Tier 1 items, Additional Tier 1 items, Tier 2 items, other capital instruments, and other secured and unsecured borrowings and liabilities including term deposits, each with specified conditions on residual maturity and exclusions. [Art. 428o, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428o)
 
@@ -23541,7 +23541,7 @@ Article 428o is a newly added provision setting out that certain liabilities, ca
 
 **INSERTED · Art. 428p — Calculation of the amount of required stable funding** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This article is newly added and sets out the method for calculating the amount of required stable funding, including how accounting values are multiplied by required stable funding factors and summed across assets and off-balance-sheet items. [Art. 428p, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428p)
 
@@ -23558,7 +23558,7 @@ It also lays out rules for treating borrowed, lent, encumbered and unencumbered 
 
 **INSERTED · Art. 428q — Residual maturity of an asset** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new text, setting out how institutions are to determine the residual maturity of assets and off-balance-sheet items for purposes of calculating required stable funding factors, including rules on segregated assets, options affecting maturity, and amortising loans. [Art. 428q, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428q)
 
@@ -23572,7 +23572,7 @@ This provision is entirely new text, setting out how institutions are to determi
 
 **INSERTED · Art. 428r — 0 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new, setting out a list of asset categories that receive a 0% required stable funding factor, including certain unencumbered high-quality liquid assets, central bank reserves and claims, trade date receivables, interdependent assets, and certain collateralised securities financing monies due. [Art. 428r, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428r)
 
@@ -23592,7 +23592,7 @@ It also newly allows competent authorities, with the relevant central bank's agr
 
 **INSERTED · Art. 428s — 5 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is new text introducing Article 428s, which sets a 5% required stable funding factor for specified assets and off-balance-sheet items, including certain unencumbered CIU shares or units, monies due from short-term securities financing transactions with financial customers, undrawn portions of committed credit and liquidity facilities, and short-term trade finance off-balance-sheet products. [Art. 428s, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428s)
 
@@ -23612,7 +23612,7 @@ It also states that institutions are to apply a 5% required stable funding facto
 
 **INSERTED · Art. 428t — 7 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new article establishes that unencumbered assets qualifying as level 1 extremely high quality covered bonds under the delegated act referenced in Article 460(1) are assigned a required stable funding factor of 7%. [Art. 428t, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428t)
 
@@ -23626,7 +23626,7 @@ The text specifies that this 7% factor applies irrespective of whether those ass
 
 **INSERTED · Art. 428u — 7,5 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly added article specifying that trade finance off-balance-sheet related products referred to in Annex I, with a residual maturity of at least six months but less than one year, are assigned a required stable funding factor of 7.5 %. [Art. 428u, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428u)
 
@@ -23638,7 +23638,7 @@ This is a newly added article specifying that trade finance off-balance-sheet re
 
 **INSERTED · Art. 428v — 10 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is new, adding Article 428v, which lists three categories of assets and off-balance-sheet items that are assigned a 10% required stable funding factor. [Art. 428v, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428v)
 
@@ -23655,7 +23655,7 @@ The categories cover monies due from transactions with financial customers of le
 
 **INSERTED · Art. 428w — 12 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new provision establishes that unencumbered shares or units in CIUs eligible for a 12% haircut under the delegated act referred to in Article 460(1) for liquidity coverage ratio purposes are to carry a 12% required stable funding factor. [Art. 428w, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428w)
 
@@ -23669,7 +23669,7 @@ The provision states this factor applies regardless of whether the shares or uni
 
 **INSERTED · Art. 428x — 15 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision setting a 15% required stable funding factor for unencumbered assets that qualify as level 2A assets under the delegated act referenced in Article 460(1), regardless of whether those assets meet the operational requirements or liquidity buffer composition requirements in that delegated act. [Art. 428x, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428x)
 
@@ -23681,7 +23681,7 @@ This is a new provision setting a 15% required stable funding factor for unencum
 
 **INSERTED · Art. 428y — 20 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This article is newly added and sets out that unencumbered shares or units in CIUs eligible for a 20% haircut under the delegated act referenced in Article 460(1) are assigned a 20% required stable funding factor. [Art. 428y, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428y)
 
@@ -23695,7 +23695,7 @@ The text specifies that this factor applies regardless of whether such shares or
 
 **INSERTED · Art. 428z — 25 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 428z has been added, setting a required stable funding factor of 25 % for unencumbered level 2B securitisations referred to in the delegated act under Article 460(1). [Art. 428z, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428z)
 
@@ -23709,7 +23709,7 @@ The text specifies that this 25 % factor applies regardless of whether such secu
 
 **INSERTED · Art. 428aa — 30 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly added article setting a 30% required stable funding factor for two categories of unencumbered assets: certain high quality covered bonds and certain shares or units in collective investment undertakings, as identified by reference to the delegated act mentioned in Article 460(1). [Art. 428aa, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23725,7 +23725,7 @@ The text specifies that these assets receive this factor regardless of whether t
 
 **INSERTED · Art. 428ab — 35 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article that sets a 35% required stable funding factor for two categories of unencumbered assets: level 2B securitisations under the delegated act referenced in Article 460(1), and shares or units in CIUs eligible for a 35% haircut under that same delegated act. [Art. 428ab, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23741,7 +23741,7 @@ The text specifies that both categories are covered regardless of whether they m
 
 **INSERTED · Art. 428ac — 40 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new article assigns a 40% required stable funding factor to unencumbered shares or units in CIUs that qualify for a 40% haircut under the liquidity coverage ratio delegated act referred to in Article 460(1). [Art. 428ac, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23755,7 +23755,7 @@ The text specifies that this factor applies regardless of whether those shares o
 
 **INSERTED · Art. 428ad — 50 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted provision setting out a list of asset categories that are subject to a 50 percent required stable funding factor, including certain unencumbered level 2B eligible assets, specified operational deposits, various short-term monies due from public sector, corporate, retail and financial counterparties, certain trade finance products, and certain encumbered or otherwise unspecified assets with residual maturities under one year. [Art. 428ad, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23777,7 +23777,7 @@ This is a newly inserted provision setting out a list of asset categories that a
 
 **INSERTED · Art. 428ae — 55 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new article assigning a 55% required stable funding factor to unencumbered shares or units in CIUs that qualify for a 55% haircut under the delegated act referenced in Article 460(1), applying regardless of whether the operational and liquidity-buffer composition requirements in that delegated act are met. [Art. 428ae, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23789,7 +23789,7 @@ This is a new article assigning a 55% required stable funding factor to unencumb
 
 **INSERTED · Art. 428af — 65 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new, introducing Article 428af which sets a 65% required stable funding factor for two categories of unencumbered assets. [Art. 428af, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23805,7 +23805,7 @@ The first category covers loans secured by residential property mortgages or ful
 
 **INSERTED · Art. 428ag — 85 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article listing specific categories of assets and off-balance-sheet items, such as margin and default-fund contributions posted for derivatives and CCPs, certain unencumbered loans, trade finance products, securities, exchange-traded equities, physically traded commodities, and assets encumbered in covered-bond cover pools, that are assigned an 85% required stable funding factor. [Art. 428ag, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23822,7 +23822,7 @@ This is a newly inserted article listing specific categories of assets and off-b
 
 **INSERTED · Art. 428ah — 100 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted provision setting a 100% required stable funding factor for certain assets, including encumbered assets with a residual maturity of one year or more and various other listed asset categories such as non-performing exposures and defaulted securities. [Art. 428ah, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23842,7 +23842,7 @@ It also sets out a calculation methodology applying a 100% factor to the positiv
 
 **INSERTED · Art. 428ai — Derogation for small and non-complex institutions** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new article allows small and non-complex institutions, with the prior permission of their competent authority, to calculate the ratio between available and required stable funding by way of derogation from Chapters 3 and 4, referring instead to the available stable funding of Chapter 6 and the required stable funding of Chapter 7. [Art. 428ai, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23857,7 +23857,7 @@ It also permits a competent authority to require a small and non-complex institu
 
 **INSERTED · Art. 428aj — Simplified calculation of the amount of available stable funding** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new article setting out a simplified method for calculating the amount of available stable funding, based on multiplying the accounting value of categories of liabilities and own funds by specified factors and summing the weighted amounts. [Art. 428aj, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23872,7 +23872,7 @@ It also adds a provision allowing certain bonds and debt securities issued by th
 
 **INSERTED · Art. 428ak — Residual maturity of a liability or own funds** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article setting out how institutions determine the residual maturity of a liability or of own funds for the purpose of applying available stable funding factors. [Art. 428ak, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23889,7 +23889,7 @@ It covers treatment of options, notice-period and term deposits, and the splitti
 
 **INSERTED · Art. 428al — 0 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article setting a 0% available stable funding factor for liabilities without a stated maturity, with specific treatment carved out for deferred tax liabilities and minority interests based on their residual maturity. [Art. 428al, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23912,7 +23912,7 @@ It also lists other liabilities subject to the 0% factor, including certain trad
 
 **INSERTED · Art. 428am — 50 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This article is entirely new, setting out a list of liabilities that are to be assigned a 50 % available stable funding factor. [Art. 428am, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23934,7 +23934,7 @@ The list covers operational deposits meeting criteria set in a delegated act und
 
 **INSERTED · Art. 428an — 90 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new Article 428an is added, setting a 90% available stable funding factor for sight retail deposits, retail deposits with a fixed notice period of less than one year, and term retail deposits with a residual maturity of less than one year that meet the criteria for other retail deposits set out in the delegated act referred to in Article 460(1). [Art. 428an, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23946,7 +23946,7 @@ A new Article 428an is added, setting a 90% available stable funding factor for 
 
 **INSERTED · Art. 428ao — 95 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new provision states that sight retail deposits, retail deposits with a fixed notice period of less than one year, and term retail deposits with a residual maturity of less than one year that meet the stable retail deposit criteria in the delegated act referred to in Article 460(1) are assigned a 95% available stable funding factor. [Art. 428ao, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23958,7 +23958,7 @@ This new provision states that sight retail deposits, retail deposits with a fix
 
 **INSERTED · Art. 428ap — 100 % available stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new, setting out a list of liabilities, capital items and instruments that are to be assigned a 100% available stable funding factor, covering Common Equity Tier 1 items, Additional Tier 1 items, Tier 2 items, other capital instruments, and other secured and unsecured borrowings and liabilities with a residual maturity of one year or more. [Art. 428ap, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23977,7 +23977,7 @@ The listed categories are described with reference to adjustments, deductions an
 
 **INSERTED · Art. 428aq — Simplified calculation of the amount of required stable funding** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This article is entirely new text, setting out a simplified method for small and non-complex institutions to calculate required stable funding by applying required stable funding factors to categories of assets and off-balance-sheet items, and summing the resulting weighted amounts. [Art. 428aq, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -23994,7 +23994,7 @@ It further sets out rules on treatment of borrowed and lent assets and beneficia
 
 **INSERTED · Art. 428ar — Residual maturity of an asset** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision, Article 428ar on the residual maturity of an asset, is entirely new text with no prior counterpart, setting out rules for institutions on taking residual contractual maturity into account for stable funding factors, on treating segregated assets under Article 11(3) of Regulation (EU) No 648/2012, on accounting for options when calculating residual maturity, and on treating portions of amortising loans by maturity band. [Art. 428ar, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24008,7 +24008,7 @@ This provision, Article 428ar on the residual maturity of an asset, is entirely 
 
 **INSERTED · Art. 428as — 0 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision setting out which assets receive a 0 % required stable funding factor, covering certain unencumbered high quality liquid assets, central bank reserves and claims, and assets categorised as interdependent with liabilities. [Art. 428as, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24028,7 +24028,7 @@ It also allows competent authorities, with the agreement of the relevant central
 
 **INSERTED · Art. 428at — 5 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new provision sets out a 5 % required stable funding factor for the undrawn portion of committed credit and liquidity facilities specified in the delegated act referred to in Article 460(1). [Art. 428at, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24043,7 +24043,7 @@ It also requires institutions to apply a 5 % required stable funding factor to t
 
 **INSERTED · Art. 428au — 10 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is newly added and sets a 10% required stable funding factor for two categories of items: unencumbered assets qualifying as level 1 extremely high quality covered bonds under the delegated act referenced in Article 460(1), irrespective of whether they meet that act's operational and liquidity buffer composition requirements, and trade finance off-balance-sheet related products listed in Annex I. [Art. 428au, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24057,7 +24057,7 @@ This provision is newly added and sets a 10% required stable funding factor for 
 
 **INSERTED · Art. 428av — 20 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted provision setting a 20% required stable funding factor for unencumbered assets that qualify as level 2A assets under the delegated act referenced in Article 460(1), and for unencumbered shares or units in CIUs eligible under that same delegated act. [Art. 428av, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24071,7 +24071,7 @@ The text specifies that this 20% factor applies regardless of whether such asset
 
 **INSERTED · Art. 428aw — 50 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 428aw is a newly added provision listing assets subject to a 50 % required stable funding factor, covering certain loans and other assets with a residual maturity under one year, and encumbered assets of at least six months but less than one year, with an exception referring to higher factors under other articles. [Art. 428aw, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24086,7 +24086,7 @@ Article 428aw is a newly added provision listing assets subject to a 50 % requir
 
 **INSERTED · Art. 428ax — 55 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision setting a 55% required stable funding factor for assets eligible as level 2B assets and for shares or units in CIUs under the delegated act referred to in Article 460(1), applying regardless of whether they meet the operational requirements or the composition requirements of the liquidity buffer set out in that delegated act, as long as they are encumbered for less than one year. [Art. 428ax, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24098,7 +24098,7 @@ This is a new provision setting a 55% required stable funding factor for assets 
 
 **INSERTED · Art. 428ay — 85 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new provision lists categories of assets and off-balance-sheet items that are to be assigned an 85% required stable funding factor, including certain margin and default fund postings, unencumbered loans and trade finance products of one year or more, certain unencumbered securities and exchange-traded equities, and physically traded commodities including gold but excluding commodity derivatives. [Art. 428ay, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24118,7 +24118,7 @@ It also specifies that assets posted as initial margin or CCP default fund contr
 
 **INSERTED · Art. 428az — 100 % required stable funding factor** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly added article setting out a 100% required stable funding factor for specified categories of assets, including encumbered assets with residual maturity of one year or more and various other listed items such as non-performing exposures and defaulted securities. [Art. 428az, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_428a)
 
@@ -24140,7 +24140,7 @@ It also introduces a calculation requiring a 100% factor to be applied to the po
 
 *within* `AR 429 PA 1 ALN 1`, `AR 429 PA 4 ALN 1`, `AR 429 PA 4 ALN 1 PTA (a)`, `AR 429 PA 4 ALN 1 PTA (b)`, `AR 429 PA 4 ALN 1 PTA (c)`, `AR 429 PA 4 ALN 1 PTA (d)`, `AR 429 PA 4 ALN 1 PTA (e)`, `AR 429 PA 4 ALN 2`, `AR 429 PA 4 ALN 3`, `AR 429 PA 5 ALN 1`, `AR 429 PA 5 ALN 1 PTA (a)`, `AR 429 PA 5 ALN 1 PTA (b)`, `AR 429 PA 5 ALN 1 PTA (c)`, `AR 429 PA 5 ALN 1 PTA (d)`, `AR 429 PA 5 ALN 2`, `AR 429 PA 5 ALN 3`, `AR 429 PA 6 ALN 1`, `AR 429 PA 7 ALN 1`, `AR 429 PA 7 ALN 1 PTA (a)`, `AR 429 PA 7 ALN 1 PTA (b)`, `AR 429 PA 8 ALN 1`, `AR 429 PA 8 ALN 1 PTA (a)`, `AR 429 PA 8 ALN 1 PTA (b)`, `AR 429 PA 8 ALN 1 PTA (b) PTI (i)`, `AR 429 PA 8 ALN 1 PTA (b) PTI (ii)`, `AR 429 PA 8 ALN 1 PTA (c)`, `AR 429 PA 8 ALN 2`, `AR 429 PA 9`, `AR 429 PA 10`, `AR 429 PA 11`, `AR 429 PA 12`, `AR 429 PA 13`, `AR 429 PA 14`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Paragraph 1 now refers only to paragraphs 2, 3 and 4 as the methodology for calculating the leverage ratio, instead of paragraphs 2 to 13. [Art. 429, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_429) [Art. 429, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429)
 
@@ -24221,7 +24221,7 @@ None of the derivative exposure-value computation content, including the treatme
 
 *within* `AR 429b`, `AR 429b PA 1 ALN 1`, `AR 429b PA 1 ALN 1 PTA (a)`, `AR 429b PA 1 ALN 1 PTA (b)`, `AR 429b PA 2 ALN 1`, `AR 429b PA 2 ALN 1 PTA (a)`, `AR 429b PA 2 ALN 1 PTA (b)`, `AR 429b PA 2 ALN 2`, `AR 429b PA 3 ALN 1`, `AR 429b PA 3 ALN 1 PTA (a)`, `AR 429b PA 3 ALN 1 PTA (b)`, `AR 429b PA 3 ALN 1 PTA (c)`, `AR 429b PA 3 ALN 1 PTA (d)`, `AR 429b PA 4 ALN 1`, `AR 429b PA 4 ALN 1 PTA (a)`, `AR 429b PA 4 ALN 1 PTA (b)`, `AR 429b PA 4 ALN 1 PTA (c)`, `AR 429b PA 5 ALN 1`, `AR 429b PA 5 ALN 1 PTA (a)`, `AR 429b PA 5 ALN 1 PTA (b)`, `AR 429b PA 5 ALN 1 PTA (c)`, `AR 429b PA 5 ALN 2`, `AR 429b PA 5 ALN 3`, `AR 429b PA 6`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The provision's heading changes from a description of counterparty credit risk add-ons for repurchase, securities or commodities lending, long settlement and margin lending transactions to a heading concerning calculation of the exposure value of assets. [Art. 429b, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_429b) [Art. 429b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429b)
 
@@ -24257,7 +24257,7 @@ The later text also adds new provisions on settlement mechanisms functionally eq
 
 **INSERTED · Art. 429c — Calculation of the exposure value of derivatives** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision setting out how institutions calculate the exposure value of derivative contracts and credit derivatives for the leverage ratio, including rules on netting, collateral, variation margin, NICA, and the potential future exposure multiplier. [Art. 429c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429c)
 
@@ -24275,7 +24275,7 @@ It also allows institutions to use an alternative method under Section 4 or 5 of
 
 **INSERTED · Art. 429d — Additional provisions on the calculation of the exposure value of written credit derivatives** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 429d is a new provision setting out additional rules for calculating the exposure value of written credit derivatives, covering how effective notional amounts are calculated and adjusted for negative fair value changes recorded in Tier 1 capital. [Art. 429d, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429d)
 
@@ -24294,7 +24294,7 @@ It also sets conditions under which institutions may offset that exposure value 
 
 **INSERTED · Art. 429e — Counterparty credit risk add-on for securities financing transactions** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 429e is a newly inserted provision that sets out a counterparty credit risk add-on institutions must include in the total exposure measure for securities financing transactions, alongside the exposure value calculation. [Art. 429e, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429e)
 
@@ -24327,7 +24327,7 @@ It specifies distinct formulas for calculating the add-on depending on whether t
 
 **INSERTED · Art. 429f — Calculation of the exposure value of off-balance-sheet items** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new text setting out how institutions calculate the exposure value of off-balance-sheet items, covering the general calculation method under Article 111(1), a derogation allowing reduction by specific credit risk adjustments down to a floor of zero, and a further derogation applying a 10% conversion factor to low-risk off-balance-sheet items. [Art. 429f, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429f)
 
@@ -24342,7 +24342,7 @@ This provision is entirely new text setting out how institutions calculate the e
 
 **INSERTED · Art. 429g — Calculation of the exposure value of regular-way purchases and sales awaiting settlement** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new provision setting out how institutions calculate the exposure value of regular-way purchases and sales awaiting settlement, covering treatment as assets under trade date accounting and settlement date accounting. [Art. 429g, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_429g)
 
@@ -24397,7 +24397,7 @@ New paragraphs 9, 10 and 11 were added addressing consultation with EBA on conso
 
 **INSERTED · Art. 430a — Specific reporting obligations** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is entirely new, introducing an Article 430a that requires institutions to report annually to their competent authorities aggregate data on losses and exposure values linked to residential and immovable commercial property collateral, broken down by national property market. [Art. 430a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_430a)
 
@@ -24419,7 +24419,7 @@ It also sets out where the data must be reported, including to host Member State
 
 *within* `AR 431`, `AR 431 PA 1 ALN 1`, `AR 431 PA 2 ALN 1`, `AR 431 PA 3 ALN 1`, `AR 431 PA 3 ALN 2`, `AR 431 PA 3 ALN 3`, `AR 431 PA 4 ALN 1`, `AR 431 PA 5`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading changed from a description of the scope of disclosure requirements to one covering disclosure requirements and policies, and paragraph 1 now refers to information under Titles II and III rather than only Title II. [Art. 431, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_431) [Art. 431, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_431)
 
@@ -24451,7 +24451,7 @@ A new paragraph 4 requires quantitative disclosures to be accompanied by qualita
 
 *within* `AR 432 PA 3 ALN 1`, `AR 432 PA 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Paragraph 3 rephrases the description of what must be stated when items are omitted, referring to the fact that specific items are not being disclosed and the reason for not disclosing them, rather than the earlier wording of non-disclosure and the reason for non-disclosure. [Art. 432, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_432) [Art. 432, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_432)
 
@@ -24485,7 +24485,7 @@ Paragraph 4, which stated that paragraphs 1, 2 and 3 are without prejudice to th
 
 *within* `AR 433`, `AR 433 ALN 1`, `AR 433 ALN 2`, `AR 433 ALN 3`, `AR 433 ALN 4` · *dates* -2014-12-31
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from Frequency of disclosure to Frequency and scope of disclosures, and the article no longer states a general annual minimum with a self-assessment for more frequent publication; instead it directs institutions to publish disclosures under Titles II and III in the manner set out in Articles 433a, 433b and 433c. [Art. 433, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_433) [Art. 433, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_433)
 
@@ -24513,7 +24513,7 @@ The prior paragraph directing EBA to issue guidelines by 31 December 2014 on ass
 
 **INSERTED · Art. 433a — Disclosures by large institutions** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This new article sets out disclosure frequencies for large institutions, requiring annual disclosure of all information under this Part, with specified subsets disclosed semi-annually and others quarterly. [Art. 433a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_433a)
 
@@ -24551,7 +24551,7 @@ It also sets a different, reduced frequency regime for large institutions other 
 
 **INSERTED · Art. 433b — Disclosures by small and non-complex institutions** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This article is new text setting out a disclosure regime for small and non-complex institutions, listing specific paragraphs from other articles to be disclosed annually and requiring semi-annual disclosure of the key metrics referred to in Article 447. [Art. 433b, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_433b)
 
@@ -24571,7 +24571,7 @@ It also states that small and non-complex institutions that are non-listed insti
 
 **INSERTED · Art. 433c — Disclosures by other institutions** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a newly inserted article setting disclosure requirements for institutions that are not subject to Article 433a or 433b, requiring annual disclosure of all Part-required information and semi-annual disclosure of the key metrics referred to in Article 447. [Art. 433c, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_433c)
 
@@ -24596,7 +24596,7 @@ It also sets out a derogation for other institutions that are non-listed institu
 
 *within* `AR 434 PA 1 ALN 1`, `AR 434 PA 2 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Paragraph 1 previously let institutions choose the medium, location and verification means for disclosures, favouring one medium where feasible with cross-references if split across several; the revised text instead requires disclosure of information required under Titles II and III in electronic format in a single medium or location, which must be either a standalone document or a distinct, easily identifiable section within or appended to the financial statements or reports. [Art. 434, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_434) [Art. 434, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_434)
 
@@ -24620,7 +24620,7 @@ Paragraph 2 previously addressed treating equivalent disclosures made under acco
 
 *within* `AR 435`, `AR 435 PA 1 ALN 1`, `AR 435 PA 1 ALN 1 PTA (a)`, `AR 435 PA 1 ALN 1 PTA (b)`, `AR 435 PA 1 ALN 1 PTA (e)`, `AR 435 PA 1 ALN 1 PTA (f)`, `AR 435 PA 1 ALN 1 PTA (f) PTI (i)`, `AR 435 PA 1 ALN 1 PTA (f) PTI (ii)`, `AR 435 PA 2 ALN 1`, `AR 435 PA 2 ALN 1 PTA (c)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article heading changed from "Risk management objectives and policies" to "Disclosure of risk management objectives and policies", and the introductory phrase in paragraph 2 dropping the reference to "including regular, at least annual updates" was removed. [Art. 435, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_435) [Art. 435, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_435)
 
@@ -24660,7 +24660,7 @@ Point (f) of paragraph 1 was restructured so that the single sentence on key rat
 
 *within* `AR 436`, `AR 436 ALN 1`, `AR 436 ALN 1 PTA (a)`, `AR 436 ALN 1 PTA (b)`, `AR 436 ALN 1 PTA (b) PTI (i)`, `AR 436 ALN 1 PTA (b) PTI (ii)`, `AR 436 ALN 1 PTA (b) PTI (iii)`, `AR 436 ALN 1 PTA (b) PTI (iv)`, `AR 436 ALN 1 PTA (c)`, `AR 436 ALN 1 PTA (d)`, `AR 436 ALN 1 PTA (e)`, `AR 436 ALN 1 PTA (f)`, `AR 436 ALN 1 PTA (g)`, `AR 436 ALN 1 PTA (h)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from 'Scope of application' to 'Disclosure of the scope of application', and the introductory sentence now refers to disclosing information about this Regulation rather than about the Regulation's requirements under Directive 2013/36/EU. [Art. 436, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_436) [Art. 436, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_436)
 
@@ -24697,7 +24697,7 @@ Three new points are inserted covering a breakdown of assets and liabilities by 
 
 *within* `AR 437`, `AR 437 ALN 1`, `AR 437 PA 1`, `AR 437 PA 2` · *dates* -2013-07-28
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article heading changed from "Own funds" to "Disclosure of own funds", and the numbered paragraph structure (1) and (2) was removed, with the introductory sentence and list items folded into a single unnumbered list. [Art. 437, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_437) [Art. 437, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_437)
 
@@ -24738,7 +24738,7 @@ The former paragraph 2, which directed EBA to develop implementing technical sta
 
 **INSERTED · Art. 437a — Disclosure of own funds and eligible liabilities** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This is a new article requiring institutions subject to Article 92a or 92b to disclose specified information about their own funds and eligible liabilities, including composition, maturity, main features, creditor-hierarchy ranking, issuance amounts of eligible liabilities instruments, and the total amount of excluded liabilities. [Art. 437a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_437a)
 
@@ -24756,7 +24756,7 @@ This is a new article requiring institutions subject to Article 92a or 92b to di
 
 *within* `AR 438`, `AR 438 ALN 1`, `AR 438 ALN 1 PTA (a)`, `AR 438 ALN 1 PTA (b)`, `AR 438 ALN 1 PTA (c)`, `AR 438 ALN 1 PTA (d)`, `AR 438 ALN 1 PTA (d) PTI (i)`, `AR 438 ALN 1 PTA (d) PTI (ii)`, `AR 438 ALN 1 PTA (d) PTI (iii)`, `AR 438 ALN 1 PTA (d) PTI (iv)`, `AR 438 ALN 1 PTA (e)`, `AR 438 ALN 1 PTA (f)`, `AR 438 ALN 1 PTA (g)`, `AR 438 ALN 1 PTA (h)`, `AR 438 ALN 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading changed from referring to capital requirements to referring to disclosure of own funds requirements and risk-weighted exposure amounts. [Art. 438, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_438) [Art. 438, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_438)
 
@@ -24791,7 +24791,7 @@ The before text's separate paragraph 2, which required disclosure of exposures a
 
 *within* `AR 439`, `AR 439 ALN 1`, `AR 439 ALN 1 PTA (a)`, `AR 439 ALN 1 PTA (b)`, `AR 439 ALN 1 PTA (c)`, `AR 439 ALN 1 PTA (d)`, `AR 439 ALN 1 PTA (e)`, `AR 439 ALN 1 PTA (f)`, `AR 439 ALN 1 PTA (g)`, `AR 439 ALN 1 PTA (h)`, `AR 439 ALN 1 PTA (i)`, `AR 439 ALN 1 PTA (j)`, `AR 439 ALN 1 PTA (k)`, `AR 439 ALN 1 PTA (l)`, `AR 439 ALN 1 PTA (m)`, `AR 439 ALN 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article heading changed from 'Exposure to counterparty credit risk' to 'Disclosure of exposures to counterparty credit risk', and the introductory sentence's cross-reference to Chapter 6 was reworded. [Art. 439, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_439) [Art. 439, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_439)
 
@@ -24830,7 +24830,7 @@ A new closing paragraph was added allowing a competent authority to exempt insti
 
 *within* `AR 440`, `AR 440 ALN 1`, `AR 440 PA 1`, `AR 440 PA 2` · *dates* -2014-12-31
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading changed from "Capital buffers" to "Disclosure of countercyclical capital buffers," and the introductory text now addresses institutions collectively rather than an institution individually. [Art. 440, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_440) [Art. 440, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_440)
 
@@ -24861,7 +24861,7 @@ The former paragraph 2, which required EBA to develop draft regulatory technical
 
 *within* `AR 441`, `AR 441 ALN 1`, `AR 441 PA 1`, `AR 441 PA 2` · *dates* -2014-07-01
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changed from referring simply to indicators of global systemic importance to referring to their disclosure, and the article's text was shortened to a single unnumbered sentence stating that G-SIIs disclose annually the values of the indicators used to determine their score under the identification methodology in Article 131 of Directive 2013/36/EU. [Art. 441, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_441) [Art. 441, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_441)
 
@@ -24886,7 +24886,7 @@ The prior paragraph 2, which set out EBA's mandate to develop implementing techn
 
 *within* `AR 442`, `AR 442 ALN 1`, `AR 442 ALN 1 PTA (a)`, `AR 442 ALN 1 PTA (c)`, `AR 442 ALN 1 PTA (d)`, `AR 442 ALN 1 PTA (e)`, `AR 442 ALN 1 PTA (f)`, `AR 442 ALN 1 PTA (g)`, `AR 442 ALN 1 PTA (g) PTI (i)`, `AR 442 ALN 1 PTA (g) PTI (ii)`, `AR 442 ALN 1 PTA (g) PTI (iii)`, `AR 442 ALN 1 PTA (h)`, `AR 442 ALN 1 PTA (i)`, `AR 442 ALN 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and article title change from "Credit risk adjustments" to "Disclosure of exposures to credit risk and dilution risk", and the introductory sentence now refers to the institutions' own exposures rather than the institution's exposure. [Art. 442, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_442) [Art. 442, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_442)
 
@@ -24927,7 +24927,7 @@ The separate closing statement on specific credit risk adjustments and recoverie
 
 *within* `AR 443`, `AR 443 ALN 1`, `AR 443 ALN 2`, `AR 443 ALN 3`, `AR 443 ALN 4` · *dates* -2012-12-20 -2014-06-30 -2016-01-01
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changed from referring only to unencumbered assets to referring to disclosure of encumbered and unencumbered assets. [Art. 443, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_443) [Art. 443, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_443)
 
@@ -24955,7 +24955,7 @@ The later text also adds a statement that disclosure of information on encumbere
 
 *within* `AR 444`, `AR 444 ALN 1`, `AR 444 ALN 1 PTA (a)`, `AR 444 ALN 1 PTA (c)`, `AR 444 ALN 1 PTA (d)`, `AR 444 ALN 1 PTA (e)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article heading changes from 'Use of ECAIs' to 'Disclosure of the use of the Standardised Approach', and the introductory sentence rephrases the cross-reference to Chapter 2 of Title II of Part Three and to Article 112. [Art. 444, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_444) [Art. 444, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_444)
 
@@ -24989,7 +24989,7 @@ Point (d) now refers to risk weights that correspond to the credit quality steps
 
 *within* `AR 445`, `AR 445 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading was changed from "Exposure to market risk" to "Disclosure of exposure to market risk". [Art. 445, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_445)
 
@@ -25011,7 +25011,7 @@ The introductory wording was altered slightly, replacing "The institutions" with
 
 *within* `AR 446`, `AR 446 ALN 1`, `AR 446 ALN 1 PTA (a)`, `AR 446 ALN 1 PTA (b)`, `AR 446 ALN 1 PTA (c)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article heading changes from "Operational risk" to "Disclosure of operational risk management", and the single unbroken sentence of disclosure requirements is restructured into an introductory clause followed by three lettered points (a), (b) and (c). [Art. 446, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_446) [Art. 446, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_446)
 
@@ -25038,7 +25038,7 @@ Point (c) separates out the partial-use scope and coverage requirement as its ow
 
 *within* `AR 447`, `AR 447 ALN 1`, `AR 447 ALN 1 PTA (a)`, `AR 447 ALN 1 PTA (b)`, `AR 447 ALN 1 PTA (c)`, `AR 447 ALN 1 PTA (d)`, `AR 447 ALN 1 PTA (e)`, `AR 447 ALN 1 PTA (f)`, `AR 447 ALN 1 PTA (g)`, `AR 447 ALN 1 PTA (h)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading and subject matter of the article changed from covering exposures in equities not included in the trading book to covering disclosure of key metrics, with the earlier version requiring disclosure of equity exposure classifications, valuation methods, balance sheet and fair values, exposure types, and realised and unrealised gains or losses. [Art. 447, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_447)
 
@@ -25074,7 +25074,7 @@ The later version instead requires disclosure of a tabular set of key metrics, i
 
 *within* `AR 448`, `AR 448 PA 1`, `AR 448 PA 2`, `AR 448 ALN 1` · *dates* +2021-06-28
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from referring to exposures to interest rate risk on positions not included in the trading book to positions not held in the trading book, and the article is reorganised into numbered paragraphs. [Art. 448, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_448) [Art. 448, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_448)
 
@@ -25105,7 +25105,7 @@ A new paragraph 2 is added stating that certain requirements in points (c) and (
 
 *within* `AR 449`, `AR 449 ALN 1`, `AR 449 ALN 1 PTA (a)`, `AR 449 ALN 1 PTA (b)`, `AR 449 ALN 1 PTA (b) PTI (i)`, `AR 449 ALN 1 PTA (b) PTI (ii)`, `AR 449 ALN 1 PTA (c)`, `AR 449 ALN 1 PTA (d)`, `AR 449 ALN 1 PTA (d) PTI (i)`, `AR 449 ALN 1 PTA (d) PTI (ii)`, `AR 449 ALN 1 PTA (d) PTI (iii)`, `AR 449 ALN 1 PTA (d) PTI (iv)`, `AR 449 ALN 1 PTA (e)`, `AR 449 ALN 1 PTA (f)`, `AR 449 ALN 1 PTA (g)`, `AR 449 ALN 1 PTA (h)`, `AR 449 ALN 1 PTA (i)`, `AR 449 ALN 1 PTA (j)`, `AR 449 ALN 1 PTA (j) PTI (i)`, `AR 449 ALN 1 PTA (j) PTI (ii)`, `AR 449 ALN 1 PTA (j) PTI (iii)`, `AR 449 ALN 1 PTA (j) PTI (iv)`, `AR 449 ALN 1 PTA (j) PTI (v)`, `AR 449 ALN 1 PTA (j) PTI (vi)`, `AR 449 ALN 1 PTA (k)`, `AR 449 ALN 1 PTA (k) PTI (i)`, `AR 449 ALN 1 PTA (k) PTI (ii)`, `AR 449 ALN 1 PTA (l)`, `AR 449 ALN 1 PTA (m)`, `AR 449 ALN 1 PTA (n)`, `AR 449 ALN 1 PTA (o)`, `AR 449 ALN 1 PTA (p)`, `AR 449 ALN 1 PTA (q)`, `AR 449 ALN 1 PTA (r)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from a reference to exposure to securitisation positions to disclosure of exposures to securitisation positions, and the introductory clause drops the phrase 'where relevant' while adjusting the reference from Article 337 or 338 to the same articles under a differently ordered chapter citation. [Art. 449, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_449) [Art. 449, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_449)
 
@@ -25140,7 +25140,7 @@ Several earlier points, such as those on hedging policy, accounting sub-items, i
 
 **INSERTED · Art. 449a — Disclosure of environmental, social and governance risks (ESG risks)** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 This provision is newly added and requires large institutions that have issued securities admitted to trading on a regulated market, as defined by reference to Directive 2014/65/EU, to disclose information on ESG risks, including physical and transition risks, as defined in the report referenced in Directive 2013/36/EU. [Art. 449a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_449a)
 
@@ -25157,7 +25157,7 @@ The text specifies that this information is to be disclosed annually for the fir
 
 *within* `AR 450`, `AR 450 PA 1 ALN 1`, `AR 450 PA 1 ALN 1 PTA (a)`, `AR 450 PA 1 ALN 1 PTA (b)`, `AR 450 PA 1 ALN 1 PTA (d)`, `AR 450 PA 1 ALN 1 PTA (h)`, `AR 450 PA 1 ALN 1 PTA (h) PTI (i)`, `AR 450 PA 1 ALN 1 PTA (h) PTI (ii)`, `AR 450 PA 1 ALN 1 PTA (h) PTI (iii)`, `AR 450 PA 1 ALN 1 PTA (h) PTI (iv)`, `AR 450 PA 1 ALN 1 PTA (h) PTI (v)`, `AR 450 PA 1 ALN 1 PTA (h) PTI (vi)`, `AR 450 PA 1 ALN 1 PTA (h) PTI (vii)`, `AR 450 PA 1 ALN 1 PTA (i)`, `AR 450 PA 1 ALN 1 PTA (j)`, `AR 450 PA 1 ALN 1 PTA (k)`, `AR 450 PA 1 ALN 2`, `AR 450 PA 2 ALN 1`, `AR 450 PA 2 ALN 2` · *dates* +2016-04-27
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading changed from Remuneration policy to Disclosure of remuneration policy, and the introductory clause was reworded without changing its substance. [Art. 450, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_450) [Art. 450, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_450)
 
@@ -25197,7 +25197,7 @@ Paragraph 2 changed from applying to institutions significant in size, internal 
 
 *within* `AR 451`, `AR 451 PA 1 ALN 1`, `AR 451 PA 1 ALN 1 PTA (a)`, `AR 451 PA 1 ALN 1 PTA (b)`, `AR 451 PA 1 ALN 1 PTA (c)`, `AR 451 PA 2 ALN 1`, `AR 451 PA 2 ALN 2`, `AR 451 PA 2 ALN 3`, `AR 451 PA 3` · *dates* -2014-06-30
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changed from 'Leverage' to 'Disclosure of the leverage ratio', and paragraph 1 now limits the disclosure obligation to institutions subject to Part Seven, while point (a) refers only to Article 499(2) rather than Article 499(2) and (3). [Art. 451, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_451) [Art. 451, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_451)
 
@@ -25234,7 +25234,7 @@ The former paragraph 2, which set out EBA's mandate to develop implementing tech
 
 **INSERTED · Art. 451a — Disclosure of liquidity requirements** · applies from: unknown (an inserted provision states its own application date only in prose)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 451a is new, adding a requirement for institutions subject to Part Six to disclose information on their liquidity coverage ratio, net stable funding ratio and liquidity risk management. [Art. 451a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_451a)
 
@@ -25256,7 +25256,7 @@ The text specifies detailed disclosure items for the liquidity coverage ratio, i
 
 *within* `AR 452`, `AR 452 ALN 1`, `AR 452 ALN 1 PTA (b)`, `AR 452 ALN 1 PTA (b) PTI (i)`, `AR 452 ALN 1 PTA (b) PTI (ii)`, `AR 452 ALN 1 PTA (b) PTI (iii)`, `AR 452 ALN 1 PTA (b) PTI (iv)`, `AR 452 ALN 1 PTA (c)`, `AR 452 ALN 1 PTA (c) PTI (i)`, `AR 452 ALN 1 PTA (c) PTI (ii)`, `AR 452 ALN 1 PTA (c) PTI (iii)`, `AR 452 ALN 1 PTA (c) PTI (iv)`, `AR 452 ALN 1 PTA (c) PTI (v)`, `AR 452 ALN 1 PTA (d)`, `AR 452 ALN 1 PTA (e)`, `AR 452 ALN 1 PTA (e) PTI (i)`, `AR 452 ALN 1 PTA (e) PTI (ii)`, `AR 452 ALN 1 PTA (e) PTI (iii)`, `AR 452 ALN 1 PTA (f)`, `AR 452 ALN 1 PTA (f) PTI (i)`, `AR 452 ALN 1 PTA (f) PTI (ii)`, `AR 452 ALN 1 PTA (f) PTI (iii)`, `AR 452 ALN 1 PTA (g)`, `AR 452 ALN 1 PTA (g) PTI (i)`, `AR 452 ALN 1 PTA (g) PTI (ii)`, `AR 452 ALN 1 PTA (g) PTI (iii)`, `AR 452 ALN 1 PTA (g) PTI (iv)`, `AR 452 ALN 1 PTA (g) PTI (v)`, `AR 452 ALN 1 PTA (h)`, `AR 452 ALN 1 PTA (i)`, `AR 452 ALN 1 PTA (j)`, `AR 452 ALN 2`, `AR 452 ALN 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from referring simply to use of the IRB Approach to credit risk to referring to disclosure of that use, and the introductory sentence adds the words 'to credit risk' after IRB Approach. [Art. 452, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_452) [Art. 452, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_452)
 
@@ -25301,7 +25301,7 @@ The closing explanatory paragraphs also change, with the prior paragraphs explai
 
 *within* `AR 453`, `AR 453 ALN 1`, `AR 453 ALN 1 PTA (a)`, `AR 453 ALN 1 PTA (b)`, `AR 453 ALN 1 PTA (c)`, `AR 453 ALN 1 PTA (d)`, `AR 453 ALN 1 PTA (e)`, `AR 453 ALN 1 PTA (f)`, `AR 453 ALN 1 PTA (g)`, `AR 453 ALN 1 PTA (h)`, `AR 453 ALN 1 PTA (i)`, `AR 453 ALN 1 PTA (j)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading changes from referring simply to use of credit risk mitigation techniques to disclosure of the use of such techniques, and the introductory clause changes from describing institutions applying the techniques to institutions using them. [Art. 453, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_453) [Art. 453, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_453)
 
@@ -25337,7 +25337,7 @@ Points (a) through (e) are reworded with additional detail, such as referencing 
 
 *within* `AR 454`, `AR 454 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article's heading changed from describing the use of the Advanced Measurement Approaches to describing the disclosure of the use of the Advanced Measurement Approaches. [Art. 454, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_454) [Art. 454, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_454)
 
@@ -25359,7 +25359,7 @@ The operative sentence was reworded, replacing references to 'insurances' and 't
 
 *within* `AR 455`, `AR 455 ALN 1 PTA (d) PTI (i)`, `AR 455 ALN 1 PTA (d) PTI (ii)`, `AR 455 ALN 1 PTA (d) PTI (iii)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The article heading changes capitalisation from "Use of Internal Market Risk Models" to "Use of internal market risk models". [Art. 455, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20201228#art_455) [Art. 455, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02013R0575-20210629#art_455)
 
@@ -25521,7 +25521,7 @@ A new Article 494c is added, allowing an originator institution to calculate ris
 
 *amended by* `32019R0876`, `32019R2033`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -25531,7 +25531,7 @@ A new Article 494c is added, allowing an originator institution to calculate ris
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -25541,7 +25541,7 @@ A new Article 494c is added, allowing an originator institution to calculate ris
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -25551,7 +25551,7 @@ A new Article 494c is added, allowing an originator institution to calculate ris
 
 *amended by* `32019R0876`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -25618,7 +25618,7 @@ It also requires the Commission, by 10 April 2023 and based on that EBA report, 
 
 *amended by* `32019R2033`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -25674,66 +25674,6 @@ The new point (e) adds an item to the assessment list concerning how environment
 > (c) what measures would be warranted to reduce and counter any negative effects of securitisation on financial stability while preserving its positive effect on financing, including the possible introduction of a maximum limit on exposure to securitisations; and
 > (d) the effects on the ability of financial institutions to provide a sustainable and stable funding channel to the real economy, with particular attention to SMEs; and
 > (e) how environmental sustainability criteria could be integrated into the securitisation framework, including for exposures to NPE […truncated by emendrix: 178 characters omitted…]
-
-**MODIFIED · Title** · applies from: unknown
-
-*amended by* `32019R2033`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 1** · applies from: unknown
-
-*amended by* `32019R2033`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 3** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 6** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 7** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
-
-**MODIFIED · Part 8** · applies from: unknown
-
-*amended by* `32019R0876`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
