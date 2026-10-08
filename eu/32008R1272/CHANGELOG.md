@@ -5249,7 +5249,7 @@ A new Article 53c has been added, stating that the Commission shall adopt a sepa
 ### `02008R1272-20180301` → `02008R1272-20181201`
 
 - **Act** `eu:32008R1272` · **In force** 2018-12-01 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **3 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **2 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20180301` · `v2` = `02008R1272-20181201`
@@ -5260,7 +5260,7 @@ A new Article 53c has been added, stating that the Commission shall adopt a sepa
 
 *within* `AN III SCT 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -5330,7 +5330,7 @@ A new Article 53c has been added, stating that the Commission shall adopt a sepa
 
 *within* `AN IV SCT 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -5369,8 +5369,6 @@ A new Article 53c has been added, stating that the Commission shall adopt a sepa
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 3` · *amended by* `32017R0776`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 The reference in Note K to the substance identifier changed from "EINECS No" to "Einecs No", and the accompanying sentence dropped the parenthetical "(Table 3.2)" after the precautionary statement codes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#anx_VI)
 
