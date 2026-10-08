@@ -82,7 +82,7 @@ All 144 entries present in the BEFORE version remain unchanged in content and or
 ### `02009R1107-20210327` → `02009R1107-20221121`
 
 - **Act** `eu:32009R1107` · **In force** 2022-11-21 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 88 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20210327` · `v2` = `02009R1107-20221121`
@@ -92,8 +92,6 @@ All 144 entries present in the BEFORE version remain unchanged in content and or
 **MODIFIED · Annex II — ANNEX II** · applies from: unchanged
 
 *within* `AN II SCT 3 SCT 3.1 PTA (b)`, `AN II SCT 3 SCT 3.4`, `AN II SCT 3 SCT 3.5`, `AN II SCT 3 SCT 3.6`, `AN II SCT 5 SCT 5.2`, `AN II SCT 5 SCT 5.2 PTA (a)`, `AN II SCT 5 SCT 5.2 PTA (b)`, `AN II SCT 5 SCT 5.2 SCT 5.2.1`, `AN II SCT 5 SCT 5.2 SCT 5.2.2` · *amended by* `32022R1438`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 In section 3.1(b) the requirement to predict residues in food and feed now adds that this must be done on the basis of information provided in accordance with the data requirements for active substances, a qualification absent from the earlier text. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20221121#anx_II) [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#anx_II)
 
