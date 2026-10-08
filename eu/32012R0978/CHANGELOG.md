@@ -516,29 +516,19 @@ The date until which the scheme applies in paragraph 3 changes from 31 December 
 ## Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of […]
 ### `32012R0978` → `02012R0978-20140228`
 
-- **Act** `eu:32012R0978` · **In force** 2014-01-01, 2014-02-28 · **Detected** 2026-08-13
-- **Touched** 11 provisions — 10 substantive · 0 date-only · 1 with no text · **11 disputed**
-- **Diff** 0 inserted · 1 modified · 10 deleted · 0 renumbered · 0 deferred · 43 unchanged
-- **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
+- **Act** `eu:32012R0978` · **In force** 2014-01-01 · **Detected** 2026-08-13
+- **Touched** 10 provisions — 10 substantive · 0 date-only · 0 with no text · **10 disputed**
+- **Diff** 0 inserted · 0 modified · 10 deleted · 0 renumbered · 0 deferred · 43 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32012R0978` · `v2` = `02012R0978-20140228`
 
 ---
-
-**MODIFIED · Annex** · applies from: unknown
-
-*amended by* `32014R0182`
-
-**DISPUTED** — seen by corpus metadata, not by the structural diff
-
-*No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
-
-*No text on either side: this unit was named by a signal that carries no text, and only the structural diff carries any.*
 
 **DELETED · Annex I — ANNEX I** · applies from: unknown (a deleted provision has no application date to move)
 
 *amended by* `32013R1421`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
 
 Annex I, which listed eligible countries and their alphabetical codes together with a separate list of countries temporarily withdrawn from the scheme, no longer appears in the later version of the text. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_I)
 
@@ -625,7 +615,7 @@ Annex I, which listed eligible countries and their alphabetical codes together w
 
 *amended by* `32013R0154`, `32013R1421`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
 
 The list of beneficiary countries and the sub-list of countries with temporarily withdrawn preferences that made up Annex II have been removed entirely, with no replacement text provided. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_II)
 
@@ -727,7 +717,7 @@ The list of beneficiary countries and the sub-list of countries with temporarily
 
 *amended by* `32014R0001`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
 
 Annex III, which listed beneficiary countries of the special incentive arrangement for sustainable development and good governance and set out the columns for country codes and names used to record temporary withdrawals or suspensions of preferences, has been removed entirely and no longer appears in the text. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_III)
 
@@ -752,7 +742,7 @@ Annex III, which listed beneficiary countries of the special incentive arrangeme
 
 *amended by* `32013R1421`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says DELETED, corpus metadata says MODIFIED
 
 Annex IV, which listed beneficiary countries under the special arrangement for least-developed countries and identified Burma/Myanmar as a country temporarily withdrawn from that arrangement, no longer appears in the later version of the text. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_IV)
 
@@ -821,7 +811,7 @@ Annex IV, which listed beneficiary countries under the special arrangement for l
 
 **DELETED · Annex V — ANNEX V** · applies from: unknown (a deleted provision has no application date to move)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Annex V, which set out the list of products covered by the general arrangement, including the section and chapter headings, CN codes, product descriptions, and sensitive/non-sensitive classifications, no longer appears in the text. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_V)
 
@@ -849,7 +839,7 @@ The before text was cut off partway through the listing, so only part of the ori
 
 **DELETED · Annex VI — ANNEX VI** · applies from: unknown (a deleted provision has no application date to move)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Annex VI, which set out the modalities for applying Article 8, including the 17,5% threshold and the separate 14,5% threshold for GSP sections S-11a and S-11b of Annex V, no longer appears in the text. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_VI)
 
@@ -862,7 +852,7 @@ Annex VI, which set out the modalities for applying Article 8, including the 17,
 
 **DELETED · Annex VII — ANNEX VII** · applies from: unknown (a deleted provision has no application date to move)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Annex VII, which set out the modalities for determining a vulnerable country under Chapter III, including the thresholds and reference dates used for that assessment, no longer appears in the text. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_VII)
 
@@ -879,7 +869,7 @@ Annex VII, which set out the modalities for determining a vulnerable country und
 
 **DELETED · Annex VIII — ANNEX VIII** · applies from: unknown (a deleted provision has no application date to move)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Annex VIII, which listed core UN/ILO human and labour rights conventions in Part A and conventions on environment and governance principles in Part B, is no longer present in the later version of the text. [Annex VIII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_VIII)
 
@@ -909,7 +899,7 @@ Annex VIII, which listed core UN/ILO human and labour rights conventions in Part
 
 **DELETED · Annex IX — ANNEX IX** · applies from: unknown (a deleted provision has no application date to move)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Annex IX, which set out the list of products covered by the special incentive arrangement for sustainable development and good governance, along with its introductory notes and the full list of GSP sections, chapters, CN codes and product descriptions, no longer appears in the later version of the text. [Annex IX, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_IX)
 
@@ -928,7 +918,7 @@ Annex IX, which set out the list of products covered by the special incentive ar
 
 **DELETED · Annex X — ANNEX X** · applies from: unknown (a deleted provision has no application date to move)
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Annex X, which contained a correlation table mapping provisions of Regulation (EC) No 732/2008 to provisions of this Regulation, has been removed entirely and no longer appears in the text. [Annex X, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012R0978#anx_X)
 

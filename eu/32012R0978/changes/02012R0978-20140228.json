@@ -10,88 +10,29 @@
   "to_version": "02012R0978-20140228",
   "detected_on": "2026-08-13",
   "in_force": [
-    "2014-01-01",
-    "2014-02-28"
+    "2014-01-01"
   ],
   "diff_only": false,
   "summary": {
     "inserted": 0,
-    "modified": 1,
+    "modified": 0,
     "deleted": 10,
     "renumbered": 0,
     "deferred": 0,
-    "touched_units": 11,
+    "touched_units": 10,
     "unchanged_units": 43,
-    "disputed": 11
+    "disputed": 10
   },
   "counts": {
-    "touched": 11,
+    "touched": 10,
     "substantive": 10,
     "date_only": 0,
-    "textless": 1,
-    "disputed": 11,
+    "textless": 0,
+    "disputed": 10,
     "quoted": 0,
-    "unexplained": 1
+    "unexplained": 0
   },
   "changes": [
-    {
-      "change": {
-        "change_type": "MODIFIED",
-        "provision": {
-          "act": {
-            "corpus": "eu",
-            "key": "32012R0978",
-            "display_name": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008"
-          },
-          "version": "02012R0978-20140228",
-          "location": "AN"
-        },
-        "heading": null,
-        "before": null,
-        "after": null,
-        "previous_location": null,
-        "changed_within": [],
-        "amending_acts": [
-          {
-            "corpus": "eu",
-            "key": "32014R0182",
-            "display_name": null
-          }
-        ],
-        "dates_removed": [],
-        "dates_added": [],
-        "in_force": "2014-02-28",
-        "applies_from": {
-          "kind": "unknown",
-          "reason": null
-        },
-        "signals": {
-          "structural_diff": {
-            "status": "absent",
-            "detail": "structural_diff",
-            "change_types": []
-          },
-          "corpus_metadata": {
-            "status": "observed",
-            "detail": "32014R0182 M",
-            "change_types": [
-              "MODIFIED"
-            ]
-          },
-          "instruction_parse": {
-            "status": "unavailable",
-            "detail": "the window folds in 4 amending acts: 32013R0154, 32013R1421, 32014R0001, 32014R0182",
-            "change_types": []
-          }
-        },
-        "disputed": true
-      },
-      "outcome": "unexplained",
-      "sentences": [],
-      "applicability_note": null,
-      "unexplained": "the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed",
-      "unexplained_kind": "nothing_to_explain"
-    },
     {
       "change": {
         "change_type": "DELETED",
@@ -144,7 +85,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "kind_mismatch"
       },
       "outcome": "passed",
       "sentences": [
@@ -229,7 +171,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "kind_mismatch"
       },
       "outcome": "passed",
       "sentences": [
@@ -309,7 +252,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "kind_mismatch"
       },
       "outcome": "passed",
       "sentences": [
@@ -389,7 +333,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "kind_mismatch"
       },
       "outcome": "passed",
       "sentences": [
@@ -452,7 +397,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "detail": "6 annotations in (the act itself, 2014-02-28]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -461,7 +406,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -543,7 +489,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "detail": "6 annotations in (the act itself, 2014-02-28]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -552,7 +498,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -615,7 +562,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "detail": "6 annotations in (the act itself, 2014-02-28]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -624,7 +571,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -687,7 +635,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "detail": "6 annotations in (the act itself, 2014-02-28]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -696,7 +644,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -759,7 +708,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "detail": "6 annotations in (the act itself, 2014-02-28]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -768,7 +717,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -831,7 +781,7 @@
           },
           "corpus_metadata": {
             "status": "absent",
-            "detail": "6 annotations in (the act itself, 2014-02-28]",
+            "detail": "6 annotations in (the act itself, 2014-02-28]; 1 annotations named a part, chapter, title or recital and are not counted as units",
             "change_types": []
           },
           "instruction_parse": {
@@ -840,7 +790,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -900,13 +851,12 @@
         "signal": "corpus_metadata",
         "available": true,
         "units": [
-          "AN",
           "AN I",
           "AN II",
           "AN III",
           "AN IV"
         ],
-        "note": "6 annotations in (the act itself, 2014-02-28]",
+        "note": "6 annotations in (the act itself, 2014-02-28]; 1 annotations named a part, chapter, title or recital and are not counted as units",
         "claims": [
           {
             "location": "AN II",
@@ -962,17 +912,6 @@
               "key": "32014R0001",
               "display_name": null
             }
-          },
-          {
-            "location": "AN",
-            "change_type": "MODIFIED",
-            "in_force": "2014-02-28",
-            "source": "32014R0182 M",
-            "amending_act": {
-              "corpus": "eu",
-              "key": "32014R0182",
-              "display_name": null
-            }
           }
         ]
       },
@@ -989,33 +928,15 @@
         "left": "structural_diff",
         "right": "corpus_metadata",
         "left_units": 10,
-        "right_units": 5,
+        "right_units": 4,
         "shared": 4,
         "precision": 0.4,
-        "recall": 0.8,
-        "f1": 0.5333333333333333,
+        "recall": 1.0,
+        "f1": 0.5714285714285715,
         "kind_mismatches": 4
       }
     ],
     "disagreements": [
-      {
-        "unit": "AN",
-        "reason": "seen by corpus_metadata, not by structural_diff",
-        "observed_by": [
-          "corpus_metadata"
-        ],
-        "absent_from": [
-          "structural_diff"
-        ],
-        "kinds": [
-          [
-            "corpus_metadata",
-            [
-              "MODIFIED"
-            ]
-          ]
-        ]
-      },
       {
         "unit": "AN I",
         "reason": "signals disagree on the kind of change",
@@ -1217,9 +1138,8 @@
         ]
       }
     ],
-    "metadata_only_units": [
-      "AN"
-    ]
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1267,6 +1187,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "signals",
+      "repaired_on": "2026-10-08",
+      "addressed": 11,
+      "repaired": 7,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
