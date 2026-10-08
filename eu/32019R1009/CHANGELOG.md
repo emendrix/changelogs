@@ -464,7 +464,7 @@ The remainder of Annex III, including the rest of Part I and Parts II and III as
 ### `02019R1009-20240703` → `02019R1009-20241117`
 
 - **Act** `eu:32019R1009` · **In force** 2024-11-17 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **1 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 57 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1009-20240703` · `v2` = `02019R1009-20241117`
@@ -474,8 +474,6 @@ The remainder of Annex III, including the rest of Part I and Parts II and III as
 **MODIFIED · Annex III — ANNEX III** · applies from: unchanged
 
 *within* `AN III PO 7`, `AN III PO 7 PTA (a)`, `AN III PO 7 PTA (b)` · *amended by* `32024R2770`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 Point 7 has been restructured from a single sentence covering growing media and polymer-binding products into a lead-in sentence followed by two lettered sub-points (a) and (b) that separately identify the growing-medium case and the polymer-binding case. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20240703#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1009-20241117#anx_III)
 
