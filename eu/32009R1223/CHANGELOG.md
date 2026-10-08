@@ -3486,7 +3486,7 @@ Two new entries, numbered 30 and 30a, are added to the table for zinc oxide and 
 ### `02009R1223-20150810` → `02009R1223-20150818`
 
 - **Act** `eu:32009R1223` · **In force** 2015-08-18 · **Detected** 2026-08-13
-- **Touched** 2 provisions — 1 substantive · 0 date-only · 1 with no text · **2 disputed**
+- **Touched** 2 provisions — 1 substantive · 0 date-only · 1 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 49 unchanged
 - **Gate** 0 sentences quoted verbatim · 2 changes shipped without an explanation
 - **Citations** `v1` = `02009R1223-20150810` · `v2` = `02009R1223-20150818`
@@ -3496,8 +3496,6 @@ Two new entries, numbered 30 and 30a, are added to the table for zinc oxide and 
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32015R1298`
-
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -3555,7 +3553,7 @@ Two new entries, numbered 30 and 30a, are added to the table for zinc oxide and 
 
 *amended by* `32015R1298`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff, the instruction parse
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
