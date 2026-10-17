@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 1,
     "substantive": 1,
     "date_only": 0,
+    "textless": 0,
     "disputed": 0,
     "quoted": 0,
     "unexplained": 0
@@ -51,6 +52,206 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substance",
+                  "CAS No",
+                  "EC No",
+                  "Specific exemption on intermediate use or other specification"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "hexabromocyclododecane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "hexabromocyclododecane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromocyclododecane\nHexabromocyclododecane means: hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane; beta-hexabromocyclododecane; and gamma-hexabromocyclododecane",
+                    "25637-99-4,\n3194-55-6,\n134237-50-6,\n134237-51-7,\n134237-52-8",
+                    "247-148-4,\n221-695-9",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of hexabromocyclododecane equal to or below 100 mg/kg (0,01 % by weight) where it is present in substances, mixtures, articles or as constituents of the flame-retarded articles, subject to review by the Commission by 22 March 2019.\n2. Expanded polystyrene articles containing hexabromocyclododecane already in use in buildings before 21 February 2018 in accordance with Commission Regulation (EU) 2016/293\n and Commission Implementing Decision No 2016/C 12/06\n, and extruded polystyrene articles containing hexabromocyclododecane already in use in buildings before 23 June 2016 may continue to be used. Article 4(2), third and fourth subparagraphs shall apply to such articles.\n3. Without prejudice to the application of other Union provisions on the classification, packaging and labelling of substances and mixtures, expanded polystyrene placed on the market after 23 March 2016 in which hexabromocyclododecane was used shall be identifiable by labelling or other means throughout its life cycle."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134237-50-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-51-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-52-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25637-99-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3194-55-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-695-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-148-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromocyclododecane"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "hexabromocyclododecane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromocyclododecane\nHexabromocyclododecane means: hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane; beta-hexabromocyclododecane; and gamma-hexabromocyclododecane",
+                    "25637-99-4,\n3194-55-6,\n134237-50-6,\n134237-51-7,\n134237-52-8",
+                    "247-148-4,\n221-695-9",
+                    "1. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of hexabromocyclododecane equal to or below 75 mg/kg (0,0075 % by weight) where it is present in substances, mixtures, articles or as constituents of the flame-retarded articles. For the use of recycled polystyrene in the production of EPS and XPS insulation material for use in buildings or civil engineering works, point (b) shall apply to concentrations of hexabromocyclododecane equal to or below 100 mg/kg (0,01 % by weight). The exemptions laid down in this point 1 shall be reviewed and assessed by the Commission by 1 January 2026.\n2. Expanded polystyrene articles containing hexabromocyclododecane already in use in buildings before 21 February 2018 in accordance with Commission Regulation (EU) 2016/293\n and Commission Implementing Decision No 2016/C 12/06\n, and extruded polystyrene articles containing hexabromocyclododecane already in use in buildings before 23 June 2016 may continue to be used. Article 4(2), third and fourth subparagraphs shall apply to such articles.\n3. Without prejudice to the application of other Union provisions on the classification, packaging and labelling of substances and mixtures, expanded polystyrene placed on the market after 23 March 2016 in which hexabromocyclododecane was used shall be identifiable by labelling or other means throughout its life cycle."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134237-50-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-51-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-52-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25637-99-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3194-55-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-695-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-148-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromocyclododecane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "methoxychlor",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "methoxychlor",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Methoxychlor\nMethoxychlor refers to any possible isomer of dimethoxydiphenyltrichloroethane or any combination thereof.",
+                    "72-43-5\n30667-99-3\n76733-77-2\n255065-25-9\n255065-26-0\n59424-81-6\n1348358-72-4\nand others",
+                    "200-779-9",
+                    "For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of methoxychlor equal to or below 0,01 mg/kg (0,000001 % by weight) where they are present in substances, mixtures or articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1348358-72-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "255065-25-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "255065-26-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "30667-99-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "59424-81-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "72-43-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "76733-77-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-779-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methoxychlor"
+              }
+            }
+          ],
+          "unchanged": 28,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -95,7 +296,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -228,7 +430,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -261,5 +464,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }

@@ -408,7 +408,7 @@ The later text also inserts an entirely new substance entry for 2-(2H-benzotriaz
 ### `02019R1021-20230828` → `02019R1021-20241017`
 
 - **Act** `eu:32019R1021` · **In force** 2024-10-17 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 29 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20230828` · `v2` = `02019R1021-20241017`
@@ -418,6 +418,8 @@ The later text also inserts an entirely new substance entry for 2-(2H-benzotriaz
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* -2019-03-22 +2026-01-01 · *amended by* `32024R2570`, `32024R2555`
+
+Table entries: 1 added, 1 amended, 0 removed: "Hexabromocyclododecane", "Methoxychlor"
 
 The hexabromocyclododecane entry's point 1 concentration limit changed from a single threshold of 100 mg/kg (0,01% by weight) reviewed by 22 March 2019, to a general threshold of 75 mg/kg (0,0075% by weight), with a separate 100 mg/kg (0,01% by weight) threshold specifically for recycled polystyrene used in EPS and XPS insulation material in buildings or civil engineering works, and a review date of 1 January 2026. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230828#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20241017#anx_I)
 
