@@ -3064,6 +3064,8 @@ Part C's section 1.4 (and related identification text) is updated to add referen
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2` · *amended by* `32023R1434`
 
+Table entries: none changed.
+
 A new Note X has been added to the list of notes relating to the identification, classification and labelling of substances in section 1.1.3.1, describing classification based only on the properties of the part of the substance common to all substances in the entry, with the non-common part requiring separate evaluation for possibly more severe or broader classification. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230731#anx_VI)
 
 Two new notes, Note 11 and Note 12, have been added to the list of notes relating to the classification and labelling of mixtures in section 1.1.3.2, both addressing when a mixture must be classified as a reproductive toxicant based on summed concentrations of relevant substances. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230731#anx_VI)
