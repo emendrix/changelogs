@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,7 @@
         "changed_within": [
           "AN III SCT 1"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -106,6 +107,7 @@
         "changed_within": [
           "AN IV SCT 2"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -161,6 +163,3111 @@
           "AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1",
           "AN VI SCT 3"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "International Chemical Identification",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  null,
+                  "Labelling",
+                  null,
+                  null,
+                  "Specific Conc. Limits, M-factors and ATE",
+                  "Notes"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Hazard Class and Category Code(s)",
+                  "Hazard statement Code(s)",
+                  "Pictogram, Signal Word Code(s)",
+                  "Hazard statement Code(s)",
+                  "Suppl. Hazard statement Code(s)",
+                  "",
+                  ""
+                ]
+              ]
+            },
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 2,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "International Chemical Identification",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  "Labelling",
+                  "Concentration Limits",
+                  "Notes"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "006-046-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "006-046-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "006-046-00-8",
+                    "bendiocarb (ISO);\n2,2-dimethyl-1,3-benzodioxol-4-yl N-methylcarbamate",
+                    "245-216-8",
+                    "22781-23-3",
+                    "Acute Tox. 3 *\nAcute Tox. 3 *\nAcute Tox. 4 *\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H331\nH301\nH312\nH410",
+                    "GHS06\nGHS09\nDgr",
+                    "H331\nH301\nH312\nH410",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "22781-23-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-216-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "006-046-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "bendiocarb (ISO);"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "006-046-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "006-046-00-8",
+                    "bendiocarb (ISO);\n2,2-dimethyl-1,3-benzodioxol-4-yl N-methylcarbamate;\n2,2-dimethyl-1,3-benzodioxol-4-yl methylcarbamate",
+                    "245-216-8",
+                    "22781-23-3",
+                    "Acute Tox. 3\nAcute Tox. 3\nAcute Tox. 2\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H331\nH311\nH300\nH400\nH410",
+                    "GHS06\nGHS09\nDgr",
+                    "H331\nH311\nH300\nH410",
+                    "",
+                    "M = 10\nM = 100",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "22781-23-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-216-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "006-046-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "bendiocarb (ISO);"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "014-046-00-4",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "014-046-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "014-046-00-4",
+                    "e-glass microfibres of representative composition; [Calcium-aluminium-silicate fibres with random orientation with the following representative composition (% given by weight): SiO2 50,0-56,0 %, Al2O3 13,0-16,0 %, B2O3 5,8-10,0 %, Na2O < 0,6 %, K2O < 0,4 %, CaO 15,0-24,0 %, MgO < 5,5 %, Fe2O3 < 0,5 %, F2 < 1,0 %. Process: typically produced by flame attenuationand rotary process. (Additional individual elements may be present at low levels; the process list does not preclude innovation).]",
+                    "—",
+                    "—",
+                    "Carc. 1B",
+                    "H350i",
+                    "GHS08\nDgr",
+                    "H350i",
+                    "",
+                    "",
+                    "A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "014-046-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "e-glass microfibres of representative composition; [Calcium-aluminium-silicate fibres with random orientation with the following representative composition (% given by weight): SiO2 50,0-56,0 %, Al2O3 13,0-16,0 %, B2O3 5,8-10,0 %, Na2O < 0,6 %, K2O < 0,4 %, CaO 15,0-24,0 %, MgO < 5,5 %, Fe2O3 < 0,5 %, F2 < 1,0 %. Process: typically produced by flame attenuationand rotary process. (Additional individual elements may be present at low levels; the process list does not preclude innovation).]"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "014-046-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "014-046-00-4",
+                    "e-glass microfibres of representative composition; [Calcium-aluminium-silicate fibres with random orientation with the following representative composition (% given by weight): SiO2 50,0-56,0 %, Al2O3 13,0-16,0 %, B2O3 5,8-10,0 %, Na2O < 0,6 %, K2O < 0,4 %, CaO 15,0-24,0 %, MgO < 5,5 %, Fe2O3 < 0,5 %, F2 < 1,0 %. Process: typically produced by flame attenuation and rotary process.(Additional individual elements may be present at low levels; the process list does not preclude innovation).]",
+                    "—",
+                    "—",
+                    "Carc. 1B",
+                    "H350i",
+                    "GHS08\nDgr",
+                    "H350i",
+                    "",
+                    "",
+                    "A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "014-046-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "e-glass microfibres of representative composition; [Calcium-aluminium-silicate fibres with random orientation with the following representative composition (% given by weight): SiO2 50,0-56,0 %, Al2O3 13,0-16,0 %, B2O3 5,8-10,0 %, Na2O < 0,6 %, K2O < 0,4 %, CaO 15,0-24,0 %, MgO < 5,5 %, Fe2O3 < 0,5 %, F2 < 1,0 %. Process: typically produced by flame attenuation and rotary process.(Additional individual elements may be present at low levels; the process list does not preclude innovation).]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "047-003-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "047-003-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "047-003-00-3",
+                    "silver zinc zeolite (Zeolite, LTA framework type, surface-modified with silver and zinc ions)\n[This entry covers LTA (Linde Type A) framework type zeolite which has been surface-modified with both silver and zinc ions at contents Ag+ 0,5 %-6 %, Zn2 + 5 %-16 %, and potentially with phosphorus, NH4+, Mg2+ and/or Ca2+ each at level < 3 %]",
+                    "—",
+                    "130328-20-0",
+                    "Repr. 2\nSkin Irrit. 2\nEye Dam. 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H361d\nH315\nH318\nH400\nH410",
+                    "GHS08\nGHS05\nGHS09\nDgr",
+                    "H361d\nH315\nH318\nH410",
+                    "",
+                    "M = 100\nM = 100",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "130328-20-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "047-003-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "silver zinc zeolite (Zeolite, LTA framework type, surface-modified with silver and zinc ions)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "048-012-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "048-012-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "048-012-00-5",
+                    "cadmium carbonate",
+                    "208-168-9",
+                    "513-78-0",
+                    "Carc. 1B\nMuta. 1B\nAcute Tox. 4 *\nAcute Tox. 4 *\nAcute Tox. 4 *\nSTOT RE 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H350\nH340\nH332\nH312\nH302\nH372 (kidney, bone)\nH400\nH410",
+                    "GHS08\nGHS07\nGHS09\nDgr",
+                    "H350\nH340\nH332\nH312\nH302\nH372 (kidney, bone)\nH410",
+                    "",
+                    "",
+                    "A1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "513-78-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-168-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-012-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "cadmium carbonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "048-013-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "048-013-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "048-013-00-0",
+                    "cadmium hydroxide; cadmium dihydroxide",
+                    "244-168-5",
+                    "21041-95-2",
+                    "Carc. 1B\nMuta. 1B\nAcute Tox. 4 *\nAcute Tox. 4 *\nAcute Tox. 4 *\nSTOT RE 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H350\nH340\nH332\nH312\nH302\nH372 (kidney, bone)\nH400\nH410",
+                    "GHS08\nGHS07\nGHS09\nDgr",
+                    "H350\nH340\nH332\nH312\nH302\nH372 (kidney, bone)\nH410",
+                    "",
+                    "",
+                    "A1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "21041-95-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "244-168-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-013-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "cadmium hydroxide; cadmium dihydroxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "048-014-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "048-014-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "048-014-00-6",
+                    "cadmium nitrate;\ncadmium dinitrate",
+                    "233-710-6",
+                    "10325-94-7",
+                    "Carc. 1B\nMuta. 1B\nAcute Tox. 4 *\nAcute Tox. 4 *\nAcute Tox. 4 *\nSTOT RE 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H350\nH340\nH332\nH312\nH302\nH372 (kidney, bone)\nH400\nH410",
+                    "GHS08\nGHS07\nGHS09\nDgr",
+                    "H350\nH340\nH332\nH312\nH302\nH372 (kidney, bone)\nH410",
+                    "",
+                    "Carc. 1B; H350:\nC ≥ 0,01 %",
+                    "A1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10325-94-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-710-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-014-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "cadmium nitrate;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "050-030-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "050-030-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "050-030-00-3",
+                    "dibutyltin dilaurate; dibutyl[bis(dodecanoyloxy)]stannane",
+                    "201-039-8",
+                    "77-58-7",
+                    "Muta. 2\nRepr. 1B\nSTOT RE 1",
+                    "H341\nH360FD\nH372 (immune system)",
+                    "GHS08\nDgr",
+                    "H341\nH360FD\nH372 (immune system)",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "77-58-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-039-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "050-030-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "dibutyltin dilaurate; dibutyl[bis(dodecanoyloxy)]stannane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "603-235-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "603-235-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "603-235-00-2",
+                    "linalool; 3,7-dimethyl-1,6-octadien-3-ol; dl-linalool; [1]\ncoriandrol; (S)-3,7-dimethyl-1,6-octadien-3-ol; d-linalool; [2]\nlicareol; (R)-3,7-dimethyl-1,6-octadien-3-ol; l-linalool [3]",
+                    "201-134-4 [1]\n204-810-7 [2]\n204-811-2 [3]",
+                    "78-70-6 [1]\n126-90-9 [2]\n126-91-0 [3]",
+                    "Skin Sens. 1B",
+                    "H317",
+                    "GHS07\nWng",
+                    "H317",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "126-90-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "126-91-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "78-70-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-134-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-810-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-811-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "603-235-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "linalool; 3,7-dimethyl-1,6-octadien-3-ol; dl-linalool; [1]"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "604-057-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "604-057-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "604-057-00-8",
+                    "reaction mass of: isomers of 2-(2H-benzotriazol-2-yl)-4-methyl-(n)-dodecylphenol;\nisomers of 2-(2H-benzotriazol-2-yl)-4-methyl-(n)-tetracosylphenol;\nisomers of 2-(2H-benzotriazol-2-yl)-4-methyl-5,6-didodecyl-phenol. n = 5 or 6",
+                    "401-680-5",
+                    "—",
+                    "Aquatic Chronic 2",
+                    "H411",
+                    "GHS09",
+                    "H411",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "401-680-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "604-057-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "reaction mass of: isomers of 2-(2H-benzotriazol-2-yl)-4-methyl-(n)-dodecylphenol;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "604-057-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "604-057-00-8",
+                    "reaction mass of: isomers of 2-(2H-benzotriazol-2-yl)-4-methyl-(n)-dodecylphenol; isomers of 2-(2H-benzotriazol-2-yl)-4-methyl-(n)-tetracosylphenol; isomers of 2-(2H-benzotriazol-2-yl)-4-methyl-5,6-didodecyl-phenol. n = 5 or 6",
+                    "401-680-5",
+                    "—",
+                    "Aquatic Chronic 4",
+                    "H413",
+                    "",
+                    "H413",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "401-680-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "604-057-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "reaction mass of: isomers of 2-(2H-benzotriazol-2-yl)-4-methyl-(n)-dodecylphenol; isomers of 2-(2H-benzotriazol-2-yl)-4-methyl-(n)-tetracosylphenol; isomers of 2-(2H-benzotriazol-2-yl)-4-methyl-5,6-didodecyl-phenol. n = 5 or 6"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "604-093-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "604-093-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "604-093-00-4",
+                    "clorofene;\nchlorophene;\n2-benzyl-4-chlorophenol",
+                    "204-385-8",
+                    "120-32-1",
+                    "Carc. 2\nRepr. 2\nAcute Tox. 4\nSkin Irrit. 2\nSkin Sens. 1\nEye Dam. 1\nSTOT RE 2\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H351\nH361f\nH332\nH315\nH317\nH318\nH373 (kidney)\nH400\nH410",
+                    "GHS08\nGHS05\nGHS07\nGHS09\nDgr",
+                    "H351\nH361f\nH332\nH315\nH317\nH318\nH373 (kidney)\nH410",
+                    "",
+                    "M = 1\nM = 100",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-32-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-385-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "604-093-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "clorofene;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "605-023-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "605-023-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "605-023-00-5",
+                    "5-chloro-2-(4-chlorophenoxy)phenol",
+                    "429-290-0",
+                    "3380-30-1",
+                    "Eye Dam. 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H318\nH400\nH410",
+                    "GHS05\nGHS09\nDgr",
+                    "H318\nH410",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3380-30-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "429-290-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "605-023-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-chloro-2-(4-chlorophenoxy)phenol"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "605-023-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "605-023-00-5",
+                    "5-chloro-2-(4-chlorophenoxy)phenol;\n[DCPP]",
+                    "429-290-0",
+                    "3380-30-1",
+                    "Eye Dam. 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H318\nH400\nH410",
+                    "GHS05\nGHS09\nDgr",
+                    "H318\nH410",
+                    "",
+                    "M = 10\nM = 10",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3380-30-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "429-290-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "605-023-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-chloro-2-(4-chlorophenoxy)phenol;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "606-041-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "606-041-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "606-041-00-6",
+                    "2-methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one",
+                    "400-600-6",
+                    "71868-10-5",
+                    "Acute Tox. 4 *\nAquatic Chronic 2",
+                    "H302\nH411",
+                    "GHS07\nGHS09\nWng",
+                    "H302\nH411",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71868-10-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "400-600-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-041-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "606-041-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "606-041-00-6",
+                    "2-methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one",
+                    "400-600-6",
+                    "71868-10-5",
+                    "Repr. 1B\nAcute Tox. 4 *\nAquatic Chronic 2",
+                    "H360FD\nH302\nH411",
+                    "GHS08\nGHS07\nGHS09\nDgr",
+                    "H360FD\nH302\nH411",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71868-10-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "400-600-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-041-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "606-143-00-0",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "606-143-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "606-143-00-0",
+                    "abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1]",
+                    "_ [1]",
+                    "71751-41-2 [1]",
+                    "Repr. 2\nAcute Tox. 2\nAcute Tox. 1\nSTOT RE 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H361d\nH300\nH330\nH372 (nervous system)\nH400\nH410",
+                    "GHS06\nGHS08\nGHS09\nDgr",
+                    "H361d\nH300\nH330\nH372 (nervous system)\nH410",
+                    "",
+                    "STOT RE 1;\nH372: C ≥ 5 %\nSTOT RE 2;\nH373: 0,5 % ≤C<5 %\nM = 10000",
+                    ""
+                  ],
+                  [
+                    null,
+                    "avermectin B1a (purity ≥80 %); [2]",
+                    "265-610-3 [2]",
+                    "65195-55-3 [2]",
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65195-55-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "71751-41-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-610-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-143-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1]"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "606-143-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "606-143-00-0",
+                    "abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1]",
+                    "_ [1]",
+                    "71751-41-2 [1]",
+                    "Repr. 2\nAcute Tox. 2\nAcute Tox. 1\nSTOT RE 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H361d\nH300\nH330\nH372 (nervous system)\nH400\nH410",
+                    "GHS06\nGHS08\nGHS09\nDgr",
+                    "H361d\nH300\nH330\nH372 (nervous system)\nH410",
+                    "",
+                    "STOT RE 1;\nH372: C ≥ 5 %\nSTOT RE 2;\nH373: 0,5 % ≤C<5 %\nM = 10000",
+                    ""
+                  ],
+                  [
+                    null,
+                    "avermectin B1a (purity ≥ 80 %); [2]",
+                    "265-610-3 [2]",
+                    "65195-55-3 [2]",
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65195-55-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "71751-41-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-610-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-143-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "606-150-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "606-150-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "606-150-00-9",
+                    "clethodim (ISO); (5RS)-2-{(1EZ)-1-[(2E)-3-chloroallyloxyimino]propyl}-5-[(2RS)-2-(ethylthio)propyl]-3-hydroxycyclohex-2-en-1-one",
+                    "—",
+                    "99129-21-2",
+                    "Acute Tox. 4\nSkin Sens. 1\nAquatic Chronic 3",
+                    "H302\nH317\nH412",
+                    "GHS07\nWng",
+                    "H302\nH317\nH412",
+                    "EUH066",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99129-21-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-150-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "clethodim (ISO); (5RS)-2-{(1EZ)-1-[(2E)-3-chloroallyloxyimino]propyl}-5-[(2RS)-2-(ethylthio)propyl]-3-hydroxycyclohex-2-en-1-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "606-151-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "606-151-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "606-151-00-4",
+                    "anthraquinone",
+                    "201-549-0",
+                    "84-65-1",
+                    "Carc. 1B",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-65-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-549-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-151-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "anthraquinone"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "607-123-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "607-123-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "607-123-00-4",
+                    "2,3-epoxypropyl methacrylate;\nglycidyl methacrylate",
+                    "203-441-9",
+                    "106-91-2",
+                    "Acute Tox. 4 *\nAcute Tox. 4 *\nAcute Tox. 4 *\nEye Irrit. 2\nSkin Irrit. 2\nSkin Sens. 1",
+                    "H332\nH312\nH302\nH319\nH315\nH317",
+                    "GHS07\nWng",
+                    "H332\nH312\nH302\nH319\nH315\nH317",
+                    "",
+                    "",
+                    "D"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-91-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-441-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-123-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,3-epoxypropyl methacrylate;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "607-123-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "607-123-00-4",
+                    "2,3-epoxypropyl methacrylate;\nglycidyl methacrylate",
+                    "203-441-9",
+                    "106-91-2",
+                    "Carc. 1B\nMuta. 2\nRepr. 1B\nAcute Tox. 3\nAcute Tox. 4\nSTOT SE 3\nSTOT RE 1\nEye Dam. 1\nSkin Corr. 1C\nSkin Sens. 1",
+                    "H350\nH341\nH360F\nH311\nH302\nH335\nH372 (respiratory tract) (inhalation)\nH318\nH314\nH317",
+                    "GHS08\nGHS06\nGHS05\nDgr",
+                    "H350\nH341\nH360F\nH311\nH302\nH335\nH372 (respiratory tract) (inhalation)\nH314\nH317",
+                    "",
+                    "",
+                    "D"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-91-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-441-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-123-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,3-epoxypropyl methacrylate;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "607-720-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "607-720-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "607-720-00-X",
+                    "nonadecafluorodecanoic acid; [1]\nammonium nonadecafluorodecanoate; [2]\nsodium nonadecafluorodecanoate [3]",
+                    "206-400-3 [1] 221-470-5 [2]\n[3]",
+                    "335-76-2 [1] 3108-42-7 [2]\n3830-45-3 [3]",
+                    "Carc. 2\nRepr. 1B\nLact.",
+                    "H351\nH360Df\nH362",
+                    "GHS08\nDgr",
+                    "H351\nH360Df\nH362",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3108-42-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "335-76-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3830-45-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-400-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-470-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-720-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "nonadecafluorodecanoic acid; [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "607-721-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "607-721-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "607-721-00-5",
+                    "N,N′-methylenedimorpholine;\nN,N′-methylenebismorpholine;\n[formaldehyde released from N,N′-methylenebismorpholine];\n[MBM]",
+                    "227-062-3",
+                    "5625-90-1",
+                    "Carc. 1B\nMuta. 2\nAcute Tox. 4\nAcute Tox. 4\nAcute Tox. 4\nSTOT RE 2\nSkin Corr. 1B\nSkin Sens. 1\nEye Dam. 1",
+                    "H350\nH341\nH332\nH312\nH302\nH373 (gastrointestinal tract, respiratory tract)\nH314\nH317\nH318",
+                    "GHS08\nGHS07\nGHS05\nDgr",
+                    "H350\nH341\nH332\nH312\nH302\nH373 (gastrointestinal tract, respiratory tract)\nH314\nH317",
+                    "EUH071",
+                    "",
+                    "8\n9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5625-90-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-062-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-721-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N,N′-methylenedimorpholine;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "607-722-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "607-722-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "607-722-00-0",
+                    "2,3,5,6-tetrafluoro-4-(methoxymethyl)benzyl (Z)-(1R,3R)-3-(2-cyanoprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate;\nepsilon-momfluorothrin",
+                    "—",
+                    "1065124-65-3",
+                    "Acute Tox. 4\nSTOT SE 2\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H302\nH371 (nervous system)\nH400\nH410",
+                    "GHS07\nGHS08\nGHS09\nWng",
+                    "H302\nH371 (nervous system)\nH410",
+                    "",
+                    "M = 100\nM = 100",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1065124-65-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-722-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,3,5,6-tetrafluoro-4-(methoxymethyl)benzyl (Z)-(1R,3R)-3-(2-cyanoprop-1-enyl)-2,2-dimethylcyclopropanecarboxylate;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "607-723-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "607-723-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "607-723-00-6",
+                    "tefluthrin (ISO);\n2,3,5,6-tetrafluoro-4-methylbenzyl (1RS,3RS)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropanecarboxylate",
+                    "—",
+                    "79538-32-2",
+                    "Acute Tox. 1\nAcute Tox. 2\nAcute Tox. 2\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H330\nH310\nH300\nH400\nH410",
+                    "GHS06\nGHS09\nDgr",
+                    "H330\nH310\nH300\nH410",
+                    "",
+                    "M = 10000\nM = 10000",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "79538-32-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-723-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "tefluthrin (ISO);"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "608-055-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "608-055-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "608-055-00-8",
+                    "fipronil (ISO);\n5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-1H-pyrazole-3-carbonitrile",
+                    "—",
+                    "120068-37-3",
+                    "Acute Tox. 3 *\nAcute Tox. 3 *\nAcute Tox. 3 *\nSTOT RE 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H331\nH311\nH301\nH372**\nH400\nH410",
+                    "GHS06\nGHS08\nGHS09\nDgr",
+                    "H331\nH311\nH301\nH372**\nH410",
+                    "",
+                    "M=10",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120068-37-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "608-055-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "fipronil (ISO);"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "608-055-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "608-055-00-8",
+                    "fipronil (ISO);\n(±)-5-amino-1-(2,6-dichloro-α,α,α-trifluoro-para-tolyl)-4-trifluoromethylsulfinyl-pyrazole-3-carbonitrile",
+                    "424-610-5",
+                    "120068-37-3",
+                    "Acute Tox. 3*\nAcute Tox. 3*\nAcute Tox. 3*\nSTOT RE 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H301\nH311\nH331\nH372*\nH400\nH410",
+                    "GHS06\nGHS08\nGHS09\nDgr",
+                    "H301\nH311\nH331\nH372*\nH410",
+                    "",
+                    "M = 1000\nM = 10000",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120068-37-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "424-610-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "608-055-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "fipronil (ISO);"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "612-150-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "612-150-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "612-150-00-X",
+                    "spiroxamine (ISO);\n8-tert-butyl-1,4-dioxaspiro[4.5]decan-2-ylmethyl(ethyl)(propyl)amine",
+                    "—",
+                    "118134-30-8",
+                    "Acute Tox. 4 *\nAcute Tox. 4 *\nAcute Tox. 4 *\nSkin Irrit. 2\nSkin Sens. 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H332\nH312\nH302\nH315\nH317\nH400\nH410",
+                    "GHS07\nGHS09\nWng",
+                    "H332\nH312\nH302\nH315\nH317\nH410",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "118134-30-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-150-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "spiroxamine (ISO);"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "612-150-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "612-150-00-X",
+                    "spiroxamine (ISO);\n8-tert-butyl-1,4-dioxaspiro[4.5]decan-2-ylmethyl(ethyl)(propyl)amine",
+                    "—",
+                    "118134-30-8",
+                    "Repr. 2\nAcute Tox. 4\nAcute Tox. 4\nAcute Tox. 4\nSTOT RE 2\nSkin Irrit. 2\nSkin Sens. 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H361d\nH332\nH312\nH302\nH373 (eye)\nH315\nH317\nH400\nH410",
+                    "GHS08\nGHS07\nGHS09\nWng",
+                    "H361d\nH332\nH312\nH302\nH373 (eye)\nH315\nH317\nH410",
+                    "",
+                    "M = 100\nM = 100",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "118134-30-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-150-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "spiroxamine (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "612-290-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "612-290-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "612-290-00-1",
+                    "reaction products of paraformaldehyde and 2-hydroxypropylamine (ratio 3:2);\n[formaldehyde released from 3,3′-methylenebis[5-methyloxazolidine];\nformaldehyde released from oxazolidin];\n[MBO]",
+                    "—",
+                    "—",
+                    "Carc. 1B\nMuta. 2\nAcute Tox. 4\nAcute Tox. 3\nAcute Tox. 4\nSTOT RE 2\nSkin Corr. 1B\nEye Dam. 1\nSkin Sens. 1A\nAquatic Chronic 2",
+                    "H350\nH341\nH332\nH311\nH302\nH373 (gastrointestinal tract, respiratory tract)\nH314\nH318\nH317\nH411",
+                    "GHS08\nGHS06\nGHS05\nGHS09\nDgr",
+                    "H350\nH341\nH332\nH311\nH302\nH373 (gastrointestinal tract, respiratory tract)\nH314\nH317\nH411",
+                    "EUH071",
+                    "",
+                    "8\n9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "612-290-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "reaction products of paraformaldehyde and 2-hydroxypropylamine (ratio 3:2);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "612-291-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "612-291-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "612-291-00-7",
+                    "reaction products of paraformaldehyde with 2-hydroxypropylamine (ratio 1:1);\n[formaldehyde released from α,α,α-trimethyl-1,3,5-triazine-1,3,5(2H,4H,6H)-triethanol];\n[HPT]",
+                    "—",
+                    "—",
+                    "Carc. 1B\nMuta. 2\nAcute Tox. 4\nAcute Tox. 4\nSTOT RE 2\nSkin Corr. 1C\nEye Dam. 1\nSkin Sens. 1A\nAquatic Chronic 2",
+                    "H350\nH341\nH332\nH302\nH373 (gastrointestinal tract, respiratory tract)\nH314\nH318\nH317\nH411",
+                    "GHS08\nGHS07\nGHS05\nGHS09\nDgr",
+                    "H350\nH341\nH332\nH302\nH373 (gastrointestinal tract, respiratory tract)\nH314\nH317\nH411",
+                    "EUH071",
+                    "",
+                    "8\n9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "612-291-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "reaction products of paraformaldehyde with 2-hydroxypropylamine (ratio 1:1);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "612-292-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "612-292-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "612-292-00-2",
+                    "methylhydrazine",
+                    "200-471-4",
+                    "60-34-4",
+                    "Carc. 1B",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60-34-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-471-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-292-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "methylhydrazine"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "613-318-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "613-318-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "613-318-00-5",
+                    "fenpyrazamine (ISO); S-allyl 5-amino-2-isopropyl-4-(2-methylphenyl)-3-oxo-2,3-dihydro-1H-pyrazole-1-carbothioate",
+                    "-",
+                    "473798-59-3",
+                    "Aquatic Chronic 2",
+                    "H411",
+                    "GHS09",
+                    "H411",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "473798-59-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-318-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "fenpyrazamine (ISO); S-allyl 5-amino-2-isopropyl-4-(2-methylphenyl)-3-oxo-2,3-dihydro-1H-pyrazole-1-carbothioate"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "613-318-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "613-318-00-5",
+                    "fenpyrazamine (ISO);\nS-allyl 5-amino-2,3-dihydro-2-isopropyl-3-oxo-4-(o-tolyl)pyrazole-1-carbothioate;\nS-allyl 5-amino-2-isopropyl-4-(2-methylphenyl)-3-oxo-2,3-dihydropyrazole-1-carbothioate",
+                    "—",
+                    "473798-59-3",
+                    "Aquatic Acute 1 Aquatic Chronic 1",
+                    "H400\nH410",
+                    "GHS09\nWng",
+                    "H410",
+                    "",
+                    "M = 10\nM = 1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "473798-59-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-318-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "fenpyrazamine (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "613-321-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "613-321-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "613-321-00-1",
+                    "(RS)-4-[1-(2,3-dimethylphenyl)ethyl]-1H-imidazole;\nmedetomidine",
+                    "—",
+                    "86347-14-0",
+                    "Acute Tox. 2\nAcute Tox. 2\nSTOT SE 3\nSTOT SE 1\nSTOT RE 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H330\nH300\nH336\nH370 (eye)\nH372\nH400\nH410",
+                    "GHS06\nGHS08\nGHS09\nDgr",
+                    "H330\nH300\nH336\nH370 (eye)\nH372\nH410",
+                    "",
+                    "M = 1\nM = 100",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "86347-14-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-321-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(RS)-4-[1-(2,3-dimethylphenyl)ethyl]-1H-imidazole;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "613-322-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "613-322-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "613-322-00-7",
+                    "triadimenol (ISO); (1RS,2RS;1RS,2SR)-1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol;\nα-tert-butyl-β-(4-chlorophenoxy)-1H-1,2,4-triazole-1-ethanol",
+                    "259-537-6",
+                    "55219-65-3",
+                    "Repr. 1B\nLact.\nAcute Tox. 4\nAquatic Chronic 2",
+                    "H360\nH362\nH302\nH411",
+                    "GHS08\nGHS07\nGHS09\nDgr",
+                    "H360\nH362\nH302\nH411",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "55219-65-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "259-537-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-322-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "triadimenol (ISO); (1RS,2RS;1RS,2SR)-1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "613-323-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "613-323-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "613-323-00-2",
+                    "terbuthylazine (ISO);\nN-tert-butyl-6-chloro-N′-ethyl-1,3,5-triazine-2,4-diamine",
+                    "227-637-9",
+                    "5915-41-3",
+                    "Acute Tox. 4\nSTOT RE 2\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H302\nH373\nH400\nH410",
+                    "GHS07\nGHS08\nGHS09\nWng",
+                    "H302\nH373\nH410",
+                    "",
+                    "M = 10\nM = 10",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5915-41-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-637-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-323-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "terbuthylazine (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "613-324-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "613-324-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "613-324-00-8",
+                    "quinolin-8-ol;\n8-hydroxyquinoline",
+                    "205-711-1",
+                    "148-24-3",
+                    "Repr. 1B\nAcute Tox. 3\nEye Dam. 1\nSkin Sens. 1\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H360D\nH301\nH318\nH317\nH400\nH410",
+                    "GHS08\nGHS06\nGHS05\nGHS09\nDgr",
+                    "H360D\nH301\nH318\nH317\nH410",
+                    "",
+                    "M = 1\nM = 1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "148-24-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-711-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-324-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "quinolin-8-ol;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "613-325-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "613-325-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "613-325-00-3",
+                    "thiacloprid (ISO);\n(Z)-3-(6-chloro-3-pyridylmethyl)-1,3-thiazolidin-2-ylidenecyanamide;\n{(2Z)-3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene}cyanamide",
+                    "—",
+                    "111988-49-9",
+                    "Carc. 2\nRepr. 1B\nAcute Tox. 4\nAcute Tox. 3\nSTOT SE 3\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H351\nH360FD\nH332\nH301\nH336\nH400\nH410",
+                    "GHS08 GHS06\nGHS09\nDgr",
+                    "H351\nH360FD\nH332\nH301\nH336\nH410",
+                    "",
+                    "M = 100\nM = 100",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "111988-49-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-325-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "thiacloprid (ISO);"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "614-001-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "614-001-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "614-001-00-4",
+                    "nicotine (ISO);\n3-(N-methyl-2-pyrrolidinyl)pyridine",
+                    "200-193-3",
+                    "54-11-5",
+                    "Acute Tox. 1\nAcute Tox. 3 *\nAquatic Chronic 2",
+                    "H310\nH301\nH411",
+                    "GHS06\nGHS09\nDgr",
+                    "H310\nH301\nH411",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "54-11-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-193-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "614-001-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "nicotine (ISO);"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "614-001-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "614-001-00-4",
+                    "nicotine (ISO);\n3-[(2S)-1-methylpyrrolidin-2-yl]pyridine",
+                    "200-193-3",
+                    "54-11-5",
+                    "Acute Tox. 2\nAcute Tox. 2\nAcute Tox. 2\nAquatic Chronic 2",
+                    "H330\nH310\nH300\nH411",
+                    "GHS06\nGHS09\nDgr",
+                    "H330\nH310\nH300\nH411",
+                    "",
+                    "inhalation:\nATE = 0.19 mg/L (dusts or mists)\ndermal:\nATE = 70 mg/kg\noral:\nATE\n = 5 mg/kg",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "54-11-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-193-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "614-001-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "nicotine (ISO);"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "615-013-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "615-013-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "615-013-00-2",
+                    "cyanamide;\ncarbanonitril",
+                    "206-992-3",
+                    "420-04-2",
+                    "Acute Tox. 3 *\nAcute Tox. 4 *\nEye Irrit. 2\nSkin Irrit. 2\nSkin Sens. 1",
+                    "H301\nH312\nH319\nH315\nH317",
+                    "GHS06\nDgr",
+                    "H301\nH312\nH319\nH315\nH317",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "420-04-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-992-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "615-013-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "cyanamide;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "615-013-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "615-013-00-2",
+                    "cyanamide;\ncarbamonitril",
+                    "206-992-3",
+                    "420-04-2",
+                    "Carc. 2\nRepr. 2\nAcute Tox. 3\nAcute Tox. 3\nSTOT RE 2\nSkin Corr. 1\nSkin Sens. 1\nEye Dam. 1\nAquatic Chronic 3",
+                    "H351\nH361fd\nH311\nH301\nH373 (thyroid)\nH314\nH317\nH318\nH412",
+                    "GHS08\nGHS06\nGHS05\nDgr",
+                    "H351\nH361fd\nH311\nH301\nH373 (thyroid)\nH314\nH317\nH412",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "420-04-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-992-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "615-013-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "cyanamide;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "616-006-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "616-006-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "616-006-00-7",
+                    "dichlofluanid (ISO);\nN-dichlorofluoromethylthio-N',N'-dimethyl-N-phenylsulfamide",
+                    "214-118-7",
+                    "1085-98-9",
+                    "Acute Tox. 4 *\nEye Irrit. 2\nSkin Sens. 1\nAquatic Acute 1",
+                    "H332\nH319\nH317\nH400",
+                    "GHS07\nGHS09\nWng",
+                    "H332\nH319\nH317\nH400",
+                    "",
+                    "M=10",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1085-98-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-118-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-006-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "dichlofluanid (ISO);"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "616-006-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "616-006-00-7",
+                    "dichlofluanid (ISO);\nN-[(dichlorofluoromethyl)thio]-N′,N′-dimethyl-N-phenylsulfamide",
+                    "214-118-7",
+                    "1085-98-9",
+                    "Acute Tox. 4\nEye Irrit. 2\nSkin Sens. 1\nAquatic Acute 1",
+                    "H332\nH319\nH317\nH400",
+                    "GHS07\nGHS09\nWng",
+                    "H332\nH319\nH317\nH400",
+                    "",
+                    "M = 10",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1085-98-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-118-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-006-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "dichlofluanid (ISO);"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "616-094-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "616-094-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "616-094-00-7",
+                    "3,3'-dicyclohexyl-1,1'-methylenebis(4,1-phenylene)diurea",
+                    "406-370-3",
+                    "58890-25-8",
+                    "Skin Sens. 1\nAquatic Chronic 4",
+                    "H317\nH413",
+                    "GHS07\nWng",
+                    "H317\nH413",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "58890-25-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "406-370-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-094-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,3'-dicyclohexyl-1,1'-methylenebis(4,1-phenylene)diurea"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "616-094-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "616-094-00-7",
+                    "3,3′-dicyclohexyl-1,1′-methylenebis(4,1-phenylene)diurea",
+                    "406-370-3",
+                    "58890-25-8",
+                    "Aquatic Chronic 4",
+                    "H413",
+                    "",
+                    "H413",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "58890-25-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "406-370-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-094-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,3′-dicyclohexyl-1,1′-methylenebis(4,1-phenylene)diurea"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "616-221-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "616-221-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "616-221-00-6",
+                    "hexaflumuron (ISO);\n1-(3,5-dichloro-4-(1,1,2,2-tetrafluoroethoxy)phenyl)-3-(2,6-difluorobenzoyl)urea",
+                    "401-400-1",
+                    "86479-06-3",
+                    "Aquatic Acute 1\nAquatic Chronic 1",
+                    "H400\nH410",
+                    "GHS09\nWng",
+                    "H410",
+                    "",
+                    "M = 1000\nM = 10000",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "86479-06-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "401-400-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-221-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "hexaflumuron (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "616-222-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "616-222-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "616-222-00-1",
+                    "penthiopyrad (ISO);\n(RS)-N-[2-(1,3-dimethylbutyl)-3-thienyl]-1-methyl-3-(trifluoromethyl)pyrazole-4-carboxamide",
+                    "—",
+                    "183675-82-3",
+                    "Aquatic Acute 1\nAquatic Chronic 1",
+                    "H400\nH410",
+                    "GHS09\nWng",
+                    "H410",
+                    "",
+                    "M = 1\nM = 1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "183675-82-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-222-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "penthiopyrad (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "616-223-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "616-223-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "616-223-00-7",
+                    "carbetamide (ISO);\n(R)-1-(ethylcarbamoyl)ethyl carbanilate; (2R)-1-(ethylamino)-1-oxopropan-2-yl phenylcarbamate",
+                    "240-286-6",
+                    "16118-49-3",
+                    "Carc. 2\nRepr. 1B\nAcute Tox. 4\nAquatic Chronic 2",
+                    "H351\nH360D\nH302\nH411",
+                    "GHS08\nGHS07\nGHS09\nDgr",
+                    "H351\nH360D\nH302\nH411",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "16118-49-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-286-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-223-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "carbetamide (ISO);"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "648-082-00-2",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "648-082-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "648-082-00-2",
+                    "Tar, coal, high-temp.;\nCoal tar;\n[The condensation product obtained by cooling, to approximately ambient temperature, the gas evolved in the high temperature (greater than 700 oC (1292 oF)) destructive distillation of coal. A black viscous liquid denser than water.Composed primarily of a complex mixture of condensed ring aromatic hydrocarbons. May contain minor amounts of phenolic compounds and aromatic nitrogen bases.]",
+                    "266-024-0",
+                    "65996-89-6",
+                    "Carc. 1A",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-024-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-082-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tar, coal, high-temp.;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "648-082-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "648-082-00-2",
+                    "Tar, coal, high-temp.;\nCoal tar;\n[The condensation product obtained by cooling, to approximately ambient temperature, the gas evolved in the high temperature (greater than 700 oC (1292 oF)) destructive distillation of coal. A black viscous liquid denser than water. Composedprimarily of a complex mixture of condensed ring aromatic hydrocarbons. May contain minor amounts of phenolic compounds and aromatic nitrogen bases.]",
+                    "266-024-0",
+                    "65996-89-6",
+                    "Carc. 1A",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-024-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-082-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tar, coal, high-temp.;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "648-151-00-7",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "648-151-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "648-151-00-7",
+                    "Gasoline, coal solvent extn., hydrocracked naphtha;\n[Motor fuel produced by the reforming of the refined naphtha fraction of the products of hydrocracking of coal extract or solution produced by the liquid solvent extraction or supercritical gas extraction processes and boilingin the range of approximately 30 oC to 180 oC (86 oF to 356 oF). Composed primarily of aromatic and naphthenic hydrocarbons, their alkyl derivatives and alkyl hydrocarbons having carbon numbers in the range of C4 through C9.]",
+                    "302-691-7",
+                    "94114-55-3",
+                    "Carc. 1B",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "94114-55-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "302-691-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-151-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Gasoline, coal solvent extn., hydrocracked naphtha;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "648-151-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "648-151-00-7",
+                    "Gasoline, coal solvent extn., hydrocracked naphtha;\n[Motor fuel produced by the reforming of the refined naphtha fraction of the products of hydrocracking of coal extract or solution produced by the liquid solvent extraction or supercritical gasextraction processes and boiling in the range of approximately 30 oC to 180 oC (86 oF to 356 oF). Composed primarily of aromatic and naphthenic hydrocarbons, their alkyl derivatives and alkyl hydrocarbons having carbon numbers in the range of C4 through C9.]",
+                    "302-691-7",
+                    "94114-55-3",
+                    "Carc. 1B",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "94114-55-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "302-691-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-151-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Gasoline, coal solvent extn., hydrocracked naphtha;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "649-049-00-5",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "649-049-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-049-00-5",
+                    "Petroleum;\nCrude oil;\n[A complex combination of hydrocarbons, It consists predominantly of aliphatic, alicyclic and aromatic hydrocarbons. It may also contain small amounts of nitrogen, oxygen and sulfur compounds. This category encompasses light, medium, and heavy petroleums, as well as the oils extended from tar sands. Hydrocarbonaceous materials requiring major chemical changes for theirrecoveryor conversion to petroleum refinery feedstocks such as crude shale oils; upgraded shale oils and liquid coal fuels are not included in this definition.]",
+                    "232-298-5",
+                    "8002-05-9",
+                    "Carc. 1B",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8002-05-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-298-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-049-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Petroleum;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "649-049-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-049-00-5",
+                    "Petroleum;\nCrude oil;\n[A complex combination of hydrocarbons, It consists predominantly of aliphatic, alicyclic and aromatic hydrocarbons. It may also contain small amounts of nitrogen, oxygen and sulfur compounds. This category encompasses light, medium, and heavy petroleums, as well as the oils extended from tar sands. Hydrocarbonaceous materialsrequiring major chemical changes for theirrecovery or conversion to petroleum refinery feedstocks such as crude shale oils; upgraded shale oils and liquid coal fuels are not included in this definition.]",
+                    "232-298-5",
+                    "8002-05-9",
+                    "Carc. 1B",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8002-05-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-298-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-049-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Petroleum;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "649-165-00-6",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "649-165-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-165-00-6",
+                    "Tail gas (petroleum), catalytic hydrodesulfurized naphtha separator;\nRefinery gas;\n[A complex combination of hydrocarbons obtained from thehydrodesulfurization of naphtha. It consists of hydrogen, methane, ethane, and propane.]",
+                    "273-173-5",
+                    "68952-79-4",
+                    "Press. Gas\nFlam. Gas 1\nCarc. 1A\nMuta. 1B",
+                    "H220\nH350\nH340",
+                    "GHS04\nGHS02\nGHS08\nDgr",
+                    "H220\nH350\nH340",
+                    "",
+                    "",
+                    "K U"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68952-79-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "273-173-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-165-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tail gas (petroleum), catalytic hydrodesulfurized naphtha separator;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "649-165-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-165-00-6",
+                    "Tail gas (petroleum), catalytic hydrodesulfurized naphtha separator;\nRefinery gas;\n[A complex combination of hydrocarbons obtained fromthe hydrodesulfurization ofnaphtha. It consists of hydrogen, methane, ethane, and propane.]",
+                    "273-173-5",
+                    "68952-79-4",
+                    "Press. Gas\nFlam. Gas 1\nCarc. 1A\nMuta. 1B",
+                    "H220\nH350\nH340",
+                    "GHS04\nGHS02\nGHS08\nDgr",
+                    "H220\nH350\nH340",
+                    "",
+                    "",
+                    "K U"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68952-79-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "273-173-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-165-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tail gas (petroleum), catalytic hydrodesulfurized naphtha separator;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "649-314-00-5",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "649-314-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-314-00-5",
+                    "Hydrocarbons, C5-11, nonaroms.-rich, reforming light fraction;\nLow boiling point cat-reformed naphtha;\n[A complex combination of hydrocarbons obtained by separation from the platformate-containing fraction. It consists predominantly of nonaromatic hydrocarbons having carbon numbers predominantly in the range of C5 through C11 and boiling in the range of approximately 35 °C to 125 °C (94 °F to 257 °F), benzene and toluene.]",
+                    "297-466-2",
+                    "93572-36-2",
+                    "Carc. 1B\nMuta. 1B\nAsp. Tox. 1",
+                    "H350\nH340\nH304",
+                    "GHS08\nDgr",
+                    "H350\nH340\nH304",
+                    "",
+                    "",
+                    "H P"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "93572-36-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "297-466-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-314-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C5-11, nonaroms.-rich, reforming light fraction;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "649-314-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-314-00-5",
+                    "Hydrocarbons, C5-11, nonaroms.-rich, reforming light fraction;\nLow boiling point cat-reformed naphtha;\n[A complex combination of hydrocarbons obtained by separation from the platformate-containing fraction. It consists predominantly of nonaromatic hydrocarbons having carbon numbers predominantly in the range of C5 through C11 and boiling inthe range of approximately 35 °C to 125 °C (94 °F to 257 °F), benzene and toluene.]",
+                    "297-466-2",
+                    "93572-36-2",
+                    "Carc. 1B\nMuta. 1B\nAsp. Tox. 1",
+                    "H350\nH340\nH304",
+                    "GHS08\nDgr",
+                    "H350\nH340\nH304",
+                    "",
+                    "",
+                    "H P"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "93572-36-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "297-466-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-314-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C5-11, nonaroms.-rich, reforming light fraction;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "649-431-00-1",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "649-431-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-431-00-1",
+                    "Distillates (petroleum), hydrodesulfurized full-range middle coker;\nKerosine — unspecified;\n[A complex combination of hydrocarbons obtained by fractionation from hydrodesulfurized coker distillate. It consists predominantly of hydrocarbons having carbonnumbers predominantly in the range of C8 through C16 and boiling in the range of approximately 120 oC to 283 oC (248 oF to 541 oF).]",
+                    "309-864-6",
+                    "101316-58-9",
+                    "Asp. Tox. 1",
+                    "H304",
+                    "GHS08\nDgr",
+                    "H304",
+                    "",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101316-58-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "309-864-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-431-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), hydrodesulfurized full-range middle coker;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "649-431-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-431-00-1",
+                    "Distillates (petroleum), hydrodesulfurized full-range middle coker;\nKerosine — unspecified;\n[A complex combination of hydrocarbons obtained by fractionation from hydrodesulfurized coker distillate. It consists predominantly of hydrocarbons having carbon numbers predominantly in the range of C8 through C16 and boiling in the range of approximately 120 oC to 283 oC (248 oF to 541 oF).]",
+                    "309-864-6",
+                    "101316-58-9",
+                    "Asp. Tox. 1",
+                    "H304",
+                    "GHS08\nDgr",
+                    "H304",
+                    "",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101316-58-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "309-864-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-431-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), hydrodesulfurized full-range middle coker;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "650-032-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "650-032-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "650-032-00-X",
+                    "cyproconazole (ISO);\n(2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3-cyclopropyl-1-(1H—1,2,4-triazol-1-yl)butan-2-ol",
+                    "—",
+                    "94361-06-5",
+                    "Repr. 2\nAcute Tox. 4 *\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H361d ***\nH302\nH400\nH410",
+                    "GHS08\nGHS07 GHS09\nWng",
+                    "H361d ***\nH302\nH410",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "94361-06-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "650-032-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "cyproconazole (ISO);"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "650-032-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "650-032-00-X",
+                    "cyproconazole (ISO); (2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3-cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol",
+                    "—",
+                    "94361-06-5",
+                    "Repr. 1B\nAcute Tox. 3\nSTOT RE 2\nAquatic Acute 1\nAquatic Chronic 1",
+                    "H360D\nH301\nH373 (liver)\nH400\nH410",
+                    "GHS08\nGHS06\nGHS09\nDgr",
+                    "H360D\nH301\nH373 (liver)\nH410",
+                    "",
+                    "M = 10\nM = 1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "94361-06-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "650-032-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "cyproconazole (ISO); (2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3-cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 2,
+              "key": "606-143-00-0",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 2,
+                "key": "606-143-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "606-143-00-0",
+                    "abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1]",
+                    "_ [1]",
+                    "71751-41-2 [1]",
+                    "Repr. Cat. 3; R63\nT+; R26/28\nT; R48/23/25\nN; R50-53",
+                    "T+; N\nR: 63-26/28-48/23/25-50/53\nS: 28-36/37-45-60-61",
+                    "T; R48/23: C ≥ 5%\nXn; R48/20: 0,5% ≤ C <5%\nN; R50-53: C ≥ 0,0025%\nN; R51-53: 0,00025% ≤ C<0,0025%\nR52-53: 0,000025% ≤ C<0,00025%",
+                    ""
+                  ],
+                  [
+                    null,
+                    "avermectin B1a (purity ≥80%); [2]",
+                    "265-610-3 [2]",
+                    "65195-55-3 [2]",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65195-55-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "71751-41-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-610-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-143-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1]"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 2,
+                "key": "606-143-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "606-143-00-0",
+                    "abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1]",
+                    "_ [1]",
+                    "71751-41-2 [1]",
+                    "Repr. Cat. 3; R63\nT+; R26/28\nT; R48/23/25\nN; R50-53",
+                    "T+; N\nR: 63-26/28-48/23/25-50/53\nS: 28-36/37-45-60-61",
+                    "T; R48/23: C ≥ 5%\nXn; R48/20: 0,5% ≤ C <5%\nN; R50-53: C ≥ 0,0025%\nN; R51-53: 0,00025% ≤ C<0,0025%\nR52-53: 0,000025% ≤ C<0,00025%",
+                    ""
+                  ],
+                  [
+                    null,
+                    "avermectin B1a (purity ≥ 80%); [2]",
+                    "265-610-3 [2]",
+                    "65195-55-3 [2]",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65195-55-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "71751-41-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-610-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-143-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "abamectin (combination of avermectin B1a and avermectin B1b) (ISO) [1]"
+              }
+            }
+          ],
+          "unchanged": 8413,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -479,6 +3586,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 3,
       "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

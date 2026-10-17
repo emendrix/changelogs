@@ -4812,6 +4812,8 @@ A new Article 53c has been added, stating that the Commission shall adopt a sepa
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 3` · *amended by* `32017R0776`
 
+Table entries: 24 added, 22 amended (9 only in spacing, dash forms or accents), 0 removed: Index No 006-046-00-8, Index No 014-046-00-4, Index No 047-003-00-3, Index No 048-012-00-5, Index No 048-013-00-0, Index No 048-014-00-6, Index No 050-030-00-3, Index No 603-235-00-2, Index No 604-057-00-8, Index No 604-093-00-4 and 36 more
+
 The reference in Note K to the substance identifier changed from "EINECS No" to "Einecs No", and the accompanying sentence dropped the parenthetical "(Table 3.2)" after the precautionary statement codes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#anx_VI)
 
 Note P similarly changed "EINECS No" to "Einecs No" and removed the "(Table 3.1)" and "or the S-phrases (2-)23-24-62 (Table 3.2)" wording, leaving only the precautionary statement codes as applying. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20181201#anx_VI)
