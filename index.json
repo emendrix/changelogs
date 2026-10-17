@@ -67,7 +67,7 @@
       "key": "32009R1107",
       "title": "Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC",
       "index": "eu/32009R1107/index.json",
-      "index_sha256": "0a6f0cf0507a50366f11c70209f38042eec11dda293a4f2dd6e86e6117b30ea7",
+      "index_sha256": "30e19b155ea0d27da6f2e8c9742ef2417e3596c961a370f50f2174a7d7e17c9d",
       "events": 9,
       "changes": 17,
       "provisions": 14,
@@ -75,7 +75,7 @@
       "newest_version": "02009R1107-20260616",
       "newest_in_force": "2026-06-16",
       "first_detected_on": "2026-09-04",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-10-17"
     },
     {
       "corpus": "eu",

@@ -83,10 +83,10 @@
         "2021-03-24",
         "2021-03-27"
       ],
-      "updated_on": "2026-09-04",
-      "schema_version": "1.0",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32009R1107/changes/02009R1107-20210327.json",
-      "sha256": "ed11321cfc1209dd631f5b9db8253cdd92db96cc15b8342cec6dfc86629539f2",
+      "sha256": "1fd8d5d852313aea55f4112d16b7b66776a8ee0f4c9655e242f0fb9b3b35950d",
       "diff_only": false,
       "counts": {
         "touched": 6,
@@ -97,7 +97,12 @@
         "quoted": 0,
         "unexplained": 0
       },
-      "repairs": [],
+      "repairs": [
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
+        }
+      ],
       "evidence": false,
       "metadata_only_units": [],
       "instruction_only_units": []

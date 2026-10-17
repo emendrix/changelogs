@@ -125,7 +125,7 @@ Section 5.2 replaces the earlier single test for micro-organisms based on antimi
 ### `02009R1107-20191214` → `02009R1107-20210327`
 
 - **Act** `eu:32009R1107` · **In force** 2021-03-24, 2021-03-27 · **Detected** 2026-09-04
-- **Touched** 6 provisions — 6 substantive · 0 date-only · **0 disputed**
+- **Touched** 6 provisions — 6 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 6 modified · 0 deleted · 0 renumbered · 0 deferred · 83 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02009R1107-20191214` · `v2` = `02009R1107-20210327`
@@ -276,6 +276,8 @@ New paragraphs 2a and 2b were added setting out separate procedures for the Auth
 **MODIFIED · Annex III — ANNEX III** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +1818-08-02 · *amended by* `32021R0383`
+
+Table entries: 144 added, 0 amended, 0 removed: No 1, No 2, No 3, No 4, No 5, No 6, No 7, No 8, No 9, No 10 and 134 more
 
 The later version adds introductory impurity-limit statements and a full table of substances with names, CAS and EC numbers and classification or other properties, none of which appeared in the earlier version, which contained only the heading and the introductory sentence about Article 27. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20191214#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20210327#anx_III)
 

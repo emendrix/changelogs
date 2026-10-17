@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -28,6 +28,7 @@
     "touched": 6,
     "substantive": 6,
     "date_only": 0,
+    "textless": 0,
     "disputed": 0,
     "quoted": 0,
     "unexplained": 0
@@ -55,6 +56,7 @@
           "AR 7 PA 3 ALN 2",
           "AR 7 PA 3 ALN 3"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -89,7 +91,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -165,7 +168,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -187,6 +191,7 @@
           "AR 10",
           "AR 10 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -221,7 +226,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -291,7 +297,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -312,6 +319,7 @@
         "changed_within": [
           "AR 15 PA 1 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -346,7 +354,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -403,7 +412,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -426,6 +436,7 @@
           "AR 16 ALN 1",
           "AR 16 ALN 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -460,7 +471,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -549,7 +561,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -581,6 +594,7 @@
           "AR 63 PA 2b",
           "AR 63 PA 3 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -619,7 +633,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -708,7 +723,8 @@
         }
       ],
       "applicability_note": null,
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     },
     {
       "change": {
@@ -729,6 +745,5435 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "No",
+                  "Name",
+                  "EC names/Other names",
+                  "CAS number",
+                  "EC number",
+                  "Classification/Other properties"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1.",
+                    "1-Chloro-2,3-epoxypropane",
+                    "Epichlorohydrin, 2,3-Epoxypropyl chloride",
+                    "106-89-8",
+                    "203-439-8",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-89-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-439-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-Chloro-2,3-epoxypropane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2.",
+                    "1,2- Dichloroethane",
+                    "1,2-Dichloroethane;\nEthane, 1,2-dichloro-",
+                    "107-06-2",
+                    "203-458-1",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "107-06-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-458-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2- Dichloroethane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3.",
+                    "2-Ethoxyethanol",
+                    "2-Ethoxyethanol;\nEthanol, 2-ethoxy-",
+                    "110-80-5",
+                    "203-804-1",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "110-80-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-804-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Ethoxyethanol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4.",
+                    "2-Ethoxyethyl acetate",
+                    "2-Ethoxyethanol acetate; Ethanol, 2-ethoxy-, 1-acetate",
+                    "111-15-9",
+                    "203-839-2",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "111-15-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-839-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Ethoxyethyl acetate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5.",
+                    "1-Ethylpyrrolidin-2-one",
+                    "1-Ethylpyrrolidin-2-one;\nN-ethyl-2-pyrrolidone",
+                    "2687-91-4",
+                    "220-250-6",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2687-91-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-250-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-Ethylpyrrolidin-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "6.",
+                    "2-Methoxyethanol",
+                    "2-Methoxyethanol;\nEthanol, 2-methoxy-",
+                    "109-86-4",
+                    "203-713-7",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "109-86-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-713-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Methoxyethanol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "7.",
+                    "2-Methoxyethyl acetate",
+                    "2-Methoxyethyl acetate;\nEthanol, 2-methoxy-, 1-acetate;\n2-Methoxyethanol acetate",
+                    "110-49-6",
+                    "203-772-9",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "110-49-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-772-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Methoxyethyl acetate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "8.",
+                    "2-Methoxypropanol",
+                    "2-Methoxypropanol;\n1-Propanol, 2-methoxy-",
+                    "1589-47-5",
+                    "216-455-5",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1589-47-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-455-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Methoxypropanol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "9.",
+                    "1-Methylpyrrolidin-2-one",
+                    "1-Methyl-2-pyrrolidone;\n2-Pyrrolidinone, 1-methyl-",
+                    "872-50-4",
+                    "212-828-1",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "872-50-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-828-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-Methylpyrrolidin-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "10",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "10",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "10.",
+                    "2-Nitropropane",
+                    "2-Nitropropane;\nPropane, 2-nitro-",
+                    "79-46-9",
+                    "201-209-1",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "79-46-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-209-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Nitropropane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "11",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "11",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "11.",
+                    "Amines, tallow alkyl, ethoxylated",
+                    "Amines, tallow alkyl, ethoxylated;\nPOE-tallowamine",
+                    "61791-26-2",
+                    "",
+                    "Concerns or data gaps related to potential effects on human health or the environment"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61791-26-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Amines, tallow alkyl, ethoxylated"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "12",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "12",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "12.",
+                    "Amines, tallow alkyl, ethoxylated propoxylated",
+                    "Amines, tallow alkyl, ethoxylated propoxylated;\nPOEP-tallowamine",
+                    "68213-26-3",
+                    "",
+                    "Concerns or data gaps related to potential effects on human health or the environment"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68213-26-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Amines, tallow alkyl, ethoxylated propoxylated"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "13",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "13",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "13.",
+                    "Asbestos fibres",
+                    "Actinolite asbestos;\nAsbestos, actinolyte",
+                    "77536-66-4",
+                    "",
+                    "Carcinogenic cat.1A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "77536-66-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Asbestos fibres"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "14",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "14",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "14.",
+                    null,
+                    "Amosite asbestos;\nAsbestos, amosite",
+                    "12172-73-5",
+                    "",
+                    "Carcinogenic cat.1A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12172-73-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "15",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "15",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "15.",
+                    "",
+                    "Anthophyllite asbestos;\nAsbestos, anthophyllite",
+                    "77536-67-5",
+                    "",
+                    "Carcinogenic cat.1A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "77536-67-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "16",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "16",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "16.",
+                    null,
+                    "Chrysotile asbestos;\nAsbestol, chrysotile",
+                    "12001-29-5",
+                    "",
+                    "Carcinogenic cat.1A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12001-29-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "17",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "17",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "17.",
+                    null,
+                    "Crocidolite asbestos;\nAsbestos, crocidolite",
+                    "12001-28-4",
+                    "",
+                    "Carcinogenic cat.1A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12001-28-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "18",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "18",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "18.",
+                    null,
+                    "Tremolite asbestos;\nAsbestos, tremolite",
+                    "77536-68-6",
+                    "",
+                    "Carcinogenic cat.1A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "77536-68-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "19",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "19",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "19.",
+                    "Benzene",
+                    "Benzene",
+                    "71-43-2",
+                    "200-753-7",
+                    "Carcinogenic cat.1A/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71-43-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-753-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "20",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "20",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "20.",
+                    "Benzo[def]chrysene;\nBenzo[pqr]tetraphene",
+                    "Benzo[def]chrysene;\nBenzo[a]pyrene",
+                    "50-32-8",
+                    "200-028-5",
+                    "Carcinogenic cat.1B/Mutagenic cat.1B/\nToxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "50-32-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-028-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzo[def]chrysene;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "21",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "21",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "21.",
+                    "Bis(2-methylpropyl) benzene-1,2-dicarboxylate",
+                    "Diisobutyl phthalate",
+                    "84-69-5",
+                    "201-553-2",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-69-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-553-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-methylpropyl) benzene-1,2-dicarboxylate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "22",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "22",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "22.",
+                    "Boric acid",
+                    "Boric acid",
+                    "10043-35-3\n11113-50-1",
+                    "233-139-2\n234-343-4",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10043-35-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "11113-50-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-139-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-343-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Boric acid"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "23",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23.",
+                    "Disodium octaborate",
+                    "Disodium octaborate; Disodium octaborate anhydrous",
+                    "12008-41-2",
+                    "234-541-0",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12008-41-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-541-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium octaborate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "24",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "24",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "24.",
+                    "Disodium octaborate, tetrahydrate",
+                    "Boric acid, disodium salt, tetrahydrate;",
+                    "12280-03-4",
+                    "234-541-0",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12280-03-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-541-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium octaborate, tetrahydrate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "25",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "25",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "25.",
+                    "Disodium tetraborate, anhydrous",
+                    "Disodium tetraborate, anhydrous;\nBoron sodium oxide",
+                    "1330-43-4",
+                    "215-540-4",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1330-43-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-540-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium tetraborate, anhydrous"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "26",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "26",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "26.",
+                    "Disodium tetraborate, decahydrate",
+                    "Borax",
+                    "1303-96-4",
+                    "215-540-4",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1303-96-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-540-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium tetraborate, decahydrate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "27",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "27",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27.",
+                    "Disodium tetraborate, pentahydrate",
+                    "Boron sodium oxide, hydrated",
+                    "12179-04-3",
+                    "215-540-4",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12179-04-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-540-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium tetraborate, pentahydrate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "28",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28.",
+                    "Orthoboric acid, sodium salt",
+                    "Orthoboric acid, sodium salt; Boric acid, sodium salt",
+                    "13840-56-7",
+                    "237-560-2",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13840-56-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "237-560-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Orthoboric acid, sodium salt"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "29",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "29",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "29.",
+                    "Tetraboron disodium heptaoxide, hydrate",
+                    "Tetraboron disodium heptaoxide, hydrate;\nBoron sodium oxide, hydrate",
+                    "12267-73-1",
+                    "235-541-3",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12267-73-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-541-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetraboron disodium heptaoxide, hydrate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "30",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "30",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "30.",
+                    "Buta-1,3-diene",
+                    "Buta-1,3-diene;\n1,3-Butadiene",
+                    "106-99-0",
+                    "203-450-8",
+                    "Carcinogenic cat.1A/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-99-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-450-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Buta-1,3-diene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "31",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "31",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "31.",
+                    "Butane\ncontaining ≥ 0,1 % butadiene (EC No 203-450-8)",
+                    "Butane",
+                    "106-97-8",
+                    "203-448-7",
+                    "Carcinogenic cat.1A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-97-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-448-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Butane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "32",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "32",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "32.",
+                    "Co Poly (bisiminoimidocarbonyl, hexamethylene hydrochloride),(iminoimidocarbonyl, hexamethylene hydrochloride",
+                    "Guanidine, N,N\"’-1,6-hexanediylbis[N’-cyano-, polymer with 1,6-hexanediamine, hydrochloride\nPoly[iminocarbonimidoyliminocarbonimidoylimino-1,6-hexanediyl], hydrochloride\nCyanamide, N-cyano-, compd. with 1,6-hexanediamine (2:1), polymer with 1,6-hexanediamine hydrochloride (1:2);\nPHMB",
+                    "27083-27-8\nand\n32289-58-0\nand\n1802181-67-4",
+                    "",
+                    "Not approved for use in biocidal products for product-type 6 (in-can preservatives)."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1802181-67-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "27083-27-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "32289-58-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Co Poly (bisiminoimidocarbonyl, hexamethylene hydrochloride),(iminoimidocarbonyl, hexamethylene hydrochloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "33",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "33",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "33.",
+                    "Dibutyl phthalate",
+                    "n-Butyl phthalate;\nDibutyl benzene-1,2-dicarboxylate",
+                    "84-74-2",
+                    "201-557-4",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Human Health) Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-74-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-557-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "34",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "34",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "34.",
+                    "Distillates (petroleum), hydrotreated heavy naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "64742-52-5",
+                    "265-155-0",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-52-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-155-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), hydrotreated heavy naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "35",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "35",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "35.",
+                    "Distillates (petroleum), hydrotreated heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "64742-54-7",
+                    "265-157-1",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-54-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-157-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), hydrotreated heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "36",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "36",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "36.",
+                    "Distillates (petroleum), hydrotreated light naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "64742-53-6",
+                    "265-156-6",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-53-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-156-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), hydrotreated light naphthenic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "37",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "37",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "37.",
+                    "Distillates (petroleum), hydrotreated light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "64742-55-8",
+                    "265-158-7",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-55-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-158-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), hydrotreated light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "38",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "38",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "38.",
+                    "Distillates (petroleum), solvent-dewaxed heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "64742-65-0",
+                    "265-169-7",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-65-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-169-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), solvent-dewaxed heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "39",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "39",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "39.",
+                    "Distillates (petroleum), solvent-refined heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "64741-88-4",
+                    "265-090-8",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64741-88-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-090-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), solvent-refined heavy paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "40",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "40",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "40.",
+                    "Distillates (petroleum), solvent-refined light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "64741-89-5",
+                    "265-091-3",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64741-89-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-091-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum), solvent-refined light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "41",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "41",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "41.",
+                    "Ethylene oxide",
+                    "Ethylene oxide; Oxyrane; Epoxyethane",
+                    "75-21-8",
+                    "200-849-9",
+                    "Carcinogenic cat.1B/\nMutagenic cat. 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-21-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-849-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethylene oxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "42",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "42",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "42.",
+                    "Formaldehyde",
+                    "Formaldehyde; Formalin; Methanal;,Formol",
+                    "50-00-0",
+                    "200-001-8",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "50-00-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-001-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Formaldehyde"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "43",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "43",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "43.",
+                    "Formamide",
+                    "Formamide; Methanamide",
+                    "75-12-7",
+                    "200-842-0",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-12-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-842-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Formamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "44",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "44",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "44.",
+                    "Isobutane (containing ≥ 0,1 % butadiene (EC No 203-450-8))",
+                    "Isobutane; Propane, 2-methyl-",
+                    "75-28-5",
+                    "200-857-2",
+                    "Carcinogenic cat.1A/\nMutagenic cat. 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-28-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-857-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Isobutane (containing ≥ 0,1 % butadiene (EC No 203-450-8))"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "45",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "45",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "45.",
+                    "Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based, high-viscosity with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "72623-85-9",
+                    "276-736-3",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "72623-85-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-736-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based, high-viscosity with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "46",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "46",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "46.",
+                    "Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "72623-86-0",
+                    "276-737-9",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "72623-86-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-737-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lubricating oils (petroleum), C15-30, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "47",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "47",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "47.",
+                    "Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "72623-87-1",
+                    "276-738-4",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "72623-87-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-738-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lubricating oils (petroleum), C20-50, hydrotreated neutral oil-based with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "48",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "48",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "48.",
+                    "Lubricating oils (petroleum), C17-32, solvent-extd., dewaxed, hydrogenated with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "101316-70-5",
+                    "309-875-6",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101316-70-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "309-875-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lubricating oils (petroleum), C17-32, solvent-extd., dewaxed, hydrogenated with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "49",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "49",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "49.",
+                    "Naphtha (petroleum), heavy alkylate predominantly branched chain C9-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7)",
+                    "",
+                    "64741-65-7",
+                    "265-067-2",
+                    "Carcinogenic cat.1B/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64741-65-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-067-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Naphtha (petroleum), heavy alkylate predominantly branched chain C9-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "50",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "50",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "50.",
+                    "Naphtha (petroleum), hydrodesulfurized heavy predominantly C7-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7)",
+                    "",
+                    "64742-82-1",
+                    "265-185-4",
+                    "Carcinogenic cat.1A/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-82-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-185-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Naphtha (petroleum), hydrodesulfurized heavy predominantly C7-C12 with a content of ≥ 0,1 % benzene (EC No 200-753-7)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "51",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "51",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "51.",
+                    "Naphtha (petroleum), hydrodesulfurized light, dearomatized predominantly C7 paraffins and cycloparaffins with a content of ≥ 0,1 % benzene (EC No 200-753-7)",
+                    "",
+                    "92045-53-9",
+                    "295-434-2",
+                    "Carcinogenic cat.1A/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "92045-53-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "295-434-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Naphtha (petroleum), hydrodesulfurized light, dearomatized predominantly C7 paraffins and cycloparaffins with a content of ≥ 0,1 % benzene (EC No 200-753-7)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "52",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "52",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "52.",
+                    "Naphtha (petroleum), hydrotreated heavy predominantly C6-C13 with a content of ≥ 0,1 % benzene (EC No 200-753-7)",
+                    "",
+                    "64742-48-9",
+                    "265-150-3",
+                    "Carcinogenic cat.1A/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-48-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-150-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Naphtha (petroleum), hydrotreated heavy predominantly C6-C13 with a content of ≥ 0,1 % benzene (EC No 200-753-7)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "53",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "53",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "53.",
+                    "Naphtha (petroleum), light aromatic predominantly C8-C10 with a content of ≥ 0,1 % benzene (EC N. 200-753-7)",
+                    "",
+                    "64742-95-6",
+                    "265-199-0",
+                    "Carcinogenic cat.1A/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-95-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-199-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Naphtha (petroleum), light aromatic predominantly C8-C10 with a content of ≥ 0,1 % benzene (EC N. 200-753-7)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "54",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "54",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "54.",
+                    "Nitrobenzene",
+                    "Nitrobenzene;\nBenzene, nitro-",
+                    "98-95-3",
+                    "202-716-0",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "98-95-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-716-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nitrobenzene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "55",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "55",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "55.",
+                    "N-methylformamide",
+                    "N-methylformamide; Formamide, N-methyl-",
+                    "123-39-7",
+                    "204-624-6",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "123-39-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-624-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N-methylformamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "56",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "56",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "56.",
+                    "Nonyl-phenols:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof.",
+                    "4-(3,5-Dimethylheptan-3-yl)phenol\nPhenol, 4-(1-ethyl-1,3-dimethylpentyl)-;\n4-(1-Ethyl-1,3-dimethylpentyl)phenol",
+                    "186825-36-5",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "186825-36-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nonyl-phenols:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "57",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "57",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "57.",
+                    null,
+                    "4-(3,6-Dimethylheptan-3-yl)phenol\nPhenol, 4-(1-ethyl-1,4-dimethylpentyl)-;\n4-(1-Ethyl-1,4-dimethylpentyl)phenol",
+                    "142731-63-3",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "142731-63-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "58",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "58",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "58.",
+                    null,
+                    "4-(2-Methyloctan-2-yl)phenol\np-(1,1-Dimethylheptyl)phenol;\nPhenol, 4-(1,1-dimethylheptyl)-",
+                    "30784-30-6",
+                    "250-339-5",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "30784-30-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "250-339-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "59",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "59",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "59.",
+                    null,
+                    "4-(3-Methyloctan-3-yl)phenol\nPhenol, 4-(1-ethyl-1-methylhexyl)-;\n4-(1-Ethyl-1-methylhexyl)phenol;",
+                    "52427-13-1",
+                    "257-907-1",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "52427-13-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "257-907-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "60",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "60",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "60.",
+                    null,
+                    "4-Nonylphenol\np-Nonylphenol;\nPhenol, 4-nonyl-",
+                    "104-40-5",
+                    "203-199-4",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "104-40-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-199-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "61",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "61",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "61.",
+                    null,
+                    "Isononylphenol",
+                    "11066-49-2",
+                    "234-284-4",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "11066-49-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-284-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "62",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "62",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "62.",
+                    null,
+                    "p-Isononylphenol;\nPhenol, 4-isononyl-",
+                    "26543-97-5",
+                    "247-770-6",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "26543-97-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-770-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "63",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "63",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "63.",
+                    null,
+                    "Nonylphenol;\nPhenol, nonyl-",
+                    "25154-52-3",
+                    "246-672-0",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "25154-52-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-672-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "64",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "64",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "64.",
+                    null,
+                    "Phenol, 4-(1-methyloctyl)-;\np-(1-Methyloctyl)phenol",
+                    "17404-66-9",
+                    "241-427-4",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "17404-66-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "241-427-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "65",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "65",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "65.",
+                    null,
+                    "Phenol, 4-nonyl-, branched",
+                    "84852-15-3",
+                    "284-325-5",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84852-15-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-325-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "66",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "66",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "66.",
+                    null,
+                    "Phenol, nonyl-, branched",
+                    "90481-04-2",
+                    "291-844-0",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90481-04-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "291-844-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "67",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "67",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "67.",
+                    "Nonyl-phenols, ethoxylated:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof.",
+                    "Nonylphenol, ethoxylated;\nPoly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy-",
+                    "",
+                    "500-024-6",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "500-024-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nonyl-phenols, ethoxylated:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "68",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "68",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "68.",
+                    null,
+                    "4-Nonylphenol, branched, 1 – 2,5 moles ethoxylated\nPoly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched",
+                    "",
+                    "500-315-8",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "500-315-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "69",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "69",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "69.",
+                    null,
+                    "4-Nonylphenol, 1 – 2,5 moles ethoxylated",
+                    "",
+                    "500-045-0",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "500-045-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "70",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "70",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "70.",
+                    null,
+                    "2-(2-{2-[2-(4-Nonylphenoxy)ethoxy]ethoxy}ethoxy)ethan-1-ol\n2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethanol;\nEthanol, 2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]-",
+                    "7311-27-5",
+                    "230-770-5",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7311-27-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "230-770-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "71",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "71",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "71.",
+                    null,
+                    "2-[2-(4-Nonylphenoxy)ethoxy]ethanol;\nEthanol, 2-[2-(4-nonylphenoxy)ethoxy]-",
+                    "20427-84-3",
+                    "243-816-4",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "20427-84-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "243-816-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "72",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "72",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "72.",
+                    null,
+                    "20-(4-Nonylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol;\n3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20- (4-nonylphenoxy)-",
+                    "27942-27-4",
+                    "248-743-1",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "27942-27-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "248-743-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "73",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "73",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "73.",
+                    null,
+                    "2-[2-[2-[2-(4-Nonylphenoxy)ethoxy]ethoxy]ethoxy]ethan-1-ol\nEthanol,2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]-",
+                    "7311-27-5",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7311-27-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "74",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "74",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "74.",
+                    null,
+                    "26-(4-Nonylphenoxy)-3,6,9,12,15,18,21,24-octaoxahexacosan-1-ol\n3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-nonylphenoxy)-",
+                    "14409-72-4",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "14409-72-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "75",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "75",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "75.",
+                    null,
+                    "17-(4-Nonylphenoxy)-3,6,9,12,15-pentaoxaheptadecan-1-ol\n3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-nonylphenoxy)-",
+                    "34166-38-6",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "34166-38-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "76",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "76",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "76.",
+                    null,
+                    "Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-, branched",
+                    "127087-87-0",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127087-87-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "77",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "77",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "77.",
+                    null,
+                    "Poly(oxy-1,2-ethanediyl), α-(4-nonylphenyl)-ω-hydroxy-",
+                    "26027-38-3",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "26027-38-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "78",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "78",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "78.",
+                    "",
+                    "Ethanol, 2-(4-nonylphenoxy)",
+                    "104-35-8",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "104-35-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "79",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "79",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "79.",
+                    null,
+                    "Isononylphenol, ethoxylated;\nPoly(oxy-1,2-ethanediyl), α-(isononylphenyl)-ω-hydroxy-",
+                    "37205-87-1",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "37205-87-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "80",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "80",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "80.",
+                    null,
+                    "2-[2-(4-tert-Nonylphenoxy) ethoxy] ethanol\nEthanol, 2-[2-(4-tert-nonylphenoxy)ethoxy]-",
+                    "156609-10-8",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "156609-10-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "81",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "81",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "81.",
+                    null,
+                    "Poly(oxy-1,2-ethanediyl), α-(nonylphenyl)-ω-hydroxy-\nNonylphenol, ethoxylated",
+                    "9016-45-9",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "9016-45-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "82",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "82",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "82.",
+                    "Octyl-phenols:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, covering also substances which include any of the individual isomers or a combination thereof.",
+                    "p-Octylphenol;\n4-Octylphenol",
+                    "1806-26-4",
+                    "217-302-5",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1806-26-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-302-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Octyl-phenols:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "83",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "83",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "83.",
+                    null,
+                    "4-(2,4,4-Trimethylpentan-2-yl)phenol;\n4-(1,1,3,3-Tetramethylbutyl)phenol;\n4-(tert-octyl) Phenol\nPhenol, 4-(1,1,3,3-tetramethylbutyl)-;\n4-tert-Octylphenol",
+                    "140-66-9",
+                    "205-426-2",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "140-66-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-426-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "84",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "84",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "84.",
+                    null,
+                    "Octylphenol;\nPhenol, octyl-",
+                    "67554-50-1",
+                    "266-717-8",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67554-50-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-717-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "85",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "85",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "85.",
+                    null,
+                    "Phenol, 2-isooctyl-",
+                    "86378-08-7",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "86378-08-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "86",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "86",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "86.",
+                    null,
+                    "Phenol, isooctyl-;\nIsooctylphenol",
+                    "11081-15-5",
+                    "234-304-1",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "11081-15-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-304-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "87",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "87",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "87.",
+                    null,
+                    "Phenol, 2-octyl-;\no-Octylphenol",
+                    "949-13-3",
+                    "213-437-9",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "949-13-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "213-437-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "88",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "88",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "88.",
+                    null,
+                    "Phenol, 2-sec-octyl-;\no-sec-Octylphenol",
+                    "26401-75-2",
+                    "247-663-4",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "26401-75-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-663-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "89",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "89",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "89.",
+                    "",
+                    "Phenol, 4-isooctyl-;\np-Isooctylphenol",
+                    "27013-89-4",
+                    "248-164-4",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "27013-89-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "248-164-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "90",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "90",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "90.",
+                    null,
+                    "Phenol, 4-sec-octyl-;\np-sec-Octylphenol",
+                    "27214-47-7",
+                    "248-330-6",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "27214-47-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "248-330-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "91",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "91",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "91.",
+                    null,
+                    "Phenol, sec-octyl-;\nsec-Octylphenol",
+                    "93891-78-2",
+                    "299-461-0",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "93891-78-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "299-461-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "92",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "92",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "92.",
+                    null,
+                    "Phenol, 4-(1-ethylhexyl)-;\np-(1-Ethylhexyl)phenol",
+                    "3307-00-4",
+                    "221-989-7",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3307-00-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-989-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "93",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "93",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "93.",
+                    null,
+                    "Phenol, 2-(1-methylheptyl)-;\no-(1Methylheptyl)phenol",
+                    "18626-98-7",
+                    "242-459-1",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "18626-98-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "242-459-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "94",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "94",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "94.",
+                    null,
+                    "Phenol, 2-(1-ethylhexyl)-;\no-(1-Ethylhexyl)phenol",
+                    "17404-44-3",
+                    "241-426-9",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "17404-44-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "241-426-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "95",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "95",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "95.",
+                    null,
+                    "Phenol, 2-(1-propylpentyl)-;\no-(1-Propylpentyl)phenol",
+                    "37631-10-0",
+                    "253-574-1",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "37631-10-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-574-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "96",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "96",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "96.",
+                    null,
+                    "Phenol, 4-(1-propylpentyl)-;\np-(1-Propylpentyl)phenol",
+                    "3307 - 01-5",
+                    "221-990-2",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "221-990-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "97",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "97",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "97.",
+                    null,
+                    "Phenol, 2-(1-methylheptyl)-;\no-(1,1,3,3-Tetramethylbutyl)phenol",
+                    "3884-95-5",
+                    "223-420-8",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3884-95-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-420-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "98",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "98",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "98.",
+                    null,
+                    "Phenol, (1,1,3,3-tetramethylbutyl)-;\n(1,1,3,3-Tetramethylbutyl)phenol",
+                    "27193-28-8",
+                    "248-310-7",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "27193-28-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "248-310-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "99",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "99",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "99.",
+                    null,
+                    "Phenol, (1-methylheptyl)-;\n(1-Methylheptyl)phenol",
+                    "27985-70-2",
+                    "248-759-9",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "27985-70-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "248-759-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "100",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "100",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "100.",
+                    null,
+                    "Phenol, 4-(2-methylheptyl)-",
+                    "898546-19-5",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "898546-19-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "101",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "101",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "101.",
+                    null,
+                    "Phenol, 2-(2-ethylhexyl)-",
+                    "28752-62-7",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "28752-62-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "102",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "102",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "102.",
+                    "",
+                    "Phenol, 4-(1-methylheptyl)-;\np-(1-Methylheptyl)phenol",
+                    "1818-08-2",
+                    "217-332-9",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1818-08-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-332-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "103",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "103",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "103.",
+                    null,
+                    "Phenol, 4-(2-ethylhexyl)-",
+                    "69468-20-8",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "69468-20-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "104",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "104",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "104.",
+                    null,
+                    "Phenol, 4-(5-methylheptyl)-",
+                    "1824164-95-5",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1824164-95-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "105",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "105",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "105.",
+                    null,
+                    "Phenol, 2-(2-methylheptyl)-",
+                    "898546-20-8",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "898546-20-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "106",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "106",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "106.",
+                    null,
+                    "Phenol, 4-(2-propylpentyl)-",
+                    "119747-99-8",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "119747-99-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "107",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "107",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "107.",
+                    null,
+                    "Phenol, 3-octyl-",
+                    "20056-69-3",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "20056-69-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "108",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "108",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "108.",
+                    null,
+                    "Phenol, 2-(1,1-dimethylhexyl)-",
+                    "1824575-79-2",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1824575-79-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "109",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "109",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "109.",
+                    null,
+                    "Phenol, 4-(1,1-dimethylhexyl)-",
+                    "30784-29-3",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "30784-29-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "110",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "110",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "110.",
+                    null,
+                    "Phenol, 4-(5,5-dimethylhexyl)-",
+                    "13330-52-4",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13330-52-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "111",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "111",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "111.",
+                    null,
+                    "Phenol, 2-(5,5-dimethylhexyl)-",
+                    "1822989-97-8",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1822989-97-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "112",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "112",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "112.",
+                    null,
+                    "Phenol, 3-(1,1-dimethylhexyl)-",
+                    "70435-92-6",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "70435-92-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "113",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "113",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "113.",
+                    null,
+                    "Phenol, 4-(1,4-dimethylhexyl)-",
+                    "164219-26-5",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "164219-26-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "114",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "114",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "114.",
+                    "Octyl-phenols, ethoxylated:\nSubstances with a linear and/or branched alkyl chain with a carbon number of 8 covalently bound in any position to phenol, ethoxylated, covering also substances which include any of the individual isomers or a combination thereof.",
+                    "Poly(oxy-1,2-ethanediyl), α-[(1,1,3,3- tetramethylbutyl) phenyl]-ω-hydroxy-\n2-(2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy)ethanol\nPolyethylene Glycol Octylphenyl Ether;",
+                    "9036-19-5",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "9036-19-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Octyl-phenols, ethoxylated:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "115",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "115",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "115.",
+                    null,
+                    "2-[4-(2,4,4-Trimethylpentan-2-yl)phenoxy]ethanol\nPoly(oxy-1,2-ethanediyl), α-[4-(1,1,3,3-tetramethylbutyl)phenyl]-ω-hydroxy-\nOctylphenol ethoxylated",
+                    "9002-93-1",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "9002-93-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "116",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "116",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "116.",
+                    null,
+                    "20-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]-3,6,9,12,15,18-hexaoxaicosan-1-ol\n3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+                    "2497-59-8",
+                    "219-682-8",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2497-59-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "219-682-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "117",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "117",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "117.",
+                    null,
+                    "Ethanol, 2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+                    "2315-67-5",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2315-67-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "118",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "118",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "118.",
+                    null,
+                    "Ethanol, 2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]-",
+                    "2315-61-9",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2315-61-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "119",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "119",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "119.",
+                    null,
+                    "3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-(4-octylphenoxy)-;",
+                    "42173-90-0",
+                    "255-695-5",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "42173-90-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "255-695-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "120",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "120",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "120.",
+                    null,
+                    "Poly(oxy-1,2-ethanediyl), α-(octylphenyl)-ω-hydroxy-, branched",
+                    "68987-90-6",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68987-90-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "121",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "121",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "121.",
+                    null,
+                    "Poly(oxy-1,2-ethanediyl), α-[4-(6-methylheptyl)phenyl]-ω-hydroxy-",
+                    "59379-12-3",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "59379-12-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "122",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "122",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "122.",
+                    null,
+                    "Ethanol, 2-(4-octylphenoxy)-;\n2-(p-Octylphenoxy)ethanol",
+                    "51437-89-9",
+                    "257-203-4",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "51437-89-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "257-203-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "123",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "123",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "123.",
+                    null,
+                    "Poly(oxy-1,2-ethanediyl), α-(4-octylphenyl)-ω-hydroxy-",
+                    "26636-32-8",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "26636-32-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "124",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "124",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "124.",
+                    null,
+                    "Poly(oxy-1,2-ethanediyl), α-[4-(1-methylheptyl)phenyl]-ω-hydroxy-",
+                    "73935-42-9",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "73935-42-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "125",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "125",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "125.",
+                    "",
+                    "3,6,9,12,15,18-Hexaoxaeicosan-1-ol, 20-(4-octylphenoxy)-;\n20-(4-Octylphenoxy)-3,6,9,12,15,18-hexaoxaicosan-1-ol",
+                    "32742-88-4",
+                    "251-190-9",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "32742-88-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-190-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "126",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "126",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "126.",
+                    null,
+                    "Ethanol, 2-[2-[2-[2-(4-octylphenoxy)ethoxy]ethoxy]ethoxy]-;\n2-(p-Octylphenoxy)ethanol",
+                    "51437-92-4",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "51437-92-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "127",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "127",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "127.",
+                    null,
+                    "Ethanol, 2-[2-(4-octylphenoxy)ethoxy]-",
+                    "51437-90-2",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "51437-90-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "128",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "128",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "128.",
+                    null,
+                    "3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-(4-octylphenoxy)-",
+                    "51437-94-6",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "51437-94-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "129",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "129",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "129.",
+                    null,
+                    "Poly(oxy-1,2-ethanediyl), α-(isooctylphenyl)-ω-hydroxy-",
+                    "9004-87-9",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "9004-87-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "130",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "130",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "130.",
+                    null,
+                    "2-[2-[2-(4-Octylphenoxy)ethoxy]ethoxy]ethanol",
+                    "51437-91-3",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "51437-91-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "131",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "131",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "131.",
+                    null,
+                    "3,6,9,12,15-Pentaoxaheptadecan-1-ol, 17-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+                    "2497-58-7",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2497-58-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "132",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "132",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "132.",
+                    null,
+                    "Ethanol, 2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]-",
+                    "2315-62-0",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2315-62-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "133",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "133",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "133.",
+                    null,
+                    "Ethanol, 2-[2-[2-[2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]ethoxy]ethoxy]ethoxy]-",
+                    "2315-63-1",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2315-63-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "134",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "134",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "134.",
+                    null,
+                    "3,6,9,12-Tetraoxatetradecan-1-ol, 14-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+                    "2315-64-2",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2315-64-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "135",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "135",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "135.",
+                    null,
+                    "3,6,9,12,15,18,21,24-Octaoxahexacosan-1-ol, 26-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+                    "2315-65-3",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2315-65-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "136",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "136",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "136.",
+                    null,
+                    "3,6,9,12,15,18,21,24,27-Nonaoxanonacosan-1-ol, 29-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+                    "2315-66-4",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2315-66-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "137",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "137",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "137.",
+                    "",
+                    "Ethanol, 2-[3-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+                    "1026254-24-9",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1026254-24-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "138",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "138",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "138.",
+                    null,
+                    "Ethanol, 2-[2-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+                    "84658-53-7",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84658-53-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "139",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "139",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "139.",
+                    null,
+                    "Ethanol, 2-[2-(octylphenoxy)ethoxy]-",
+                    "27176-92-7",
+                    "",
+                    "Endocrine disrupting properties (REACH Article 57(f) – Environment)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "27176-92-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "140",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "140",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "140.",
+                    "N, N-Dimethylformamide",
+                    "N, N-dimethylformamide; Dimethyl formamide, DMF",
+                    "68-12-2",
+                    "200-679-5",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68-12-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-679-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N, N-Dimethylformamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "141",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "141",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "141.",
+                    "Prop-2-enamide",
+                    "Acrylamide; 2-propenamide",
+                    "79-06-1",
+                    "201-173-7",
+                    "Carcinogenic cat.1B/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "79-06-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-173-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Prop-2-enamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "142",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "142",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "142.",
+                    "Pyridine, alkyl derivatives, with a content of ≥ 0,1 % benzene (EC No 200-753-7)",
+                    "",
+                    "68391-11-7",
+                    "269-929-9",
+                    "Carcinogenic cat.1A/\nMutagenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68391-11-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "269-929-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pyridine, alkyl derivatives, with a content of ≥ 0,1 % benzene (EC No 200-753-7)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "143",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "143",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "143.",
+                    "Quinoline",
+                    "Quinoline",
+                    "91-22-5",
+                    "202-051-6",
+                    "Carcinogenic cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "91-22-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-051-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Quinoline"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "144",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "144",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "144.",
+                    "Tetrahydrofurfuryl Alcohol",
+                    "Tetrahydrofurfuryl alcohol;\n2-Furanmethanol, tetrahydro-",
+                    "97-99-4",
+                    "202-625-6",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97-99-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-625-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetrahydrofurfuryl Alcohol"
+              }
+            }
+          ],
+          "unchanged": 0,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -766,7 +6211,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -841,7 +6287,8 @@
           }
         ]
       },
-      "unexplained": ""
+      "unexplained": "",
+      "unexplained_kind": ""
     }
   ],
   "corroboration": {
@@ -1003,7 +6450,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1016,6 +6464,7 @@
     "no_evidence": 0,
     "model_failed": 0,
     "nothing_to_explain": 0,
+    "provider_unavailable": 0,
     "usage": {
       "input_tokens": 36158,
       "output_tokens": 2596,
@@ -1035,5 +6484,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
