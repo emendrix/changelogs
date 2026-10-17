@@ -4227,6 +4227,8 @@ The visible text is cut off before the rest of the differences across the listed
 
 *within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 3`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6`, `AN XVII APP 8`, `AN XVII APP 9`, `AN XVII APP 10` · *dates* -1975-05-20 -1985-10-01 -1986-06-30 -1987-07-23 -1991-12-12 -2007-06-15 -2008-01-01 -2008-12-31 +2002-03-18 +2003-05-26 +2003-07-17 +2004-08-15 +2006-12-27 +2007-09-05 +2007-09-30 +2007-10-03 +2008-06-27 +2009-04-03 +2009-10-03 +2010-06-27 +2010-12-27 +2011-06-01 +2011-06-27 +2014-07-01 · *amended by* `32009R0552`
 
+Table entries: 7 added, 40 amended, 2 removed: Entry 1, Entry 2, Entry 3, Entry 4, Entry 5, Entry 6, Entry 7, Entry 8, Entry 9, Entry 10 and 39 more
+
 The annex's introductory material and footnote references have been replaced, adding a new export-related exemption statement and a different set of Official Journal citations in place of the earlier ones. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)
 
 Many individual entries, such as those for PCTs, vinyl chloride, benzene, asbestos, cadmium and several other substances, have had their restriction wording rephrased into a more uniform 'shall not be placed on the market, or used' structure, with numeric thresholds and cross-references updated and some entries gaining new sub-paragraphs or CAS/EC numbers. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090627#anx_XVII)

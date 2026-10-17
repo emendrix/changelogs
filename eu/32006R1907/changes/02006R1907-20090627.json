@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -61,6 +61,3087 @@
           "AN XVII APP 9",
           "AN XVII APP 10"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1. Polychlorinated terphenyls (PCTs)\nMixtures, including waste oils, with a PCT content higher than 0,005 % by weight.",
+                    "1. Shall not be used. However, the following use of equipment, installations and fluids which were in service on 30 June 1986 shall continue to be permitted until they are disposed of or reach the end of their service life:\n(a) closed-system electrical equipment transformers, resistors and inductors;\n(b) large condensers (≥ 1 kg total weight);\n(c) small condensers;\n(d) heat-transmitting fluids in closed-circuit heat-transfer installations;\n(e) hydraulic fluids for underground mining equipment.\n2. The Member State may, for reasons of protection of human health and the environment, prohibit the use of equipment, installations and fluids covered by paragraph 1 before they are disposed of or reach the end of their service life.\n3. The placing on the second-hand market of equipment, plant and fluids covered by paragraph 1 which are not intended for disposal shall be prohibited.\n4. Where the Member State considers that it is not possible for technical reasons to use substitute articles, it may permit the use of PCTs and mixtures thereof where the latter are solely intended, in the normal conditions of maintenance of equipment, to supplement the level of liquids containing PCTs in properly functioning existing installations purchased before 1 October 1985.\n5. The Member State may, provided prior notification stating the reasons is sent to the Commission, grant derogations from the ban on the placing on the market and use of primary and intermediate substances or mixtures, in so far as they consider that these derogations have no deleterious effects on human health and the environment.\n6. Without prejudice to the implementation of other Community provisions relating to the labelling of dangerous substances and mixtures, equipment and installations containing PCTs must also display instructions concerning the disposal of PCTs and the maintenance and use of equipment and installations containing them. These instructions must be capable of being read horizontally when the object containing the PCTs is installed in the normal way. The inscription must stand out clearly from its background and shall be in a language which is understood in the territory where it is being used."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Polychlorinated terphenyls (PCTs)"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1. Polychlorinated terphenyls (PCTs)",
+                    "Shall not be placed on the market, or used:\nas substances,\nin mixtures, including waste oils, or in equipment, in concentrations greater than 50 mg/kg (0,005 % by weight)."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Polychlorinated terphenyls (PCTs)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2. Chloro-1-ethylene (monomer vinyl chloride)\nCAS No 75-01-4\nEINECS No 200-831-0",
+                    "Shall not be used as aerosol propellant for any use."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-01-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-831-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chloro-1-ethylene (monomer vinyl chloride)"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2. Chloroethene (vinyl chloride)\nCAS No 75-01-4\nEC No 200-831-0",
+                    "Shall not be used as propellant in aerosols for any use.\nAerosols dispensers containing the substance as propellant shall not be placed on the market."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-01-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-831-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chloroethene (vinyl chloride)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3. Liquid substances or mixtures, which are regarded as dangerous according to the definitions in Council Directive 67/548/EEC and Directive 1999/45/EC.",
+                    "1. Shall not be used in:\nornamental objects, intended to produce light or colour effects by means of different phases, for example in ornamental lamps and ashtrays,\ntricks and jokes,\ngames for one or more participants, or any object intended to be used as such, even with ornamental aspects.\n2. Without prejudice to paragraph 1, substances and mixtures which:\npresent an aspiration hazard and are labelled with R65, and\ncan be used as fuel in decorative lamps, and\nare placed on the market in packaging of a capacity of 15 litres or less,\nshall not contain a colouring agent, unless required for fiscal reasons, or perfume or both.\n3. Without prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of dangerous substances and mixtures, the packaging of substances and mixtures covered by paragraph 2, where intended for use in lamps, must be marked legibly and indelibly as follows:\nKeep lamps filled with this liquid out of the reach of children."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Liquid substances or mixtures, which are regarded as dangerous according to the definitions in Council Directive 67/548/EEC and Directive 1999/45/EC."
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3. Liquid substances or mixtures, which are regarded as dangerous according to the definitions in Council Directive 67/548/EEC and Directive 1999/45/EC.",
+                    "1. Shall not be used in:\nornamental articles, intended to produce light or colour effects by means of different phases, for example in ornamental lamps and ashtrays,\ntricks and jokes,\ngames for one or more participants, or any article intended to be used as such, even with ornamental aspects.\n2. Articles not complying with paragraph 1 shall not be placed on the market.\n3. Shall not be placed on the market if they contain a colouring agent unless required for fiscal reasons or perfume or both and if they:\npresent an aspiration hazard and are labelled with R65 or H304, and,\ncan be used as fuel in decorative lamps, and,\nare packaged in containers of a capacity of 15 litres or less.\n4. Without prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of substances and mixtures covered by paragraph 3, where intended for use in lamps, is marked visibly, legibly and indelibly as follows:\nKeep lamps filled with this liquid out of the reach of children."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Liquid substances or mixtures, which are regarded as dangerous according to the definitions in Council Directive 67/548/EEC and Directive 1999/45/EC."
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4. Tris (2,3 dibromopropyl) phosphate\nCAS No 126-72-7",
+                    "Shall not be used in textile articles, such as garments, undergarments and linen, intended to come into contact with the skin."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "126-72-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tris (2,3 dibromopropyl) phosphate"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4. Tris (2,3 dibromopropyl) phosphate\nCAS No 126-72-7",
+                    "1. Shall not be used in textile articles, such as garments, undergarments and linen, intended to come into contact with the skin.\n2. Articles not complying with paragraph 1 shall not be placed on the market."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "126-72-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tris (2,3 dibromopropyl) phosphate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5. Benzene\nCAS No 71-43-2\nEINECS No 200-753-785",
+                    "1. Not permitted in toys or parts of toys as placed on the market where the concentration of benzene in the free state is in excess of 5 mg/kg of the weight of the toy or part of toy.\n2. Shall not be used in concentrations equal to, or greater than, 0,1 % by mass in substances or mixtures placed on the market.\n3. However, paragraph 2 shall not apply to:\n(a) motor fuels which are covered by Directive 98/70/EC;\n(b) substances and mixtures for use in industrial processes not allowing for the emission of benzene in quantities in excess of those laid down in existing legislation;\n(c) waste covered by Council Directive 91/689/EEC of 12 December 1991 on hazardous waste\n and Directive 2006/12/EC."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71-43-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzene"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5. Benzene\nCAS No 71-43-2\nEC No 200-753-7",
+                    "1. Shall not be used in toys or parts of toys where the concentration of benzene in the free state is greater than 5 mg/kg (0,0005 %) of the weight of the toy or part of toy.\n2. Toys and parts of toys not complying with paragraph 1 shall not be placed on the market.\n3. Shall not be placed on the market, or used,\nas a substance,\nas a constituent of other substances, or in mixtures, in concentrations equal to, or greater than 0,1 % by weight.\n4. However, paragraph 3 shall not apply to:\n(a) motor fuels which are covered by Directive 98/70/EC;\n(b) substances and mixtures for use in industrial processes not allowing for the emission of benzene in quantities in excess of those laid down in existing legislation."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71-43-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-753-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzene"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "6. Asbestos fibres\n(a) Crocidolite\nCAS No 12001-28-4\n(b) Amosite\nCAS No 12172-73-5\n(c) Anthophyllite\nCAS No 77536-67-5\n(d) Actinolite\nCAS No 77536-66-4\n(e) Tremolite\nCAS No 77536-68-6\n(f) Chrysotile\nCAS No 12001-29-5\nCAS No 132207-32-0",
+                    "1. The placing on the market and use of these fibres and of articles containing these fibres added intentionally shall be prohibited.\nHowever, Member States may except the placing on the market and use of diaphragms containing chrysotile (point (f)) for existing electrolysis installations until they reach the end of their service life, or until suitable asbestos-free substitutes become available, whichever is the sooner. The Commission will review this derogation before 1 January 2008.\n2. The use of articles containing asbestos fibres referred to in paragraph 1 which were already installed and/or in service before 1 January 2005 shall continue to be permitted until they are disposed of or reach the end of their service life. However, Member States may, for reasons of protection of human health, prohibit the use of such articles before they are disposed of or reach the end of their service life.\nMember States shall not permit the introduction of new applications for chrysotile asbestos on their territories.\n3. Without prejudice to the application of other Community provisions on the classification, packaging and labelling of dangerous substances and mixtures, the placing on the market and use of these fibres and of articles containing these fibres, as permitted according to the preceding derogations, shall be permitted only if the articles bear a label in accordance with the provisions of Appendix 7 to this Annex."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12001-28-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12001-29-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12172-73-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "132207-32-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77536-66-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77536-67-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77536-68-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Asbestos fibres"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "6. Asbestos fibres\n(a) Crocidolite\nCAS No 12001-28-4\n(b) Amosite\nCAS No 12172-73-5\n(c) Anthophyllite\nCAS No 77536-67-5\n(d) Actinolite\nCAS No 77536-66-4\n(e) Tremolite\nCAS No 77536-68-6\n(f) Chrysotile\nCAS No 12001-29-5\nCAS No 132207-32-0",
+                    "1. The manufacture, placing on the market and use of these fibres and of articles containing these fibres added intentionally is prohibited.\nHowever, Member States may exempt the placing on the market and use of diaphragms containing chrysotile (point (f)) for existing electrolysis installations until they reach the end of their service life, or until suitable asbestos-free substitutes become available, whichever is the sooner.\nBy 1 June 2011 Member States making use of this exemption shall provide a report to the Commission on the availability of asbestos free substitutes for electrolysis installations and the efforts undertaken to develop such alternatives, on the protection of the health of workers in the installations, on the source and quantities of chrysotile, on the source and quantities of diaphragms containing chrysotile, and the envisaged date of the end of the exemption. The Commission shall make this information publicly available.\nFollowing receipt of those reports, the Commission shall request the Agency to prepare a dossier in accordance with Article 69 with a view to prohibit the placing on the market and use of diaphragms containing chrysotile.\n2. The use of articles containing asbestos fibres referred to in paragraph 1 which were already installed and/or in service before 1 January 2005 shall continue to be permitted until they are disposed of or reach the end of their service life. However, Member States may, for reasons of protection of human health, restrict, prohibit or make subject to specific conditions, the use of such articles before they are disposed of or reach the end of their service life.\nMember States may allow placing on the market of articles in their entirety containing asbestos fibres referred to in paragraph 1 which were already installed and/or in service before 1 January 2005, under specific conditions ensuring a high level of protection of human health. Member States shall communicate these national measures to the Commission by 1 June 2011. The Commission shall make this information publicly available.\n3. Without prejudice to the application of other Community provisions on the classification, packaging and labelling of substances and mixtures, the placing on the market and use of articles containing these fibres, as permitted according to the preceding derogations, shall be permitted only if suppliers ensure before the placing on the market that articles bear a label in accordance with Appendix 7 to this Annex."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12001-28-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12001-29-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12172-73-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "132207-32-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77536-66-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77536-67-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77536-68-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Asbestos fibres"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "7. Tris(aziridinyl)phosphinoxide\nCAS No 5455-55-1",
+                    "Shall not be used in textile articles, such as garments, undergarments and linen, intended to come into contact with the skin."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 1,
+                "name": "Tris(aziridinyl)phosphinoxide"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "7. Tris(aziridinyl)phosphinoxide\nCAS No 545-55-1\nEC No 208-892-5",
+                    "1. Shall not be used in textile articles, such as garments, undergarments and linen, intended to come into contact with the skin.\n2. Articles not complying with paragraph 1 shall not be placed on the market."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "545-55-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-892-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tris(aziridinyl)phosphinoxide"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "8. Polybromobiphenyls; Polybrominatedbiphenyls (PBB)\nCAS No 59536-65-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "59536-65-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Polybromobiphenyls; Polybrominatedbiphenyls (PBB)"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "8. Polybromobiphenyls; Polybrominatedbiphenyls (PBB)\nCAS No 59536-65-1",
+                    "1. Shall not be used in textile articles, such as garments, undergarments and linen, intended to come into contact with the skin.\n2. Articles not complying with paragraph 1 shall not be placed on the market."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "59536-65-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Polybromobiphenyls; Polybrominatedbiphenyls (PBB)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "9. Soap bark powder (Quillaja saponaria) and its derivatives containing saponines\nPowder of the roots of Helleborus viridis and Helleborus niger\nPowder of the roots of Veratrum album and Veratrum nigrum\nBenzidine and/or its derivatives\nCAS No 92-87-5\nEINECS No 202-199-1\no-Nitrobenzaldehyde\nCAS No 552-89-6\nWood powder",
+                    "1. Shall not be used in jokes and hoaxes or in objects intended to be used as such, for instance as a constituent of sneezing powder and stink bombs.\n2. However, paragraph 1 does not apply to stink bombs containing not more than 1,5 ml of liquid."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "552-89-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92-87-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-199-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Soap bark powder (Quillaja saponaria) and its derivatives containing saponines"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "9. (a) Soap bark powder\n(Quillaja saponaria) and its derivatives containing saponines\nCAS No 68990-67-0\nEC 273-620-4\n(b) Powder of the roots of Helleborus viridis and Helleborus niger\n(c) Powder of the roots of Veratrum album and Veratrum nigrum\n(d) Benzidine and/or its derivatives\nCAS No 92-87-5\nEC No 202-199-1\n(e) o-Nitrobenzaldehyde\nCAS No 552-89-6\nEC No 209-025-3\n(f) Wood powder",
+                    "1. Shall not be used, in jokes and hoaxes or in mixtures or articles intended to be used as such, for instance as a constituent of sneezing powder and stink bombs.\n2. Jokes and hoaxes, or mixtures or articles intended to be used as such, not complying with paragraph 1 shall not be placed on the market.\n3. However, paragraphs 1 and 2 shall not apply to stink bombs containing not more than 1,5 ml of liquid."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "552-89-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68990-67-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92-87-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-199-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-025-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "273-620-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(a) Soap bark powder"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "10",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "10",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "10. Ammonium sulphide\nCAS No 12135-76-1\nAmmonium hydrogen sulphide\nCAS No 12124-99-1\nAmmonium polysulphide\nCAS No 9080-17-5\nEINECS No 232-989-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12124-99-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12135-76-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9080-17-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-989-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ammonium sulphide"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "10",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "10. (a) Ammonium sulphide\nCAS No 12135-76-1\nEC No 235-223-4\n(b) Ammonium hydrogen sulphide\nCAS No 12124-99-1\nEC No 235-184-3\n(c) Ammonium polysulphide\nCAS No 9080-17-5\nEC No 232-989-1",
+                    "1. Shall not be used, in jokes and hoaxes or in mixtures or articles intended to be used as such, for instance as a constituent of sneezing powder and stink bombs.\n2. Jokes and hoaxes, or mixtures or articles intended to be used as such, not complying with paragraph 1 shall not be placed on the market.\n3. However, paragraphs 1 and 2 shall not apply to stink bombs containing not more than 1,5 ml of liquid."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12124-99-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12135-76-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9080-17-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-989-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-184-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-223-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(a) Ammonium sulphide"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "11",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "11",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "11. Volatile esters of bromoacetic acids:\nMethyl bromoacetate\nCAS No 96-32-2\nEINECS No 202-499-2\nEthyl bromoacetate\nCAS No 105-36-2\nEINECS No 203-290-9\nPropyl bromoacetate\nCAS No 35223-80-4\nButyl bromoacetate",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "105-36-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "35223-80-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "96-32-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-499-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-290-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Volatile esters of bromoacetic acids:"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "11",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "11. Volatile esters of bromoacetic acids:\n(a) Methyl bromoacetate\nCAS No 96-32-2\nEC No 202-499-2\n(b) Ethyl bromoacetate\nCAS No 105-36-2\nEC No 203-290-9\n(c) Propyl bromoacetate\nCAS No 35223-80-4\n(d) Butyl bromoacetate\nCAS No 18991-98-5\nEC No 242-729-9",
+                    "1. Shall not be used, in jokes and hoaxes or in mixtures or articles intended to be used as such, for instance as a constituent of sneezing powder and stink bombs.\n2. Jokes and hoaxes, or mixtures or articles intended to be used as such, not complying with paragraph 1 shall not be placed on the market.\n3. However, paragraphs 1 and 2 shall not apply to stink bombs containing not more than 1,5 ml of liquid."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "105-36-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "18991-98-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "35223-80-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "96-32-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-499-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-290-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "242-729-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Volatile esters of bromoacetic acids:"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "12",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "12",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "12. 2-Naphthylamine\nCAS No 91-59-8\nEINECS No 202-080-4\nand its salts\n13. Benzidine\nCAS No 92-87-5\nEINECS No 202-199-1\nand its salts\n14. 4-Nitrobiphenyl\nCAS No 92-93-3\nEINECS No 202-204-7\n15. 4-Aminobiphenyl xenylamine\nCAS No 92-67-1\nEINECS No 202-177-1\nand its salts",
+                    "1. Shall not be used in concentrations equal to or greater than 0,1 % by weight in substances and mixtures placed on the market.\nHowever, this provision shall not apply to waste containing one or more of these substances and covered by Directives 91/689/EEC and 2006/12/EC.\n2. Such substances and mixtures shall not be sold to the general public.\n3 Without prejudice to the application of other Community provisions on the classification, packaging and labelling of dangerous substances and mixtures, the packaging of such mixtures shall be legible and indelibly marked as follows:\nRestricted to professional users."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "91-59-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92-67-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92-87-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92-93-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-080-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-177-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-199-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-204-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Naphthylamine"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "12",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "12. 2-Naphthylamine\nCAS No 91-59-8\nEC No 202-080-4 and its salts\n13. Benzidine\nCAS No 92-87-5\nEC No 202-199-1 and its salts\n14. 4-Nitrobiphenyl\nCAS No 92-93-3\nEinecs EC No 202-204-7\n15. 4-Aminobiphenyl xenylamine\nCAS No 92-67-1\nEinecs EC No 202-177-1 and its salts",
+                    "The following shall apply to entries 12 to 15:\nShall not be placed on the market, or used, as substances or in mixtures in concentrations greater than 0,1 % by weight."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "91-59-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92-67-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92-87-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92-93-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-080-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-177-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-199-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-204-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Naphthylamine"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "16",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "16",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "16. Lead carbons:\n(a) Neutral anhydrous carbonate (PbCO3)\nCAS No 598-63-0\nEINECS No 209-943-4\n(b) Trilead-bis(carbonate)-dihydroxide 2 Pb CO3-Pb(OH)2\nCAS No 1319-46-6\nEINECS No 215-290-6",
+                    "Shall not be used as substances and a constituent of mixtures intended for use as paints, except for the restoration and maintenance of works of art and historic buildings and their interiors, where Member States wish to permit this on their territory, in accordance with the provisions of ILO Convention 13 on the use of white lead and sulphates of lead in paint."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1319-46-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "598-63-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-943-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-290-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead carbons:"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "16",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "16. Lead carbonates:\n(a) Neutral anhydrous carbonate (PbCO3)\nCAS No 598-63-0\nEC No 209-943-4\n(b) Trilead-bis(carbonate)-dihydroxide 2Pb CO3-Pb(OH)2\nCAS No 1319-46-6\nEC No 215-290-6",
+                    "Shall not be placed on the market, or used, as substances or in mixtures, where the substance or mixture is intended for use as paint.\nHowever, Member States may, in accordance with the provisions of International Labour Organisation (ILO) Convention 13 on the use of white lead and sulphates of lead in paint, permit the use on their territory of the substance or mixture for the restoration and maintenance of works of art and historic buildings and their interiors."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1319-46-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "598-63-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-943-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-290-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead carbonates:"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "17",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "17",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "17. Lead sulphates\n(a) PbSO4 (1:1)\nCAS No 7446-14-2\nEINECS No 231-198-9\n(b) Pbx SO4\nCAS No 15739-80-7\nEINECS No 239-831-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15739-80-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7446-14-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-198-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-831-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead sulphates"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "17",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "17. Lead sulphates:\n(a) PbSO4\nCAS No 7446-14-2\nEC No 231-198-9\n(b) Pbx SO4\nCAS No 15739-80-7\nEC No 239-831-0",
+                    "Shall not be placed on the market, or used, as substances or in mixtures, where the substance or mixture is intended for use as paint.\nHowever, Member States may, in accordance with the provisions of ILO Convention 13 on the use of white lead and sulphates of lead in paint, permit the use on their territory of the substance or mixture for the restoration and maintenance of works of art and historic buildings and their interiors."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15739-80-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7446-14-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-198-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-831-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead sulphates:"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "18",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "18",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "18. Mercury compounds",
+                    "1. Shall not be used as substances and constituents of mixtures intended for use:\n(a) to prevent the fouling by micro-organisms, plants or animals of:\nthe hulls of boats,\ncages, floats, nets and any other appliances or equipment used for fish or shellfish farming,\nany totally or partly submerged appliances or equipment;\n(b) in the preservation of wood;\n(c) in the impregnation of heavy-duty industrial textiles and yarn intended for their manufacture;\n(d) in the treatment of industrial waters, irrespective of their use.\n2. The placing on the market of batteries and accumulators, containing more than 0,0005 % of mercury by weight, including in those cases where these batteries and accumulators are incorporated into appliances shall be prohibited. Button cells and batteries composed of button cells with a mercury content of no more than 2 % by weight shall be exempted from this prohibition."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Mercury compounds"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "18",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "18. Mercury compounds",
+                    "Shall not be placed on the market, or used, as substances or in mixtures where the substance or mixture is intended for use:\n(a) to prevent the fouling by micro-organisms, plants or animals of:\nthe hulls of boats,\ncages, floats, nets and any other appliances or equipment used for fish or shellfish farming,\nany totally or partly submerged appliances or equipment;\n(b) in the preservation of wood;\n(c) in the impregnation of heavy-duty industrial textiles and yarn intended for their manufacture;\n(d) in the treatment of industrial waters, irrespective of their use."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Mercury compounds"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "18a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "18a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "18a. Mercury\nCAS No 7439-97-6\nEC No 231-106-7",
+                    "1. Shall not be placed on the market:\n(a) in fever thermometers;\n(b) in other measuring devices intended for sale to the general public (such as manometers, barometers, sphygmomanometers, thermometers other than fever thermometers).\n2. The restriction in paragraph 1 shall not apply to measuring devices that were in use in the Community before 3 April 2009. However Member States may restrict or prohibit the placing on the market of such measuring devices.\n3. The restriction in paragraph 1(b) shall not apply to:\n(a) measuring devices more than 50 years old on 3 October 2007;\n(b) barometers (except barometers within point (a)) until 3 October 2009.\n4. By 3 October 2009 the Commission shall carry out a review of the availability of reliable safer alternatives that are technically and economically feasible for mercury containing sphygmomanometers and other measuring devices in healthcare and in other professional and industrial uses. On the basis of this review or as soon as new information on reliable safer alternatives for sphygmomanometers and other measuring devices containing mercury becomes available, the Commission shall, if appropriate, present a legislative proposal to extend the restrictions in paragraph 1 to sphygmomanometers and other measuring devices in healthcare and in other professional and industrial uses, so that mercury in measuring devices is phased out whenever technically and economically feasible."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-97-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-106-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Mercury"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "19",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "19",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "19. Arsenic compounds",
+                    "1. Shall not be used as substances and constituents of mixtures intended for use:\n(a) to prevent the fouling by micro-organisms, plants or animals of:\nthe hulls of boats,\ncages, floats, nets and any other appliances or equipment used for fish or shellfish farming,\nany totally or partly submerged appliances or equipment;\n(b) in the preservation of wood. Furthermore, wood so treated shall not be placed on the market;\n(c) however, by way of derogation:\n(i) Relating to the substances and mixtures in the preservation of wood: these may only be used in industrial installations using vacuum or pressure to impregnate wood if they are solutions of inorganic compounds of the copper, chromium, arsenic (CCA) type C. Wood so treated shall not be placed on the market before fixation of the preservative is completed.\n(ii) Relating to wood treated with CCA solutions in industrial installations according to point (i): this may be placed on the market for professional and industrial use provided that the structural integrity of the wood is required for human or livestock safety and skin contact by the general public during its service life is unlikely:\nas structural timber in public and agricultural buildings, office buildings, and industrial premises,\nin bridges and bridgework,\nas constructional timber in freshwater areas and brackish waters e.g. jetties and bridges,\nas noise barriers,\nin avalanche control,\nin highway safety fencing and barriers,\nas debarked round conifer livestock fence posts,\nin earth retaining structures,\nas electric power transmission and telecommunications poles,\nas underground railway sleepers.\nWithout prejudice to the application of other Community provisions on the classification, packaging and labelling of dangerous substances and mixtures, all treated wood placed on the market shall be individually labelled For professional and industrial installation and use only, contains arsenic. In addition, all wood placed on the market in packs shall also bear a label stating Wear gloves when handling this wood. Wear a dust mask and eye protection when cutting or otherwise crafting this wood. Waste from this wood shall be treated as hazardous by an authorised undertaking.\n(iii) Treated wood referred to under points (i) and (ii) shall not be used:\nin residential or domestic constructions, whatever the purpose,\nin any application where there is a risk of repeated skin contact,\nin marine waters,\nfor agricultural purposes other than for livestock fence posts and structural uses in accordance with point (ii),\nin any application where the treated wood may come into contact with intermediate or finished products intended for human and/or animal consumption.\n2. Shall not be used as substances and constituents of mixtures intended for use in the treatment of industrial waters, irrespective of their use."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Arsenic compounds"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "19",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "19. Arsenic compounds",
+                    "1. Shall not be placed on the market, or used, as substances or in mixtures where the substance or mixture is intended for use to prevent the fouling by micro-organisms, plants or animals of:\nthe hulls of boats,\ncages, floats, nets and any other appliances or equipment used for fish or shellfish farming,\nany totally or partly submerged appliances or equipment.\n2. Shall not be placed on the market, or used, as substances or in mixtures where the substance or mixture is intended for use in the treatment of industrial waters, irrespective of their use.\n3. Shall not be used in the preservation of wood. Furthermore, wood so treated shall not be placed on the market.\n4. By way of derogation from paragraph 3:\n(a) Relating to the substances and mixtures for the preservation of wood: these may only be used in industrial installations using vacuum or pressure to impregnate wood if they are solutions of inorganic compounds of the copper, chromium, arsenic (CCA) type C and if they are authorised in accordance with Article 5(1) of Directive 98/8/EC. Wood so treated shall not be placed on the market before fixation of the preservative is completed.\n(b) Wood treated with CCA solution in accordance with point (a) may be placed on the market for professional and industrial use provided that the structural integrity of the wood is required for human or livestock safety and skin contact by the general public during its service life is unlikely:\nas structural timber in public and agricultural buildings, office buildings, and industrial premises,\nin bridges and bridgework,\nas constructional timber in freshwater areas and brackish waters, for example jetties and bridges,\nas noise barriers,\nin avalanche control,\nin highway safety fencing and barriers,\nas debarked round conifer livestock fence posts,\nin earth retaining structures,\nas electric power transmission and telecommunications poles,\nas underground railway sleepers.\n(c) Without prejudice to the application of other Community provisions on the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that all treated wood placed on the market is individually labelled For professional and industrial installation and use only, contains arsenic. In addition, all wood placed on the market in packs shall also bear a label stating Wear gloves when handling this wood. Wear a dust mask and eye protection when cutting or otherwise crafting this wood. Waste from this wood shall be treated as hazardous by an authorised undertaking.\n(d) Treated wood referred to under point (a) shall not be used:\nin residential or domestic constructions, whatever the purpose,\nin any application where there is a risk of repeated skin contact,\nin marine waters,\nfor agricultural purposes other than for livestock fence posts and structural uses in accordance with point (b),\nin any application where the treated wood may come into contact with intermediate or finished products intended for human and/or animal consumption.\n5. Wood treated with arsenic compounds that was in use in the Community before 30 September 2007, or that was placed on the market in accordance with paragraph 4 may remain in place and continue to be used until it reaches the end of its service life.\n6. Wood treated with CCA type C that was in use in the Community before 30 September 2007, or that was placed on the market in accordance with paragraph 4:\nmay be used or reused subject to the conditions pertaining to its use listed under points 4(b), (c) and (d),\nmay be placed on the market subject to the conditions pertaining to its use listed under points 4(b), (c) and (d).\n7. Member States may allow wood treated with other types of CCA solutions that was in use in the Community before 30 September 2007:\nto be used or reused subject to the conditions pertaining to its use listed under points 4 (b), (c) and (d),\nto be placed on the market subject to the conditions pertaining to its use listed under points 4(b), (c) and (d)."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Arsenic compounds"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "20",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "20",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "20. Organostannic compounds",
+                    "1. Shall not be placed on the market for use as substances and constituents of mixtures when acting as biocides in free association paint.\n2. Shall not be placed on the market or used as substances and constituents of mixtures which act as biocides to prevent the fouling by micro-organisms, plants or animals of:\n(a) all craft irrespective of their length intended for use in marine, coastal, estuarine and inland waterways and lakes;\n(b) cages, floats, nets and any other appliances or equipment used for fish or shellfish farming;\n(c) any totally or partly submerged appliance or equipment.\n3. Shall not be used as substances and constituents of mixtures intended for use in the treatment of industrial waters."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Organostannic compounds"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "20",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "20. Organostannic compounds",
+                    "1. Shall not be placed on the market, or used, as substances or in mixtures where the substance or mixture is acting as biocide in free association paint.\n2. Shall not be placed on the market, or used, as substances or in mixtures where the substance or mixture acts as biocide to prevent the fouling by micro-organisms, plants or animals of:\n(a) all craft irrespective of their length intended for use in marine, coastal, estuarine and inland waterways and lakes;\n(b) cages, floats, nets and any other appliances or equipment used for fish or shellfish farming;\n(c) any totally or partly submerged appliance or equipment.\n3. Shall not be placed on the market, or used, as substances or in mixtures where the substance or mixture is intended for use in the treatment of industrial waters."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Organostannic compounds"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "21",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "21",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "21. Di-μ-oxo-di-n-butylstanniohydroxyborane dibutyltin hydrogen borate C8H19BO3Sn (DBB)\nCAS No 75113-37-0\nELINCS No 401-040-5",
+                    "Shall be prohibited in a concentration equal to or greater than 0,1 % in substances and constituents of mixtures placed on the market. However, this provision shall not apply to this substance (DBB) or mixtures containing it if these are intended solely for conversion into finished articles, among which this substance will no longer feature in a concentration equal to or greater than 0,1 %."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75113-37-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "401-040-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Di-μ-oxo-di-n-butylstanniohydroxyborane dibutyltin hydrogen borate C8H19BO3Sn (DBB)"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "21",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "21. Di-μ-oxo-di-n-butylstanniohydroxyborane/Dibutyltin hydrogen borate C8H19BO3Sn (DBB)\nCAS No 75113-37-0\nEC No 401-040-5",
+                    "Shall not be placed on the market, or used, as a substance, or in mixtures in a concentration equal to, or greater than 0,1 % by weight.\nHowever, the first paragraph shall not apply to this substance (DBB) or mixtures containing it if these are intended solely for conversion into articles, among which this substance will no longer feature in a concentration equal to or greater than 0,1 %."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75113-37-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "401-040-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Di-μ-oxo-di-n-butylstanniohydroxyborane/Dibutyltin hydrogen borate C8H19BO3Sn (DBB)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "22",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "22",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "22. Pentachlorophenol\nCAS No 87-86-5\nEINECS No 201-778-6\nand its salts and esters",
+                    "1. Shall not be used in a concentration equal to or greater than 0,1 % by mass in substances or mixtures placed on the market.\n2. Transitional provisions:\nBy way of derogation until 31 December 2008 France, Ireland, Portugal, Spain and the United Kingdom may chose not to apply this provision to substances and mixtures intended for use in industrial installations not permitting the emission and/or discharge of pentachlorophenol (PCP) in quantities greater than those prescribed by existing legislation:\n(a) in the treatment of wood.\nHowever, treated wood shall not be used:\ninside buildings whether for decorative purposes or not, whatever their purpose (residence, employment, leisure),\nfor the manufacture and re-treatment of:\n(i) containers intended for growing purposes;\n(ii) packaging that may come into contact with raw materials, intermediate or finished products destined for human and/or animal consumption;\n(iii) other materials that may contaminate the products mentioned in (i) and (ii);\n(b) in the impregnation of fibres and heavy-duty textiles not intended in any case for clothing or for decorative furnishings;\n(c) by way of special exception, Member States may on a case-by-case basis, permit on their territory specialised professionals to carry out in situ and for buildings of cultural, artistic and historical interest, or in emergencies, a remedial treatment of timber and masonry infected by dry rot fungus (Serpula lacrymans) and cubic rot fungi.\nIn any case:\n(a) Pentachlorophenol used alone or as a component of mixtures employed within the framework of the above exceptions must have a total hexachlorodibenzoparadioxin (HCDD) content of not more than two parts per million (ppm);\n(b) these substances and mixtures shall not:\nbe placed on the market except in packages of 20 litres or more;\nbe sold to the general public.\n3. Without prejudice to the implementation of other Community provisions concerning the classification, packaging and labelling of dangerous substances and mixtures, the packaging of substances and mixtures covered by paragraphs 1 and 2 shall be marked clearly and indelibly:\nReserved for industrial and professional use.\nThis provision shall not apply to waste covered by Directives 91/689/EEC and 2006/12/EC."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-86-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-778-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentachlorophenol"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "22",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "22. Pentachlorophenol\nCAS No 87-86-5\nEC No 201-778-6 and its salts and esters",
+                    "Shall not be placed on the market, or used,\nas a substance,\nas a constituent in other substances, or in mixtures, in a concentration equal to or greater than 0,1 % by weight."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-86-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-778-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentachlorophenol"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "23",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23. Cadmium\nCAS No 7440-43-9\nEINECS No 231-152-8\nand its compounds",
+                    "1. Shall not be used to give colour to finished articles manufactured from the substances and mixtures listed below:\n(a) polyvinyl chloride (PVC) [3904 10] [3904 21] [3904 22]\n,\npolyurethane (PUR) [3909 50]\n,\nlow-density polyethylene (ld PE), with the exception of low-density polyethylene used for the production of coloured masterbatch [3901 10]\n,\ncellulose acetate (CA) [3912 11] [3912 12]\n,\ncellulose acetate butyrate (CAB) [3912 11] [3912 12]\n,\nepoxy resins [3907 30]\n,\nmelamine — formaldehyde (MF) resins [3909 20]\n,\nurea — formaldehyde (UF) resins [3909 10]\n,\nunsaturated polyesters (UP) [3907 91]\n,\npolyethylene terephthalate (PET) [3907 60]\n,\npolybutylene terephthalate (PBT)\n,\ntransparent/general-purpose polystyrene [3903 11] [3903 19]\n,\nacrylonitrile methylmethacrylate (AMMA)\n,\ncross-linked polyethylene (VPE)\n,\nhigh-impact polystyrene\n,\npolypropylene (PP) [3902 10]\n;\n(b) paints [3208] [3209]\n.\nHowever, if the paints have a high zinc content, their residual concentration of cadmium shall be as low as possible and shall at all events not exceed 0,1 % by mass.\nIn any case, whatever their use or intended final purpose, finished articles or components of articles manufactured from the substances and mixtures listed above coloured with cadmium shall not be placed on the market if their cadmium content (expressed as Cd metal) exceeds 0,01 % by mass of the plastic material.\n2. However, paragraph 1 does not apply to articles to be coloured for safety reasons.\n3. Shall not be used to stabilise the finished articles listed below manufactured from polymers or copolymers of vinyl chloride:\npackaging materials (bags, containers, bottles, lids) [3923 29 10] [3920 41] [3920 42]\n,\noffice or school supplies [3926 10]\n,\nfittings for furniture, coachwork or the like [3926 30]\n,\narticles of apparel and clothing accessories (including gloves) [3926 20]\n,\nfloor and wall coverings [3918 10]\n,\nimpregnated, coated, covered or laminated textile fabrics [5903 10]\n,\nimitation leather [4202]\n,\ngramophone records [8524 10]\n,\ntubes and pipes and their fittings [3917 23]\n,\nswing doors\n,\nvehicles for road transport (interior, exterior, underbody)\n,\ncoating of steel sheet used in construction or in industry\n,\ninsulation for electrical wiring\n.\nIn any case, whatever their use or intended final purpose, the placing on the market of the above finished articles or components of articles manufactured from polymers or copolymers of vinyl chloride, stabilised by substances containing cadmium shall be prohibited, if their cadmium content (expressed as Cd metal) exceeds 0,01 % by mass of the polymer.\n4. However, paragraph 3 does not apply to finished articles using cadmium-based stabilisers for safety reasons.\n5. Within the meaning of this Regulation, cadmium plating means any deposit or coating of metallic cadmium on a metallic surface.\nShall not be used for cadmium plating metallic articles or components of the articles used in the sectors/applications listed below:\n(a) equipment and machinery for:\nfood production [8210] [8417 20] [8419 81] [8421 11] [8421 22] [8422] [8435] [8437] [8438] [8476 11]\n,\nagriculture [8419 31] [8424 81] [8432] [8433] [8434] [8436]\n,\ncooling and freezing [8418]\n,\nprinting and book-binding [8440] [8442] [8443]\n;\n(b) equipment and machinery for the production of:\nhousehold goods [7321] [8421 12] [8450] [8509] [8516]\n,\nfurniture [8465] [8466] [9401] [9402] [9403] [9404]\n,\nsanitary ware [7324]\n,\ncentral heating and air conditioning plant [7322] [8403] [8404] [8415]\n.\nIn any case, whatever their use or intended final purpose, the placing on the market of cadmium-plated articles or components of such articles used in the sectors/applications listed in points (a) and (b) above and of articles manufactured in the sectors listed in point (b) above shall be prohibited.\n6. The provisions referred to in paragraph 5 are also applicable to cadmium-plated articles or components of such articles when used in the sectors/applications listed in points (a) and (b) below and to articles manufactured in the sectors listed in (b) below:\n(a) equipment and machinery for the production of:\npaper and board [8419 32] [8439] [8441]\n,\ntextiles and clothing [8444] [8445] [8447] [8448] [8449] [8451] [8452]\n;\n(b) equipment and machinery for the production of:\nindustrial handling equipment and machinery [8425] [8426] [8427] [8428] [8429] [8430] [8431]\n,\nroad and agricultural vehicles [chapter 87]\n,\nrolling stock [chapter 86]\n,\nvessels [chapter 89]\n.\n7. However, the restrictions in paragraphs 5 and 6 do not apply to:\narticles and components of the articles used in the aeronautical, aerospace, mining, offshore and nuclear sectors whose applications require high safety standards and in safety devices in road and agricultural vehicles, rolling stock and vessels,\nelectrical contacts in any sector of use, on account of the reliability required of the apparatus on which they are installed.\nOwing to the development of knowledge and techniques in respect of substitutes less dangerous than cadmium and its compounds, the Commission shall, in consultation with the Member States, assess the situation at regular intervals in accordance with the procedure laid down in Article 133(3) of this Regulation."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-43-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-152-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23. Cadmium\nCAS No 7440-43-9\nEC No 231-152-8 and its compounds",
+                    "For the purpose of this entry, the codes and chapters indicated in square brackets are the codes and chapters of the tariff and statistical nomenclature of Common Customs Tariff as established by Council Regulation (EEC) No 2658/87\n.\n1. Shall not be used to give colour to articles manufactured from the following substances and mixtures:\n(a) polyvinyl chloride (PVC) [3904 10] [3904 21] [3904 22]\npolyurethane (PUR) [3909 50]\nlow-density polyethylene (ld PE), with the exception of low-density polyethylene used for the production of coloured masterbatch [3901 10]\ncellulose acetate (CA) [3912 11] [3912 12]\ncellulose acetate butyrate (CAB) [3912 11] [3912 12]\nepoxy resins [3907 30]\nmelamine — formaldehyde (MF) resins [3909 20]\nurea — formaldehyde (UF) resins [3909 10]\nunsaturated polyesters (UP) [3907 91]\npolyethylene terephthalate (PET) [3907 60]\npolybutylene terephthalate (PBT)\ntransparent/general-purpose polystyrene [3903 11] [3903 19]\nacrylonitrile methylmethacrylate (AMMA)\ncross-linked polyethylene (VPE)\nhigh-impact polystyrene\npolypropylene (PP) [3902 10]\n(b) paints [3208] [3209]\nHowever, if the paints have a high zinc content, their residual concentration of cadmium shall be as low as possible and shall in any event be less than 0,1 % by weight.\nIn any case, whatever their use or intended final purpose, articles or components of articles manufactured from the substances and mixtures listed above coloured with cadmium shall not be placed on the market if their cadmium content (expressed as Cd metal) is greater than 0,01 % by weight of the plastic material.\n2. However, paragraph 1 shall not apply to articles to be coloured for safety reasons.\n3. Shall not be used to stabilise the following mixtures or articles manufactured from polymers or copolymers of vinyl chloride:\npackaging materials (bags, containers, bottles, lids) [3923 29 10],\noffice or school supplies [3926 10],\nfittings for furniture, coachwork or the like [3926 30],\narticles of apparel and clothing accessories (including gloves) [3926 20],\nfloor and wall coverings [3918 10],\nimpregnated, coated, covered or laminated textile fabrics [5903 10],\nimitation leather [4202],\ngramophone records,\ntubes and pipes and their fittings [3917 23],\nswing doors,\nvehicles for road transport (interior, exterior, underbody),\ncoating of steel sheet used in construction or in industry,\ninsulation for electrical wiring.\nIn any case, whatever their use or intended final purpose, the placing on the market of the above mixtures, articles or components of articles manufactured from polymers or copolymers of vinyl chloride, stabilised by substances containing cadmium is prohibited, if their cadmium content (expressed as Cd metal) exceeds 0,01 % by weight of the polymer.\n4. However, paragraph 3 shall not apply to mixtures and articles using cadmium-based stabilisers for safety reasons.\n5. For the purpose of this entry, cadmium plating means any deposit or coating of metallic cadmium on a metallic surface.\nShall not be used for cadmium plating metallic articles or components of the articles used in the following sectors/applications:\n(a) equipment and machinery for:\nfood production [8210] [8417 20] [8419 81] [8421 11] [8421 22] [8422] [8435] [8437] [8438] [8476 11]\nagriculture [8419 31] [8424 81] [8432] [8433] [8434] [8436]\ncooling and freezing [8418]\nprinting and book-binding [8440] [8442] [8443]\n(b) equipment and machinery for the production of:\nhousehold goods [7321] [8421 12] [8450] [8509] [8516]\nfurniture [8465] [8466] [9401] [9402] [9403] [9404]\nsanitary ware [7324]\ncentral heating and air conditioning plant [7322] [8403] [8404] [8415]\nIn any case, whatever their use or intended final purpose, the placing on the market of cadmium-plated articles or components of such articles used in the sectors/applications listed in points (a) and (b) above and of articles manufactured in the sectors listed in point (b) above is prohibited.\n6. The provisions referred to in paragraph 5 shall also be applicable to cadmium-plated articles or components of such articles when used in the sectors/applications listed in points (a) and (b) below and to articles manufactured in the sectors listed in (b) below:\n(a) equipment and machinery for the production of:\npaper and board [8419 32] [8439] [8441] textiles and clothing [8444] [8445] [8447] [8448] [8449] [8451] [8452]\n(b) equipment and machinery for the production of:\nindustrial handling equipment and machinery [8425] [8426] [8427] [8428] [8429] [8430] [8431]\nroad and agricultural vehicles [chapter 87]\nrolling stock [chapter 86]\nvessels [chapter 89]\n7. However, the restrictions in paragraphs 5 and 6 shall not apply to:\narticles and components of the articles used in the aeronautical, aerospace, mining, offshore and nuclear sectors whose applications require high safety standards and in safety devices in road and agricultural vehicles, rolling stock and vessels,\nelectrical contacts in any sector of use, where that is necessary to ensure the reliability required of the apparatus on which they are installed.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-43-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-152-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "24",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "24",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "24. Monomethyl — tetrachlorodiphenyl methane\nTrade name: Ugilec 141\nCAS No 76253-60-6",
+                    "1. The placing on the market and use of this substance and of mixtures and articles containing it shall be prohibited.\n2. By way of exception paragraph 1 shall not apply:\n(a) in the case of plant and machinery already in service on 18 June 1994 until such plant and machinery is disposed of.\nHowever, Member States may, on grounds of human health protection and environmental protection, prohibit within their territory the use of such plant or machinery before it is disposed of;\n(b) in the case of the maintenance of plant and machinery already in service within a Member State on 18 June 1994.\n3. The placing on the second-hand market of this substance, mixtures containing this substance and plant/machinery containing this substance, shall be prohibited."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "76253-60-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Monomethyl — tetrachlorodiphenyl methane"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "24",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "24. Monomethyl — tetrachlorodiphenyl methane\nTrade name: Ugilec 141\nCAS No 76253-60-6",
+                    "1. Shall not be placed on the market, or used, as a substance or in mixtures.\nArticles containing the substance shall not be placed on the market.\n2. By way of derogation, paragraph 1 shall not apply:\n(a) in the case of plant and machinery already in service on 18 June 1994, until such plant and machinery is disposed of;\n(b) in the case of the maintenance of plant and machinery already in service within a Member State on 18 June 1994.\nFor the purposes of point (a) Member States may, on grounds of human health protection and environmental protection, prohibit within their territory the use of such plant or machinery before it is disposed of."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "76253-60-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Monomethyl — tetrachlorodiphenyl methane"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "25",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "25",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "25. Monomethyl-dichloro-diphenyl methane\nTrade name: Ugilec 121, Ugilec 21;\nCAS No — unknown",
+                    "The placing on the market and use of this substance and of mixtures and articles containing it shall be prohibited."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Monomethyl-dichloro-diphenyl methane"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "25",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "25. Monomethyl-dichloro-diphenyl methane\nTrade name: Ugilec 121\nUgilec 21",
+                    "Shall not be placed on the market, or used, as a substance or in mixtures.\nArticles containing the substance shall not be placed on the market."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Monomethyl-dichloro-diphenyl methane"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "26",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "26",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "26. Monomethyl-dibromo-diphenyl methane bromobenzylbromotoluene, mixture of isomers\nTrade name: DBBT\nCAS No 99688-47-8",
+                    "The placing on the market and use of this substance and of mixtures and articles containing it shall be prohibited."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99688-47-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Monomethyl-dibromo-diphenyl methane bromobenzylbromotoluene, mixture of isomers"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "26",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "26. Monomethyl-dibromo-diphenyl methane bromobenzylbromotoluene, mixture of isomers\nTrade name: DBBT\nCAS No 99688-47-8",
+                    "Shall not be placed on the market, or used, as a substance or in mixtures.\nArticles containing the substance shall not be placed on the market."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99688-47-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Monomethyl-dibromo-diphenyl methane bromobenzylbromotoluene, mixture of isomers"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "27",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "27",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27. Nickel\nCAS No 7440-02-0\nEINECS No 231-111-4\nand its compounds",
+                    "1. Shall not be used:\n(a) in all post assemblies which are inserted into pierced ears and other pierced parts of the human body unless the rate of nickel release from such post assemblies is less than 0,2 μg/cm2/week (migration limit);\n(b) in articles intended to come into direct and prolonged contact with the skin such as:\nearrings,\nnecklaces, bracelets and chains, anklets, finger rings,\nwrist-watch cases, watch straps and tighteners,\nrivet buttons, tighteners, rivets, zippers and metal marks, when these are used in garments,\nif the rate of nickel release from the parts of these articles coming into direct and prolonged contact with the skin is greater than 0,5 μg/cm2/week;\n(c) in articles such as those listed in point (b) where these have a non-nickel coating unless such coating is sufficient to ensure that the rate of nickel release from those parts of such articles coming into direct and prolonged contact with the skin will not exceed 0,5 μg/cm2/week for a period of at least two years of normal use of the article.\n2. Articles which are the subject of paragraph 1, shall not be placed on the market unless they conform to the requirements set out in those points.\n3. The standards adopted by the European Committee for Standardisation (CEN) shall be used as the test methods for demonstrating the conformity of articles to paragraphs 1 and 2."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-02-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-111-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nickel"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "27",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27. Nickel\nCAS No 7440-02-0\nEC No 231-111-4 and its compounds",
+                    "1. Shall not be used:\n(a) in any post assemblies which are inserted into pierced ears and other pierced parts of the human body unless the rate of nickel release from such post assemblies is less than 0,2 μg/cm2/week (migration limit);\n(b) in articles intended to come into direct and prolonged contact with the skin such as:\nearrings,\nnecklaces, bracelets and chains, anklets, finger rings,\nwrist-watch cases, watch straps and tighteners,\nrivet buttons, tighteners, rivets, zippers and metal marks, when these are used in garments,\nif the rate of nickel release from the parts of these articles coming into direct and prolonged contact with the skin is greater than 0,5 μg/cm2/week.\n(c) in articles referred to in point (b) where these have a non-nickel coating unless such coating is sufficient to ensure that the rate of nickel release from those parts of such articles coming into direct and prolonged contact with the skin will not exceed 0,5 μg/cm2/week for a period of at least two years of normal use of the article.\n2. Articles which are the subject of paragraph 1 shall not be placed on the market unless they conform to the requirements set out in that paragraph.\n3. The standards adopted by the European Committee for Standardisation (CEN) shall be used as the test methods for demonstrating the conformity of articles to paragraphs 1 and 2."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-02-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-111-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nickel"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "28",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as carcinogen category 1A or 1B (Table 3.1) or carcinogen category 1 or 2 (Table 3.2) and listed as follows:\nCarcinogen category 1A (Table 3.1)/carcinogen category 1 (Table 3.2) listed in Appendix 1\nCarcinogen category 1B (Table 3.1)/carcinogen category 2 (Table 3.2) listed in Appendix 2",
+                    "Without prejudice to the other parts of this Annex the following shall apply to entries 28 to 30:\n1. Shall not be used in substances and mixtures placed on the market for sale to the general public in individual concentration equal to or greater than:\neither the relevant specific concentration limit specified in Part 3 of Annex VI to Regulation (EC) No 1272/2008, or\nthe relevant concentration specified in Directive 1999/45/EC."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as carcinogen category 1A or 1B (Table 3.1) or carcinogen category 1 or 2 (Table 3.2) and listed as follows:"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as carcinogen category 1A or 1B (Table 3.1) or carcinogen category 1 or 2 (Table 3.2) and listed as follows:\nCarcinogen category 1A (Table 3.1)/carcinogen category 1 (Table 3.2) listed in Appendix 1\nCarcinogen category 1B (Table 3.1)/carcinogen category 2 (Table 3.2) listed in Appendix 2\n29. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as germ cell mutagen category 1A or 1B (Table 3.1) or mutagen category 1 or 2 (Table 3.2) and listed as follows:\nMutagen category 1A (Table 3.1)/mutagen category 1 (Table 3.2) listed in Appendix 3\nMutagen category 1B (Table 3.1)/mutagen category 2 (Table 3.2) listed in Appendix 4\n30. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as toxic to reproduction category 1A or 1B (Table 3.1) or toxic to reproduction category 1 or 2 (Table 3.2) and listed as follows:\nReproductive toxicant category 1A adverse effects on sexual function and fertility or on development (Table 3.1) or reproductive toxicant category 1 with R60 (May impair fertility) or R61 (May cause harm to the unborn child) (Table 3.2) listed in Appendix 5\nReproductive toxicant category 1B adverse effects on sexual function and fertility or on development (Table 3.1) or reproductive toxicant category 2 with R60 (May impair fertility) or R61 (May cause harm to the unborn child) (Table 3.2) listed in Appendix 6",
+                    "Without prejudice to the other parts of this Annex the following shall apply to entries 28 to 30:\n1. Shall not be placed on the market, or used,\nas substances,\nas constituents of other substances, or,\nin mixtures,\nfor supply to the general public when the individual concentration in the substance or mixture is equal to or greater than:\neither the relevant specific concentration limit specified in Part 3 of Annex VI to Regulation (EC) No 1272/2008, or,\nthe relevant concentration specified in Directive 1999/45/EC.\nWithout prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of such substances and mixtures is marked visibly, legibly and indelibly as follows:\nRestricted to professional users.\n2. By way of derogation, paragraph 1 shall not apply to:\n(a) medicinal or veterinary products as defined by Directive 2001/82/EC and Directive 2001/83/EC;\n(b) cosmetic products as defined by Directive 76/768/EEC;\n(c) the following fuels and oil products:\nmotor fuels which are covered by Directive 98/70/EC,\nmineral oil products intended for use as fuel in mobile or fixed combustion plants,\nfuels sold in closed systems (e.g. liquid gas bottles);\n(d) artists’ paints covered by Directive 1999/45/EC."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as carcinogen category 1A or 1B (Table 3.1) or carcinogen category 1 or 2 (Table 3.2) and listed as follows:"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "29",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "29",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "29. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as germ cell mutagen category 1A or 1B (Table 3.1) or mutagen category 1 or 2 (Table 3.2) and listed as follows:\nMutagen category 1A (Table 3.1)/mutagen category 1 (Table 3.2) listed in Appendix 3\nMutagen category 1B (Table 3.1)/mutagen category 2 (Table 3.2) listed in Appendix 4",
+                    "Without prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of dangerous substances and mixtures, the packaging of such substances and mixtures must be marked legibly and indelibly as follows:\nRestricted to professional users."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as germ cell mutagen category 1A or 1B (Table 3.1) or mutagen category 1 or 2 (Table 3.2) and listed as follows:"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "30",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "30",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "30. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as toxic to reproduction category 1A or 1B (Table 3.1) or toxic to reproduction category 1 or 2 (Table 3.2) and listed as follows:\nReproductive toxicant category 1A adverse effects on sexual function and fertility or on development (Table 3.1) or reproductive toxicant category 1 with R60 (May impair fertility) or R61 (May cause harm to the unborn child) (Table 3.2) listed in Appendix 5\nReproductive toxicant category 1B adverse effects on sexual function and fertility or on development (Table 3.1) or reproductive toxicant category 2 with R60 (May impair fertility) or R61 (May cause harm to the unborn child) (Table 3.2) listed in Appendix 6",
+                    "2. By way of derogation, paragraph 1 shall not apply to:\n(a) medicinal or veterinary products as defined by Directive 2001/82/EC and Directive 2001/83/EC;\n(b) cosmetic products as defined by Council Directive 76/768/EEC;\n(c) motor fuels which are covered by Directive 98/70/EC,\nmineral oil products intended for use as fuel in mobile or fixed combustion plants,\nfuels sold in closed systems (e.g. liquid gas bottles);\n(d) artists' paints covered by Directive 1999/45/EC."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as toxic to reproduction category 1A or 1B (Table 3.1) or toxic to reproduction category 1 or 2 (Table 3.2) and listed as follows:"
+              },
+              "after": null
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "31",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "31",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "31. (a) creosote; wash oil\nCAS No 8001-58-9\nEINECS No 232-287-5\n(b) creosote oil; wash oil\nCAS No 61789-28-4\nEINECS No 263-047-8\n(c) distillates (coal tar), naphthalene oils; naphthalene oil\nCAS No 84650-04-4\nEINECS No 283-484-8\n(d) creosote oil, acenaphthene fraction; wash oil\nCAS No 90640-84-9\nEINECS No 292-605-3\n(e) distillates (coal tar), upper; heavy anthracene oil\nCAS No 65996-91-0\nEINECS No 266-026-1\n(f) anthracene oil\nCAS No 90640-80-5\nEINECS No 292-602-7\n(g) tar acids, coal, crude; crude phenols\nCAS No 65996-85-2\nEINECS No 266-019-3\n(h) creosote, wood\nCAS No 8021-39-4\nEINECS No 232-419-1\n(i) low temperature tar oil, alkaline; extract residues (coal), low temperature coal tar alkaline\nCAS No 122384-78-5\nEINECS No 310-191-5",
+                    "1. Shall not be used as substances or in mixtures in the treatment of wood. Furthermore, wood so treated shall not be placed on the market.\n2. However by way of derogation:\n(a) relating to the substances and mixtures: these may be used for wood treatment in industrial installations or by professionals covered by Community legislation on the protection of workers for in situ retreatment only if they contain:\n(i) benzo[a]pyrene at a concentration of less than 0,005 % by mass;\n(ii) and water extractable phenols at a concentration of less than 3 % by mass.\nSuch substances and mixtures for use in wood treatment in industrial installations or by professionals:\nmay be placed on the market only in packaging of a capacity equal to or greater than 20 litres,\nshall not be sold to consumers.\nWithout prejudice to the application of other Community provisions on the classification, packaging and labelling of dangerous substances and mixtures, the packaging of such substances and mixtures shall be legibly and indelibly marked as follows:\nFor use in industrial installations or professional treatment only.\n(b) relating to wood treated in industrial installations or by professionals according to point (a) which is placed on the market for the first time or retreated in situ: this is permitted for professional and industrial use only, e.g. on railways, in electric power transmission and telecommunications, for fencing, for agricultural purposes (e.g. stakes for tree support) and in harbours and waterways;\n(c) the prohibition in paragraph 1 on the placing on the market shall not apply to wood which has been treated with substances listed in entry 31(a) to (i) before 31 December 2002 and is placed on the second-hand market for re-use.\n3. However, treated wood referred to under paragraph 2(b) and (c) shall not be used:\ninside buildings, whatever their purpose,\nin toys,\nin playgrounds,\nin parks, gardens, and outdoor recreational and leisure facilities where there is a risk of frequent skin contact,\nin the manufacture of garden furniture such as picnic tables,\nfor the manufacture and use and any re-treatment of:\ncontainers intended for growing purposes,\npackaging that may come into contact with raw materials, intermediate or finished products destined for human and/or animal consumption,\nother materials which may contaminate the articles mentioned above."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "122384-78-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "61789-28-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "65996-85-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "65996-91-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8001-58-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8021-39-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84650-04-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90640-80-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90640-84-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-287-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-419-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "263-047-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-019-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-026-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-484-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "292-602-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "292-605-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "310-191-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(a) creosote; wash oil"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "31",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "31. (a) Creosote; wash oil\nCAS No 8001-58-9\nEC No 232-287-5\n(b) Creosote oil; wash oil\nCAS No 61789-28-4\nEC No 263-047-8\n(c) Distillates (coal tar), naphthalene oils; naphthalene oil\nCAS No 84650-04-4\nEC No 283-484-8\n(d) Creosote oil, acenaphthene fraction; wash oil\nCAS No 90640-84-9\nEC No 283-484-8EC No 292-605-3\n(e) Distillates (coal tar), upper; heavy anthracene oil\nCAS No 65996-91-0\nEC No 266-026-1\n(f) Anthracene oil\nCAS No 90640-80-5\nEC No 292-602-7\n(g) Tar acids, coal, crude; crude phenols\nCAS No 65996-85-2\nEC No 266-019-3\n(h) Creosote, wood\nCAS No 8021-39-4\nEC No 232-419-1\n(i) Low temperature tar oil, alkaline; extract residues (coal), low temperature coal tar alkaline\nCAS No 122384-78-5\nEC No 310-191-5",
+                    "1. Shall not be placed on the market, or used, as substances or in mixtures where the substance or mixture is intended for the treatment of wood. Furthermore, wood so treated shall not be placed on the market.\n2. By way of derogation from paragraph 1:\n(a) The substances and mixtures may be used for wood treatment in industrial installations or by professionals covered by Community legislation on the protection of workers for in situ retreatment only if they contain:\n(i) benzo[a]pyrene at a concentration of less than 50 mg/kg (0,005 % by weight), and\n(ii) water extractable phenols at a concentration of less than 3 % by weight.\nSuch substances and mixtures for use in wood treatment in industrial installations or by professionals:\nmay be placed on the market only in packaging of a capacity equal to or greater than 20 litres,\nshall not be sold to consumers.\nWithout prejudice to the application of other Community provisions on the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of such substances and mixtures is visibly, legibly and indelibly marked as follows:\nFor use in industrial installations or professional treatment only.\n(b) Wood treated in industrial installations or by professionals according to subparagraph (a) which is placed on the market for the first time or retreated in situ may be used for professional and industrial use only, for example on railways, in electric power transmission and telecommunications, for fencing, for agricultural purposes (for example stakes for tree support) and in harbours and waterways.\n(c) The prohibition in paragraph 1 on the placing on the market shall not apply to wood which has been treated with substances listed in entry 31 (a) to (i) before 31 December 2002 and is placed on the second-hand market for re-use.\n3. Treated wood referred to under paragraph 2(b) and (c) shall not be used:\ninside buildings, whatever their purpose,\nin toys,\nin playgrounds,\nin parks, gardens, and outdoor recreational and leisure facilities where there is a risk of frequent skin contact,\nin the manufacture of garden furniture such as picnic tables,\nfor the manufacture and use and any re-treatment of:\ncontainers intended for growing purposes,\npackaging that may come into contact with raw materials, intermediate or finished products destined for human and/or animal consumption,\nother materials which may contaminate the articles mentioned above."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "122384-78-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "61789-28-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "65996-85-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "65996-91-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8001-58-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8021-39-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84650-04-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90640-80-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90640-84-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-287-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-419-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "263-047-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-019-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-026-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-484-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "292-602-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "292-605-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "310-191-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(a) Creosote; wash oil"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "32",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "32",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "32. Chloroform\nCAS No 67-66-3\nEINECS No 200-663-8\n33. Carbon tetrachloride-tetrachloromethane\nCAS No 56-23-5\nEINECS No 200-262-8\n34. 1,1,2 Trichloroethane\nCAS No 79-00-5\nEINECS No 201-166-9\n35. 1,1,2,2 Tetrachloroethane\nCAS No 79-34-5\nEINECS No 201-197-8\n36. 1,1,1,2 Tetrachloroethane\nCAS No 630-20-6\n37. Pentachloroethane\nCAS No 76-01-7\nEINECS No 200-925-1\n38. 1,1 Dichloroethylene\nCAS No 75-35-4\nEINECS No 200-864-0\n39. 1,1,1 Trichloroethane, methyl chloroform\nCAS No 71-55-6\nEINECS No 200-756-3",
+                    "1. Shall not be used in concentrations equal to or greater than 0,1 % by weight in substances and mixtures placed on the market for sale to the general public and/or in diffusive applications such as in surface cleaning and cleaning of fabrics.\n2. Without prejudice to the application of other Community provisions on the classification, packaging and labelling of dangerous substances and mixtures, the packaging of such substances and mixtures containing them in concentrations equal to or greater than 0,1 % shall be legible and indelibly marked as follows:\nFor use in industrial installations only.\nBy way of derogation this provision shall not apply to:\n(a) medicinal or veterinary products as defined by Directive 2001/82/EC and Directive 2001/83/EC;\n(b) cosmetic products as defined by Directive 76/768/EEC."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56-23-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "630-20-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "67-66-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "71-55-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "75-35-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "76-01-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "79-00-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "79-34-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-262-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-663-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-756-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-864-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-925-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-166-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-197-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chloroform"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "32",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "32. Chloroform\nCAS No 67-66-3\nEC No 200-663-8\n34. 1,1,2-Trichloroethane\nCAS No 79-00-5\nEC No 201-166-9\n35. 1,1,2,2-Tetrachloroethane\nCAS No 79-34-5\nEC No 201-197-8\n36. 1,1,1,2-Tetrachloroethane\nCAS No 630-20-6\n37. Pentachloroethane\nCAS No 76-01-7\nEC No 200-925-1\n38. 1,1-Dichloroethene\nCAS No 75-35-4\nEC No 200-864-0",
+                    "Without prejudice to the other parts of this Annex, the following shall apply to entries 32 to 38.\n1. Shall not be placed on the market, or used,\nas substances,\nas constituents of other substances, or in mixtures in concentrations equal to or greater than 0,1 % by weight,\nwhere the substance or mixture is intended for supply to the general public and/or is intended for diffusive applications such as in surface cleaning and cleaning of fabrics.\n2. Without prejudice to the application of other Community provisions on the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of such substances and mixtures containing them in concentrations equal to or greater than 0,1 % by weight is visibly, legibly and indelibly marked as follows:\nFor use in industrial installations only.\nBy way of derogation this provision shall not apply to:\n(a) medicinal or veterinary products as defined by Directive 2001/82/EC and Directive 2001/83/EC;\n(b) cosmetic products as defined by Directive 76/768/EEC."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "630-20-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "67-66-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "75-35-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "76-01-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "79-00-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "79-34-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-663-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-864-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-925-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-166-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-197-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chloroform"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "40",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "40",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "40. Substances meeting the criteria of flammability in Directive 67/548/EEC and classified as flammable, highly flammable or extremely flammable regardless of whether they appear in Annex I to that Directive or not.",
+                    "1 Shall not be used on their own or in the form of mixtures in aerosol generators that are placed on the market for the general public for entertainment and decorative purposes such as the following:\nmetallic glitter intended mainly for decoration,\nartificial snow and frost,\nwhoopee cushions,\nsilly string aerosols,\nimitation excrement,\nhorn for parties,\ndecorative flakes and foams,\nartificial cobwebs,\nstink bombs,\netc.\n2. Without prejudice to the application of other Community provisions on the classification, packaging and labelling of dangerous substances, the following words must appear legibly and indelibly on the packaging of aerosol generators referred to above:\nFor professional users only.\n3. By way of derogation, paragraphs 1 and 2 shall not apply to the aerosol generators referred to in Article 9a of Council Directive 75/324/EEC of 20 May 1975 on the approximation of the laws of the Member States relating to aerosol dispensers\n.\n4. The articles referred to in paragraphs 1 and 2 shall not be placed on the market unless they conform to the requirements indicated."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances meeting the criteria of flammability in Directive 67/548/EEC and classified as flammable, highly flammable or extremely flammable regardless of whether they appear in Annex I to that Directive or not."
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "40",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "40. Substances meeting the criteria of flammability in Directive 67/548/EEC and classified as flammable, highly flammable or extremely flammable regardless of whether they appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 or not.",
+                    "1. Shall not be used, as substance or as mixtures in aerosol dispensers where these aerosol dispensers are intended for supply to the general public for entertainment and decorative purposes such as the following:\nmetallic glitter intended mainly for decoration,\nartificial snow and frost,\nwhoopee cushions,\nsilly string aerosols,\nimitation excrement,\nhorns for parties,\ndecorative flakes and foams,\nartificial cobwebs,\nstink bombs.\n2. Without prejudice to the application of other Community provisions on the classification, packaging and labelling of substances, suppliers shall ensure before the placing on the market that the packaging of aerosol dispensers referred to above is marked visibly, legibly and indelibly with:\nFor professional users only.\n3. By way of derogation, paragraphs 1 and 2 shall not apply to the aerosol dispensers referred to Article 8 (1a) of Council Directive 75/324/EEC\n.\n4. The aerosol dispensers referred to in paragraphs 1 and 2 shall not be placed on the market unless they conform to the requirements indicated.\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances meeting the criteria of flammability in Directive 67/548/EEC and classified as flammable, highly flammable or extremely flammable regardless of whether they appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 or not."
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "41",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "41",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "41. Hexachloroethane\nCAS No 67-72-1\nEINECS No 200-6664",
+                    "Shall not be used in the manufacturing or processing of non-ferrous metals."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67-72-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexachloroethane"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "41",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "41. Hexachloroethane\nCAS No 67-72-1\nEC No 200-666-4",
+                    "Shall not be placed on the market, or used, as substance or in mixtures, where the substance or mixture is intended for the manufacturing or processing of non-ferrous metals."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67-72-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-666-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexachloroethane"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "42",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "42",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "42. Alkanes, C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)\nEINECS No 287-476-5",
+                    "Shall not be placed on the market for use as substances or as constituents of other substances or mixtures in concentrations higher than 1 %:\nin metalworking,\nfor fat liquoring of leather."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "287-476-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alkanes, C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "42",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "42. Alkanes, C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)\nEC No 287-476-5\nCAS No 85535-84-8",
+                    "Shall not be placed on the market, or used as substances, or as constituents of other substances or in mixtures in concentrations greater than 1 % by weight, where the substance or mixture is intended for:\nmetalworking,\nfat liquoring of leather."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85535-84-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "287-476-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alkanes, C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "43",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "43",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "43. Azocolourants",
+                    "1. Azodyes which, by reductive cleavage of one or more azo groups, may release one or more of the aromatic amines listed in Appendix 8, in detectable concentrations, i.e. above 30 ppm in the finished articles or in the dyed parts thereof, according to the testing methods listed in Appendix 10, shall not be used in textile and leather articles which may come into direct and prolonged contact with the human skin or oral cavity, such as:\nclothing, bedding, towels, hairpieces, wigs, hats, nappies and other sanitary items, sleeping bags,\nfootwear, gloves, wristwatch straps, handbags, purses/wallets, briefcases, chair covers, purses worn round the neck,\ntextile or leather toys and toys which include textile or leather garments,\nyarn and fabrics intended for use by the final consumer.\n2. Furthermore, the textile and leather articles referred to in paragraph 1 above shall not be placed on the market unless they conform to the requirements set out in that paragraph.\n3. Azodyes, which are contained in Appendix 9, List of azodyes, shall not be placed on the market or used for colouring textile and leather articles as a substance or constituent of mixtures in concentrations higher than 0,1 % by mass.\n4. The Commission shall, in the light of new scientific knowledge, review the provisions on azocolourants."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Azocolourants"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "43",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "43. Azocolourants and Azodyes",
+                    "1. Azodyes which, by reductive cleavage of one or more azo groups, may release one or more of the aromatic amines listed in Appendix 8, in detectable concentrations, i.e. above 30 mg/kg (0,003 % by weight) in the articles or in the dyed parts thereof, according to the testing methods listed in Appendix 10, shall not be used, in textile and leather articles which may come into direct and prolonged contact with the human skin or oral cavity, such as:\nclothing, bedding, towels, hairpieces, wigs, hats, nappies and other sanitary items, sleeping bags,\nfootwear, gloves, wristwatch straps, handbags, purses/wallets, briefcases, chair covers, purses worn round the neck,\ntextile or leather toys and toys which include textile or leather garments,\nyarn and fabrics intended for use by the final consumer.\n2. Furthermore, the textile and leather articles referred to in paragraph 1 shall not be placed on the market unless they conform to the requirements set out in that paragraph.\n3. Azodyes, which are contained in Appendix 9, List of azodyes shall not be placed on the market, or used, as substances, or in mixtures in concentrations greater than 0,1 % by weight, where the substance or the mixture is intended for colouring textile and leather articles."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Azocolourants and Azodyes"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "44",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "44",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "44. Diphenylether, pentabromo derivative C12H5Br5O",
+                    "1. Shall not be placed on the market or used as a substance or as a constituent of mixtures in concentrations higher than 0,1 % by mass.\n2. Articles may not be placed on the market if they, or flame-retarded parts thereof, contain this substance in concentrations higher than 0,1 % by mass."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Diphenylether, pentabromo derivative C12H5Br5O"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "44",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "44. Diphenylether, pentabromo derivative\nC12H5Br5O",
+                    "1. Shall not be placed on the market, or used,\nas a substance,\nin mixtures in concentrations greater than 0,1 % by weight.\n2. Articles shall not be placed on the market if they, or flame-retarded parts thereof, contain this substance in concentrations greater than 0,1 % by weight.\n3. By way of derogation, paragraph 2 shall not apply\nto articles that were in use in the Community before 15 August 2004,\nto electrical and electronic equipment within the scope of Directive 2002/95/EC of the European Parliament and Council\n.\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Diphenylether, pentabromo derivative"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "45",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "45",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "45. Diphenylether, octabromo derivative C12H2Br8O",
+                    "1. Shall not be placed on the market or used as a substance or as a constituent of substances or of mixtures in concentrations higher than 0,1 % by mass.\n2. Articles may not be placed on the market if they, or flame-retardant parts thereof, contain this substance in concentrations higher than 0,1 % by mass."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Diphenylether, octabromo derivative C12H2Br8O"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "45",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "45. Diphenylether, octabromo derivative\nC12H2Br8O",
+                    "1. Shall not be placed on the market, or used:\nas a substance,\nas a constituent of other substances, or in mixtures, in concentrations greater than 0,1 % by weight.\n2. Articles shall not be placed on the market if they, or flame-retardant parts thereof, contain this substance in concentrations greater than 0,1 % by weight.\n3. By way of derogation, paragraph 2 shall not apply:\nto articles that were in use in the Community before 15 August 2004,\nto electrical and electronic equipment within the scope of Directive 2002/95/EC."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Diphenylether, octabromo derivative"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "46",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "46",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "46. (a) Nonylphenol C6H4(OH)C9H19\n(b) Nonylphenol ethoxylate (C2H4O)nC15H24O",
+                    "Shall not be placed on the market or used as a substance or constituent of mixtures in concentrations equal or higher than 0,1 % by mass for the following purposes:\n(1) industrial and institutional cleaning except:\ncontrolled closed dry cleaning systems where the washing liquid is recycled or incinerated,\ncleaning systems with special treatment where the washing liquid is recycled or incinerated;\n(2) domestic cleaning;\n(3) textiles and leather processing except:\nprocessing with no release into waste water,\nsystems with special treatment where the process water is pre-treated to remove the organic fraction completely prior to biological waste water treatment (degreasing of sheepskin);\n(4) emulsifier in agricultural teat dips;\n(5) metal working except:\nuses in controlled closed systems where the washing liquid is recycled or incinerated;\n(6) manufacturing of pulp and paper;\n(7) cosmetic products;\n(8) other personal care products except:\nspermicides;\n(9) co-formulants in pesticides and biocides."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "(a) Nonylphenol C6H4(OH)C9H19"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "46",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "46. (a) Nonylphenol\nC6H4(OH)C9H19\nCAS 25154-52-3\nEC 246-672-0\n(b) Nonylphenol ethoxylates\n(C2H4O)nC15H24O",
+                    "Shall not be placed on the market, or used, as substances or in mixtures in concentrations equal to or greater than 0,1 % by weight for the following purposes:\n(1) industrial and institutional cleaning except:\ncontrolled closed dry cleaning systems where the washing liquid is recycled or incinerated,\ncleaning systems with special treatment where the washing liquid is recycled or incinerated.\n(2) domestic cleaning;\n(3) textiles and leather processing except:\nprocessing with no release into waste water,\nsystems with special treatment where the process water is pre-treated to remove the organic fraction completely prior to biological waste water treatment (degreasing of sheepskin);\n(4) emulsifier in agricultural teat dips;\n(5) metal working except:\nuses in controlled closed systems where the washing liquid is recycled or incinerated;\n(6) manufacturing of pulp and paper;\n(7) cosmetic products;\n(8) other personal care products except:\nspermicides;\n(9) co-formulants in pesticides and biocides. However national authorisations for pesticides or biocidal products containing nonylphenol ethoxylates as co-formulant, granted before 17 July 2003, shall not be affected by this restriction until their date of expiry."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "25154-52-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-672-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(a) Nonylphenol"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "47",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "47",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "47. Cement",
+                    "1. Cement and cement-containing mixtures shall not be used or placed on the market, if they contain, when hydrated, more than 0,0002 % soluble chromium VI of the total dry weight of the cement.\n2. If reducing agents are used, then without prejudice to the application of other Community provisions on the classification, packaging and labelling of dangerous substances and mixtures, the packaging of cement or cement-containing mixtures shall be legibly and indelibly marked with information on the packing date, as well as on the storage conditions and the storage period appropriate to maintaining the activity of the reducing agent and to keeping the content of soluble chromium VI below the limit indicated in paragraph 1.\n3. By way of derogation, paragraphs 1 and 2 shall not apply to the placing on the market for, and use in, controlled closed and totally automated processes in which cement and cement-containing mixtures are handled solely by machines and in which there is no possibility of contact with the skin."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Cement"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "47",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "47. Chromium VI compounds",
+                    "1. Cement and cement-containing mixtures shall not be placed on the market, or used, if they contain, when hydrated, more than 2 mg/kg (0,0002 %) soluble chromium VI of the total dry weight of the cement.\n2. If reducing agents are used, then without prejudice to the application of other Community provisions on the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of cement or cement-containing mixtures is visibly, legibly and indelibly marked with information on the packing date, as well as on the storage conditions and the storage period appropriate to maintaining the activity of the reducing agent and to keeping the content of soluble chromium VI below the limit indicated in paragraph 1.\n3. By way of derogation, paragraphs 1 and 2 shall not apply to the placing on the market for, and use in, controlled closed and totally automated processes in which cement and cement-containing mixtures are handled solely by machines and in which there is no possibility of contact with the skin."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Chromium VI compounds"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "48",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "48",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "48. Toluene\nCAS No 108-88-3",
+                    "Shall not be placed on the market or used as a substance or constituent of mixtures in a concentration equal to or higher than 0,1 % by mass in adhesives and spray paints intended for sale to the general public.\nMember States shall apply these measures from 15 June 2007."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "108-88-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Toluene"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "48",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "48. Toluene\nCAS No 108-88-3\nEC No 203-625-9",
+                    "Shall not be placed on the market, or used, as a substance or in mixtures in a concentration equal to or greater than 0,1 % by weight where the substance or mixture is used in adhesives or spray paints intended for supply to the general public."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "108-88-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-625-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Toluene"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "49",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "49",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "49. Trichlorobenzene\nCAS No 120-82-1",
+                    "Shall not be placed on the market or used as a substance or constituent of mixtures in a concentration equal to or higher than 0,1 % by mass for all uses except:\nas an intermediate of synthesis, or\nas a process solvent in closed chemical applications for chlorination reactions, or\nin the manufacture of 1,3,5 — trinitro — 2,4,6 — triaminobenzene (TATB).\nMember States shall apply these measures from 15 June 2007."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-82-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trichlorobenzene"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "49",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "49. Trichlorobenzene\nCAS No 120-82-1\nEC No 204-428-0",
+                    "Shall not be placed on the market, or used, as a substance or in mixtures in a concentration equal to or greater than 0,1 % by weight for any use except:\nas an intermediate of synthesis, or,\nas a process solvent in closed chemical applications for chlorination reactions, or,\nin the manufacture of 1,3,5-triamino — 2,4,6-trinitrobenzene (TATB)."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-82-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-428-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trichlorobenzene"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "50",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "50",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "50. Polycyclic-aromatic hydrocarbons (PAH)\n1. Benzo(a)pyrene (BaP)\nCAS No 50-32-8\n2. Benzo(e)pyrene (BeP)\nCAS No 192-97-2\n3. Benzo(a)anthracene (BaA)\nCAS No 56-55-3\n4. Chrysen (CHR)\nCAS No 218-01-9\n5. Benzo(b)fluoranthene (BbFA)\nCAS No 205-99-2\n6. Benzo(j)fluoranthene (BjFA)\nCAS No 205-82-3\n7. Benzo(k)fluoranthene (BkFA)\nCAS No 207-08-9\n8. Dibenzo(a, h)anthracene (DBAhA)\nCAS No 53-70-3",
+                    "1. Extender oils shall not be placed on the market and used for the production of tyres or parts of tyres, if they contain:\nmore than 1 mg/kg BaP, or\nmore than 10 mg/kg of the sum of all listed PAHs.\nThese limits are regarded as kept, if the polycyclic aromatics (PCA) extract is less than 3 % by mass, as measured by the Institute of Petroleum standard IP346: 1998 (Determination of PCA in unused lubricating base oils and asphaltene free petroleum fractions — Dimethyl sulphoxide extraction refractive index method), provided that compliance with the limit values of BaP and of the listed PAHs, as well as the correlation of the measured values with the PCA extract, is controlled by the manufacturer or importer every six months or after each major operational change, whichever is earlier.\n2. Furthermore, the tyres and treads for retreading manufactured after 1 January 2010 may not be placed on the market if they contain extender oils exceeding the limits indicated in paragraph 1.\nThese limits are regarded as kept, if the vulcanised rubber compounds do not exceed the limit of 0,35 % Bay protons as measured and calculated by ISO 21461 (Rubber vulcanised — Determination of aromaticity of oil in vulcanised rubber compounds).\n3. By way of derogation, paragraph 2 shall not apply to retreaded tyres if their tread does not contain extender oils exceeding the limits referred to in paragraph 1.\n4. Member States shall apply these measures from 1 January 2010."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "192-97-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-82-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "207-08-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "218-01-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "50-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "53-70-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56-55-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Polycyclic-aromatic hydrocarbons (PAH)"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "50",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "50. Polycyclic-aromatic hydrocarbons (PAH)\n(a) Benzo[a]pyrene (BaP)\nCAS No 50-32-8\n(b) Benzo[e]pyrene (BeP)\nCAS No 192-97-2\n(c) Benzo[a]anthracene (BaA)\nCAS No 56-55-3\n(d) Chrysen (CHR)\nCAS No 218-01-9\n(e) Benzo[b]fluoranthene (BbFA)\nCAS No 205-99-2\n(f) Benzo[j]fluoranthene (BjFA)\nCAS No 205-82-3\n(g) Benzo[k]fluoranthene (BkFA)\nCAS No 207-08-9\n(h) Dibenzo[a,h]anthracene (DBAhA)\nCAS No 53-70-3",
+                    "1. From 1 January 2010, extender oils shall not be placed on the market, or used for the production of tyres or parts of tyres if they contain:\nmore than 1 mg/kg (0,0001 % by weight) BaP, or,\nmore than 10 mg/kg (0,001 % by weight) of the sum of all listed PAHs.\nThese limits shall be regarded as kept, if the polycyclic aromatics (PCA) extract is less than 3 % by weight as measured by the Institute of Petroleum standard IP346: 1998 (Determination of PCA in unused lubricating base oils and asphaltene free petroleum fractions — Dimethyl sulphoxide extraction refractive index method), provided that compliance with the limit values of BaP and of the listed PAHs, as well as the correlation of the measured values with the PCA extract, is controlled by the manufacturer or importer every six months or after each major operational change, whichever is earlier.\n2. Furthermore, tyres and treads for retreading manufactured after 1 January 2010 shall not be placed on the market if they contain extender oils exceeding the limits indicated in paragraph 1.\nThese limits shall be regarded as kept, if the vulcanised rubber compounds do not exceed the limit of 0,35 % Bay protons as measured and calculated by ISO 21461 (Rubber vulcanised — Determination of aromaticity of oil in vulcanised rubber compounds).\n3. By way of derogation, paragraph 2 shall not apply to retreaded tyres if their tread does not contain extender oils exceeding the limits referred to in paragraph 1.\n4. For the purpose of this entry tyres shall mean tyres for vehicles covered by:\nDirective 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers\n,\nDirective 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units\n, and\nDirective 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC\n.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "192-97-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-82-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "207-08-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "218-01-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "50-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "53-70-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56-55-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Polycyclic-aromatic hydrocarbons (PAH)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "51",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "51",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "51. The following phthalates (or other CAS- and EINECS numbers covering the substance):\nbis (2-ethylhexyl) phthalate (DEHP)\nCAS No 117-81-7\nEinecs No 204-211-0\ndibutyl phthalate (DBP)\nCAS No 84-74-2\nEinecs No 201-557-4\nbenzyl butyl phthalate (BBP)\nCAS No 85-68-7\nEinecs No 201-622-7",
+                    "Shall not be used as substances or as constituents of mixtures, at concentrations higher than 0,1 % by mass of the plasticised material, in toys and childcare articles\n.\nToys and childcare articles containing these phthalates in a concentration higher than 0,1 % by mass of the plasticised material shall not be placed on the market.\nThe Commission shall re-evaluate, by 16 January 2010, the measures provided for in relation to this point in the light of new scientific information on such substances and their substitutes, and if justified, these measures shall be modified accordingly."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-81-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84-74-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-557-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-622-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-211-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "The following phthalates (or other CAS- and EINECS numbers covering the substance):"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "51",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "51. The following phthalates (or other CAS and EC numbers covering the substance):\n(a) Bis (2-ethylhexyl) phthalate (DEHP)\nCAS No 117-81-7\nEC No 204-211-0\n(b) Dibutyl phthalate (DBP)\nCAS No 84-74-2\nEC No 201-557-4\n(c) Benzyl butyl phthalate (BBP)\nCAS No 85-68-7\nEC No 201-622-7",
+                    "1. Shall not be used as substances or in mixtures, in concentrations greater than 0,1 % by weight of the plasticised material, in toys and childcare articles.\n2. Toys and childcare articles containing these phthalates in a concentration greater than 0,1 % by weight of the plasticised material shall not be placed on the market.\n3. The Commission shall re-evaluate, by 16 January 2010, the measures provided for in relation to this entry in the light of new scientific information on such substances and their substitutes, and if justified, these measures shall be modified accordingly.\n4. For the purpose of this entry childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-81-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84-74-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-557-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-622-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-211-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "The following phthalates (or other CAS and EC numbers covering the substance):"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "52",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "52",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "52. The following phthalates (or other CAS- and EINECS numbers covering the substance):\ndi-isononyl phthalate (DINP)\nCAS No 28553-12-0 and 68515-48-0\nEinecs No 249-079-5 and 271-090-9\ndi-isodecyl phthalate (DIDP)\nCAS No 26761-40-0 and 68515-49-1\nEinecs No 247-977-1 and 271-091-4\ndi-n-octyl phthalate (DNOP)\nCAS No 117-84-0\nEinecs No 204-214-7",
+                    "Shall not be used as substances or as constituents of mixtures, at concentrations higher than 0,1 % by mass of the plasticised material, in toys and childcare articles\n which can be placed in the mouth by children.\nToys and childcare articles containing these phthalates in a concentration higher than 0,1 % by mass of the plasticised material shall not be placed on the market.\nThe Commission shall re-evaluate, by 16 January 2010, the measures provided for in relation to this point in the light of new scientific information on such substances and their substitutes, and if justified, these measures shall be modified accordingly."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-84-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26761-40-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "28553-12-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68515-48-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68515-49-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-214-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-977-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-079-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-090-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-091-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "The following phthalates (or other CAS- and EINECS numbers covering the substance):"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "52",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "52. The following phthalates (or other CAS- and EC numbers covering the substance):\n(a) Di-isononyl phthalate (DINP)\nCAS No 28553-12-0 and 68515-48-0\nEC No 249-079-5 and 271-090-9\n(b) Di-isodecyl phthalate (DIDP)\nCAS No 26761-40-0 and 68515-49-1\nEC No 247-977-1 and 271-091-4\n(c) Di-n-octyl phthalate (DNOP)\nCAS No 117-84-0\nEC No 204-214-7",
+                    "1. Shall not be used as substances or in mixtures, in concentrations greater than 0,1 % by weight of the plasticised material, in toys and childcare articles which can be placed in the mouth by children.\n2. Such toys and childcare articles containing these phthalates in a concentration greater than 0,1 % by weight of the plasticised material shall not be placed on the market.\n3. The Commission shall re-evaluate, by 16 January 2010, the measures provided for in relation to this entry in the light of new scientific information on such substances and their substitutes, and if justified, these measures shall be modified accordingly.\n4. For the purpose of this entry childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-84-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26761-40-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "28553-12-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68515-48-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68515-49-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-214-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-977-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-079-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-090-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-091-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "The following phthalates (or other CAS- and EC numbers covering the substance):"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "53",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "53",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "53. Perfluorooctane sulfonates (PFOS) C8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers)",
+                    "1. Shall not be placed on the market, or used, as substances or in mixtures in concentrations equal to or greater than 50 mg/kg (0,005 % by weight).\n2. Shall not be placed on the market in semi-finished products or articles, or parts thereof, if the concentration of PFOS is equal to or greater than 0,1 % by weight calculated with reference to the mass of structurally or microstructurally distinct parts that contain PFOS or, for textiles or other coated materials, if the amount of PFOS is equal to or greater than 1 μg/m2 of the coated material.\n3. By way of derogation, paragraphs 1 and 2 shall not apply to the following items, nor to substances and mixtures needed to produce them:\n(a) photoresists or anti-reflective coatings for photolithography processes;\n(b) photographic coatings applied to films, papers, or printing plates;\n(c) mist suppressants for non-decorative hard chromium (VI) plating and wetting agents for use in controlled electroplating systems where the amount of PFOS released into the environment is minimised, by fully applying relevant best available techniques developed within the framework of Directive 2008/1/EC\n;\n(d) hydraulic fluids for aviation.\n4. By way of derogation from paragraph 1, fire-fighting foams that were placed on the market before 27 December 2006 may be used until 27 June 2011.\n5. By way of derogation, paragraph 2 shall not apply to articles that were in use in the Community before 27 June 2008.\n6. Paragraphs 1 and 2 shall apply without prejudice to Regulation (EC) No 648/2004 of the European Parliament and of the Council\n.\n7. As soon as new information on details of uses and safer alternative substances or technologies for the uses becomes available, the Commission shall review each of the derogations in paragraph 3(a) to (d) so that:\n(a) the uses of PFOS will be phased out as soon as the use of safer alternatives is technically and economically feasible;\n(b) a derogation can only be continued for essential uses for which safer alternatives do not exist and where the efforts undertaken to find safer alternatives have been reported on;\n(c) releases of PFOS into the environment have been minimised, by applying best available techniques.\n8. The Commission shall keep under review the ongoing risk assessment activities and the availability of safer alternative substances or technologies related to the uses of perfluorooctanoic acid (PFOA) and related substances and propose all necessary measures to reduce identified risks, including restrictions on marketing and use, in particular when safer alternative substances or technologies, that are technically and economically feasible, are available.\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctane sulfonates (PFOS) C8F17SO2X"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "54",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "54",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "54. 2-(2-methoxyethoxy)ethanol (DEGME)\nCAS No 111-77-3\nEC No 203-906-6",
+                    "Shall not be placed on the market after 27 June 2010, for supply to the general public, as a constituent of paints, paint strippers, cleaning agents, self-shining emulsions or floor sealants in concentrations equal to or greater than 0,1 % by weight."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "111-77-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-906-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(2-methoxyethoxy)ethanol (DEGME)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "55",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "55",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "55. 2-(2-butoxyethoxy)ethanol (DEGBE)\nCAS No 112-34-5\nEC No 203-961-6",
+                    "1. Shall not be placed on the market for the first time after 27 June 2010, for supply to the general public, as a constituent of spray paints or spray cleaners in aerosol dispensers in concentrations equal to or greater than 3 % by weight.\n2. Spray paints and spray cleaners in aerosol dispensers containing DEGBE and not conforming to paragraph 1 shall not be placed on the market for supply to the general public after 27 December 2010.\n3. Without prejudice to other Community legislation concerning the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that paints other than spray paints containing DEGBE in concentrations equal to or greater than 3 % by weight of that are placed on the market for supply to the general public are visibly, legibly and indelibly marked by 27 December 2010 as follows:\nDo not use in paint spraying equipment."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "112-34-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-961-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(2-butoxyethoxy)ethanol (DEGBE)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "56",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "56",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "56. Methylenediphenyl diisocyanate (MDI)\nCAS No 26447-40-5\nEC No 247-714-0",
+                    "1. Shall not be placed on the market after 27 December 2010, as a constituent of mixtures in concentrations equal to or greater than 0,1 % by weight of MDI for supply to the general public, unless suppliers shall ensure before the placing on the market that the packaging:\n(a) contains protective gloves which comply with the requirements of Council Directive 89/686/EEC\n;\n(b) is marked visibly, legibly and indelibly as follows, and without prejudice to other Community legislation concerning the classification, packaging and labelling of substances and mixtures:\n— Persons already sensitised to diisocyanates may develop allergic reactions when using this product.\n— Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product.\n— This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.\n2. By way of derogation, paragraph 1(a) shall not apply to hot melt adhesives.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "26447-40-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-714-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methylenediphenyl diisocyanate (MDI)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "57",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "57",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "57. Cyclohexane\nCAS No 110-82-7\nEC No 203-806-2",
+                    "1. Shall not be placed on the market for the first time after 27 June 2010, for supply to the general public, as a constituent of neoprene-based contact adhesives in concentrations equal to or greater than 0,1 % by weight in package sizes greater than 350 g.\n2. Neoprene-based contact adhesives containing cyclohexane and not conforming to paragraph 1 shall not be placed on the market for supply to the general public after 27 December 2010.\n3. Without prejudice to other Community legislation concerning the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that neoprene-based contact adhesives containing cyclohexane in concentrations equal to or greater than 0,1 % by weight that are placed on the market for supply to the general public after 27 December 2010 are visibly, legibly and indelibly marked as follows:\n— This product is not to be used under conditions of poor ventilation.\n— This product is not to be used for carpet laying.."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "110-82-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-806-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cyclohexane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "58",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "58",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "58. Ammonium nitrate (AN)\nCAS No 6484-52-2\nEC No 229-347-8",
+                    "1. Shall not be placed on the market for the first time after 27 June 2010 as a substance, or in mixtures that contain more than 28 % by weight of nitrogen in relation to ammonium nitrate, for use as a solid fertiliser, straight or compound, unless the fertiliser complies with the technical provisions for ammonium nitrate fertilisers of high nitrogen content set out in Annex III to Regulation (EC) No 2003/2003 of the European Parliament and of the Council\n.\n2. Shall not be placed on the market after 27 June 2010 as a substance, or in mixtures that contain 16 % or more by weight of nitrogen in relation to ammonium nitrate except for supply to:\n(a) downstream users and distributors, including natural or legal persons licensed or authorised in accordance with Council Directive 93/15/EEC\n;\n(b) farmers for use in agricultural activities, either full time or part time and not necessarily related to the size of the land area.\nFor the purposes of this subparagraph:\n(i) farmer shall mean a natural or legal person, or a group of natural or legal persons, whatever legal status is granted to the group and its members by national law, whose holding is situated within Community territory, as referred to in Article 299 of the Treaty, and who exercises an agricultural activity;\n(ii) agricultural activity shall mean the production, rearing or growing of agricultural products including harvesting, milking, breeding animals and keeping animals for farming purposes, or maintaining the land in good agricultural and environmental condition as established under Article 5 of Council Regulation (EC) No 1782/2003\n;\n(c) natural or legal persons engaged in professional activities such as horticulture, plant growing in greenhouses, maintenance of parks, gardens or sport pitches, forestry or other similar activities.\n3. However, for the restrictions in paragraph 2, Member States may until 1 July 2014, for socioeconomic reasons, apply a limit of up to 20 % by weight of nitrogen in relation to ammonium nitrate for substances and mixtures placed on the market within their territories. They shall inform the Commission and other Member States thereof.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6484-52-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-347-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ammonium nitrate (AN)"
+              }
+            }
+          ],
+          "unchanged": 1252,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 7,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 6,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -333,6 +3414,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 2,
       "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,
