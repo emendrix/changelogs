@@ -2685,6 +2685,8 @@ The after text also adds a statement that in vivo skin sensitisation studies car
 
 *within* `AN XVII` · *dates* +2010-11-24 +2016-07-13 +2016-07-14 +2018-07-14 +2025-07-01 · *amended by* `32016R1005`, `32016R1017`
 
+Table entries: 1 added, 1 amended, 0 removed: Entry 6, Entry 65
+
 A new reference to Directive 2010/75/EU on industrial emissions has been added to the list of directives cited near the start of the Annex. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_XVII)
 
 In entry 6 on asbestos fibres, the exemption for diaphragms containing chrysotile used in electrolysis installations has been rewritten: rather than the earlier open-ended exemption tied to service life or availability of substitutes with a Commission-report mechanism, the text now conditions continued use until 1 July 2025 on the exemption having existed under the version of the paragraph in force until 13 July 2016, on compliance with permit conditions under Directive 2010/75/EU, and on annual reporting by downstream users to the relevant Member State, which forwards a copy to the Commission, including air-monitoring results where a Member State requires such monitoring. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160621#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_XVII)
