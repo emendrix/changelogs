@@ -2912,6 +2912,8 @@ In entry 57, the maximum concentration allowed for Methylisothiazolinone in rins
 
 *within* `AN III` · *dates* +2017-09-03 +2018-03-03 · *amended by* `32017R0237`
 
+Table entries: 10 added, 7 amended, 0 removed: Reference number 8c, Reference number 9, Reference number 9a, Reference number 9b, Reference number 200, Reference number 206, Reference number 211, Reference number 243, Reference number 272, Reference number 298 and 7 more
+
 A new entry 8c has been added covering a nitro-phenylenediamine hair dye substance, with concentration limits and label wording that take effect as from specified 2017 and 2018 dates written directly into the entry. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_III)
 
 Entry 9 now excludes both 9a and 9b from its scope, whereas before it excluded only 9a, and a new entry 9b has been added for a further hair dye substance with its own concentration limit and labelling conditions tied to 2017 and 2018 dates stated in the text. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_III) [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_III)
@@ -2963,6 +2965,8 @@ Entry 9a itself has been restructured, splitting its restrictions and label word
 *within* `AN V`
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
+
+Table entries: 0 added, 1 amended (1 only in spacing, dash forms or accents), 0 removed: Reference number 12
 
 The only textual difference between the two versions is a minor formatting change in entry 12's header, where a line break and a space before "esters" were removed so the phrase reads as a single continuous line. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_V)
 
