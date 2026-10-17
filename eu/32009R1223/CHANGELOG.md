@@ -2005,6 +2005,8 @@ A minor wording change also occurs in the preamble note that previously read "Fo
 
 *within* `AN II` · *amended by* `32019R1966`
 
+Table entries: 18 added, 3 amended, 0 removed: Reference number 395, Reference number 1396, Reference number 1507, Reference number 1624, Reference number 1625, Reference number 1626, Reference number 1627, Reference number 1628, Reference number 1629, Reference number 1630 and 11 more
+
 Entry 395 in the list now names the substance as Hydroxy-8-quinoline and its sulphate, bis(8-hydroxyquinolinium) sulphate, except for the uses of the sulphate provided for in entry 51 of Annex III, whereas the earlier version simply named it as Hydroxy-8-quinoline and its sulphate. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191218#anx_II) [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191127#anx_II)
 
 The CAS number listed for that entry also changed from 148-24-2 to 148-24-3. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191218#anx_II) [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191127#anx_II)
@@ -2052,6 +2054,8 @@ Both texts were truncated before reaching the end of the list, so any further di
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32019R1966`
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 9
 
 In entry 9, the list of excepted reference numbers in Annex II was expanded from 364, 1310 and 1313 to 364, 413, 1144, 1310, 1313 and 1507. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191127#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191218#anx_III)
 

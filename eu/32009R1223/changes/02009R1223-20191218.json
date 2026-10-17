@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,1221 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN II",
+              "table": 1,
+              "key": "395",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "395",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "395",
+                    "Hydroxy-8-quinoline and its sulphate",
+                    "148-24-2\n134-31-6",
+                    "205-711-1\n205-137-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134-31-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-137-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-711-1"
+                  }
+                ],
+                "failed_check_digits": 1,
+                "name": "Hydroxy-8-quinoline and its sulphate"
+              },
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "395",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "395",
+                    "Hydroxy-8-quinoline and its sulphate bis(8-hydroxyquinolinium) sulphate, except for the uses of the sulphate provided for in entry 51 of Annex III",
+                    "148-24-3\n134-31-6",
+                    "205-711-1\n205-137-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134-31-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "148-24-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-137-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-711-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydroxy-8-quinoline and its sulphate bis(8-hydroxyquinolinium) sulphate, except for the uses of the sulphate provided for in entry 51 of Annex III"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN II",
+              "table": 1,
+              "key": "1396",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1396",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1396",
+                    "Borates, tetraborates, octaborates and boric acid salts and esters, including:",
+                    "",
+                    ""
+                  ],
+                  [
+                    null,
+                    "Disodium octaborate tetrahydrate [1]",
+                    "12280-03-4 [1]",
+                    "234-541-0 [1]"
+                  ],
+                  [
+                    null,
+                    "2-Aminoethanol, monoester with boric acid [2]",
+                    "10377-81-8 [2]",
+                    "233-829-3 [2]"
+                  ],
+                  [
+                    null,
+                    "2-Hydroxypropyl ammonium dihydrogen orthoborate [3]",
+                    "68003-13-4 [3]",
+                    "268-109-8 [3]"
+                  ],
+                  [
+                    null,
+                    "Potassium borate, boric acid potassium salt [4]",
+                    "12712-38-8 [4]",
+                    "603-184-6 [4]"
+                  ],
+                  [
+                    null,
+                    "Trioctyldodecyl borate [5]",
+                    "[5]",
+                    "— [5]"
+                  ],
+                  [
+                    null,
+                    "Zinc borate [6]",
+                    "1332-07-6 [6]",
+                    "215-566-6 [6]"
+                  ],
+                  [
+                    null,
+                    "Sodium borate, disodium tetraborate anhydrous; boric acid, sodium salt [7]",
+                    "1330-43-4 [7]",
+                    "215-540-4 [7]"
+                  ],
+                  [
+                    null,
+                    "Tetraboron disodium heptaoxide, hydrate [8]",
+                    "12267-73-1 [8]",
+                    "235-541-3 [8]"
+                  ],
+                  [
+                    null,
+                    "Orthoboric acid, sodium salt [9]",
+                    "13840-56-7 [9]",
+                    "237-560-2 [9]"
+                  ],
+                  [
+                    null,
+                    "Disodium tetraborate decahydrate; borax decahydrate [10]",
+                    "1303-96-4 [10]",
+                    "215-540-4 [10]"
+                  ],
+                  [
+                    null,
+                    "Disodium tetraborate pentahydrate; borax pentahydrate [11]",
+                    "12179-04-3 [11]",
+                    "215-540-4 [11]"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10377-81-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12179-04-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12267-73-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12280-03-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12712-38-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1303-96-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1330-43-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1332-07-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13840-56-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68003-13-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-540-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-566-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-829-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-541-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-541-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "237-560-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "268-109-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "603-184-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Borates, tetraborates, octaborates and boric acid salts and esters, including:"
+              },
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1396",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1396",
+                    "Borates, tetraborates, octaborates and boric acid salts and esters, including:",
+                    "",
+                    ""
+                  ],
+                  [
+                    null,
+                    "Disodium octaborate anhydrous [1]",
+                    "12008-41-2 [1]",
+                    "234-541-0 [1]"
+                  ],
+                  [
+                    null,
+                    "Disodium octaborate tetrahydrate [2]",
+                    "12280-03-4 [2]",
+                    "234-541-0 [2]"
+                  ],
+                  [
+                    null,
+                    "2-Aminoethanol, monoester with boric acid [3]",
+                    "10377-81-8 [3]",
+                    "233-829-3 [3]"
+                  ],
+                  [
+                    null,
+                    "2-Hydroxypropyl ammonium dihydrogen orthoborate [4]",
+                    "68003-13-4 [4]",
+                    "268-109-8 [4]"
+                  ],
+                  [
+                    null,
+                    "Potassium borate, boric acid potassium salt [5]",
+                    "12712-38-8 [5]",
+                    "603-184-6 [5]"
+                  ],
+                  [
+                    null,
+                    "Trioctyldodecyl borate [6]",
+                    "- [6]",
+                    "- [6]"
+                  ],
+                  [
+                    null,
+                    "Zinc borate [7]",
+                    "1332-07-6 [7]",
+                    "215-566-6 [7]"
+                  ],
+                  [
+                    null,
+                    "Sodium borate, disodium tetraborate anhydrous; boric acid, sodium salt [8]",
+                    "1330-43-4 [8]",
+                    "215-540-4 [8]"
+                  ],
+                  [
+                    null,
+                    "Tetraboron disodium heptaoxide, hydrate [9]",
+                    "12267-73-1 [9]",
+                    "235-541-3 [9]"
+                  ],
+                  [
+                    null,
+                    "Orthoboric acid, sodium salt [10]",
+                    "13840-56-7 [10]",
+                    "237-560-2 [10]"
+                  ],
+                  [
+                    null,
+                    "Disodium tetraborate decahydrate; borax decahydrate [11]",
+                    "1303-96-4 [11]",
+                    "215-540-4 [11]"
+                  ],
+                  [
+                    null,
+                    "Disodium tetraborate pentahydrate; borax pentahydrate [12]",
+                    "12179-04-3 [12]",
+                    "215-540-4 [12]"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10377-81-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12008-41-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12179-04-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12267-73-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12280-03-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12712-38-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1303-96-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1330-43-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1332-07-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13840-56-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68003-13-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-540-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-566-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-829-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-541-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-541-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "237-560-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "268-109-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "603-184-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Borates, tetraborates, octaborates and boric acid salts and esters, including:"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN II",
+              "table": 1,
+              "key": "1507",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1507",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1507",
+                    "Methyl-phenylene diamine; diaminotoluene",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Methyl-phenylene diamine; diaminotoluene"
+              },
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1507",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1507",
+                    "Diaminotoluene, methyl-phenylenediamine, technical product-reaction mass of [4-methyl-m-phenylenediamine and 2-methyl-m-phenylenediamine]",
+                    "–",
+                    "–"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Diaminotoluene, methyl-phenylenediamine, technical product-reaction mass of [4-methyl-m-phenylenediamine and 2-methyl-m-phenylenediamine]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1624",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1624",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1624",
+                    "Pirimicarb (ISO); 2-(dimethylamino)-5,6-dimethylpyrimidin-4-yl dimethylcarbamate",
+                    "23103-98-2",
+                    "245-430-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "23103-98-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-430-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pirimicarb (ISO); 2-(dimethylamino)-5,6-dimethylpyrimidin-4-yl dimethylcarbamate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1625",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1625",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1625",
+                    "1,2-Dichloropropane; propylene dichloride",
+                    "78-87-5",
+                    "201-152-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "78-87-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-152-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Dichloropropane; propylene dichloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1626",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1626",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1626",
+                    "Phenol, dodecyl-, branched [1]",
+                    "121158-58-5 [1]",
+                    "310-154-3 [1]"
+                  ],
+                  [
+                    null,
+                    "Phenol, 2-dodecyl-, branched [2]",
+                    "1801269-80-6 [2]",
+                    "- [2]"
+                  ],
+                  [
+                    null,
+                    "Phenol, 3-dodecyl-, branched [3]",
+                    "1801269-77-1 [3]",
+                    "- [3]"
+                  ],
+                  [
+                    null,
+                    "Phenol, 4-dodecyl-, branched [4]",
+                    "210555-94-5 [4]",
+                    "640-104-9 [4]"
+                  ],
+                  [
+                    null,
+                    "Phenol, (tetrapropenyl) derivatives [5]",
+                    "74499-35-7 [5]",
+                    "616-100-8 [5]"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "121158-58-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1801269-77-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1801269-80-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "210555-94-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "74499-35-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "310-154-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "616-100-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "640-104-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phenol, dodecyl-, branched [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1627",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1627",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1627",
+                    "Coumatetralyl (ISO); 4- hydroxy-3-(1,2,3,4-tetrahydro-1-naphthyl) coumarin",
+                    "5836-29-3",
+                    "227-424-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5836-29-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-424-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Coumatetralyl (ISO); 4- hydroxy-3-(1,2,3,4-tetrahydro-1-naphthyl) coumarin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1628",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1628",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1628",
+                    "Difenacoum (ISO); 3-(3- biphenyl-4-yl-1,2,3,4- tetrahydro-1-naphthyl)- 4-hydroxycoumarin",
+                    "56073-07-5",
+                    "259-978-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56073-07-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "259-978-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Difenacoum (ISO); 3-(3- biphenyl-4-yl-1,2,3,4- tetrahydro-1-naphthyl)- 4-hydroxycoumarin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1629",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1629",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1629",
+                    "Brodifacoum (ISO); 4-hydroxy-3-(3-(4′-bromo-4-biphenylyl)-1,2,3,4-tetrahydro-1-naphthyl)coumarin",
+                    "56073-10-0",
+                    "259-980-5"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56073-10-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "259-980-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Brodifacoum (ISO); 4-hydroxy-3-(3-(4′-bromo-4-biphenylyl)-1,2,3,4-tetrahydro-1-naphthyl)coumarin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1630",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1630",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1630",
+                    "Flocoumafen (ISO); reaction mass of: cis-4- hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin and trans-4-hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin",
+                    "90035-08-8",
+                    "421-960-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90035-08-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "421-960-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Flocoumafen (ISO); reaction mass of: cis-4- hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin and trans-4-hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1631",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1631",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1631",
+                    "Acetochlor (ISO); 2- chloro-N-(ethoxymethyl)-N-(2-ethyl-6- methylphenyl)acetamide",
+                    "34256-82-1",
+                    "251-899-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "34256-82-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-899-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acetochlor (ISO); 2- chloro-N-(ethoxymethyl)-N-(2-ethyl-6- methylphenyl)acetamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1632",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1632",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1632",
+                    "e-Glass microfibres of representative composition",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "e-Glass microfibres of representative composition"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1633",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1633",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1633",
+                    "Glass microfibres of representative composition",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Glass microfibres of representative composition"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1634",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1634",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1634",
+                    "Bromadiolone (ISO); 3- [3-(4′-bromobiphenyl- 4-yl)-3-hydroxy-1-phenylpropyl]-4-hydroxy- 2H-chromen-2-one",
+                    "28772-56-7",
+                    "249-205-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "28772-56-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-205-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bromadiolone (ISO); 3- [3-(4′-bromobiphenyl- 4-yl)-3-hydroxy-1-phenylpropyl]-4-hydroxy- 2H-chromen-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1635",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1635",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1635",
+                    "Difethialone (ISO); 3-[3-(4′-bromobiphenyl-4-yl)-1,2,3,4-tetrahydronaphthalen-1-yl]- 4-hydroxy-2H-1-benzothiopyran-2-one",
+                    "104653-34-1",
+                    "600-594-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "104653-34-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "600-594-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Difethialone (ISO); 3-[3-(4′-bromobiphenyl-4-yl)-1,2,3,4-tetrahydronaphthalen-1-yl]- 4-hydroxy-2H-1-benzothiopyran-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1636",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1636",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1636",
+                    "Perfluorononan-1-oic acid [1]",
+                    "375-95-1 [1]",
+                    "206-801-3 [1]"
+                  ],
+                  [
+                    null,
+                    "and its sodium [2]",
+                    "21049-39-8 [2]",
+                    "- [2]"
+                  ],
+                  [
+                    null,
+                    "and ammonium [3] salts",
+                    "4149-60-4 [3]",
+                    "- [3]"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "21049-39-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "375-95-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "4149-60-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-801-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorononan-1-oic acid [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1637",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1637",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1637",
+                    "Dicyclohexyl phthalate",
+                    "84-61-7",
+                    "201-545-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-61-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-545-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dicyclohexyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1638",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1638",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1638",
+                    "3,7-Dimethylocta-2,6- dienenitrile",
+                    "5146-66-7",
+                    "225-918-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5146-66-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "225-918-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,7-Dimethylocta-2,6- dienenitrile"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1639",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1639",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1639",
+                    "Bupirimate (ISO); 5-butyl-2-ethylamino-6- methylpyrimidin-4-yl dimethylsulfamate",
+                    "41483-43-6",
+                    "255-391-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "41483-43-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "255-391-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bupirimate (ISO); 5-butyl-2-ethylamino-6- methylpyrimidin-4-yl dimethylsulfamate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1640",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1640",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1640",
+                    "Triflumizole (ISO); (1E)-N-[4-chloro-2-(trifluoromethyl)phenyl]-1- (1H-imidazol-1-yl)-2- propoxyethanimine",
+                    "68694-11-1",
+                    "604-708-8"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68694-11-1"
+                  }
+                ],
+                "failed_check_digits": 1,
+                "name": "Triflumizole (ISO); (1E)-N-[4-chloro-2-(trifluoromethyl)phenyl]-1- (1H-imidazol-1-yl)-2- propoxyethanimine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1641",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1641",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1641",
+                    "tert-Butyl hydroperoxide",
+                    "75-91-2",
+                    "200-915-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-91-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-915-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "tert-Butyl hydroperoxide"
+              }
+            }
+          ],
+          "unchanged": 1607,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -211,6 +1426,169 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "9",
+                    "Methylphenylenediamines, their N-substituted derivatives and their salts\n with the exception of the substances under reference numbers 9a and 9b of this Annex and substances under reference numbers 364, 1310 and 1313 in Annex II",
+                    "",
+                    "",
+                    "",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) General use",
+                    "(a) To be printed on the label:\nThe mixing ratio.\nHair colourants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past.\nContains phenylenediamines (toluenediamines).\nDo not use to dye eyelashes or eyebrows."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Professional use\nFor (a) and (b): After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 5 % calculated as free base",
+                    "(b) To be printed on the label:\nThe mixing ratio.\nFor professional use only\nHair colourants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past.\nContains phenylenediamines (toluenediamines).\nWear suitable gloves."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Methylphenylenediamines, their N-substituted derivatives and their salts"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "9",
+                    "Methylphenylenediamines, their N- substituted derivatives and their salts\n, with the exception of the substance listed under reference numbers 9 a and 9 b of this Annex and the substances listed under reference numbers 364, 413, 1144, 1310, 1313 and 1507 of Annex II",
+                    "",
+                    "",
+                    "",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) General use",
+                    "(a) To be printed on the label:\nThe mixing ratio.\nHair colourants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past.\nContains phenylenediamines (toluenediamines).\nDo not use to dye eyelashes or eyebrows."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Professional use",
+                    "(b) To be printed on the label:"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "For (a) and (b):\nAfter mixing under oxidative conditions the maximum concentration applied to hair must not exceed 5 % calculated as free base",
+                    "The mixing ratio.\nFor professional use only. Hair colourants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past.\nContains phenylenediamines (toluenediamines).\nWear suitable gloves."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Methylphenylenediamines, their N- substituted derivatives and their salts"
+              }
+            }
+          ],
+          "unchanged": 321,
+          "whitespace_only": 0,
+          "unpaired": [
+            {
+              "container": "AN III",
+              "table": 1,
+              "key": "51"
+            }
+          ],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -702,6 +2080,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 2,
       "repaired": 2,
       "remaining": 0,
