@@ -26,6 +26,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN III` · *amended by* `32026R1120`
 
+Table entries: 12 added, 0 amended, 0 removed: No 145, No 146, No 147, No 148, No 149, No 150, No 151, No 152, No 153, No 154 and 2 more
+
 The AFTER text adds twelve new numbered entries (145 through 156) to the table of co-formulants not accepted for inclusion in plant protection products, listing substances such as acetaldehyde, propylene oxide, cumene, several cyclosiloxanes, bumetrizole, a further petroleum distillate, a quaternary ammonium chloride compound, a perfluoroalkyl phosphinic acid derivative, 1,4-dioxane and a propionaldehyde derivative, each with its associated names, CAS/EC numbers and classification or property. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20260616#anx_III)
 
 All 144 entries present in the BEFORE version remain unchanged in content and order in the AFTER version. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20221121#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1107-20260616#anx_III)

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,511 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "No",
+                  "Name",
+                  "EC names/Other names",
+                  "CAS number",
+                  "EC number",
+                  "Classification/Other properties"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "145",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "145",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "145.",
+                    "Acetaldehyde",
+                    "Ethanal",
+                    "75-07-0",
+                    "200-836-8",
+                    "Carcinogenic cat. 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-07-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-836-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acetaldehyde"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "146",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "146",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "146.",
+                    "Propylene oxide",
+                    "1,2-epoxypropane;\nmethyloxirane",
+                    "75-56-9",
+                    "200-879-2",
+                    "Carcinogenic cat. 1B/\nMutagenic cat. 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-56-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-879-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propylene oxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "147",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "147",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "147.",
+                    "Cumene",
+                    "(1-Methylethyl)benzene",
+                    "98-82-8",
+                    "202-704-5",
+                    "Carcinogenic cat. 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "98-82-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-704-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cumene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "148",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "148",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "148.",
+                    "Dodecamethylcyclohexasiloxane; (D6)",
+                    "",
+                    "540-97-6",
+                    "208-762-8",
+                    "Persistent, bioaccumulative and toxic (REACH Article 57(d);\nVery persistent and very bioaccumulative (REACH Article 57(e)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "540-97-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-762-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dodecamethylcyclohexasiloxane; (D6)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "149",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "149",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "149.",
+                    "Decamethylcyclopentasiloxane; (D5)",
+                    "",
+                    "541-02-6",
+                    "208-764-9",
+                    "Persistent, bioaccumulative and toxic (REACH Article 57(d);\nVery persistent and very bioaccumulative (REACH Article 57(e)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "541-02-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-764-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Decamethylcyclopentasiloxane; (D5)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "150",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "150",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "150.",
+                    "Octamethylcyclotetrasiloxane; (D4)",
+                    "",
+                    "556-67-2",
+                    "209-136-7",
+                    "Persistent, bioaccumulative and toxic (REACH Article 57(d);\nVery persistent and very bioaccumulative (REACH Article 57(e)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "556-67-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-136-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Octamethylcyclotetrasiloxane; (D4)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "151",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "151",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "151.",
+                    "2-(2'-hydroxy-3'-tert-butyl-5'-methylphenyl)-5-chlorobenzotriazole",
+                    "Bumetrizole",
+                    "3896-11-5",
+                    "223-445-4",
+                    "Very persistent and very bioaccumulative (REACH Article 57(e)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3896-11-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-445-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(2'-hydroxy-3'-tert-butyl-5'-methylphenyl)-5-chlorobenzotriazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "152",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "152",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "152.",
+                    "Distillates (petroleum) solvent-dewaxed light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)",
+                    "",
+                    "64742-56-9",
+                    "265-159-2",
+                    "Carcinogenic cat. 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64742-56-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-159-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Distillates (petroleum) solvent-dewaxed light paraffinic with a content of ≥ 3,0 % DMSO-extract (measured by IP 346)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "153",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "153",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "153.",
+                    "3,5,7-Triaza-1-azoniatricyclo[3.3.1.1 3,7] decane,1-(3-chloro-2-propen-1-yl)-, chloride",
+                    "Methenamine\n3-chloroallylochloride\n(CTAC)",
+                    "4080-31-3",
+                    "223-805-0",
+                    "Not approved for use in biocidal products for product-type 6 (preservatives for products during storage)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4080-31-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-805-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,5,7-Triaza-1-azoniatricyclo[3.3.1.1 3,7] decane,1-(3-chloro-2-propen-1-yl)-, chloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "154",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "154",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "154.",
+                    "Phosphinic acid, bis(perfluoro-C6-12-alkyl) derivatives",
+                    "",
+                    "68412-69-1",
+                    "270-206-5",
+                    "Persistent organic pollutant (POP)"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68412-69-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "270-206-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phosphinic acid, bis(perfluoro-C6-12-alkyl) derivatives"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "155",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "155",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "155.",
+                    "1,4-dioxane",
+                    "",
+                    "123-91-1",
+                    "204-661-8",
+                    "Carcinogenic cat. 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "123-91-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-661-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,4-dioxane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "156",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "156",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "156.",
+                    "2-(4-tert-butylbenzyl)propionaldehyde",
+                    "",
+                    "80-54-6",
+                    "201-289-8",
+                    "Toxic to reproduction cat.1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "80-54-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-289-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(4-tert-butylbenzyl)propionaldehyde"
+              }
+            }
+          ],
+          "unchanged": 144,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -262,6 +767,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
