@@ -908,7 +908,7 @@ Part A of Annex I gains an entirely new entry for Perfluorooctanoic acid (PFOA),
 ### `32019R1021` → `02019R1021-20190625`
 
 - **Act** `eu:32019R1021` · **In force** not stated · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **0 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 27 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32019R1021` · `v2` = `02019R1021-20190625`
@@ -918,6 +918,8 @@ Part A of Annex I gains an entirely new entry for Perfluorooctanoic acid (PFOA),
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I`
+
+Table entries: 1 added, 5 amended, 1 removed: "1 Hexabromocyclododecane", "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE)", "Heptabromodiphenyl ether", "Hexabromocyclododecane", "Hexabromodiphenyl ether", "Pentabromodiphenyl ether", "Tetrabromodiphenyl ether"
 
 References to Directive 2011/65/EC in the entries for tetra-, penta-, hexa- and heptabromodiphenyl ether and decaBDE were corrected to Directive 2011/65/EU, and lowercase forms of the substance names replaced some initial-capitalised forms in those entries. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R1021#anx_I)
 

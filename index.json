@@ -772,7 +772,7 @@
       "key": "32019R1021",
       "title": "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)",
       "index": "eu/32019R1021/index.json",
-      "index_sha256": "4da37242dc28c81c3007fc7c0a41d6b9115270d491e737a7a49f665b28b4c0a8",
+      "index_sha256": "2e4f0c7e9e9d7d2c1c3b8fe3a3f47cf5607ceb951d8dad3b9df8314c23d83f49",
       "events": 15,
       "changes": 23,
       "provisions": 10,
@@ -780,7 +780,7 @@
       "newest_version": "02019R1021-20260930",
       "newest_in_force": "2026-09-30",
       "first_detected_on": "2026-09-04",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-10-17"
     },
     {
       "corpus": "eu",
