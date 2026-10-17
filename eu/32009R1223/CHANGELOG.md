@@ -2847,6 +2847,8 @@ A new condition was added to entry 4 limiting use to not more than 0,5 % when th
 
 *within* `AN V` · *amended by* `32017R1224`
 
+Table entries: 0 added, 1 amended, 0 removed: Reference number 57
+
 In entry 57, the maximum concentration allowed for Methylisothiazolinone in rinse-off products was changed from 0,01 % to 0,0015 %. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170303#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_V)
 
 *before* (`02009R1223-20170303`)
