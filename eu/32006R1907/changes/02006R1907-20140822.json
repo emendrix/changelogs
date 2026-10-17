@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,413 @@
         "changed_within": [
           "AN XIV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XIV",
+              "container": "AN XIV",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Entry Nr",
+                  "Substance",
+                  "Intrinsic property(ies) referred to in Article 57",
+                  "Transitional arrangements",
+                  null,
+                  "Exempted (categories of) uses",
+                  "Review periods"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  "Latest application date\n",
+                  "Sunset date\n",
+                  null,
+                  null
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "23",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23.",
+                    "Formaldehyde, oligomeric reaction products with aniline (technical MDA)\nEC No: 500-036-1\nCAS No: 25214-70-4",
+                    "Carcinogenic\n(category 1B)",
+                    "22 February 2016",
+                    "22 August 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "25214-70-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-036-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Formaldehyde, oligomeric reaction products with aniline (technical MDA)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "24",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "24",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "24.",
+                    "Arsenic acid\nEC No: 231-901-9\nCAS No: 7778-39-4",
+                    "Carcinogenic\n(category 1A)",
+                    "22 February 2016",
+                    "22 August 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7778-39-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-901-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Arsenic acid"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "25",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "25",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "25.",
+                    "Bis(2-methoxyethyl) ether (diglyme)\nEC No: 203-924-4\nCAS No: 111-96-6",
+                    "Toxic for reproduction\n(category 1B)",
+                    "22 February 2016",
+                    "22 August 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "111-96-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-924-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-methoxyethyl) ether (diglyme)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "26",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "26",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "26.",
+                    "1,2-dichloroethane (EDC)\nEC No: 203-458-1\nCAS No: 107-06-2",
+                    "Carcinogenic\n(category 1B)",
+                    "22 May 2016",
+                    "22 November 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "107-06-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-458-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-dichloroethane (EDC)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "27",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "27",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27.",
+                    "2,2′-dichloro-4,4′-methylenedianiline (MOCA)\nEC No: 202-918-9\nCAS No: 101-14-4",
+                    "Carcinogenic\n(category 1B)",
+                    "22 May 2016",
+                    "22 November 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-14-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-918-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,2′-dichloro-4,4′-methylenedianiline (MOCA)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "28",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28.",
+                    "Dichromium tris(chromate)\nEC No: 246-356-2\nCAS No: 24613-89-6",
+                    "Carcinogenic\n(category 1B)",
+                    "22 July 2017",
+                    "22 January 2019",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "24613-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-356-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dichromium tris(chromate)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "29",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "29",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "29.",
+                    "Strontium chromate\nEC No: 232-142-6\nCAS No: 7789-06-2",
+                    "Carcinogenic\n(category 1B)",
+                    "22 July 2017",
+                    "22 January 2019",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7789-06-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-142-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Strontium chromate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "30",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "30",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "30.",
+                    "Potassium hydroxyoctaoxodizincatedichromate\nEC No: 234-329-8\nCAS No: 11103-86-9",
+                    "Carcinogenic\n(category 1A)",
+                    "22 July 2017",
+                    "22 January 2019",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "11103-86-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-329-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Potassium hydroxyoctaoxodizincatedichromate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "31",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "31",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "31.",
+                    "Pentazinc chromate octahydroxide\nEC No: 256-418-0\nCAS No: 49663-84-5",
+                    "Carcinogenic\n(category 1A)",
+                    "22 July 2017",
+                    "22 January 2019",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "49663-84-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "256-418-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentazinc chromate octahydroxide"
+              }
+            }
+          ],
+          "unchanged": 22,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -175,6 +582,505 @@
           "AN XVII APP 2",
           "AN XVII APP 6"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "015-200-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "015-200-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Indium phosphide",
+                    "015-200-00-3",
+                    "244-959-5",
+                    "22398-80-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "22398-80-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "244-959-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "015-200-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Indium phosphide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "015-201-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "015-201-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Trixylyl phosphate",
+                    "015-201-00-9",
+                    "246-677-8",
+                    "25155-23-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "25155-23-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-677-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "015-201-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trixylyl phosphate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-624-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-624-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctane sulfonic acid;",
+                    "607-624-00-8",
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    "Heptadecafluorooctane-1-sulfonic acid; [1]",
+                    null,
+                    "217-179-8 [1]",
+                    "1763-23-1 [1]",
+                    null
+                  ],
+                  [
+                    "Potassium perfluorooctanesulfonate;",
+                    null,
+                    "",
+                    "",
+                    null
+                  ],
+                  [
+                    "Potassium heptadecafluorooctane-1-sulfonate; [2]",
+                    null,
+                    "220-527-1 [2]",
+                    "2795-39-3 [2]",
+                    null
+                  ],
+                  [
+                    "Diethanolamine perfluorooctane sulfonate; [3]",
+                    null,
+                    "274-460-8 [3]",
+                    "70225-14-8 [3]",
+                    null
+                  ],
+                  [
+                    "Ammonium perfluorooctane sulfonate;",
+                    null,
+                    "",
+                    "",
+                    null
+                  ],
+                  [
+                    "Ammonium heptadecafluorooctanesulfonate; [4]",
+                    null,
+                    "249-415-0 [4]",
+                    "29081-56-9 [4]",
+                    null
+                  ],
+                  [
+                    "Lithium perfluorooctane sulfonate;",
+                    null,
+                    "",
+                    "",
+                    null
+                  ],
+                  [
+                    "Lithium heptadecafluorooctanesulfonate; [5]",
+                    null,
+                    "249-644-6 [5]",
+                    "29457-72-5 [5]",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1763-23-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2795-39-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29081-56-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29457-72-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "70225-14-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-179-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-527-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-415-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-644-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-460-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-624-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctane sulfonic acid;"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-624-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctane sulfonic acid;",
+                    "607-624-00-8",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "607-624-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctane sulfonic acid;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-698-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-698-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-tert-butylbenzoic acid",
+                    "607-698-00-1",
+                    "202-696-3",
+                    "98-73-7",
+                    ""
+                  ],
+                  [
+                    "Heptadecafluorooctane-1-sulfonic acid; [1]",
+                    null,
+                    "217-179-8 [1]",
+                    "1763-23-1 [1]",
+                    null
+                  ],
+                  [
+                    "Potassium perfluorooctanesulfonate;",
+                    null,
+                    "",
+                    "",
+                    null
+                  ],
+                  [
+                    "Potassium heptadecafluorooctane-1-sulfonate; [2]",
+                    null,
+                    "220-527-1 [2]",
+                    "2795-39-3 [2]",
+                    null
+                  ],
+                  [
+                    "Diethanolamine perfluorooctane sulfonate; [3]",
+                    null,
+                    "274-460-8 [3]",
+                    "70225-14-8 [3]",
+                    null
+                  ],
+                  [
+                    "Ammonium perfluorooctane sulfonate;",
+                    null,
+                    "",
+                    "",
+                    null
+                  ],
+                  [
+                    "Ammonium heptadecafluorooctanesulfonate; [4]",
+                    null,
+                    "249-415-0 [4]",
+                    "29081-56-9 [4]",
+                    null
+                  ],
+                  [
+                    "Lithium perfluorooctane sulfonate;",
+                    null,
+                    "",
+                    "",
+                    null
+                  ],
+                  [
+                    "Lithium heptadecafluorooctanesulfonate; [5]",
+                    null,
+                    "249-644-6 [5]",
+                    "29457-72-5 [5]",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1763-23-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2795-39-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29081-56-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29457-72-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "70225-14-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "98-73-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-696-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-179-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-527-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-415-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-644-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-460-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-698-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-tert-butylbenzoic acid"
+              }
+            }
+          ],
+          "unchanged": 1685,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -359,6 +1265,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 2,
       "repaired": 2,
       "remaining": 0,

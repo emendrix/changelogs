@@ -3268,6 +3268,8 @@ The revised text also states that two-generation reproductive toxicity studies i
 
 *within* `AN XIV` · *dates* +2016-02-22 +2016-05-22 +2017-07-22 +2017-08-22 +2017-11-22 +2019-01-22 · *amended by* `32014R0895`
 
+Table entries: 9 added, 0 amended, 0 removed: Entry 23, Entry 24, Entry 25, Entry 26, Entry 27, Entry 28, Entry 29, Entry 30, Entry 31
+
 The later text adds nine new entries (numbers 23 through 31) covering substances including technical MDA, arsenic acid, bis(2-methoxyethyl) ether, 1,2-dichloroethane, MOCA, dichromium tris(chromate), strontium chromate, potassium hydroxyoctaoxodizincatedichromate and pentazinc chromate octahydroxide, each with its own intrinsic property, latest application date and sunset date. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
 
 The entry for Hexabromocyclododecane (HBCDD) has its latest application date and sunset date changed from 21 February 2013 and 21 August 2014 to 21 February 2014 and 21 August 2015. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140822#anx_XIV)
@@ -3385,6 +3387,8 @@ The entry for Hexabromocyclododecane (HBCDD) has its latest application date and
 *within* `AN XVII APP 2`, `AN XVII APP 6`
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
+
+Table entries: 3 added, 1 amended, 0 removed: Index No 015-200-00-3, Index No 015-201-00-9, Index No 607-624-00-8, Index No 607-698-00-1
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
