@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,184 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "32",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "32",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "32",
+                    "1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one",
+                    "Climbazole",
+                    "38083-17-9",
+                    "253-775-4",
+                    "",
+                    "0,5 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "38083-17-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-775-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "32",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "32",
+                    "1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one\n",
+                    "Climbazole",
+                    "38083-17-9",
+                    "253-775-4",
+                    "(a) Hair lotions\n(b) Face creams\n(c) Foot care products\n(d) Rinse-off shampoo\n",
+                    "(a) 0,2 %\n(b) 0,2 %\n(c) 0,2 %\n(d) 0,5 %\n",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "38083-17-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-775-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "60",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "60",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "60",
+                    "4-(3-ethoxy-4-hydroxyphenyl)butan-2-one",
+                    "Hydroxyethoxyphenyl Butanone",
+                    "569646-79-3",
+                    "933-435-8",
+                    "",
+                    "0,7 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "569646-79-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "933-435-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-(3-ethoxy-4-hydroxyphenyl)butan-2-one"
+              }
+            }
+          ],
+          "unchanged": 60,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -95,7 +273,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -193,6 +372,174 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "27a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "27a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27a",
+                    "Titanium dioxide\n",
+                    "Titanium Dioxide (nano)",
+                    "13463-67-7/\n1317-70-0/\n1317-80-2",
+                    "236-675-5/\n215-280-1/\n215-282-2",
+                    "",
+                    "25 %\n",
+                    "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation\nOnly nanomaterials having the following characteristics are allowed:\npurity ≥ 99 %,\nrutile form, or rutile with up to 5 % anatase, with crystalline structure and physical appearance as clusters of spherical, needle, or lanceolate shapes,\nmedian particle size based on number size distribution ≥ 30 nm,\naspect ratio from 1 to 4,5, and volume specific surface area ≤ 460 m2/cm3,\ncoated with Silica, Hydrated Silica, Alumina, Aluminium Hydroxide, Aluminium Stearate, Stearic Acid, Trimethoxycaprylylsilane, Glycerin, Dimethicone, Hydrogen Dimethicone, Simethicone;\nphotocatalytic activity ≤ 10 % compared to corresponding non-coated or non-doped reference,\nnanoparticles are photostable in the final formulation.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-70-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1317-80-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13463-67-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-280-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-282-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "27a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27a",
+                    "Titanium dioxide\n",
+                    "Titanium Dioxide (nano)",
+                    "13463-67-7/1317-70-0/1317-80-2",
+                    "236-675-5/215-280-1/215-282-2",
+                    "",
+                    "25 %\n",
+                    "Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation.\nOnly nanomaterials having the following characteristics are allowed:\npurity ≥ 99 %,\nrutile form, or rutile with up to 5 % anatase, with crystalline structure and physical appearance as clusters of spherical, needle, or lanceolate shapes,\nmedian particle size based on number size distribution ≥ 30 nm,\naspect ratio from 1 to 4,5, and volume specific surface area ≤ 460 m2/cm3,\ncoated with Silica, Hydrated Silica, Alumina, Aluminium Hydroxide, Aluminium Stearate, Stearic Acid, Trimethoxycaprylylsilane, Glycerin, Dimethicone, Hydrogen Dimethicone, Simethicone,\nor coated with one of the following combinations:\nSilica at a maximum concentration of 16 % and Cetyl Phosphate at a maximum concentration of 6 %,\nAlumina at a maximum concentration of 7 % and Manganese Dioxide at a maximum concentration of 0,7 % (not to be used in lip products),\nAlumina at a maximum concentration of 3 % and Triethoxycaprylylsilane at a maximum concentration of 9 %,\nphotocatalytic activity ≤ 10 % compared to corresponding non-coated or non-doped reference,\nnanoparticles are photostable in the final formulation.",
+                    "For face products containing Titanium Dioxide (nano) coated with the combination Alumina and Manganese Dioxide:\nNot to be used on the lips."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-70-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1317-80-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13463-67-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-280-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-282-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              }
+            }
+          ],
+          "unchanged": 33,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -227,7 +574,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -379,7 +727,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -427,6 +776,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

@@ -2116,6 +2116,8 @@ The remainder of the visible text, including the truncated portion, appears unch
 
 *within* `AN V` · *dates* +2019-11-27 +2020-02-27 · *amended by* `32019R1858`, `32019R0698`
 
+Table entries: 1 added, 1 amended, 0 removed: Reference number 32, Reference number 60
+
 The preamble gains two new notes tied to entry 32, one cross-referencing Annex III entry 310 and the other giving two dates, 27 November 2019 and 27 February 2020, concerning cosmetic products containing 1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one that do not comply with the stated conditions. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191127#anx_V)
 
 Entry 32 itself is rewritten from a single unrestricted 0,5% maximum concentration for Climbazole into four separate product-type rows (hair lotions, face creams, foot care products, and rinse-off shampoo) each with its own maximum concentration of 0,2% or 0,5%. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20190813#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191127#anx_V)
@@ -2171,6 +2173,8 @@ A new entry 60 for Hydroxyethoxyphenyl Butanone is added at the end of the list,
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32019R1857`
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 27a
 
 The entry for Titanium Dioxide (nano) under reference number 27a now lists three additional permitted coating combinations, each specifying maximum concentrations of the coating substances, alongside the previously listed coating agents. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191127#anx_VI)
 
