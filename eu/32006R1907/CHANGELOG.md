@@ -3213,6 +3213,8 @@ The revised text also states that two-generation reproductive toxicity studies i
 
 *within* `AN XVII APP 2`, `AN XVII APP 6` · *amended by* `32014R0317`
 
+Table entries: 7 added, 0 amended, 0 removed: Index No 031-001-00-4, Index No 050-027-00-7, Index No 607-702-00-1, Index No 607-703-00-7, Index No 607-704-00-2, Index No 609-003-00-7, Index No 616-208-00-5
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20140822`)

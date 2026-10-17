@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -53,6 +53,435 @@
           "AN XVII APP 2",
           "AN XVII APP 6"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "031-001-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "031-001-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Gallium arsenide",
+                    "031-001-00-4",
+                    "215-114-8",
+                    "1303-00-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1303-00-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-114-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "031-001-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Gallium arsenide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "050-027-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "050-027-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate",
+                    "050-027-00-7",
+                    "239-622-4",
+                    "15571-58-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15571-58-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-622-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "050-027-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-702-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-702-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dihexyl phthalate",
+                    "607-702-00-1",
+                    "201-559-5",
+                    "84-75-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-75-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-559-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-702-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dihexyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-703-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-703-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Ammoniumpentadecafluorooctanoate",
+                    "607-703-00-7",
+                    "223-320-4",
+                    "3825-26-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3825-26-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-320-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-703-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ammoniumpentadecafluorooctanoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-704-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-704-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid",
+                    "607-704-00-2",
+                    "206-397-9",
+                    "335-67-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-704-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "609-003-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "609-003-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Nitrobenzene",
+                    "609-003-00-7",
+                    "202-716-0",
+                    "98-95-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "98-95-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-716-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "609-003-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nitrobenzene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "616-208-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "616-208-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "N-ethyl-2-pyrrolidone; 1-ethylpyrrolidin-2-one",
+                    "616-208-00-5",
+                    "220-250-6",
+                    "2687-91-4",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2687-91-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-250-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-208-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N-ethyl-2-pyrrolidone; 1-ethylpyrrolidin-2-one"
+              }
+            }
+          ],
+          "unchanged": 1688,
+          "whitespace_only": 0,
+          "unpaired": [
+            {
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-175-00-9"
+            }
+          ],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -222,6 +651,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
