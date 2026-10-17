@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,7 @@
         "changed_within": [
           "AN I SCT 2 SCT 2.15 SCT 2.15.2"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -115,6 +116,78 @@
           "AN VI SCT 1 SCT 1.2 SCT 1.2.4",
           "AN VI SCT 3"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "International Chemical Identification",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  null,
+                  "Labelling",
+                  null,
+                  null,
+                  "Specific Conc. Limits, M-factors",
+                  "Notes"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Hazard Class and Category Code(s)",
+                  "Hazard statement Code(s)",
+                  "Pictogram, Signal Word Code(s)",
+                  "Hazard statement Code(s)",
+                  "Suppl. Hazard statement Code(s)",
+                  "",
+                  ""
+                ]
+              ]
+            },
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 2,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "International Chemical Identification",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  "Labelling",
+                  "Concentration Limits",
+                  "Notes"
+                ]
+              ]
+            }
+          ],
+          "changes": [],
+          "unchanged": 8410,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -527,6 +600,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 2,
       "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

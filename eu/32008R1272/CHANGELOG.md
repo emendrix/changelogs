@@ -5364,6 +5364,8 @@ The entry for C; R34 changes its corresponding classification from Skin Corr. 1B
 
 *within* `AN VI`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.3`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2`, `AN VI SCT 1 SCT 1.2`, `AN VI SCT 1 SCT 1.2 SCT 1.2.1`, `AN VI SCT 1 SCT 1.2 SCT 1.2.2`, `AN VI SCT 1 SCT 1.2 SCT 1.2.3`, `AN VI SCT 1 SCT 1.2 SCT 1.2.4`, `AN VI SCT 3` · *amended by* `32017R0776`
 
+Table entries: none changed.
+
 The introductory text now refers to a single Table 3 rather than distinguishing Table 3.1 and Table 3.2, and references to Community level and Community-level dossiers in the introductory wording have become Union level in the corresponding places. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI)
 
 Section 1.1.2.3 has been retitled to add Acute Toxicity Estimates (ATE) alongside specific concentration limits and M-factors, and its text now describes harmonised ATE values being listed and used together with SCLs, including a reference to the additivity formula in section 3.1.3.6 of Annex I, replacing the prior wording about an asterisk marking specific concentration limits for acute toxicity under Directive 67/548/EEC. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20170601#anx_VI)
