@@ -556,6 +556,8 @@ The body of the Annex, including the numbered entries and their conditions of re
 
 *within* `AN XVII`, `AN XVII APP 14` · *dates* +2012-05-22 +2026-08-06 +2027-08-06 · *amended by* `32023R1464`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 77
+
 The list of source directives and regulations cited in the introductory material of the Annex has been extended to include Regulation (EU) No 528/2012 of 22 May 2012 concerning the making available on the market and use of biocidal products, which does not appear in the earlier text. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20230806#anx_XVII)
 
 The remainder of the Annex, including the numbered entries and their conditions of restriction shown here, reads identically in both versions as far as the visible text extends. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20230629#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20230806#anx_XVII)

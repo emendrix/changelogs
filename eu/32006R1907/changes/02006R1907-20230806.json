@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -53,6 +53,215 @@
           "AN XVII",
           "AN XVII APP 14"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "77",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "77",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "77. Formaldehyde\nCAS No 50-00-0\nEC No 200-001-8\nand formaldehyde-releasing substances",
+                    "1. Shall not be placed on the market in articles, after 6 August 2026, if, under the test conditions specified in Appendix 14, the concentration of formaldehyde released from those articles exceeds:\n(a) 0,062 mg/m3 for furniture and wood-based articles;\n(b) 0,080 mg/m3 for articles other than furniture and wood-based articles.\nThe first subparagraph shall not apply to:\n(a) articles in which formaldehyde or formaldehyde releasing substances are exclusively naturally present in the materials from which the articles are produced;\n(b) articles that are exclusively for outdoor use under foreseeable conditions;\n(c) articles in constructions, that are exclusively used outside the building shell and vapour barrier and that do not emit formaldehyde into indoor air;\n(d) articles exclusively for industrial or professional use unless formaldehyde released from them leads to exposure of the general public under foreseeable conditions of use;\n(e) articles for which the restriction laid down in entry 72 applies;\n(f) articles that are biocidal products within the scope of Regulation (EU) No 528/2012 of the European Parliament and of the Council\n;\n(g) devices within the scope of Regulation (EU) 2017/745;\n(h) personal protective equipment within the scope of Regulation (EU) 2016/425;\n(i) articles intended to come into contact directly or indirectly with food within the scope of Regulation (EC) No 1935/2004;\n(j) second-hand articles.\n2. Shall not be placed on the market in road vehicles after 6 August 2027 if, under the test conditions specified in Appendix 14, the concentration of formaldehyde in the interior of those vehicles exceeds 0,062 mg/m3.\nThe first subparagraph shall not apply to:\n(a) road vehicles exclusively for industrial or professional use unless the concentration of formaldehyde in the interior of those vehicles leads to exposure of the general public under foreseeable conditions of use;\n(b) second-hand vehicles.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "50-00-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-001-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Formaldehyde"
+              }
+            }
+          ],
+          "unchanged": 1930,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -312,6 +521,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
