@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -54,6 +54,267 @@
           "AN XVII APP 4",
           "AN XVII APP 6"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key": "648-055-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "648-055-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pitch, coal tar, high-temp.;\n(The residue from the distillation of high temperature coal tar. A black solid with an approximate softening point from 30 °C to 180 °C (86 °F to 356 °F). Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.)",
+                    "648-055-00-5",
+                    "266-028-2",
+                    "65996-93-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-93-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-028-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-055-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pitch, coal tar, high-temp.;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "648-055-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "648-055-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pitch, coal tar, high-temp.;\n(The residue from the distillation of high temperature coal tar. A black solid with an approximate softening point from 30 °C to 180 °C (86 °F to 356 °F). Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.)",
+                    "648-055-00-5",
+                    "266-028-2",
+                    "65996-93-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-93-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-028-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-055-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pitch, coal tar, high-temp.;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "648-055-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "648-055-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pitch, coal tar, high-temp.;\n(The residue from the distillation of high temperature coal tar. A black solid with an approximate softening point from 30 °C to 180 °C (86 °F to 356 °F). Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.)",
+                    "648-055-00-5",
+                    "266-028-2",
+                    "65996-93-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-93-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-028-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-055-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pitch, coal tar, high-temp.;"
+              }
+            }
+          ],
+          "unchanged": 1699,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -245,6 +506,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

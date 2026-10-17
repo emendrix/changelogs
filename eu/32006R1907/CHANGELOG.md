@@ -2836,6 +2836,8 @@ In sections 8.5 and 8.5.3, references to "classified as corrosive to the skin" a
 
 *within* `AN XVII APP 1`, `AN XVII APP 4`, `AN XVII APP 6` · *amended by* `32014R0317`
 
+Table entries: 3 added, 0 amended, 0 removed: Index No 648-055-00-5, Index No 648-055-00-5, Index No 648-055-00-5
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20160308`)
