@@ -6662,6 +6662,8 @@ In section 2.3, the entry for skin sensitisation under Section 3.4 had a duplica
 
 *within* `AN VI SCT 3`
 
+Table entries: 45 added, 32 amended, 0 removed: Index No 015-004-00-8, Index No 015-005-00-3, Index No 015-123-00-5, Index No 030-012-00-1, Index No 031-001-00-4, Index No 050-025-00-6, Index No 050-026-00-1, Index No 050-027-00-7, Index No 601-087-00-3, Index No 602-006-00-4 and 67 more
+
 Both versions list the same long Table 3.1 of harmonised classification and labelling entries in Annex VI, but the after text adds further entries after the calcium carbide line, including a new row for thiram (ISO); tetramethylthiuram disulphide, and also adds a Note T marking to the calcium carbide entry that was absent before. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VI)
 
 Because both provided texts are truncated before the table concludes, only these additions up to the visible cut-off can be described, and any further differences beyond that point cannot be determined. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VI)
