@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,182 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "74",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "74",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "74. Diisocyanates, O = C=N-R-N = C=O, with R an aliphatic or aromatic hydrocarbon unit of unspecified length",
+                    "1. Shall not be used as substances on their own, as a constituent in other substances or in mixtures for industrial and professional use(s) after 24 August 2023, unless:\n(a) the concentration of diisocyanates individually and in combination is less than 0,1 % by weight, or\n(b) the employer or self-employed ensures that industrial or professional user(s) have successfully completed training on the safe use of diisocyanates prior to the use of the substance(s) or mixture(s).\n2. Shall not be placed on the market as substances on their own, as a constituent in other substances or in mixtures for industrial and professional use(s) after 24 February 2022, unless:\n(a) the concentration of diisocyanates individually and in combination is less than 0,1 % by weight, or\n(b) the supplier ensures that the recipient of the substance(s) or mixture(s) is provided with information on the requirements referred to in point (b) of paragraph 1 and the following statement is placed on the packaging, in a manner that is visibly distinct from the rest of the label information: As from 24 August 2023 adequate training is required before industrial or professional use.\n3. For the purpose of this entry industrial and professional user(s) means any worker or self-employed worker handling diisocyanates on their own, as a constituent in other substances or in mixtures for industrial and professional use(s) or supervising these tasks.\n4. The training referred to in point (b) of paragraph 1 shall include the instructions for the control of dermal and inhalation exposure to diisocyanates at the workplace without prejudice to any national occupational exposure limit value or other appropriate risk management measures at national level. Such training shall be conducted by an expert on occupational safety and health with competence acquired by relevant vocational training. That training shall cover as a minimum:\n(a) the training elements in point (a) of paragraph 5 for all industrial and professional use(s).\n(b) the training elements in points (a) and (b) of paragraph 5 for the following uses:\nhandling open mixtures at ambient temperature (including foam tunnels);\nspraying in a ventilated booth;\napplication by roller;\napplication by brush;\napplication by dipping and pouring;\nmechanical post treatment (e.g. cutting) of not fully cured articles which are not warm anymore;\ncleaning and waste;\nany other uses with similar exposure through the dermal and/or inhalation route;\n(c) the training elements in points (a), (b) and (c) of paragraph 5 for the following uses:\nhandling incompletely cured articles (e.g. freshly cured, still warm);\nfoundry applications;\nmaintenance and repair that needs access to equipment;\nopen handling of warm or hot formulations (> 45 °C);\nspraying in open air, with limited or only natural ventilation (includes large industry working halls) and spraying with high energy (e.g. foams, elastomers);\nand any other uses with similar exposure through the dermal and/or inhalation route.\n5. Training elements:\n(a) general training, including on-line training, on:\nchemistry of diisocyanates;\ntoxicity hazards (including acute toxicity);\nexposure to diisocyanates;\noccupational exposure limit values;\nhow sensitisation can develop;\nodour as indication of hazard;\nimportance of volatility for risk;\nviscosity, temperature, and molecular weight of diisocyanates;\npersonal hygiene;\npersonal protective equipment needed, including practical instructions for its correct use and its limitations;\nrisk of dermal contact and inhalation exposure;\nrisk in relation to application process used;\nskin and inhalation protection scheme;\nventilation;\ncleaning, leakages, maintenance;\ndiscarding empty packaging;\nprotection of bystanders;\nidentification of critical handling stages;\nspecific national code systems (if applicable);\nbehaviour-based safety;\ncertification or documented proof that training has been successfully completed\n(b) intermediate level training, including on-line training, on:\nadditional behaviour-based aspects;\nmaintenance;\nmanagement of change;\nevaluation of existing safety instructions;\nrisk in relation to application process used;\ncertification or documented proof that training has been successfully completed\n(c) advanced training, including on-line training, on:\nany additional certification needed for the specific uses covered;\nspraying outside a spraying booth;\nopen handling of hot or warm formulations (> 45 °C);\ncertification or documented proof that training has been successfully completed\n6. The training shall comply with the provisions set by the Member State in which the industrial or professional user(s) operate. Member States may implement or continue to apply their own national requirements for the use of the substance(s) or mixture(s), as long as the minimum requirements set out in paragraphs 4 and 5 are met.\n7. The supplier referred to in point (b) of paragraph 2 shall ensure that the recipient is provided with training material and courses pursuant to paragraphs 4 and 5 in the official language(s) of the Member State(s) where the substance(s) or mixture(s) are supplied. The training shall take into consideration the specificity of the products supplied, including composition, packaging, and design.\n8. The employer or self-employed shall document the successful completion of the training referred to in paragraphs 4 and 5. The training shall be renewed at least every five years.\n9. Member States shall include in their reports pursuant to Article 117(1) the following information:\n(a) any established training requirements and other risk management measures related to the industrial and professional uses of diisocyanates foreseen in national law;\n(b) the number of cases of reported and recognised occupational asthma and occupational respiratory and dermal diseases in relation to diisocyanates;\n(c) national exposure limits for diisocyanates, if there are any;\n(d) information about enforcement activities related to this restriction.\n10. This restriction shall apply without prejudice to other Union legislation on the protection of safety and health of workers at the workplace."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Diisocyanates, O = C=N-R-N = C=O, with R an aliphatic or aromatic hydrocarbon unit of unspecified length"
+              }
+            }
+          ],
+          "unchanged": 1790,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -95,7 +271,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -176,7 +353,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -224,6 +402,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": []

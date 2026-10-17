@@ -1430,6 +1430,8 @@ Several cross-references and wording details are also updated, such as the descr
 
 *within* `AN XVII` · *dates* +2022-02-24 +2023-08-24 · *amended by* `32020R2096`, `32020R1149`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 74
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20200428`)
