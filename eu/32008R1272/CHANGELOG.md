@@ -4230,7 +4230,7 @@ The remainder of the visible text, including the substance entries themselves, i
 ### `02008R1272-20191201` → `02008R1272-20200101`
 
 - **Act** `eu:32008R1272` · **In force** 2020-01-01 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **1 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 1 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 69 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20191201` · `v2` = `02008R1272-20200101`
@@ -4301,7 +4301,9 @@ The other paragraphs of Article 29 remain unchanged between the two versions. [A
 
 *within* `AN VI SCT 3`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
+
+Table entries: 0 added, 1 amended, 0 removed: Index No 648-055-00-5
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 4,
     "substantive": 4,
     "date_only": 0,
+    "textless": 0,
     "disputed": 1,
     "quoted": 0,
     "unexplained": 1
@@ -51,6 +52,7 @@
         "changed_within": [
           "AR 25 PA 7"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -90,7 +92,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -156,6 +159,7 @@
         "changed_within": [
           "AR 29 PA 4a"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -190,7 +194,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -269,6 +274,165 @@
         "changed_within": [
           "AN VI SCT 3"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "Chemical name",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  null,
+                  "Labelling",
+                  null,
+                  null,
+                  "Specific Conc. Limits, M-factors",
+                  "Notes"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Hazard Class and\nCategory Code(s)",
+                  "Hazard statement Code(s)",
+                  "Pictogram, Signal Word Code(s)",
+                  "Hazard statement Code(s)",
+                  "Suppl. Hazard statement Code(s)",
+                  null,
+                  null
+                ]
+              ]
+            },
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 2,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "International Chemical Identification",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  "Labelling",
+                  "Concentration Limits",
+                  "Notes"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key": "648-055-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "648-055-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "648-055-00-5",
+                    "Pitch, coal tar, high-temp.; Pitch; [The residue from the distillation of high temperature coal tar. A black solid with an approximate softening point from 30 oC to 180 oC (86oF to 356oF). Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.]",
+                    "266-028-2",
+                    "65996-93-2",
+                    "Carc. 1B",
+                    "H350",
+                    "GHS08\nDgr",
+                    "H350",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-93-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-028-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-055-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pitch, coal tar, high-temp.; Pitch; [The residue from the distillation of high temperature coal tar. A black solid with an approximate softening point from 30 oC to 180 oC (86oF to 356oF). Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.]"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 1,
+                "key": "648-055-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "648-055-00-5",
+                    "Pitch, coal tar, high-temp.; [The residue from the distillation of high temperature coal tar. A black solid with an approximate softening point from 30 °C to 180 °C (86 °F to 356 °F). Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.]",
+                    "266-028-2",
+                    "65996-93-2",
+                    "Carc. 1A\nMuta. 1B\nRepr. 1B",
+                    "H350\nH340\nH360FD",
+                    "GHS08\nDgr",
+                    "H350\nH340\nH360FD",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-93-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-028-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "648-055-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pitch, coal tar, high-temp.; [The residue from the distillation of high temperature coal tar. A black solid with an approximate softening point from 30 °C to 180 °C (86 °F to 356 °F). Composed primarily of a complex mixture of three or more membered condensed ring aromatic hydrocarbons.]"
+              }
+            }
+          ],
+          "unchanged": 8457,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -295,7 +459,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -320,6 +485,7 @@
         "after": "ANNEX VIII\nHarmonised information relating to emergency health response and preventative measures\nPART A\nGENERAL REQUIREMENTS\n1. Application\n1.1. Importers and downstream users placing on the market mixtures for consumer use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.\n1.2. Importers and downstream users placing on the market mixtures for professional use, within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2021.\n1.3. Importers and downstream users placing on the market mixtures for industrial use within the meaning of Section 2.4 of Part A of this Annex, shall comply with this Annex from 1 January 2024.\n1.4. Importers and downstream users having submitted information relating to hazardous mixtures to a body appointed in accordance with Article 45(1) before the dates of applicability mentioned in Sections 1.1, 1.2 and 1.3 and which are not in accordance with this Annex, shall for those mixtures not be required to comply with this Annex until 1 January 2025.\n1.5. By way of derogation from Section 1.4, if one of the changes described in Section 4.1 of Part B of this Annex occurs before 1 January 2025, importers and downstream users shall comply with this Annex before placing that mixture, as changed, on the market.\n2. Purpose, definitions and scope\n2.1. This Annex sets out the requirements that importers and downstream users placing mixtures on the market, hereinafter submitters, shall fulfil in respect of the submission of information so that appointed bodies shall have at their disposal the information to carry out the tasks for which they are responsible under Article 45.\n2.2. This Annex shall not apply to mixtures for scientific research and development and to mixtures for product and process oriented research and development as defined in Article 3(22) of Regulation (EC) No 1907/2006.\nThis Annex shall not apply to mixtures classified only for one or more of the following hazards:\n(1) gases under pressure;\n(2) explosives (unstable explosives and Divisions 1.1 to 1.6)\n2.3. In the case of mixtures placed on the market for industrial use only, submitters may opt for a limited submission, as an alternative to general submission requirements, in accordance with Section 3.1.1 of Part B, provided that a rapid access to additional detailed product information is available in accordance with Section 1.3 of that Part.\n2.4. For the purposes of this Annex the following definitions shall apply:\n(1) Mixture for consumer use means a mixture intended to be used by consumers;\n(2) Mixture for professional use means a mixture intended to be used by professional users but not at industrial sites;\n(3) Mixture for industrial use means a mixture intended to be used at industrial sites only.\nWhere mixtures have more than one use, the requirements for all relevant categories of use shall be met.\n3. Submission requirements\n3.1. Before placing mixtures on the market, submitters shall provide information relating to mixtures classified as hazardous on the basis of their health or physical effects to the bodies appointed under Article 45(1) (hereinafter appointed bodies), in the Member State or Member States where the mixture is placed on the market.\nThe submission shall contain the information laid down in Part B. It shall be submitted by electronic means in an XML format provided by the Agency and made available free of charge.\n3.2. Where following receipt of a submission under Section 3.1 an appointed body makes a reasoned request to the submitter that additional information or clarification is necessary for that appointed body to carry out the tasks for which it is responsible under Article 45, the submitter shall provide the necessary information or clarification requested without undue delay.\n3.3. The submission shall be in the official language(s) of the Member State(s) where the mixture is placed on the market, unless the Member State(s) concerned provide(s) otherwise.\n3.4. The intended use of the mixture shall be described in accordance with a harmonised product categorisation system provided by the Agency.\n3.5. A submission update shall be made without undue delay when the conditions laid down in Section 4.1 of Part B are met.\n4. Group submission\n4.1. A single submission, hereinafter group submission, may be provided for more than one mixture where all the mixtures in a group have the same classification for health and physical hazards.\n4.2. A group submission shall only be permitted when all mixtures in the group contain the same components (as identified in Section 3.2 of Part B), and for each of the components, the reported concentration range is the same for all mixtures (as provided in Section 3.4 of Part B).\n4.3. By way of derogation from Section 4.2, a group submission shall also be allowed where the difference in the composition between different mixtures in the group only concerns perfumes, provided that the total concentration of the differing perfumes contained in each mixture does not exceed 5 %.\n4.4. In the case of a group submission, the information required in Part B shall be provided for each of the mixtures contained in the group where applicable.\n5. Unique formula identifier (UFI)\n5.1. The submitter shall create a unique formula identifier, hereinafter UFI, by electronic means made available by the Agency. The UFI is a unique alphanumeric code that unambiguously links the submitted information on the composition of a mixture or a group of mixtures to a specific mixture or group of mixtures. The assignment of a UFI is free of charge.\nA new UFI shall be created when a change in the composition of the mixture or group of mixtures fulfils one or more of the conditions foreseen in points (a), (b) and (c) of the fourth indent of Section 4.1 of Part B.\nBy way of derogation from the second subparagraph, a new UFI shall not be required for mixtures in a group submission containing perfumes provided that the change in the composition only concerns those perfumes or the addition of new perfumes.\n5.2. Instead of including the UFI in the supplemental information on the label, the submitter may opt to print or affix it on the inner packaging located with the other label elements.\nWhere the inner packaging is either in such a shape or so small that it is impossible to affix the UFI on it, the submitter may print or affix the UFI located with the other label elements on an outer packaging.\nIn the case of mixtures which are not packaged, the UFI shall be indicated in the Safety Data Sheet or be included in the copy of the label elements referred to in Article 29(3), as applicable.\nThe UFI shall be preceded by the acronym UFI in capital letters followed by a colon (UFI:) and it shall be clearly visible, legible and indelibly marked.\n5.3. By way of derogation from the first subparagraph of Section 5.2, in the case of mixtures supplied for use at industrial sites, the UFI may alternatively be indicated in the Safety Data Sheet.\n6. Formats and technical support for submission of information\n6.1. The Agency shall specify, maintain and update the UFI generator, the XML formats for submissions and a harmonised product categorisation system and make them available free of charge on its website.\n6.2. The Agency shall provide technical and scientific guidance, technical support and tools facilitating the submission of information.\nPART B\nINFORMATION CONTAINED IN A SUBMISSION\n1. Identification of the mixture and of the submitter\n1.1. Product identifier of the mixture\nThe product identifier shall be provided in accordance with Article 18(3)(a).\nThe complete trade name(s) of the mixture shall be provided, including, where relevant, brand name(s), name of the product and variant names as they appear on the label, without abbreviations and enabling its specific identification.\nIn addition, the UFI(s) shall be included in the submission.\n1.2. Details of the submitter and contact point\nThe name, full address, telephone number and email address of the submitter shall be provided and, if different, the name, full address, telephone number and email address of the point of contact to be used for obtaining further information relevant for emergency health response purposes.\n1.3. Name, telephone number and email address for rapid access to additional product information\nIn the case of a limited submission as laid down in Section 2.3 of Part A, a name, a telephone number and an email address shall be provided at which rapid access to detailed additional product information relevant for emergency health response purposes is available in the language provided in Section 3.3 of Part A. The telephone number shall be accessible 24 hours per day, 7 days per week.\n2. Hazards identification and additional information\nThis section sets out the information requirements related to the health and physical hazards of the mixture and the appropriate warning information associated with those hazards, as well as the additional information to be included in a submission.\n2.1. Classification of the mixture\nThe classification of the mixture for health and physical hazards (hazard class and category) shall be provided in accordance with the classification rules in Annex I.\n2.2. Label elements\nThe following label elements required in accordance with Article 17 shall be provided, if applicable:\nhazard pictogram codes (Annex V),\nsignal word,\nhazard statement codes (Annex III, including supplemental hazard information),\nprecautionary statement codes.\n2.3. Toxicological information\nThe submission shall include the information on the toxicological effects of the mixture or its components that is required in Section 11 of the Safety Data Sheet of the mixture, in accordance with Annex II to Regulation (EC) No 1907/2006.\n2.4. Additional information\nThe following additional information shall be provided:\nthe type(s) and size(s) of the packaging used to place the mixture on the market for consumer or professional use,\nthe colour(s) and the physical state(s) of the mixture, as supplied,\nthe pH, if available, of the mixture as supplied, or, where the mixture is a solid, the pH of an aqueous liquid or solution at a given concentration. The concentration of the test mixture in water shall be indicated. If the pH is not available, the reasons shall be given,\nproduct categorisation (see Section 3.4 of Part A),\nuse (consumer, professional, industrial, or a combination of any of the three).\n3. Information on mixture components\n3.1. General requirements\nThe chemical identity and the concentrations of the components contained in the mixture shall be indicated in the submission in accordance with Sections 3.2, 3.3 and 3.4.\nComponents which are not present in a mixture shall not be notified.\nBy way of derogation from the second subparagraph, in a group submission, perfume components in mixtures shall be present in at least one of the mixtures.\nFor group submissions where the perfumes vary between the mixtures contained in the group, a list shall be provided of the mixtures and the perfumes they contain, including their classification.\n3.1.1. Requirements for mixtures for industrial use\nIn the case of a limited submission as laid down in Section 2.3 of Part A, the information to be submitted on the composition of a mixture for industrial use may be limited to the information contained in the Safety Data Sheet in accordance with Annex II to Regulation (EC) No 1907/2006, provided that additional information on the composition is available on request for rapid access in accordance with Section 1.3.\n3.2. Identification of mixture components\nA mixture component is either a substance or a mixture in mixture.\n3.2.1. Substances\nThe product identifier for the substances identified according to Section 3.3 shall be provided in accordance with Article 18(2). However, an INCI name, a colour index name or another international chemical name may be used, provided the chemical name is well-known and unambiguously defines the substance identity. The chemical name of substances for which an alternative chemical name has been allowed in accordance with Article 24 shall be provided as well.\n3.2.2. Mixture in mixture\nWhen a mixture is used in the composition of a second mixture placed on the market, the first mixture is referred to as a mixture in mixture (hereinafter MIM).\nInformation on the substances contained in a MIM shall be provided in accordance with the criteria of Section 3.2.1, unless the submitter does not have access to information on the full composition of the MIM. In the latter case, the MIM shall be identified by means of its product identifier in accordance with Article 18(3)(a), together with its concentration and UFI, if available and if the appointed body has received the information on the MIM in a prior submission. In absence of a UFI or if the appointed body has not received the information on the MIM in a prior submission, the MIM shall be identified by means of its product identifier in accordance with Article 18(3)(a), together with its concentration and the compositional information contained in the Safety Data Sheet of the MIM and any other known components, as well as the name, email address and telephone number of the MIM supplier.\n3.2.3. Generic product identifiers\nBy way of derogation from Sections 3.2.1 and 3.2.2, the generic product identifiers perfumes or colouring agents may be used for mixture components used exclusively to add perfume or colour, where the following conditions are met:\nthe mixture components are not classified for any health hazard,\nthe concentration of mixture components identified with a given generic product identifier does not exceed in total:\n(a) 5 % for the sum of perfumes; and\n(b) 25 % for the sum of colouring agents.\n3.3. Mixture components subject to submission requirements\nThe following mixture components shall be indicated:\n(1) mixture components classified as hazardous on the basis of their health or physical effects which:\nare present in concentrations equal to or greater than 0,1 %,\nare identified, even if in concentrations lower than 0,1 %, unless the submitter can demonstrate that those components are irrelevant for the purposes of emergency health response and preventative measures;\n(2) mixture components not classified as hazardous on the basis of their health or physical effects which are identified and present in concentrations equal to or greater than 1 %.\n3.4. Concentration and concentration ranges of the mixture components\nSubmitters shall provide the information laid down in Sections 3.4.1 and 3.4.2 with regard to the concentration of the mixture components, identified in accordance with Section 3.3.\n3.4.1. Hazardous components of major concern for emergency health response and preventative measures\nWhen mixture components are classified in accordance with this Regulation for at least one of the hazard categories listed below, their concentration in a mixture shall be expressed as exact percentages, in descending order by mass or volume:\nacute toxicity, Category 1, 2 or 3,\nspecific target organ toxicity — Single exposure, Category 1 or 2,\nspecific target organ toxicity — Repeated exposure, Category 1 or 2,\nskin corrosion, Category 1, 1A, 1B or 1C,\nserious eye damage, Category 1.\nAs an alternative to providing concentrations as exact percentages, a range of percentages may be submitted in accordance with Table 1.\nTable 1\nConcentration ranges applicable to hazardous components of major concern for emergency health response\nConcentration range of the hazardous component contained in the mixture (%) Maximum width of the concentration range to be used in the submission\n≥ 25 - < 100 5 % units\n≥ 10 - < 25 3 % units\n≥ 1 - < 10 1 % units\n≥ 0,1 - < 1 0,3 % units\n> 0 - < 0,1 0,1 % units\n3.4.2. Other hazardous components and components not classified as hazardous\nThe concentration of the hazardous components in a mixture that are not classified for any of the hazard categories listed in Section 3.4.1 and of the identified components not classified as hazardous shall be expressed, in accordance with Table 2, as ranges of percentages in descending order by mass or volume. As an alternative, exact percentages may be provided.\nBy way of derogation from the first subparagraph, for perfume components that are not classified or only classified for skin sensitisation Category 1, 1A or 1B or aspiration toxicity, submitters shall not be required to provide information on their concentration, provided that their total concentration does not exceed 5 %.\nTable 2\nConcentration ranges applicable to other hazardous components and components not classified as hazardous\nConcentration range of the component contained in the mixture (%) Maximum width of the concentration range to be used in the submission\n≥ 25 - < 100 20 % units\n≥ 10 - < 25 10 % units\n≥ 1 - < 10 3 % units\n> 0 - < 1 1 % units\n3.5. Classification of mixture components\nThe classification of mixture components for health and physical hazards (hazard classes, hazard categories and hazard statements) shall be provided. This includes the classification for at least all substances referred to in Point 3.2.1 of Annex II to Regulation (EC) No 1907/2006 on requirements for the compilation of Safety Data Sheets. In the case of a MIM identified by means of its product identifier and its UFI in accordance with Section 3.2.2 of Part B, only the classification for health and physical hazards of the MIM shall be provided.\n4. Submission update\n4.1. Where one of the following changes applies to a mixture in an individual or group submission, submitters shall provide a submission update before placing that mixture, as changed, on the market:\nwhen the mixture product identifier (including the UFI) has changed,\nwhen the mixture classification for health or physical hazards has changed,\nwhen relevant new toxicological information that is required in Section 11 of the Safety Data Sheet becomes available on the hazardous properties of the mixture or its components,\nif a change in the composition of the mixture fulfils one of the following conditions:\n(a) addition, substitution, or deletion of one or more components in the mixture that shall be indicated in accordance with Section 3.3;\n(b) change in the concentration of a component in the mixture beyond the concentration range provided in the original submission;\n(c) the exact concentration of a component was provided in accordance with Sections 3.4.1 or 3.4.2, and a change occurs to that concentration beyond the limits identified in Table 3.\nTable 3\nVariations of the concentration of components requiring a submission update\nExact concentration of the component contained in the mixture (%) Variations (±) of the initial component concentration requiring a submission update\n> 25 - ≤ 100 5 %\n> 10 - ≤ 25 10 %\n> 2,5 - ≤ 10 20 %\n≤ 2,5 30 %\nWhen the perfumes in a group submission change, the list of mixtures and the perfumes they contain as required in Section 3.1 shall be updated.\n4.2. Content of the submission update\nThe submission update shall comprise a revised version of the previous submission containing the new information available as described in Section 4.1.\nPART C\nSUBMISSION FORMAT\n1.1. Submission format\nThe submission of information to appointed bodies in accordance with Article 45 shall be in a format to be provided by the Agency. The submission format shall address the following elements:\n1.2. Identification of the mixture and of the submitter\nProduct identifier\nComplete trade name(s) of the product (in case of group submission, all product identifiers shall be listed)\nOther names, synonyms\nUnique Formula Identifier(s) (UFI)\nOther identifiers (authorisation number, company product codes)\nContact details of the submitter and, where applicable, contact point\nName\nFull address\nTelephone number\nEmail address\nContact details for rapid access to additional product information (24 hours/7 days). Only for limited submission.\nName\nTelephone number (accessible 24 hours per day, 7 days per week)\nEmail address\n1.3. Classification of the mixture, label elements and toxicology\nClassification of the mixture and label elements\nHazard class and category\nHazard pictogram codes (Annex V)\nSignal word\nHazard statement codes, including supplemental hazard information codes (Annex III)\nPrecautionary statement codes (Annex IV)\nToxicological information\nDescription of the toxicity of the mixture or its components (as required in Section 11 of the Safety Data Sheet in accordance with Annex II to Regulation (EC) No 1907/2006)\nAdditional information on the mixture\nColour(s)\nThe pH, if available, of the mixture as supplied, or, where the mixture is a solid, the pH of an aqueous liquid or solution at a given concentration. The concentration of the test mixture in water shall be indicated. If the pH is not available, the reasons shall be given\nPhysical state(s)\nPackaging (type(s) and size(s))\nIntended use (product category)\nUses (consumer, professional, industrial)\n1.4. Product identifiers of the mixture components\nProduct identifiers of the mixture components (substances and mixtures in mixtures where applicable)\nChemical/trade name of the components\nCAS number (where applicable)\nEC number (where applicable)\nUFI (where applicable)\nConcentration and concentration ranges of the mixture components\nExact concentration or concentration range\nClassification of mixture components (substances and MIM)\nHazard classification (where applicable)\nAdditional identifiers (where applicable and relevant for health response)\nList according to Part B, Section 3.1, fourth paragraph (where applicable)",
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -361,7 +527,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -842,7 +1009,8 @@
         ]
       }
     ],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -875,5 +1043,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
