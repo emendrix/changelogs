@@ -3886,6 +3886,8 @@ All other entries and wording in the list, as they appeared in the earlier versi
 
 *within* `AN II` · *amended by* `32014R0358`
 
+Table entries: 5 added, 0 amended, 0 removed: Reference number 1374, Reference number 1375, Reference number 1376, Reference number 1377, Reference number 1378
+
 Both versions consist of the same numbered list of prohibited substances, and across the visible portion of the text the entries and their identifiers appear unchanged in substance. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_II)
 
 The visible difference is one of formatting only, with the earlier text laid out as a multi-column table with each field on its own line, while the later text presents the same rows as run-on text with fields separated by spaces rather than line breaks. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_II)
@@ -4024,6 +4026,8 @@ Both excerpts are truncated before the end of the annex, so no comparison can be
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
+Table entries: 21 added, 11 amended, 0 removed: Reference number 8b, Reference number 9a, Reference number 12, Reference number 22, Reference number 203, Reference number 217, Reference number 229, Reference number 241, Reference number 242, Reference number 244 and 22 more
+
 Entry 8b now adds detailed labelling text for eyelash-colouring products, including warnings about severe allergic reactions, an age-16 restriction, henna-tattoo risk, conditions under which eyelashes should not be coloured, and an instruction to rinse eyes if contact occurs, none of which appeared before. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
 
 Entry 9a's chemical name/INN and substance identification are changed from Toluene-2,5-diamine and its salts to 1,4-Benzenediamine, 2-methyl-/2,5-Diaminotoluene sulphate, and the maximum concentration for professional use is changed from 4 % calculated as free base to 2 % calculated as free base or 3,6 % calculated as sulfate salt. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_III)
@@ -4082,6 +4086,8 @@ Entry 12's column i wording is reorganised and expanded, notably by adding a spe
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32014R0358`
+
+Table entries: 0 added, 2 amended, 0 removed: Reference number 12, Reference number 25
 
 Entry 12 changes its scope for parabens: the AFTER text excludes esters of isopropyl, isobutyl, phenyl, benzyl and pentyl from the substances covered, and it also removes potassium ethylparaben and phenylparaben from the listed substance identifications while adjusting some of the accompanying CAS and EC numbers. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140701#anx_V)
 
