@@ -4192,6 +4192,8 @@ The text shown is truncated before the rest of the entries in Table 3, so any fu
 
 *within* `AN VI SCT 3` · *amended by* `32018R1480`
 
+Table entries: 16 added, 18 amended, 0 removed: Index No 006-044-00-7, Index No 015-101-00-5, Index No 016-096-00-2, Index No 017-011-00-1, Index No 025-002-00-9, Index No 603-180-00-4, Index No 604-014-00-3, Index No 604-016-00-4, Index No 604-090-00-8, Index No 604-094-00-X and 24 more
+
 The explanatory note above the Table 3 column headers was changed from a statement about a converted acute toxicity point estimate referencing Annex I Table 3.1.2 to a statement explaining that ATEs for oral and dermal exposure routes are expressed in mg/kg bodyweight. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI)
 
 The table column heading was also altered, splitting the earlier single heading covering specific concentration limits, M-factors and Acute Toxicity Estimates into a heading for specific concentration limits, M-factors and ATEs together with a separate Notes heading. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200101#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI)
