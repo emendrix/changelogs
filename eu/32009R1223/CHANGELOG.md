@@ -1427,6 +1427,8 @@ The corresponding entry 27 in the before text contains no such note in column (i
 
 *within* `AN II` · *amended by* `32021R1099`
 
+Table entries: 1 added, 0 amended, 0 removed: Reference number 1657
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20210617`)
@@ -1448,6 +1450,8 @@ The corresponding entry 27 in the before text contains no such note in column (i
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2022-01-26 +2022-04-22 · *amended by* `32021R1099`, `32017R1410`
+
+Table entries: 1 added, 0 amended, 0 removed: Reference number 321
 
 A new footnote sentence has been added stating that from 26 January 2022 hair dye and self-tanning products containing that substance and not complying with the restrictions shall not be placed on the Union market, and that from 22 April 2022 such products not complying with the restrictions shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210823#anx_III)
 
