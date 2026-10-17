@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,1515 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "Einecs No",
+                  "CN code\n",
+                  "Subcategory\n",
+                  "Use limitation\n",
+                  "Countries for which no notification is required"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 2,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "Einecs No",
+                  "CN code\n",
+                  "Category\n",
+                  "Use limitation\n"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 3,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "Relevant CAS number(s)",
+                  "HS code\nPure substance\n",
+                  "HS code\nMixtures containing substance\n",
+                  "Category"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "chlorothalonil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "chlorothalonil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chlorothalonil\n",
+                    "1897-45-6",
+                    "217-588-1",
+                    "ex29269070",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1897-45-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-588-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chlorothalonil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "chlorpropham",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "chlorpropham",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chlorpropham\n",
+                    "101-21-3",
+                    "202-925-7",
+                    "ex29242970",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-21-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-925-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chlorpropham"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "clothianidin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "clothianidin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Clothianidin\n",
+                    "210880-92-5",
+                    "n.a.",
+                    "ex29341000",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "210880-92-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Clothianidin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "desmedipham",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "desmedipham",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Desmedipham\n",
+                    "13684-56-5",
+                    "237-198-5",
+                    "ex29242970",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13684-56-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "237-198-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Desmedipham"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "dimethoate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "dimethoate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dimethoate\n",
+                    "60-51-5",
+                    "200-480-3",
+                    "ex29309098",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60-51-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-480-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dimethoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "diquat, including",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "diquat, including",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diquat, including\ndiquat dibromide\n",
+                    "2764-72-9\n85-00-7",
+                    "220-433-0\n201-579-4",
+                    "ex29339980",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2764-72-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85-00-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-579-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-433-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diquat, including"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "ethoprophos",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "ethoprophos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Ethoprophos\n",
+                    "13194-48-4",
+                    "236-152-1",
+                    "ex29309098",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13194-48-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-152-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethoprophos"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "fenamidone",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "fenamidone",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fenamidone\n",
+                    "161326-34-7",
+                    "n.a.",
+                    "ex29332990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "161326-34-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenamidone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "flurtamone",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "flurtamone",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Flurtamone\n",
+                    "96525-23-4",
+                    "n.a.",
+                    "ex29321900",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "96525-23-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Flurtamone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "glufosinate, including glufosinate-ammonium",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "glufosinate, including glufosinate-ammonium",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Glufosinate, including glufosinate-ammonium\n",
+                    "51276-47-2\n77182-82-2",
+                    "257-102-5\n278-636-6",
+                    "ex29313990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "51276-47-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77182-82-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "257-102-5"
+                  }
+                ],
+                "failed_check_digits": 1,
+                "name": "Glufosinate, including glufosinate-ammonium"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "imidacloprid",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "imidacloprid",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Imidacloprid",
+                    "138261-41-3",
+                    "n.a.",
+                    "ex29333999",
+                    "p(1)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "138261-41-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Imidacloprid"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "oxasulfuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "oxasulfuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Oxasulfuron\n",
+                    "144651-06-9",
+                    "n.a.",
+                    "ex29359090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "144651-06-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Oxasulfuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "phorate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "phorate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Phorate\n",
+                    "298-02-2",
+                    "206-052-2",
+                    "ex29309098",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "298-02-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-052-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phorate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "propiconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "propiconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Propiconazole",
+                    "60207-90-1",
+                    "262-104-4",
+                    "ex29349990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60207-90-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "262-104-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propiconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "propineb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "propineb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Propineb\n",
+                    "12071-83-9\n9016-72-2",
+                    "235-134-0",
+                    "ex29302000",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12071-83-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9016-72-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-134-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propineb"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "pymetrozine",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "pymetrozine",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pymetrozine\n",
+                    "123312-89-0",
+                    "n.a.",
+                    "ex29336980",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "123312-89-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pymetrozine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "quinoxyfen",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "quinoxyfen",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Quinoxyfen\n",
+                    "124495-18-7",
+                    "n.a.",
+                    "ex29334990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "124495-18-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Quinoxyfen"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "thiamethoxam",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "thiamethoxam",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Thiamethoxam\n",
+                    "153719-23-4",
+                    "n.a.",
+                    "ex29341000",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "153719-23-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Thiamethoxam"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "thiram",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "thiram",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Thiram\n",
+                    "137-26-8",
+                    "205-286-2",
+                    "ex29303000",
+                    "p(1)-p(2)",
+                    "b-sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "137-26-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-286-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Thiram"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "chlorothalonil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "chlorothalonil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chlorothalonil",
+                    "1897-45-6",
+                    "217-588-1",
+                    "ex29269070",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1897-45-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-588-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chlorothalonil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "chlorpropham",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "chlorpropham",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chlorpropham",
+                    "101-21-3",
+                    "202-925-7",
+                    "ex29242970",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-21-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-925-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chlorpropham"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "clothianidin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "clothianidin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Clothianidin",
+                    "210880-92-5",
+                    "n.a.",
+                    "ex29341000",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "210880-92-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Clothianidin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "desmedipham",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "desmedipham",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Desmedipham",
+                    "13684-56-5",
+                    "237-198-5",
+                    "ex29242970",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13684-56-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "237-198-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Desmedipham"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "dimethoate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "dimethoate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dimethoate",
+                    "60-51-5",
+                    "200-480-3",
+                    "ex29309098",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60-51-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-480-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dimethoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "diquat, including",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "diquat, including",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diquat, including\ndiquat dibromide",
+                    "2764-72-9\n85-00-7",
+                    "220-433-0\n201-579-4",
+                    "ex29339980",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2764-72-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85-00-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-579-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-433-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diquat, including"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "ethoprophos",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "ethoprophos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Ethoprophos",
+                    "13194-48-4",
+                    "236-152-1",
+                    "ex29309098",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13194-48-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-152-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethoprophos"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "fenamidone",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "fenamidone",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fenamidone",
+                    "161326-34-7",
+                    "n.a.",
+                    "ex29332990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "161326-34-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenamidone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "flurtamone",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "flurtamone",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Flurtamone",
+                    "96525-23-4",
+                    "n.a.",
+                    "ex29321900",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "96525-23-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Flurtamone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "glufosinate, including glufosinate-ammonium",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "glufosinate, including glufosinate-ammonium",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Glufosinate, including glufosinate-ammonium",
+                    "51276-47-2\n77182-82-2",
+                    "257-102-5\n278-636-6",
+                    "ex29313990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "51276-47-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77182-82-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "257-102-5"
+                  }
+                ],
+                "failed_check_digits": 1,
+                "name": "Glufosinate, including glufosinate-ammonium"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "oxasulfuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "oxasulfuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Oxasulfuron",
+                    "144651-06-9",
+                    "n.a.",
+                    "ex29359090",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "144651-06-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Oxasulfuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "propineb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "propineb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Propineb",
+                    "12071-83-9\n9016-72-2",
+                    "235-134-0",
+                    "ex29302000",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12071-83-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9016-72-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-134-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propineb"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "pymetrozine",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "pymetrozine",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pymetrozine",
+                    "123312-89-0",
+                    "n.a.",
+                    "ex29336980",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "123312-89-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pymetrozine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "quinoxyfen",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "quinoxyfen",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Quinoxyfen",
+                    "124495-18-7",
+                    "n.a.",
+                    "ex29334990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "124495-18-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Quinoxyfen"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "thiamethoxam",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "thiamethoxam",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Thiamethoxam",
+                    "153719-23-4",
+                    "n.a.",
+                    "ex29341000",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "153719-23-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Thiamethoxam"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "thiram",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "thiram",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Thiram",
+                    "137-26-8",
+                    "205-286-2",
+                    "ex29303000",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "137-26-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-286-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Thiram"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "hexabromocyclododecane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "hexabromocyclododecane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromocyclododecane",
+                    "25637-99-4,\n3194-55-6,\n134237-50-6,\n134237-51-7,\n134237-52-8\nand others",
+                    "2903.89",
+                    "",
+                    "Industrial"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134237-50-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-51-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-52-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25637-99-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3194-55-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromocyclododecane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "phorate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "phorate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Phorate",
+                    "298-02-2",
+                    "2930.90",
+                    "3808.50",
+                    "Pesticide"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "298-02-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phorate"
+              }
+            }
+          ],
+          "unchanged": 407,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 6,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -166,6 +1675,271 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Description of chemicals/article(s) subject to export ban",
+                  "Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)",
+                  null
+                ]
+              ]
+            },
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 2,
+              "key_label": "No",
+              "header": [
+                [
+                  "No",
+                  "Description of chemicals/article(s) subject to export ban",
+                  "Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 2,
+              "key": "3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3",
+                    "The following mercury compounds except where they are exported for laboratory-scale research or laboratory analysis:\nCinnabar ore;\nMercury (I) chloride (Cl2Hg2);\nMercury (II) oxide (HgO);\nMercury sulphide (HgS).",
+                    "CAS RNs 10112-91-1, 21908-53-2, 1344-48-5\nEC Nos 233-307-5, 244-654-7, 215-696-3\nCN codes ex28521000, ex28529000"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10112-91-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1344-48-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "21908-53-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-696-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-307-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "244-654-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "The following mercury compounds except where they are exported for laboratory-scale research or laboratory analysis:"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3",
+                    "The following mercury compounds except where they are exported for laboratory-scale research or laboratory analysis:\nCinnabar ore;\nMercury (I) chloride (Cl2Hg2);\nMercury (II) oxide (HgO);\nMercury sulphide (HgS).\n— Mercury (II) sulphate (HgSO4);\n— Mercury (II) nitrate (Hg(NO3)2).",
+                    "CAS RNs 10112-91-1, 21908-53-2, 1344-48-5\nEC Nos 233-307-5, 244-654-7, 215-696-3\nCN codes ex28521000, ex28529000\nCAS RNs 7783-35-9, 10045-94-0\nEC Nos 231-992-5, 233-152-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10045-94-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "10112-91-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1344-48-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "21908-53-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7783-35-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-696-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-992-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-152-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-307-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "244-654-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "The following mercury compounds except where they are exported for laboratory-scale research or laboratory analysis:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 2,
+              "key": "5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5",
+                    "Compact fluorescent lamps (CFLs) for general lighting purposes:\n(a) CFL.i ≤ 30 watts with a mercury content exceeding 2,5 mg per lamp burner;\n(b) CFL.ni ≤ 30 watts with a mercury content exceeding 3,5 mg per lamp burner.",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Compact fluorescent lamps (CFLs) for general lighting purposes:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 2,
+              "key": "6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "6",
+                    "The following linear fluorescent lamps for general lighting purposes:\n(a) Triband phosphor < 60 watts with a mercury content exceeding 5 mg per lamp;\n(b) Halophosphate phosphor ≤ 40 watts with a mercury content exceeding 10 mg per lamp.",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "The following linear fluorescent lamps for general lighting purposes:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 2,
+              "key": "7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "7",
+                    "High pressure mercury vapour lamps for general lighting purposes.",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "High pressure mercury vapour lamps for general lighting purposes."
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 2,
+              "key": "8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "8",
+                    "The following mercury-added cold cathode fluorescent lamps and external electrode fluorescent lamps for electronic displays:\n(a) short length (≤ 500 mm) with mercury content exceeding 3,5 mg per lamp;\n(b) medium length (> 500 mm and ≤ 1500 mm) with mercury content exceeding 5 mg per lamp;\n(c) long length (> 1500 mm) with mercury content exceeding 13 mg per lamp.",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "The following mercury-added cold cathode fluorescent lamps and external electrode fluorescent lamps for electronic displays:"
+              }
+            }
+          ],
+          "unchanged": 30,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -425,6 +2199,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 2,
       "repaired": 2,
       "remaining": 0,

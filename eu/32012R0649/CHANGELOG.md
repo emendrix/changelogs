@@ -591,6 +591,8 @@ Several existing entries in Part 2, such as those on cosmetic soaps, metallic me
 
 *within* `AN I` · *amended by* `32020R1068`
 
+Table entries: 37 added, 0 amended, 0 removed: "Chlorothalonil", "Chlorpropham", "Clothianidin", "Desmedipham", "Dimethoate", "Diquat, including", "Ethoprophos", "Fenamidone", "Flurtamone", "Glufosinate, including glufosinate-ammonium" and 27 more
+
 The AFTER text adds numerous new chemical entries across Parts 1, 2 and 3 that were not present in the BEFORE text, including substances such as Chlorothalonil, Chlorpropham, Clothianidin, Desmedipham, Dimethoate, Diquat, Ethoprophos, Fenamidone, Flurtamone, Glufosinate, Imidacloprid, Oxasulfuron, Phorate, Propiconazole, Propineb, Pymetrozine, Quinoxyfen, Thiamethoxam and Thiram, along with their CAS numbers, codes, categories and use limitations. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_I)
 
 Part 3 in the AFTER text also gains a new entry for Hexabromocyclododecane with its associated CAS numbers and HS code, listed as an industrial category chemical, which does not appear in the BEFORE text. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_I)
@@ -630,6 +632,8 @@ Part 3 in the AFTER text also gains a new entry for Hexabromocyclododecane with 
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32020R1068`
+
+Table entries: 4 added, 1 amended, 0 removed: No 3, No 5, No 6, No 7, No 8
 
 In Part 2, entry 3 now lists two additional mercury compounds, mercury (II) sulphate and mercury (II) nitrate, alongside the previously listed cinnabar ore, mercury (I) chloride, mercury (II) oxide and mercury sulphide, together with new CAS RNs and EC Nos for these two added substances. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_V)
 
