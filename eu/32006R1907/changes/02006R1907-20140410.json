@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,189 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "18a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "18a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "18a. Mercury\nCAS No 7439-97-6\nEC No 231-106-7",
+                    "1. Shall not be placed on the market:\n(a) in fever thermometers;\n(b) in other measuring devices intended for sale to the general public (such as manometers, barometers, sphygmomanometers, thermometers other than fever thermometers).\n2. The restriction in paragraph 1 shall not apply to measuring devices that were in use in the Community before 3 April 2009. However Member States may restrict or prohibit the placing on the market of such measuring devices.\n3. The restriction in paragraph 1(b) shall not apply to:\n(a) measuring devices more than 50 years old on 3 October 2007;\n(b) barometers (except barometers within point (a)) until 3 October 2009.\n4. By 3 October 2009 the Commission shall carry out a review of the availability of reliable safer alternatives that are technically and economically feasible for mercury containing sphygmomanometers and other measuring devices in healthcare and in other professional and industrial uses. On the basis of this review or as soon as new information on reliable safer alternatives for sphygmomanometers and other measuring devices containing mercury becomes available, the Commission shall, if appropriate, present a legislative proposal to extend the restrictions in paragraph 1 to sphygmomanometers and other measuring devices in healthcare and in other professional and industrial uses, so that mercury in measuring devices is phased out whenever technically and economically feasible."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-97-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-106-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Mercury"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "18a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "18a. Mercury\nCAS No 7439-97-6\nEC No 231-106-7",
+                    "1. Shall not be placed on the market:\n(a) in fever thermometers;\n(b) in other measuring devices intended for sale to the general public (such as manometers, barometers, sphygmomanometers, thermometers other than fever thermometers).\n2. The restriction in paragraph 1 shall not apply to measuring devices that were in use in the Community before 3 April 2009. However Member States may restrict or prohibit the placing on the market of such measuring devices.\n3. The restriction in paragraph 1(b) shall not apply to:\n(a) measuring devices more than 50 years old on 3 October 2007;\n(b) barometers (except barometers within point (a)) until 3 October 2009.\n4. By 3 October 2009 the Commission shall carry out a review of the availability of reliable safer alternatives that are technically and economically feasible for mercury containing sphygmomanometers and other measuring devices in healthcare and in other professional and industrial uses. On the basis of this review or as soon as new information on reliable safer alternatives for sphygmomanometers and other measuring devices containing mercury becomes available, the Commission shall, if appropriate, present a legislative proposal to extend the restrictions in paragraph 1 to sphygmomanometers and other measuring devices in healthcare and in other professional and industrial uses, so that mercury in measuring devices is phased out whenever technically and economically feasible.\n5. The following mercury-containing measuring devices intended for industrial and professional uses shall not be placed on the market after 10 April 2014:\n(a) barometers;\n(b) hygrometers;\n(c) manometers;\n(d) sphygmomanometers;\n(e) strain gauges to be used with plethysmographs;\n(f) tensiometers;\n(g) thermometers and other non-electrical thermometric applications.\nThe restriction shall also apply to measuring devices under points (a) to (g) which are placed on the market empty if intended to be filled with mercury.\n6. The restriction in paragraph 5 shall not apply to:\n(a) sphygmomanometers to be used:\n(i) in epidemiological studies which are ongoing on 10 October 2012;\n(ii) as reference standards in clinical validation studies of mercury-free sphygmomanometers;\n(b) thermometers exclusively intended to perform tests according to standards that require the use of mercury thermometers until 10 October 2017;\n(c) mercury triple point cells which are used for the calibration of platinum resistance thermometers.\n7. The following mercury-using measuring devices intended for professional and industrial uses shall not be placed on the market after 10 April 2014:\n(a) mercury pycnometers;\n(b) mercury metering devices for determination of the softening point.\n8. The restrictions in paragraphs 5 and 7 shall not apply to:\n(a) measuring devices more than 50 years old on 3 October 2007;\n(b) measuring devices which are to be displayed in public exhibitions for cultural and historical purposes."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-97-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-106-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Mercury"
+              }
+            }
+          ],
+          "unchanged": 1685,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -96,7 +279,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -259,7 +443,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -307,6 +492,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

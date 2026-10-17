@@ -3441,6 +3441,8 @@ The entry for Hexabromocyclododecane (HBCDD) has its latest application date and
 
 *within* `AN XVII` · *dates* +2012-10-10 +2014-04-10 +2017-10-10 · *amended by* `32014R0317`, `32012R0847`
 
+Table entries: 0 added, 1 amended, 0 removed: Entry 18a
+
 Entry 18a on mercury gains new paragraphs 5 through 8, adding a placing-on-market prohibition after 10 April 2014 for a list of mercury-containing measuring devices intended for industrial and professional use, including barometers, hygrometers, manometers, sphygmomanometers, plethysmograph strain gauges, tensiometers and thermometers, and extending the same prohibition to such devices sold empty but meant to be filled with mercury. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XVII)
 
 The new text also adds exceptions to that prohibition for certain ongoing epidemiological studies, reference standard use in clinical validation of mercury-free sphygmomanometers, thermometers used for standardised testing until 10 October 2017, and mercury triple point calibration cells, plus a further ban after 10 April 2014 on mercury pycnometers and mercury softening-point metering devices for professional and industrial use, itself subject to exemptions for devices over 50 years old or displayed for cultural and historical purposes. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20140410#anx_XVII)
