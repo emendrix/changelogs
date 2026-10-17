@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,7 @@
         "changed_within": [
           "AR 3 ALN 1 PO 20 PTA (c)"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -142,6 +143,7 @@
           "AN XI SCT 3 SCT 3.2",
           "AN XI SCT 3 SCT 3.3"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -306,6 +308,647 @@
           "AN XVII APP 2",
           "AN XVII APP 4"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Designation of the substance, of the groups of substances or of the mixture",
+                  "Conditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key": "649-087-00-2",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "649-087-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas\n(A complex residuum from the distillation of streams from various refinery operations. It consists of hydrocarbons having carbon numbers in the range of C4 through C5, predominantly butane, and boiling in the range of approximately -11,7 °C to 27,8 °C.)",
+                    "649-087-00-2",
+                    "271-010-2",
+                    "68513-66-6",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68513-66-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-010-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-087-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "649-087-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas\n(A complex residuum from the distillation of streams from various refinery operations. It consists of hydrocarbons having carbon numbers in the range of C4 through C5, predominantly butane, and boiling in the range of approximately - 11,7 °C to 27,8 °C.)",
+                    "649-087-00-2",
+                    "271-010-2",
+                    "68513-66-6",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68513-66-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-010-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-087-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key": "649-088-00-8",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "649-088-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hydrocarbons, C1-4; Petroleum gas\n(A complex combination of hydrocarbons provided by thermal cracking and absorber operations and by distillation of crude oil. It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately - 164 °C to -0,5 °C.)",
+                    "649-088-00-8",
+                    "271-032-2",
+                    "68514-31-8",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68514-31-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-032-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-088-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C1-4; Petroleum gas"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "649-088-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hydrocarbons, C1-4; Petroleum gas\n(A complex combination of hydrocarbons provided by thermal cracking and absorber operations and by distillation of crude oil. It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately - 164 °C to - 0,5 °C.)",
+                    "649-088-00-8",
+                    "271-032-2",
+                    "68514-31-8",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68514-31-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-032-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-088-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C1-4; Petroleum gas"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key": "649-089-00-3",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "649-089-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hydrocarbons, C1-4, sweetened; Petroleum gas\n(A complex combination of hydrocarbons obtained by subjecting hydrocarbon gases to a sweetening process to convert mercaptans or to remove acidic impurities. It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately - 164 °C to -0,5 °C.)",
+                    "649-089-00-3",
+                    "271-038-5",
+                    "68514-36-3",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68514-36-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-038-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-089-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C1-4, sweetened; Petroleum gas"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "649-089-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hydrocarbons, C1-4, sweetened; Petroleum gas\n(A complex combination of hydrocarbons obtained by subjecting hydrocarbon gases to a sweetening process to convert mercaptans or to remove acidic impurities. It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately - 164 °C to - 0,5 °C.)",
+                    "649-089-00-3",
+                    "271-038-5",
+                    "68514-36-3",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68514-36-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-038-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-089-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C1-4, sweetened; Petroleum gas"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "649-087-00-2",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "649-087-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas\n(A complex residuum from the distillation of streams from various refinery operations. It consists of hydrocarbons having carbon numbers in the range of C4 through C5, predominantly butane, and boiling in the range of approximately -11,7 to 27,8 °C.)",
+                    "649-087-00-2",
+                    "271-010-2",
+                    "68513-66-6",
+                    "K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68513-66-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-010-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-087-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "649-087-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas\n(A complex residuum from the distillation of streams from various refinery operations. It consists of hydrocarbons having carbon numbers in the range of C4 through C5, predominantly butane, and boiling in the range of approximately - 11,7 to 27,8 °C.)",
+                    "649-087-00-2",
+                    "271-010-2",
+                    "68513-66-6",
+                    "K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68513-66-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-010-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-087-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "649-089-00-3",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "649-089-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hydrocarbons, C1-4, sweetened; Petroleum gas\n(A complex combination of hydrocarbons obtained by subjecting hydrocarbon gases to a sweetening process to convert mercaptans or to remove acidic impurities. It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately - 164 to -0,5 °C.)",
+                    "649-089-00-3",
+                    "271-038-5",
+                    "68514-36-3",
+                    "K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68514-36-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-038-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-089-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C1-4, sweetened; Petroleum gas"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "649-089-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hydrocarbons, C1-4, sweetened; Petroleum gas\n(A complex combination of hydrocarbons obtained by subjecting hydrocarbon gases to a sweetening process to convert mercaptans or to remove acidic impurities. It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately - 164 to - 0,5 °C.)",
+                    "649-089-00-3",
+                    "271-038-5",
+                    "68514-36-3",
+                    "K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68514-36-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-038-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-089-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C1-4, sweetened; Petroleum gas"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "649-087-00-2",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "649-087-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas\n(A complex residuum from the distillation of streams from various refinery operations. It consists of hydrocarbons having carbon numbers in the range of C4 through C5, predominantly butane, and boiling in the range of approximately -11,7 °C to 27,8 °C.)",
+                    "649-087-00-2",
+                    "271-010-2",
+                    "68513-66-6",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68513-66-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-010-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-087-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "649-087-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas\n(A complex residuum from the distillation of streams from various refinery operations. It consists of hydrocarbons having carbon numbers in the range of C4 through C5, predominantly butane, and boiling in the range of approximately - 11,7 °C to 27,8 °C.)",
+                    "649-087-00-2",
+                    "271-010-2",
+                    "68513-66-6",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68513-66-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-010-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-087-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Residues (petroleum), alkylation splitter, C4-rich; Petroleum gas"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "649-089-00-3",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "649-089-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hydrocarbons, C1-4, sweetened; Petroleum gas\n(A complex combination of hydrocarbons obtained by subjecting hydrocarbon gases to a sweetening process to convert mercaptans or to remove acidic impurities. It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately - 164 °C to -0,5 °C.)",
+                    "649-089-00-3",
+                    "271-038-5",
+                    "68514-36-3",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68514-36-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-038-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-089-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C1-4, sweetened; Petroleum gas"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "649-089-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hydrocarbons, C1-4, sweetened; Petroleum gas\n(A complex combination of hydrocarbons obtained by subjecting hydrocarbon gases to a sweetening process to convert mercaptans or to remove acidic impurities. It consists of hydrocarbons having carbon numbers predominantly in the range of C1 through C4 and boiling in the range of approximately - 164 °C to - 0,5 °C.)",
+                    "649-089-00-3",
+                    "271-038-5",
+                    "68514-36-3",
+                    "H, K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68514-36-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-038-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-089-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hydrocarbons, C1-4, sweetened; Petroleum gas"
+              }
+            }
+          ],
+          "unchanged": 1255,
+          "whitespace_only": 32,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 7,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 7,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -576,6 +1219,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 4,
       "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

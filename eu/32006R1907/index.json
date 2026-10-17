@@ -2002,10 +2002,10 @@
       "in_force": [
         "2009-02-20"
       ],
-      "updated_on": "2026-10-08",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32006R1907/changes/02006R1907-20090220.json",
-      "sha256": "938582aea13bbdf04cccd88cd9956ad3d2d53984c7a5135ee6188c375e118779",
+      "sha256": "9ce481cf2a1113c3c5e3e1371dd174d574039231f5be6740005c9b6d79099dad",
       "diff_only": false,
       "counts": {
         "touched": 3,
@@ -2028,6 +2028,10 @@
         {
           "kind": "signals",
           "repaired_on": "2026-10-08"
+        },
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
         }
       ],
       "evidence": true,

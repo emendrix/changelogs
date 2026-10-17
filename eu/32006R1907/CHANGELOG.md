@@ -4405,6 +4405,8 @@ Section 3.3, which previously directed the Commission to adopt criteria defining
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
+Table entries: 0 added, 7 amended (7 only in spacing, dash forms or accents), 0 removed: Index No 649-087-00-2, Index No 649-088-00-8, Index No 649-089-00-3, Index No 649-087-00-2, Index No 649-089-00-3, Index No 649-087-00-2, Index No 649-089-00-3
+
 Both the before and after texts of Annex XVII are cut off before reaching the appendices, so the visible portions of the main table read identically apart from minor spacing and line-break differences. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
 
 The sub-provisions said to differ, Appendix 1, Appendix 2 and Appendix 4, fall within the truncated part of both texts and are not shown here, so no specific wording change in them can be described from the material provided. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090220#anx_XVII)
