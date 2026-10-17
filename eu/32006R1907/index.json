@@ -1241,10 +1241,10 @@
       "in_force": [
         "2017-07-04"
       ],
-      "updated_on": "2026-09-05",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32006R1907/changes/02006R1907-20170704.json",
-      "sha256": "8c6452d14eba8f45dc74a944a6b4e1359d7b8e508dda81c622c34405e902df58",
+      "sha256": "de8d42400b49da6e8959fddfcf707b366db81282837a1740f5462eceffbc4405",
       "diff_only": false,
       "counts": {
         "touched": 2,
@@ -1267,6 +1267,10 @@
         {
           "kind": "evidence",
           "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
         }
       ],
       "evidence": true,

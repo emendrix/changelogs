@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,511 @@
         "changed_within": [
           "AN XIV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XIV",
+              "container": "AN XIV",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Entry Nr",
+                  "Substance",
+                  "Intrinsic property(ies) referred to in Article 57",
+                  "Transitional arrangements",
+                  null,
+                  "Exempted (categories of) uses",
+                  "Review periods"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  "Latest application date\n",
+                  "Sunset date\n",
+                  null,
+                  null
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "32",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "32",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "32.",
+                    "1-Bromopropane (n-propyl bromide)\nEC No\n203-445-0\nCAS No\n106-94-5",
+                    "Toxic for reproduction\n(category 1B)",
+                    "4 January 2019",
+                    "4 July 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-94-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-445-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-Bromopropane (n-propyl bromide)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "33",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "33",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "33.",
+                    "Diisopentylphthalate\nEC No\n210-088-4\nCAS No\n605-50-5",
+                    "Toxic for reproduction\n(category 1B)",
+                    "4 January 2019",
+                    "4 July 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "605-50-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "210-088-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisopentylphthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "34",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "34",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "34.",
+                    "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7 rich\nEC No\n276-158-1\nCAS No\n71888-89-6",
+                    "Toxic for reproduction\n(category 1B)",
+                    "4 January 2019",
+                    "4 July 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71888-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-158-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7 rich"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "35",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "35",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "35.",
+                    "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters\nEC No\n271-084-6\nCAS No\n68515-42-4",
+                    "Toxic for reproduction\n(category 1B)",
+                    "4 January 2019",
+                    "4 July 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68515-42-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-084-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "36",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "36",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "36.",
+                    "1,2-Benzenedicarboxylic acid, dipentylester, branched and linear\nEC No\n284-032-2\nCAS No\n84777-06-0",
+                    "Toxic for reproduction\n(category 1B)",
+                    "4 January 2019",
+                    "4 July 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84777-06-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-032-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, dipentylester, branched and linear"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "37",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "37",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "37.",
+                    "Bis(2-methoxyethyl) phthalate\nEC No\n204-212-6\nCAS No\n117-82-8",
+                    "Toxic for reproduction\n(category 1B)",
+                    "4 January 2019",
+                    "4 July 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-82-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-212-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-methoxyethyl) phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "38",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "38",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "38.",
+                    "Dipentylphthalate\nEC No\n205-017-9\nCAS No\n131-18-0",
+                    "Toxic for reproduction\n(category 1B)",
+                    "4 January 2019",
+                    "4 July 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131-18-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-017-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dipentylphthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "39",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "39",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "39.",
+                    "N-pentyl-isopentylphthalate\nEC No\n—\nCAS No\n776297-69-9",
+                    "Toxic for reproduction\n(category 1B)",
+                    "4 January 2019",
+                    "4 July 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "776297-69-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N-pentyl-isopentylphthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "40",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "40",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "40.",
+                    "Anthracene oil\nEC No\n292-602-7\nCAS No\n90640-80-5",
+                    "Carcinogenic\n(category 1B)\n, PBT, vPvB",
+                    "4 April 2019",
+                    "4 October 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90640-80-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "292-602-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Anthracene oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "41",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "41",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "41.",
+                    "Pitch, coal tar, high temp.\nEC No\n266-028-2\nCAS No\n65996-93-2",
+                    "Carcinogenic\n(category 1B), PBT, vPvB",
+                    "4 April 2019",
+                    "4 October 2020",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-93-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-028-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pitch, coal tar, high temp."
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "42",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "42",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "42.",
+                    "4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated\n(covering well-defined substances and UVCB substances, polymers and homologues)\nEC No\n—\nCAS No\n—",
+                    "Endocrine disrupting properties (Article 57(f) — environment)",
+                    "4 July 2019",
+                    "4 January 2021",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "43",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "43",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "43.",
+                    "4-Nonylphenol, branched and linear, ethoxylated\n(substances with a linear and/or branched alkyl chain with a carbon number of 9 covalently bound in position 4 to phenol, ethoxylated covering UVCB- and well-defined substances, polymers and homologues, which include any of the individual isomers and/or combinations thereof)\nEC No\n—\nCAS No\n—",
+                    "Endocrine disrupting properties (Article 57(f) — environment)",
+                    "4 July 2019",
+                    "4 January 2021",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "4-Nonylphenol, branched and linear, ethoxylated"
+              }
+            }
+          ],
+          "unchanged": 8,
+          "whitespace_only": 23,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -96,7 +601,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -175,6 +681,176 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "68",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "68. Perfluorooctanoic acid (PFOA)\nCAS No 335-67-1\nEC No 206-397-9\nand its salts.\nAny related substance (including its salts and polymers) having a linear or branched perfluoroheptyl group with the formula C7F15- directly attached to another carbon atom, as one of the structural elements.\nAny related substance (including its salts and polymers) having a linear or branched perfluorooctyl group with the formula C8F17- as one of the structural elements.\nThe following substances are excluded from this designation:\nC8F17-X, where X = F, Cl, Br.\nC8F17-C(=O)OH, C8F17-C(=O)O-X′ or C8F17-CF2-X′ (where X′ = any group, including salts).",
+                    "1. Shall not be manufactured, or placed on the market as substances on their own from 4 July 2020.\n2. Shall not, from 4 July 2020, be used in the production of, or placed on the market in:\n(a) another substance, as a constituent;\n(b) a mixture;\n(c) an article,\nin a concentration equal to or above 25 ppb of PFOA including its salts or 1000 ppb of one or a combination of PFOA-related substances.\n3. Points 1 and 2 shall apply from:\n(a) 4 July 2022 to:\n(i) equipment used to manufacture semi-conductors;\n(ii) latex printing inks.\n(b) 4 July 2023 to:\n(i) textiles for the protection of workers from risks to their health and safety;\n(ii) membranes intended for use in medical textiles, filtration in water treatment, production processes and effluent treatment;\n(iii) plasma nano-coatings.\n(c) 4 July 2032 to medical devices other than implantable medical devices within the scope of Directive 93/42/EEC.\n4. Points 1 and 2 shall not apply to any of the following:\n(a) perfluorooctane sulfonic acid and its derivatives, which are listed in Part A of Annex I to Regulation (EC) No 850/2004;\n(b) the manufacture of a substance where this occurs as an unavoidable by-product of the manufacture of fluorochemicals with a carbon chain equal to or shorter than 6 atoms;\n(c) a substance that is to be used, or is used as a transported isolated intermediate, provided that the conditions in points (a) to (f) of Article 18(4) of this Regulation are met;\n(d) a substance, constituent of another substance or mixture that is to be used, or is used:\n(i) in the production of implantable medical devices within the scope of Directive 93/42/EEC;\n(ii) in photographic coatings applied to films, papers or printing plates;\n(iii) in photo-lithography processes for semiconductors or in etching processes for compound semiconductors;\n(e) concentrated fire-fighting foam mixtures that were placed on the market before 4 July 2020 and are to be used, or are used in the production of other fire-fighting foam mixtures.\n5. Point 2(b) shall not apply to fire-fighting foam mixtures which were:\n(a) placed on the market before 4 July 2020; or\n(b) produced in accordance with point 4(e), provided that, where they are used for training purposes, emissions to the environment are minimised and effluents collected are safely disposed of.\n6. Point 2(c) shall not apply to:\n(a) articles placed on the market before 4 July 2020;\n(b) implantable medical devices produced in accordance with point 4(d)(i);\n(c) articles coated with the photographic coatings referred to in point 4(d)(ii);\n(d) semiconductors or compound semiconductors referred to in point 4(d)(iii)."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA)"
+              }
+            }
+          ],
+          "unchanged": 1124,
+          "whitespace_only": 581,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -215,7 +891,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -350,7 +1027,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -426,6 +1104,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

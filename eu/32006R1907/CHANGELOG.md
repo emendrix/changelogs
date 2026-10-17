@@ -2228,6 +2228,8 @@ The wood-treatment derogation text under entry 31 also differs, with the after t
 
 *within* `AN XIV` · *dates* +2019-01-04 +2019-04-04 +2019-07-04 +2019-09-01 +2020-07-04 +2020-10-04 +2021-01-04 +2021-03-01 · *amended by* `32017R0999`
 
+Table entries: 12 added, 0 amended, 0 removed: Entry 32, Entry 33, Entry 34, Entry 35, Entry 36, Entry 37, Entry 38, Entry 39, Entry 40, Entry 41 and 2 more
+
 The after text adds several new introductory notes on transitional dates for spare parts and repair uses, and a note on the benzo[a]pyrene threshold for carcinogen identification, none of which appear in the before text. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV)
 
 The after text also adds twelve new entries (numbers 32 to 43) covering additional substances such as 1-Bromopropane, several phthalates, anthracene oil, coal tar pitch, and two ethoxylated phenols, each with its own latest application and sunset dates, which are not present in the before text. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XIV) [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XIV)
@@ -2299,6 +2301,8 @@ The after text also adds twelve new entries (numbers 32 to 43) covering addition
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2020-07-04 +2022-07-04 +2023-07-04 +2032-07-04 · *amended by* `32017R1000`
+
+Table entries: 1 added, 0 amended, 0 removed: Entry 68
 
 Both versions of Annex XVII shown here are truncated at the same point, and the visible portions of the text through the entries for creosote-related substances appear identical between the two dates. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170704#anx_XVII)
 
