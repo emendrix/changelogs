@@ -707,6 +707,8 @@ Both versions were shown truncated, so any further differences in the substance 
 
 *within* `AN III` · *dates* +2023-08-15 +2026-07-31 +2028-07-31 · *amended by* `32023R1545`
 
+Table entries: 45 added, 17 amended, 0 removed: Reference number 45, Reference number 46, Reference number 70, Reference number 73, Reference number 86, Reference number 88, Reference number 109, Reference number 114, Reference number 122, Reference number 124 and 52 more
+
 The AFTER text adds several new introductory footnote-style entries not present in the BEFORE text, including statements allowing cosmetic products containing certain substances that do not comply with restrictions to still be placed on the Union market until 31 July 2026 and made available until 31 July 2028, one of which is conditioned on compliance with restrictions applicable on 15 August 2023. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20230816#anx_III)
 
 The AFTER text also adds new cross-reference notes pointing to Annex II entries for Verbena essential oils and Oil from the seeds of Laurus nobilis L., and a note tying a substance's peroxide value to the restriction in entry 130, none of which appear in the BEFORE text. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20230816#anx_III)

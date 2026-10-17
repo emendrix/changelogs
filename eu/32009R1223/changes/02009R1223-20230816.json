@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,4506 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "45",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "45",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "45",
+                    "Benzyl alcohol\n",
+                    "Benzyl Alcohol",
+                    "100-51-6",
+                    "202-859-9",
+                    "(a) Solvent",
+                    "",
+                    "For purposes other than inhibiting the development of microorganisms in the product. This purpose has to be apparent from the presentation of the product.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Fragrance/aromatic compositions/their raw materials",
+                    null,
+                    "(b) The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)(g) when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "100-51-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-859-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzyl alcohol"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "45",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "45",
+                    "Benzyl alcohol\n",
+                    "Benzyl Alcohol",
+                    "100-51-6",
+                    "202-859-9",
+                    "",
+                    "",
+                    "For purposes other than inhibiting the development of microorganisms in the product. This purpose has to be apparent from the presentation of the product.\nThe presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "100-51-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-859-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzyl alcohol"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "46",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "46",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "46",
+                    "6-Methylcoumarin",
+                    "6-Methylcoumarin",
+                    "92-48-8",
+                    "202-158-8",
+                    "Oral products",
+                    "0,003 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "92-48-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-158-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "6-Methylcoumarin"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "46",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "46",
+                    "6-Methylcoumarin\n",
+                    "6-Methyl Coumarin",
+                    "92-48-8",
+                    "202-158-8",
+                    "Oral products",
+                    "0,003 %",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "92-48-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-158-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "6-Methylcoumarin"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "70",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "70",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "70",
+                    "3,7-Dimethyl-2,6-octadienal",
+                    "Citral",
+                    "5392-40-5",
+                    "226-394-6",
+                    "",
+                    "",
+                    "The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)(g) when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5392-40-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-394-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,7-Dimethyl-2,6-octadienal"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "70",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "70",
+                    "3,7-Dimethyl-2,6-octadienal",
+                    "Citral",
+                    "5392-40-5",
+                    "226-394-6",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Citral in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    "(E)-3,7-dimethylocta-2,6-dienal\n",
+                    "Geranial",
+                    "141-27-5",
+                    "205-476-5",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(Z)-3,7-dimethylocta-2,6-dienal\n",
+                    "Neral",
+                    "106-26-3",
+                    "203-379-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-26-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "141-27-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5392-40-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-379-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-476-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-394-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,7-Dimethyl-2,6-octadienal"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "73",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "73",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "73",
+                    "Phenol, 2-methoxy-4-(1-propenyl)",
+                    "Isoeugenol",
+                    "97-54-1/5932-68-3",
+                    "202-590-7/227-678-2",
+                    "(a) Oral products",
+                    "",
+                    "(a) (b)\nThe presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)(g) when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Other products",
+                    "(b) 0,02 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5932-68-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "97-54-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-590-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-678-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phenol, 2-methoxy-4-(1-propenyl)"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "73",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "73",
+                    "Phenol, 2-methoxy-4-(1-propenyl)",
+                    "Isoeugenol",
+                    "97-54-1",
+                    "202-590-7",
+                    "(a) Oral products\n(b) Other products",
+                    "(b) 0,02 %",
+                    "(a) (b)\nThe presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    "(E)-2-methoxy-4-(prop-1-enyl)phenol;\n(trans-Isoeugenol)",
+                    null,
+                    "5932-68-3",
+                    "227-678-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(Z)-2-methoxy-4-(prop-1-enyl)phenol;\n(cis-Isoeugenol)",
+                    null,
+                    "5912-86-7",
+                    "227-633-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5912-86-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5932-68-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "97-54-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-590-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-633-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-678-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phenol, 2-methoxy-4-(1-propenyl)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "86",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "86",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "86",
+                    "Citronellol/(±) -3,7-dimethyloct-6-en-1-ol",
+                    "Citronellol",
+                    "106-22-9/26489-01-0",
+                    "203-375-0/247-737-6",
+                    "",
+                    "",
+                    "The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)(g) when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-22-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26489-01-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-375-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-737-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Citronellol/(±) -3,7-dimethyloct-6-en-1-ol"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "86",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "86",
+                    "Citronellol/ (±)\n3,7-Dimethyl-6-octen-1-ol",
+                    "Citronellol",
+                    "106-22-9/\n26489-01-0",
+                    "203-375-0/\n247-737-6",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    "(3R)-3,7-dimethyloct-6-en-1-ol",
+                    null,
+                    "1117-61-9",
+                    "214-250-5",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(3S)-3,7-dimethyloct-6-en-1-ol",
+                    null,
+                    "7540-51-4",
+                    "231-415-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-22-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1117-61-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26489-01-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7540-51-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-375-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-250-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-415-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-737-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Citronellol/ (±)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "88",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "88",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "88",
+                    "d-Limonene(4R)-1-Methyl-4-(1-methylethenyl) cyclohexene",
+                    "Limonene",
+                    "5989-27-5",
+                    "227-813-5",
+                    "",
+                    "",
+                    "The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)(g) when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products\nPeroxide value less than 20 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5989-27-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-813-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "d-Limonene(4R)-1-Methyl-4-(1-methylethenyl) cyclohexene"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "88",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "88",
+                    "1-methyl-4-prop-1-en-2-yl-cyclohexene; dl-limonene (racemic); Dipentene\n",
+                    "Limonene",
+                    "138-86-3/\n7705-14-8",
+                    "205-341-0/\n231-732-0",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.\nThe peroxide value for each substance shall be less than 20 mmoles/L\n",
+                    ""
+                  ],
+                  [
+                    null,
+                    "(R)-p-mentha-1,8-diene; (d-limonene)",
+                    null,
+                    "5989-27-5",
+                    "227-813-5",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(S)-p-mentha-1,8-diene; (l-limonene)\n",
+                    null,
+                    "5989-54-8",
+                    "227-815-6",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "138-86-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5989-27-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5989-54-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7705-14-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-341-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-813-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-815-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-732-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-methyl-4-prop-1-en-2-yl-cyclohexene; dl-limonene (racemic); Dipentene"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "109",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "109",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "109",
+                    "Pinus mugo oil and extract",
+                    "Pinus Mugo Leaf Oil\nPinus Mugo Twig Leaf Extract\nPinus Mugo Twig Oil",
+                    "90082-72-7",
+                    "290-163-6",
+                    "",
+                    "",
+                    "Peroxide value less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90082-72-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-163-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pinus mugo oil and extract"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "109",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "109",
+                    "Pinus mugo leaf and twig oil and extract\n",
+                    "Pinus Mugo Leaf Oil; Pinus Mugo Twig Leaf Extract; Pinus Mugo Twig Oil",
+                    "90082-72-7",
+                    "290-163-6",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Pinus Mugo in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.\nThe peroxide value shall be less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90082-72-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-163-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pinus mugo leaf and twig oil and extract"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "114",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "114",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "114",
+                    "Pinus pumila oil and extract",
+                    "Pinus Pumila Twig Leaf Extraćt\nPinus Pumila Twig Leaf Oil",
+                    "97676-05-6",
+                    "307-681-6",
+                    "",
+                    "",
+                    "Peroxide value less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97676-05-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "307-681-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pinus pumila oil and extract"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "114",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "114",
+                    "Pinus pumila leaf and twig oil and extract\n",
+                    "Pinus Pumila Needle Extract;\nPinus Pumila Twig Leaf Extract;\nPinus Pumila Twig Leaf Oil",
+                    "97676-05-6",
+                    "307-681-6",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Pinus Pumila in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.\nThe peroxide value shall be less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97676-05-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "307-681-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pinus pumila leaf and twig oil and extract"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "122",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "122",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "122",
+                    "Cedrus atlantica oil and extract",
+                    "Cedrus Atlantica Bark Extract;\nCedrus Atlantica Bark Oil;\nCedrus Atlantica Bark Water;\nCedrus Atlantica Leaf Extract;\nCedrus Atlantica Wood Extract;\nCedrus Atlantica Wood Oil",
+                    "92201-55-3",
+                    "295-985-9",
+                    "",
+                    "",
+                    "Peroxide value less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "92201-55-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "295-985-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cedrus atlantica oil and extract"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "122",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "122",
+                    "Cedrus atlantica oil and extract\n",
+                    "Cedrus Atlantica Bark Extract;\nCedrus Atlantica Bark Oil;\nCedrus Atlantica Bark Water;\nCedrus Atlantica Leaf Extract;\nCedrus Atlantica Wood Extract;\nCedrus Atlantica Wood Oil",
+                    "92201-55-3/\n8023-85-6",
+                    "295-985-9/\n-",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Cedrus Atlantica Oil/ Extract in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.\nThe peroxide value shall be less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8023-85-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92201-55-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "295-985-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cedrus atlantica oil and extract"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "124",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "124",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "124",
+                    "Turpentine gum (Pinus spp.)",
+                    "Turpentine",
+                    "9005-90-7",
+                    "232-688-5",
+                    "",
+                    "",
+                    "Peroxide value less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "9005-90-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-688-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Turpentine gum (Pinus spp.)"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "124",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "124",
+                    "Turpentine gum (Pinus spp.); Turpentine oil and rectified oil; Turpentine, steam distilled (Pinus spp.)\n",
+                    "Turpentine",
+                    "9005-90-7;\n8006-64-2;\n8052-14-0",
+                    "232-688-5;\n232-350-7;\n-",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.\nThe peroxide value for each substance shall be less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8006-64-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8052-14-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9005-90-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-350-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-688-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Turpentine gum (Pinus spp.); Turpentine oil and rectified oil; Turpentine, steam distilled (Pinus spp.)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "131",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "131",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "131",
+                    "alpha-Terpinene; p-Mentha-1,3-diene",
+                    "alpha-Terpinene",
+                    "99-86-5",
+                    "202-795-1",
+                    "",
+                    "",
+                    "Peroxide value less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99-86-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-795-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "alpha-Terpinene; p-Mentha-1,3-diene"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "131",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "131",
+                    "p-Mentha-1,3-diene\n",
+                    "Alpha-Terpinene",
+                    "99-86-5",
+                    "202-795-1",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.\nThe peroxide value shall be less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99-86-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-795-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "p-Mentha-1,3-diene"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "133",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "133",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "133",
+                    "Terpinolene; p-Mentha-1,4(8)-diene",
+                    "Terpinolene",
+                    "586-62-9",
+                    "209-578-0",
+                    "",
+                    "",
+                    "Peroxide value less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "586-62-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-578-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Terpinolene; p-Mentha-1,4(8)-diene"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "133",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "133",
+                    "p-Mentha-1,4(8)-diene\n",
+                    "Terpinolene",
+                    "586-62-9",
+                    "209-578-0",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products\nThe peroxide value shall be less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "586-62-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-578-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "p-Mentha-1,4(8)-diene"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "154",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "154",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "154",
+                    "Myroxylon balsamum var. pereirae; extracts and distillates; Balsam Peru oil, absolute and anhydrol (Balsam Oil Peru)",
+                    "",
+                    "8007-00-9",
+                    "232-352-8",
+                    "",
+                    "0,4 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8007-00-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-352-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Myroxylon balsamum var. pereirae; extracts and distillates; Balsam Peru oil, absolute and anhydrol (Balsam Oil Peru)"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "154",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "154",
+                    "Myroxylon balsamum var. pereirae; extracts and distillates; Balsam Peru oil, absolute and anhydrol (Balsam Oil Peru)\n",
+                    "Myroxylon Balsamum Pereirae Balsam Extract;\nMyroxylon Balsamum Pereirae Balsam Oil; Myroxylon Pereirae Oil;\nMyroxylon Pereirae Resin Extract;\nMyroxylon Pereirae Resin",
+                    "8007-00-9",
+                    "232-352-8",
+                    "",
+                    "0,4 %",
+                    "The presence of the substance or substances shall be indicated as Myroxylon Pereirae Oil/ Extract in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8007-00-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-352-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Myroxylon balsamum var. pereirae; extracts and distillates; Balsam Peru oil, absolute and anhydrol (Balsam Oil Peru)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "157",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "157",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "157",
+                    "cis-Rose ketone-1\n; (Z)-1-(2,6,6-Trimethyl-2-cyclohexen-1-yl)-2-buten-1-one (cis-alpha-Damascone)",
+                    "Alpha-Damascone",
+                    "23726-94-5 / 43052-87-5",
+                    "245-845-8 / —",
+                    "(a) Oral products",
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Other products",
+                    "(b) 0,02 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "23726-94-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "43052-87-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-845-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "cis-Rose ketone-1"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "157",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "157",
+                    "1-(2,6,6-trimethyl-2-cyclohexen-1-yl)-2-buten-1-one\n",
+                    "Alpha-Damascone;\ncis-Rose ketone 1",
+                    "43052-87-5/\n23726-94-5",
+                    "-/\n245-845-8",
+                    "(a) Oral products\n(b) Other products",
+                    "(b) 0,02 %",
+                    "(a) (b)\nThe presence of the substance or substances shall be indicated as Rose Ketones in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "trans-Rose ketone 1",
+                    "24720-09-0",
+                    "246-430-4",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "1-(2,6,6-Trimethylcyclohexa-1,3-dien-1-yl)-2-buten-1-one(16)\n",
+                    "Rose ketone 4 (Damascone)",
+                    "23696-85-7",
+                    "245-833-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "1-(2,6,6-Trimethyl-3-cyclohexen-1-yl)-2-buten-1-one(16)\n",
+                    "Rose ketone 3 (delta-Damascone)",
+                    "57378-68-4",
+                    "260-709-8",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "trans-Rose ketone 3",
+                    "71048-82-3",
+                    "275-156-8",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(Z)-1-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2-buten-1-one (16)\n",
+                    "cis-Rose ketone 2\n(cis-beta-Damascone)",
+                    "23726-92-3",
+                    "245-843-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(E)-1-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-2-buten-1-one(16)\n",
+                    "trans-Rose ketone 2\n(trans-beta-Damascone)",
+                    "23726-91-2",
+                    "245-842-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "23696-85-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-91-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-92-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-94-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "24720-09-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "43052-87-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "57378-68-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "71048-82-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-833-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-842-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-843-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-845-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-430-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-709-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "275-156-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(2,6,6-trimethyl-2-cyclohexen-1-yl)-2-buten-1-one"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "175",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "175",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "175",
+                    "Propylidenephthalide; 3-Propylidenephthalide",
+                    "Propylidenephthalide",
+                    "17369-59-4",
+                    "241-402-8",
+                    "(a) Oral products",
+                    "",
+                    "",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Other products",
+                    "(b) 0,01 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "17369-59-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "241-402-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propylidenephthalide; 3-Propylidenephthalide"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "175",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "175",
+                    "3-Propylidene-1(3H)-isobenzofuranone;\n3-Propylidenephthalide\n",
+                    "3-Propylidenephthalide",
+                    "17369-59-4",
+                    "241-402-8",
+                    "(a) Oral products\n(b) Other products",
+                    "b) 0,01 %",
+                    "(a)\nThe presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "17369-59-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "241-402-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-Propylidene-1(3H)-isobenzofuranone;"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "196",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "196",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "196",
+                    "Verbena absolute (Lippia citriodora Kunth.)",
+                    "",
+                    "8024-12-2",
+                    "—",
+                    "",
+                    "0,2 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8024-12-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Verbena absolute (Lippia citriodora Kunth.)"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "196",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "196",
+                    "Verbena absolute\n",
+                    "Lippia citriodora absolute",
+                    "8024-12-2/\n85116-63-8",
+                    "-\n285-515-0",
+                    "",
+                    "0,2 %",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8024-12-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85116-63-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "285-515-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Verbena absolute"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "324",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "324",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "324",
+                    "Methyl 2-hydroxybenzoate",
+                    "Methyl Salicylate",
+                    "119-36-8",
+                    "204-317-7",
+                    "(a) Leave-on skin products (except face makeup, spray/aerosol body lotion, spray/aerosol deodorant and hydroalcoholic-based fragrances) and leave on hair products (except spray/aerosol products)",
+                    "(a) 0,06 %",
+                    "Not to be used in preparations for children under 6 years of age, with the exception of (k) Toothpaste",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Face makeup (except lip products, eye makeup and makeup remover)",
+                    "(b) 0,05 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) Eye makeup and makeup remover",
+                    "(c) 0,002 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(d) Leave-on hair products (spray/aerosol)",
+                    "(d) 0,009 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(e) Deodorant spray/aerosol",
+                    "(e) 0,003 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(f) Body lotion spray/aerosol",
+                    "(f) 0,04 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(g) Rinse-off skin products (except hand wash) and rinse-off hair products",
+                    "(g) 0,06 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(h) Hand wash",
+                    "(h) 0,6 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(i) Hydroalcoholic-based fragrances",
+                    "(i) 0,6 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(j) Lip products",
+                    "(j) 0,03 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(k) Toothpaste",
+                    "(k) 2,52 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(l) Mouthwash intended for children aged 6–10 years",
+                    "(l) 0,1 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(m) Mouthwash intended for children above 10 years of age and adults",
+                    "(m) 0,6 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(n) Mouth spray",
+                    "(n) 0,65 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "119-36-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-317-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methyl 2-hydroxybenzoate"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "324",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "324",
+                    "Methyl 2-hydroxybenzoate\n",
+                    "Methyl Salicylate",
+                    "119-36-8",
+                    "204-317-7",
+                    "(a) Leave-on skin products (except face makeup, spray/aerosol body lotion, spray/aerosol deodorant and hydroalcoholic-based fragrances) and leave on hair products (except spray/aerosol products)",
+                    "(a) 0,06 %",
+                    "Not to be used in preparations for children under 6 years of age, with the exception of (k) Toothpaste.\nThe presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Face makeup (except lip products, eye makeup and makeup remover)",
+                    "(b) 0,05 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) Eye makeup and makeup remover",
+                    "(c) 0,002 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(d) Leave-on hair products (spray/aerosol)",
+                    "(d) 0,009 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(e) Deodorant spray/aerosol",
+                    "(e) 0,003 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(f) Body lotion spray/aerosol",
+                    "(f) 0,04 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(g) Rinse-off skin products (except hand wash) and rinse-off hair products",
+                    "(g) 0,06 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(h) Hand wash",
+                    "(h) 0,6 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(i) Hydroalcoholic-based fragrances",
+                    "(i) 0,6 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(j) Lip products",
+                    "(j) 0,03 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(k) Toothpaste",
+                    "(k) 2,52 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(l) Mouthwash intended for children aged 6–10 years",
+                    "(l) 0,1 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(m) Mouthwash intended for children above 10 years of age and adults",
+                    "(m) 0,6 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(n) Mouth spray",
+                    "(n) 0,65 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "119-36-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-317-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methyl 2-hydroxybenzoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "327",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "327",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "327",
+                    "[3R-(3α,3aβ,7β,8aα)]-1-(2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-1H-3a,7-methanoazulen-5-yl)ethan-1-one\n",
+                    "Acetyl Cedrene",
+                    "32388-55-9",
+                    "251-020-3",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "32388-55-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-020-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "[3R-(3α,3aβ,7β,8aα)]-1-(2,3,4,7,8,8a-hexahydro-3,6,8,8-tetramethyl-1H-3a,7-methanoazulen-5-yl)ethan-1-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "328",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "328",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "328",
+                    "Pentyl-2-hydroxy-benzoate\n",
+                    "Amyl Salicylate",
+                    "2050-08-0",
+                    "218-080-2",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2050-08-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-080-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentyl-2-hydroxy-benzoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "329",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "329",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "329",
+                    "1-Methoxy-4-(1E)-1-propen-1-yl-benzene (trans-Anethole)\n",
+                    "Anethole",
+                    "104-46-1/ 4180-23-8",
+                    "203-205-5/ 224-052-0",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "104-46-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "4180-23-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-205-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "224-052-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-Methoxy-4-(1E)-1-propen-1-yl-benzene (trans-Anethole)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "330",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "330",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "330",
+                    "Benzaldehyde\n",
+                    "Benzaldehyde",
+                    "100-52-7",
+                    "202-860-4",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "100-52-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-860-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzaldehyde"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "331",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "331",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "331",
+                    "Bornan-2-one; 1,7,7-Trimethylbi-cyclo[2.2.1]-2-heptanone\n",
+                    "Camphor",
+                    "76-22-2/ 21368-68-3/ 464-49-3/ 464-48-2",
+                    "200-945-0/ 244-350-4/ 207-355-2/ 207-354-7",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "21368-68-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "464-48-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "464-49-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "76-22-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-945-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "207-354-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "207-355-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "244-350-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bornan-2-one; 1,7,7-Trimethylbi-cyclo[2.2.1]-2-heptanone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "332",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "332",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "332",
+                    "(1R,4E,9S)-4,11,11-Trimethyl-8-methylenebicyclo[7.2.0]undec-4-ene\n",
+                    "Beta-Caryophyllene",
+                    "87-44-5",
+                    "201-746-1",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-44-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-746-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(1R,4E,9S)-4,11,11-Trimethyl-8-methylenebicyclo[7.2.0]undec-4-ene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "333",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "333",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "333",
+                    "2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one;(5R)-2-Methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one;(5S)-2-Methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one\n",
+                    "Carvone",
+                    "99-49-0 / 6485-40-1/ 2244-16-8",
+                    "202-759-5/ 229-352-5/ 218-827-2",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2244-16-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "6485-40-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "99-49-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-759-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-827-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-352-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one;(5R)-2-Methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one;(5S)-2-Methyl-5-prop-1-en-2-ylcyclohex-2-en-1-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "334",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "334",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "334",
+                    "2-Methyl-1-phenyl-2-propyl acetate; Dimethylbenzyl Carbinyl Acetate\n",
+                    "Dimethyl Phenethyl Acetate",
+                    "151-05-3",
+                    "205-781-3",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "151-05-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-781-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Methyl-1-phenyl-2-propyl acetate; Dimethylbenzyl Carbinyl Acetate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "335",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "335",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "335",
+                    "Oxacyclohepta-decan-2-one\n",
+                    "Hexadecanolactone",
+                    "109-29-5",
+                    "203-662-0",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "109-29-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-662-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Oxacyclohepta-decan-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "336",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "336",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "336",
+                    "1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta-γ-2-benzopyran\n",
+                    "Hexamethylindanopyran",
+                    "1222-05-5",
+                    "214-946-9",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1222-05-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-946-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta-γ-2-benzopyran"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "337",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "337",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "337",
+                    "3,7-Dimethyl octa-1,6-diene-3-yl acetate\n",
+                    "Linalyl Acetate",
+                    "115-95-7",
+                    "204-116-4",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-95-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-116-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,7-Dimethyl octa-1,6-diene-3-yl acetate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "338",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "338",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "338",
+                    "Menthol;\ndl-menthol;\nl-menthol;\nd-menthol\n",
+                    "Menthol",
+                    "89-78-1 / 1490-04-6 / 2216-51-5 / 15356-60-2",
+                    "201-939-0/ 216-074-4/ 218-690-9/ 239-387-8",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1490-04-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "15356-60-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2216-51-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "89-78-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-939-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-074-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-690-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-387-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Menthol;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "339",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "339",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "339",
+                    "3-Methyl-5-(2,2,3-Trimethyl-3-Cyclopentenyl)pent-4-en-2-ol\n",
+                    "Trimethylcyclopentenyl Methylisopentenol",
+                    "67801-20-1",
+                    "267-140-4",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67801-20-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "267-140-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-Methyl-5-(2,2,3-Trimethyl-3-Cyclopentenyl)pent-4-en-2-ol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "340",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "340",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "340",
+                    "o-Hydroxy-benzaldehyde\n",
+                    "Salicylaldehyde",
+                    "90-02-8",
+                    "201-961-0",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90-02-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-961-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "o-Hydroxy-benzaldehyde"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "341",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "341",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "341",
+                    "5-(2,3-Dimethyl-tricyclo[2.2.1.02,6]-hept-3-yl)-2-methylpent-2-en-1-ol (alpha-Santalol);\n(1S-(1a,2a(Z),4a))-2-Methyl-5-(2-methyl-3-methylenebicyclo[2.2.1]hept-2-yl)-2-penten-1-ol\n(beta-Santalol)\n",
+                    "Santalol",
+                    "11031-45-1/\n115-71-9/\n77-42-9",
+                    "234-262-4/\n204-102-8/\n201-027-2",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "11031-45-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "115-71-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77-42-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-027-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-102-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-262-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-(2,3-Dimethyl-tricyclo[2.2.1.02,6]-hept-3-yl)-2-methylpent-2-en-1-ol (alpha-Santalol);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "342",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "342",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "342",
+                    "[1R-(1alpha)]-alpha-Ethenyldecahydro-2-hydroxy-a,2,5,5,8a-pentamethyl-1-naphthalenepropanol\n",
+                    "Sclareol",
+                    "515-03-7",
+                    "208-194-0",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "515-03-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-194-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "[1R-(1alpha)]-alpha-Ethenyldecahydro-2-hydroxy-a,2,5,5,8a-pentamethyl-1-naphthalenepropanol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "343",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "343",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "343",
+                    "2-(4-methylcyclohex-3-en-1-yl)propan-2-ol; p-Menth-1-en-8-ol (alpha-Terpineol); 1-methyl-4-(1-methylvinyl)cyclohexan-1-ol (beta-Terpineol); 1-methyl-4-(1-methylethylidene)cyclohexan-1-ol (gamma-Terpineol)\n",
+                    "Terpineol",
+                    "8000-41-7/\n98-55-5/\n138-87-4/\n586-81-2",
+                    "232-268-1/\n202-680-6/\n205-342-6/\n209-584-3",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "138-87-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "586-81-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8000-41-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "98-55-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-680-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-342-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-584-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-268-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(4-methylcyclohex-3-en-1-yl)propan-2-ol; p-Menth-1-en-8-ol (alpha-Terpineol); 1-methyl-4-(1-methylvinyl)cyclohexan-1-ol (beta-Terpineol); 1-methyl-4-(1-methylethylidene)cyclohexan-1-ol (gamma-Terpineol)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "344",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "344",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "344",
+                    "1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one; 1-(1,2,3,4,5,6,7,8-octahydro-2,3,5,5-tetramethyl-2-naphthyl)ethan-1-one; 1-(1,2,3,5,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one; 1-(1,2,3,4,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one\n",
+                    "Tetramethyl acetyloctahydronaphthalenes",
+                    "54464-57-2/\n54464-59-4/\n68155-66-8/\n68155-67-9/",
+                    "259-174-3/ 259-175-9/ 268-978-3/ 268-979-9/",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "54464-57-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "54464-59-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68155-66-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68155-67-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "259-174-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "259-175-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "268-978-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "268-979-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(1,2,3,4,5,6,7,8-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one; 1-(1,2,3,4,5,6,7,8-octahydro-2,3,5,5-tetramethyl-2-naphthyl)ethan-1-one; 1-(1,2,3,5,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one; 1-(1,2,3,4,6,7,8,8a-octahydro-2,3,8,8-tetramethyl-2-naphthyl)ethan-1-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "345",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "345",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "345",
+                    "3-(2,2-Dimethyl-3-hydroxypropyl)toluene\n",
+                    "Trimethylbenzenepropanol",
+                    "103694-68-4",
+                    "403-140-4",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "103694-68-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "403-140-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-(2,2-Dimethyl-3-hydroxypropyl)toluene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "346",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "346",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "346",
+                    "4-Hydroxy-3-methoxybenz-aldehyde\n",
+                    "Vanillin",
+                    "121-33-5",
+                    "204-465-2",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "121-33-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-465-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Hydroxy-3-methoxybenz-aldehyde"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "347",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "347",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "347",
+                    "Cananga odorata flower oil and extract; Ylang Ylang flower oil and extract\n",
+                    "Cananga Odorata Flower Extract; Cananga Odorata Flower Oil",
+                    "83863-30-3/\n8006-81-3/ 68606-83-7/\n93686-30-7",
+                    "281-092-1/ -/\n-/\n297-681-1",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Cananga Odorata Oil/Extract in the list of ingredients referred to in Article 19(1), point (g), when the concentration exceeds of the substance or substances:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68606-83-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8006-81-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "83863-30-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "93686-30-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "281-092-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "297-681-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cananga odorata flower oil and extract; Ylang Ylang flower oil and extract"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "348",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "348",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "348",
+                    "Cinnamomum cassia leaf Oil\n",
+                    "Cinnamomum Cassia Leaf Oil",
+                    "8007-80-5/\n84961-46-6",
+                    "-/\n284-635-0",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8007-80-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84961-46-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-635-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cinnamomum cassia leaf Oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "349",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "349",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "349",
+                    "Cinnamomum zeylanicum bark oil\n",
+                    "Cinnamomum Zeylanicum Bark Oil",
+                    "8015-91-6/\n84649-98-9",
+                    "-/\n283-479-0",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8015-91-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84649-98-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-479-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cinnamomum zeylanicum bark oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "350",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "350",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "350",
+                    "Citrus aurantium amara and dulcis flower oil\n",
+                    "Citrus Aurantium Amara Flower Oil",
+                    "72968-50-4",
+                    "277-143-2",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Citrus Aurantium Flower Oil in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "Citrus Aurantium Dulcis Flower Oil",
+                    "8028-48-6/ 8016-38-4",
+                    "232-433-8/\n-",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "72968-50-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8016-38-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8028-48-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-433-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "277-143-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Citrus aurantium amara and dulcis flower oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "351",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "351",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "351",
+                    "Citrus aurantium amara and dulcis peel oil\n",
+                    "Citrus Aurantium Amara Peel Oil",
+                    "68916-04-1/ 72968-50-4",
+                    "-/\n277-143-2",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Citrus Aurantium Peel Oil in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "Citrus Aurantium Dulcis Peel Oil;\nCitrus Sinensis Peel Oil",
+                    "97766-30-8/ 8028-48-6/\n8008-57-9",
+                    "307-891-8/\n232-433-8/\n-",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68916-04-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "72968-50-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8008-57-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8028-48-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "97766-30-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-433-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "277-143-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "307-891-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Citrus aurantium amara and dulcis peel oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "352",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "352",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "352",
+                    "Citrus aurantium bergamia oil (Bergamot oil)\n",
+                    "Citrus Aurantium Bergamia Peel Oil",
+                    "8007-75-8\n89957-91-5\n68648-33-9/\n8007-75-8/\n85049-52-1",
+                    "616-915-9\n289-612-9\n-/\n616-915-9/\n-",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68648-33-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8007-75-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85049-52-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "89957-91-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "289-612-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "616-915-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Citrus aurantium bergamia oil (Bergamot oil)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "353",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "353",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "353",
+                    "Citrus limon oil\n",
+                    "Citrus Limon Peel Oil",
+                    "84929-31-7/\n8008-56-8",
+                    "284-515-8/\n-",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8008-56-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84929-31-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-515-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Citrus limon oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "354",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "354",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "354",
+                    "Cymbopogon citratus / schoenanthus/flexuosus oils\n",
+                    "Cymbopogon Schoenanthus Oil",
+                    "8007-02-1/ 89998-16-3",
+                    "-/\n289-754-1",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Lemongrass Oil in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "Cymbopogon Flexuosus Oil",
+                    "91844-92-7",
+                    "295-161-9",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Cymbopogon Citratus Leaf Oil",
+                    "8007-02-1/\n91844-92-7",
+                    "295-161-9/ 295-161-9",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8007-02-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "89998-16-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "91844-92-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "289-754-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "295-161-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cymbopogon citratus / schoenanthus/flexuosus oils"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "355",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "355",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "355",
+                    "Eucalyptus globulus oil\n",
+                    "Eucalyptus Globulus Leaf Oil;",
+                    "97926-40-4/ 8000-48-4/",
+                    "308-257-3/\n616-775-9/",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Eucalyptus Globulus Oil in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "Eucalyptus Globulus Leaf/Twig Oil",
+                    "8000-48-4",
+                    "616-775-9",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8000-48-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "97926-40-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "308-257-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "616-775-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Eucalyptus globulus oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "356",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "356",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "356",
+                    "Eugenia caryophyllus oil\n",
+                    "Eugenia Caryophyllus Leaf Oil",
+                    "8000-34-8 / 8015-97-2/ 84961-50-2",
+                    "616-772-2/ -/\n284-638-7",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Eugenia Caryophyllus Oil in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "Eugenia Caryophyllus Flower Oil",
+                    "84961-50-2",
+                    "284-638-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Eugenia Caryophyllus Stem oil",
+                    "84961-50-2",
+                    "284-638-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Eugenia Caryophyllus Bud oil",
+                    "84961-50-2",
+                    "284-638-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8000-34-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8015-97-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84961-50-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-638-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "616-772-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Eugenia caryophyllus oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "357",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "357",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "357",
+                    "Jasminum grandiflorum / officinale oil and extract\n",
+                    "Jasminum Grandiflorum Flower Extract;\nJasminum Officinale Oil;\nJasminum Officinale Flower Extract",
+                    "84776-64-7/\n90045-94-6/ 8022-96-6/ 8024-43-9\n90045-94-6",
+                    "283-993-5/\n289-960-1/ -/\n-\n289-960-1",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Jasmine Oil/Extract in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8022-96-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8024-43-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84776-64-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90045-94-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-993-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "289-960-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Jasminum grandiflorum / officinale oil and extract"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "358",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "358",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "358",
+                    "Juniperus virginiana oil\n",
+                    "Juniperus Virginiana Oil; Juniperus Virginiana Wood Oil",
+                    "8000-27-9 / 85085-41-2",
+                    "-/\n285-370-3",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Juniperus Virginiana Oil in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8000-27-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85085-41-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "285-370-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Juniperus virginiana oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "359",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "359",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "359",
+                    "Laurus nobilis oil\n",
+                    "Laurus Nobilis Leaf Oil",
+                    "8002-41-3/\n8007-48-5/\n84603-73-6",
+                    "-/\n-/\n283-272-5",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8002-41-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8007-48-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84603-73-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-272-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Laurus nobilis oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "360",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "360",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "360",
+                    "Lavandula hybrida oil/extract;",
+                    "Lavandula Hybrida Oil;\nLavandula Hybrida Extract;\nLavandula Hybrida Flower Extract;",
+                    "91722-69-9/\n8022-15-9/\n93455-96-0/\n93455-97-1/\n92623-76-2",
+                    "294-470-6/\n-/\n-/\n-/\n296-408-3",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated Lavandula Oil/ Extract in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    "Lavandula intermedia oil/extract;",
+                    "Lavandula Intermedia Flower/Leaf/Stem Extract; Lavandula Intermedia Flower/Leaf/Stem Oil; Lavandula Intermedia Oil",
+                    "84776-65-8/\n8000-28-0/\n90063-37-9",
+                    "283-994-0/\n-/\n289-995-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "Lavandula angustifolia oil/extract\n",
+                    "Lavandula Angustifolia Oil; Lavandula Angustifolia Flower/Leaf/Stem Extract",
+                    "84776-65-8/\n8000-28-0/\n90063-37-9",
+                    "283-994-0/\n-/\n289-995-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8000-28-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "8022-15-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84776-65-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90063-37-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "91722-69-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92623-76-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "93455-96-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "93455-97-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-994-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "289-995-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "294-470-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "296-408-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lavandula hybrida oil/extract;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "361",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "361",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "361",
+                    "Mentha piperita oil\n",
+                    "Mentha Piperita Oil",
+                    "8006-90-4/\n84082-70-2",
+                    "-/\n282-015-4",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8006-90-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84082-70-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "282-015-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Mentha piperita oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "362",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "362",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "362",
+                    "Mentha spicata oil (spearmint oil)\n",
+                    "Mentha Viridis Leaf Oil",
+                    "8008-79-5/\n84696-51-5",
+                    "616-927-4/\n283-656-2",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8008-79-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84696-51-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-656-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "616-927-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Mentha spicata oil (spearmint oil)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "363",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "363",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "363",
+                    "Narcissus poeticus/pseudonarcissus/jonquilla/tazetta extract\n",
+                    "Narcissus Poeticus Extract",
+                    "90064-26-9/\n68917-12-4",
+                    "290-087-3/\n-",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Narcissus Extract in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "Narcissus Pseudonarcissus Flower Extract",
+                    "90064-27-0",
+                    "290-088-9",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Narcissus Jonquilla Extract\nNarcissus Tazetta Extract",
+                    "90064-25-8",
+                    "290-086-8",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68917-12-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90064-25-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90064-26-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90064-27-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-086-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-087-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-088-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Narcissus poeticus/pseudonarcissus/jonquilla/tazetta extract"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "364",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "364",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "364",
+                    "Pelargonium graveolens oil\n",
+                    "Pelargonium Graveolens Flower Oil",
+                    "90082-51-2/\n8000-46-2",
+                    "290-140-0/ -",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8000-46-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90082-51-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-140-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pelargonium graveolens oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "365",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "365",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "365",
+                    "Pogostemon cablin oil\n",
+                    "Pogostemon Cablin Oil",
+                    "8014-09-3/ 84238-39-1",
+                    "-/\n282-493-4",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8014-09-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84238-39-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "282-493-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pogostemon cablin oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "366",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "366",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "366",
+                    "Rosa damascena flower oil/extract;",
+                    "Rosa Damascena Flower Oil; Rosa Damascena Flower Extract",
+                    "8007-01-0/\n90106-38-0/",
+                    "-/\n290-260-3",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Rose Flower Oil/Extract in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    "Rosa alba flower oil/extract;",
+                    "Rosa Alba Flower Oil; Rosa Alba Flower Extract",
+                    "93334-48-6",
+                    "297-122-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "Rosa canina flower oil;",
+                    "Rosa Canina Flower Oil",
+                    "84696-47-9",
+                    "283-652-0",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "Rosa centifolia oil/extract;",
+                    "Rosa Centifolia Flower Oil; Rosa Centifolia Flower Extract",
+                    "84604-12-6",
+                    "283-289-8",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "Rosa gallica flower oil;",
+                    "Rosa Gallica Flower Oil",
+                    "84604-13-7",
+                    "283-290-3",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "Rosa moschata flower oil;",
+                    "Rosa Moschata Flower Oil",
+                    "-",
+                    "-",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "Rosa rugosa flower oil\n",
+                    "Rosa Rugosa Flower Oil",
+                    "92347-25-6",
+                    "296-213-3",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8007-01-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84604-12-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84604-13-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84696-47-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90106-38-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "92347-25-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "93334-48-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-289-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-290-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-652-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-260-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "296-213-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "297-122-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Rosa damascena flower oil/extract;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "367",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "367",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "367",
+                    "Santalum album oil\n",
+                    "Santalum Album Oil",
+                    "8006-87-9/\n84787-70-2",
+                    "-/\n284-111-1",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8006-87-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84787-70-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-111-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Santalum album oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "368",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "368",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "368",
+                    "Phenol, 2-methoxy-4-(2-propenyl)-, acetate\n",
+                    "Eugenyl Acetate",
+                    "93-28-7",
+                    "202-235-6",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "93-28-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-235-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phenol, 2-methoxy-4-(2-propenyl)-, acetate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "369",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "369",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "369",
+                    "2,6-Octadien-1-ol, 3,7-dimethyl-,1-acetate, (2E)-\n",
+                    "Geranyl Acetate",
+                    "105-87-3",
+                    "203-341-5",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "105-87-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-341-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,6-Octadien-1-ol, 3,7-dimethyl-,1-acetate, (2E)-"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "370",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "370",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "370",
+                    "2-Methoxy-4-prop-1-enylphenyl acetate\n",
+                    "Isoeugenyl Acetate",
+                    "93-29-8",
+                    "202-236-1",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "93-29-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-236-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Methoxy-4-prop-1-enylphenyl acetate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "371",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "371",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "371",
+                    "2,6,6-Trimethylbi-cyclo[3.1.1]hept-2-ene (alpha-Pinene);\n6,6-Dimethyl- 2-methylenebicyclo[3.1.1]heptane (beta-Pinene)\n",
+                    "Pinene",
+                    "80-56-8/\n7785-70-8/\n127-91-3/\n18172-67-3",
+                    "201-291-9/\n232-087-8/\n204-872-5/ 242-060-2",
+                    "",
+                    "",
+                    "The presence of the substance or the substances shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or the substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.\nThe peroxide value shall be less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127-91-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "18172-67-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7785-70-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "80-56-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-291-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-872-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-087-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "242-060-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,6,6-Trimethylbi-cyclo[3.1.1]hept-2-ene (alpha-Pinene);"
+              }
+            }
+          ],
+          "unchanged": 321,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -597,6 +5097,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
