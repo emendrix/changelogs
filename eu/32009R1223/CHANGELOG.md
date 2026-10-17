@@ -1153,6 +1153,8 @@ The entry for Octocrylene was changed from a single 10% maximum concentration to
 
 *within* `AN II` · *amended by* `32021R1902`
 
+Table entries: 23 added, 0 amended, 0 removed: Reference number 1658, Reference number 1659, Reference number 1660, Reference number 1661, Reference number 1662, Reference number 1663, Reference number 1664, Reference number 1665, Reference number 1666, Reference number 1667 and 13 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20211001`)
@@ -1174,6 +1176,8 @@ The entry for Octocrylene was changed from a single 10% maximum concentration to
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2022-08-21 +2022-11-21 · *amended by* `32021R1902`, `32022R0135`
+
+Table entries: 1 added, 1 amended, 0 removed: Reference number 24, Reference number 323
 
 A new introductory footnote sentence has been added describing dates of 21 August 2022 and 21 November 2022 for placing on and making available on the Union market cosmetic products containing an unspecified substance that does not comply with restrictions. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220301#anx_III)
 
@@ -1224,6 +1228,8 @@ The remainder of the annex, including the extensive substance tables, appears un
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32021R1902`
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 51
 
 Entry 51, for sodium hydroxymethylglycinate, now includes an additional 'Other' condition stating that it is not to be used if the maximum theoretical concentration of releasable formaldehyde, irrespective of the source, in the mixture as placed on the market is 0,1% w/w or higher. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220301#anx_V)
 
