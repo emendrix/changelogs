@@ -26,6 +26,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I` · *amended by* `32026R0447`
 
+Table entries: 0 added, 1 amended, 0 removed: "Carbon dioxide"
+
 The entry for carbon dioxide (EC number 204-696-9) previously carried no restriction text in the restriction column, but the current version adds a set of exposure conditions covering professional users, general public users or by-standers, and a requirement that appropriate measures be taken as described in the summary of product characteristics. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260819#anx_I)
 
 The added conditions specify numeric acceptable exposure concentration limits for carbon dioxide, including a short-term exposure limit and a time-weighted average for professional users, and a separate ceiling for general public users or by-standers. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260819#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260615#anx_I)
