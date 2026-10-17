@@ -1124,6 +1124,8 @@ Section 3.1 changes the scope of testing that may be omitted from Sections 8.6 a
 
 *within* `AN XIV` · *dates* +2023-06-14 +2024-12-14 +2025-05-27 · *amended by* `32021R2045`
 
+Table entries: 0 added, 4 amended, 0 removed: Entry 4, Entry 5, Entry 6, Entry 7
+
 Entries 4 through 7, covering DEHP, BBP, DBP and DIBP, now list additional intrinsic properties describing endocrine disrupting effects on human health and, for DEHP, on the environment, alongside the existing toxic-for-reproduction classification. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220108#anx_XIV)
 
 The transitional arrangements for these same four entries have been expanded to add new derogation dates and use-specific exemptions, including dates in mid-2023 for latest application and further dates in late 2024 and 2025 for the sunset date, replacing the simpler single-date structure previously shown. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20211001#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220108#anx_XIV)
@@ -1149,6 +1151,8 @@ The transitional arrangements for these same four entries have been expanded to 
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2023-12-12 +2024-12-12 +2025-12-12 · *amended by* `32021R2030`
+
+Table entries: 1 added, 0 amended, 0 removed: Entry 76
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 

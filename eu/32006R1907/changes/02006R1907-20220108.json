@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -56,6 +56,7 @@
           "AN VII SCT 7",
           "AN VII SCT 8"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -90,7 +91,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -203,6 +205,7 @@
           "AN VIII SCT 8",
           "AN VIII SCT 9"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -237,7 +240,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -338,6 +342,7 @@
           "AN IX SCT 8",
           "AN IX SCT 9"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -372,7 +377,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -471,6 +477,7 @@
           "AN X",
           "AN X SCT 8"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -505,7 +512,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -622,6 +630,7 @@
           "AN XI SCT 3 SCT 3.1",
           "AN XI SCT 3 SCT 3.2 PTA (a) PTI (ii)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -659,7 +668,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -770,6 +780,333 @@
         "changed_within": [
           "AN XIV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XIV",
+              "container": "AN XIV",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Entry Nr",
+                  "Substance",
+                  "Intrinsic property(ies) referred to in Article 57",
+                  "Transitional arrangements",
+                  null,
+                  "Exempted (categories of) uses",
+                  "Review periods"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  "Latest application date\n",
+                  "Sunset date\n",
+                  null,
+                  null
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4.",
+                    "Bis(2-ethylhexyl) phthalate\n(DEHP)\nEC No\n204-211-0\nCAS No\n117-81-7",
+                    "Toxic for reproduction\n(category 1B)",
+                    "21 August 2013\n",
+                    "21 February 2015\n",
+                    "Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-81-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-211-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-ethylhexyl) phthalate"
+              },
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4.",
+                    "Bis(2-ethylhexyl) phthalate\n(DEHP)\nEC No\n204-211-0\nCAS No\n117-81-7",
+                    "Toxic for reproduction (category 1B)\nEndocrine disrupting properties (Article 57(f) – human health)\nEndocrine disrupting properties (Article 57(f) – environment)",
+                    "(a) 21 August 2013 (*)\n(b) By way of derogation from point (a):\n14 June 2023 for uses in:\nfood contact materials within the scope of Regulation (EC) No 1935/2004;\nimmediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC;\nmixtures containing DEHP at or above 0,1 % and below 0,3 % weight by weight;\n(c) By derogation of point (a):\n27 November 2023 for uses in medical devices within the scope of Directives 90/385/EEC, 93/42/EEC and 98/79/EC.",
+                    "(a) 21 February 2015 (**)\n(b) By way of derogation from point (a):\n14 December 2024 for uses in:\nfood contact materials within the scope of Regulation (EC) No 1935/2004;\nimmediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC;\nmixtures containing DEHP at or above 0,1 % and below 0,3 % weight by weight;\n(c) By derogation of point (a):\n27 May 2025 for uses in medical devices within the scope of Directives 90/385/EEC, 93/42/EEC and 98/79/EC.",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-81-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-211-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-ethylhexyl) phthalate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5.",
+                    "Benzyl butyl phthalate\n(BBP)\nEC No\n201-622-7\nCAS No\n85-68-7",
+                    "Toxic for reproduction\n(category 1B)",
+                    "21 August 2013\n",
+                    "21 February 2015\n",
+                    "Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-622-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzyl butyl phthalate"
+              },
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5.",
+                    "Benzyl butyl phthalate\n(BBP)\nEC No\n201-622-7\nCAS No\n85-68-7",
+                    "Toxic for reproduction (category 1B)\nEndocrine disrupting properties (Article 57(f) – human health)",
+                    "(a) 21 August 2013 (*)\n(b) By way of derogation from point (a):\n14 June 2023 for uses in:\nimmediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC;\nmixtures containing BBP at or above 0,1 % and below 0,3 % weight by weight.",
+                    "(a) 21 February 2015 (**)\n(b) By way of derogation from point (a):\n14 December 2024 for uses in:\nimmediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC;\nmixtures containing BBP at or above 0,1 % and below 0,3 % weight by weight.",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-622-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzyl butyl phthalate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "6.",
+                    "Dibutyl phthalate\n(DBP)\nEC No\n201-557-4\nCAS No\n84-74-2",
+                    "Toxic for reproduction\n(category 1B)",
+                    "21 August 2013\n",
+                    "21 February 2015\n",
+                    "Uses in the immediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-74-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-557-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutyl phthalate"
+              },
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "6.",
+                    "Dibutyl phthalate\n(DBP)\nEC No\n201-557-4\nCAS No\n84-74-2",
+                    "Toxic for reproduction\n(category 1B)\nEndocrine disrupting properties (Article 57(f) – human health)",
+                    "(a) 21 August 2013 (*)\n(b) By way of derogation from point (a):\n14 June 2023 for uses in:\nimmediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC;\nmixtures containing DBP at or above 0,1 % and below 0,3 % weight by weight.",
+                    "(a) 21 February 2015 (**)\n(b) By way of derogation from point (a):\n14 December 2024 for uses in:\nimmediate packaging of medicinal products covered under Regulation (EC) No 726/2004, Directive 2001/82/EC, and/or Directive 2001/83/EC;\nmixtures containing DBP at or above 0,1 % and below 0,3 % weight by weight.",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-74-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-557-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutyl phthalate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "7.",
+                    "Diisobutyl phthalate (DIBP)\nEC No: 201-553-2\nCAS No: 84-69-5",
+                    "Toxic for reproduction\n(category 1B)",
+                    "21 August 2013\n",
+                    "21 February 2015\n",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-69-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-553-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisobutyl phthalate (DIBP)"
+              },
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "7.",
+                    "Diisobutyl phthalate\n(DIBP)\nEC No\n201-553-2\nCAS No\n84-69-5",
+                    "Toxic for reproduction\n(category 1B)\nEndocrine disrupting properties (Article 57(f) – human health)",
+                    "(a) 21 August 2013 (*)\n(b) By way of derogation from point (a):\n14 June 2023 for uses in mixtures containing DIBP at or above 0,1 % and below 0,3 % weight by weight.",
+                    "(a) 21 February 2015 (**)\n(b) By way of derogation from point (a):\n14 December 2024 for uses in mixtures containing DIBP at or above 0,1 % and below 0,3 % weight by weight.",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-69-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-553-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisobutyl phthalate"
+              }
+            }
+          ],
+          "unchanged": 50,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -809,7 +1146,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -888,6 +1226,205 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "76",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "76",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "76.\nN,N-dimethylformamide\nCAS No 68-12-2\nEC. No 200-679-5",
+                    "1. Shall not be placed on the market as a substance on its own, as a constituent of other substances, or in mixtures in a concentration equal to or greater than 0,3 % after 12 December 2023 unless manufacturers, importers and downstream users have included in the relevant chemical safety reports and safety data sheets, Derived No-Effect Levels (DNELs) relating to exposure of workers of 6 mg/m3 for exposure by inhalation and 1,1 mg/kg/day for dermal exposure.\n2. Shall not be manufactured, or used, as a substance on its own, as a constituent of other substances, or in mixtures in a concentration equal to or greater than 0,3 % after 12 December 2023 unless manufacturers and downstream users take the appropriate risk management measures and provide the appropriate operational conditions to ensure that exposure of workers is below the DNELs specified in paragraph 1.\n3. By way of derogation from paragraphs 1 and 2, the obligations laid down therein shall apply from 12 December 2024 in relation to placing on the market for use, or use, as a solvent in direct or transfer polyurethane coating processes of textiles and paper material or the production of polyurethane membranes, and from 12 December 2025 in relation to placing on the market for use, or use, as a solvent in the dry and wet spinning processes of synthetic fibres."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68-12-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-679-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            }
+          ],
+          "unchanged": 1898,
+          "whitespace_only": 1,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -927,7 +1464,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -1383,7 +1921,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1459,6 +1998,20 @@
         "schema_repairs": 4
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
