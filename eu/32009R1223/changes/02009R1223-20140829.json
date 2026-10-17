@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,215 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "286",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "286",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "286",
+                    "C16-alkyltrimethylammonium chloride",
+                    "Cetrimonium chloride\n",
+                    "112-02-7",
+                    "203-928-6",
+                    "(a) Rinse-off hair products",
+                    "(a) 2,5 % for the individual concentrations or the sum of the individual concentrations of cetrimonium chloride and steartrimonium chloride",
+                    "For purposes other than inhibiting the development of micro-organisms in the product. The purpose has to be apparent from the presentation of the product.",
+                    ""
+                  ],
+                  [
+                    null,
+                    "C18-alkyltrimethylammonium chloride",
+                    "Steartrimonium chloride\n",
+                    "112-03-8",
+                    "203-929-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Leave-on hair products",
+                    "(b) 1,0 % for the individual concentrations or the sum of the individual concentrations of cetrimonium chloride and steartrimonium chloride",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) Leave-on face products",
+                    "(c) 0,5 % for the individual concentrations or the sum of the individual concentrations of cetrimonium chloride and steartrimonium chloride",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "112-02-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "112-03-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-928-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-929-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "C16-alkyltrimethylammonium chloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "287",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "287",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "287",
+                    "C22-alkyltrimethylammonium chloride",
+                    "Behentrimonium chloride\n",
+                    "17301-53-0",
+                    "241-327-0",
+                    "(a) Rinse-off hair products",
+                    "(a) 5,0 % for the individual concentration of behentrimonium chloride or the sum of the individual concentrations of cetrimonium chloride, steartrimonium chloride and behentrimonium chloride, while at the same time respecting the relevant maximum concentration for the sum of cetrimonium chloride and steartrimonium chloride set out in entry 286.",
+                    "For purposes other than inhibiting the development of micro-organisms in the product. The purpose has to be apparent from the presentation of the product.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Leave-on hair products",
+                    "(b) 3,0 % for the individual concentration of behentrimonium chloride or the sum of the individual concentrations of cetrimonium chloride, steartrimonium chloride and behentrimonium chloride, while at the same time respecting the relevant maximum concentration for the sum of cetrimonium chloride and steartrimonium chloride set out in entry 286.",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) Leave-on face products",
+                    "(c) 3,0 % for the individual concentration of behentrimonium chloride or the sum of the individual concentrations of cetrimonium chloride, steartrimonium chloride and behentrimonium chloride, while at the same time respecting the relevant maximum concentration for the sum of cetrimonium chloride and steartrimonium chloride set out in entry 286.",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "17301-53-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "241-327-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "C22-alkyltrimethylammonium chloride"
+              }
+            }
+          ],
+          "unchanged": 293,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -198,6 +407,342 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "44",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "44",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "44",
+                    "Alkyl (C 12-22) trimethyl ammonium bromide and chloride",
+                    "Behentrimonium chloride, cetrimonium bromide, cetrimonium chloride, laurtrimonium bromide, laurtrimonium chloride, steartrimonium bromide, steartrimonium chloride",
+                    "17301-53-0, 57-09-0, 112-02-7, 1119-94-4, 112-00-5, 1120-02-1, 112-03-8",
+                    "241-327-0, 200-311-3, 203-928-6, 214-290-3, 203-927-0, 214-294-5, 203-929-1",
+                    "",
+                    "0,1 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1119-94-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "112-00-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "112-02-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "112-03-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1120-02-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "17301-53-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "57-09-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-311-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-927-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-928-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-929-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-290-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-294-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "241-327-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alkyl (C 12-22) trimethyl ammonium bromide and chloride"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "44",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "44",
+                    "Alkyl (C12-22) trimethyl ammonium bromide and chloride",
+                    "Behentrimonium chloride ,",
+                    "17301-53-0,",
+                    "241-327-0,",
+                    "",
+                    "0,1 %",
+                    "",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "cetrimonium bromide,",
+                    "57-09-0,",
+                    "200-311-3,",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "cetrimonium chloride\n,",
+                    "112-02-7,",
+                    "203-928-6,",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "laurtrimonium bromide,",
+                    "1119-94-4,",
+                    "214-290-3,",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "laurtrimonium chloride,",
+                    "112-00-5,",
+                    "203-927-0,",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "steartrimonium bromide,",
+                    "1120-02-1,",
+                    "214-294-5,",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "steartrimonium chloride\n",
+                    "112-03-8",
+                    "203-929-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1119-94-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "112-00-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "112-02-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "112-03-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1120-02-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "17301-53-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "57-09-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-311-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-927-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-928-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-929-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-290-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-294-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "241-327-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alkyl (C12-22) trimethyl ammonium bromide and chloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "59",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "59",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "59",
+                    "1,2,3-Propanetricarboxylic acid, 2-hydroxy-, monohydrate and 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, silver(1+) salt, monohydrate",
+                    "Citric acid (and) Silver citrate",
+                    "—",
+                    "460-890-5",
+                    "",
+                    "0,2 %, corresponding to 0,0024 % of silver",
+                    "Not to be used in oral products and eye products",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "460-890-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2,3-Propanetricarboxylic acid, 2-hydroxy-, monohydrate and 1,2,3-Propanetricarboxylic acid, 2-hydroxy-, silver(1+) salt, monohydrate"
+              }
+            }
+          ],
+          "unchanged": 58,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -331,6 +876,106 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN VI",
+              "table": 1,
+              "key": "29",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "29",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "29",
+                    "1,3,5-Triazine, 2,4,6-tris[1,1'-biphenyl]-4-yl-, including as nanomaterial",
+                    "Tris-biphenyl triazine\nTris-biphenyl triazine (nano)",
+                    "31274-51-8",
+                    "—",
+                    "",
+                    "10 %",
+                    "Not to be used in sprays.\nOnly nanomaterials having the following characteristics are allowed:\nmedian primary particle size > 80 nm;\nPurity ≥ 98 %;\nUncoated",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "31274-51-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,3,5-Triazine, 2,4,6-tris[1,1'-biphenyl]-4-yl-, including as nanomaterial"
+              }
+            }
+          ],
+          "unchanged": 28,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -587,6 +1232,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 3,
+      "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 3,
       "repaired": 3,
       "remaining": 0,
