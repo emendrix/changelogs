@@ -758,6 +758,8 @@ Part 2 also gains three new entries, numbered 5, 6 and 7 in the text shown, cove
 
 *within* `AN I` · *amended by* `32019R0330`
 
+Table entries: 43 added, 23 amended, 0 removed: "Acetochlor", "Alachlor", "Aldicarb", "All tributyltin compounds, including:", "Amitrole", "Asulam", "Beta-cypermethrin", "Carbofuran", "Chloropicrin", "Dichlorvos" and 56 more
+
 Annex I gained numerous new chemical entries across Parts 1, 2 and 3, including substances such as Acetochlor, Amitrole, Asulam, Beta-cypermethrin, Chloropicrin, DPX KE 459, Fipronil, Flufenoxuron, Iprodione, Isoproturon, Linuron, Maneb, Naled, Orthosulfamuron, Picoxystrobin, Propargite, Triasulfuron and Short-chain chlorinated paraffins, none of which appeared in the prior text. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_I)
 
 A number of existing entries in Parts 1 through 3 had their CN or HS codes, subcategories, or use-limitation markings revised, for example Alachlor, Aldicarb, Carbofuran, Dichlorvos, Diphenylamine, Endosulfan, the tributyltin compound group, and Trichlorfon, compared with the corresponding entries in the earlier annex. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20180401#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_I)
@@ -797,6 +799,8 @@ A number of existing entries in Parts 1 through 3 had their CN or HS codes, subc
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32019R0330`
+
+Table entries: 6 added, 0 amended, 0 removed: "Endosulfan", "Short-chain chlorinated paraffins", No 1, No 2, No 3, No 4
 
 Part 1 gains new entries for Endosulfan and for Short-chain chlorinated paraffins, each listed with its EC number, CAS number and CN code, alongside the previously listed persistent organic pollutants. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20190501#anx_V)
 

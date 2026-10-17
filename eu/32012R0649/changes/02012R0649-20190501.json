@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,3205 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "Einecs No",
+                  "CN code\n",
+                  "Subcategory\n",
+                  "Use limitation\n",
+                  "Countries for which no notification is required"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 2,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "Einecs No",
+                  "CN code\n",
+                  "Category\n",
+                  "Use limitation\n"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 3,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "Relevant CAS number(s)",
+                  "HS code\nPure substance\n",
+                  "HS code\nMixtures containing substance\n",
+                  "Category"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "acetochlor",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "acetochlor",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Acetochlor\n",
+                    "34256-82-1",
+                    "251-899-3",
+                    "ex29242970",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "34256-82-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-899-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acetochlor"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "alachlor",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "alachlor",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Alachlor\n",
+                    "15972-60-8",
+                    "240-110-8",
+                    "29242995",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15972-60-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-110-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alachlor"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "alachlor",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Alachlor\n",
+                    "15972-60-8",
+                    "240-110-8",
+                    "ex29242500",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15972-60-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-110-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alachlor"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "aldicarb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "aldicarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Aldicarb\n",
+                    "116-06-3",
+                    "204-123-2",
+                    "29309085",
+                    "p(1)-p(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "116-06-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-123-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Aldicarb"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "aldicarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Aldicarb\n",
+                    "116-06-3",
+                    "204-123-2",
+                    "ex29308000",
+                    "p(1)-p(2)",
+                    "b-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "116-06-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-123-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Aldicarb"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "all tributyltin compounds, including:",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "all tributyltin compounds, including:",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "All tributyltin compounds, including:",
+                    "",
+                    "",
+                    "29310095",
+                    "p(2)",
+                    "b",
+                    "Please refer to PIC circular at www.pic.int/"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "All tributyltin compounds, including:"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "all tributyltin compounds, including:",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "All tributyltin compounds, including:",
+                    "",
+                    "",
+                    "ex29312000",
+                    "p(1)-p(2)\ni(1)-i(2)",
+                    "b-b\nsr-sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "All tributyltin compounds, including:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "amitrole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "amitrole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Amitrole\n",
+                    "61-82-5",
+                    "200-521-5",
+                    "ex29339980",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61-82-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-521-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Amitrole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "asulam",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "asulam",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Asulam\n",
+                    "3337-71-1\n2302-17-2",
+                    "222-077-1\n218-953-8",
+                    "ex29359090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2302-17-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3337-71-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-953-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-077-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Asulam"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "beta-cypermethrin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "beta-cypermethrin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Beta-cypermethrin\n",
+                    "65731-84-2",
+                    "265-898-0",
+                    "ex29269070",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65731-84-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-898-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Beta-cypermethrin"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "carbofuran",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "carbofuran",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carbofuran\n",
+                    "1563-66-2",
+                    "216-353-0",
+                    "29329985",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1563-66-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-353-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbofuran"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "carbofuran",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carbofuran\n",
+                    "1563-66-2",
+                    "216-353-0",
+                    "ex29329900",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1563-66-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-353-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbofuran"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "chloropicrin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "chloropicrin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chloropicrin\n",
+                    "76-06-2",
+                    "200-930-9",
+                    "ex29049100",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "76-06-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-930-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chloropicrin"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "dichlorvos",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "dichlorvos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dichlorvos\n",
+                    "62-73-7",
+                    "200-547-7",
+                    "29199090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "62-73-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-547-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dichlorvos"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "dichlorvos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dichlorvos\n",
+                    "62-73-7",
+                    "200-547-7",
+                    "ex29199000",
+                    "p(1)-p(2)",
+                    "b-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "62-73-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-547-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dichlorvos"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "dpx ke 459 (flupyrsulfuron-methyl)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "dpx ke 459 (flupyrsulfuron-methyl)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "DPX KE 459 (flupyrsulfuron-methyl)\n",
+                    "150315-10-9\n144740-54-5",
+                    "n.a.",
+                    "ex29359090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "144740-54-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "150315-10-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "DPX KE 459 (flupyrsulfuron-methyl)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "fipronil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "fipronil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fipronil\n",
+                    "120068-37-3",
+                    "n.a.",
+                    "ex29331990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120068-37-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fipronil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "flufenoxuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "flufenoxuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Flufenoxuron\n",
+                    "101463-69-8",
+                    "417-680-3",
+                    "ex29242100",
+                    "p(1)-p(2)",
+                    "b-sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101463-69-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "417-680-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Flufenoxuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "iprodione",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "iprodione",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Iprodione\n",
+                    "36734-19-7",
+                    "253-178-9",
+                    "ex29332100",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "36734-19-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-178-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Iprodione"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "isoproturon",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "isoproturon",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Isoproturon\n",
+                    "34123-59-6",
+                    "251-835-4",
+                    "ex29242100",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "34123-59-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-835-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Isoproturon"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "linuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "linuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Linuron\n",
+                    "330-55-2",
+                    "206-356-5",
+                    "ex29280090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "330-55-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-356-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Linuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "maneb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "maneb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Maneb\n",
+                    "12427-38-2",
+                    "235-654-8",
+                    "ex38249993",
+                    "p(1)-p(2)",
+                    "b-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12427-38-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-654-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Maneb"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "naled",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "naled",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Naled\n",
+                    "300-76-5",
+                    "206-098-3",
+                    "ex29199000",
+                    "p(1)-p(2)",
+                    "b-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "300-76-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-098-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Naled"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "orthosulfamuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "orthosulfamuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Orthosulfamuron\n",
+                    "213464-77-8",
+                    "n.a.",
+                    "ex29335995",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "213464-77-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Orthosulfamuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "picoxystrobin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "picoxystrobin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Picoxystrobin\n",
+                    "117428-22-5",
+                    "n.a.",
+                    "ex29333999",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117428-22-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Picoxystrobin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "propargite",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "propargite",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Propargite\n",
+                    "2312-35-8",
+                    "219-006-1",
+                    "ex29209070",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2312-35-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "219-006-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propargite"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "triasulfuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "triasulfuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triasulfuron\n",
+                    "82097-50-5",
+                    "n.a.",
+                    "ex29359090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "82097-50-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triasulfuron"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "tributyltin benzoate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin benzoate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin benzoate",
+                    "4342-36-3",
+                    "224-399-8",
+                    "29310095",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4342-36-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "224-399-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin benzoate"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin benzoate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin benzoate",
+                    "4342-36-3",
+                    "224-399-8",
+                    "ex29312000",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4342-36-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "224-399-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin benzoate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "tributyltin chloride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin chloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin chloride",
+                    "1461-22-9",
+                    "215-958-7",
+                    "29310095",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1461-22-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-958-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin chloride"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin chloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin chloride",
+                    "1461-22-9",
+                    "215-958-7",
+                    "ex29312000",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1461-22-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-958-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin chloride"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "tributyltin fluoride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin fluoride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin fluoride",
+                    "1983-10-4",
+                    "217-847-9",
+                    "29310095",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1983-10-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-847-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin fluoride"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin fluoride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin fluoride",
+                    "1983-10-4",
+                    "217-847-9",
+                    "ex29312000",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1983-10-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-847-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin fluoride"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "tributyltin linoleate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin linoleate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin linoleate",
+                    "24124-25-2",
+                    "246-024-7",
+                    "29310095",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "24124-25-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-024-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin linoleate"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin linoleate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin linoleate",
+                    "24124-25-2",
+                    "246-024-7",
+                    "ex29312000",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "24124-25-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-024-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin linoleate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "tributyltin methacrylate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin methacrylate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin methacrylate",
+                    "2155-70-6",
+                    "218-452-4",
+                    "29310095",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2155-70-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-452-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin methacrylate"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin methacrylate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin methacrylate",
+                    "2155-70-6",
+                    "218-452-4",
+                    "ex29312000",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2155-70-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-452-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin methacrylate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "tributyltin naphthenate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin naphthenate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin naphthenate\n",
+                    "85409-17-2",
+                    "287-083-9",
+                    "29310095",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85409-17-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "287-083-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin naphthenate"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin naphthenate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin naphthenate\n",
+                    "85409-17-2",
+                    "287-083-9",
+                    "ex29312000",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85409-17-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "287-083-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin naphthenate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "tributyltin oxide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin oxide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin oxide",
+                    "56-35-9",
+                    "200-268-0",
+                    "29310095",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56-35-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-268-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin oxide"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tributyltin oxide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin oxide",
+                    "56-35-9",
+                    "200-268-0",
+                    "ex29312000",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56-35-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-268-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin oxide"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "trichlorfon",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "trichlorfon",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Trichlorfon\n",
+                    "52-68-6",
+                    "200-149-3",
+                    "29310095",
+                    "p(1)-p(2)",
+                    "b-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "52-68-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-149-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trichlorfon"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "trichlorfon",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Trichlorfon\n",
+                    "52-68-6",
+                    "200-149-3",
+                    "ex29313990",
+                    "p(1)-p(2)",
+                    "b-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "52-68-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-149-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trichlorfon"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "2-naphthyloxyacetic acid",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "2-naphthyloxyacetic acid",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-naphthyloxyacetic acid",
+                    "120-23-0",
+                    "204-380-0",
+                    "ex29189990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-23-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-380-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-naphthyloxyacetic acid"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "acetochlor",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "acetochlor",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Acetochlor",
+                    "34256-82-1",
+                    "251-899-3",
+                    "ex29242970",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "34256-82-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-899-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acetochlor"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 2,
+              "key": "aldicarb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "aldicarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Aldicarb",
+                    "116-06-3",
+                    "204-123-2",
+                    "29309085",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "116-06-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-123-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Aldicarb"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "aldicarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Aldicarb (#)",
+                    "116-06-3",
+                    "204-123-2",
+                    "ex29308000",
+                    "p(1)-p(2)",
+                    "b-b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "116-06-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-123-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Aldicarb (#)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "amitrole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "amitrole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Amitrole",
+                    "61-82-5",
+                    "200-521-5",
+                    "ex29339980",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61-82-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-521-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Amitrole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "asulam",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "asulam",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Asulam",
+                    "3337-71-1\n2302-17-2",
+                    "222-077-1\n218-953-8",
+                    "ex29359090",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2302-17-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3337-71-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-953-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-077-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Asulam"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "beta-cypermethrin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "beta-cypermethrin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Beta-cypermethrin",
+                    "65731-84-2",
+                    "265-898-0",
+                    "ex29269070",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65731-84-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-898-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Beta-cypermethrin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "chloropicrin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "chloropicrin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chloropicrin",
+                    "76-06-2",
+                    "200-930-9",
+                    "ex29049100",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "76-06-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-930-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chloropicrin"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 2,
+              "key": "dichlorvos",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "dichlorvos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dichlorvos",
+                    "62-73-7",
+                    "200-547-7",
+                    "29199000",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "62-73-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-547-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dichlorvos"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "dichlorvos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dichlorvos",
+                    "62-73-7",
+                    "200-547-7",
+                    "ex29199000",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "62-73-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-547-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dichlorvos"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "diphenylamine",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "diphenylamine",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diphenylamine",
+                    "122-39-4",
+                    "204-539-4",
+                    "ex29214400",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "122-39-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-539-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diphenylamine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "dpx ke 459 (flupyrsulfuron-methyl)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "dpx ke 459 (flupyrsulfuron-methyl)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "DPX KE 459 (flupyrsulfuron-methyl)",
+                    "150315-10-9\n144740-54-5",
+                    "n.a.",
+                    "ex29359090",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "144740-54-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "150315-10-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "DPX KE 459 (flupyrsulfuron-methyl)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "fipronil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "fipronil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fipronil",
+                    "120068-37-3",
+                    "n.a.",
+                    "ex29331990",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120068-37-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fipronil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "flufenoxuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "flufenoxuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Flufenoxuron",
+                    "101463-69-8",
+                    "417-680-3",
+                    "ex29242100",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101463-69-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "417-680-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Flufenoxuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "iprodione",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "iprodione",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Iprodione",
+                    "36734-19-7",
+                    "253-178-9",
+                    "ex29332100",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "36734-19-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-178-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Iprodione"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "isoproturon",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "isoproturon",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Isoproturon",
+                    "34123-59-6",
+                    "251-835-4",
+                    "ex29242100",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "34123-59-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-835-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Isoproturon"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "linuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "linuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Linuron",
+                    "330-55-2",
+                    "206-356-5",
+                    "ex29280090",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "330-55-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-356-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Linuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "maneb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "maneb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Maneb",
+                    "12427-38-2",
+                    "235-654-8",
+                    "ex38249993",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12427-38-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-654-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Maneb"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "naled",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "naled",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Naled",
+                    "300-76-5",
+                    "206-098-3",
+                    "ex29199000",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "300-76-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-098-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Naled"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "orthosulfamuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "orthosulfamuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Orthosulfamuron",
+                    "213464-77-8",
+                    "n.a.",
+                    "ex29335995",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "213464-77-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Orthosulfamuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "picoxystrobin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "picoxystrobin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Picoxystrobin",
+                    "117428-22-5",
+                    "n.a.",
+                    "ex29333999",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117428-22-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Picoxystrobin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "propanil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "propanil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Propanil",
+                    "709-98-8",
+                    "211-914-6",
+                    "ex29242970",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "709-98-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-914-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propanil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "propargite",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "propargite",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Propargite",
+                    "2312-35-8",
+                    "219-006-1",
+                    "ex29209070",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2312-35-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "219-006-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propargite"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "triasulfuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "triasulfuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triasulfuron",
+                    "82097-50-5",
+                    "n.a.",
+                    "ex29359090",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "82097-50-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triasulfuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "alachlor",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "alachlor",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Alachlor",
+                    "15972-60-8",
+                    "2924.25",
+                    "3808.93",
+                    "Pesticide"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15972-60-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alachlor"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "aldicarb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "aldicarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Aldicarb",
+                    "116-06-3",
+                    "2930.80",
+                    "3808.91",
+                    "Pesticide"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "116-06-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Aldicarb"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 3,
+              "key": "all tributyltin compounds, including:",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "all tributyltin compounds, including:",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "All tributyltin compounds, including:",
+                    "",
+                    "2931.00",
+                    "3808.99",
+                    "Pesticide"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "All tributyltin compounds, including:"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "all tributyltin compounds, including:",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "All tributyltin compounds, including:",
+                    "",
+                    "ex 2931.20",
+                    "3808.59",
+                    "Pesticide\nIndustrial"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "All tributyltin compounds, including:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "carbofuran",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "carbofuran",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carbofuran",
+                    "1563-66-2",
+                    "ex 2932.99",
+                    "3808.91\n3808.59",
+                    "Pesticide"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1563-66-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbofuran"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "endosulfan",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "endosulfan",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Endosulfan",
+                    "115-29-7",
+                    "2920.30",
+                    "3808.91",
+                    "Pesticide"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-29-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Endosulfan"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "short-chain chlorinated paraffins",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "short-chain chlorinated paraffins",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Short-chain chlorinated paraffins",
+                    "85535-84-8",
+                    "ex 3824.99",
+                    "",
+                    "Industrial"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85535-84-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Short-chain chlorinated paraffins"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 3,
+              "key": "tributyltin benzoate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin benzoate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin benzoate",
+                    "4342-36-3",
+                    "2931.00",
+                    "3808.99",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4342-36-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin benzoate"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin benzoate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin benzoate",
+                    "4342-36-3",
+                    "ex 2931.20",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4342-36-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin benzoate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 3,
+              "key": "tributyltin chloride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin chloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin chloride",
+                    "1461-22-9",
+                    "2931.00",
+                    "3808.99",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1461-22-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin chloride"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin chloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin chloride",
+                    "1461-22-9",
+                    "ex 2931.20",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1461-22-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin chloride"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 3,
+              "key": "tributyltin fluoride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin fluoride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin fluoride",
+                    "1983-10-4",
+                    "2931.00",
+                    "3808.99",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1983-10-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin fluoride"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin fluoride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin fluoride",
+                    "1983-10-4",
+                    "ex 2931.20",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1983-10-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin fluoride"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 3,
+              "key": "tributyltin linoleate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin linoleate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin linoleate",
+                    "24124-25-2",
+                    "2931.00",
+                    "3808.99",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "24124-25-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin linoleate"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin linoleate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin linoleate",
+                    "24124-25-2",
+                    "ex 2931.20",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "24124-25-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin linoleate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 3,
+              "key": "tributyltin methacrylate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin methacrylate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin methacrylate",
+                    "2155-70-6",
+                    "2931.00",
+                    "3808.99",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2155-70-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin methacrylate"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin methacrylate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin methacrylate",
+                    "2155-70-6",
+                    "ex 2931.20",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2155-70-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin methacrylate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 3,
+              "key": "tributyltin naphthenate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin naphthenate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin naphthenate",
+                    "85409-17-2",
+                    "2931.00",
+                    "3808.99",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85409-17-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin naphthenate"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin naphthenate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin naphthenate\n",
+                    "85409-17-2",
+                    "ex 2931.20",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85409-17-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin naphthenate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 3,
+              "key": "tributyltin oxide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin oxide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin oxide",
+                    "56-35-9",
+                    "2931.00",
+                    "3808.99",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56-35-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin oxide"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "tributyltin oxide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin oxide",
+                    "56-35-9",
+                    "ex 2931.20",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56-35-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin oxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "trichlorfon",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "trichlorfon",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Trichlorfon",
+                    "52-68-6",
+                    "ex 2931.39",
+                    "3808.91",
+                    "Pesticide"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "52-68-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trichlorfon"
+              }
+            }
+          ],
+          "unchanged": 339,
+          "whitespace_only": 2,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -166,6 +3365,280 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Description of chemicals/article(s) subject to export ban",
+                  "Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)",
+                  null
+                ]
+              ]
+            },
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 2,
+              "key_label": "No",
+              "header": [
+                [
+                  "No",
+                  "Description of chemicals/article(s) subject to export ban",
+                  "Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "endosulfan",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "endosulfan",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "",
+                    "Endosulfan",
+                    "EC No 204-079-4\nCAS No 115-29-7\nCN code 29203000"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-29-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-079-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Endosulfan"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "short-chain chlorinated paraffins",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "short-chain chlorinated paraffins",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "",
+                    "Short-chain chlorinated paraffins",
+                    "EC No 287-476-5\nCAS No 85535-84-8\nCN code 38249992"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85535-84-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "287-476-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Short-chain chlorinated paraffins"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 2,
+              "key": "1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1",
+                    "Cosmetic soaps containing mercury",
+                    "CN codes 34011100, 34011900, 34012010, 34012090, 34013000"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Cosmetic soaps containing mercury"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 2,
+              "key": "2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2",
+                    "Metallic mercury and mixtures of metallic mercury with other substances, including alloys of mercury, with a mercury concentration of at least 95 % by weight",
+                    "CAS RN 7439-97-6\nEC No 231-106-7\nCN code 280540"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-97-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-106-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Metallic mercury and mixtures of metallic mercury with other substances, including alloys of mercury, with a mercury concentration of at least 95 % by weight"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 2,
+              "key": "3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3",
+                    "The following mercury compounds except where they are exported for laboratory-scale research or laboratory analysis:\nCinnabar ore;\nMercury (I) chloride (Cl2Hg2);\nMercury (II) oxide (HgO);\nMercury sulphide (HgS).",
+                    "CAS RNs 10112-91-1, 21908-53-2, 1344-48-5\nEC Nos 233-307-5, 244-654-7, 215-696-3\nCN codes ex28521000, ex28529000"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10112-91-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1344-48-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "21908-53-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-696-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-307-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "244-654-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "The following mercury compounds except where they are exported for laboratory-scale research or laboratory analysis:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 2,
+              "key": "4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 2,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4",
+                    "All mixtures of metallic mercury with other substances, including alloys of mercury, not covered by entry 2 and all mercury compounds not covered by entry 3, if the export of that mixture or compound is for the purpose of reclaiming metallic mercury",
+                    "Including:\nMercury(I) sulphate (Hg2SO4, CAS RN 7783-36-0), mercury(II) thiocyanate (Hg(SCN)2, CAS RN 592-85-8), mercury(I) iodide (Hg2I2, CAS RN 15385-57-6)\nCN codes ex28521000, ex28529000"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15385-57-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "592-85-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7783-36-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "All mixtures of metallic mercury with other substances, including alloys of mercury, not covered by entry 2 and all mercury compounds not covered by entry 3, if the export of that mixture or compound is for the purpose of reclaiming metallic mercury"
+              }
+            }
+          ],
+          "unchanged": 25,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 1,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -455,6 +3928,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 2,
       "repaired": 2,
       "remaining": 0,
