@@ -461,6 +461,8 @@ Both texts are cut off before the end of the Annex, so any further differences b
 
 *within* `AN XIV` · *dates* -2025-05-27 +2029-01-01 +2030-07-01 · *amended by* `32023R2482`
 
+Table entries: 0 added, 1 amended, 0 removed: Entry 4
+
 In entry 4 for DEHP, the derogation for uses in medical devices previously referencing Directives 90/385/EEC, 93/42/EEC and 98/79/EC with a latest application date of 27 November 2023 was replaced by a derogation referencing Regulations (EU) 2017/745 and (EU) 2017/746 with a latest application date of 1 January 2029. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20230806#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20231201#anx_XIV)
 
 Correspondingly, the sunset date for that same medical-devices derogation in entry 4 changed from 27 May 2025 to 1 July 2030, and the wording describing the derogation was adjusted from "by derogation of point (a)" to "by way of derogation from point (a)". [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20230806#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20231201#anx_XIV)
@@ -486,6 +488,8 @@ Correspondingly, the sunset date for that same medical-devices derogation in ent
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII`, `AN XVII APP 2`, `AN XVII APP 6`, `AN XVII APP 15`, `AN XVII APP 16` · *dates* +1957-09-30 +2008-12-16 +2009-10-21 +2018-12-11 +2019-06-05 +2023-10-17 +2025-10-17 +2026-10-17 +2027-10-17 +2028-10-17 +2029-10-17 +2031-10-17 +2031-12-17 +2035-10-16 +2035-10-17 · *amended by* `32026R1168`, `32023R1132`, `32023R2055`
+
+Table entries: 25 added, 0 amended, 0 removed: Entry 78, Index No 023-001-00-8, Index No 601-024-00-X, Index No 603-243-00-6, Index No 606-153-00-5, Index No 035-005-00-7, Index No 050-032-00-4, Index No 050-033-00-X, Index No 052-001-00-0, Index No 052-002-00-6 and 15 more
 
 The list of legal acts cited at the start of the Annex has been expanded, with new references added covering veterinary medicinal products, EU fertilising products, food additives, in vitro diagnostic medical devices, medical devices, and plant protection products. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20231201#anx_XVII)
 
