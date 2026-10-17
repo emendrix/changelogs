@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -56,6 +56,2466 @@
           "AN XVII APP 6",
           "AN XVII APP 12"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "28",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as carcinogen category 1A or 1B (Table 3.1) or carcinogen category 1 or 2 (Table 3.2) and listed as follows:\nCarcinogen category 1A (Table 3.1)/carcinogen category 1 (Table 3.2) listed in Appendix 1\nCarcinogen category 1B (Table 3.1)/carcinogen category 2 (Table 3.2) listed in Appendix 2\n29. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as germ cell mutagen category 1A or 1B (Table 3.1) or mutagen category 1 or 2 (Table 3.2) and listed as follows:\nMutagen category 1A (Table 3.1)/mutagen category 1 (Table 3.2) listed in Appendix 3\nMutagen category 1B (Table 3.1)/mutagen category 2 (Table 3.2) listed in Appendix 4\n30. Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as toxic to reproduction category 1A or 1B (Table 3.1) or toxic to reproduction category 1 or 2 (Table 3.2) and listed as follows:\nReproductive toxicant category 1A adverse effects on sexual function and fertility or on development (Table 3.1) or reproductive toxicant category 1 with R60 (May impair fertility) or R61 (May cause harm to the unborn child) (Table 3.2) listed in Appendix 5\nReproductive toxicant category 1B adverse effects on sexual function and fertility or on development (Table 3.1) or reproductive toxicant category 2 with R60 (May impair fertility) or R61 (May cause harm to the unborn child) (Table 3.2) listed in Appendix 6",
+                    "Without prejudice to the other parts of this Annex the following shall apply to entries 28 to 30:\n1. Shall not be placed on the market, or used,\nas substances,\nas constituents of other substances, or,\nin mixtures,\nfor supply to the general public when the individual concentration in the substance or mixture is equal to or greater than:\neither the relevant specific concentration limit specified in Part 3 of Annex VI to Regulation (EC) No 1272/2008, or,\nthe relevant generic concentration limit specified in Part 3 of Annex I of Regulation (EC) No 1272/2008.\nWithout prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of such substances and mixtures is marked visibly, legibly and indelibly as follows:\nRestricted to professional users.\n2. By way of derogation, paragraph 1 shall not apply to:\n(a) medicinal or veterinary products as defined by Directive 2001/82/EC and Directive 2001/83/EC;\n(b) cosmetic products as defined by Directive 76/768/EEC;\n(c) the following fuels and oil products:\nmotor fuels which are covered by Directive 98/70/EC,\nmineral oil products intended for use as fuel in mobile or fixed combustion plants,\nfuels sold in closed systems (e.g. liquid gas bottles);\n(d) artists’ paints covered by Regulation (EC) No 1272/2008;\n(e) the substances listed in Appendix 11, column 1, for the applications or uses listed in Appendix 11, column 2. Where a date is specified in column 2 of Appendix 11, the derogation shall apply until the said date."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances which appear in Part 3 of Annex VI to Regulation (EC) No 1272/2008 classified as carcinogen category 1A or 1B (Table 3.1) or carcinogen category 1 or 2 (Table 3.2) and listed as follows:"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28. Substances which are classified as carcinogen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 1 or Appendix 2, respectively.\n29. Substances which are classified as germ cell mutagen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 3 or Appendix 4, respectively.\n30. Substances which are classified as reproductive toxicant category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 5 or Appendix 6, respectively.",
+                    "Without prejudice to the other parts of this Annex the following shall apply to entries 28 to 30:\n1. Shall not be placed on the market, or used,\nas substances,\nas constituents of other substances, or,\nin mixtures,\nfor supply to the general public when the individual concentration in the substance or mixture is equal to or greater than:\neither the relevant specific concentration limit specified in Part 3 of Annex VI to Regulation (EC) No 1272/2008, or,\nthe relevant generic concentration limit specified in Part 3 of Annex I of Regulation (EC) No 1272/2008.\nWithout prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of such substances and mixtures is marked visibly, legibly and indelibly as follows:\nRestricted to professional users.\n2. By way of derogation, paragraph 1 shall not apply to:\n(a) medicinal or veterinary products as defined by Directive 2001/82/EC and Directive 2001/83/EC;\n(b) cosmetic products as defined by Directive 76/768/EEC;\n(c) the following fuels and oil products:\nmotor fuels which are covered by Directive 98/70/EC,\nmineral oil products intended for use as fuel in mobile or fixed combustion plants,\nfuels sold in closed systems (e.g. liquid gas bottles);\n(d) artists’ paints covered by Regulation (EC) No 1272/2008;\n(e) the substances listed in Appendix 11, column 1, for the applications or uses listed in Appendix 11, column 2. Where a date is specified in column 2 of Appendix 11, the derogation shall apply until the said date."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances which are classified as carcinogen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 1 or Appendix 2, respectively."
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "72",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "72",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "72. The substances listed in column 1 of the Table in Appendix 12",
+                    "1. Shall not be placed on the market after 1 November 2020 in any of the following:\n(a) clothing or related accessories;\n(b) textiles other than clothing which, under normal or reasonably foreseeable conditions of use, come into contact with human skin to an extent similar to clothing;\n(c) footwear;\nif the clothing, related accessory, textile other than clothing or footwear is for use by consumers and the substance is present in a concentration, measured in homogeneous material, equal to or greater than that specified for that substance in Appendix 12.\n2. By way of derogation, in relation to the placing on the market of formaldehyde [CAS No 50-00-0] in jackets, coats or upholstery, the relevant concentration for the purposes of paragraph 1 shall be 300 mg/kg during the period between 1 November 2020 and 1 November 2023. The concentration specified in Appendix 12 shall apply thereafter.\n3. Paragraph 1 shall not apply to:\n(a) clothing, related accessories or footwear, or parts of clothing, related accessories or footwear, made exclusively of natural leather, fur or hide;\n(b) non-textile fasteners and non-textile decorative attachments;\n(c) second-hand clothing, related accessories, textiles other than clothing or footwear\n(d) wall-to-wall carpets and textile floor coverings for indoor use, rugs and runners.\n4. Paragraph 1 shall not apply to clothing, related accessories, textiles other than clothing, or footwear within the scope of Regulation (EU) 2016/425 of the European Parliament and of the Council (*) or Regulation (EU) 2017/745 of the European Parliament and of the Council (**).\n5. Paragraph 1(b) shall not apply to disposable textiles. Disposable textiles means textiles that are designed to be used only once or for a limited time and are not intended for subsequent use for the same or a similar purpose.\n6. Paragraphs 1 and 2 shall apply without prejudice to the application of any stricter restrictions set out in this Annex or in other applicable Union legislation.\n7. The Commission shall review the exemption in paragraph 3(d) and, if appropriate, modify that point accordingly.\n(*) Regulation (EU) 2016/425 of the European Parliament and of the Council of of 9 March 2016 on personal protective equipment and repealing Council Directive 89/686/EEC (OJ L 81, 31.3.2016, p. 51).\n(**) Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1)."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "The substances listed in column 1 of the Table in Appendix 12"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "048-012-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "048-012-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cadmium carbonate",
+                    "048-012-00-5",
+                    "208-168-9",
+                    "513-78-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "513-78-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-168-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-012-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium carbonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "048-013-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "048-013-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cadmium hydroxide; cadmium dihydroxide",
+                    "048-013-00-0",
+                    "244-168-5",
+                    "21041-95-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "21041-95-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "244-168-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-013-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium hydroxide; cadmium dihydroxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "048-014-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "048-014-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cadmium nitrate; cadmium dinitrate",
+                    "048-014-00-6",
+                    "233-710-6",
+                    "10325-94-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10325-94-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-710-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-014-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium nitrate; cadmium dinitrate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "605-001-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "605-001-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Formaldehyde … %",
+                    "605-001-00-5",
+                    "200-001-8",
+                    "50-00-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "50-00-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-001-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "605-001-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Formaldehyde … %"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "606-151-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "606-151-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Anthraquinone",
+                    "606-151-00-4",
+                    "201-549-0",
+                    "84-65-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-65-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-549-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-151-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Anthraquinone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "607-123-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "607-123-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,3-epoxypropyl methacrylate;\nglycidyl methacrylate",
+                    "607-123-00-4",
+                    "203-441-9",
+                    "106-91-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-91-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-441-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-123-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,3-epoxypropyl methacrylate;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "607-721-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "607-721-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "N,N′-methylenedimorpholine;\nN,N′-methylenebismorpholine;\n[formaldehyde released from N,N′-methylenebismorpholine];\n[MBM]",
+                    "607-721-00-5",
+                    "227-062-3",
+                    "5625-90-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5625-90-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-062-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-721-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N,N′-methylenedimorpholine;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "612-290-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "612-290-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Reaction products of paraformaldehyde and 2-hydroxypropylamine (ratio 3:2);\n[formaldehyde released from 3,3′-methylenebis[5-methyloxazolidine];\nformaldehyde released from oxazolidin];\n[MBO]",
+                    "612-290-00-1",
+                    "—",
+                    "—",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "612-290-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Reaction products of paraformaldehyde and 2-hydroxypropylamine (ratio 3:2);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "612-291-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "612-291-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Reaction products of paraformaldehyde with 2-hydroxypropylamine (ratio 1:1);\n[formaldehyde released from α,α,α-trimethyl-1,3,5-triazine-1,3,5(2H,4H,6H)-triethanol];\n[HPT]",
+                    "612-291-00-7",
+                    "—",
+                    "—",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "612-291-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Reaction products of paraformaldehyde with 2-hydroxypropylamine (ratio 1:1);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "612-292-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "612-292-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Methylhydrazine",
+                    "612-292-00-2",
+                    "200-471-4",
+                    "60-34-4",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60-34-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-471-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-292-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methylhydrazine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "048-012-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "048-012-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cadmium carbonate",
+                    "048-012-00-5",
+                    "208-168-9",
+                    "513-78-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "513-78-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-168-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-012-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium carbonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "048-013-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "048-013-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cadmium hydroxide; cadmium dihydroxide",
+                    "048-013-00-0",
+                    "244-168-5",
+                    "21041-95-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "21041-95-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "244-168-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-013-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium hydroxide; cadmium dihydroxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "048-014-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "048-014-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cadmium nitrate; cadmium dinitrate",
+                    "048-014-00-6",
+                    "233-710-6",
+                    "10325-94-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10325-94-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-710-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "048-014-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium nitrate; cadmium dinitrate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "050-030-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "050-030-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dibutyltin dilaurate; dibutyl[bis(dodecanoyloxy)]stannane",
+                    "050-030-00-3",
+                    "201-039-8",
+                    "77-58-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "77-58-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-039-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "050-030-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutyltin dilaurate; dibutyl[bis(dodecanoyloxy)]stannane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "606-041-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "606-041-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one",
+                    "606-041-00-6",
+                    "400-600-6",
+                    "71868-10-5",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71868-10-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "400-600-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-041-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-123-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-123-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,3-epoxypropyl methacrylate;\nglycidyl methacrylate",
+                    "607-123-00-4",
+                    "203-441-9",
+                    "106-91-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-91-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-441-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-123-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,3-epoxypropyl methacrylate;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-720-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-720-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Nonadecafluorodecanoic acid; [1]\nammonium nonadecafluorodecanoate; [2]\nsodium nonadecafluorodecanoate [3]",
+                    "607-720-00-X",
+                    "206-400-3 [1]\n221-470-5 [2]\n[3]",
+                    "335-76-2 [1]\n3108-42-7 [2]\n3830-45-3 [3]",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3108-42-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "335-76-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3830-45-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-400-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-470-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-720-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nonadecafluorodecanoic acid; [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-322-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-322-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triadimenol (ISO); (1RS,2RS;1RS,2SR)-1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol;\nα-tert-butyl-β-(4-chlorophenoxy)-1H-1,2,4-triazole-1-ethanol",
+                    "613-322-00-7",
+                    "259-537-6",
+                    "55219-65-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "55219-65-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "259-537-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-322-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triadimenol (ISO); (1RS,2RS;1RS,2SR)-1-(4-chlorophenoxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-324-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-324-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Quinolin-8-ol;\n8-hydroxyquinoline",
+                    "613-324-00-8",
+                    "205-711-1",
+                    "148-24-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "148-24-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-711-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-324-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Quinolin-8-ol;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-325-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-325-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Thiacloprid (ISO);\n(Z)-3-(6-chloro-3-pyridylmethyl)-1,3-thiazolidin-2-ylidenecyanamide;\n{(2Z)-3-[(6-chloropyridin-3-yl)methyl]-1,3-thiazolidin-2-ylidene}cyanamide",
+                    "613-325-00-3",
+                    "—",
+                    "111988-49-9",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "111988-49-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-325-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Thiacloprid (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "616-223-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "616-223-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carbetamide (ISO);\n(R)-1-(ethylcarbamoyl)ethyl carbanilate; (2R)-1-(ethylamino)-1-oxopropan-2-yl phenylcarbamate",
+                    "616-223-00-7",
+                    "240-286-6",
+                    "16118-49-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "16118-49-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-286-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-223-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbetamide (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "650-032-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "650-032-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cyproconazole (ISO); (2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3-cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol",
+                    "650-032-00-X",
+                    "—",
+                    "94361-06-5",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "94361-06-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "650-032-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cyproconazole (ISO); (2RS,3RS;2RS,3SR)-2-(4-chlorophenyl)-3-cyclopropyl-1-(1H-1,2,4-triazol-1-yl)butan-2-ol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "1,2-benzenedicarboxylic acid; di-c 6-8-branched alkylesters, c 7-rich",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "1,2-benzenedicarboxylic acid; di-c 6-8-branched alkylesters, c 7-rich",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-benzenedicarboxylic acid; di-C 6-8-branched alkylesters, C 7-rich",
+                    "607-483-00-2",
+                    "71888-89-6",
+                    "276-158-1",
+                    "1000 mg/kg (individually or in combination with other phthalates in this entry or in other entries of Annex XVII that are classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 in any of the hazard classes carcinogenicity, germ cell mutagenicity or reproductive toxicity, category 1A or 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71888-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-158-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-483-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-benzenedicarboxylic acid; di-C 6-8-branched alkylesters, C 7-rich"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "1,4,5,8-tetraaminoanthraquinone; c.i. disperse blue 1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "1,4,5,8-tetraaminoanthraquinone; c.i. disperse blue 1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,4,5,8-tetraaminoanthraquinone; C.I. Disperse Blue 1",
+                    "611-032-00-5",
+                    "2475-45-8",
+                    "219-603-7",
+                    "50 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2475-45-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "219-603-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "611-032-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,4,5,8-tetraaminoanthraquinone; C.I. Disperse Blue 1"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "2,4,5-trimethylaniline hydrochloride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "2,4,5-trimethylaniline hydrochloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,4,5-trimethylaniline hydrochloride",
+                    "612-197-00-6",
+                    "21436-97-5",
+                    "—",
+                    "30 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "21436-97-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-197-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,4,5-trimethylaniline hydrochloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "2-naphthylammoniumacetate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "2-naphthylammoniumacetate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-Naphthylammoniumacetate",
+                    "612-071-00-0",
+                    "553-00-4",
+                    "209-030-0",
+                    "30 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "553-00-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-030-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-071-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Naphthylammoniumacetate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "4-chloro-o-toluidinium chloride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "4-chloro-o-toluidinium chloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-chloro-o-toluidinium chloride",
+                    "612-196-00-0",
+                    "3165-93-3",
+                    "221-627-8",
+                    "30 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3165-93-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-627-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-196-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-chloro-o-toluidinium chloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "4-methoxy-m-phenylene diammonium sulphate; 2,4-diaminoanisole sulphate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "4-methoxy-m-phenylene diammonium sulphate; 2,4-diaminoanisole sulphate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-methoxy-m-phenylene diammonium sulphate; 2,4-diaminoanisole sulphate",
+                    "612-200-00-0",
+                    "39156-41-7",
+                    "254-323-9",
+                    "30 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "39156-41-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-323-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-200-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-methoxy-m-phenylene diammonium sulphate; 2,4-diaminoanisole sulphate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "[4-[4,4′-bis(dimethylamino)benzhydrylidene]cyclohexa-2,5-dien-1-ylidene]dimethylammonium chloride; c.i. basic violet 3 with ≥ 0,1 % of michler's ketone (ec no. 202-027-5)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "[4-[4,4′-bis(dimethylamino)benzhydrylidene]cyclohexa-2,5-dien-1-ylidene]dimethylammonium chloride; c.i. basic violet 3 with ≥ 0,1 % of michler's ketone (ec no. 202-027-5)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "[4-[4,4′-bis(dimethylamino)benzhydrylidene]cyclohexa-2,5-dien-1-ylidene]dimethylammonium chloride; C.I. Basic Violet 3 with ≥ 0,1 % of Michler's ketone (EC no. 202-027-5)",
+                    "612-205-00-8",
+                    "548-62-9",
+                    "208-953-6",
+                    "50 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "548-62-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-953-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-205-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "[4-[4,4′-bis(dimethylamino)benzhydrylidene]cyclohexa-2,5-dien-1-ylidene]dimethylammonium chloride; C.I. Basic Violet 3 with ≥ 0,1 % of Michler's ketone (EC no. 202-027-5)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "arsenic compounds (listed in annex xvii, entry 28, 29, 30, appendices 1-6)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "arsenic compounds (listed in annex xvii, entry 28, 29, 30, appendices 1-6)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Arsenic compounds (listed in Annex XVII, Entry 28, 29, 30, Appendices 1-6)",
+                    "—",
+                    "—",
+                    "—",
+                    "1 mg/kg after extraction (expressed as As metal that can be extracted from the material)"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Arsenic compounds (listed in Annex XVII, Entry 28, 29, 30, Appendices 1-6)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "benz[a]anthracene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "benz[a]anthracene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benz[a]anthracene",
+                    "601-033-00-9",
+                    "56-55-3",
+                    "200-280-6",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56-55-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-280-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-033-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benz[a]anthracene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "benz[e]acephenanthrylene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "benz[e]acephenanthrylene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benz[e]acephenanthrylene",
+                    "601-034-00-4",
+                    "205-99-2",
+                    "205-911-9",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "205-99-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-911-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-034-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benz[e]acephenanthrylene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "benzenamine, 4,4′-(4-iminocyclohexa-2,5- dienylidenemethylene)dianiline hydrochloride; c.i. basic red 9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "benzenamine, 4,4′-(4-iminocyclohexa-2,5- dienylidenemethylene)dianiline hydrochloride; c.i. basic red 9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzenamine, 4,4′-(4-iminocyclohexa-2,5- dienylidenemethylene)dianiline hydrochloride; C.I. Basic Red 9",
+                    "611-031-00-X",
+                    "569-61-9",
+                    "209-321-2",
+                    "50 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "569-61-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-321-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "611-031-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzenamine, 4,4′-(4-iminocyclohexa-2,5- dienylidenemethylene)dianiline hydrochloride; C.I. Basic Red 9"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "benzene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "benzene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzene",
+                    "601-020-00-8",
+                    "71-43-2",
+                    "200-753-7",
+                    "5 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71-43-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-753-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-020-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "benzo[a]pyrene; benzo[def]chrysene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "benzo[a]pyrene; benzo[def]chrysene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "benzo[a]pyrene; benzo[def]chrysene",
+                    "601-032-00-3",
+                    "50-32-8",
+                    "200-028-5",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "50-32-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-028-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-032-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "benzo[a]pyrene; benzo[def]chrysene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "benzo[e]pyrene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "benzo[e]pyrene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzo[e]pyrene",
+                    "601-049-00-6",
+                    "192-97-2",
+                    "205-892-7",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "192-97-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-892-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-049-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzo[e]pyrene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "benzo[j]fluoranthene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "benzo[j]fluoranthene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzo[j]fluoranthene",
+                    "601-035-00-X",
+                    "205-82-3",
+                    "205-910-3",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "205-82-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-910-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-035-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzo[j]fluoranthene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "benzo[k]fluoranthene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "benzo[k]fluoranthene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzo[k]fluoranthene",
+                    "601-036-00-5",
+                    "207-08-9",
+                    "205-916-6",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "207-08-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-916-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-036-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzo[k]fluoranthene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "bis(2-methoxyethyl) phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "bis(2-methoxyethyl) phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(2-methoxyethyl) phthalate",
+                    "607-228-00-5",
+                    "117-82-8",
+                    "204-212-6",
+                    "1000 mg/kg (individually or in combination with other phthalates in this entry or in other entries of Annex XVII that are classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 in any of the hazard classes carcinogenicity, germ cell mutagenicity or reproductive toxicity, category 1A or 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-82-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-212-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-228-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-methoxyethyl) phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "cadmium and its compounds (listed in annex xvii, entry 28, 29, 30, appendices 1-6)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "cadmium and its compounds (listed in annex xvii, entry 28, 29, 30, appendices 1-6)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cadmium and its compounds (listed in Annex XVII, Entry 28, 29, 30, Appendices 1-6)",
+                    "—",
+                    "—",
+                    "—",
+                    "1 mg/kg after extraction (expressed as Cd metal that can be extracted from the material)"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Cadmium and its compounds (listed in Annex XVII, Entry 28, 29, 30, Appendices 1-6)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "chromium vi compounds (listed in annex xvii, entry 28, 29, 30, appendices 1-6)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "chromium vi compounds (listed in annex xvii, entry 28, 29, 30, appendices 1-6)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chromium VI compounds (listed in Annex XVII, Entry 28, 29, 30, Appendices 1-6)",
+                    "—",
+                    "—",
+                    "—",
+                    "1 mg/kg after extraction (expressed as Cr VI that can be extracted from the material)"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Chromium VI compounds (listed in Annex XVII, Entry 28, 29, 30, Appendices 1-6)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "chrysene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "chrysene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chrysene",
+                    "601-048-00-0",
+                    "218-01-9",
+                    "205-923-4",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "218-01-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-923-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-048-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chrysene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "di-n-hexyl phthalate (dnhp)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "di-n-hexyl phthalate (dnhp)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Di-n-hexyl phthalate (DnHP)",
+                    "607-702-00-1",
+                    "84-75-3",
+                    "201-559-5",
+                    "1000 mg/kg (individually or in combination with other phthalates in this entry or in other entries of Annex XVII that are classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 in any of the hazard classes carcinogenicity, germ cell mutagenicity or reproductive toxicity, category 1A or 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-75-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-559-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-702-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Di-n-hexyl phthalate (DnHP)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "di-n-pentyl phthalate (dpp)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "di-n-pentyl phthalate (dpp)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Di-n-pentyl phthalate (DPP)",
+                    "607-426-00-1",
+                    "131-18-0",
+                    "205-017-9",
+                    "1000 mg/kg (individually or in combination with other phthalates in this entry or in other entries of Annex XVII that are classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 in any of the hazard classes carcinogenicity, germ cell mutagenicity or reproductive toxicity, category 1A or 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131-18-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-017-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-426-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Di-n-pentyl phthalate (DPP)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "dibenz[a,h]anthracene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "dibenz[a,h]anthracene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dibenz[a,h]anthracene",
+                    "601-041-00-2",
+                    "53-70-3",
+                    "200-181-8",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "53-70-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-181-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-041-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibenz[a,h]anthracene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "diisopentylphthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "diisopentylphthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diisopentylphthalate",
+                    "607-426-00-1",
+                    "605-50-5",
+                    "210-088-4",
+                    "1000 mg/kg (individually or in combination with other phthalates in this entry or in other entries of Annex XVII that are classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 in any of the hazard classes carcinogenicity, germ cell mutagenicity or reproductive toxicity, category 1A or 1B"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "605-50-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "210-088-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-426-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisopentylphthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "formaldehyde",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "formaldehyde",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Formaldehyde",
+                    "605-001-00-5",
+                    "50-00-0",
+                    "200-001-8",
+                    "75 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "50-00-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-001-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "605-001-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Formaldehyde"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "lead and its compounds (listed in annex xvii, entry 28, 29, 30, appendices 1-6)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "lead and its compounds (listed in annex xvii, entry 28, 29, 30, appendices 1-6)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lead and its compounds (listed in Annex XVII, Entry 28, 29, 30, Appendices 1-6)",
+                    "—",
+                    "—",
+                    "—",
+                    "1 mg/kg after extraction (expressed as Pb metal that can be extracted from the material)"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Lead and its compounds (listed in Annex XVII, Entry 28, 29, 30, Appendices 1-6)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "n,n-dimethylacetamide (dmac)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "n,n-dimethylacetamide (dmac)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "N,N-dimethylacetamide (DMAC)",
+                    "616-011-00-4",
+                    "127-19-5",
+                    "204-826-4",
+                    "3000 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127-19-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-826-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-011-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N,N-dimethylacetamide (DMAC)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "n,n-dimethylformamide; dimethyl formamide (dmf)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "n,n-dimethylformamide; dimethyl formamide (dmf)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "N,N-dimethylformamide; dimethyl formamide (DMF)",
+                    "616-001-00-X",
+                    "68-12-2",
+                    "200-679-5",
+                    "3000 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68-12-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-679-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-001-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N,N-dimethylformamide; dimethyl formamide (DMF)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "n-methyl-2-pyrrolidone; 1-methyl-2-pyrrolidone (nmp)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "n-methyl-2-pyrrolidone; 1-methyl-2-pyrrolidone (nmp)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "N-methyl-2-pyrrolidone; 1-methyl-2-pyrrolidone (NMP)",
+                    "606-021-00-7",
+                    "872-50-4",
+                    "212-828-1",
+                    "3000 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "872-50-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-828-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-021-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N-methyl-2-pyrrolidone; 1-methyl-2-pyrrolidone (NMP)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "quinoline",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "quinoline",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Quinoline",
+                    "613-281-00-5",
+                    "91-22-5",
+                    "202-051-6",
+                    "50 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "91-22-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-051-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-281-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Quinoline"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "α, α,α,4-tetrachlorotoluene; p-chlorobenzotrichloride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "α, α,α,4-tetrachlorotoluene; p-chlorobenzotrichloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "α, α,α,4-tetrachlorotoluene; p-chlorobenzotrichloride",
+                    "602-093-00-9",
+                    "5216-25-1",
+                    "226-009-1",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5216-25-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-009-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "602-093-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "α, α,α,4-tetrachlorotoluene; p-chlorobenzotrichloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "α, α,α-trichlorotoluene; benzotrichloride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "α, α,α-trichlorotoluene; benzotrichloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "α, α,α-trichlorotoluene; benzotrichloride",
+                    "602-038-00-9",
+                    "98-07-7",
+                    "202-634-5",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "98-07-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-634-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "602-038-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "α, α,α-trichlorotoluene; benzotrichloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key": "α-chlorotoluene; benzyl chloride",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 12",
+                "table": 1,
+                "key": "α-chlorotoluene; benzyl chloride",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "α-chlorotoluene; benzyl chloride",
+                    "602-037-00-3",
+                    "100-44-7",
+                    "202-853-6",
+                    "1 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "100-44-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-853-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "602-037-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "α-chlorotoluene; benzyl chloride"
+              }
+            }
+          ],
+          "unchanged": 1731,
+          "whitespace_only": 1,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -101,7 +2561,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -280,7 +2741,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -328,6 +2790,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
