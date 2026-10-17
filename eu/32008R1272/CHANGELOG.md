@@ -3653,6 +3653,8 @@ The notes relating to classification and labelling of mixtures also gain a new N
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2` · *dates* +2008-05-30 · *amended by* `32021R0643`
 
+Table entries: none changed.
+
 The wording of Notes J, K, L, M, N, P, Q and R in section 1.1.3.1 was rephrased from describing classification exemptions that 'need not apply' below stated thresholds to describing the harmonised classification as applying unless the substance is shown to fall below the stated threshold, with classification under Title II to be performed for those hazard classes in that case. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201114#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20210510#anx_VI)
 
 Note R was also expanded to add a cross-reference to Test method A.22 in the Annex to Commission Regulation (EC) No 440/2008, which was not present before. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20210510#anx_VI)
