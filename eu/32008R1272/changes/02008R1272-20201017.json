@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -87,6 +87,7 @@
           "AN I SCT 3 SCT 3.10 SCT 3.10.3 SCT 3.10.3.3 SCT 3.10.3.3.1",
           "AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.3 SCT 4.1.3.5.5.3.1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -238,6 +239,7 @@
           "AN II SCT 1 SCT 1.1 SCT 1.1.6",
           "AN II SCT 2 SCT 2.10"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -365,6 +367,7 @@
         "changed_within": [
           "AN III SCT 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -500,6 +503,7 @@
           "AN IV SCT 1",
           "AN IV SCT 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -646,6 +650,7 @@
         "changed_within": [
           "AN V SCT 1 SCT 1.2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -760,6 +765,78 @@
         "changed_within": [
           "AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "Chemical name",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  null,
+                  "Labelling",
+                  null,
+                  null,
+                  "Specific Conc. Limits, M-factors and ATEs\n",
+                  "Notes"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Hazard Class and\nCategory Code(s)",
+                  "Hazard statement Code(s)",
+                  "Pictogram, Signal Word Code(s)",
+                  "Hazard statement Code(s)",
+                  "Suppl. Hazard statement Code(s)",
+                  null,
+                  null
+                ]
+              ]
+            },
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 2,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "International Chemical Identification",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  "Labelling",
+                  "Concentration Limits",
+                  "Notes"
+                ]
+              ]
+            }
+          ],
+          "changes": [],
+          "unchanged": 8474,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1817,6 +1894,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 6,
       "repaired": 6,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

@@ -4143,6 +4143,8 @@ Section 1.2 also adds a new entry under GHS02 for Section 2.17, desensitised exp
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1` · *amended by* `32019R0521`
 
+Table entries: none changed.
+
 In Table 1.1 the row for flammable gases now lists the codes Flam. Gas 1A, Flam. Gas 1B, Flam. Gas 2 and Pyr. Gas in place of the earlier Flam. Gas 1 and Flam. Gas 2 codes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20200501#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_VI)
 
 Table 1.1 also gains a new row for desensitised explosives, listing the codes Desen. Expl. 1, Desen. Expl. 2, Desen. Expl. 3 and Desen. Expl. 4, which did not appear in the earlier text. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20201017#anx_VI)
