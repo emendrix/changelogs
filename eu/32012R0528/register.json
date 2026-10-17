@@ -1,0 +1,757 @@
+{
+  "register_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "corpus": "eu",
+  "key": "32012R0528",
+  "version": "02012R0528-20260819",
+  "tables": [
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key_label": null,
+      "header": [
+        [
+          "EC number",
+          "Name/group",
+          "Restriction",
+          "Comment"
+        ]
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "lactic acid",
+      "occurrence": 1,
+      "group": "Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008",
+      "rows": [
+        [
+          "200-018-0",
+          "Lactic acid",
+          "Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008",
+          "E 270"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "200-018-0"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Lactic acid"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "sodium acetate",
+      "occurrence": 1,
+      "group": "Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008",
+      "rows": [
+        [
+          "204-823-8",
+          "Sodium acetate",
+          "Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008",
+          "E 262"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "204-823-8"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Sodium acetate"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "sodium benzoate",
+      "occurrence": 1,
+      "group": "Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008",
+      "rows": [
+        [
+          "208-534-8",
+          "Sodium benzoate",
+          "Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008",
+          "E 211"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "208-534-8"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Sodium benzoate"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "(+)-tartaric acid",
+      "occurrence": 1,
+      "group": "Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008",
+      "rows": [
+        [
+          "201-766-0",
+          "(+)-Tartaric acid",
+          "Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008",
+          "E 334"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "201-766-0"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "(+)-Tartaric acid"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "acetic acid",
+      "occurrence": 1,
+      "group": "Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008",
+      "rows": [
+        [
+          "200-580-7",
+          "Acetic acid",
+          "Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008",
+          "E 260"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "200-580-7"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Acetic acid"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "propionic acid",
+      "occurrence": 1,
+      "group": "Category 1 — Substances authorised as food additives according to Regulation (EC) No 1333/2008",
+      "rows": [
+        [
+          "201-176-3",
+          "Propionic acid",
+          "Concentration to be limited so that each biocidal product does not require classification according to either Directive 1999/45/EC or Regulation (EC) No 1272/2008",
+          "E 280"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "201-176-3"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Propionic acid"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "ascorbic acid",
+      "occurrence": 1,
+      "group": "Category 2 — Substances included in Annex IV to Regulation (EC) No 1907/2006",
+      "rows": [
+        [
+          "200-066-2",
+          "Ascorbic acid",
+          "",
+          ""
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "200-066-2"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Ascorbic acid"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "linseed oil",
+      "occurrence": 1,
+      "group": "Category 2 — Substances included in Annex IV to Regulation (EC) No 1907/2006",
+      "rows": [
+        [
+          "232-278-6",
+          "Linseed oil",
+          "",
+          ""
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "232-278-6"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Linseed oil"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "nitrogen generated from ambient air",
+      "occurrence": 1,
+      "group": "Category 2 — Substances included in Annex IV to Regulation (EC) No 1907/2006",
+      "rows": [
+        [
+          "—",
+          "Nitrogen generated from ambient air",
+          "Applications for product authorisations shall include evidence that exposure of the user and the general public to a hypoxic atmosphere is avoided and, where appropriate, the necessary measures are taken.",
+          "—"
+        ]
+      ],
+      "identifiers": [],
+      "failed_check_digits": 0,
+      "name": "Nitrogen generated from ambient air"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": null,
+      "occurrence": 1,
+      "group": null,
+      "rows": [
+        [
+          "Category 3 — Weak acids",
+          null,
+          null,
+          null
+        ]
+      ],
+      "identifiers": [],
+      "failed_check_digits": 0,
+      "name": null
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "lavender oil",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "Natural oil",
+          "Lavender oil",
+          "",
+          "CAS 8000-28-0"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "8000-28-0"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Lavender oil"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "peppermint oil",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "Natural oil",
+          "Peppermint oil",
+          "",
+          "CAS 8006-90-4"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "8006-90-4"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Peppermint oil"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "vinegar",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "Not available",
+          "Vinegar\n",
+          "Excluding vinegar that is not food and excluding vinegar that contains more than 10 % acetic acid (whether or not it is food).",
+          "CAS No 8028-52-2"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "8028-52-2"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Vinegar"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "saccharomyces cerevisiae (yeast)",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "Not available",
+          "Saccharomyces cerevisiae (yeast)\n",
+          "Excluding Saccharomyces cerevisiae that is not food or feed.",
+          "CAS No 68876-77-7"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "68876-77-7"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Saccharomyces cerevisiae (yeast)"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "powdered egg",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "Not available",
+          "Powdered egg\n",
+          "Excluding powdered egg that is not food or feed.",
+          ""
+        ]
+      ],
+      "identifiers": [],
+      "failed_check_digits": 0,
+      "name": "Powdered egg"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "honey",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "Not available",
+          "Honey\n",
+          "Excluding honey that is not food or feed.",
+          "CAS No 8028-66-8"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "8028-66-8"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Honey"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "d-fructose",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "200-333-3",
+          "D-Fructose\n",
+          "Excluding D-fructose that is not food or feed.",
+          "CAS No 57-48-7"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "57-48-7"
+        },
+        {
+          "scheme": "ec",
+          "value": "200-333-3"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "D-Fructose"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "cheese",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "Not available",
+          "Cheese\n",
+          "Excluding cheese that is not food or feed.",
+          ""
+        ]
+      ],
+      "identifiers": [],
+      "failed_check_digits": 0,
+      "name": "Cheese"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "concentrated apple juice",
+      "occurrence": 1,
+      "group": "Category 4 — Traditionally used substances of natural origin",
+      "rows": [
+        [
+          "Not available",
+          "Concentrated apple juice\n",
+          "Excluding concentrated apple juice that does not fall within the definition in point (2) of Part I of Annex I to Council Directive 2001/112/EC\n.",
+          ""
+        ]
+      ],
+      "identifiers": [],
+      "failed_check_digits": 0,
+      "name": "Concentrated apple juice"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "oct-1-en-3-ol",
+      "occurrence": 1,
+      "group": "Category 5 — Pheromones",
+      "rows": [
+        [
+          "222-226-0",
+          "Oct-1-en-3-ol",
+          "",
+          ""
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "222-226-0"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Oct-1-en-3-ol"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "webbing clothes moths pheromone",
+      "occurrence": 1,
+      "group": "Category 5 — Pheromones",
+      "rows": [
+        [
+          "Mixture",
+          "Webbing clothes moths pheromone",
+          "",
+          ""
+        ]
+      ],
+      "identifiers": [],
+      "failed_check_digits": 0,
+      "name": "Webbing clothes moths pheromone"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "carbon dioxide",
+      "occurrence": 1,
+      "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+      "rows": [
+        [
+          "204-696-9",
+          "Carbon dioxide",
+          "The authorisation of biocidal products containing carbon dioxide as an active substance shall be subject to the following conditions:\n(a) the exposure of professional users to carbon dioxide remains below the acceptable exposure concentration (AEC) of:\n(i) 1,5 % volume/volume (v/v) carbon dioxide for the short-term exposure limit (STEL) of 15 minutes; and\n(ii) 0,5 % v/v carbon dioxide for the time-weighted average (TWA) of 8 hours;\n(b) the exposure of general public users or by-standers to carbon dioxide remains below 0,1 % v/v carbon dioxide;\n(c) where appropriate, the necessary measures shall be taken by the user as described in the summary of product characteristics.",
+          "—"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "204-696-9"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Carbon dioxide"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "carbon dioxide generated from propane, butane or a mixture of both by combustion",
+      "occurrence": 1,
+      "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+      "rows": [
+        [
+          "204-696-9",
+          "Carbon dioxide generated from propane, butane or a mixture of both by combustion\n",
+          "",
+          "CAS No 124-38-9"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "124-38-9"
+        },
+        {
+          "scheme": "ec",
+          "value": "204-696-9"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Carbon dioxide generated from propane, butane or a mixture of both by combustion"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "citric acid",
+      "occurrence": 1,
+      "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+      "rows": [
+        [
+          "201-069-1",
+          "Citric acid",
+          "Minimum degree of purity of the active substance\n: 995 g/kg",
+          "CAS No 77-92-9"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "77-92-9"
+        },
+        {
+          "scheme": "ec",
+          "value": "201-069-1"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Citric acid"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "nitrogen",
+      "occurrence": 1,
+      "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+      "rows": [
+        [
+          "231-783-9",
+          "Nitrogen",
+          "Only for use in limited quantities in ready-for-use canisters",
+          ""
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "231-783-9"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Nitrogen"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "potassium (e,e)-hexa-2,4-dienoate (potassium sorbate)",
+      "occurrence": 1,
+      "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+      "rows": [
+        [
+          "246-376-1",
+          "Potassium (E,E)-hexa-2,4-dienoate (potassium sorbate)\n",
+          "Minimum degree of purity of the active substance\n: 990 g/kg",
+          "CAS No 24634-61-5"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "24634-61-5"
+        },
+        {
+          "scheme": "ec",
+          "value": "246-376-1"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Potassium (E,E)-hexa-2,4-dienoate (potassium sorbate)"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "(9z,12e)-tetradeca-9,12-dien-1-yl acetate",
+      "occurrence": 1,
+      "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+      "rows": [
+        [
+          "Not available",
+          "(9Z,12E)-tetradeca-9,12-dien-1-yl acetate",
+          "",
+          "CAS 30507-70-1"
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "cas",
+          "value": "30507-70-1"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "(9Z,12E)-tetradeca-9,12-dien-1-yl acetate"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "baculovirus",
+      "occurrence": 1,
+      "group": "Category 7 — Other",
+      "rows": [
+        [
+          "",
+          "Baculovirus",
+          "",
+          ""
+        ]
+      ],
+      "identifiers": [],
+      "failed_check_digits": 0,
+      "name": "Baculovirus"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "bentonite",
+      "occurrence": 1,
+      "group": "Category 7 — Other",
+      "rows": [
+        [
+          "215-108-5",
+          "Bentonite",
+          "",
+          ""
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "215-108-5"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Bentonite"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "citronellal",
+      "occurrence": 1,
+      "group": "Category 7 — Other",
+      "rows": [
+        [
+          "203-376-6",
+          "Citronellal",
+          "",
+          ""
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "203-376-6"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Citronellal"
+    },
+    {
+      "unit": "AN I",
+      "container": "AN I",
+      "table": 1,
+      "key": "iron sulphate",
+      "occurrence": 1,
+      "group": "Category 7 — Other",
+      "rows": [
+        [
+          "231-753-5",
+          "Iron sulphate",
+          "",
+          ""
+        ]
+      ],
+      "identifiers": [
+        {
+          "scheme": "ec",
+          "value": "231-753-5"
+        }
+      ],
+      "failed_check_digits": 0,
+      "name": "Iron sulphate"
+    }
+  ],
+  "unrecognised": [],
+  "coverage": {
+    "unrecognised_tables": 0,
+    "unkeyed_rows": 1,
+    "failed_check_digits": 0,
+    "repeated_keys": []
+  }
+}
