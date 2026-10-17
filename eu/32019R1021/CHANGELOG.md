@@ -814,7 +814,7 @@ The later text adds a new point 10 to the PFOA entry, setting a concentration th
 ### `02019R1021-20200704` → `02019R1021-20200907`
 
 - **Act** `eu:32019R1021` · **In force** 2020-09-07 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 28 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20200704` · `v2` = `02019R1021-20200907`
@@ -824,6 +824,8 @@ The later text adds a new point 10 to the PFOA entry, setting a concentration th
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2024-09-07 +2025-09-07 · *amended by* `32020R1204`, `32020R1203`
+
+Table entries: 1 added, 1 amended, 0 removed: "Dicofol", "Perfluorooctane sulfonic acid and its derivatives (PFOS)"
 
 The PFOS entry's point 4 changed from an open-ended derogation for mist suppressant use in non-decorative hard chromium (VI) plating with four-yearly Member State progress reports, to a derogation for that same use running only until 7 September 2025, paired with a requirement for Member States using PFOS to report to the Commission by 7 September 2024 and justify continued need, and a Commission review by 7 September 2025 of whether to prolong the derogation for up to five years. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200704#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200907#anx_I)
 
