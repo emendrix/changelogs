@@ -26,6 +26,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I` · *amended by* `32026R1278`
 
+Table entries: 56 added, 3 amended, 0 removed: "2,2'-dichloro-4,4'-methylene-dianiline;", "2,4-di-tert-butyl-6-(5-chlorobenzotriazol-2-yl)phenol (UV-327)", "2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentylphenol (UV-328)", "2-(2H-benzotriazol-2-yl)-4-(tert-butyl)-6-(sec-butyl)phenol (UV-350)", "2-benzotriazol-2-yl-4,6-di-tert-butylphenol (UV-320)", "4,4'-bis(dimethylamino)-4"-(methylamino)trityl alcohol", "5-sec-butyl-2-(2,4-dimethylcyclohex-3-en-1-yl)-5-methyl-1,3-dioxane [1], 5-sec-butyl-2-(4,6-dimethylcyclohex-3-en-1-yl)-5-methyl-1,3-dioxane [2]", "Abamectin", "Acids generated from chromium trioxide and their oligomers:", "Ammonium dichromate" and 49 more
+
 Part 1 and Part 2 of Annex I now list numerous additional chemical entries that were absent from the earlier version, including substances such as UV-350, UV-328, UV-320, UV-327, chromium trioxide and related chromium compounds, Dechlorane Plus, several phthalate and stannoate compounds, Dodemorph, Metribuzin, Fenpyrazamine, Flumetralin, Metaflumizone and others, each with its associated CAS, EC and CN identifiers and subcategory/use-limitation codes. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20261001#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20250301#anx_I)
 
 Some existing entries also show added or revised CAS/EC/CN identifiers or code details, for example under Abamectin, Carbendazim, and Cyanamide, while the overall structure and introductory notes of Part 1 and Part 2 remain the same. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20261001#anx_I)
@@ -68,7 +70,9 @@ The supplied text is truncated before the end of Part 2 and the whole of Part 3,
 
 *within* `AN V` · *amended by* `32026R1278`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
+
+Table entries: 3 added, 0 amended, 0 removed: "2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentylphenol (UV-328)", "Dechlorane Plus", "Methoxychlor"
 
 Part 1 of the Annex adds three new entries after Toxaphene covering 2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentylphenol (UV-328), Dechlorane Plus, and Methoxychlor, each with associated EC, CAS and CN code details and stated export-ban exemptions tied to specific points and concentration limits in Regulation (EU) 2019/1021. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20261001#anx_V)
 
