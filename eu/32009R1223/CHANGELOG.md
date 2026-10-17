@@ -1621,6 +1621,8 @@ No other part of Article 2, including paragraphs 1 to 3, differs between the two
 
 *within* `AN III`
 
+Table entries: 0 added, 1 amended (1 only in spacing, dash forms or accents), 0 removed: Reference number 51
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20201203`)
