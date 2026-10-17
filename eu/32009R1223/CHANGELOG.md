@@ -342,6 +342,8 @@ The wording of conditions of use and warnings for entry 7 is expanded to add res
 
 *within* `AN II` · *amended by* `32025R0877`
 
+Table entries: 21 added, 1 amended, 0 removed: Reference number 1580, Reference number 1731, Reference number 1732, Reference number 1733, Reference number 1734, Reference number 1735, Reference number 1736, Reference number 1737, Reference number 1738, Reference number 1739 and 12 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20250501`)
@@ -361,6 +363,8 @@ The wording of conditions of use and warnings for entry 7 is expanded to add res
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32025R0877`
+
+Table entries: 0 added, 2 amended, 0 removed: Reference number 157, Reference number 325
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
