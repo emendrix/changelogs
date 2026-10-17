@@ -660,6 +660,8 @@ Both the before and after texts are cut off before the end of entry 31's conditi
 
 *within* `AN XVII` · *dates* +2024-11-28 +2024-11-29 +2025-05-28 +2026-05-28 +2028-05-28 +2033-05-28 · *amended by* `32023R0923`
 
+Table entries: 0 added, 1 amended, 0 removed: Entry 63
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20221217`)

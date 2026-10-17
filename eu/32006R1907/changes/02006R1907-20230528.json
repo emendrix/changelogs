@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,240 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "63",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "63",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "63. Lead\nCAS No 7439-92-1\nEC No 231-100-4\nand its compounds",
+                    "1. Shall not be placed on the market or used in any individual part of jewellery articles if the concentration of lead (expressed as metal) in such a part is equal to or greater than 0,05 % by weight.\n2. For the purposes of paragraph 1:\n(i) jewellery articles shall include jewellery and imitation jewellery articles and hair accessories, including:\n(a) bracelets, necklaces and rings;\n(b) piercing jewellery;\n(c) wrist watches and wrist-wear;\n(d) brooches and cufflinks;\n(ii) any individual part shall include the materials from which the jewellery is made, as well as the individual components of the jewellery articles.\n3. Paragraph 1 shall also apply to individual parts when placed on the market or used for jewellery-making.\n4. By way of derogation, paragraph 1 shall not apply to:\n(a) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Council Directive 69/493/EEC\n;\n(b) internal components of watch timepieces inaccessible to consumers;\n(c) non-synthetic or reconstructed precious and semiprecious stones (CN code 7103, as established by Regulation (EEC) No 2658/87), unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of minerals melted at a temperature of at least 500 °C.\n5. By way of derogation, paragraph 1 shall not apply to jewellery articles placed on the market for the first time before 9 October 2013 and jewellery articles produced before 10 December 1961.\n6. By 9 October 2017, the Commission shall re-evaluate paragraphs 1 to 5 of this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 1 and, if appropriate, modify this entry accordingly.\n7. Shall not be placed on the market or used in articles supplied to the general public, if the concentration of lead (expressed as metal) in those articles or accessible parts thereof is equal to or greater than 0,05 % by weight, and those articles or accessible parts thereof may, during normal or reasonably foreseeable conditions of use, be placed in the mouth by children.\nThat limit shall not apply where it can be demonstrated that the rate of lead release from such an article or any such accessible part of an article, whether coated or uncoated, does not exceed 0,05 μg/cm2 per hour (equivalent to 0,05 μg/g/h), and, for coated articles, that the coating is sufficient to ensure that this release rate is not exceeded for a period of at least two years of normal or reasonably foreseeable conditions of use of the article.\nFor the purposes of this paragraph, it is considered that an article or accessible part of an article may be placed in the mouth by children if it is smaller than 5 cm in one dimension or has a detachable or protruding part of that size.\n8. By way of derogation, paragraph 7 shall not apply to:\n(a) jewellery articles covered by paragraph 1;\n(b) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Directive 69/493/EEC;\n(c) non-synthetic or reconstructed precious and semi-precious stones (CN code 7103 as established by Regulation (EEC) No 2658/87) unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of mineral melted at a temperature of at least 500 °C;\n(e) keys and locks, including padlocks;\n(f) musical instruments;\n(g) articles and parts of articles comprising brass alloys, if the concentration of lead (expressed as metal) in the brass alloy does not exceed 0,5 % by weight;\n(h) the tips of writing instruments;\n(i) religious articles;\n(j) portable zinc-carbon batteries and button cell batteries;\n(k) articles within the scope of:\n(i) Directive 94/62/EC;\n(ii) Regulation (EC) No 1935/2004;\n(iii) Directive 2009/48/EC of the European Parliament and of the Council\n;\n(iv) Directive 2011/65/EU of the European Parliament and of the Council\n9. By 1 July 2019, the Commission shall re-evaluate paragraphs 7 and 8(e), (f), (i) and (j) of this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 7, including the requirement on coating integrity, and, if appropriate, modify this entry accordingly.\n10. By way of derogation paragraph 7 shall not apply to articles placed on the market for the first time before 1 June 2016.\n11. Doing either of the following acts after 15 February 2023 in or within 100 metres of wetlands is prohibited:\n(a) discharging gunshot containing a concentration of lead (expressed as metal) equal to or greater than 1 % by weight;\n(b) carrying any such gunshot where this occurs while out wetland shooting or as part of going wetland shooting.\nFor the purposes of the first subparagraph:\n(a) within 100 metres of wetlands means within 100 metres outward from any outer boundary point of a wetland;\n(b) wetland shooting means shooting in or within 100 metres of wetlands;\n(c) if a person is found carrying gunshot in or within 100 metres of wetlands while out shooting or as part of going shooting, the shooting concerned shall be presumed to be wetland shooting unless that person can demonstrate that it was some other type of shooting.\nThe restriction laid down in the first subparagraph shall not apply in a Member State if that Member State notifies the Commission in accordance with paragraph 12 that it intends to make use of the option granted by that paragraph.\n12. If at least 20 % in total of the territory, excluding the territorial waters, of a Member State are wetlands, that Member State may, in place of the restriction laid down in the first subparagraph of paragraph 11, prohibit the following acts throughout the whole of its territory from 15 February 2024:\n(a) the placing on the market of gunshot containing a concentration of lead (expressed as metal) equal to or greater than 1 % by weight;\n(b) the discharging of any such gunshot;\n(c) carrying any such gunshot while out shooting or as part of going shooting.\nAny Member State intending to make use of the option granted by the first subparagraph shall notify the Commission of this intention by 15 August 2021. The Member State shall communicate the text of the national measures adopted by it to the Commission without delay and in any event by 15 August 2023. The Commission shall make publicly available without delay any such notices of intention and texts of national measures received by it.\n13. For the purposes of paragraphs 11 and 12:\n(a) wetlands means areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed 6 metres;\n(b) gunshot means pellets used or intended for use in a single charge or cartridge in a shotgun;\n(c) shotgun means a smooth-bore gun, excluding airguns;\n(d) shooting means any shooting with a shotgun;\n(e) carrying means any carrying on the person or carrying or transporting by any other means;\n(f) in determining whether a person found with gunshot is carrying gunshot as part of going shooting:\n(i) regard shall be had to all the circumstances of the case;\n(ii) the person found with the gunshot need not necessarily be the same person as the person shooting.\n14. Member States may maintain national provisions for protection of the environment or human health in force on 15 February 2021 and restricting lead in gunshot more severely than provided for in paragraph 11.\nThe Member State shall communicate the text of those national provisions to the Commission without delay. The Commission shall make publicly available without delay any such texts of national provisions received by it."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "63",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "63. Lead\nCAS No 7439-92-1\nEC No 231-100-4\nand its compounds",
+                    "1. Shall not be placed on the market or used in any individual part of jewellery articles if the concentration of lead (expressed as metal) in such a part is equal to or greater than 0,05 % by weight.\n2. For the purposes of paragraph 1:\n(i) jewellery articles shall include jewellery and imitation jewellery articles and hair accessories, including:\n(a) bracelets, necklaces and rings;\n(b) piercing jewellery;\n(c) wrist watches and wrist-wear;\n(d) brooches and cufflinks;\n(ii) any individual part shall include the materials from which the jewellery is made, as well as the individual components of the jewellery articles.\n3. Paragraph 1 shall also apply to individual parts when placed on the market or used for jewellery-making.\n4. By way of derogation, paragraph 1 shall not apply to:\n(a) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Council Directive 69/493/EEC\n;\n(b) internal components of watch timepieces inaccessible to consumers;\n(c) non-synthetic or reconstructed precious and semiprecious stones (CN code 7103, as established by Regulation (EEC) No 2658/87), unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of minerals melted at a temperature of at least 500 °C.\n5. By way of derogation, paragraph 1 shall not apply to jewellery articles placed on the market for the first time before 9 October 2013 and jewellery articles produced before 10 December 1961.\n6. By 9 October 2017, the Commission shall re-evaluate paragraphs 1 to 5 of this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 1 and, if appropriate, modify this entry accordingly.\n7. Shall not be placed on the market or used in articles supplied to the general public, if the concentration of lead (expressed as metal) in those articles or accessible parts thereof is equal to or greater than 0,05 % by weight, and those articles or accessible parts thereof may, during normal or reasonably foreseeable conditions of use, be placed in the mouth by children.\nThat limit shall not apply where it can be demonstrated that the rate of lead release from such an article or any such accessible part of an article, whether coated or uncoated, does not exceed 0,05 μg/cm2 per hour (equivalent to 0,05 μg/g/h), and, for coated articles, that the coating is sufficient to ensure that this release rate is not exceeded for a period of at least two years of normal or reasonably foreseeable conditions of use of the article.\nFor the purposes of this paragraph, it is considered that an article or accessible part of an article may be placed in the mouth by children if it is smaller than 5 cm in one dimension or has a detachable or protruding part of that size.\n8. By way of derogation, paragraph 7 shall not apply to:\n(a) jewellery articles covered by paragraph 1;\n(b) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Directive 69/493/EEC;\n(c) non-synthetic or reconstructed precious and semi-precious stones (CN code 7103 as established by Regulation (EEC) No 2658/87) unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of mineral melted at a temperature of at least 500 °C;\n(e) keys and locks, including padlocks;\n(f) musical instruments;\n(g) articles and parts of articles comprising brass alloys, if the concentration of lead (expressed as metal) in the brass alloy does not exceed 0,5 % by weight;\n(h) the tips of writing instruments;\n(i) religious articles;\n(j) portable zinc-carbon batteries and button cell batteries;\n(k) articles within the scope of:\n(i) Directive 94/62/EC;\n(ii) Regulation (EC) No 1935/2004;\n(iii) Directive 2009/48/EC of the European Parliament and of the Council\n;\n(iv) Directive 2011/65/EU of the European Parliament and of the Council\n9. By 1 July 2019, the Commission shall re-evaluate paragraphs 7 and 8(e), (f), (i) and (j) of this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 7, including the requirement on coating integrity, and, if appropriate, modify this entry accordingly.\n10. By way of derogation paragraph 7 shall not apply to articles placed on the market for the first time before 1 June 2016.\n11. Doing either of the following acts after 15 February 2023 in or within 100 metres of wetlands is prohibited:\n(a) discharging gunshot containing a concentration of lead (expressed as metal) equal to or greater than 1 % by weight;\n(b) carrying any such gunshot where this occurs while out wetland shooting or as part of going wetland shooting.\nFor the purposes of the first subparagraph:\n(a) within 100 metres of wetlands means within 100 metres outward from any outer boundary point of a wetland;\n(b) wetland shooting means shooting in or within 100 metres of wetlands;\n(c) if a person is found carrying gunshot in or within 100 metres of wetlands while out shooting or as part of going shooting, the shooting concerned shall be presumed to be wetland shooting unless that person can demonstrate that it was some other type of shooting.\nThe restriction laid down in the first subparagraph shall not apply in a Member State if that Member State notifies the Commission in accordance with paragraph 12 that it intends to make use of the option granted by that paragraph.\n12. If at least 20 % in total of the territory, excluding the territorial waters, of a Member State are wetlands, that Member State may, in place of the restriction laid down in the first subparagraph of paragraph 11, prohibit the following acts throughout the whole of its territory from 15 February 2024:\n(a) the placing on the market of gunshot containing a concentration of lead (expressed as metal) equal to or greater than 1 % by weight;\n(b) the discharging of any such gunshot;\n(c) carrying any such gunshot while out shooting or as part of going shooting.\nAny Member State intending to make use of the option granted by the first subparagraph shall notify the Commission of this intention by 15 August 2021. The Member State shall communicate the text of the national measures adopted by it to the Commission without delay and in any event by 15 August 2023. The Commission shall make publicly available without delay any such notices of intention and texts of national measures received by it.\n13. For the purposes of paragraphs 11 and 12:\n(a) wetlands means areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed 6 metres;\n(b) gunshot means pellets used or intended for use in a single charge or cartridge in a shotgun;\n(c) shotgun means a smooth-bore gun, excluding airguns;\n(d) shooting means any shooting with a shotgun;\n(e) carrying means any carrying on the person or carrying or transporting by any other means;\n(f) in determining whether a person found with gunshot is carrying gunshot as part of going shooting:\n(i) regard shall be had to all the circumstances of the case;\n(ii) the person found with the gunshot need not necessarily be the same person as the person shooting.\n14. Member States may maintain national provisions for protection of the environment or human health in force on 15 February 2021 and restricting lead in gunshot more severely than provided for in paragraph 11.\nThe Member State shall communicate the text of those national provisions to the Commission without delay. The Commission shall make publicly available without delay any such texts of national provisions received by it.\n15. Shall not be placed on the market or used in articles produced from polymers or copolymers of vinyl chloride (PVC), if the concentration of lead is equal to or greater than 0,1 % by weight of the PVC material.\n16. Paragraph 15 shall apply with effect from 29 November 2024.\n17. By way of derogation, paragraph 15 shall not apply to PVC articles containing recovered flexible PVC until 28 May 2025.\n18. By way of derogation, paragraph 15 shall not apply to the following PVC articles containing recovered rigid PVC until 28 May 2033, if the concentration of lead is lower than 1,5 % by weight of the recovered rigid PVC:\n(a) profiles and sheets for exterior applications in buildings and civil engineering works, excluding decks and terraces;\n(b) profiles and sheets for decks and terraces, provided that the recovered PVC is used in a middle layer and is entirely covered with a layer of PVC or other material for which the concentration of lead is lower than 0,1 % by weight;\n(c) profiles and sheets for use in concealed spaces or voids in buildings and civil engineering works (where they are inaccessible during normal use, excluding maintenance, for example, cable ducts);\n(d) profiles and sheets for interior building applications, provided that the entire surface of the profile or sheet facing the occupied areas of a building after installation is produced using PVC or other material for which the concentration of lead is lower than 0,1 % by weight;\n(e) multi-layer pipes (excluding pipes for drinking water), provided that the recovered PVC is used in a middle layer and is entirely covered with a layer of PVC or other material for which the concentration of lead is lower than 0,1 % by weight;\n(f) fittings, excluding fittings for pipes for drinking water.\nFrom 28 May 2026, rigid PVC recovered from the categories of articles referred to in points (a) to (d) shall only be used for the production of new articles of any of those categories.\nSuppliers of PVC articles containing recovered rigid PVC with a concentration of lead equal to or greater than 0,1 % by weight of the PVC material shall ensure, before placing those articles on the market, that they are visibly, legibly and indelibly marked with the statement: Contains ≥ 0,1 % lead. Where the marking cannot be provided on the article due to the nature of the article, it shall be on the packaging of the article.\nSuppliers of PVC articles containing recovered rigid PVC shall submit to national enforcement authorities upon request documentary evidence to substantiate the claims on the recovered origin of the PVC in those articles. Certificates issued by schemes to provide proof of traceability and recycled content, such as those developed according to EN 15343:2007 or equivalent recognised standards, may be used to substantiate such claims for PVC articles produced in the Union. Claims made on the recovered origin of the PVC in imported articles shall be accompanied by a certificate that provides equivalent proof of traceability and recycled content, issued by an independent third party.\nBy 28 May 2028, the Commission shall review this paragraph in light of new scientific information and, if appropriate, modify it accordingly.\n19. By way of derogation, paragraph 15 shall not apply to:\n(a) PVC-silica separators in lead acid batteries, until 28 May 2033;\n(b) articles covered by paragraph 1, in accordance with paragraphs 2 to 5, and by paragraph 7 in accordance with paragraphs 8 and 10;\n(c) articles within the scope of:\n(i) Regulation (EC) No 1935/2004;\n(ii) Directive 2011/65/EU;\n(iii) Directive 94/62/EC;\n(iv) Directive 2009/48/EC.\n20. By way of derogation, paragraph 15 shall not apply to PVC articles placed on the market until 28 November 2024."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead"
+              }
+            }
+          ],
+          "unchanged": 1929,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -218,6 +452,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
