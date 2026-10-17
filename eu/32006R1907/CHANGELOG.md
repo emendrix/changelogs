@@ -5856,6 +5856,8 @@ The remainder of the Annex, including the content-of-dossiers section, is unchan
 
 *within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 3`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6` · *amended by* `32008R1272`
 
+Table entries: 0 added, 36 amended, 0 removed: Entry 1, Entry 3, Entry 5, Entry 6, Entry 12, Entry 16, Entry 18, Entry 19, Entry 20, Entry 21 and 26 more
+
 Throughout the Annex the word 'preparations' has been replaced by 'mixtures', including in the Annex heading and in the column header describing the substances, groups of substances or mixtures covered. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
 
 Entries 28 to 30 no longer cross-refer to carcinogen, mutagen and reproductive-toxicant classifications under Directive 67/548/EEC and Annex I to that Directive, but instead refer to classifications and concentration limits set out in Part 3 of Annex VI to Regulation (EC) No 1272/2008, using its Table 3.1 and Table 3.2 category labels alongside the corresponding former category numbers. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20090120#anx_XVII)
