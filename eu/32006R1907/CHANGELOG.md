@@ -2096,6 +2096,8 @@ The wood-treatment derogation text under entry 31 also differs, with the after t
 
 *within* `AN XVII` · *dates* +2019-05-09 +2020-05-09 +2024-05-09 · *amended by* `32018R0589`, `32018R0588`
 
+Table entries: 2 added, 0 amended, 0 removed: Entry 69, Entry 71
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20180301`)
