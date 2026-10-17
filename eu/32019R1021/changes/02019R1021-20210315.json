@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,105 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substance",
+                  "CAS No",
+                  "EC No",
+                  "Specific exemption on intermediate use or other specification"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "pentachlorophenol and its salts and esters",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "pentachlorophenol and its salts and esters",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pentachlorophenol and its salts and esters",
+                    "87-86-5 and others",
+                    "201-778-6 and others",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-86-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-778-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentachlorophenol and its salts and esters"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "pentachlorophenol and its salts and esters",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pentachlorophenol and its salts and esters",
+                    "87-86-5 and others",
+                    "201-778-6 and others",
+                    "For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of pentachlorophenol and its salts and esters equal to or below 5 mg/kg (0,0005 % by weight) where they are present in substances, mixtures or articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-86-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-778-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentachlorophenol and its salts and esters"
+              }
+            }
+          ],
+          "unchanged": 27,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -230,6 +329,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

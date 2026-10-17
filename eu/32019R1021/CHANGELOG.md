@@ -731,6 +731,8 @@ The Hexachlorobenzene entry, which previously showed a dash with no specific exe
 
 *within* `AN I` · *amended by* `32021R0277`
 
+Table entries: 0 added, 1 amended, 0 removed: "Pentachlorophenol and its salts and esters"
+
 The entry for Pentachlorophenol and its salts and esters, which previously carried no specification text, now includes a specific exemption stating that point (b) of Article 4(1) applies to concentrations of pentachlorophenol and its salts and esters equal to or below 5 mg/kg (0,0005 % by weight) where they are present in substances, mixtures or articles. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20210315#anx_I)
 
 *before* (`02019R1021-20210222`)
