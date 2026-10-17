@@ -290,7 +290,7 @@ Within the biocidal-product data tables, entries 8.1 through 8.3 on skin corrosi
 ### `02012R0528-20210329` → `02012R0528-20210610`
 
 - **Act** `eu:32012R0528` · **In force** 2021-06-10 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 103 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20210329` · `v2` = `02012R0528-20210610`
@@ -300,6 +300,8 @@ Within the biocidal-product data tables, entries 8.1 through 8.3 on skin corrosi
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2022-07-01 +2023-02-01 · *amended by* `32021R0807`, `32021R0806`
+
+Table entries: 2 added, 0 amended, 0 removed: "Carbon dioxide generated from propane, butane or a mixture of both by combustion", "Potassium (E,E)-hexa-2,4-dienoate (potassium sorbate)"
 
 The later version adds two new approval-date statements for product-type 19 and product-type 6, naming carbon dioxide generated from propane, butane or a mixture of both by combustion, and potassium sorbate respectively. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210610#anx_I)
 

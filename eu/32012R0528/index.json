@@ -179,10 +179,10 @@
       "in_force": [
         "2021-06-10"
       ],
-      "updated_on": "2026-09-04",
-      "schema_version": "1.0",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32012R0528/changes/02012R0528-20210610.json",
-      "sha256": "494f0a5c4855efdb3b535f81885676d481ab3aaa65a968599ec0606f87d79fc1",
+      "sha256": "62927a91ed7339af2cfe0a7885055ae4b8f24457855a94b2c47472143197d43d",
       "diff_only": false,
       "counts": {
         "touched": 1,
@@ -193,7 +193,12 @@
         "quoted": 0,
         "unexplained": 0
       },
-      "repairs": [],
+      "repairs": [
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
+        }
+      ],
       "evidence": false,
       "metadata_only_units": [],
       "instruction_only_units": []
