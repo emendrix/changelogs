@@ -1183,6 +1183,8 @@ The transitional arrangements for these same four entries have been expanded to 
 
 *within* `AN XVII APP 2`, `AN XVII APP 5`, `AN XVII APP 6` · *amended by* `32020R2096`
 
+Table entries: 11 added, 0 amended, 0 removed: Index No 027-001-00-9, Index No 601-090-00-X, Index No 601-091-00-5, Index No 080-012-00-0, Index No 027-001-00-9, Index No 603-023-00-X, Index No 603-236-00-8, Index No 607-737-00-2, Index No 613-329-00-5, Index No 613-330-00-0 and 1 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20210825`)

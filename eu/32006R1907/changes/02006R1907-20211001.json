@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -54,6 +54,628 @@
           "AN XVII APP 5",
           "AN XVII APP 6"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "027-001-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "027-001-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cobalt",
+                    "027-001-00-9",
+                    "231-158-0",
+                    "7440-48-4",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-48-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-158-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "027-001-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cobalt"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "601-090-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "601-090-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzo[rst]pentaphene",
+                    "601-090-00-X",
+                    "205-877-5",
+                    "189-55-9",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "189-55-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-877-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-090-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzo[rst]pentaphene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "601-091-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "601-091-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dibenzo[b,def]chrysene; dibenzo[a,h]pyrene",
+                    "601-091-00-5",
+                    "205-878-0",
+                    "189-64-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "189-64-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-878-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-091-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibenzo[b,def]chrysene; dibenzo[a,h]pyrene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key": "080-012-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 5",
+                "table": 1,
+                "key": "080-012-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Methylmercuric chloride",
+                    "080-012-00-0",
+                    "204-064-2",
+                    "115-09-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-09-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-064-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "080-012-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methylmercuric chloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "027-001-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "027-001-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cobalt",
+                    "027-001-00-9",
+                    "231-158-0",
+                    "7440-48-4",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-48-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-158-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "027-001-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cobalt"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "603-023-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "603-023-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Ethylene oxide; oxirane",
+                    "603-023-00-X",
+                    "200-849-9",
+                    "75-21-8",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-21-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-849-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "603-023-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethylene oxide; oxirane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "603-236-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "603-236-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Ethanol, 2,2'-iminobis-, N-(C13-15 branched and linear alkyl) derivs.",
+                    "603-236-00-8",
+                    "308-208-6",
+                    "97925-95-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97925-95-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "308-208-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "603-236-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethanol, 2,2'-iminobis-, N-(C13-15 branched and linear alkyl) derivs."
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-737-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-737-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diisohexyl phthalate",
+                    "607-737-00-2",
+                    "276-090-2",
+                    "71850-09-4",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71850-09-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-090-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-737-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisohexyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-329-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-329-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Halosulfuron-methyl (ISO);\nmethyl 3-chloro-5-{[(4,6dimethoxypyrimidin-2yl)carbamoyl]sulfamoyl}-1-methyl1H-pyrazole-4-carboxylate",
+                    "613-329-00-5",
+                    "-",
+                    "100784-20-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "100784-20-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-329-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Halosulfuron-methyl (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-330-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-330-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-methylimidazole",
+                    "613-330-00-0",
+                    "211-765-7",
+                    "693-98-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "693-98-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-765-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-330-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-methylimidazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "650-056-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "650-056-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dibutylbis(pentane-2,4-dionato-O,O')tin",
+                    "650-056-00-0",
+                    "245-152-0",
+                    "22673-19-4",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "22673-19-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-152-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "650-056-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutylbis(pentane-2,4-dionato-O,O')tin"
+              }
+            }
+          ],
+          "unchanged": 1888,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -234,6 +856,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
