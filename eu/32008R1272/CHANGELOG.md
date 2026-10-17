@@ -5225,6 +5225,8 @@ In section 2.2, the description under GHS05 for skin corrosion was changed from 
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 3`
 
+Table entries: 26 added, 22 amended, 1 removed: Index No 005-020-00-3, Index No 006-035-00-8, Index No 014-046-00-4, Index No 014-047-00-X, Index No 029-002-00-X, Index No 029-015-00-0, Index No 029-016-00-6, Index No 029-017-00-1, Index No 029-018-00-7, Index No 029-019-01-X and 39 more
+
 The table of hazard class and category codes now includes an additional entry, Skin Corr. 1, listed alongside the existing Skin Corr. 1A, 1B and 1C codes under skin corrosion/irritation. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
 
 Note U has been expanded to list four specific codes for gases under pressure (Press. Gas (Comp.), Press. Gas (Liq.), Press. Gas (Ref. Liq.), Press. Gas (Diss.)) and to state that aerosols are not to be classified as gases under pressure, with a cross-reference to Annex I, Part 2, Section 2.3.2.1, Note 2. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20180301#anx_VI)
