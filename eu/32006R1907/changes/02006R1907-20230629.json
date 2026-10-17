@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -55,6 +55,470 @@
           "AN XVII APP 5",
           "AN XVII APP 6"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key": "033-005-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "033-005-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Arsenic acid and its salts with the exception of those specified elsewhere in this Annex",
+                    "033-005-00-1",
+                    "—",
+                    "—",
+                    "A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "033-005-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Arsenic acid and its salts with the exception of those specified elsewhere in this Annex"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 1",
+                "table": 1,
+                "key": "033-005-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Arsenic acid and its salts, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008",
+                    "033-005-00-1",
+                    "—",
+                    "—",
+                    "A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "033-005-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Arsenic acid and its salts, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "650-017-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "650-017-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Refractory Ceramic Fibres, Special Purpose Fibres, with the exception of those specified elsewhere in this Annex;\n[Man-made vitreous (silicate) fibres with random orientation with alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+ MgO+BaO) content less or equal to 18 % by weight]",
+                    "650-017-00-8",
+                    "—",
+                    "—",
+                    "A, R"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "650-017-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Refractory Ceramic Fibres, Special Purpose Fibres, with the exception of those specified elsewhere in this Annex;"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "650-017-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Refractory Ceramic Fibres, Special Purpose Fibres, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008; [Man-made vitreous (silicate) fibres with random orientation with alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+MgO+BaO) content less or equal to 18 % by weight]",
+                    "650-017-00-8",
+                    "—",
+                    "—",
+                    "A, R"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "650-017-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Refractory Ceramic Fibres, Special Purpose Fibres, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008; [Man-made vitreous (silicate) fibres with random orientation with alkaline oxide and alkali earth oxide (Na2O+K2O+CaO+MgO+BaO) content less or equal to 18 % by weight]"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key": "082-001-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 5",
+                "table": 1,
+                "key": "082-001-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lead compounds with the exception of those specified elsewhere in this Annex",
+                    "082-001-00-6",
+                    "",
+                    "",
+                    "A, E"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "082-001-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead compounds with the exception of those specified elsewhere in this Annex"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 5",
+                "table": 1,
+                "key": "082-001-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lead compounds, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008",
+                    "082-001-00-6",
+                    "—",
+                    "—",
+                    "A"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "082-001-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead compounds, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "050-008-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "050-008-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin compounds, with the exception of those specified elsewhere in this Annex",
+                    "050-008-00-3",
+                    "—",
+                    "—",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "050-008-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin compounds, with the exception of those specified elsewhere in this Annex"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "050-008-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tributyltin compounds, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008",
+                    "050-008-00-3",
+                    "—",
+                    "—",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "050-008-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tributyltin compounds, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "609-026-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "609-026-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Salts and esters of dinoseb, with the exception of those specified elsewhere in this Annex",
+                    "609-026-00-2",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "609-026-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Salts and esters of dinoseb, with the exception of those specified elsewhere in this Annex"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "609-026-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Salts and esters of dinoseb, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008",
+                    "609-026-00-2",
+                    "—",
+                    "—",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "609-026-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Salts and esters of dinoseb, except those specified elsewhere in Annex VI to Regulation (EC) No 1272/2008"
+              }
+            }
+          ],
+          "unchanged": 1925,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -246,6 +710,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

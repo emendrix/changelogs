@@ -627,6 +627,8 @@ Both the before and after texts are cut off before the end of entry 31's conditi
 
 *within* `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 5`, `AN XVII APP 6` · *amended by* `32023R1132`
 
+Table entries: 0 added, 5 amended, 0 removed: Index No 033-005-00-1, Index No 650-017-00-8, Index No 082-001-00-6, Index No 050-008-00-3, Index No 609-026-00-2
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20230528`)
