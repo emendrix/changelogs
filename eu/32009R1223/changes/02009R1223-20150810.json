@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,208 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "2a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "2a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2a",
+                    "Thioglycolic acid and its salts",
+                    "Thioglycolic acid",
+                    "68-11-1",
+                    "200-677-4",
+                    "(a) Hair products",
+                    "8 %",
+                    "General use\nready for use pH 7 to 9,5",
+                    "Conditions of use:\n(a) (b) (c)\nAvoid contact with eyes\nIn the event of contact with eyes, rinse immediately with plenty of water and seek medical advice\n(a) (c)\nWear suitable gloves\nWarnings:\n(a) (b) (c)\nContains thioglycolate\nFollow the instructions\nKeep out of reach of children\n(a) For professional use only"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "11 %",
+                    "Professional use\nready for use pH 7 to 9,5",
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Depilatories",
+                    "5 %",
+                    "ready for use pH 7 to 12,7",
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) Hair rinse-off products",
+                    "2 %\nThe abovementioned percentages are calculated as thioglycolic acid",
+                    "ready for use pH 7 to 9,5",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68-11-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-677-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Thioglycolic acid and its salts"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "2a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2a",
+                    "Thioglycolic acid and its salts",
+                    "Thioglycolic acid",
+                    "68-11-1",
+                    "200-677-4",
+                    "(a) Hair waving or straightening products",
+                    "(a) (i) 8 %\n(ii) 11 %",
+                    "(a) (i) General use\nready for use pH 7 to 9,5\n(ii) Professional use\nready for use pH 7 to 9,5",
+                    "Conditions of use:\n(a) (b) (c) (d)\nAvoid contact with eyes\nRinse eyes immediately if product comes into contact with them.\n(a) (c) (d)\nWear suitable gloves\nWarnings to be printed on the label:\n(a)(i) (b) (c)\nContains thioglycolate\nFollow the instructions\nKeep out of reach of children\n(a)(ii) (d)\nFor professional use only\nContains thioglycolate\nFollow the instructions"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Depilatories",
+                    "(b) 5 %",
+                    "(b) ready for use pH 7 to 12,7",
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) Other hair rinse-off products",
+                    "(c) 2 %",
+                    "(c) ready for use pH 7 to 9,5",
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(d) Products intended for eyelash waving",
+                    "(d) 11 %\nThe abovementioned percentages are calculated as thioglycolic acid",
+                    "(d) For professional use\nready for use pH 7 to 9,5",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68-11-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-677-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Thioglycolic acid and its salts"
+              }
+            }
+          ],
+          "unchanged": 294,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -420,6 +622,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

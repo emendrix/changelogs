@@ -3514,6 +3514,8 @@ Two new entries, numbered 30 and 30a, are added to the table for zinc oxide and 
 
 *within* `AN III` · *amended by* `32015R1190`
 
+Table entries: 0 added, 1 amended, 0 removed: Reference number 2a
+
 Entry 2a for thioglycolic acid and its salts was rewritten to split the product category into four sub-items (a) hair waving or straightening products with general and professional use concentrations, (b) depilatories, (c) other hair rinse-off products, and (d) products intended for eyelash waving, whereas the earlier version organised the same substance under three sub-items (a) hair products, (b) depilatories, and (c) hair rinse-off products without a separate eyelash-waving category. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150716#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150810#anx_III)
 
 The conditions-of-use and warnings text accompanying entry 2a was also reworded, adding a reference to sub-item (d) and changing the wording around avoiding eye contact, rinsing eyes, and the labelling instructions distinguishing general use from professional use. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150716#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150810#anx_III)
