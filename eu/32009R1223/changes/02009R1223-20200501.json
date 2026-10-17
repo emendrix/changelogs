@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,7 @@
         "changed_within": [
           "AN I SCT 2"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -158,6 +159,497 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1612",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1612",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1612",
+                    "Phosmet (ISO); S-[(1,3-dioxo-1,3-dihydro-2H- isoindol-2-yl)methyl]-O,O-dimethyl phosphorodithioate;\nO,O-dimethyl-S-phthalimidomethyl phosphorodithioate",
+                    "732-11-6",
+                    "211-987-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "732-11-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-987-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phosmet (ISO); S-[(1,3-dioxo-1,3-dihydro-2H- isoindol-2-yl)methyl]-O,O-dimethyl phosphorodithioate;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1613",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1613",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1613",
+                    "Potassium permanganate",
+                    "7722-64-7",
+                    "231-760-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7722-64-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-760-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Potassium permanganate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1614",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1614",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1614",
+                    "2-Benzyl-2-dimethylamino-4′- morpholinobutyrophenone",
+                    "119313-12-1",
+                    "404-360-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "119313-12-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "404-360-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Benzyl-2-dimethylamino-4′- morpholinobutyrophenone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1615",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1615",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1615",
+                    "Quizalofop-p-tefuryl (ISO);\n(+/–) tetrahydrofurfuryl (R)-2-[4-(6- chloroquinoxalin-2-\nyloxy)phenyloxy]propionate",
+                    "200509-41-7",
+                    "414-200-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "200509-41-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "414-200-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Quizalofop-p-tefuryl (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1616",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1616",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1616",
+                    "Propiconazole (ISO); (2RS,4RS;2RS,4SR)-1-{[2-(2,4- dichlorophenyl)-4-propyl-1,3- dioxolan-2-yl]methyl}-1H- 1,2,4-triazole",
+                    "60207-90-1",
+                    "262-104-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60207-90-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "262-104-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Propiconazole (ISO); (2RS,4RS;2RS,4SR)-1-{[2-(2,4- dichlorophenyl)-4-propyl-1,3- dioxolan-2-yl]methyl}-1H- 1,2,4-triazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1617",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1617",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1617",
+                    "Pinoxaden (ISO); 8-(2,6-diethyl-4-methylphenyl)-7-oxo-1,2,4,5-tetrahydro-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl 2,2-dimethylpropanoate",
+                    "243973-20-8",
+                    "635-361-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "243973-20-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "635-361-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pinoxaden (ISO); 8-(2,6-diethyl-4-methylphenyl)-7-oxo-1,2,4,5-tetrahydro-7H-pyrazolo[1,2-d][1,4,5]oxadiazepin-9-yl 2,2-dimethylpropanoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1618",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1618",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1618",
+                    "Tetramethrin (ISO);\n(1,3-dioxo-1,3,4,5,6,7-hexahydro-2H-isoindol-2-yl)methyl 2,2-dimethyl-3-(2-methylprop-1-en-1-yl)cyclopropanecarboxylate",
+                    "7696-12-0",
+                    "231-711-6"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7696-12-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-711-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetramethrin (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1619",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1619",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1619",
+                    "(1,3,4,5,6,7-Hexahydro-1,3-dioxo-2H-isoindol-2-yl)methyl (1R-trans)-2,2-dimethyl-3-(2- methylprop-1-enyl)cyclopropanecarboxylate",
+                    "1166-46-7",
+                    "214-619-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1166-46-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-619-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(1,3,4,5,6,7-Hexahydro-1,3-dioxo-2H-isoindol-2-yl)methyl (1R-trans)-2,2-dimethyl-3-(2- methylprop-1-enyl)cyclopropanecarboxylate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1620",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1620",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1620",
+                    "Spirodiclofen (ISO);\n3-(2,4-dichlorophenyl)-2-oxo- 1-oxaspiro[4.5]dec-3-en-4-yl 2,2-dimethylbutyrate",
+                    "148477-71-8",
+                    "604-636-5"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "148477-71-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "604-636-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Spirodiclofen (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1621",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1621",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1621",
+                    "Reaction mass of 1-[2-(2-aminobutoxy)ethoxy]but-2-ylamine and 1-({[2-(2-aminobutoxy)ethoxy]methyl}propoxy) but-2-ylamine",
+                    "897393-42-9",
+                    "447-920-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "897393-42-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "447-920-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Reaction mass of 1-[2-(2-aminobutoxy)ethoxy]but-2-ylamine and 1-({[2-(2-aminobutoxy)ethoxy]methyl}propoxy) but-2-ylamine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1622",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1622",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1622",
+                    "1-Vinylimidazole",
+                    "1072-63-5",
+                    "214-012-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1072-63-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-012-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-Vinylimidazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1623",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1623",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1623",
+                    "Amisulbrom (ISO)3-(3-bromo-6-fluoro-2-methylindol-1-ylsulfonyl)-N,N-dimethyl-1H-1,2,4-triazole-1-sulfonamide",
+                    "348635-87-0",
+                    "672-776-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "348635-87-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "672-776-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Amisulbrom (ISO)3-(3-bromo-6-fluoro-2-methylindol-1-ylsulfonyl)-N,N-dimethyl-1H-1,2,4-triazole-1-sulfonamide"
+              }
+            }
+          ],
+          "unchanged": 1628,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -220,6 +712,154 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "98",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "98",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "98",
+                    "Benzoic acid, 2-hydroxy-\n",
+                    "Salicylic acid",
+                    "69-72-7",
+                    "200-712-3",
+                    "(a) Rinse-off hair products\n(b) Other products",
+                    "(a) 3,0 %\n(b) 2,0 %",
+                    "Not to be used in preparations for children under 3 years of age, except for shampoos\nFor purposes other than inhibiting the development of micro-organisms in the product. This purpose has to be apparent from the presentation of the product",
+                    "Not to be used for children under 3 years of age\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "69-72-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-712-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzoic acid, 2-hydroxy-"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "98",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "98",
+                    "Benzoic acid, 2-hydroxy-\n",
+                    "Salicylic acid",
+                    "69-72-7",
+                    "200-712-3",
+                    "(a) Rinse-off hair products\n(b) Other products except body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant",
+                    "(a) 3,0 %\n(b) 2,0 %",
+                    "Not to be used in preparations for children under 3 years of age.\nNot to be used in applications that may lead to exposure of the end-user’s lungs by inhalation.\nNot to be used in oral products.\nFor purposes other than inhibiting the development of micro-organisms in the product. This purpose has to be apparent from the presentation of the product.",
+                    "Not to be used for children under 3 years of age\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "69-72-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-712-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzoic acid, 2-hydroxy-"
+              }
+            }
+          ],
+          "unchanged": 323,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -379,6 +1019,267 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3",
+                    "Salicylic acid\n and its salts",
+                    "Salicylic acid, calcium salicylate, magnesium salicylate, MEA-salicylate, sodium salicylate, potassium salicylate, TEA-salicylate",
+                    "69-72-7, 824-35-1, 18917-89-0, 59866-70-5, 54-21-7, 578-36-9, 2174-16-5",
+                    "200-712-3, 212-525-4, 242-669-3, 261-963-2, 200-198-0, 209-421-6, 218-531-3",
+                    "",
+                    "0,5 % (acid)",
+                    "Not to be used in products for children under 3 years of age, except for shampoos",
+                    "Not to be used for children under 3 years of age\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "18917-89-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2174-16-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "54-21-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "578-36-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "59866-70-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "69-72-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "824-35-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-198-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-712-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-421-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-525-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-531-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "242-669-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "261-963-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Salicylic acid"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3",
+                    "Salicylic acid\n and its salts",
+                    "Salicylic acid",
+                    "69-72-7",
+                    "200-712-3",
+                    "",
+                    "0,5 % (acid)",
+                    "Not to be used in products for children under 3 years of age.",
+                    "Not to be used for children under 3 years of age\n"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Not to be used in oral products.",
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation.",
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Calcium salicylate, magnesium salicylate, MEA- salicylate, sodium salicylate, potassium salicylate, TEA- salicylate",
+                    "824-35-1, 18917-89-0, 59866- 70-5, 54-21-7, 578-36-9, 2174-16-5",
+                    "212-525-4, 242-669-3, 261-963-2, 200-198-0, 209-421-6, 218-531-3",
+                    "",
+                    "0,5 % (acid)",
+                    "Not to be used in products for children under 3 years of age, except for shampoos.",
+                    "Not to be used for children under 3 years of age\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "18917-89-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2174-16-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "54-21-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "578-36-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "69-72-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "824-35-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-198-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-712-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-421-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-525-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "218-531-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "242-669-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "261-963-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Salicylic acid"
+              }
+            }
+          ],
+          "unchanged": 61,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -804,6 +1705,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 4,
       "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 3,
+      "repaired": 3,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

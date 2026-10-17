@@ -1858,6 +1858,8 @@ No other wording in section 2 or elsewhere in Annex I differs between the two te
 
 *within* `AN II` · *amended by* `32019R1966`
 
+Table entries: 12 added, 0 amended, 0 removed: Reference number 1612, Reference number 1613, Reference number 1614, Reference number 1615, Reference number 1616, Reference number 1617, Reference number 1618, Reference number 1619, Reference number 1620, Reference number 1621 and 2 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20191218`)
@@ -1885,6 +1887,8 @@ No other wording in section 2 or elsewhere in Annex I differs between the two te
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32019R1966`
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 98
 
 One footnote changes wording slightly, replacing "For use as a preservative, see Annex V, No. 3" with "For use as a preservative see Annex V, No 3", a minor punctuation adjustment. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191218#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_III)
 
@@ -1935,6 +1939,8 @@ The remainder of the visible text, including the numbered substance entries, app
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32019R1966`
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 3
 
 Entry 3, covering salicylic acid and its salts, is restructured so that salicylic acid itself is now listed on its own line with its own CAS and EC numbers, separated from the other salicylate salts, which are grouped on a second line with their own identifiers. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20191218#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20200501#anx_V)
 
