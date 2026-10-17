@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,1982 @@
         "changed_within": [
           "AN IV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN IV",
+              "container": "AN IV",
+              "table": 1,
+              "key_label": "Einecs No",
+              "header": [
+                [
+                  "Einecs No",
+                  "Name/Group",
+                  "CAS No"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "200-233-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "200-233-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "200-233-3",
+                    "Fructose C6H12O6",
+                    "57-48-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "57-48-7"
+                  }
+                ],
+                "failed_check_digits": 1,
+                "name": "Fructose C6H12O6"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "200-312-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "200-312-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "200-312-9",
+                    "Palmitic acid, pure C16H32O2",
+                    "57-10-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "57-10-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-312-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Palmitic acid, pure C16H32O2"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "200-313-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "200-313-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "200-313-4",
+                    "Stearic acid, pure C18H36O2",
+                    "57-11-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "57-11-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-313-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Stearic acid, pure C18H36O2"
+              },
+              "after": null
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "200-416-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "200-416-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "200-416-4",
+                    "Galactose C6H12O6",
+                    "59-23-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "59-23-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-416-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Galactose C6H12O6"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "200-559-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "200-559-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "200-559-2",
+                    "Lactose C12H22O11",
+                    "63-42-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "63-42-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-559-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lactose C12H22O11"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "201-771-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "201-771-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "201-771-8",
+                    "1-sorbose C6H12O6",
+                    "87-79-6"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-79-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-771-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-sorbose C6H12O6"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "201-771-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "201-771-8",
+                    "L-sorbose C6H12O6",
+                    "87-79-6"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-79-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-771-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "L-sorbose C6H12O6"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "204-007-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "204-007-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "204-007-1",
+                    "Oleic acid, pure C18H34O2",
+                    "112-80-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "112-80-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-007-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Oleic acid, pure C18H34O2"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "205-582-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "205-582-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "205-582-1",
+                    "Lauric acid, pure C12H24O2",
+                    "143-07-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "143-07-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-582-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lauric acid, pure C12H24O2"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "205-590-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "205-590-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "205-590-5",
+                    "Potassium oleate C18H34O2K",
+                    "143-18-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "143-18-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-590-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Potassium oleate C18H34O2K"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "212-490-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "212-490-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "212-490-5",
+                    "Sodium stearate, pure C18H36O2.Na",
+                    "822-16-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "822-16-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-490-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium stearate, pure C18H36O2.Na"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "215-279-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "215-279-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "215-279-6",
+                    "Limestone\nA noncombustible solid characteristic of sedimentary rock. It consists primarily of calcium carbonate",
+                    "1317-65-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-65-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-279-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Limestone"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "216-472-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "216-472-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "216-472-8",
+                    "Calcium distearate, pure C18H36O2.1/2Ca",
+                    "1592-23-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1592-23-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-472-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Calcium distearate, pure C18H36O2.1/2Ca"
+              },
+              "after": null
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "231-098-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "231-098-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "231-098-5",
+                    "Krypton Kr",
+                    "7439-90-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-90-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-098-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Krypton Kr"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "231-110-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "231-110-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "231-110-9",
+                    "Neon Ne",
+                    "7440-01-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-01-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-110-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Neon Ne"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "231-153-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "231-153-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "231-153-3",
+                    "Carbon C",
+                    "7440-44-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-44-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-153-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbon C"
+              },
+              "after": null
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "231-168-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "231-168-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "231-168-5",
+                    "Helium He",
+                    "7440-59-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-59-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-168-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Helium He"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "231-172-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "231-172-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "231-172-7",
+                    "Xenon Xe",
+                    "7440-63-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-63-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-172-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Xenon Xe"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "231-955-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "231-955-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "231-955-3",
+                    "Graphite C",
+                    "7782-42-5"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7782-42-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-955-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Graphite C"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-273-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-273-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-273-9",
+                    "Sunflower oil\nExtractives and their physically modified derivatives. It consists primarily of the glycerides of the fatty acids linoleic, and oleic. (Helianthus annuus, Compositae).",
+                    "8001-21-6"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8001-21-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-273-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sunflower oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-274-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-274-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-274-4",
+                    "Soybean oil\nExtractives and their physically modified derivatives. It consists primarily of the glycerides of the fatty acids linoleic, oleic, palmitic and stearic (Soja hispida, Leguminosae).",
+                    "8001-22-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8001-22-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-274-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Soybean oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-276-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-276-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-276-5",
+                    "Safflower oil\nExtractives and their physically modified derivatives. It consists primarily of the glycerides of the fatty acid linoleic (Carthamus tinctorius, Compositae).",
+                    "8001-23-8"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8001-23-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-276-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Safflower oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-278-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-278-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-278-6",
+                    "Linseed oil\nExtractives and their physically modified derivatives. It consists primarily of the glycerides of the fatty acids linoleic, linolenic and oleic (Linum usitatissimum, Linaceae).",
+                    "8001-26-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8001-26-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-278-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Linseed oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-281-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-281-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-281-2",
+                    "Corn oil\nExtractives and their physically modified derivatives. It consists primarily of the glycerides of the fatty acids linoleic, oleic, palmitic and stearic. (Zea mays, Gramineae).",
+                    "8001-30-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8001-30-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-281-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Corn oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-293-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-293-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-293-8",
+                    "Castor Oil\nExtractives and their physically modified derivatives. It consists primarily of the glycerides of the fatty acid ricinoleic (Ricinus communis, Euphorbiaceae).",
+                    "8001-79-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8001-79-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-293-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Castor Oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-299-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-299-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-299-0",
+                    "Rape oil\nExtractives and their physically modified derivatives. It consists primarily of the glycerides of the fatty acids erucic, linoleic and oleic (Brassica napus, Cruciferae).",
+                    "8002-13-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8002-13-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-299-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Rape oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-307-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-307-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-307-2",
+                    "Lecithins\nThe complex combination of diglycerides of fatty acids linked to the choline ester of phosphoric acid.",
+                    "8002-43-5"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8002-43-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-307-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lecithins"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-307-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-307-2",
+                    "Lecithins\nThe complex combination of diglycerides of fatty acids linked to the choline ester of phosphoric acid",
+                    "8002-43-5"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8002-43-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-307-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lecithins"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-436-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-436-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-436-4",
+                    "Syrups, hydrolyzed starch\nA complex combination obtained by the hydrolysis of cornstarch by the action of acids or enzymes. It consists primarily of d-glucose, maltose and maltodextrins.",
+                    "8029-43-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8029-43-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-436-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Syrups, hydrolyzed starch"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-436-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-436-4",
+                    "Syrups, hydrolyzed starch\nA complex combination obtained by the hydrolysis of cornstarch by the action of acids or enzymes. It consists primarily of d-glucose, maltose and maltodextrins",
+                    "8029-43-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8029-43-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-436-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Syrups, hydrolyzed starch"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "232-679-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-679-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-679-6",
+                    "Starch\nHigh-polymeric carbohydrate material usually derived form cereal grains such as corn, wheat and sorghum, and from roots and tubers such as potatoes and tapioca. Includes starch which has been pregelatinised by heating in the presence of water.",
+                    "9005-25-8"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "9005-25-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-679-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Starch"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "232-679-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "232-679-6",
+                    "Starch\nHigh-polymeric carbohydrate material usually derived from cereal grains such as corn, wheat and sorghum, and from roots and tubers such as potatoes and tapioca. Includes starch which has been pregelatinised by heating in the presence of water",
+                    "9005-25-8"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "9005-25-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-679-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Starch"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "234-328-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "234-328-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "234-328-2",
+                    "Vitamin A",
+                    "11103-57-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "11103-57-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-328-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Vitamin A"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "262-989-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "262-989-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "262-989-7",
+                    "Fatty acids, tallow, Me esters",
+                    "61788-61-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61788-61-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "262-989-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, tallow, Me esters"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "263-060-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "263-060-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "263-060-9",
+                    "Fatty acids, castor-oil",
+                    "61789-44-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61789-44-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "263-060-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, castor-oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "263-129-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "263-129-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "263-129-3",
+                    "Fatty acids, tallow",
+                    "61790-37-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61790-37-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "263-129-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, tallow"
+              },
+              "after": null
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "265-995-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "265-995-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "265-995-8",
+                    "Cellulose Pulp",
+                    "65996-61-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-61-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-995-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cellulose Pulp"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "265-995-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "265-995-8",
+                    "Cellulose pulp",
+                    "65996-61-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "65996-61-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "265-995-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cellulose pulp"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "266-925-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "266-925-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "266-925-9",
+                    "Fatty acids, C12-18\nThis substance is identified by SDA Substance Name: C12-C18 alkyl carboxylic acid and SDA Reporting No: 16-005-00.",
+                    "67701-01-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67701-01-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-925-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C12-18"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "266-928-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "266-928-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "266-928-5",
+                    "Fatty acids C16-18\nThis substance is identified by SDA Substance Name: C16-C18 alkyl carboxylic acid and SDA Reporting No: 19-005-00.",
+                    "67701-03-5"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67701-03-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-928-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids C16-18"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "266-929-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "266-929-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "266-929-0",
+                    "Fatty acids, C8-18 and C18-unsaturated\nThis substance is identified by SDA Substance Name: C8-C18 and C18 unsaturated alkyl carboxylic acid and SDA Reporting No: 01-005-00.",
+                    "67701-05-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67701-05-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-929-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C8-18 and C18-unsaturated"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "266-930-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "266-930-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "266-930-6",
+                    "Fatty acids, C14-18 and C16-18-unsaturated\nThis substance is identified by SDA Substance Name: C14-C18 and C16-C18unsaturated alkyl carboxylic acid and SDA Reporting No: 04-005-00.",
+                    "67701-06-8"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67701-06-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-930-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C14-18 and C16-18-unsaturated"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "266-932-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "266-932-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "266-932-7",
+                    "Fatty acids, C16-C18 and C18-unsaturated\nThis substance is identified by SDA Substance Name: C16-C18 and C18 unsaturated alkyl carboxylic acid and SDA Reporting No: 11-005-00.",
+                    "67701-08-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67701-08-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-932-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C16-C18 and C18-unsaturated"
+              },
+              "after": null
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "266-948-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "266-948-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "266-948-4",
+                    "Glycerides, C16-18 and C18-unsaturated\nThis substance is identified by SDA Substance Name: C16-C18 and C18 unsaturated trialkyl glyceride and SDA Reporting No: 11-001-00.",
+                    "67701-30-8"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67701-30-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-948-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Glycerides, C16-18 and C18-unsaturated"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "266-948-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "266-948-4",
+                    "Glycerides, C16-18 and C18-unsaturated.\nThis substance is identified by SDA Substance Name: C16-C18 and C18 unsaturated trialkyl glyceride and SDA Reporting Number: 11-001-00",
+                    "67701-30-8"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67701-30-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-948-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Glycerides, C16-18 and C18-unsaturated."
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "267-007-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "267-007-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "267-007-0",
+                    "Fatty acids, C14-18 and C16-18-unsaturated., Me esters\nThis substance is identified by SDA Substance Name: C14-C18 and C16-C18 unsaturated alkyl carboxylic acid methyl ester and SDA Reporting No: 04-010-00.",
+                    "67762-26-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67762-26-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "267-007-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C14-18 and C16-18-unsaturated., Me esters"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "267-013-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "267-013-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "267-013-3",
+                    "Fatty acids, C6-12\nThis substance is identified by SDA Substance Name: C6-C12 alkyl carboxylic acid and SDA Reporting No: 13-005-00.",
+                    "67762-36-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67762-36-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "267-013-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C6-12"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "268-099-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "268-099-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "268-099-5",
+                    "Fatty acids, C14-22 and C16-22 unsaturated\nThis substance is identified by SDA Substance Name: C14-C22 and C16-C22 unsaturated alkyl carboxylic acid and SDA Reporting No: 07-005-00.",
+                    "68002-85-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68002-85-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "268-099-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C14-22 and C16-22 unsaturated"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "269-657-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "269-657-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "269-657-0",
+                    "Fatty acids, soya",
+                    "68308-53-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68308-53-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "269-657-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, soya"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "270-298-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "270-298-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "270-298-7",
+                    "Fatty acids, C14-22",
+                    "68424-37-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68424-37-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "270-298-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C14-22"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "270-304-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "270-304-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "270-304-8",
+                    "Fatty acids, linseed-oil",
+                    "68424-45-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68424-45-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "270-304-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, linseed-oil"
+              },
+              "after": null
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "270-312-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "270-312-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "270-312-1",
+                    "Glycerides, C16-18 and C18-unsaturated. mono- and di-\nThis substance is identified by SDA Substance Name: C16-C18 and C18 unsaturated alkyl and C16-C18 and C18 unsaturated dialkyl glyceride and SDA Reporting No: 11-002-00.",
+                    "68424-61-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68424-61-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "270-312-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Glycerides, C16-18 and C18-unsaturated. mono- and di-"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "270-312-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "270-312-1",
+                    "Glycerides, C16-18 and C18-unsaturated, mono- and di-\nThis substance is identified by SDA Substance Name: C16-C18 and C18 unsaturated alkyl and C16-C18 and C18 unsaturated dialkyl glyceride and SDA Reporting Number: 11-002-00",
+                    "68424-61-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68424-61-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "270-312-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Glycerides, C16-18 and C18-unsaturated, mono- and di-"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "292-771-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "292-771-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "292-771-7",
+                    "Fatty acids, C12-14",
+                    "90990-10-6"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90990-10-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "292-771-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C12-14"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "292-776-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "292-776-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "292-776-4",
+                    "Fatty acids, C12-18 and C18-unsaturated",
+                    "90990-15-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90990-15-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "292-776-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, C12-18 and C18-unsaturated"
+              },
+              "after": null
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "296-916-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "296-916-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "296-916-5",
+                    "Fatty acids, rape-oil, erucic acid-low",
+                    "93165-31-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "93165-31-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "296-916-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fatty acids, rape-oil, erucic acid-low"
+              },
+              "after": null
+            }
+          ],
+          "unchanged": 26,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -206,6 +2182,7 @@
           "AN V PO 12",
           "AN V PO 13"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -527,6 +2504,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 4,
       "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

@@ -7,7 +7,7 @@
       "key": "32006R1907",
       "title": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC",
       "index": "eu/32006R1907/index.json",
-      "index_sha256": "b420b68f70472a543380be10ea0f7924f5d0e59af188011eb1ccd6b5f1a0508f",
+      "index_sha256": "e9d3cf33aff238c59b232a01c06d189c877324bd7d2a6d8a0f504e4ad8401388",
       "events": 59,
       "changes": 136,
       "provisions": 48,
@@ -15,7 +15,7 @@
       "newest_version": "02006R1907-20260622",
       "newest_in_force": null,
       "first_detected_on": "2026-08-13",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-10-17"
     },
     {
       "corpus": "eu",

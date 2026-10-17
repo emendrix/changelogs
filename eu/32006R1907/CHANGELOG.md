@@ -5924,6 +5924,8 @@ Because the visible material is truncated before the end of both texts, further 
 
 *within* `AN IV` · *amended by* `32008R0987`
 
+Table entries: 7 added, 7 amended, 35 removed: Einecs No 200-233-3, Einecs No 200-312-9, Einecs No 200-313-4, Einecs No 200-416-4, Einecs No 200-559-2, Einecs No 201-771-8, Einecs No 204-007-1, Einecs No 205-582-1, Einecs No 205-590-5, Einecs No 212-490-5 and 39 more
+
 The list of substances exempted from registration under Article 2(7)(a) has been substantially revised, with numerous entries present in the earlier version, such as several fatty acids, oils, glycerides and other named substances, no longer appearing in the later version. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20071123#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_IV)
 
 The later version also adds entries not present before, including Fructose, Galactose, Lactose, Krypton, Neon, Helium and Xenon, among others. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20081012#anx_IV)
