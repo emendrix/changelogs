@@ -2881,6 +2881,8 @@ In sections 8.5 and 8.5.3, references to "classified as corrosive to the skin" a
 
 *within* `AN XVII` · *amended by* `32016R0217`
 
+Table entries: 0 added, 1 amended, 0 removed: Entry 23
+
 In entry 23, paragraph 2, the restriction on cadmium in paints was reworded from a simple prohibition on use to a prohibition on both use and placing on the market of paints under codes 3208 and 3209 with cadmium at or above 0,01 % by weight. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160203#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160308#anx_XVII)
 
 The following sentence on paints with a zinc content exceeding 10 % by weight was also adjusted to explicitly repeat the paint codes 3208 and 3209 that were previously stated once at the start of the paragraph. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160308#anx_XVII)
