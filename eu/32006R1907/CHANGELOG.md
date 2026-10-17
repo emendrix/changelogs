@@ -3704,6 +3704,8 @@ Each newly added entry sets out its own intrinsic property classification, lates
 
 *within* `AN XVII`, `AN XVII APP 4`, `AN XVII APP 6`, `AN XVII APP 10` · *amended by* `32013R0126`
 
+Table entries: 0 added, 9 amended (1 only in spacing, dash forms or accents), 0 removed: Entry 6, Entry 16, Entry 17, Entry 28, Entry 40, Entry 47, Entry 56, Index No 649-093-00-5, Index No 607-426-00-1
+
 In entry 6 on asbestos fibres, the prohibition on manufacture, placing on the market and use is extended to cover mixtures containing these fibres added intentionally, in addition to articles containing them. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XVII)
 
 In entries 16 and 17 on lead carbonates and lead sulphates, the derogation wording is changed so that the reference to sulphates of lead in the ILO Convention 13 citation is dropped, the derogation is stated to cover the placing on the market for the restoration and maintenance use as well as the use itself, and a new requirement is added that a Member State using the derogation inform the Commission of it. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XVII)
