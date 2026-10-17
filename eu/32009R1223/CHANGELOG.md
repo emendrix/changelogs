@@ -3033,6 +3033,8 @@ No substances, concentrations, conditions, or wording of warnings were altered a
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
+Table entries: 1 added, 0 amended, 1 removed: Reference number 297, Reference number x
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20160810`)
@@ -3050,6 +3052,8 @@ No substances, concentrations, conditions, or wording of warnings were altered a
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32016R1198`
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 57
 
 In entry 39's footnote, the reference to entry 39 was clarified by adding "of Annex V" and by changing the capitalisation of methylchloroisothiazolinone to lower case. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160812#anx_V)
 
