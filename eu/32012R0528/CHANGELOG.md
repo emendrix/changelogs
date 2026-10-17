@@ -179,6 +179,8 @@ All other text of the provision, including the surrounding transitional rules in
 
 *within* `AN I` · *amended by* `32024R1290`
 
+Table entries: 1 added, 0 amended, 0 removed: "Nitrogen generated from ambient air"
+
 The AFTER text adds a new entry for nitrogen generated from ambient air within Category 2, listing a restriction requiring that applications for product authorisations include evidence that exposure of the user and the general public to a hypoxic atmosphere is avoided and that necessary measures are taken where appropriate. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20240526#anx_I)
 
 This entry, along with its associated restriction text, is not present in the BEFORE text of the Annex. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20220415#anx_I)
