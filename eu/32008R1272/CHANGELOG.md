@@ -5790,6 +5790,8 @@ Both the before and after texts are cut off before the end of the section, so an
 
 *within* `AN VI SCT 3`
 
+Table entries: 0 added, 2 amended, 0 removed: Index No 648-055-00-5, Index No 648-055-00-5
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02008R1272-20160101`)
