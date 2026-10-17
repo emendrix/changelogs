@@ -240,10 +240,10 @@
       "in_force": [
         "2019-11-20"
       ],
-      "updated_on": "2026-09-04",
-      "schema_version": "1.0",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32012R0528/changes/02012R0528-20191120.json",
-      "sha256": "c9dc807420ae0c66576b6123b8031c9dc3b866364530dc6d503a0bf7955042cf",
+      "sha256": "feea8804002eb688180e47aad2319393d6d5eaea715f3fef40f438c3bc00a0b9",
       "diff_only": false,
       "counts": {
         "touched": 2,
@@ -254,7 +254,12 @@
         "quoted": 0,
         "unexplained": 0
       },
-      "repairs": [],
+      "repairs": [
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
+        }
+      ],
       "evidence": false,
       "metadata_only_units": [],
       "instruction_only_units": []

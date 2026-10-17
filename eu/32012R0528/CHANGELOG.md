@@ -399,7 +399,7 @@ The after text also inserts a new entry for Citric acid, listing its EC number, 
 ### `02012R0528-20140425` → `02012R0528-20191120`
 
 - **Act** `eu:32012R0528` · **In force** 2019-11-20 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 102 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02012R0528-20140425` · `v2` = `02012R0528-20191120`
@@ -409,6 +409,8 @@ The after text also inserts a new entry for Citric acid, listing its EC number, 
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2001-12-20 +2021-06-01 · *amended by* `32019R1825`, `32019R1824`, `32019R1823`, `32019R1822`, `32019R1821`, `32019R1820`, `32019R1819`
+
+Table entries: 7 added, 0 amended, 0 removed: "Cheese", "Concentrated apple juice", "D-Fructose", "Honey", "Powdered egg", "Saccharomyces cerevisiae (yeast)", "Vinegar"
 
 The revised text adds a set of introductory statements giving 1 June 2021 as the approval date for product-type 19 for vinegar, Saccharomyces cerevisiae, powdered egg, honey, D-fructose, cheese and concentrated apple juice, plus a citation to Council Directive 2001/112/EC of 20 December 2001 on fruit juices. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20191120#anx_I)
 
@@ -450,7 +452,7 @@ Under Category 4, the later text adds entries for vinegar, Saccharomyces cerevis
 
 *within* `AN II`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In the visible portion, the only detectable difference is a minor wording change in section 5.3, where 'otherproducts' in the earlier text is rendered as 'other products' in the later text. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20191120#anx_II)
 

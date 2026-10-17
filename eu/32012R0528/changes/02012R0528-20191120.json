@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 2,
     "substantive": 2,
     "date_only": 0,
+    "textless": 0,
     "disputed": 1,
     "quoted": 0,
     "unexplained": 0
@@ -51,6 +52,261 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "EC number",
+                  "Name/group",
+                  "Restriction",
+                  "Comment"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "cheese",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "cheese",
+                "occurrence": 1,
+                "group": "Category 4 — Traditionally used substances of natural origin",
+                "rows": [
+                  [
+                    "Not available",
+                    "Cheese\n",
+                    "Excluding cheese that is not food or feed.",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Cheese"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "concentrated apple juice",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "concentrated apple juice",
+                "occurrence": 1,
+                "group": "Category 4 — Traditionally used substances of natural origin",
+                "rows": [
+                  [
+                    "Not available",
+                    "Concentrated apple juice\n",
+                    "Excluding concentrated apple juice that does not fall within the definition in point (2) of Part I of Annex I to Council Directive 2001/112/EC\n.",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Concentrated apple juice"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "d-fructose",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "d-fructose",
+                "occurrence": 1,
+                "group": "Category 4 — Traditionally used substances of natural origin",
+                "rows": [
+                  [
+                    "200-333-3",
+                    "D-Fructose\n",
+                    "Excluding D-fructose that is not food or feed.",
+                    "CAS No 57-48-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "57-48-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-333-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "D-Fructose"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "honey",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "honey",
+                "occurrence": 1,
+                "group": "Category 4 — Traditionally used substances of natural origin",
+                "rows": [
+                  [
+                    "Not available",
+                    "Honey\n",
+                    "Excluding honey that is not food or feed.",
+                    "CAS No 8028-66-8"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8028-66-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Honey"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "powdered egg",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "powdered egg",
+                "occurrence": 1,
+                "group": "Category 4 — Traditionally used substances of natural origin",
+                "rows": [
+                  [
+                    "Not available",
+                    "Powdered egg\n",
+                    "Excluding powdered egg that is not food or feed.",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Powdered egg"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "saccharomyces cerevisiae (yeast)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "saccharomyces cerevisiae (yeast)",
+                "occurrence": 1,
+                "group": "Category 4 — Traditionally used substances of natural origin",
+                "rows": [
+                  [
+                    "Not available",
+                    "Saccharomyces cerevisiae (yeast)\n",
+                    "Excluding Saccharomyces cerevisiae that is not food or feed.",
+                    "CAS No 68876-77-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68876-77-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Saccharomyces cerevisiae (yeast)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "vinegar",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "vinegar",
+                "occurrence": 1,
+                "group": "Category 4 — Traditionally used substances of natural origin",
+                "rows": [
+                  [
+                    "Not available",
+                    "Vinegar\n",
+                    "Excluding vinegar that is not food and excluding vinegar that contains more than 10 % acetic acid (whether or not it is food).",
+                    "CAS No 8028-52-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8028-52-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Vinegar"
+              }
+            }
+          ],
+          "unchanged": 19,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -119,7 +375,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -198,6 +455,7 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -224,7 +482,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -432,7 +691,8 @@
         ]
       }
     ],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -465,5 +725,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
