@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,184 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "23",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23",
+                    "2,2'-Methylene-bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethyl-butyl)phenol) / Bisoctrizole",
+                    "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+                    "103597-45-1",
+                    "403-800-1",
+                    "",
+                    "10 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "103597-45-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "403-800-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,2'-Methylene-bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethyl-butyl)phenol) / Bisoctrizole"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23",
+                    "2,2′-Methylene- bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethylbutyl)phenol)/Bisoctrizole",
+                    "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+                    "103597-45-1",
+                    "403-800-1",
+                    "",
+                    "10 %\n",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "103597-45-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "403-800-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,2′-Methylene- bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethylbutyl)phenol)/Bisoctrizole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI",
+              "table": 1,
+              "key": "23a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "23a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23a",
+                    "2,2′-Methylene- bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethylbutyl)phenol)/Bisoctrizole",
+                    "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol (nano)",
+                    "103597-45-1",
+                    "403-800-1",
+                    "",
+                    "10 %\n",
+                    "Not to be used in applications that may lead to exposure of the end user's lungs by inhalation.\nOnly nanomaterials having the following characteristics are allowed:\nPurity ≥ 98,5 %, with 2,2′-methylene-bis-(6(2H-benzotriazol-2-yl)-4-(isooctyl)phenol) isomer fraction not exceeding 1,5 %;\nSolubility < 5 ng/L in water at 25 °C;\nPartition coefficient (Log Pow): 12,7 at 25 °C;\nUncoated;\nMedian particle size D50 (50 % of the number below this diameter): ≥ 120 nm of mass distribution and/or ≥ 60 nm of number size distribution.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "103597-45-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "403-800-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,2′-Methylene- bis(6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tetramethylbutyl)phenol)/Bisoctrizole"
+              }
+            }
+          ],
+          "unchanged": 31,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -276,6 +454,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

@@ -2584,6 +2584,8 @@ Both texts are cut off before the substance table entries that these new stateme
 
 *within* `AN VI` · *amended by* `32018R0885`
 
+Table entries: 1 added, 1 amended, 0 removed: Reference number 23, Reference number 23a
+
 A new combined-use sentence is added stating that in case of combined use of Methylene Bis-Benzotriazolyl Tetramethylbutylphenol and its nano form, the sum shall not exceed the limit given in column g. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_VI)
 
 Entry 23 for Bisoctrizole/Methylene Bis-Benzotriazolyl Tetramethylbutylphenol is retained, and a new entry 23a is added for the nanomaterial form of that substance, including a maximum concentration and a set of conditions covering inhalation exposure, purity, isomer fraction, solubility, partition coefficient, coating status, and particle size. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_VI) [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20171225#anx_VI)
