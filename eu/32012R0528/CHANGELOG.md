@@ -1250,6 +1250,8 @@ The list of articles excepted from the repeal was changed from Articles 86, 89, 
 
 *within* `AN I` · *amended by* `32014R0334`
 
+Table entries: 1 added, 2 amended, 1 removed: "(9Z,12E)-tetradeca-9,12-dien-1-yl acetate", "(Z,E)-Tetradec-9,12-dienyl acetate", "Carbon dioxide", "Nitrogen"
+
 The heading of Category 6 was changed from referring to substances included in Annex I or IA to Directive 98/8/EC to instead describe substances for which a Member State has validated an active substance dossier under Article 7(3) of the Regulation or accepted such a dossier under Article 11(1) of Directive 98/8/EC. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_I)
 
 Within that category, the entry for the substance formerly listed by EC number 250-753-6 as (Z,E)-Tetradec-9,12-dienyl acetate was replaced with an entry showing no EC number available, naming the substance (9Z,12E)-tetradeca-9,12-dien-1-yl acetate and adding a CAS number. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20130923#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20140425#anx_I)

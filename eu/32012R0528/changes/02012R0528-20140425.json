@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,7 @@
         "changed_within": [
           "AR 2 PA 5 ALN 1 PTA (b)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -153,6 +154,7 @@
           "AR 3 PA 1 ALN 1 PTA (s) PTI (iii)",
           "AR 3 PA 1 ALN 1 PTA (s) PTI (iv)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -290,6 +292,7 @@
           "AR 19 PA 6 ALN 2 PTA (b)",
           "AR 19 PA 7 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -425,6 +428,7 @@
         "changed_within": [
           "AR 23 PA 3 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -522,6 +526,7 @@
         "changed_within": [
           "AR 34 PA 4 ALN 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -606,6 +611,7 @@
         "changed_within": [
           "AR 35 PA 3 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -703,6 +709,7 @@
         "changed_within": [
           "AR 37 PA 3 ALN 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -798,6 +805,7 @@
         "after": null,
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -860,6 +868,7 @@
           "AR 52 ALN 1",
           "AR 52 ALN 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -989,6 +998,7 @@
         "changed_within": [
           "AR 53 PA 1 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1106,6 +1116,7 @@
           "AR 54 PA 1 ALN 1",
           "AR 54 PA 3 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1235,6 +1246,7 @@
         "changed_within": [
           "AR 56 PA 1 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1364,6 +1376,7 @@
         "changed_within": [
           "AR 58 PA 3 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1481,6 +1494,7 @@
           "AR 60 PA 3 ALN 1",
           "AR 60 PA 3 ALN 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1610,6 +1624,7 @@
         "changed_within": [
           "AR 66 PA 4 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1740,6 +1755,7 @@
           "AR 67 PA 1 ALN 1",
           "AR 67 PA 3 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1869,6 +1885,7 @@
         "changed_within": [
           "AR 76 PA 1 ALN 1 PTA (l)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1953,6 +1970,7 @@
         "changed_within": [
           "AR 77 PA 1 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2082,6 +2100,7 @@
         "changed_within": [
           "AR 78 PA 2 ALN 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2211,6 +2230,7 @@
         "changed_within": [
           "AR 86 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2336,6 +2356,7 @@
           "AR 89 PA 4 ALN 1 PTA (a)",
           "AR 89 PA 4 ALN 1 PTA (b)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2497,6 +2518,7 @@
         "changed_within": [
           "AR 92 PA 2 ALN 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2602,6 +2624,7 @@
           "AR 93 PA 1",
           "AR 93 PA 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2737,6 +2760,7 @@
           "AR 94 PA 1 ALN 1 PTA (b)",
           "AR 94 PA 2 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [
           "2013-09-01"
@@ -2907,6 +2931,7 @@
           "AR 95 PA 6",
           "AR 95 PA 7"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [
           "2016-09-01"
@@ -3048,6 +3073,7 @@
         "changed_within": [
           "AR 96 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3145,6 +3171,219 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "EC number",
+                  "Name/group",
+                  "Restriction",
+                  "Comment"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "(9z,12e)-tetradeca-9,12-dien-1-yl acetate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "(9z,12e)-tetradeca-9,12-dien-1-yl acetate",
+                "occurrence": 1,
+                "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+                "rows": [
+                  [
+                    "Not available",
+                    "(9Z,12E)-tetradeca-9,12-dien-1-yl acetate",
+                    "",
+                    "CAS 30507-70-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "30507-70-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(9Z,12E)-tetradeca-9,12-dien-1-yl acetate"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN I",
+              "table": 1,
+              "key": "(z,e)-tetradec-9,12-dienyl acetate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "(z,e)-tetradec-9,12-dienyl acetate",
+                "occurrence": 1,
+                "group": "Category 6 — Substances included in Annex I or IA to Directive 98/8/EC",
+                "rows": [
+                  [
+                    "250-753-6",
+                    "(Z,E)-Tetradec-9,12-dienyl acetate",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "250-753-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(Z,E)-Tetradec-9,12-dienyl acetate"
+              },
+              "after": null
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "carbon dioxide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "carbon dioxide",
+                "occurrence": 1,
+                "group": "Category 6 — Substances included in Annex I or IA to Directive 98/8/EC",
+                "rows": [
+                  [
+                    "204-696-9",
+                    "Carbon dioxide",
+                    "Only for use in ready-for-use gas canisters functioning together with a trapping device",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "204-696-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbon dioxide"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "carbon dioxide",
+                "occurrence": 1,
+                "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+                "rows": [
+                  [
+                    "204-696-9",
+                    "Carbon dioxide",
+                    "Only for use in ready-for-use gas canisters functioning together with a trapping device",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "204-696-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbon dioxide"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "nitrogen",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "nitrogen",
+                "occurrence": 1,
+                "group": "Category 6 — Substances included in Annex I or IA to Directive 98/8/EC",
+                "rows": [
+                  [
+                    "231-783-9",
+                    "Nitrogen",
+                    "Only for use in limited quantities in ready-for-use canisters",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "231-783-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nitrogen"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "nitrogen",
+                "occurrence": 1,
+                "group": "Category 6 — Substances for which a Member State has validated an active substance dossier in accordance with Article 7(3) of this Regulation or accepted such a dossier in accordance with Article 11(1) of Directive 98/8/EC",
+                "rows": [
+                  [
+                    "231-783-9",
+                    "Nitrogen",
+                    "Only for use in limited quantities in ready-for-use canisters",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "231-783-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nitrogen"
+              }
+            }
+          ],
+          "unchanged": 16,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3293,6 +3532,7 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -3380,6 +3620,7 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -4526,6 +4767,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 34,
       "repaired": 7,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,
