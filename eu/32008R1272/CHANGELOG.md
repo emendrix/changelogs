@@ -5413,7 +5413,7 @@ Section 1.1.3.2 gains two additional notes, Note 8 and Note 9, concerning releas
 
 *amended by* `32016R0918`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -5471,7 +5471,7 @@ Section 1.1.3.2 gains two additional notes, Note 8 and Note 9, concerning releas
 
 *amended by* `32016R0918`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -5603,7 +5603,7 @@ The visible portion of the text is truncated, so only these two language-line ed
 
 *amended by* `32016R0918`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -5612,6 +5612,8 @@ The visible portion of the text is truncated, so only these two language-line ed
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 3` · *amended by* `32016R0918`, `32016R1179`
+
+Table entries: 40 added, 29 amended (5 only in spacing, dash forms or accents), 0 removed: Index No 007-004-00-1, Index No 015-003-00-2, Index No 019-003-00-3, Index No 031-001-00-4, Index No 050-008-00-3, Index No 603-102-00-9, Index No 603-197-00-7, Index No 604-092-00-9, Index No 606-054-00-7, Index No 606-148-00-8 and 59 more
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -5645,7 +5647,7 @@ The visible portion of the text is truncated, so only these two language-line ed
 
 *amended by* `32016R0918`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
