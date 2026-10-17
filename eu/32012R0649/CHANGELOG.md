@@ -420,6 +420,8 @@ Part 3 additionally gained a new entry for bis(pentabromophenyl) ether (decabrom
 
 *within* `AN I` · *amended by* `32022R0643`
 
+Table entries: 65 added, 342 amended, 40 removed: "1,1,1,2-Tetrachloroethane", "1,1,1-Trichloroethane", "1,1,2,2-Tetrachloroethane", "1,1,2-Trichloroethane", "1,2-Dibromoethane (Ethylene dibromide)", "1,2-Dichloroethane (ethylene dichloride)", "1,3-Dichloropropene", "1,3-Dichloropropene (cis) ((Z)-1,3-dichloropropene)", "2,4,5-T and its salts and esters", "2,4-Dinitrotoluene (2,4-DNT)" and 437 more
+
 The updated Annex I list adds numerous newly listed chemicals in Parts 1, 2 and 3, including entries such as 2,4-Dinitrotoluene, 4,4'-Diaminodiphenylmethane, Beta-cyfluthrin, Bis(pentabromophenyl) ether, Bromoxynil, Chlorpyrifos, Chlorpyrifos-methyl, Empenthrin, Epoxiconazole, Fenamiphos, Mancozeb, Mecoprop, Mercury, Methiocarb, Perfluorooctanoic acid (PFOA) and its salts, Thiacloprid, Thiophanate-methyl and Benalaxyl. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I)
 
 Many existing entries have revised CAS, EC (formerly Einecs) and CN or HS code values, and several substance names and cross-references have been reworded, such as the description of the conditions in Article 8(6) and the naming of 1,3-Dichloropropene (cis). [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20200901#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_I)
@@ -461,6 +463,8 @@ Some substances present in the earlier list, such as several PCB, octabromodiphe
 **MODIFIED · Annex V — ANNEX V** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN V` · *dates* +2000-09-18 +2007-10-03 +2009-11-30 +2011-06-08 +2019-06-20 · *amended by* `32022R0643`
+
+Table entries: 12 added, 28 amended, 2 removed: "Aldrin", "Chlordane", "Chlordecone", "DDT (1,1,1-trichloro-2,2-bis (p-chlorophenyl) ethane", "DDT (1,1,1-trichloro-2,2-bis (p-chlorophenyl) ethane)", "Decabromodiphenyl ether", "Dicofol", "Dieldrin", "Endrin", "Heptabromodiphenyl ether" and 32 more
 
 Part 1's substance list has been reworked throughout, with CN codes replaced by 'ex' prefixed codes for nearly every entry, several EC/CAS identifiers revised, and new substances such as Dicofol, Pentachlorophenol and its salts and esters, PFOA and its salts, PFOS and its salts, and Decabromodiphenyl ether added, together with accompanying export-ban scope notes for some of them. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20220701#anx_V)
 
