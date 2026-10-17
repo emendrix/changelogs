@@ -7152,6 +7152,8 @@ Both versions being shown are truncated before the full extent of the added or c
 
 *within* `AN VI SCT 3` · *amended by* `32012R0618`, `32013R0487`, `32013R0758`, `32013R0944`
 
+Table entries: 30 added, 251 amended, 0 removed: Index No 005-006-00-7, Index No 005-007-00-2, Index No 005-017-00-7, Index No 005-017-01-4, Index No 005-018-00-2, Index No 005-019-00-8, Index No 005-019-01-5, Index No 006-015-00-9, Index No 006-087-00-1, Index No 006-098-00-1 and 271 more
+
 In the entry for boric acid (005-007-00-2), the description of the second listed substance was simplified from a longer technical description of crude natural boric acid with a purity qualifier to simply 'boric acid'. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI)
 
 Several entries had their hazard class code for oxidising solids changed from the abbreviation 'Oxid. Sol.' to 'Ox. Sol.' in entries such as 005-017-00-7, 005-017-01-4, 005-019-00-8 and 005-019-01-5. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20110419#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20131201#anx_VI)

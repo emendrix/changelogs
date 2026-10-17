@@ -1009,10 +1009,10 @@
         "2012-07-31",
         "2013-06-21"
       ],
-      "updated_on": "2026-10-08",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32008R1272/changes/02008R1272-20131201.json",
-      "sha256": "4eeab60c22713cd668326a20f8071982bce8acdaff1ebf41f9a46d1a60923307",
+      "sha256": "13502fc5800cd88c17dc33638224f044b9e432922336d09c4bfa96a86537a2f0",
       "diff_only": false,
       "counts": {
         "touched": 9,
@@ -1039,6 +1039,10 @@
         {
           "kind": "signals",
           "repaired_on": "2026-10-08"
+        },
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
         }
       ],
       "evidence": true,
