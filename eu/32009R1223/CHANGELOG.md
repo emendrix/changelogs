@@ -672,6 +672,8 @@ Both versions were shown truncated, so any further differences in the substance 
 
 *within* `AN II` · *amended by* `32023R1490`
 
+Table entries: 30 added, 1 amended, 0 removed: Reference number 1024, Reference number 1695, Reference number 1696, Reference number 1697, Reference number 1698, Reference number 1699, Reference number 1700, Reference number 1701, Reference number 1702, Reference number 1703 and 21 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20230816`)
