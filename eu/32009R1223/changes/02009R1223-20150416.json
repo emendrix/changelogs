@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,918 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "114",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "114",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "114",
+                    "Pinus pumila oil and extract",
+                    "Pinus Pumila Twig Leaf Extract\nPinus Pumila Twig Leaf Oil",
+                    "97676-05-6",
+                    "307-681-6",
+                    "",
+                    "",
+                    "Peroxide value less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97676-05-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "307-681-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pinus pumila oil and extract"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "114",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "114",
+                    "Pinus pumila oil and extract",
+                    "Pinus Pumila Twig Leaf Extraćt\nPinus Pumila Twig Leaf Oil",
+                    "97676-05-6",
+                    "307-681-6",
+                    "",
+                    "",
+                    "Peroxide value less than 10 mmoles/L\n",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97676-05-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "307-681-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pinus pumila oil and extract"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "214",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "214",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "214",
+                    "Disodium 5,7-dinitro-8-oxido-2-naphthalenesulfonate CI 10316",
+                    "Acid Yellow 1",
+                    "846-70-8",
+                    "212-690-2",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,0 %",
+                    "(a) To be printed on the label:\nThe mixing ratio.\nFor (a) and (b):\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\ntemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 0,2 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "846-70-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-690-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium 5,7-dinitro-8-oxido-2-naphthalenesulfonate CI 10316"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "214",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "214",
+                    "Disodium 5,7-dinitro-8-oxido-2-naphthalenesulfonate CI 10316",
+                    "Acid Yellow 1",
+                    "846-70-8",
+                    "212-690-2",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,0 %",
+                    "(a) To be printed on the label:\nThe mixing ratio.\nFor (a) and (b):\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 0,2 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "846-70-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-690-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium 5,7-dinitro-8-oxido-2-naphthalenesulfonate CI 10316"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "221",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "221",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "221",
+                    "2-(4-Methyl-2-nitroanilino)ethanol",
+                    "Hydroxyethyl-2-Nitro-p-Toluidine",
+                    "100418-33-5",
+                    "408-090-7",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,0 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\ntemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 1,0 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "100418-33-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "408-090-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(4-Methyl-2-nitroanilino)ethanol"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "221",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "221",
+                    "2-(4-Methyl-2-nitroanilino)ethanol",
+                    "Hydroxyethyl-2-Nitro-p-Toluidine",
+                    "100418-33-5",
+                    "408-090-7",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,0 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 1,0 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "100418-33-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "408-090-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(4-Methyl-2-nitroanilino)ethanol"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "228",
+              "occurrence": 1,
+              "typography_only": true,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "228",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "228",
+                    "3-Methyl -1- phenyl -5-pyrazolone",
+                    "Phenyl methyl pyrazolone",
+                    "89-25-8",
+                    "201-891-0",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,25 %",
+                    "To be printed on the label:\nThe mixing ratio.\n Hair colourants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "89-25-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-891-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-Methyl -1- phenyl -5-pyrazolone"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "228",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "228",
+                    "3-Methyl -1- phenyl -5-pyrazolone",
+                    "Phenyl methyl pyrazoloné",
+                    "89-25-8",
+                    "201-891-0",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,25 %",
+                    "To be printed on the label:\nThe mixing ratio.\n Hair colourants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "89-25-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-891-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-Methyl -1- phenyl -5-pyrazolone"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "240",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "240",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "240",
+                    "4-Nitro-1,2-phenylenediamine",
+                    "4-Nitro-o-Phenylenediamine",
+                    "99-56-9",
+                    "202-766-3",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,5 %",
+                    "To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\ntemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99-56-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-766-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Nitro-1,2-phenylenediamine"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "240",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "240",
+                    "4-Nitro-1,2-phenylenediamine",
+                    "4-Nitro-o-Phenylenediamine",
+                    "99-56-9",
+                    "202-766-3",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,5 %",
+                    "To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99-56-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-766-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Nitro-1,2-phenylenediamine"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "250",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "250",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "250",
+                    "1-Amino-2-nitro-4-(2’,3’-dihydroxypropyl)amino-5-chlorobenzene + 1,4-bis-(2’,3’-dihydroxypropyl)amino-2-nitro-5-chlorobenzene",
+                    "HC Red No 10 + HC Red No 11",
+                    "95576-89-9 + 95576-92-4",
+                    "",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,0 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\ntemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 2,0 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "95576-89-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "95576-92-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-Amino-2-nitro-4-(2’,3’-dihydroxypropyl)amino-5-chlorobenzene + 1,4-bis-(2’,3’-dihydroxypropyl)amino-2-nitro-5-chlorobenzene"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "250",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "250",
+                    "1-Amino-2-nitro-4-(2’,3’-dihydroxypropyl)amino-5-chlorobenzene + 1,4-bis-(2’,3’-dihydroxypropyl)amino-2-nitro-5-chlorobenzene",
+                    "HC Red No 10 + HC Red No 11",
+                    "95576-89-9+ 95576-92-4",
+                    "",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,0 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 2,0 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "95576-89-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "95576-92-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-Amino-2-nitro-4-(2’,3’-dihydroxypropyl)amino-5-chlorobenzene + 1,4-bis-(2’,3’-dihydroxypropyl)amino-2-nitro-5-chlorobenzene"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "251",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "251",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "251",
+                    "2-(4-Amino-3-nitroanilino)ethanol",
+                    "HC Red No 7",
+                    "24905-87-1",
+                    "246-521-9",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "1,0 %",
+                    "Do not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    " Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\ntemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "24905-87-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-521-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(4-Amino-3-nitroanilino)ethanol"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "251",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "251",
+                    "2-(4-Amino-3-nitroanilino)ethanol",
+                    "HC Red No 7",
+                    "24905-87-1",
+                    "246-521-9",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "1,0 %",
+                    "Do not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    " Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "24905-87-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-521-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(4-Amino-3-nitroanilino)ethanol"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "255",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "255",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "255",
+                    "2-[(2-Nitrophenyl)amino]ethanol",
+                    "HC Yellow No 2",
+                    "4926-55-0",
+                    "225-555-8",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,75 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\ntemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "b) 1,0 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4926-55-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "225-555-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-[(2-Nitrophenyl)amino]ethanol"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "255",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "255",
+                    "2-[(2-Nitrophenyl)amino]ethanol",
+                    "HC Yellow No 2",
+                    "4926-55-0",
+                    "225-555-8",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,75 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "b) 1,0 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4926-55-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "225-555-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-[(2-Nitrophenyl)amino]ethanol"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "258",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "258",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "258",
+                    "2-Nitro-N1-phenyl-benzene-1,4-diamine",
+                    "HC Red No 1",
+                    "2784-89-6",
+                    "220-494-3",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "1,0 %",
+                    "",
+                    " Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\ntemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2784-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-494-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Nitro-N1-phenyl-benzene-1,4-diamine"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "258",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "258",
+                    "2-Nitro-N1-phenyl-benzene-1,4-diamine",
+                    "HC Red No 1",
+                    "2784-89-6",
+                    "220-494-3",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "1,0 %",
+                    "",
+                    " Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2784-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-494-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Nitro-N1-phenyl-benzene-1,4-diamine"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "261",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "261",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "261",
+                    "N-(2-Hydroxyethyl)-2-nitro-4-trifluormethyl-aniline",
+                    "HC Yellow No 13",
+                    "10442-83-8",
+                    "443-760-2",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 2,5 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\ntemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 2,5 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10442-83-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "443-760-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N-(2-Hydroxyethyl)-2-nitro-4-trifluormethyl-aniline"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "261",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "261",
+                    "N-(2-Hydroxyethyl)-2-nitro-4-trifluormethyl-aniline",
+                    "HC Yellow No 13",
+                    "10442-83-8",
+                    "443-760-2",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 2,5 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label:\nThe mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 2,5 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10442-83-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "443-760-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N-(2-Hydroxyethyl)-2-nitro-4-trifluormethyl-aniline"
+              }
+            }
+          ],
+          "unchanged": 285,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -106,6 +1018,581 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "12",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "12",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "12",
+                    "4-Hydroxybenzoic acid and its salts and esters, other than the esters of isopropyl, isobutyl, phenyl, benzyl and pentyl",
+                    "4-Hydroxybenzoic acid",
+                    "99-96-7",
+                    "202-804-9",
+                    "",
+                    "0,4 % (as acid) for single ester,\n0,8 % (as acid) for mixtures of esters",
+                    "",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "methylparaben",
+                    "99-76-3",
+                    "202-785-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "butylparaben",
+                    "94-26-8",
+                    "202-318-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "potassium ethylparaben",
+                    "36457-19-9",
+                    "253-048-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "potassium paraben",
+                    "16782-08-4",
+                    "240-830-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "propylparaben",
+                    "94-13-3",
+                    "202-307-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "sodium methylparaben",
+                    "5026-62-0",
+                    "225-714-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "sodium ethylparaben",
+                    "35285-68-8",
+                    "252-487-6",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "sodium propylparaben",
+                    "35285-69-9",
+                    "252-488-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "sodium butylparaben",
+                    "36457-20-2",
+                    "253-049-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "ethylparaben",
+                    "120-47-8",
+                    "204-399-4",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "sodium paraben",
+                    "114-63-6",
+                    "204-051-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "potassium methylparaben",
+                    "26112-07-2",
+                    "247-464-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "potassium butylparaben",
+                    "38566-94-8",
+                    "254-009-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "potassium propylparaben",
+                    "84930-16-5",
+                    "284-597-5",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "calcium paraben",
+                    "69959-44-0",
+                    "274-235-4",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "114-63-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "120-47-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "16782-08-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26112-07-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "35285-68-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "35285-69-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "36457-19-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "36457-20-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "38566-94-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5026-62-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "69959-44-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84930-16-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "94-13-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "94-26-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "99-76-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "99-96-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-307-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-318-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-785-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-804-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-051-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-399-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "225-714-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-830-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-464-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "252-487-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "252-488-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-048-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-049-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-009-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-235-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-597-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Hydroxybenzoic acid and its salts and esters, other than the esters of isopropyl, isobutyl, phenyl, benzyl and pentyl"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "12",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "12",
+                    "4-Hydroxybenzoic acid and its Methyl- and Ethyl- esters, and their salts",
+                    "4-Hydroxybenzoic acid\nmethylparaben\npotassium ethylparaben\npotassium paraben\nsodium methylparaben\nsodium ethylparaben\nethylparaben\nsodium paraben\npotassium methylparaben\ncalcium paraben",
+                    "99-96-7\n99-76-3\n36457-19-9\n16782-08-4\n5026-62-0\n35285-68-8\n120-47-8\n114-63-6\n26112-07-2\n69959-44-0",
+                    "202-804-9\n202-785-7\n253-048-1\n240-830-2\n225-714-1\n252-487-6\n204-399-4\n204-051-1\n247-464-2\n274-235-4",
+                    "",
+                    "0,4 % (as acid) for single ester\n0,8 % (as acid) for mixtures of esters",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "114-63-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "120-47-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "16782-08-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26112-07-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "35285-68-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "36457-19-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5026-62-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "69959-44-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "99-76-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "99-96-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-785-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-804-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-051-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-399-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "225-714-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-830-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-464-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "252-487-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-048-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-235-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Hydroxybenzoic acid and its Methyl- and Ethyl- esters, and their salts"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "12a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "12a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "12a",
+                    "Butyl 4-hydroxybenzoate and its salts\nPropyl 4-hydroxybenzoate and its salts",
+                    "Butylparaben\npropylparaben\nsodium propylparaben\nsodium butylparaben\npotassium butylparaben\npotassium propylparaben",
+                    "94-26-8\n94-13-3\n35285-69-9\n36457-20-2\n38566-94-8\n84930-16-5",
+                    "202-318-7\n202-307-7\n252-488-1\n253-049-7\n254-009-1\n284-597-5",
+                    "",
+                    "0,14 % (as acid) for the sum of the individual concentrations\n0,8 % (as acid) for mixtures of substances mentioned in entry 12 and 12a, where the sum of the individual concentrations of butyl- and propylparaben and their salts does not exceed 0,14 %",
+                    "Not to be used in leave-on products designed for application on the nappy area of children under three years of age.",
+                    "For leave-on products designed for children under three years of age:\nDo not use on the nappy area"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "35285-69-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "36457-20-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "38566-94-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84930-16-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "94-13-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "94-26-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-307-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-318-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "252-488-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-049-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-009-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-597-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Butyl 4-hydroxybenzoate and its salts"
+              }
+            }
+          ],
+          "unchanged": 58,
+          "whitespace_only": 1,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -350,6 +1837,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 2,
       "repaired": 2,
       "remaining": 0,

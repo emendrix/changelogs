@@ -3646,6 +3646,8 @@ Entry 39 was rewritten so that the substance identification column now names the
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
+Table entries: 0 added, 10 amended (2 only in spacing, dash forms or accents), 0 removed: Reference number 114, Reference number 214, Reference number 221, Reference number 228, Reference number 240, Reference number 250, Reference number 251, Reference number 255, Reference number 258, Reference number 261
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20140829`)
@@ -3663,6 +3665,8 @@ Entry 39 was rewritten so that the substance identification column now names the
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32014R1004`
+
+Table entries: 1 added, 1 amended, 0 removed: Reference number 12, Reference number 12a
 
 Entry 12 was narrowed so that it now covers only 4-hydroxybenzoic acid and its methyl- and ethyl-esters and their salts, removing butyl-, propyl-, isobutyl-, isopropyl-, benzyl- and pentyl-related substances from its scope while keeping the same 0,4% single-ester and 0,8% mixture maximum concentrations. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140829#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150416#anx_V)
 
