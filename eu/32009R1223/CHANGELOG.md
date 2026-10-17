@@ -567,6 +567,8 @@ Entry 25 (Triclosan) was restructured from separate (a) and (b) product categori
 
 *within* `AN II` · *dates* +2025-02-01 +2025-11-01 · *amended by* `32024R0858`
 
+Table entries: 5 added, 0 amended, 0 removed: Reference number 1725, Reference number 1726, Reference number 1727, Reference number 1728, Reference number 1729
+
 The AFTER text adds a new transitional sentence stating that from 1 February 2025 cosmetic products containing that substance shall not be placed on the Union market, and from 1 November 2025 such products shall not be made available on the Union market. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20240404#anx_II)
 
 This sentence does not appear in the BEFORE text, which ends its sequence of transitional statements with the 3 June 2022 date. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20231201#anx_II)
@@ -608,6 +610,8 @@ The text shown is truncated before the end of the substance list in both version
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2025-02-01 +2025-11-01 · *amended by* `32024R0858`
+
+Table entries: 1 added, 0 amended, 0 removed: Reference number 372
 
 The AFTER text adds a new footnote sentence stating that from 1 February 2025 cosmetic products containing that substance and not complying with the restrictions shall not be placed on the Union market, and that from 1 November 2025 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20240404#anx_III)
 
