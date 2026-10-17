@@ -3306,6 +3306,8 @@ Entry 27 for Titanium Dioxide was reformatted with line breaks in its CAS and EC
 
 *within* `AN III` · *amended by* `32016R0622`
 
+Table entries: 1 added, 1 amended, 0 removed: Reference number 15a, Reference number 15d
+
 Two new footnotes were added cross-referencing other uses of potassium hydroxide to entry No 15d and to entry No 15a. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III)
 
 A new entry 15d for potassium hydroxide, restricted to use as a callosity softener/remover at a maximum concentration of 1,5%, with associated warnings, was added after entry 15c. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III)
@@ -3355,6 +3357,8 @@ The remainder of the annex, including the truncated portions shown, appears othe
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32016R0621`
+
+Table entries: 2 added, 0 amended, 0 removed: Reference number 30, Reference number 30a
 
 The revised list adds a new introductory statement covering the combined use of zinc oxide and zinc oxide (nano), specifying that the sum of both shall not exceed the limit given in column g. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_VI)
 

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,255 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "15a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "15a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "15a",
+                    "Potassium or sodium hydroxide",
+                    "Potassium hydroxide/sodium hydroxide",
+                    "1310-58-3/1310-73-2",
+                    "215-181-3/215-185-5",
+                    "(a) Nail cuticle solvent",
+                    "(a) 5 %\n",
+                    "",
+                    "(a) Contains alkali\nAvoid contact with eyes\nCan cause blindness\nKeep out of reach of children"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair straightener",
+                    "2 %\n",
+                    "General use",
+                    "Contains alkali\nAvoid contact with eyes\nCan cause blindness\nKeep out of reach of children"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1310-58-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1310-73-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-181-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-185-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Potassium or sodium hydroxide"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "15a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "15a",
+                    "Potassium or sodium hydroxide\n",
+                    "Potassium hydroxide/sodium hydroxide",
+                    "1310-58-3/1310-73-2",
+                    "215-181-3/215-185-5",
+                    "(a) Nail cuticle solvent",
+                    "(a) 5 %\n",
+                    "",
+                    "(a) Contains alkali\nAvoid contact with eyes\nCan cause blindness\nKeep out of reach of children"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair straightener",
+                    "2 %\n",
+                    "General use",
+                    "Contains alkali\nAvoid contact with eyes\nCan cause blindness\nKeep out of reach of children"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "4,5 %\n",
+                    "Professional use",
+                    "For professional use only\nAvoid contact with eyes\nCan cause blindness"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) pH adjuster for depilatories",
+                    "",
+                    "(c) pH < 12,7",
+                    "(c) Keep out of reach of children\nAvoid contact with eyes"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(d) Other uses as pH adjuster",
+                    "",
+                    "(d) pH < 11",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1310-58-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1310-73-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-181-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-185-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Potassium or sodium hydroxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "15d",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "15d",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "15d",
+                    "Potassium hydroxide\n",
+                    "Potassium hydroxide",
+                    "1310-58-3",
+                    "215-181-3",
+                    "Callosity softener/remover",
+                    "1,5 %\n",
+                    "",
+                    "Contains alkali\nAvoid contact with eyes\nKeep out of reach of children\nRead directions for use carefully"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1310-58-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-181-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Potassium hydroxide"
+              }
+            }
+          ],
+          "unchanged": 295,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 5,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -86,7 +335,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -184,6 +434,152 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN VI",
+              "table": 1,
+              "key": "30",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "30",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "30",
+                    "Zinc oxide",
+                    "Zinc Oxide",
+                    "1314-13-2",
+                    "215-222-5",
+                    "",
+                    "25 %\n",
+                    "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1314-13-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-222-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Zinc oxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI",
+              "table": 1,
+              "key": "30a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "30a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "30a",
+                    "Zinc oxide",
+                    "Zinc Oxide (nano)",
+                    "1314-13-2",
+                    "215-222-5",
+                    "",
+                    "25 %\n",
+                    "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.\nOnly nanomaterials having the following characteristics are allowed:\npurity ≥ 96 %, with wurtzite crystalline structure and physical appearance as clusters that are rod-like, star-like and/or isometric shapes, with impurities consisting only of carbon dioxide and water, whilst any other impurities are less than 1 % in total,\nmedian diameter of the particle number size distribution D50 (50 % of the number below this diameter) > 30 nm and D1 (1 % below this size) > 20 nm,\nwater solubility < 50 mg/L\nuncoated, or coated with triethoxycaprylylsilane, dimethicone, dimethoxydiphenylsilanetriethoxycaprylylsilane cross-polymer, or octyl triethoxy silane.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1314-13-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-222-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Zinc oxide"
+              }
+            }
+          ],
+          "unchanged": 29,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -218,7 +614,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -375,7 +772,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -423,6 +821,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
