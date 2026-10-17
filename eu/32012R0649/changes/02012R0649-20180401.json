@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,962 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "Einecs No",
+                  "CN code\n",
+                  "Subcategory\n",
+                  "Use limitation\n",
+                  "Countries for which no notification is required"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 2,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "Einecs No",
+                  "CN code\n",
+                  "Category\n",
+                  "Use limitation\n"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 3,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "Relevant CAS number(s)",
+                  "HS code\nPure substance\n",
+                  "HS code\nMixtures containing substance\n",
+                  "Category"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "3-decen-2-one",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "3-decen-2-one",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3-decen-2-one\n",
+                    "10519-33-2",
+                    "234-059-0",
+                    "ex29141990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10519-33-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-059-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-decen-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "5-tert-butyl-2,4,6-trinitro-m-xylene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "5-tert-butyl-2,4,6-trinitro-m-xylene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5-tert-butyl-2,4,6-trinitro-m-xylene\n",
+                    "81-15-2",
+                    "201-329-4",
+                    "ex29042000",
+                    "i(1) - i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "81-15-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-329-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-tert-butyl-2,4,6-trinitro-m-xylene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "benzyl butyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "benzyl butyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzyl butyl phthalate\n",
+                    "85-68-7",
+                    "201-622-7",
+                    "ex29173400",
+                    "i(1) - i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-622-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzyl butyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "carbendazim",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "carbendazim",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carbendazim",
+                    "10605-21-7",
+                    "234-232-0",
+                    "ex29339980",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10605-21-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-232-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbendazim"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "cybutryne",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "cybutryne",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cybutryne\n",
+                    "28159-98-0",
+                    "248-872-3",
+                    "ex29336980",
+                    "p(2)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "28159-98-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "248-872-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cybutryne"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "diarsenic pentaoxide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "diarsenic pentaoxide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diarsenic pentaoxide\n",
+                    "1303-28-2",
+                    "215-116-9",
+                    "ex28112990",
+                    "i(1) - i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1303-28-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-116-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diarsenic pentaoxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "diisobutyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "diisobutyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diisobutyl phthalate\n",
+                    "84-69-5",
+                    "201-553-2",
+                    "ex29173400",
+                    "i(1) - i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-69-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-553-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisobutyl phthalate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "methamidophos",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "methamidophos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Methamidophos\n",
+                    "10265-92-6",
+                    "233-606-0",
+                    "29305000",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10265-92-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-606-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methamidophos"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "methamidophos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Methamidophos\n",
+                    "10265-92-6",
+                    "233-606-0",
+                    "ex29308000",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10265-92-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "233-606-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methamidophos"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "tepraloxydim",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tepraloxydim",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tepraloxydim\n",
+                    "149979-41-9",
+                    "n.a.",
+                    "ex29329900",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "149979-41-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tepraloxydim"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "triclosan",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "triclosan",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triclosan\n",
+                    "3380-34-5",
+                    "222-182-2",
+                    "ex29095000",
+                    "p(2)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3380-34-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-182-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triclosan"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "triflumuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "triflumuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triflumuron",
+                    "64628-44-0",
+                    "264-980-3",
+                    "ex29242100",
+                    "p(2)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64628-44-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "264-980-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triflumuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "tris (2-chloroethyl) phosphate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tris (2-chloroethyl) phosphate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tris (2-chloroethyl) phosphate\n",
+                    "115-96-8",
+                    "204-118-5",
+                    "ex29199000",
+                    "i(1) - i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-96-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-118-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tris (2-chloroethyl) phosphate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "3-decen-2-one",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "3-decen-2-one",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3-decen-2-one",
+                    "10519-33-2",
+                    "234-059-0",
+                    "ex29141990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10519-33-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-059-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-decen-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "5-tert-butyl-2,4,6-trinitro-m-xylene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "5-tert-butyl-2,4,6-trinitro-m-xylene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5-tert-butyl-2,4,6-trinitro-m-xylene",
+                    "81-15-2",
+                    "201-329-4",
+                    "ex29042000",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "81-15-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-329-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-tert-butyl-2,4,6-trinitro-m-xylene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "benzyl butyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "benzyl butyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzyl butyl phthalate",
+                    "85-68-7",
+                    "201-622-7",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-622-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzyl butyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "cybutryne",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "cybutryne",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cybutryne",
+                    "28159-98-0",
+                    "248-872-3",
+                    "ex29336980",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "28159-98-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "248-872-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cybutryne"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "diarsenic pentaoxide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "diarsenic pentaoxide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diarsenic pentaoxide",
+                    "1303-28-2",
+                    "215-116-9",
+                    "ex28112990",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1303-28-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-116-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diarsenic pentaoxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "diisobutyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "diisobutyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diisobutyl phthalate",
+                    "84-69-5",
+                    "201-553-2",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-69-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-553-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisobutyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "tepraloxydim",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "tepraloxydim",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tepraloxydim",
+                    "149979-41-9",
+                    "n.a.",
+                    "ex29329900",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "149979-41-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tepraloxydim"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "triclosan",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "triclosan",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triclosan",
+                    "3380-34-5",
+                    "222-182-2",
+                    "ex29095000",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3380-34-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-182-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triclosan"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "tris (2-chloroethyl) phosphate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "tris (2-chloroethyl) phosphate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tris (2-chloroethyl) phosphate",
+                    "115-96-8",
+                    "204-118-5",
+                    "ex29199000",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-96-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-118-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tris (2-chloroethyl) phosphate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "methamidophos",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "methamidophos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Methamidophos",
+                    "10265-92-6",
+                    "ex 2930.80",
+                    "ex 3808.59",
+                    "Pesticide"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10265-92-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methamidophos"
+              }
+            }
+          ],
+          "unchanged": 342,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -185,6 +1141,312 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Description of chemicals/article(s) subject to export ban",
+                  "Additional details, where relevant (e.g. name of chemical, EC No, CAS No, etc.)",
+                  null
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "heptabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "heptabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    null,
+                    "Heptabromodiphenyl ether",
+                    "EC No 273-031-2 and others\nCAS No 68928-80-3 and others\nCN code 29093038"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68928-80-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "273-031-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Heptabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "hexabromocyclododecane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "hexabromocyclododecane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "",
+                    "Hexabromocyclododecane",
+                    "EC No 247-148-4, 221-695-9\nCAS No 25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8 and others\nCN code 29038980"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134237-50-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-51-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-52-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25637-99-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3194-55-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-695-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-148-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromocyclododecane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "hexabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "hexabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    null,
+                    "Hexabromodiphenyl ether",
+                    "EC No 253-058-6 and others\nCAS No 36483-60-0 and others\nCN code 29093038"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "36483-60-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-058-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "hexachlorobutadiene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "hexachlorobutadiene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "",
+                    "Hexachlorobutadiene",
+                    "EC No 201-765-5\nCAS No 87-68-3\nCN code 29032900"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-68-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-765-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexachlorobutadiene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "pentabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "pentabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    null,
+                    "Pentabromodiphenyl ether",
+                    "EC No 251-084-2 and others\nCAS No 32534-81-9 and others\nCN code 29093031"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "32534-81-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-084-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "polychlorinated naphthalenes",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "polychlorinated naphthalenes",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "",
+                    "Polychlorinated naphthalenes",
+                    "EC No 274-864-4\nCAS No 70776-03-3 and others\nCN code 38249993"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "70776-03-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-864-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Polychlorinated naphthalenes"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "tetrabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "tetrabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Articles containing concentrations at or above 0,1 % of tetra-, penta-, hexa- or heptabromodiphenyl ether by weight when produced partially or fully from recycled materials or materials from waste prepared for re-use",
+                    "Tetrabromodiphenyl ether",
+                    "EC No 254-787-2 and others\nCAS No 40088-47-9 and others\nCN code 29093038"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "40088-47-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-787-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetrabromodiphenyl ether"
+              }
+            }
+          ],
+          "unchanged": 18,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 1,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 1,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -506,6 +1768,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 2,
       "repaired": 2,
       "remaining": 0,

@@ -922,6 +922,8 @@ Part 2 is restructured into a numbered list of four entries, adding an EC number
 
 *within* `AN I` · *amended by* `32018R0172`
 
+Table entries: 21 added, 1 amended, 0 removed: "3-decen-2-one", "5-tert-butyl-2,4,6-trinitro-m-xylene", "Benzyl butyl phthalate", "Carbendazim", "Cybutryne", "Diarsenic pentaoxide", "Diisobutyl phthalate", "Methamidophos", "Tepraloxydim", "Triclosan" and 12 more
+
 Part 1 of the Annex gains new chemical entries not present before, including 3-decen-2-one, 5-tert-butyl-2,4,6-trinitro-m-xylene, benzyl butyl phthalate, diarsenic pentaoxide, diisobutyl phthalate, cybutryne, tepraloxydim, triclosan, triflumuron, and tris (2-chloroethyl) phosphate, each with its CAS, Einecs and CN code data. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20180401#anx_I)
 
 Part 2 of the Annex likewise adds the corresponding new entries for 3-decen-2-one, 5-tert-butyl-2,4,6-trinitro-m-xylene, benzyl butyl phthalate, diarsenic pentaoxide, diisobutyl phthalate, cybutryne, tepraloxydim, triclosan, and tris (2-chloroethyl) phosphate. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20180401#anx_I)
@@ -963,6 +965,8 @@ In Part 3, the entry for Methamidophos changes its CN code from 29305000 to ex29
 **MODIFIED · Annex V — ANNEX V** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32018R0172`
+
+Table entries: 7 added, 0 amended, 0 removed: "Heptabromodiphenyl ether", "Hexabromocyclododecane", "Hexabromodiphenyl ether", "Hexachlorobutadiene", "Pentabromodiphenyl ether", "Polychlorinated naphthalenes", "Tetrabromodiphenyl ether"
 
 Part 1 of the list of persistent organic pollutants subject to export ban now includes additional entries not present before, namely Hexabromocyclododecane, Hexachlorobutadiene, and Polychlorinated naphthalenes, each with its own EC, CAS and CN code identifiers. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20160201#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20180401#anx_V)
 
