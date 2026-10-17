@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,256 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "51",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "51",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "51. The following phthalates (or other CAS and EC numbers covering the substance):\n(a) Bis (2-ethylhexyl) phthalate (DEHP)\nCAS No 117-81-7\nEC No 204-211-0\n(b) Dibutyl phthalate (DBP)\nCAS No 84-74-2\nEC No 201-557-4\n(c) Benzyl butyl phthalate (BBP)\nCAS No 85-68-7\nEC No 201-622-7",
+                    "1. Shall not be used as substances or in mixtures, in concentrations greater than 0,1 % by weight of the plasticised material, in toys and childcare articles.\n2. Toys and childcare articles containing these phthalates in a concentration greater than 0,1 % by weight of the plasticised material shall not be placed on the market.\n3. The Commission shall re-evaluate, by 16 January 2010, the measures provided for in relation to this entry in the light of new scientific information on such substances and their substitutes, and if justified, these measures shall be modified accordingly.\n4. For the purpose of this entry childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-81-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84-74-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-557-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-622-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-211-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "The following phthalates (or other CAS and EC numbers covering the substance):"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "51",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "51.\nBis(2-ethylhexyl) phthalate (DEHP)\nCAS No.: 117-81-7\nEC No.: 204-211-0\nDibutyl phthalate (DBP)\nCAS No.: 84-74-2\nEC No.: 201-557-4\nBenzyl butyl phthalate (BBP)\nCAS No.: 85-68-7\nEC No.: 201-622-7\nDiisobutyl phthalate (DIBP)\nCAS No.: 84-69-5\nEC No.: 201-553-2",
+                    "1. Shall not be used as substances or in mixtures, individually or in any combination of the phthalates listed in column 1 of this entry, in a concentration equal to or greater than 0,1 % by weight of the plasticised material, in toys and childcare articles.\n2. Shall not be placed on the market in toys or childcare articles, individually or in any combination of the first three phthalates listed in column 1 of this entry, in a concentration equal to or greater than 0,1 % by weight of the plasticised material.\nIn addition, DIBP shall not be placed on the market after 7 July 2020 in toys or childcare articles, individually or in any combination with the first three phthalates listed in column 1 of this entry, in a concentration equal to or greater than 0,1 % by weight of the plasticised material.\n3. Shall not be placed on the market after 7 July 2020 in articles, individually or in any combination of the phthalates listed in column 1 of this entry, in a concentration equal to or greater than 0,1 % by weight of the plasticised material in the article.\n4. Paragraph 3 shall not apply to:\n(a) articles exclusively for industrial or agricultural use, or for use exclusively in the open air, provided that no plasticised material comes into contact with human mucous membranes or into prolonged contact with human skin;\n(b) aircraft, placed on the market before 7 January 2024, or articles, whenever placed on the market, for use exclusively in the maintenance or repair of those aircraft, where those articles are essential for the safety and airworthiness of the aircraft;\n(c) motor vehicles within the scope of Directive 2007/46/EC, placed on the market before 7 January 2024, or articles, whenever placed on the market, for use exclusively in the maintenance or repair of those vehicles, where the vehicles cannot function as intended without those articles;\n(d) articles placed on the market before 7 July 2020;\n(e) measuring devices for laboratory use, or parts thereof;\n(f) materials and articles intended to come into contact with food within the scope of Regulation (EC) No 1935/2004 or Commission Regulation (EU) No 10/2011\n;\n(g) medical devices within the scope of Directives 90/385/EEC, 93/42/EEC or 98/79/EC, or parts thereof;\n(h) electrical and electronic equipment within the scope of Directive 2011/65/EU;\n(i) the immediate packaging of medicinal products within the scope of Regulation (EC) No 726/2004, Directive 2001/82/EC or Directive 2001/83/EC;\n(j) toys and childcare articles covered by paragraphs 1 or 2.\n5. For the purposes of paragraphs 1, 2, 3 and 4(a),\n(a) plasticised material means any of the following homogeneous materials:\npolyvinyl chloride (PVC), polyvinylidene chloride (PVDC),polyvinyl acetate (PVA), polyurethanes,\nany other polymer (including, inter alia, polymer foams and rubber material) except silicone rubber and natural latex coatings,\nsurface coatings, non-slip coatings, finishes, decals, printed designs,\nadhesives, sealants, paints and inks.\n(b) prolonged contact with human skin means continuous contact of more than 10 minutes duration or intermittent contact over a period of 30 minutes, per day.\n(c) childcare article shall mean any product intended to facilitate sleep, relaxation, hygiene, the feeding of children or sucking on the part of children.\n6. For the purposes of paragraph 4(b), aircraft means one of the following:\n(a) a civil aircraft produced in accordance with a type certificate issued under Regulation (EC) No 216/2008 or with a design approval issued under the national regulations of a contracting State of the International Civil Aviation Organisation (ICAO), or for which a certificate of airworthiness has been issued by an ICAO contracting State under Annex 8 to the Convention on International Civil Aviation, signed on December 7, 1944 , in Chicago;\n(b) a military aircraft.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-81-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84-69-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84-74-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-553-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-557-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-622-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-211-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            }
+          ],
+          "unchanged": 1788,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -295,6 +545,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
