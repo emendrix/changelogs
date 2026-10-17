@@ -927,6 +927,8 @@ Part 5 has been retitled by dropping the word "LIST OF" from its heading, and it
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
+Table entries: 25 added, 14 amended, 0 removed: Index No 005-005-00-1, Index No 005-023-00-X, Index No 005-024-00-5, Index No 006-104-00-2, Index No 016-022-00-9, Index No 029-019-01-X, Index No 029-026-00-0, Index No 047-004-00-9, Index No 047-005-00-4, Index No 047-006-00-X and 29 more
+
 The entry for trimethyl borate (index 005-005-00-1) has been changed so that, in addition to the flammable liquid classification, it now carries a Repr. 1B classification with hazard statement H360FD, alongside a revised Acute Tox. 4 entry, and its pictograms, labelling codes and hazard statements have been updated accordingly, with a Note 11 reference added. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20260501#anx_VI)
 
 In the earlier version this same entry showed only the flammable liquid and Acute Tox. 4 classifications with hazard statements H226 and H312, without any reproductive toxicity classification or Note 11 reference. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250901#anx_VI)
