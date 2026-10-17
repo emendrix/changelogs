@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -55,6 +55,1037 @@
           "AN XVII APP 4",
           "AN XVII APP 6"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "014-048-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "014-048-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Silicon carbide fibres (with diameter < 3 μm, length > 5 μm and aspect ratio ≥ 3:1)",
+                    "014-048-00-5",
+                    "206-991-8",
+                    "409-21-2\n308076-74-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "308076-74-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "409-21-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-991-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "014-048-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Silicon carbide fibres (with diameter < 3 μm, length > 5 μm and aspect ratio ≥ 3:1)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "601-092-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "601-092-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dibenzo[def,p]chrysene; dibenzo[a,l]pyrene",
+                    "601-092-00-0",
+                    "205-886-4",
+                    "191-30-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "191-30-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-886-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "601-092-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibenzo[def,p]chrysene; dibenzo[a,l]pyrene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "603-065-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "603-065-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "m-bis(2,3-epoxypropoxy)benzene; resorcinol diglycidyl ether",
+                    "603-065-00-9",
+                    "202-987-5",
+                    "101-90-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-90-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-987-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "603-065-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "m-bis(2,3-epoxypropoxy)benzene; resorcinol diglycidyl ether"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "603-240-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "603-240-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,2-bis(bromomethyl)propane-1,3-diol",
+                    "603-240-00-X",
+                    "221-967-7",
+                    "3296-90-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3296-90-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-967-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "603-240-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,2-bis(bromomethyl)propane-1,3-diol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "607-746-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "607-746-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Sodium N-(hydroxymethyl)glycinate; [formaldehyde released from sodium N-(hydroxymethyl)glycinate]",
+                    "607-746-00-1",
+                    "274-357-8",
+                    "70161-44-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "70161-44-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-357-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-746-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium N-(hydroxymethyl)glycinate; [formaldehyde released from sodium N-(hydroxymethyl)glycinate]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "616-014-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "616-014-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Butanone oxime; ethyl methyl ketoxime; ethyl methyl ketone oxime",
+                    "616-014-00-0",
+                    "202-496-6",
+                    "96-29-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "96-29-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-496-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-014-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Butanone oxime; ethyl methyl ketoxime; ethyl methyl ketone oxime"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "616-230-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "616-230-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "N-(hydroxymethyl)acrylamide; methylolacrylamide; [NMA]",
+                    "616-230-00-5",
+                    "213-103-2",
+                    "924-42-5",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "924-42-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "213-103-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-230-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N-(hydroxymethyl)acrylamide; methylolacrylamide; [NMA]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "603-240-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "603-240-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,2-bis(bromomethyl)propane-1,3-diol",
+                    "603-240-00-X",
+                    "221-967-7",
+                    "3296-90-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3296-90-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-967-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "603-240-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,2-bis(bromomethyl)propane-1,3-diol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "616-230-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "616-230-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "N-(hydroxymethyl)acrylamide; methylolacrylamide; [NMA]",
+                    "616-230-00-5",
+                    "213-103-2",
+                    "924-42-5",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "924-42-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "213-103-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "616-230-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N-(hydroxymethyl)acrylamide; methylolacrylamide; [NMA]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "014-050-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "014-050-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tris(2-methoxyethoxy)vinylsilane; 6-(2-methoxyethoxy)-6-vinyl-2,5,7,10-tetraoxa-6-silaundecane",
+                    "014-050-00-6",
+                    "213-934-0",
+                    "1067-53-4",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1067-53-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "213-934-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "014-050-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tris(2-methoxyethoxy)vinylsilane; 6-(2-methoxyethoxy)-6-vinyl-2,5,7,10-tetraoxa-6-silaundecane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "050-021-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "050-021-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dichlorodioctylstannane",
+                    "050-021-00-4",
+                    "222-583-2",
+                    "3542-36-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3542-36-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-583-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "050-021-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dichlorodioctylstannane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "050-031-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "050-031-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dioctyltin dilaurate; [1]\nstannane, dioctyl-, bis(coco acyloxy) derivs. [2]",
+                    "050-031-00-9",
+                    "222-883-3 [1]\n293-901-5 [2]",
+                    "3648-18-8 [1]\n91648-39-4 [2]",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3648-18-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "91648-39-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-883-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "293-901-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "050-031-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dioctyltin dilaurate; [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "603-237-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "603-237-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Ipconazole (ISO); (1RS,2SR,5RS;1RS,2SR,5SR)-2-(4-chlorobenzyl)-5-isopropyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol",
+                    "603-237-00-3",
+                    "-",
+                    "125225-28-7\n115850-69-6\n115937-89-8",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115850-69-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "115937-89-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "125225-28-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "603-237-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ipconazole (ISO); (1RS,2SR,5RS;1RS,2SR,5SR)-2-(4-chlorobenzyl)-5-isopropyl-1-(1H-1,2,4-triazol-1-ylmethyl)cyclopentanol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "603-238-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "603-238-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(2-(2-methoxyethoxy)ethyl)ether; tetraglyme",
+                    "603-238-00-9",
+                    "205-594-7",
+                    "143-24-8",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "143-24-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-594-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "603-238-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-(2-methoxyethoxy)ethyl)ether; tetraglyme"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "605-041-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "605-041-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-(4-tert-butylbenzyl)propionaldehyde",
+                    "605-041-00-3",
+                    "201-289-8",
+                    "80-54-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "80-54-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-289-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "605-041-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(4-tert-butylbenzyl)propionaldehyde"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-740-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-740-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diisooctyl phthalate",
+                    "607-740-00-9",
+                    "248-523-5",
+                    "27554-26-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "27554-26-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "248-523-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-740-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisooctyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-744-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-744-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-methoxyethyl acrylate",
+                    "607-744-00-0",
+                    "221-499-3",
+                    "3121-61-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3121-61-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-499-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-744-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-methoxyethyl acrylate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-333-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-333-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pyrithione zinc; (T-4)-bis[1-(hydroxy-.kappa.O)pyridine-2(1H)-thionato-.kappa.S]zinc",
+                    "613-333-00-7",
+                    "236-671-3",
+                    "13463-41-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13463-41-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-671-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-333-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pyrithione zinc; (T-4)-bis[1-(hydroxy-.kappa.O)pyridine-2(1H)-thionato-.kappa.S]zinc"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-334-00-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-334-00-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Flurochloridone (ISO); 3-chloro-4-(chloromethyl)-1-[3-(trifluoromethyl)phenyl]pyrrolidin-2-one",
+                    "613-334-00-2",
+                    "262-661-3",
+                    "61213-25-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61213-25-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "262-661-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-334-00-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Flurochloridone (ISO); 3-chloro-4-(chloromethyl)-1-[3-(trifluoromethyl)phenyl]pyrrolidin-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "617-006-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "617-006-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(α,α-dimethylbenzyl) peroxide",
+                    "617-006-00-X",
+                    "201-279-3",
+                    "80-43-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "80-43-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-279-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "617-006-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(α,α-dimethylbenzyl) peroxide"
+              }
+            }
+          ],
+          "unchanged": 1899,
+          "whitespace_only": 0,
+          "unpaired": [
+            {
+              "container": "AN XVII",
+              "table": 1,
+              "key": "68"
+            }
+          ],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -246,6 +1277,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

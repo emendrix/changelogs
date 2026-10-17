@@ -926,6 +926,8 @@ The earlier text, entries 1 through 54, contains no equivalent listings for thes
 
 *within* `AN XVII`, `AN XVII APP 2`, `AN XVII APP 4`, `AN XVII APP 6` · *dates* +2023-01-01 +2023-02-25 +2023-08-25 +2023-12-31 +2024-08-25 +2024-08-26 +2025-07-04 +2028-08-25 +2030-12-31 · *amended by* `32021R2204`
 
+Table entries: 20 added, 0 amended, 0 removed: Index No 014-048-00-5, Index No 601-092-00-0, Index No 603-065-00-9, Index No 603-240-00-X, Index No 607-746-00-1, Index No 616-014-00-0, Index No 616-230-00-5, Index No 603-240-00-X, Index No 616-230-00-5, Index No 014-050-00-6 and 10 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20220108`)
