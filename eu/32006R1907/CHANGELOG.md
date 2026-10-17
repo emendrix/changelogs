@@ -2477,6 +2477,8 @@ Because the supplied texts were truncated before the body of the restriction ent
 
 *within* `AN XVII` · *dates* +2020-01-02 · *amended by* `32016R2235`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 66
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20161011`)
