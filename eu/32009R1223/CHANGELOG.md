@@ -2699,6 +2699,8 @@ Both versions of the text shown are truncated before the substance-by-substance 
 
 *within* `AN II` · *dates* +2019-08-23 +2021-08-23 · *amended by* `32017R1410`
 
+Table entries: 3 added, 0 amended, 0 removed: Reference number 1380, Reference number 1381, Reference number 1382
+
 The AFTER text inserts a new introductory sentence stating that from 23 August 2019 cosmetic products containing that substance shall not be placed on the Union market, and from 23 August 2021 such products shall not be made available on the Union market, which is absent from the BEFORE text. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_II)
 
 The remainder of the numbered substance list appears unchanged between the two versions as far as the provided text extends, though both texts are truncated and further differences beyond the shown portion cannot be assessed. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_II)
@@ -2763,6 +2765,8 @@ The remainder of the numbered substance list appears unchanged between the two v
 
 *within* `AN IV` · *amended by* `32017R1413`
 
+Table entries: 0 added, 1 amended, 0 removed: Reference number 144
+
 A new preamble line was added referring to Annex VI, No 30 and No 30a for use as a UV-filter, alongside the existing reference to Annex VI, No 27. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_IV)
 
 Entry 144, Zinc oxide, now includes a CAS number and EC number and a new restriction stating it is not to be used in applications that may lead to exposure of the end-user's lungs by inhalation, where before it listed only the colour index number and colour with no such conditions. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_IV)
@@ -2795,6 +2799,8 @@ Entry 144, Zinc oxide, now includes a CAS number and EC number and a new restric
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32017R0238`
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 4
 
 For entry 4, Benzophenone-3, the maximum concentration in the ready-for-use preparation was lowered from 10 % to 6 %. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170727#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20170903#anx_VI)
 

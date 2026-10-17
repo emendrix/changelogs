@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -54,6 +54,164 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1380",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1380",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1380",
+                    "3- and 4-(4-Hydroxy-4-methylpentyl) cyclohex-3-ene-1-carbaldehyde (HICC)\n",
+                    "51414-25-6/\n31906-04-4/",
+                    "257-187-9/\n250-863-4/"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "31906-04-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "51414-25-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "250-863-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "257-187-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3- and 4-(4-Hydroxy-4-methylpentyl) cyclohex-3-ene-1-carbaldehyde (HICC)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1381",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1381",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1381",
+                    "2,6-Dihydroxy-4-methyl-benzaldehyde (atranol)\n",
+                    "526-37-4",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "526-37-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,6-Dihydroxy-4-methyl-benzaldehyde (atranol)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1382",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1382",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1382",
+                    "3-Chloro-2,6-Dihydroxy-4-methyl-benzaldehyde (chloroatranol)\n",
+                    "57074-21-2",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "57074-21-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-Chloro-2,6-Dihydroxy-4-methyl-benzaldehyde (chloroatranol)"
+              }
+            }
+          ],
+          "unchanged": 1378,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -92,7 +250,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -171,6 +330,138 @@
         "changed_within": [
           "AN IV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN IV",
+              "container": "AN IV",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical Name",
+                  "Colour index Number/Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Colour",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i",
+                  "j"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "144",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "144",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "144",
+                    "Zinc oxide",
+                    "77947",
+                    "",
+                    "",
+                    "White",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Zinc oxide"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "144",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "144",
+                    "Zinc oxide\n",
+                    "77947",
+                    "1314-13-2",
+                    "215-222-5",
+                    "White",
+                    "",
+                    "",
+                    "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1314-13-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-222-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Zinc oxide"
+              }
+            }
+          ],
+          "unchanged": 153,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -205,7 +496,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -284,6 +576,142 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4",
+                    "2-Hydroxy-4-methoxybenzophenone/Oxybenzone",
+                    "Benzophenone-3",
+                    "131-57-7",
+                    "205-031-5",
+                    "",
+                    "10 %",
+                    "",
+                    "Contains Benzophenone-3\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131-57-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-031-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Hydroxy-4-methoxybenzophenone/Oxybenzone"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4",
+                    "2-Hydroxy-4-methoxybenzophenone/Oxybenzone",
+                    "Benzophenone-3",
+                    "131-57-7",
+                    "205-031-5",
+                    "",
+                    "6 %",
+                    "Not more than 0,5 % to protect product formulation",
+                    "Contains Benzophenone-3\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131-57-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-031-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Hydroxy-4-methoxybenzophenone/Oxybenzone"
+              }
+            }
+          ],
+          "unchanged": 31,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -318,7 +746,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -466,7 +895,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -514,6 +944,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 3,
+      "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
