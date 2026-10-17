@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -50,6 +50,7 @@
         "after": "Article 21a\nTransitional provision\n1. A value of 10 μg/kg shall apply to fly ashes from biomass units for heat and power production containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyl (dl-PCBs) as listed in Annex IV until 30 December 2023. The value of 5 μg/kg provided for in Annex IV shall apply to fly ashes from biomass units for heat and power production from 31 December 2023.\n2. A value of 15 μg/kg shall continue to apply for ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) as listed in Annex IV until 31 December 2024. For ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs), the value of 5 μg/kg provided for in Annex IV shall apply from 1 January 2025.",
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -87,7 +88,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -134,6 +136,551 @@
         "changed_within": [
           "AN IV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN IV",
+              "container": "AN IV",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substance",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit referred to in Article 7(4)(a)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "alkanes c10-c13, chloro (short-chain chlorinated paraffins) (sccps)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "alkanes c10-c13, chloro (short-chain chlorinated paraffins) (sccps)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)",
+                    "85535-84-8",
+                    "287-476-5",
+                    "10000 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85535-84-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "287-476-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "alkanes c10-c13, chloro (short-chain chlorinated paraffins) (sccps)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)",
+                    "85535-84-8",
+                    "287-476-5",
+                    "1500 mg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85535-84-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "287-476-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether; decabde) c12br10o",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether; decabde) c12br10o",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE) C12Br10O",
+                    "1163-19-5\nand others",
+                    "214-604-9\nand others",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1163-19-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-604-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE) C12Br10O"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "decabromodiphenyl ether c12br10o",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "decabromodiphenyl ether c12br10o",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Decabromodiphenyl ether C12Br10O",
+                    "1163-19-5 and others",
+                    "214-604-9 and others",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1163-19-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-604-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Decabromodiphenyl ether C12Br10O"
+              },
+              "after": null
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "dicofol",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "dicofol",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dicofol",
+                    "115-32-2",
+                    "204-082-0",
+                    "50 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-32-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-082-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dicofol"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "hexabromocyclododecane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "hexabromocyclododecane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromocyclododecane\n",
+                    "25637-99-4,\n3194-55-6,\n134237-50-6,\n134237-51-7,\n134237-52-8",
+                    "247-148-4\n221-695-9",
+                    "1000 mg/kg, subject to review by the Commission by 20 April 2019"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134237-50-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-51-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-52-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25637-99-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3194-55-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-695-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-148-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromocyclododecane"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "hexabromocyclododecane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromocyclododecane\n",
+                    "25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8",
+                    "247-148-4\n221-695-9",
+                    "500 mg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value to not higher than 200 mg/kg no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134237-50-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-51-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-52-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25637-99-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3194-55-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-695-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-148-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromocyclododecane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "pentachlorophenol, its salts and esters",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "pentachlorophenol, its salts and esters",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pentachlorophenol, its salts and esters",
+                    "87-86-5 and others",
+                    "201-778-6 and others",
+                    "100 mg/kg"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-86-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-778-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentachlorophenol, its salts and esters"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "perfluorohexane sulfonic acid (pfhxs), its salts and pfhxs-related compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "perfluorohexane sulfonic acid (pfhxs), its salts and pfhxs-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds",
+                    "355-46-4 and others",
+                    "206-587-1 and others",
+                    "1 mg/kg\n(PFHxS and its salts), 40 mg/kg\n(sum of PFHxS-related compounds)\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "355-46-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-587-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds, as set out in annex i",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds, as set out in annex i",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I",
+                    "335-67-1 and others",
+                    "206-397-9 and others",
+                    "1 mg/kg\n(PFOA and its salts),\n40 mg/kg\n(sum of PFOA-related compounds)\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN IV",
+              "table": 1,
+              "key": "polychlorinated dibenzo-p-dioxins and dibenzofurans (pcdd/pcdf)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "polychlorinated dibenzo-p-dioxins and dibenzofurans (pcdd/pcdf)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)",
+                    "",
+                    "",
+                    "15 μg/kg\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)"
+              },
+              "after": null
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "polychlorinated dibenzo-p-dioxins and dibenzofurans (pcdd/pcdf) and dioxin-like polychlorinated biphenyls (dl-pcbs)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "polychlorinated dibenzo-p-dioxins and dibenzofurans (pcdd/pcdf) and dioxin-like polychlorinated biphenyls (dl-pcbs)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)",
+                    "",
+                    "",
+                    "5 μg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "tetrabromodiphenyl ether c12h6br4o",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "tetrabromodiphenyl ether c12h6br4o",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tetrabromodiphenyl ether C12H6Br4O",
+                    "40088-47-9 and others",
+                    "254-787-2 and others",
+                    "Sum of the concentrations of tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether: 1000 mg/kg.\nThe Commission shall review that concentration limit and shall, where appropriate and in accordance with the Treaties, adopt a legislative proposal to lower that value to 500 mg/kg. The Commission shall carry out such review as soon as possible and, in any event, not later than 16 July 2021."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "40088-47-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-787-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetrabromodiphenyl ether C12H6Br4O"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "tetrabromodiphenyl ether c12h6br4o",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tetrabromodiphenyl ether C12H6Br4O",
+                    "40088-47-9\nand others",
+                    "254-787-2\nand others",
+                    "Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12Br10O:\n(a) until 29 December 2025, 500 mg/kg;\n(b) from 30 December 2025 until 29 December 2027, 350 mg/kg, or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether;\n(c) from 30 December 2027, 200 mg/kg or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "40088-47-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-787-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetrabromodiphenyl ether C12H6Br4O"
+              }
+            }
+          ],
+          "unchanged": 18,
+          "whitespace_only": 3,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -177,7 +724,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -288,6 +836,7 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -322,7 +871,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -620,7 +1170,8 @@
         ]
       }
     ],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -660,6 +1211,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 3,
       "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

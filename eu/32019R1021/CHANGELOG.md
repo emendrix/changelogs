@@ -577,7 +577,9 @@ A new Article 21a has been added, setting out transitional limit values for fly 
 
 *within* `AN IV` · *dates* -2019-04-20 -2021-07-16 +2025-12-29 +2025-12-30 +2027-12-29 +2027-12-30 · *amended by* `32022R2400`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
+
+Table entries: 6 added, 3 amended, 2 removed: "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)", "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE) C12Br10O", "Decabromodiphenyl ether C12Br10O", "Dicofol", "Hexabromocyclododecane", "Pentachlorophenol, its salts and esters", "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds", "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I", "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)", "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)" and 1 more
 
 The toxic equivalency factor table for PCDD and PCDF, previously spelled out in full in the annex, is replaced by a cross-reference to the TEF table in Part 2, third paragraph, of Annex V, and the calculated sum now also covers dioxin-like polychlorinated biphenyls (dl-PCBs). [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20221213#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230610#anx_IV)
 
@@ -635,7 +637,7 @@ New entries for pentachlorophenol and its salts and esters, dicofol, perfluorooc
 
 *within* `AN V` · *amended by* `32022R2400`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
 The maximum concentration limit entry for polychlorinated dibenzo-p-dioxins and dibenzofurans now also includes dioxin-like polychlorinated biphenyls (dl-PCBs) within the same 5 mg/kg limit, and the toxic equivalency factor table is expanded with a new dl-PCBs section listing TEF values for a series of named PCB congeners. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230610#anx_V)
 
