@@ -1925,6 +1925,8 @@ Point 12 of Annex V now lists digestate alongside compost and biogas as an addit
 
 *within* `AN XVII` · *dates* +2021-01-02 · *amended by* `32019R0957`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 73
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20190107`)
