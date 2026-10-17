@@ -26,6 +26,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I` · *dates* +2008-12-31 +2014-02-26 +2019-01-01 +2024-01-01 · *amended by* `32026R1738`
 
+Table entries: 1 added, 3 amended, 0 removed: Entry 1, Entry 2, Entry 3, Entry 4
+
 The Annex I text expands substantially, adding a preamble referencing Directive 2014/35/EU and a voltage-related exemption note stating that the exemption shall be reviewed in 2030, before the substance table. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20260813#anx_I)
 
 For Cadmium, a new point 2 sets a 0,01 % by weight limit for electric vehicle and SLI batteries incorporated in M1 and N1 category vehicles, and a new point 3 excludes electric vehicle batteries used as spare parts for such vehicles placed on the market before 31 December 2008 from that limit. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R1542-20260813#anx_I)

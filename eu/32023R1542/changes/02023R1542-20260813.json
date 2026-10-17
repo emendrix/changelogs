@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,254 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance or group of substances",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1. Mercury\nCAS No 7439-97-6\nEC No 231-106-7 and its compounds",
+                    "Batteries, whether or not incorporated into appliances, light means of transport or other vehicles, shall not contain more than 0,0005 % of mercury (expressed as mercury metal) by weight."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-97-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-106-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Mercury"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1. Mercury CAS No 7439-97-6 EC No 231-106-7 and its compounds",
+                    "Batteries, whether or not present in and incorporated into appliances, light means of transport or other vehicles, shall not contain more than 0,0005 % of mercury (expressed as mercury metal) by weight."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-97-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-106-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Mercury CAS No 7439-97-6 EC No 231-106-7 and its compounds"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2. Cadmium\nCAS No 7440-43-9\nEC No 231-152-8 and its compounds",
+                    "Portable batteries, whether or not incorporated into appliances, light means of transport or other vehicles, shall not contain more than 0,002 % of cadmium (expressed as cadmium metal) by weight."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-43-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-152-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2. Cadmium CAS No 7440-43-9 EC No 231-152-8 and its compounds",
+                    "1. Portable batteries, whether or not present in and incorporated into appliances, light means of transport or other vehicles, shall not contain more than 0,002 % of cadmium (expressed as cadmium metal) by weight.\n2. Electric vehicle and SLI batteries, incorporated in vehicles, including special purpose vehicles, of the categories M1 and N1 as defined in Regulation (EU) 2018/858 shall not contain more than 0,01 % of cadmium (expressed as cadmium metal) by weight in homogeneous material.\n3. Point 2 shall not apply to electric vehicle batteries used as spare parts for electric vehicles, including special purpose vehicles, of the categories M1 and N1 as defined in Regulation (EU) 2018/858 placed on the market before 31 December 2008."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-43-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-152-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium CAS No 7440-43-9 EC No 231-152-8 and its compounds"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3. Lead\nCAS No 7439-92-1\nEC No 231-100-4 and its compounds",
+                    "1. From 18 August 2024, portable batteries, whether or not incorporated into appliances, shall not contain more than 0,01 % of lead (expressed as lead metal) by weight.\n2. The restriction set out in point 1 shall not apply to portable zinc-air button cells until 18 August 2028."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3. Lead CAS No 7439-92-1 EC No 231-100-4 and its compounds",
+                    "1. From 18 August 2024, portable batteries, whether or not present in and incorporated into appliances, shall not contain more than 0,01 % of lead (expressed as lead metal) by weight.\n2. The restriction set out in point 1 shall not apply to portable zinc-air button cells until 18 August 2028.\n3. Portable batteries incorporated in vehicles, including special purpose vehicles, of the categories M1 and N1 as defined in Regulation (EU) 2018/858, shall not contain more than 0,1 % of lead (expressed as lead metal) by weight in homogeneous material.\n4. Point 3 shall not apply to Portable Batteries incorporated in, or used as spare parts for, vehicles, including special purpose vehicles, of the categories M1 and N1 as defined in Regulation (EU) 2018/858, type approved before 1 January 2024.\n5. Electric vehicle batteries incorporated in vehicles, including special purpose vehicles, of the categories M1 and N1 as defined in Regulation (EU) 2018/858, shall not contain more than 0,1 % of lead (expressed as lead metal) by weight in homogeneous material."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead CAS No 7439-92-1 EC No 231-100-4 and its compounds"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4. Hexavalent chromium CAS No 18540-29-9EC No 606-053-1 and its compounds",
+                    "Batteries incorporated in vehicles, including special purpose vehicles, of the categories M1 and N1 as defined in Regulation (EU) 2018/858, shall not contain more than 0,1 % of hexavalent chromium, expressed as hexavalent chromium metal, by weight in homogeneous material."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "18540-29-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "606-053-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexavalent chromium CAS No 18540-29-9EC No 606-053-1 and its compounds"
+              }
+            }
+          ],
+          "unchanged": 0,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 2,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -260,6 +508,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
