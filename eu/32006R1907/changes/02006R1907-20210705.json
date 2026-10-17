@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -53,6 +53,418 @@
           "AN XVII APP 2",
           "AN XVII APP 6"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "604-016-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "604-016-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-dihydroxybenzene; pyrocatechol",
+                    "604-016-00-4",
+                    "204-427-5",
+                    "120-80-9",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-80-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-427-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "604-016-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-dihydroxybenzene; pyrocatechol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "605-003-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "605-003-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "acetaldehyde; ethanal",
+                    "605-003-00-6",
+                    "200-836-8",
+                    "75-07-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-07-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-836-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "605-003-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "acetaldehyde; ethanal"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "607-730-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "607-730-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "spirodiclofen (ISO); 3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl 2,2-dimethylbutyrate",
+                    "607-730-00-4",
+                    "-",
+                    "148477-71-8",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "148477-71-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-730-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "spirodiclofen (ISO); 3-(2,4-dichlorophenyl)-2-oxo-1-oxaspiro[4.5]dec-3-en-4-yl 2,2-dimethylbutyrate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "606-047-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "606-047-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-benzyl-2-dimethylamino-4'-morpholinobutyrophenone",
+                    "606-047-00-9",
+                    "404-360-3",
+                    "119313-12-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "119313-12-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "404-360-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-047-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-benzyl-2-dimethylamino-4'-morpholinobutyrophenone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-205-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-205-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "propiconazole (ISO); (2RS,4RS;2RS,4SR)-1-{[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl}-1H-1,2,4-triazole",
+                    "613-205-00-0",
+                    "262-104-4",
+                    "60207-90-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60207-90-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "262-104-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-205-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "propiconazole (ISO); (2RS,4RS;2RS,4SR)-1-{[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl}-1H-1,2,4-triazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-328-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-328-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1-vinylimidazole",
+                    "613-328-00-X",
+                    "214-012-0",
+                    "1072-63-5",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1072-63-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-012-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-328-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-vinylimidazole"
+              }
+            }
+          ],
+          "unchanged": 1882,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -222,6 +634,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
