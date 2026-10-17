@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,154 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN II",
+              "table": 1,
+              "key": "1597",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1597",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1597",
+                    "Silver zinc zeolite",
+                    "130328-20-0",
+                    "603-404-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "130328-20-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "603-404-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Silver zinc zeolite"
+              },
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1597",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1597",
+                    "Silver zinc zeolite with the exception of silver zinc zeolite under the conditions set out in entry 61 in Annex V",
+                    "130328-20-0",
+                    "603-404-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "130328-20-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "603-404-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Silver zinc zeolite with the exception of silver zinc zeolite under the conditions set out in entry 61 in Annex V"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1767",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1767",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1767",
+                    "Triphenyl Phosphate\n",
+                    "115-86-6",
+                    "204-112-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-86-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-112-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triphenyl Phosphate"
+              }
+            }
+          ],
+          "unchanged": 1764,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -176,6 +324,1100 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "24",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "24",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "24",
+                    "Water-soluble zinc salts with the exception of zinc 4- hydroxy-benzenesulphonate (entry 25) and zinc pyrithione (Annex II, entry X)",
+                    "Zinc acetate,\nzinc chloride, zinc gluconate, zinc glutamate",
+                    "",
+                    "",
+                    "",
+                    "1 % (as zinc)",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Water-soluble zinc salts with the exception of zinc 4- hydroxy-benzenesulphonate (entry 25) and zinc pyrithione (Annex II, entry X)"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "24",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "24",
+                    "Water-soluble zinc salts with the exception of zinc 4- hydroxy-benzene sulphonate (entry 25 of Annex III)\n",
+                    "Zinc Acetate",
+                    "557-34-6/ 5970-45-6",
+                    "209-170-2/\n-",
+                    "(a) Toothpaste intended for users above 1 year of age",
+                    "(a) 1 % (as zinc)",
+                    "",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "Zinc Chloride",
+                    "7646-85-7",
+                    "231-592-0",
+                    "(b) Toothpaste intended for children between 6 months and 1 year of age",
+                    "(b) 0,72 % (as zinc)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Zinc Gluconate",
+                    "4468-02-4",
+                    "224-736-9",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Zinc Glutamate",
+                    "1949-15-1",
+                    "-",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Zinc Citrate",
+                    "546-46-3",
+                    "208-901-2",
+                    "(c) Mouthwash intended for users above 6 years of age",
+                    "(c) 0,1 % (as zinc)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "Zinc Sulphate",
+                    "7733-02-0/\n7446-19-7/\n7446-20-0",
+                    "231-793-3",
+                    "(d) Other products",
+                    "(d) 1 % (as zinc)",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1949-15-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "4468-02-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "546-46-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "557-34-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5970-45-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7446-19-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7446-20-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7646-85-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7733-02-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-901-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-170-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "224-736-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-592-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-793-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Water-soluble zinc salts with the exception of zinc 4- hydroxy-benzene sulphonate (entry 25 of Annex III)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "70",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "70",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "70",
+                    "3,7-Dimethyl-2,6-octadienal",
+                    "Citral",
+                    "5392-40-5",
+                    "226-394-6",
+                    "",
+                    "",
+                    "The presence of the substance or substances shall be indicated as Citral in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    "(E)-3,7-dimethylocta-2,6-dienal\n",
+                    "Geranial",
+                    "141-27-5",
+                    "205-476-5",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(Z)-3,7-dimethylocta-2,6-dienal\n",
+                    "Neral",
+                    "106-26-3",
+                    "203-379-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-26-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "141-27-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5392-40-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-379-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-476-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-394-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,7-Dimethyl-2,6-octadienal"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "70",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "70",
+                    "3,7-Dimethyl-2,6-octadienal\n(E)-3,7- dimethylocta-2,6- dienal\n(Z)-3,7- dimethylocta-2,6- dienal\n",
+                    "Citral\nGeranial",
+                    "5392-40-5\n141-27-5",
+                    "226-394-6\n205-476-5",
+                    "(a) Lip make-up products, lipstick, lip salves",
+                    "(a) 0,11 %",
+                    "The presence of the substance or substances shall be indicated as Citral in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "Neral",
+                    "106-26-3",
+                    "203-379-2",
+                    "(b) Deodorants and antiperspirants",
+                    "(b) 0,032 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "",
+                    "",
+                    "",
+                    "(c) Eye products, face make-up and make-up remover",
+                    "(c) 0,65 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "",
+                    "",
+                    "",
+                    "(d) Fragrance products (hydroalcoholic and non-hydroalcoholic, spray and non-spray)",
+                    "(d) 0,6 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "",
+                    "",
+                    "",
+                    "(e) Leave-on skin products (except lip products, deodorants and antiperspirants, fragrance products, eye products, face make-up and make-up remover) and nail products",
+                    "(e) 0,15 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "",
+                    "",
+                    "",
+                    "(f) Oral products",
+                    "(f) 0,35 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "",
+                    "",
+                    "",
+                    "(g) Hair leave-on products",
+                    "(g) 1,2 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "",
+                    "",
+                    "",
+                    "(h) Skin and hair rinse-off products",
+                    "(h) 1,2 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "",
+                    "",
+                    "",
+                    "(i) Leave-on products for the anogenital area (baby wipes and intimate wipes)",
+                    "(i) 0,063 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-26-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "141-27-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5392-40-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-379-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-476-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-394-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,7-Dimethyl-2,6-octadienal"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "75",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "75",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "75",
+                    "Benzyl salicylate",
+                    "Benzyl salicylate",
+                    "118-58-1",
+                    "204-262-9",
+                    "",
+                    "",
+                    "The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)(g) when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "118-58-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-262-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzyl salicylate"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "75",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "75",
+                    "2-hydroxybenzoic acid phenylmethyl ester\n",
+                    "Benzyl Salicylate",
+                    "118-58-1",
+                    "204-262-9",
+                    "(a) Fragrance products (hydroalcoholic and non-hydroalcoholic, spray and non-spray)",
+                    "(a) 4 %",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Rinse-off skin and hair products (except shower gel/bath products)",
+                    "(b) 0,5 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) Shower gel/bath products",
+                    "(c) 1,3 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(d) Leave-on skin and hair products (non-spray/non-aerosol) (except body lotion)",
+                    "(d) 0,5 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(e) Leave-on hair products (spray/aerosol)",
+                    "(e) 0,5 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(f) Body lotion",
+                    "(f) 0,7 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(g) Face make-up and make-up remover products",
+                    "(g) 0,2 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(h) Oral products",
+                    "(h) 0,004 %",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(i) Deodorant products (spray/aerosol)",
+                    "(i) 0,91 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "118-58-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-262-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-hydroxybenzoic acid phenylmethyl ester"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "381",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "381",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "381",
+                    "Aluminium-containing ingredients with the exception of those listed in entries 34, 50, 189, 190 and 192 of Annex III, in entries\n117, 118, 119, 121, 131, 150 of Annex IV, in entry 61 in Annex V, and entry 27a of Annex VI.\n",
+                    "",
+                    "",
+                    "",
+                    "(a) Non-aerosol antiperspirants or deodorants",
+                    "(a) 7,73 % (as Al)",
+                    "For (q): Not to be used in sunscreen products that may lead to exposure of the end user’s lungs by inhalation.",
+                    "For (r): Keep powder away from children’s nose and mouth"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Aerosol antiperspirants or deodorants",
+                    "(b) 3,24 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(c) Toothpaste",
+                    "(c) 3,18 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(d) Lip products",
+                    "(d) 14,62 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(e) Body and face rinse-off products",
+                    "(e) 0,89 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(f) Bar soap",
+                    "(f) 4 % (As AI)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(g) Hair rinse-off products",
+                    "(g) 7,14 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(h) Hair leave-on products that may lead to the exposure of the end user’s lungs by inhalation",
+                    "(h) 0,15 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(i) All other hair leave-on products",
+                    "(i) 6,7 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(j) Make-up products (except lip products, eye liner products, eye shadow, nail varnish and mascara)",
+                    "(j) 23 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(k) Eye liner products",
+                    "(k) 15,76 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(l) Eye shadow",
+                    "(l) 43,31 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(m) Nail varnish",
+                    "(m) 3,61 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(n) Mascara",
+                    "(n) 3,13 % (As Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(o) Face leave-on products (except make-up products, eye liner products, eye shadow and mascara)",
+                    "(o) 10,59 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(p) Hand leave-on products",
+                    "(p) 0,86 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(q) Other leave-on skin products (except non-aerosol antiperspirants or deodorants, aerosol antiperspirants or deodorants, face leave-on products, hand leave-on products and talcum powder)",
+                    "(q) 3,81 % (as Al)",
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(r) Talcum powder",
+                    "(r) 2,0 % (as Al)",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Aluminium-containing ingredients with the exception of those listed in entries 34, 50, 189, 190 and 192 of Annex III, in entries"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "382",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "382",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "382",
+                    "Vetiveria zizanioides, ext., acetylated\nOils, vetiver, acetylated\n",
+                    "Acetylated Vetiveria Zizanioides Root Extract; Acetylated Vetiveria Zizanioides Root Oil",
+                    "84082-84-8/ 68917-34-0",
+                    "282-031-1/-",
+                    "(a) Fragrance products (hydroalcoholic and non-hydroalcoholic, spray and non-spray)\n(b) Deodorant\n(c) Make-up products\n(d) Leave-on products (except (a), (b) and (c))\n(e) Rinse-off products",
+                    "(a) 0,9 %\n(b) 0,05 %\n(c) 0,05 %\n(d) 0,1 %\n(e) 0,2 %",
+                    "For (a) – (e): stabilised with 1 % alpha- tocopherol (applies to raw materials).",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68917-34-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84082-84-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "282-031-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Vetiveria zizanioides, ext., acetylated"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "383",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "383",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "383",
+                    "3-[(E)-(3-chloro-4-hydroxyphenyl)diazenyl]-2,l-benzisothiazole-5-sulfonamide",
+                    "HC Blue No 18",
+                    "1166834-57-6/ 852356-91-3",
+                    "-/-",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "For (a): After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,35 %.",
+                    "For (a): To be printed on the label:\nThe mixing ratio.\n’Hair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary black henna tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary black henna tattoo in the past"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 0,35 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1166834-57-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "852356-91-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-[(E)-(3-chloro-4-hydroxyphenyl)diazenyl]-2,l-benzisothiazole-5-sulfonamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "384",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "384",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "384",
+                    "3-(2,5-diaminophenyl)propan-1-ol and 3-(2,5-diaminophenyl) propan-1-ol dihydrochloride salt",
+                    "Hydroxypropyl-p-phenylenediamine\nand Hydroxypropyl-p-phenylenediamine 2HCl",
+                    "73793-79-0",
+                    "827-723-1",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 2 %.",
+                    "To be printed on the label: The mixing ratio.\nHair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary black henna tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary black henna tattoo in the past"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    "1928659-47-5",
+                    "-",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1928659-47-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "73793-79-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "827-723-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-(2,5-diaminophenyl)propan-1-ol and 3-(2,5-diaminophenyl) propan-1-ol dihydrochloride salt"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "385",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "385",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "385",
+                    "2-chloro-4-[(1E)-(1-methyl-1H-pyrazol-5-yl)diazenyl]-phenol",
+                    "HC Yellow No 16",
+                    "1184721-10-5",
+                    "-",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "For (a): After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1 %.",
+                    "For (a):\nTo be printed on the label:\nThe mixing ratio.\nHair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary black henna tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp, — you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary black henna tattoo in the past"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 1,5 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1184721-10-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-chloro-4-[(1E)-(1-methyl-1H-pyrazol-5-yl)diazenyl]-phenol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "386",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "386",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "386",
+                    "2-chloro-4-{(E)-[3-(methylthio)-1,2,4-thiadiazol-5-yl]diazenyl}phenol",
+                    "HC Red No 18",
+                    "1444596-49-9",
+                    "-",
+                    "(a) Hair dye substance in oxidative hair dye products",
+                    "",
+                    "For (a): After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,5 %.",
+                    "For (a): To be printed on the label:\nThe mixing ratio.\nHair colourants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary black henna tattoos may increase your risk of allergy. Do not colour your hair if: — you have a rash on your face or sensitive, irritated and damaged scalp,\n— you have ever experienced any reaction after colouring your hair, — you have experienced a reaction to a temporary black henna tattoo in the past."
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 0,5 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1444596-49-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-chloro-4-{(E)-[3-(methylthio)-1,2,4-thiadiazol-5-yl]diazenyl}phenol"
+              }
+            }
+          ],
+          "unchanged": 389,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -314,6 +1556,110 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN V",
+              "table": 1,
+              "key": "61",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "61",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "61",
+                    "Silver zinc zeolite",
+                    "Ammonium Silver Zinc Aluminium Silicate",
+                    "130328-20-0",
+                    "603-404-0",
+                    "(a) Deodorant spray\n(b) Powder foundation",
+                    "(a) and (b)\n1 %",
+                    "For (a) and (b) the silver content in Ammonium Silver Zinc Aluminium Silicate must not exceed 2,5 %.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "130328-20-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "603-404-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Silver zinc zeolite"
+              }
+            }
+          ],
+          "unchanged": 62,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -415,6 +1761,142 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "28",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28",
+                    "Benzoic acid, 2-[-4-(diethylamino)-2-hydroxybenzoyl]-. Hexylester",
+                    "Diethylamino Hydroxy benzoyl Hexyl Benzoate",
+                    "302776-68-7",
+                    "443-860-6",
+                    "",
+                    "10 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "302776-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "443-860-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzoic acid, 2-[-4-(diethylamino)-2-hydroxybenzoyl]-. Hexylester"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28",
+                    "Benzoic acid, 2-[4-(diethylamino)-2- hydroxybenzoyl]-, hexyl ester\n",
+                    "Diethylamino Hydroxybenzoyl Hexyl Benzoate (DHHB)",
+                    "302776-68-7",
+                    "443-860-6",
+                    "",
+                    "10 %",
+                    "Di-n-hexyl phthalate (DnHexP) as an unavoidable trace impurity in DHHB must not exceed 10 ppm.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "302776-68-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "443-860-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzoic acid, 2-[4-(diethylamino)-2- hydroxybenzoyl]-, hexyl ester"
+              }
+            }
+          ],
+          "unchanged": 36,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -753,6 +2235,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 4,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 4,
       "repaired": 4,
       "remaining": 0,
