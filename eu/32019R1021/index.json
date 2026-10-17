@@ -12,10 +12,10 @@
       "in_force": [
         "2026-09-30"
       ],
-      "updated_on": "2026-10-08",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32019R1021/changes/02019R1021-20260930.json",
-      "sha256": "6a7b0615e895fe5a4b7b659f2f123d9c32931be00be2bd1754dba43569704569",
+      "sha256": "ea9e8d378fe2ed2a50d7d05f65cc4850d1454695b3c2f618d69fea438fd0ac19",
       "diff_only": false,
       "counts": {
         "touched": 1,
@@ -30,6 +30,10 @@
         {
           "kind": "signals",
           "repaired_on": "2026-10-08"
+        },
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
         }
       ],
       "evidence": true,

@@ -26,6 +26,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN I` · *amended by* `32026R1423`
 
+Table entries: 1 added, 0 amended, 0 removed: "Chlorpyrifos"
+
 The later version adds a new substance entry for Chlorpyrifos, listing its CAS number 2921-88-2 and EC number 220-864-4, at the end of Part A before Part B. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260930#anx_I)
 
 This new entry states that, for that entry, point (b) of Article 4(1) applies to concentrations of chlorpyrifos equal to or below 0,01 mg/kg (0,000001 % by weight) where present in substances, mixtures or articles. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260930#anx_I)
