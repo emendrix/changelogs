@@ -3439,6 +3439,8 @@ Because the provided texts are truncated partway through the table, only these c
 
 *within* `AN VI SCT 3` · *amended by* `32020R1182`
 
+Table entries: 37 added, 21 amended, 0 removed: Index No 007-004-00-1, Index No 007-030-00-3, Index No 014-018-00-1, Index No 014-048-00-5, Index No 014-049-00-0, Index No 014-050-00-6, Index No 015-134-00-5, Index No 015-181-00-1, Index No 016-098-00-3, Index No 029-024-00-X and 48 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02008R1272-20211001`)
