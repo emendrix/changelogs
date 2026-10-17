@@ -3390,6 +3390,8 @@ All of the hazard statement codes, language entries, and translated phrases show
 
 *within* `AN VI SCT 3` · *amended by* `32021R0849`
 
+Table entries: 23 added, 53 amended (15 only in spacing, dash forms or accents), 2 removed: Index No 005-007-00-2, Index No 005-008-00-8, Index No 005-011-00-4, Index No 005-011-01-1, Index No 005-011-02-9, Index No 006-069-00-3, Index No 006-076-00-1, Index No 015-113-00-0, Index No 028-007-00-4, Index No 029-002-00-X and 68 more
+
 In the visible portion of Section 3's table, several boron entries have been altered: the boric acid entry (005-007-00-2) and the diboron trioxide entry (005-008-00-8) drop the specific-concentration-limit notes and percentage thresholds for Repr. 1B / H360FD that appeared in the earlier text. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20220301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_VI)
 
 Entry 005-011-00-4, previously listed as disodium tetraborate anhydrous with two separate related entries for the decahydrate and pentahydrate forms (005-011-01-1 and 005-011-02-9), is replaced by a single consolidated entry combining tetraboron disodium heptaoxide hydrate, disodium tetraborate anhydrous, orthoboric acid sodium salt, disodium tetraborate decahydrate and disodium tetraborate pentahydrate as five components with corresponding EC and CAS numbers, without the earlier percentage-based concentration limit notes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20220301#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_VI)
