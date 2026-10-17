@@ -4162,6 +4162,8 @@ Entry 25 for Triclosan now sets out separate maximum concentrations and specific
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
+Table entries: 0 added, 1 amended, 0 removed: Reference number 433
+
 Within the visible portion of the text, the only detectable difference is the removal of a stray closing parenthesis after the entry for substance 433, Pseudoionone, which appears with the extra bracket in the earlier version and without it in the later version. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II)
 
 Both texts are truncated at the same later point, so no comparison can be made beyond entry 546 and any further differences in the omitted portion cannot be described. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_II)
@@ -4363,6 +4365,8 @@ Both texts are truncated at the same later point, so no comparison can be made b
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32013R0483`
+
+Table entries: 2 added, 11 amended (2 only in spacing, dash forms or accents), 0 removed: Reference number 8b, Reference number 9a, Reference number 12, Reference number 22, Reference number 203, Reference number 217, Reference number 225, Reference number 229, Reference number 241, Reference number 242 and 3 more
 
 A new entry 8b has been added for p-Phenylenediamine and its salts, restricting their use in products intended for colouring eyelashes with a maximum concentration of 2% calculated as free base after mixing and limiting such use to professional application. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20140401#anx_III)
 
