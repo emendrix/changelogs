@@ -355,6 +355,8 @@ The table itself is expanded to list these two substances, with their EC numbers
 
 *within* `AN I` · *amended by* `32021R0407`
 
+Table entries: 1 added, 0 amended, 0 removed: "Citric acid"
+
 The after text adds an explanatory paragraph stating that the purity figure listed in the column reflects the minimum degree of purity of the active substance as evaluated, and that the active substance placed on the market may be of equal or different purity if shown to be technically equivalent to the substance evaluated. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210329#anx_I)
 
 The after text also inserts a new entry for Citric acid, listing its EC number, a minimum degree of purity of 995 g/kg, and its CAS number, within Category 6 alongside the existing Carbon dioxide and Nitrogen entries. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20210329#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20191120#anx_I)
