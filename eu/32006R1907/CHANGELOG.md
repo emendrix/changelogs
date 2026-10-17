@@ -3873,6 +3873,8 @@ A new subparagraph has been inserted at the end of entry 23, paragraph 1, statin
 
 *within* `AN XVII` · *amended by* `32012R0412`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 61
+
 The visible portion of the two texts is essentially identical in substance, with the only differences being formatting artifacts such as line breaks, spacing and paragraph wrapping around entry headings and sub-items. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII)
 
 Both versions are cut off before the end of the annex, so any substantive differences that may exist beyond the truncation point cannot be described here. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII)
