@@ -4362,7 +4362,7 @@ The Annex's own text states differing compliance dates for different categories 
 ### `02008R1272-20190726` → `02008R1272-20191201`
 
 - **Act** `eu:32008R1272` · **In force** 2019-12-01 · **Detected** 2026-09-04
-- **Touched** 4 provisions — 4 substantive · 0 date-only · **3 disputed**
+- **Touched** 4 provisions — 4 substantive · 0 date-only · 0 with no text · **3 disputed**
 - **Diff** 0 inserted · 4 modified · 0 deleted · 0 renumbered · 0 deferred · 68 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20190726` · `v2` = `02008R1272-20191201`
@@ -4373,7 +4373,7 @@ The Annex's own text states differing compliance dates for different categories 
 
 *within* `AR 58 ALN 1 PO 16 PTA (b)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The two texts of Article 58 are identical in substance, including the wording of point 16(b) on entry 40 of Annex XVII, with the only visible difference being the removal of a trailing double period after the final sentence. [Art. 58, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_58) [Art. 58, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20191201#art_58)
 
@@ -4417,7 +4417,7 @@ The two texts of Article 58 are identical in substance, including the wording of
 
 *within* `AR 59 ALN 1 PO 7 PTA (b) PTI (ii)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The two texts are identical in substance, with the only visible difference being that the final entry ends with a single closing period rather than a double period mark. [Art. 59, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#art_59) [Art. 59, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20191201#art_59)
 
@@ -4459,6 +4459,8 @@ The two texts are identical in substance, with the only visible difference being
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.1 SCT 1.1.1.4`, `AN VI SCT 3` · *amended by* `32018R0669`, `32018R1480`, `32020R0217`
 
+Table entries: 0 added, 1306 amended (496 only in spacing, dash forms or accents), 1 removed: Index No 005-007-00-2, Index No 005-008-00-8, Index No 005-010-00-9, Index No 005-011-00-4, Index No 005-011-01-1, Index No 005-011-02-9, Index No 005-017-00-7, Index No 005-017-01-4, Index No 005-018-00-2, Index No 005-019-01-5 and 1297 more
+
 The heading of section 1.1.1.4 was renamed from 'International Chemical Identification' to 'Chemical name', though the body text of that section remains the same. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20191201#anx_VI)
 
 In the Table 3 header, the column previously labelled 'International Chemical Identification' is now labelled 'Chemical name', and the column previously labelled 'Specific Conc. Limits, M-factors and ATE' is now labelled 'Specific Conc. Limits, M-factors', dropping the reference to Acute Toxicity Estimates (ATE). [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20190726#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20191201#anx_VI)
@@ -4495,7 +4497,7 @@ The visible portion of the entries table otherwise continues with the same subst
 
 *within* `AN VII SCT 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only visible difference is in Note 4, where the phrase describing the unborn child gained a stray character, rendering it as "unborn childñ" instead of "unborn child". [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20191201#anx_VII)
 

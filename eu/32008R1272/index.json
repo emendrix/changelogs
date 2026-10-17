@@ -671,10 +671,10 @@
       "in_force": [
         "2019-12-01"
       ],
-      "updated_on": "2026-09-04",
-      "schema_version": "1.0",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32008R1272/changes/02008R1272-20191201.json",
-      "sha256": "7a8f7b751132e8eda9cf2ed26748e6e1781ca3955c15aca5f21baeb4ad23b785",
+      "sha256": "271a582deddf91c6c669b595939e5d8f9b4b6ed8a9d33cc6aacea672dddfb1fd",
       "diff_only": false,
       "counts": {
         "touched": 4,
@@ -685,7 +685,12 @@
         "quoted": 0,
         "unexplained": 0
       },
-      "repairs": [],
+      "repairs": [
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
+        }
+      ],
       "evidence": false,
       "metadata_only_units": [],
       "instruction_only_units": []
