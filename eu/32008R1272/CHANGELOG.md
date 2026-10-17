@@ -976,6 +976,8 @@ The remainder of the visible Annex VI text, including the introductory parts and
 
 *within* `AN VI SCT 3` · *amended by* `32024R0197`
 
+Table entries: 28 added, 25 amended (1 only in spacing, dash forms or accents), 0 removed: Index No 006-015-00-9, Index No 015-203-00-X, Index No 015-204-00-5, Index No 015-205-00-0, Index No 015-206-00-6, Index No 015-207-00-1, Index No 015-208-00-7, Index No 016-001-00-4, Index No 016-011-00-9, Index No 017-004-00-3 and 43 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02008R1272-20250201`)
