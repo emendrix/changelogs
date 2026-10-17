@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -53,6 +53,446 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "288",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "288",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "288",
+                    "3-[(4-amino-3-methyl-9,10-dioxo-9,10-dihydroanthracen-1-yl)amino]-N,N,N -trimethylpropan-1-aminium, methylsulfate salt",
+                    "HC Blue No 17",
+                    "16517-75-2",
+                    "605-392-2",
+                    "(a) Hair dye substance in oxidative hair dye products\n(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 2,0 %",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 2,0 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label: The mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "16517-75-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "605-392-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-[(4-amino-3-methyl-9,10-dioxo-9,10-dihydroanthracen-1-yl)amino]-N,N,N -trimethylpropan-1-aminium, methylsulfate salt"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "289",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "289",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "289",
+                    "Phosphoric acid compound with 4-[(2,6-dichlorophenyl) (4-imino-3,5-dimethyl-2,5-cyclohexadien-1-ylidene) methyl]-2,6-dimethylaniline (1:1)",
+                    "HC Blue No 15",
+                    "74578-10-2",
+                    "277-929-5",
+                    "(a) Hair dye substance in oxidative hair dye products\n(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 0,2 %",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,2 %",
+                    "(a) To be printed on the label: The mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "74578-10-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "277-929-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phosphoric acid compound with 4-[(2,6-dichlorophenyl) (4-imino-3,5-dimethyl-2,5-cyclohexadien-1-ylidene) methyl]-2,6-dimethylaniline (1:1)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "290",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "290",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "290",
+                    "Disodium 2,2′-(9,10-dioxoanthracene-1,4-diyldiimino)bis(5-methylsulphonate)",
+                    "Acid Green 25",
+                    "4403-90-1",
+                    "224-546-6",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "0,3 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4403-90-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "224-546-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium 2,2′-(9,10-dioxoanthracene-1,4-diyldiimino)bis(5-methylsulphonate)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "291",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "291",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "291",
+                    "Sodium, 4-[(9,10-dihydro-4-hydroxy-9,10-dioxo-1-anthryl)amino]toluene-3-sulphonate",
+                    "Acid Violet 43",
+                    "4430-18-6",
+                    "224-618-7",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "0,5 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4430-18-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "224-618-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium, 4-[(9,10-dihydro-4-hydroxy-9,10-dioxo-1-anthryl)amino]toluene-3-sulphonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "292",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "292",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "292",
+                    "1,4-Benzenediamine, 2-(methoxymethyl)\n1,4-Benzenediamine, 2-(methoxymethyl)-, sulfate",
+                    "2-Methoxymethyl-p-Phenylenediamine\n2-Methoxymethyl-p-Phenylenediamine Sulfate",
+                    "337906-36-2\n337906-37-3",
+                    "",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,8 % (calculated as free base)",
+                    "To be printed on the label: The mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "337906-36-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "337906-37-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,4-Benzenediamine, 2-(methoxymethyl)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "293",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "293",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "293",
+                    "1-N-Methylmorpholiniumpropylamino-4-hydroxyanthraquinone, methyl sulfate",
+                    "Hydroxyanthraquinone-aminopropyl Methyl Morpholinium Methosulfate",
+                    "38866-20-5",
+                    "254-161-9",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "0,5 %",
+                    "Do not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "To be printed on the label:\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "38866-20-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-161-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-N-Methylmorpholiniumpropylamino-4-hydroxyanthraquinone, methyl sulfate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "294",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "294",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "294",
+                    "Ethanol, 2,2′-[[3-methyl-4-[(E)-(4-nitrophenyl)azo]phenyl]imino]bis-",
+                    "Disperse Red 17",
+                    "3179-89-3",
+                    "221-665-5",
+                    "(a) Hair dye substance in oxidative hair dye products\n(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) 0,2 %",
+                    "(a) After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 2,0 %\nFor (a) and (b):\nDo not use with nitrosating agents\nMaximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    "(a) To be printed on the label: The mixing ratio.\n Hair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3179-89-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-665-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethanol, 2,2′-[[3-methyl-4-[(E)-(4-nitrophenyl)azo]phenyl]imino]bis-"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "295",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "295",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "295",
+                    "4-Amino-5-hydroxy-3-(4-nitrophenylazo)-6-(phenylazo)-2,7-naphthalenedisulfonic acid, disodium salt",
+                    "Acid Black 1",
+                    "1064-48-8",
+                    "213-903-1",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "0,5 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1064-48-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "213-903-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Amino-5-hydroxy-3-(4-nitrophenylazo)-6-(phenylazo)-2,7-naphthalenedisulfonic acid, disodium salt"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "296",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "296",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "296",
+                    "Disodium 3-hydroxy-4-[(E)-(4-methyl-2-sulfonatophenyl)diazenyl]-2-naphthoate",
+                    "Pigment Red 57",
+                    "5858-81-1",
+                    "227-497-9",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "0,4 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5858-81-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-497-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium 3-hydroxy-4-[(E)-(4-methyl-2-sulfonatophenyl)diazenyl]-2-naphthoate"
+              }
+            }
+          ],
+          "unchanged": 296,
+          "whitespace_only": 1,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -79,7 +519,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -158,6 +599,218 @@
         "changed_within": [
           "AN IV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN IV",
+              "container": "AN IV",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical Name",
+                  "Colour index Number/Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Colour",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i",
+                  "j"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "126",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "126",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "126",
+                    "Carbon black",
+                    "77266",
+                    "",
+                    "215-609-9",
+                    "Black",
+                    "",
+                    "",
+                    "Purity criteria as set out in Commission Directive 95/45/EC (E 153)",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "215-609-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbon black"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "126",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "126",
+                    "Carbon black",
+                    "77266",
+                    "1333-86-4, 7440-44-0",
+                    "215-609-9, 231-153-3, 931-328-0, 931-334-3",
+                    "Black",
+                    "",
+                    "",
+                    "Purity > 97 %, with the following impurity profile: Ash content ≤ 0,15 %, total sulphur ≤ 0,65 %, total PAH ≤ 500 ppb and benzo(a)pyrene ≤ 5 ppb, dibenz(a,h)anthracene ≤ 5 ppb, total As ≤ 3 ppm, total Pb ≤ 10 ppm, total Hg ≤ 1 ppm.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1333-86-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7440-44-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-609-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-153-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "931-328-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "931-334-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbon black"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN IV",
+              "table": 1,
+              "key": "126a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "126a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "126a",
+                    "Carbon black",
+                    "77266 (nano)\nCarbon Black (nano)",
+                    "1333-86-4, 7440-44-0",
+                    "215-609-9, 231-153-3, 931-328-0, 931-334-3",
+                    "Black",
+                    "",
+                    "10 %",
+                    "Not to be used in applications that may lead to exposure of the end user's lungs by inhalation.\nOnly nanomaterials having the following characteristics are allowed:\nPurity > 97 %, with the following impurity profile: Ash content ≤ 0,15 %, total sulphur ≤ 0,65 %, total PAH ≤ 500 ppb and benzo(a)pyrene ≤ 5 ppb, dibenz(a,h)anthracene ≤ 5 ppb, total As ≤ 3 ppm, total Pb ≤ 10 ppm, and total Hg ≤ 1 ppm;\nPrimary particle size ≥ 20 nm.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1333-86-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7440-44-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-609-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-153-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "931-328-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "931-334-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbon black"
+              }
+            }
+          ],
+          "unchanged": 152,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -192,7 +845,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -290,6 +944,153 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "58",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "58",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "58",
+                    "Ethyl-N-alpha-dodecanoyl-L-arginate hydrochloride\n",
+                    "Ethyl Lauroyl Arginate HCl",
+                    "60372-77-2",
+                    "434-630-6",
+                    "",
+                    "0,4 %",
+                    "Not to be used in lip products, oral products and spray products",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60372-77-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "434-630-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethyl-N-alpha-dodecanoyl-L-arginate hydrochloride"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "58",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "58",
+                    "Ethyl-N-alpha-dodecanoyl-L-arginate hydrochloride\n",
+                    "Ethyl Lauroyl Arginate HCl",
+                    "60372-77-2",
+                    "434-630-6",
+                    "(a) Mouthwashes",
+                    "(a) 0,15 %",
+                    "(a) Not to be used in preparations for children under 10 years of age",
+                    "(a) Not to be used for children under 10 years of age"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Other products",
+                    "(b) 0,4 %",
+                    "(b) Not to be used in lip products, oral products (other than mouthwashes), and spray products",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60372-77-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "434-630-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethyl-N-alpha-dodecanoyl-L-arginate hydrochloride"
+              }
+            }
+          ],
+          "unchanged": 60,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -324,7 +1125,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -390,6 +1192,232 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "27",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "27",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27",
+                    "Titanium dioxide\n",
+                    "Titanium Dioxide",
+                    "13463-67-7/1317-70-0/1317-80-2",
+                    "236-675-5/205-280-1/215-282-2",
+                    "",
+                    "25 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-70-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1317-80-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13463-67-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-280-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-282-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "27",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27",
+                    "Titanium dioxide\n",
+                    "Titanium Dioxide",
+                    "13463-67-7/\n1317-70-0/\n1317-80-2",
+                    "236-675-5/\n215-280-1/\n215-282-2",
+                    "",
+                    "25 %\n",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-70-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1317-80-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13463-67-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-280-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-282-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN VI",
+              "table": 1,
+              "key": "27a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "27a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27a",
+                    "Titanium dioxide\n",
+                    "Titanium Dioxide (nano)",
+                    "13463-67-7/\n1317-70-0/\n1317-80-2",
+                    "236-675-5/\n215-280-1/\n215-282-2",
+                    "",
+                    "25 %\n",
+                    "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation\nOnly nanomaterials having the following characteristics are allowed:\npurity ≥ 99 %,\nrutile form, or rutile with up to 5 % anatase, with crystalline structure and physical appearance as clusters of spherical, needle, or lanceolate shapes,\nmedian particle size based on number size distribution ≥ 30 nm,\naspect ratio from 1 to 4,5, and volume specific surface area ≤ 460 m2/cm3,\ncoated with Silica, Hydrated Silica, Alumina, Aluminium Hydroxide, Aluminium Stearate, Stearic Acid, Trimethoxycaprylylsilane, Glycerin, Dimethicone, Hydrogen Dimethicone, Simethicone;\nphotocatalytic activity ≤ 10 % compared to corresponding non-coated or non-doped reference,\nnanoparticles are photostable in the final formulation.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-70-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1317-80-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13463-67-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-280-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-282-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              }
+            }
+          ],
+          "unchanged": 29,
+          "whitespace_only": 1,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -424,7 +1452,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -603,7 +1632,8 @@
         ]
       }
     ],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -651,6 +1681,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 4,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

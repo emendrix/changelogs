@@ -3118,7 +3118,9 @@ In entry 57, the product type/body parts column was changed from being blank to 
 
 *within* `AN III`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
+
+Table entries: 9 added, 0 amended, 0 removed: Reference number 288, Reference number 289, Reference number 290, Reference number 291, Reference number 292, Reference number 293, Reference number 294, Reference number 295, Reference number 296
 
 The visible portions of Annex III are identical between the two versions, and the only detectable difference is that more text follows after the point where each excerpt was cut off, with the AFTER text truncated later than the BEFORE text. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160512#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_III)
 
@@ -3168,6 +3170,8 @@ Because both texts are cut short before reaching the end of the annex, any diffe
 
 *within* `AN IV` · *amended by* `32016R1120`
 
+Table entries: 1 added, 1 amended, 0 removed: Reference number 126, Reference number 126a
+
 Entry 126 for Carbon black (CI 77266) now lists additional CAS and EC numbers and adds detailed purity and impurity limits covering ash content, total sulphur, total PAH, benzo(a)pyrene, dibenz(a,h)anthracene, arsenic, lead and mercury, replacing the earlier entry that only carried a single EC number and a general purity-criteria reference. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_IV)
 
 A new entry 126a is added for Carbon black (nano), giving the same CAS/EC identifiers, a Black colour designation, a 10 % maximum concentration, a restriction against use where it could expose the end user's lungs by inhalation, and conditions requiring specific purity and a minimum primary particle size of 20 nm for the nanomaterial. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_IV)
@@ -3201,6 +3205,8 @@ All other entries and the preamble text of the list remain the same between the 
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32016R1121`
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 58
 
 Entry 58, for Ethyl Lauroyl Arginate HCl, was split into two separate product-type rows: one for mouthwashes with a maximum concentration of 0,15% and a restriction on use in preparations for children under 10 years of age, and another for other products with a maximum concentration of 0,4% and a restriction on use in lip products, oral products other than mouthwashes, and spray products. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_V)
 
@@ -3255,6 +3261,8 @@ In the earlier version, entry 58 set a single maximum concentration of 0,4% with
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32016R1143`
+
+Table entries: 1 added, 1 amended, 0 removed: Reference number 27, Reference number 27a
 
 The introductory note on Annex IV No 143 was changed from referring to use other than as a colorant to referring to use as a colorant, and a new sentence was added stating that when zinc oxide and zinc oxide (nano) are combined, the sum must not exceed the limit in column g, alongside an added analogous sentence for combined use of Titanium Dioxide and Titanium Dioxide (nano). [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20160810#anx_VI)
 
