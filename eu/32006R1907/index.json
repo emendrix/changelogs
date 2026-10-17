@@ -1932,10 +1932,10 @@
         "2012-01-10",
         "2012-02-18"
       ],
-      "updated_on": "2026-09-05",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32006R1907/changes/02006R1907-20120601.json",
-      "sha256": "542d824705d3f752be2703e9b3304c17a9a490044969478bc91badaf795fbaa4",
+      "sha256": "205c0c55da44de9c8cc9e3c3385be089a20dc8ea3c9b3f9418e655c0e1477760",
       "diff_only": false,
       "counts": {
         "touched": 2,
@@ -1950,6 +1950,10 @@
         {
           "kind": "evidence",
           "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
         }
       ],
       "evidence": true,

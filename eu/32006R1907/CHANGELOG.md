@@ -3965,6 +3965,8 @@ Both versions are cut off before the end of the annex, so any substantive differ
 
 *within* `AN XIV` · *dates* +2013-11-21 +2015-05-21 · *amended by* `32012R0125`
 
+Table entries: 8 added, 0 amended, 0 removed: Entry 7, Entry 8, Entry 9, Entry 10, Entry 11, Entry 12, Entry 13, Entry 14
+
 The list of substances in Annex XIV has been expanded from six entries to fourteen, adding Diisobutyl phthalate, Diarsenic trioxide, Diarsenic pentaoxide, Lead chromate, Lead sulfochromate yellow, Lead chromate molybdate sulphate red, Tris (2-chloroethyl) phosphate, and 2,4-Dinitrotoluene, each with its own intrinsic property, latest application date and sunset date. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20111210#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XIV)
 
 The six entries already present in the earlier version are carried over with the same substance identifiers, properties, and dates, and only formatting differences such as line breaks separate the two presentations of those rows. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20111210#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XIV)
@@ -4132,6 +4134,8 @@ The six entries already present in the earlier version are carried over with the
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6`, `AN XVII APP 11` · *dates* +2013-06-01 · *amended by* `32011R0494`, `32012R0109`
+
+Table entries: 383 added, 22 amended, 0 removed: Entry 28, Index No 028-003-00-2, Index No 028-006-00-9, Index No 028-007-00-4, Index No 028-008-00-X, Index No 028-009-00-5, Index No 028-010-00-0, Index No 028-011-00-6, Index No 028-012-00-1, Index No 028-013-00-7 and 395 more
 
 A new derogation was added to the entries-28-to-30 conditions of restriction, exempting substances listed in Appendix 11, column 1, for the applications or uses listed in Appendix 11, column 2, with the derogation applying until any date specified in column 2 of that appendix. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120601#anx_XVII)
 
