@@ -1654,6 +1654,8 @@ Part 5's heading changed from naming a list of hazardous substances and mixtures
 
 *within* `AN VI SCT 3` · *amended by* `32023R1435`
 
+Table entries: 0 added, 4 amended, 0 removed: Index No 005-007-00-2, Index No 005-008-00-8, Index No 005-011-00-4, Index No 607-230-00-6
+
 Several boron entries in Table 3 (boric acid, diboron trioxide, tetraboron disodium heptaoxide hydrate and related salts) now carry a Note 11 reference in the Notes column, which was absent for these entries before. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VI)
 
 The entry for tetraboron disodium heptaoxide hydrate and its related salts also gained an added semicolon separating the listed salt names. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20250201#anx_VI)
