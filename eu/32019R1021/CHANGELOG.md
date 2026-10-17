@@ -515,6 +515,8 @@ No other wording in Part A or Part B of the Annex differs between the two texts 
 
 *within* `AN I` · *dates* -2022-07-05 +2023-08-18 +2023-08-25 · *amended by* `32023R0866`
 
+Table entries: 0 added, 1 amended, 0 removed: "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
+
 In the PFOA entry, point 3's review-and-assessment deadline for the transported isolated intermediate exemption was changed from 5 July 2022 to 25 August 2023. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230610#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230818#anx_I)
 
 Point 4 was rewritten: the reference to Article 4(1), point (b) is now expressed differently, an end date of 18 August 2023 was added for the PTFE micropowder use, the previous 5 July 2022 review deadline sentence was removed, and a new final sentence was added limiting the 1 mg/kg threshold to manufacture, placing on the market and use of PFOA and its salts present in PTFE micropowders transported or treated to reduce PFOA concentration below 0,025 mg/kg. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230610#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230818#anx_I)
