@@ -37,7 +37,7 @@
       "key": "32008R1272",
       "title": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)",
       "index": "eu/32008R1272/index.json",
-      "index_sha256": "6cc07bcf0c91983015520af6d1a20b3ac7be12ee886210499f3520f4492cde32",
+      "index_sha256": "7fa469422aed73509ac787b3acc3e2be82c68e0b86aeb0f8e1c5e1aadc52f9e7",
       "events": 31,
       "changes": 186,
       "provisions": 49,
@@ -45,7 +45,7 @@
       "newest_version": "02008R1272-20270101",
       "newest_in_force": "2027-01-01",
       "first_detected_on": "2026-08-13",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-10-17"
     },
     {
       "corpus": "eu",

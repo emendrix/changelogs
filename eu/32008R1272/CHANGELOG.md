@@ -8507,6 +8507,8 @@ Because both texts were cut short before their end, any further differences beyo
 
 **DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
+Table entries: 1527 added, 1152 amended (3 only in spacing, dash forms or accents), 0 removed: Index No 001-002-00-4, Index No 003-003-00-5, Index No 005-006-00-7, Index No 005-007-00-2, Index No 005-008-00-8, Index No 005-011-00-4, Index No 005-011-01-1, Index No 005-011-02-9, Index No 005-013-00-5, Index No 005-014-00-0 and 2669 more
+
 The table of hazardous substance entries in Part 3 has been revised, with some entries such as aluminium lithium hydride and dibutyltin hydrogen borate given different classification, labelling and specific concentration limit details, and new entries such as isobutyllithium and several boron and borate substances added. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
 
 The introductory text of sections 1, 1.1 and 1.1.4.4 is substantively unchanged, with only formatting differences such as line breaks and spacing visible between the two versions. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32008R1272#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20101201#anx_VI)
