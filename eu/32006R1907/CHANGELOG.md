@@ -1216,6 +1216,8 @@ The transitional arrangements for these same four entries have been expanded to 
 
 *within* `AN XVII` · *dates* +2022-08-09 +2022-08-10 · *amended by* `32021R1199`, `32021R1297`
 
+Table entries: 0 added, 1 amended, 0 removed: Entry 50
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20210705`)
