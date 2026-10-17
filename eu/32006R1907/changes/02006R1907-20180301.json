@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -55,6 +55,991 @@
           "AN XVII APP 5",
           "AN XVII APP 6"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "014-046-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "014-046-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "E-glass microfibers of representative composition; [Calcium-aluminium-silicate fibres with random orientation with the following representative composition (% given by weight): SiO2 50,0-56,0 %, Al2O3 13,0-16,0 %, B2O3 5,8-10,0 %, Na2O < 0,6 %, K2O < 0,4 %, CaO 15,0-24,0 %, MgO < 5,5 %, Fe2O3 < 0,5 %, F2 < 1,0 %. Process: typically produced by flame attenuation and rotary process. (Additional individual elements may be present at low levels; the process list does not preclude innovation).]",
+                    "014-046-00-4",
+                    "—",
+                    "—",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "014-046-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "E-glass microfibers of representative composition; [Calcium-aluminium-silicate fibres with random orientation with the following representative composition (% given by weight): SiO2 50,0-56,0 %, Al2O3 13,0-16,0 %, B2O3 5,8-10,0 %, Na2O < 0,6 %, K2O < 0,4 %, CaO 15,0-24,0 %, MgO < 5,5 %, Fe2O3 < 0,5 %, F2 < 1,0 %. Process: typically produced by flame attenuation and rotary process. (Additional individual elements may be present at low levels; the process list does not preclude innovation).]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "602-020-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "602-020-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-dichloropropane; propylene dichloride",
+                    "602-020-00-0",
+                    "201-152-2",
+                    "78-87-5",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "78-87-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-152-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "602-020-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-dichloropropane; propylene dichloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "608-067-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "608-067-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3,7-dimethylocta-2,6-dienenitrile",
+                    "608-067-00-3",
+                    "225-918-0",
+                    "5146-66-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5146-66-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "225-918-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "608-067-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,7-dimethylocta-2,6-dienenitrile"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key": "082-013-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 5",
+                "table": 1,
+                "key": "082-013-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lead powder;\n[particle diameter < 1 mm]",
+                    "082-013-00-1",
+                    "231-100-4",
+                    "7439-92-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "082-013-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead powder;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key": "082-014-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 5",
+                "table": 1,
+                "key": "082-014-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lead massive:\n[particle diameter ≥ 1 mm]",
+                    "082-014-00-7",
+                    "231-100-4",
+                    "7439-92-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "082-014-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead massive:"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key": "607-056-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 5",
+                "table": 1,
+                "key": "607-056-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Warfarin; 4-hydroxy-3-(3-oxo-1-phenylbutyl)coumarin",
+                    "607-056-00-0",
+                    "201-377-6",
+                    "81-81-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "81-81-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-377-6"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-056-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Warfarin; 4-hydroxy-3-(3-oxo-1-phenylbutyl)coumarin"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 5",
+                "table": 1,
+                "key": "607-056-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Warfarin (ISO);\n4-hydroxy-3-(3-oxo-1- phenylbutyl)-2H-chromen-2-one; [1]\n(S)-4-hydroxy-3-(3-oxo- 1-phenylbutyl)-2-benzopyrone; [2]\n(R)-4-hydroxy-3-(3-oxo- 1-phenylbutyl)-2-benzopyrone [3]",
+                    "607-056-00-0",
+                    "201-377-6 [1]\n226-907-3 [2]\n226-908-9 [3]",
+                    "81-81-2 [1]\n5543-57-7 [2]\n5543-58-8 [3]",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5543-57-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "5543-58-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "81-81-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-377-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-907-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-908-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-056-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Warfarin (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key": "607-172-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 5",
+                "table": 1,
+                "key": "607-172-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Brodifacoum (ISO);\n4-hydroxy-3-(3-(4′-bromo-4-biphenylyl)-1,2,3,4-tetrahydro-1-naphthyl)coumarin",
+                    "607-172-00-1",
+                    "259-980-5",
+                    "56073-10-0",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56073-10-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "259-980-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-172-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Brodifacoum (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "005-020-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "005-020-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disodium octaborate anhydrous; [1]\nDisodium octaborate tetrahydrate [2]",
+                    "005-020-00-3",
+                    "234-541-0 [1]\n234-541-0 [2]",
+                    "12008-41-2 [1]\n12280-03-4 [2]",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12008-41-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12280-03-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-541-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "005-020-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disodium octaborate anhydrous; [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "604-030-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "604-030-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bisphenol A; 4,4′-isopropylidenediphenol",
+                    "604-030-00-0",
+                    "201-245-8",
+                    "80-05-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "80-05-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-245-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "604-030-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bisphenol A; 4,4′-isopropylidenediphenol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "604-092-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "604-092-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Phenol, dodecyl-, branched; [1]\nPhenol, 2-dodecyl-, branched; [2]\nPhenol, 3-dodecyl-, branched; [3]\nPhenol, 4-dodecyl-, branched; [4]\nPhenol, (tetrapropenyl) derivatives [5]",
+                    "604-092-00-9",
+                    "310-154-3 [1]\n- [2]\n- [3]\n- [4]\n- [5]",
+                    "121158-58-5 [1]\n- [2]\n- [3]\n210555-94-5 [4]\n74499-35-7 [5]",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "121158-58-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "210555-94-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "74499-35-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "310-154-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "604-092-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phenol, dodecyl-, branched; [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "606-014-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "606-014-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chlorophacinone (ISO);2-[(4-chlorophenyl)(phenyl)acetyl]-1H-indene-1,3(2H)-dione",
+                    "606-014-00-9",
+                    "223-003-0",
+                    "3691-35-8",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3691-35-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-003-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "606-014-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chlorophacinone (ISO);2-[(4-chlorophenyl)(phenyl)acetyl]-1H-indene-1,3(2H)-dione"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-059-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-059-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Coumatetralyl (ISO); 4-hydroxy-3-(1,2,3,4-tetrahydro-1-naphthyl)coumarin",
+                    "607-059-00-7",
+                    "227-424-0",
+                    "5836-29-3",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5836-29-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-424-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-059-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Coumatetralyl (ISO); 4-hydroxy-3-(1,2,3,4-tetrahydro-1-naphthyl)coumarin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-157-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-157-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Difenacoum (ISO); 3-(3-biphenyl-4-yl-1,2,3,4-tetrahydro-1-naphthyl)-4-hydroxycoumarin",
+                    "607-157-00-X",
+                    "259-978-4",
+                    "56073-07-5",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "56073-07-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "259-978-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-157-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Difenacoum (ISO); 3-(3-biphenyl-4-yl-1,2,3,4-tetrahydro-1-naphthyl)-4-hydroxycoumarin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-375-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-375-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Flocoumafen (ISO); reaction mass of: cis-4-hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin and trans-4-hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin",
+                    "607-375-00-5",
+                    "421-960-0",
+                    "90035-08-8",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90035-08-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "421-960-0"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-375-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Flocoumafen (ISO); reaction mass of: cis-4-hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin and trans-4-hydroxy-3-(1,2,3,4-tetrahydro-3-(4-(4-trifluoromethylbenzyloxy)phenyl)-1-naphthyl)coumarin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-716-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-716-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bromadiolone (ISO); 3-[3-(4′-bromobiphenyl-4-yl)-3-hydroxy-1-phenylpropyl]-4-hydroxy-2H-chromen-2-one",
+                    "607-716-00-8",
+                    "249-205-9",
+                    "28772-56-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "28772-56-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-205-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-716-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bromadiolone (ISO); 3-[3-(4′-bromobiphenyl-4-yl)-3-hydroxy-1-phenylpropyl]-4-hydroxy-2H-chromen-2-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-717-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-717-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Difethialone (ISO);\n3-[3-(4′-bromobiphenyl-4-yl)-1,2,3,4-tetrahydronaphthalen-1-yl]-4-hydroxy-2H-1-benzothiopyran-2-one",
+                    "607-717-00-3",
+                    "—",
+                    "104653-34-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "104653-34-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-717-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Difethialone (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-718-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-718-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorononan-1-oic acid [1]\nand its sodium [2]\nand ammonium [3] salts",
+                    "607-718-00-9",
+                    "206-801-3 [1]\n- [2]\n- [3]",
+                    "375-95-1 [1]\n21049-39-8 [2]\n4149-60-4 [3]",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "21049-39-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "375-95-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "4149-60-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-801-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-718-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorononan-1-oic acid [1]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "607-719-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "607-719-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dicyclohexyl phthalate",
+                    "607-719-00-4",
+                    "201-545-9",
+                    "84-61-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84-61-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-545-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "607-719-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dicyclohexyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "612-289-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "612-289-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triflumizole (ISO);\n(1E)-N-[4-chloro-2-(trifluoromethyl)phenyl]-1-(1H-imidazol-1-yl)-2-propoxyethanimine",
+                    "612-289-00-6",
+                    "—",
+                    "68694-11-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68694-11-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-289-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triflumizole (ISO);"
+              }
+            }
+          ],
+          "unchanged": 1712,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -257,6 +1242,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

@@ -2129,6 +2129,8 @@ The wood-treatment derogation text under entry 31 also differs, with the after t
 
 *within* `AN XVII APP 2`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6` · *amended by* `32017R1510`
 
+Table entries: 18 added, 1 amended, 0 removed: Index No 014-046-00-4, Index No 602-020-00-0, Index No 608-067-00-3, Index No 082-013-00-1, Index No 082-014-00-7, Index No 607-056-00-0, Index No 607-172-00-1, Index No 005-020-00-3, Index No 604-030-00-0, Index No 604-092-00-9 and 9 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20180131`)
