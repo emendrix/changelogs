@@ -380,10 +380,10 @@
         "2022-07-28",
         "2022-07-31"
       ],
-      "updated_on": "2026-09-05",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32009R1223/changes/02009R1223-20220731.json",
-      "sha256": "82fa1e50abdf3d7f032ea306f28c9414a20a2983f3c537ef08958baae6d65f75",
+      "sha256": "1cd3811073a26d9ff4e27a6ecfa88885f18def8be03f0d82de15e2d8a793c9c3",
       "diff_only": false,
       "counts": {
         "touched": 2,
@@ -398,6 +398,10 @@
         {
           "kind": "evidence",
           "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
         }
       ],
       "evidence": true,

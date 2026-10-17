@@ -1049,6 +1049,8 @@ All other wording, entries, substance identifications, concentration limits and 
 
 *within* `AN V SCT 2` · *dates* +2022-07-30 +2024-07-31 +2026-07-31 · *amended by* `32022R1181`
 
+Table entries: none changed.
+
 Paragraph 2 of the preamble changes the required warning wording from "contains formaldehyde" to "releases formaldehyde", and changes the labelling trigger from a formaldehyde concentration exceeding 0,05 % to a total released formaldehyde concentration exceeding 0,001 % (10 ppm), now applying irrespective of whether one or more formaldehyde-releasing substances are present. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220301#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V)
 
 A new sentence is added after paragraph 2 stating that finished products containing the substances referred to in that paragraph which comply with the Regulation as applicable on 30 July 2022 may be placed on the Union market until 31 July 2024 and made available on the Union market until 31 July 2026. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V)
@@ -1097,6 +1099,8 @@ A new sentence is added after paragraph 2 stating that finished products contain
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN VI` · *dates* +2022-07-27 +2023-01-28 +2023-07-28 · *amended by* `32022R1176`
+
+Table entries: 0 added, 2 amended, 0 removed: Reference number 4, Reference number 10
 
 A transitional statement was added allowing cosmetic products containing the substance and complying with the Regulation as it applied on 27 July 2022 to remain on the Union market until 28 January 2023 and to be made available until 28 July 2023, together with a new statement that Benzophenone as an impurity and/or degradation product of Octocrylene shall be kept at trace level. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI)
 

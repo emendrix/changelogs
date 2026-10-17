@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -53,6 +53,67 @@
         "changed_within": [
           "AN V SCT 2"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [],
+          "unchanged": 62,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -92,7 +153,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -171,6 +233,216 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4",
+                    "2-Hydroxy-4-methoxybenzophenone/Oxybenzone",
+                    "Benzophenone-3",
+                    "131-57-7",
+                    "205-031-5",
+                    "",
+                    "6 %",
+                    "Not more than 0,5 % to protect product formulation",
+                    "Contains Benzophenone-3\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131-57-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-031-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Hydroxy-4-methoxybenzophenone/Oxybenzone"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4",
+                    "2-Hydroxy-4-methoxy-benzophenone/Oxybenzone\n",
+                    "Benzophenone-3",
+                    "131-57-7",
+                    "205-031-5",
+                    "a) Face products, hand products, and lip products, excluding propellant and pump spray products\nb) Body products, including propellant and pump spray products\nc) Other products",
+                    "a) 6 %\nb) 2,2 %\nc) 0,5 %",
+                    "For a) and b) Not more than 0,5 % to protect product formulation\na) If used at 0,5 % to protect product formulation, the levels used as UV filter must not exceed 5,5 %.\nb) If used at 0,5 % to protect product formulation, the levels used as UV filter must not exceed 1,7 %.",
+                    "For a) and b):\nContains Benzophenone-3\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131-57-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-031-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Hydroxy-4-methoxy-benzophenone/Oxybenzone"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "10",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "10",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "10",
+                    "2-Cyano-3,3-diphenyl acrylic acid, 2-ethylhexyl ester/Octocrilene",
+                    "Octocrylene",
+                    "6197-30-4",
+                    "228-250-8",
+                    "",
+                    "10 % (as acid)",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6197-30-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "228-250-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Cyano-3,3-diphenyl acrylic acid, 2-ethylhexyl ester/Octocrilene"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "10",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "10",
+                    "2-Cyano-3,3-diphenyl acrylic acid, 2- ethylhexyl ester/Octocrylene\ns\n",
+                    "Octocrylene",
+                    "6197-30-4",
+                    "228-250-8",
+                    "a) Propellant spray products\nb) Other products",
+                    "a) 9 %\nb) 10 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6197-30-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "228-250-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Cyano-3,3-diphenyl acrylic acid, 2- ethylhexyl ester/Octocrylene"
+              }
+            }
+          ],
+          "unchanged": 33,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -210,7 +482,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -388,7 +661,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -436,6 +710,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
