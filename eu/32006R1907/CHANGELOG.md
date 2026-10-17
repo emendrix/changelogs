@@ -3050,7 +3050,7 @@ The remainder of the visible text of Annex XVII, including the other numbered en
 
 *within* `AN I SCT 7 SCT 10`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The two versions of Annex I are identical in substance, including sections 7 and 10 on the Chemical Safety Report format. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20150101#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20150323#anx_I)
 
@@ -3157,6 +3157,8 @@ The revised text also states that two-generation reproductive toxicity studies i
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII` · *dates* +2016-09-23 · *amended by* `32015R0326`
+
+Table entries: 0 added, 1 amended, 0 removed: Entry 50
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 

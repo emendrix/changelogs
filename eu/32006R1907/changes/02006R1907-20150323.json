@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -53,6 +53,7 @@
         "changed_within": [
           "AN I SCT 7 SCT 10"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -79,7 +80,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -158,6 +160,7 @@
         "changed_within": [
           "AN VIII SCT 8"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -192,7 +195,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -284,6 +288,7 @@
         "changed_within": [
           "AN IX SCT 8"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -321,7 +326,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -419,6 +425,7 @@
         "changed_within": [
           "AN X SCT 8"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -456,7 +463,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -554,6 +562,249 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "50",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "50",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "50. Polycyclic-aromatic hydrocarbons (PAH)\n(a) Benzo[a]pyrene (BaP)\nCAS No 50-32-8\n(b) Benzo[e]pyrene (BeP)\nCAS No 192-97-2\n(c) Benzo[a]anthracene (BaA)\nCAS No 56-55-3\n(d) Chrysen (CHR)\nCAS No 218-01-9\n(e) Benzo[b]fluoranthene (BbFA)\nCAS No 205-99-2\n(f) Benzo[j]fluoranthene (BjFA)\nCAS No 205-82-3\n(g) Benzo[k]fluoranthene (BkFA)\nCAS No 207-08-9\n(h) Dibenzo[a,h]anthracene (DBAhA)\nCAS No 53-70-3",
+                    "1. From 1 January 2010, extender oils shall not be placed on the market, or used for the production of tyres or parts of tyres if they contain:\nmore than 1 mg/kg (0,0001 % by weight) BaP, or,\nmore than 10 mg/kg (0,001 % by weight) of the sum of all listed PAHs.\nThese limits shall be regarded as kept, if the polycyclic aromatics (PCA) extract is less than 3 % by weight as measured by the Institute of Petroleum standard IP346: 1998 (Determination of PCA in unused lubricating base oils and asphaltene free petroleum fractions — Dimethyl sulphoxide extraction refractive index method), provided that compliance with the limit values of BaP and of the listed PAHs, as well as the correlation of the measured values with the PCA extract, is controlled by the manufacturer or importer every six months or after each major operational change, whichever is earlier.\n2. Furthermore, tyres and treads for retreading manufactured after 1 January 2010 shall not be placed on the market if they contain extender oils exceeding the limits indicated in paragraph 1.\nThese limits shall be regarded as kept, if the vulcanised rubber compounds do not exceed the limit of 0,35 % Bay protons as measured and calculated by ISO 21461 (Rubber vulcanised — Determination of aromaticity of oil in vulcanised rubber compounds).\n3. By way of derogation, paragraph 2 shall not apply to retreaded tyres if their tread does not contain extender oils exceeding the limits referred to in paragraph 1.\n4. For the purpose of this entry tyres shall mean tyres for vehicles covered by:\nDirective 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers\n,\nDirective 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units\n, and\nDirective 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC\n.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "192-97-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-82-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "207-08-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "218-01-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "50-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "53-70-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56-55-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Polycyclic-aromatic hydrocarbons (PAH)"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "50",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "50. Polycyclic-aromatic hydrocarbons (PAH)\n(a) Benzo[a]pyrene (BaP)\nCAS No 50-32-8\n(b) Benzo[e]pyrene (BeP)\nCAS No 192-97-2\n(c) Benzo[a]anthracene (BaA)\nCAS No 56-55-3\n(d) Chrysen (CHR)\nCAS No 218-01-9\n(e) Benzo[b]fluoranthene (BbFA)\nCAS No 205-99-2\n(f) Benzo[j]fluoranthene (BjFA)\nCAS No 205-82-3\n(g) Benzo[k]fluoranthene (BkFA)\nCAS No 207-08-9\n(h) Dibenzo[a,h]anthracene (DBAhA)\nCAS No 53-70-3",
+                    "1. From 1 January 2010, extender oils shall not be placed on the market, or used for the production of tyres or parts of tyres if they contain:\nmore than 1 mg/kg (0,0001 % by weight) BaP, or,\nmore than 10 mg/kg (0,001 % by weight) of the sum of all listed PAHs.\nThe standard EN 16143:2013 (Petroleum products — Determination of content of Benzo(a)pyrene (BaP) and selected polycyclic aromatic hydrocarbons (PAH) in extender oils — Procedure using double LC cleaning and GC/MS analysis) shall be used as the test method for demonstrating conformity with the limits referred to in the first subparagraph.\nUntil 23 September 2016, the limits referred to in the first subparagraph may be regarded as kept, if the polycyclic aromatics (PCA) extract is less than 3 % by weight as measured by the Institute of Petroleum standard IP 346:1998 (Determination of PCA in unused lubricating base oils and asphaltene free petroleum fractions — Dimethyl sulphoxide extraction refractive index method), provided that compliance with the limits of BaP and of the listed PAHs, as well as the correlation of the measured values with the PCA extract, is measured by the manufacturer or importer every six months or after each major operational change, whichever is earlier.\n2. Furthermore, tyres and treads for retreading manufactured after 1 January 2010 shall not be placed on the market if they contain extender oils exceeding the limits indicated in paragraph 1.\nThese limits shall be regarded as kept, if the vulcanised rubber compounds do not exceed the limit of 0,35 % Bay protons as measured and calculated by ISO 21461 (Rubber vulcanised — Determination of aromaticity of oil in vulcanised rubber compounds).\n3. By way of derogation, paragraph 2 shall not apply to retreaded tyres if their tread does not contain extender oils exceeding the limits referred to in paragraph 1.\n4. For the purpose of this entry tyres shall mean tyres for vehicles covered by:\nDirective 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers\n,\nDirective 2003/37/EC of the European Parliament and of the Council of 26 May 2003 on type-approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their systems, components and separate technical units\n, and\nDirective 2002/24/EC of the European Parliament and of the Council of 18 March 2002 relating to the type-approval of two or three-wheel motor vehicles and repealing Council Directive 92/61/EEC\n.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "192-97-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-82-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "207-08-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "218-01-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "50-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "53-70-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56-55-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Polycyclic-aromatic hydrocarbons (PAH)"
+              }
+            }
+          ],
+          "unchanged": 1696,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -591,7 +842,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -720,7 +972,8 @@
         ]
       }
     ],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -768,6 +1021,20 @@
         "schema_repairs": 2
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
