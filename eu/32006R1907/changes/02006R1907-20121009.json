@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,224 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "23",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23. Cadmium\nCAS No 7440-43-9\nEC No 231-152-8 and its compounds",
+                    "For the purpose of this entry, the codes and chapters indicated in square brackets are the codes and chapters of the tariff and statistical nomenclature of Common Customs Tariff as established by Council Regulation (EEC) No 2658/87\n.\n1. Shall not be used in mixtures and articles produced from synthetic organic polymers (hereafter referred to as plastic material) such as:\npolymers or copolymers of vinyl chloride (PVC) [3904 10] [3904 21]\npolyurethane (PUR) [3909 50]\nlow-density polyethylene (LDPE), with the exception of low-density polyethylene used for the production of coloured masterbatch [3901 10]\ncellulose acetate (CA) [3912 11]\ncellulose acetate butyrate (CAB) [3912 11]\nepoxy resins [3907 30]\nmelamine-formaldehyde (MF) resins [3909 20]\nurea-formaldehyde (UF) resins [3909 10]\nunsaturated polyesters (UP) [3907 91]\npolyethylene terephthalate (PET) [3907 60]\npolybutylene terephthalate (PBT)\ntransparent/general-purpose polystyrene [3903 11]\nacrylonitrile methylmethacrylate (AMMA)\ncross-linked polyethylene (VPE)\nhigh-impact polystyrene\npolypropylene (PP) [3902 10]\nhigh-density polyethylene (HDPE) [3901 20]\nacrylonitrile butadiene styrene (ABS) [3903 30]\npoly(methyl methacrylate) (PMMA) [3906 10].\nMixtures and articles produced from plastic material shall not be placed on the market if the concentration of cadmium (expressed as Cd metal) is equal to or greater than 0,01 % by weight of the plastic material.\nBy way of derogation, the second subparagraph shall not apply to articles placed on the market before 10 December 2011.\nThe first and second subparagraphs apply without prejudice to Council Directive 94/62/EC\n and acts adopted on its basis.\n2. Shall not be used in paints [3208] [3209].\nFor paints with a zinc content exceeding 10 % by weight of the paint, the concentration of cadmium (expressed as Cd metal) shall not be equal to or greater than 0,1 % by weight.\nPainted articles shall not be placed on the market if the concentration of cadmium (expressed as Cd metal) is equal to or greater than 0,1 % by weight of the paint on the painted article.\n3. By way of derogation, paragraphs 1 and 2 shall not apply to articles coloured with mixtures containing cadmium for safety reasons.\n4. By way of derogation, paragraph 1, second subparagraph shall not apply to:\nmixtures produced from PVC waste, hereinafter referred to as recovered PVC,\nmixtures and articles containing recovered PVC if their concentration of cadmium (expressed as Cd metal) does not exceed 0,1 % by weight of the plastic material in the following rigid PVC applications:\n(a) profiles and rigid sheets for building applications;\n(b) doors, windows, shutters, walls, blinds, fences, and roof gutters;\n(c) decks and terraces;\n(d) cable ducts;\n(e) pipes for non-drinking water if the recovered PVC is used in the middle layer of a multilayer pipe and is entirely covered with a layer of newly produced PVC in compliance with paragraph 1 above.\nSuppliers shall ensure, before the placing on the market of mixtures and articles containing recovered PVC for the first time, that these are visibly, legibly and indelibly marked as follows: Contains recovered PVC or with the following pictogram:\nIn accordance with Article 69 of this Regulation, the derogation granted in paragraph 4 will be reviewed, in particular with a view to reducing the limit value for cadmium and to reassess the derogation for the applications listed in points (a) to (e), by 31 December 2017.\n5. For the purpose of this entry, cadmium plating means any deposit or coating of metallic cadmium on a metallic surface.\nShall not be used for cadmium plating metallic articles or components of the articles used in the following sectors/applications:\n(a) equipment and machinery for:\nfood production [8210] [8417 20] [8419 81] [8421 11] [8421 22] [8422] [8435] [8437] [8438] [8476 11]\nagriculture [8419 31] [8424 81] [8432] [8433] [8434] [8436]\ncooling and freezing [8418]\nprinting and book-binding [8440] [8442] [8443]\n(b) equipment and machinery for the production of:\nhousehold goods [7321] [8421 12] [8450] [8509] [8516]\nfurniture [8465] [8466] [9401] [9402] [9403] [9404]\nsanitary ware [7324]\ncentral heating and air conditioning plant [7322] [8403] [8404] [8415]\nIn any case, whatever their use or intended final purpose, the placing on the market of cadmium-plated articles or components of such articles used in the sectors/applications listed in points (a) and (b) above and of articles manufactured in the sectors listed in point (b) above is prohibited.\n6. The provisions referred to in paragraph 5 shall also be applicable to cadmium-plated articles or components of such articles when used in the sectors/applications listed in points (a) and (b) below and to articles manufactured in the sectors listed in (b) below:\n(a) equipment and machinery for the production of:\npaper and board [8419 32] [8439] [8441] textiles and clothing [8444] [8445] [8447] [8448] [8449] [8451] [8452]\n(b) equipment and machinery for the production of:\nindustrial handling equipment and machinery [8425] [8426] [8427] [8428] [8429] [8430] [8431]\nroad and agricultural vehicles [chapter 87]\nrolling stock [chapter 86]\nvessels [chapter 89]\n7. However, the restrictions in paragraphs 5 and 6 shall not apply to:\narticles and components of the articles used in the aeronautical, aerospace, mining, offshore and nuclear sectors whose applications require high safety standards and in safety devices in road and agricultural vehicles, rolling stock and vessels,\nelectrical contacts in any sector of use, where that is necessary to ensure the reliability required of the apparatus on which they are installed.\n8. Shall not be used in brazing fillers in concentration equal to or greater than 0,01 % by weight.\nBrazing fillers shall not be placed on the market if the concentration of cadmium (expressed as Cd metal) is equal to or greater than 0,01 % by weight.\nFor the purpose of this paragraph brazing shall mean a joining technique using alloys and undertaken at temperatures above 450 °C.\n9. By way of derogation, paragraph 8 shall not apply to brazing fillers used in defence and aerospace applications and to brazing fillers used for safety reasons.\n10. Shall not be used or placed on the market if the concentration is equal to or greater than 0,01 % by weight of the metal in:\n(i) metal beads and other metal components for jewellery making;\n(ii) metal parts of jewellery and imitation jewellery articles and hair accessories, including:\nbracelets, necklaces and rings,\npiercing jewellery,\nwrist-watches and wrist-wear,\nbrooches and cufflinks.\n11. By way of derogation, paragraph 10 shall not apply to articles placed on the market before 10 December 2011 and jewellery more than 50 years old on 10 December 2011.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-43-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-152-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23. Cadmium\nCAS No 7440-43-9\nEC No 231-152-8 and its compounds",
+                    "For the purpose of this entry, the codes and chapters indicated in square brackets are the codes and chapters of the tariff and statistical nomenclature of Common Customs Tariff as established by Council Regulation (EEC) No 2658/87\n.\n1. Shall not be used in mixtures and articles produced from the following synthetic organic polymers (hereafter referred to as plastic material):\npolymers or copolymers of vinyl chloride (PVC) [3904 10] [3904 21]\npolyurethane (PUR) [3909 50]\nlow-density polyethylene (LDPE), with the exception of low-density polyethylene used for the production of coloured masterbatch [3901 10]\ncellulose acetate (CA) [3912 11]\ncellulose acetate butyrate (CAB) [3912 11]\nepoxy resins [3907 30]\nmelamine-formaldehyde (MF) resins [3909 20]\nurea-formaldehyde (UF) resins [3909 10]\nunsaturated polyesters (UP) [3907 91]\npolyethylene terephthalate (PET) [3907 60]\npolybutylene terephthalate (PBT)\ntransparent/general-purpose polystyrene [3903 11]\nacrylonitrile methylmethacrylate (AMMA)\ncross-linked polyethylene (VPE)\nhigh-impact polystyrene\npolypropylene (PP) [3902 10]\nMixtures and articles produced from plastic material as listed above shall not be placed on the market if the concentration of cadmium (expressed as Cd metal) is equal to or greater than 0,01 % by weight of the plastic material.\nBy way of derogation, the second subparagraph shall not apply to articles placed on the market before 10 December 2011.\nThe first and second subparagraphs apply without prejudice to Council Directive 94/62/EC\n and acts adopted on its basis.\nBy 19 November 2012, in accordance with Article 69, the Commission shall ask the European Chemicals Agency to prepare a dossier conforming to the requirements of Annex XV in order to assess whether the use of cadmium and its compounds in plastic material, other than that listed in subparagraph 1, should be restricted.\n2. Shall not be used in paints [3208] [3209].\nFor paints with a zinc content exceeding 10 % by weight of the paint, the concentration of cadmium (expressed as Cd metal) shall not be equal to or greater than 0,1 % by weight.\nPainted articles shall not be placed on the market if the concentration of cadmium (expressed as Cd metal) is equal to or greater than 0,1 % by weight of the paint on the painted article.\n3. By way of derogation, paragraphs 1 and 2 shall not apply to articles coloured with mixtures containing cadmium for safety reasons.\n4. By way of derogation, paragraph 1, second subparagraph shall not apply to:\nmixtures produced from PVC waste, hereinafter referred to as recovered PVC,\nmixtures and articles containing recovered PVC if their concentration of cadmium (expressed as Cd metal) does not exceed 0,1 % by weight of the plastic material in the following rigid PVC applications:\n(a) profiles and rigid sheets for building applications;\n(b) doors, windows, shutters, walls, blinds, fences, and roof gutters;\n(c) decks and terraces;\n(d) cable ducts;\n(e) pipes for non-drinking water if the recovered PVC is used in the middle layer of a multilayer pipe and is entirely covered with a layer of newly produced PVC in compliance with paragraph 1 above.\nSuppliers shall ensure, before the placing on the market of mixtures and articles containing recovered PVC for the first time, that these are visibly, legibly and indelibly marked as follows: Contains recovered PVC or with the following pictogram:\nIn accordance with Article 69 of this Regulation, the derogation granted in paragraph 4 will be reviewed, in particular with a view to reducing the limit value for cadmium and to reassess the derogation for the applications listed in points (a) to (e), by 31 December 2017.\n5. For the purpose of this entry, cadmium plating means any deposit or coating of metallic cadmium on a metallic surface.\nShall not be used for cadmium plating metallic articles or components of the articles used in the following sectors/applications:\n(a) equipment and machinery for:\nfood production [8210] [8417 20] [8419 81] [8421 11] [8421 22] [8422] [8435] [8437] [8438] [8476 11]\nagriculture [8419 31] [8424 81] [8432] [8433] [8434] [8436]\ncooling and freezing [8418]\nprinting and book-binding [8440] [8442] [8443]\n(b) equipment and machinery for the production of:\nhousehold goods [7321] [8421 12] [8450] [8509] [8516]\nfurniture [8465] [8466] [9401] [9402] [9403] [9404]\nsanitary ware [7324]\ncentral heating and air conditioning plant [7322] [8403] [8404] [8415]\nIn any case, whatever their use or intended final purpose, the placing on the market of cadmium-plated articles or components of such articles used in the sectors/applications listed in points (a) and (b) above and of articles manufactured in the sectors listed in point (b) above is prohibited.\n6. The provisions referred to in paragraph 5 shall also be applicable to cadmium-plated articles or components of such articles when used in the sectors/applications listed in points (a) and (b) below and to articles manufactured in the sectors listed in (b) below:\n(a) equipment and machinery for the production of:\npaper and board [8419 32] [8439] [8441] textiles and clothing [8444] [8445] [8447] [8448] [8449] [8451] [8452]\n(b) equipment and machinery for the production of:\nindustrial handling equipment and machinery [8425] [8426] [8427] [8428] [8429] [8430] [8431]\nroad and agricultural vehicles [chapter 87]\nrolling stock [chapter 86]\nvessels [chapter 89]\n7. However, the restrictions in paragraphs 5 and 6 shall not apply to:\narticles and components of the articles used in the aeronautical, aerospace, mining, offshore and nuclear sectors whose applications require high safety standards and in safety devices in road and agricultural vehicles, rolling stock and vessels,\nelectrical contacts in any sector of use, where that is necessary to ensure the reliability required of the apparatus on which they are installed.\n8. Shall not be used in brazing fillers in concentration equal to or greater than 0,01 % by weight.\nBrazing fillers shall not be placed on the market if the concentration of cadmium (expressed as Cd metal) is equal to or greater than 0,01 % by weight.\nFor the purpose of this paragraph brazing shall mean a joining technique using alloys and undertaken at temperatures above 450 °C.\n9. By way of derogation, paragraph 8 shall not apply to brazing fillers used in defence and aerospace applications and to brazing fillers used for safety reasons.\n10. Shall not be used or placed on the market if the concentration is equal to or greater than 0,01 % by weight of the metal in:\n(i) metal beads and other metal components for jewellery making;\n(ii) metal parts of jewellery and imitation jewellery articles and hair accessories, including:\nbracelets, necklaces and rings,\npiercing jewellery,\nwrist-watches and wrist-wear,\nbrooches and cufflinks.\n11. By way of derogation, paragraph 10 shall not apply to articles placed on the market before 10 December 2011 and jewellery more than 50 years old on 10 December 2011.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-43-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-152-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "63",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "63",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "63. Lead\nCAS No 7439-92-1\nEC No 231-100-4\nand its compounds",
+                    "1. Shall not be placed on the market or used in any individual part of jewellery articles if the concentration of lead (expressed as metal) in such a part is equal to or greater than 0,05 % by weight.\n2. For the purposes of paragraph 1:\n(i) jewellery articles shall include jewellery and imitation jewellery articles and hair accessories, including:\n(a) bracelets, necklaces and rings;\n(b) piercing jewellery;\n(c) wrist watches and wrist-wear;\n(d) brooches and cufflinks;\n(ii) any individual part shall include the materials from which the jewellery is made, as well as the individual components of the jewellery articles.\n3. Paragraph 1 shall also apply to individual parts when placed on the market or used for jewellery-making.\n4. By way of derogation, paragraph 1 shall not apply to:\n(a) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Council Directive 69/493/EEC\n;\n(b) internal components of watch timepieces inaccessible to consumers;\n(c) non-synthetic or reconstructed precious and semiprecious stones (CN code 7103, as established by Regulation (EEC) No 2658/87), unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of minerals melted at a temperature of at least 500 °C.\n5. By way of derogation, paragraph 1 shall not apply to jewellery articles placed on the market for the first time before 9 October 2013 and jewellery articles produced before 10 December 1961.\n6. By 9 October 2017, the Commission shall re-evaluate this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 1 and, if appropriate, modify this entry accordingly.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead"
+              }
+            }
+          ],
+          "unchanged": 1683,
+          "whitespace_only": 1,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 8,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 8,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -301,6 +519,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

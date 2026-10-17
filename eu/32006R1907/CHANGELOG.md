@@ -3789,6 +3789,8 @@ In the shared provision applying to entries 28 to 30, the reference to the conce
 
 *within* `AN XVII` · *dates* +1961-12-10 +2012-11-19 +2013-10-09 +2017-10-09 · *amended by* `32012R0836`
 
+Table entries: 1 added, 1 amended, 0 removed: Entry 23, Entry 63
+
 An additional Official Journal reference (OJ L 326, 29.12.1969, p. 36) has been added to the list of citations at the top of the Annex. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
 
 In entry 23, paragraph 1, the list of plastic materials covered by the cadmium restriction has been shortened, dropping the closing items covering high-density polyethylene (HDPE), acrylonitrile butadiene styrene (ABS) and poly(methyl methacrylate) (PMMA) that appeared in the earlier text, and the introductory wording changed from referring to mixtures and articles produced from such polymers generally to referring to the polymers listed. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20120605#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20121009#anx_XVII)
