@@ -323,6 +323,8 @@ The PFOS entry's points 1 and 2 have been rewritten so that the limit for PFOS a
 
 *within* `AN I` · *dates* +2028-04-01 +2028-04-15 +2030-02-26 · *amended by* `32025R1930`
 
+Table entries: 1 added, 0 amended, 0 removed: "Dechlorane Plus"
+
 The later text adds a new Part A entry for Dechlorane Plus, identified by its CAS and EC numbers and covering its syn- and anti-isomers, which was not present in the earlier text. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251015#anx_I) [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20250804#anx_I)
 
 The new entry sets a concentration limit of 1000 mg/kg until 15 April 2028 dropping to 1 mg/kg after that date, lists derogations for uses such as aerospace, space and defence, medical imaging, radiotherapy devices, and various spare parts and repairs running until dates including 26 February 2030 and 31 December 2043, requires a Commission assessment of certain exemptions by 1 April 2028, and addresses continued use of articles and spare parts already in use. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251015#anx_I)

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,86 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substance",
+                  "CAS No",
+                  "EC No",
+                  "Specific exemption on intermediate use or other specification"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "dechlorane plus",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "dechlorane plus",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dechlorane Plus\nDechlorane Plus includes its syn-isomer and anti-isomer",
+                    "13560-89-9\n135821-03-3\n135821-74-8",
+                    "236-948-9",
+                    "1. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of Dechlorane Plus:\n(a) equal to or below 1000 mg/kg (0,1 % by weight) where they are present in substances, mixtures or articles until 15 April 2028;\n(b) equal to or below 1 mg/kg (0,0001 % by weight) where they are present in substances, mixtures or articles after 15 April 2028.\n2. By way of derogation, the placing on the market and use of Dechlorane Plus shall be allowed for the following purposes:\n(a) aerospace, space and defence applications, until 26 February 2030;\n(b) medical imaging applications, until 26 February 2030;\n(c) radiotherapy devices and installations, until 26 February 2030;\n(d) spare parts for, and the repair of, any of the following:\n(i) land-based motor vehicles;\n(ii) stationary industrial machines for use in agriculture, forestry and construction;\n(iii) marine, garden, forestry and outdoor power equipment other than that covered under (ii);\n(iv) aerospace, space and defence applications;\n(v) instruments for analysis, measurements, control, monitoring, testing, production and inspection;\nwhere Dechlorane Plus was initially used in their production, until the end of their service life or until 31 December 2043, whichever comes earlier:\n(e) spare parts for, and the repair of, any of the following:\n(i) medical devices and accessories for medical devices within the scope of Regulation (EU) 2017/745;\n(ii) in vitro diagnostic medical devices and accessories for in vitro diagnostic medical devices within the scope of Regulation (EU) 2017/746;\nwhere Dechlorane Plus was initially used in their production, until the end of their service life.\n3. The Commission shall assess the need for a prolongation of the specific exemptions in points (a), (b) and (c) of paragraph 2 at the latest by 1 April 2028.\n4. Articles containing Dechlorane Plus already in use in the Union before or on the date of expiry of the relevant exemption laid down in paragraph 2(a) to (d) may continue to be used.\n5. Placing on the market and use of spare parts containing Dechlorane Plus referred to in paragraph 2, point (d)(iv) that are present in the territory of the Union before or on 31 December 2043 shall be allowed."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13560-89-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "135821-03-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "135821-74-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-948-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dechlorane Plus"
+              }
+            }
+          ],
+          "unchanged": 31,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -267,6 +347,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
