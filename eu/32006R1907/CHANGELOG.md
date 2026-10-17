@@ -1538,6 +1538,8 @@ No substance entries were added, removed, or changed in substantive content such
 
 *within* `AN XIV` · *dates* -2019-09-01 -2021-03-01 +2021-08-27 +2021-09-01 +2021-11-27 +2022-02-27 +2022-05-27 +2023-02-27 +2023-03-01 +2023-05-27 +2023-08-27 +2023-11-27 · *amended by* `32020R0171`
 
+Table entries: 11 added, 0 amended, 0 removed: Entry 44, Entry 45, Entry 46, Entry 47, Entry 48, Entry 49, Entry 50, Entry 51, Entry 52, Entry 53 and 1 more
+
 The transitional arrangement dates referring to Article 58(1)(c)(ii) and (i) were changed from 1 September 2019 and 1 March 2021 to 1 September 2021 and 1 March 2023, with corresponding wording added covering spare parts as articles or complex products and specifying that the spare part cannot be produced without that substance. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200101#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV)
 
 New entries numbered 44 through 54 were added to the table, listing additional substances with their intrinsic properties, latest application dates and sunset dates spanning 27 August 2021 through 27 November 2023. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV)
