@@ -230,6 +230,8 @@ The remainder of the Annex, including the numbered restriction entries shown, ap
 
 *within* `AN XVII` · *dates* +2026-12-23 +2029-06-23 · *amended by* `32025R1090`
 
+Table entries: 2 added, 1 amended, 0 removed: Entry 78, Entry 80, Entry 81
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20250422`)

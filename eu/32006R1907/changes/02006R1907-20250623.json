@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,292 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "78",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "78",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "78. Synthetic polymer microparticles:\npolymers that are solid and which fulfil both of the following conditions:\n(a) are contained in particles and constitute at least 1 % by weight of those particles; or build a continuous surface coating on particles;\n(b) at least 1 % by weight of the particles referred to in point (a) fulfil either of the following conditions:\n(i) all dimensions of the particles are equal to or less than 5 mm;\n(ii) the length of the particles is equal to or less than 15 mm and their length to diameter ratio is greater than 3.\nThe following polymers are excluded from this designation:\n(a) polymers that are the result of a polymerisation process that has taken place in nature, independently of the process through which they have been extracted, which are not chemically modified substances;\n(b) polymers that are degradable as proved in accordance with Appendix 15;\n(c) polymers that have a solubility greater than 2 g/L as proved in accordance with Appendix 16;\n(d) polymers that do not contain carbon atoms in their chemical structure.",
+                    "1. Shall not be placed on the market as substances on their own or, where the synthetic polymer microparticles are present to confer a sought-after characteristic, in mixtures in a concentration equal to or greater than 0,01 % by weight.\n2. For the purposes of this entry, the following definitions apply:\n(a) particle means a minute piece of matter, other than single molecules, with defined physical boundaries;\n(b) solid means a substance or mixture other than a liquid or gas;\n(c) gas means a substance or mixture which at 50 °C has a vapour pressure greater than 300 kPa (absolute), or is completely gaseous at 20 °C at a standard pressure of 101,3 kPa;\n(d) liquid means a substance or mixture that meets any of the following conditions:\n(i) the substance or mixture at 50 °C has a vapour pressure of not more than 300 kPa, is not completely gaseous at 20 °C and at a standard pressure of 101,3 kPa, and has a melting point or initial melting point of 20 °C or less at a standard pressure of 101,3 kPa;\n(ii) the substance or mixture fulfils the criteria in the American Society for Testing and Materials (ASTM) D 4359-90 Standard Test Method for Determining Whether a Material Is a Liquid or a Solid;\n(iii) the substance or mixture passes the fluidity test (penetrometer test) described in chapter 2.3.4 of Part 2 of Annex A to the European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR) concluded at Geneva on 30 September 1957;\n(e) make-up product means any substance or mixture intended to be placed in contact with specific external parts of the human body, namely the epidermis, eye brows and eye lashes, with a view to, exclusively or mainly, changing their appearance;\n3. Where the concentration of synthetic polymer microparticles covered by this entry cannot be determined by available analytical methods or accompanying documentation, in order to verify the compliance with the concentration limit referred to in paragraph 1, only the particles of at least the following size shall be taken into account:\n(a) 0,1 μm for any dimension, for particles where all dimensions are equal to or smaller than 5 mm;\n(b) 0,3 μm in length, for particles that have a length that is equal to or smaller than 15 mm and a length to diameter ratio greater than 3.\n4. Paragraph 1 shall not apply to the placing on the market of:\n(a) synthetic polymer microparticles, as substances on their own or in mixtures, for use at industrial sites;\n(b) medicinal products within the scope of Directive 2001/83/EC and veterinary medicinal products within the scope of Regulation (EU) 2019/6 of the European Parliament and of the Council\n;\n(c) EU fertilising products within the scope of Regulation (EU) 2019/1009 of the European Parliament and of the Council\n;\n(d) food additives within the scope of Regulation (EC) No 1333/2008 of the European Parliament and of the Council\n;\n(e) in vitro diagnostic devices, including devices within the scope of Regulation (EU) 2017/746 of the European Parliament and of the Council\n;\n(f) food within the meaning of Article 2 of Regulation (EC) No 178/2002, not covered by point (d) of this paragraph, and feed as defined in Article 3(4) of that Regulation.\n5. Paragraph 1 shall not apply to the placing on the market of the following synthetic polymer microparticles, as substances on their own or in mixtures:\n(a) synthetic polymer microparticles which are contained by technical means so that releases to the environment are prevented when used in accordance with the instructions for use during the intended end use;\n(b) synthetic polymer microparticles the physical properties of which are permanently modified during intended end use in such a way that the polymer no longer falls within the scope of this entry;\n(c) synthetic polymer microparticles which are permanently incorporated into a solid matrix during intended end use.\n6. Paragraph 1 shall apply as follows regarding the following uses:\n(a) from 17 October 2029 to synthetic polymer microparticles for use in the encapsulation of fragrances;\n(b) from 17 October 2027 for rinse-off products as defined in point (1)(a) of the Preamble to Annexes II to VI to Regulation (EC) No 1223/2009 unless such products are covered by point (a) of this paragraph or contain synthetic polymer microparticles for use as an abrasive, i.e. namely to exfoliate, polish or clean (microbeads);\n(c) from 17 October 2035 for lip products as defined in point (1)(e) of the Preamble to Annexes II to VI to Regulation (EC) No 1223/2009, nail products as defined in point (1)(g) of the Preamble to Annexes II to VI to that Regulation, and make-up products within the scope of that Regulation, unless such products are covered by points (a) or (b) of this paragraph or contain microbeads;\n(d) from 17 October 2029 for leave-on products, as defined in point (1)(b) of the Preamble to Annexes II to VI to Regulation (EC) No 1223/2009, unless such products are covered by points (a) or (c) of this paragraph;\n(e) from 17 October 2028 for detergents, as defined in Article 2(1) of Regulation (EC) No 648/2004, waxes, polishes and air care products, unless those products are covered by point (a) of this paragraph or contain microbeads;\n(f) from 17 October 2029 for devices, within the scope of Regulation (EU) 2017/745 of the European Parliament and of the Council\n, unless those devices contain microbeads;\n(g) from 17 October 2028 for fertilising products, as defined in Article 2, point (1), of Regulation (EU) 2019/1009, which do not fall within the scope of that Regulation;\n(h) from 17 October 2031 for plant protection products within the meaning of Article 2(1) of Regulation (EC) No 1107/2009 of the European Parliament and of the Council\n and seeds treated with those products, and biocidal products as defined in Article 3(1), point (a), of Regulation (EU) No 528/2012 of the European Parliament and of the Council\n;\n(i) from 17 October 2028 for products for agricultural and horticultural uses not covered by points (g) or (h);\n(j) from 17 October 2031 for granular infill for use on synthetic sports surfaces.\n7. From 17 October 2025 suppliers of synthetic polymer microparticles referred to in paragraph 4, point (a), shall provide the following information:\n(a) instructions for use and disposal explaining to industrial downstream users how to prevent releases of synthetic polymer microparticles to the environment;\n(b) the following statement: The synthetic polymer microparticles supplied is subject to conditions laid down by entry 78 of Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council;\n(c) the information on quantity or, as applicable, concentration of synthetic polymer microparticles in the substance or mixture;\n(d) generic information on the identity of the polymers contained in the substance or mixture that enables manufacturers, industrial downstream users and other suppliers to comply with their obligations laid down in paragraphs 11 and 12.\n8. From 17 October 2026 suppliers of products containing synthetic polymer microparticles referred to in paragraph 4, point (e), and from 17 October 2025 suppliers of products containing synthetic polymer microparticles referred to in paragraph 4, point (d), and paragraph 5, shall provide instructions for use and disposal explaining to professional users and the general public how to prevent releases of synthetic polymer microparticles to the environment.\n9. From 17 October 2031 until 16 October 2035 suppliers of products referred to in paragraph 6, point (c), containing synthetic polymer microparticles shall provide the following statement: This product contains microplastics. However, products placed on the market before 17 October 2031 are not required to bear that statement until 17 December 2031.\n10. The information referred to in paragraphs 7, 8 and 9 shall be provided in the form of clearly visible, legible and indelible text or, where appropriate regarding the information in paragraphs 7 and 8, in the form of pictograms. The text or pictograms shall be placed on the label, the packaging, or the package leaflet of the products containing synthetic polymer microparticles or, regarding the information in paragraph 7, on the safety data sheet. In addition to the text or pictograms, suppliers may provide a digital tool that gives access to an electronic version of that information.\nWhere instructions for use and disposal are provided in accordance with paragraphs 7, 8 and 9 in the form of a text, they shall be in the official languages of the Member States where the substance or mixture is placed on the market, unless the Member States concerned provide otherwise.\n11. Starting from 2026 manufacturers and industrial downstream users of synthetic polymer microparticles in the form of pellets, flakes, and powders used as feedstock in plastic manufacturing at industrial sites, and, starting from 2027, other manufacturers of synthetic polymer microparticles and other industrial downstream users using synthetic polymer microparticles at industrial sites shall submit the following information to the Agency by 31 May of each year:\n(a) a description of the uses of synthetic polymer microparticles in the previous calendar year;\n(b) for each use of synthetic polymer microparticles, generic information on the identity of the polymers used;\n(c) for each use of synthetic polymer microparticles, an estimate of the quantity of synthetic polymer microparticles released to the environment in the previous calendar year, which shall include also the quantity of synthetic polymer microparticles released to the environment during transportation.\n(d) for each use of synthetic polymer microparticles, a reference to the derogation laid down in paragraph 4, point (a).\n12. From 2027, suppliers of products containing synthetic polymer microparticles referred to in paragraphs 4, points (b), (d) and (e), and paragraph 5, placed on the market for the first time to professional users and the general public, shall submit the following information to the Agency by 31 May of each year:\n(a) a description of the end uses for which the synthetic polymer microparticles were placed on the market in the previous calendar year;\n(b) for each end use for which the synthetic polymer microparticles were placed on the market, generic information on the identity of the polymers placed on the market in the previous calendar year;\n(c) for each end use for which the synthetic polymer microparticles were placed on the market, an estimate of the quantity of synthetic polymer microparticles released to the environment in the previous calendar year, which shall include also the quantity of synthetic polymer microparticles released to the environment during transportation.\n(d) for each use of synthetic polymer microparticles, a reference to the applicable derogation or derogations laid down in paragraph 4, point (b), (d) or (e), or 5 point (a), (b) or (c).\n13. The Agency shall make the information submitted under paragraphs 11 and 12 available to the Member States.\n14. Manufacturers, importers and industrial downstream users of products containing synthetic polymer microparticles shall provide specific information on the identity of polymers covered by this entry contained in those products and the function of those polymers in the products to competent authorities upon their request. The specific information on the polymer identity shall be sufficient to unequivocally identify polymers and shall at least include the information laid down in points 2.1 to 2.2.3 and points 2.3.5, 2.3.6 and 2.3.7 of Annex VI, where applicable.\nIf the information is not available to industrial downstream users, they shall request it from their supplier within 7 days from the receipt of the request from the competent authorities and shall inform the authorities of the request made without delay.\nHaving received the request referred to in the second subparagraph, the suppliers shall provide the requested information within 30 days to the industrial downstream user or directly to the competent authority requesting it.\nWhere the supplier provides the information to the industrial downstream user, the industrial downstream user shall forward that information to the competent authorities without delay.\nWhere the supplier provides the information directly to the authority, it shall without delay inform the industrial downstream user concerned to that effect.\n15. Manufacturers, importers and industrial downstream users of products containing polymers claimed to be excluded from the designation of synthetic polymer microparticles on grounds of degradability or solubility shall provide, without delay, information proving that those polymers are degradable in accordance with Appendix 15 or soluble in accordance with Appendix 16, as applicable, to competent authorities upon their request.\n16. Paragraph 1 shall not apply to placing on the market of synthetic polymers microparticles, on their own or in mixtures, placed on the market before 17 October 2023.\nHowever, the first subparagraph shall not apply to the placing on the market of synthetic polymers microparticles for uses listed in paragraph 6.\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Synthetic polymer microparticles:"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "78",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "78. Synthetic polymer microparticles:\npolymers that are solid and which fulfil both of the following conditions:\n(a) are contained in particles and constitute at least 1 % by weight of those particles; or build a continuous surface coating on particles;\n(b) at least 1 % by weight of the particles referred to in point (a) fulfil either of the following conditions:\n(i) all dimensions of the particles are equal to or less than 5 mm;\n(ii) the length of the particles is equal to or less than 15 mm and their length to diameter ratio is greater than 3.\nThe following polymers are excluded from this designation:\n(a) polymers that are the result of a polymerisation process that has taken place in nature, independently of the process through which they have been extracted, which are not chemically modified substances;\n(b) polymers that are degradable as proved in accordance with Appendix 15;\n(c) polymers that have a solubility greater than 2 g/L as proved in accordance with Appendix 16;\n(d) polymers that do not contain carbon atoms in their chemical structure.",
+                    "1. Shall not be placed on the market on their own or, where the synthetic polymer microparticles are present to confer a sought-after characteristic, in mixtures in a concentration equal to or greater than 0,01 % by weight.\n2. For the purposes of this entry, the following definitions apply:\n(a) particle means a minute piece of matter, other than single molecules, with defined physical boundaries;\n(b) solid means a substance or mixture other than a liquid or gas;\n(c) gas means a substance or mixture which at 50 °C has a vapour pressure greater than 300 kPa (absolute), or is completely gaseous at 20 °C at a standard pressure of 101,3 kPa;\n(d) liquid means a substance or mixture that meets any of the following conditions:\n(i) the substance or mixture at 50 °C has a vapour pressure of not more than 300 kPa, is not completely gaseous at 20 °C and at a standard pressure of 101,3 kPa, and has a melting point or initial melting point of 20 °C or less at a standard pressure of 101,3 kPa;\n(ii) the substance or mixture fulfils the criteria in the American Society for Testing and Materials (ASTM) D 4359-90 Standard Test Method for Determining Whether a Material Is a Liquid or a Solid;\n(iii) the substance or mixture passes the fluidity test (penetrometer test) described in chapter 2.3.4 of Part 2 of Annex A to the European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR) concluded at Geneva on 30 September 1957;\n(e) make-up product means any substance or mixture intended to be placed in contact with specific external parts of the human body, namely the epidermis, eye brows and eye lashes, with a view to, exclusively or mainly, changing their appearance;\n3. Where the concentration of synthetic polymer microparticles covered by this entry cannot be determined by available analytical methods or accompanying documentation, in order to verify the compliance with the concentration limit referred to in paragraph 1, only the particles of at least the following size shall be taken into account:\n(a) 0,1 μm for any dimension, for particles where all dimensions are equal to or smaller than 5 mm;\n(b) 0,3 μm in length, for particles that have a length that is equal to or smaller than 15 mm and a length to diameter ratio greater than 3.\n4. Paragraph 1 shall not apply to the placing on the market of:\n(a) synthetic polymer microparticles on their own or in mixtures, for use at industrial sites;\n(b) medicinal products within the scope of Directive 2001/83/EC and veterinary medicinal products within the scope of Regulation (EU) 2019/6 of the European Parliament and of the Council\n;\n(c) EU fertilising products within the scope of Regulation (EU) 2019/1009 of the European Parliament and of the Council\n;\n(d) food additives within the scope of Regulation (EC) No 1333/2008 of the European Parliament and of the Council\n;\n(e) in vitro diagnostic devices, including devices within the scope of Regulation (EU) 2017/746 of the European Parliament and of the Council\n;\n(f) food within the meaning of Article 2 of Regulation (EC) No 178/2002, not covered by point (d) of this paragraph, and feed as defined in Article 3(4) of that Regulation.\n5. Paragraph 1 shall not apply to the placing on the market of the following synthetic polymer microparticles on their own or in mixtures:\n(a) synthetic polymer microparticles which are contained by technical means so that releases to the environment are prevented when used in accordance with the instructions for use during the intended end use;\n(b) synthetic polymer microparticles the physical properties of which are permanently modified during intended end use in such a way that the polymer no longer falls within the scope of this entry;\n(c) synthetic polymer microparticles which are permanently incorporated into a solid matrix during intended end use.\n6. Paragraph 1 shall apply as follows regarding the following uses:\n(a) from 17 October 2029 to synthetic polymer microparticles for use in the encapsulation of fragrances;\n(b) from 17 October 2027 for rinse-off products as defined in point (1)(a) of the Preamble to Annexes II to VI to Regulation (EC) No 1223/2009 unless such products are covered by point (a) of this paragraph or contain synthetic polymer microparticles for use as an abrasive, i.e. namely to exfoliate, polish or clean (microbeads);\n(c) from 17 October 2035 for lip products as defined in point (1)(e) of the Preamble to Annexes II to VI to Regulation (EC) No 1223/2009, nail products as defined in point (1)(g) of the Preamble to Annexes II to VI to that Regulation, and make-up products within the scope of that Regulation, unless such products are covered by points (a) or (b) of this paragraph or contain microbeads;\n(d) from 17 October 2029 for leave-on products, as defined in point (1)(b) of the Preamble to Annexes II to VI to Regulation (EC) No 1223/2009, unless such products are covered by points (a) or (c) of this paragraph;\n(e) from 17 October 2028 for detergents, as defined in Article 2(1) of Regulation (EC) No 648/2004, waxes, polishes and air care products, unless those products are covered by point (a) of this paragraph or contain microbeads;\n(f) from 17 October 2029 for devices, within the scope of Regulation (EU) 2017/745 of the European Parliament and of the Council\n, unless those devices contain microbeads;\n(g) from 17 October 2028 for fertilising products, as defined in Article 2, point (1), of Regulation (EU) 2019/1009, which do not fall within the scope of that Regulation;\n(h) from 17 October 2031 for plant protection products within the meaning of Article 2(1) of Regulation (EC) No 1107/2009 of the European Parliament and of the Council\n and seeds treated with those products, and biocidal products as defined in Article 3(1), point (a), of Regulation (EU) No 528/2012 of the European Parliament and of the Council\n;\n(i) from 17 October 2028 for products for agricultural and horticultural uses not covered by points (g) or (h);\n(j) from 17 October 2031 for granular infill for use on synthetic sports surfaces.\n7. From 17 October 2025 suppliers of synthetic polymer microparticles referred to in paragraph 4, point (a), shall provide the following information:\n(a) instructions for use and disposal explaining to industrial downstream users how to prevent releases of synthetic polymer microparticles to the environment;\n(b) the following statement: The synthetic polymer microparticles supplied are subject to conditions laid down by entry 78 of Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council;\n(c) the information on quantity or, as applicable, concentration of synthetic polymer microparticles in the substance or mixture;\n(d) generic information on the identity of the polymers contained in the substance or mixture that enables manufacturers, industrial downstream users and other suppliers to comply with their obligations laid down in paragraphs 11 and 12.\n8. From 17 October 2026 suppliers of products containing synthetic polymer microparticles referred to in paragraph 4, point (e), and from 17 October 2025 suppliers of products containing synthetic polymer microparticles referred to in paragraph 4, point (d), and paragraph 5, shall provide instructions for use and disposal explaining to professional users and the general public how to prevent releases of synthetic polymer microparticles to the environment.\n9. From 17 October 2031 until 16 October 2035 suppliers of products referred to in paragraph 6, point (c), containing synthetic polymer microparticles shall provide the following statement: This product contains microplastics. However, products placed on the market before 17 October 2031 are not required to bear that statement until 17 December 2031.\n10. The information referred to in paragraphs 7, 8 and 9 shall be provided in the form of clearly visible, legible and indelible text or, where appropriate regarding the information in paragraphs 7 and 8, in the form of pictograms. The text or pictograms shall be placed on the label, the packaging, or the package leaflet of the products containing synthetic polymer microparticles or, regarding the information in paragraph 7, on the safety data sheet. In addition to the text or pictograms, suppliers may provide a digital tool that gives access to an electronic version of that information.\nWhere instructions for use and disposal are provided in accordance with paragraphs 7, 8 and 9 in the form of a text, they shall be in the official languages of the Member States where the substance or mixture is placed on the market, unless the Member States concerned provide otherwise.\n11. Starting from 2026 manufacturers and industrial downstream users of synthetic polymer microparticles in the form of pellets, flakes, and powders used as feedstock in plastic manufacturing at industrial sites, and, starting from 2027, other manufacturers of synthetic polymer microparticles and other industrial downstream users using synthetic polymer microparticles at industrial sites shall submit the following information to the Agency by 31 May of each year:\n(a) a description of the uses of synthetic polymer microparticles in the previous calendar year;\n(b) for each use of synthetic polymer microparticles, generic information on the identity of the polymers used;\n(c) for each use of synthetic polymer microparticles, an estimate of the quantity of synthetic polymer microparticles released to the environment in the previous calendar year, which shall include also the quantity of synthetic polymer microparticles released to the environment during transportation.\n(d) for each use of synthetic polymer microparticles, a reference to the derogation laid down in paragraph 4, point (a).\n12. From 2027, suppliers of products containing synthetic polymer microparticles referred to in paragraphs 4, points (b), (d) and (e), and paragraph 5, placed on the market for the first time to professional users and the general public, shall submit the following information to the Agency by 31 May of each year:\n(a) a description of the end uses for which the synthetic polymer microparticles were placed on the market in the previous calendar year;\n(b) for each end use for which the synthetic polymer microparticles were placed on the market, generic information on the identity of the polymers placed on the market in the previous calendar year;\n(c) for each end use for which the synthetic polymer microparticles were placed on the market, an estimate of the quantity of synthetic polymer microparticles released to the environment in the previous calendar year, which shall include also the quantity of synthetic polymer microparticles released to the environment during transportation.\n(d) for each use of synthetic polymer microparticles, a reference to the applicable derogation or derogations laid down in paragraph 4, point (b), (d) or (e), or 5 point (a), (b) or (c).\n13. The Agency shall make the information submitted under paragraphs 11 and 12 available to the Member States.\n14. Manufacturers, importers and industrial downstream users of products containing synthetic polymer microparticles shall provide specific information on the identity of polymers covered by this entry contained in those products and the function of those polymers in the products to competent authorities upon their request. The specific information on the polymer identity shall be sufficient to unequivocally identify polymers and shall at least include the information laid down in points 2.1 to 2.2.3 and points 2.3.5, 2.3.6 and 2.3.7 of Annex VI, where applicable.\nIf the information is not available to industrial downstream users, they shall request it from their supplier within 7 days from the receipt of the request from the competent authorities and shall inform the authorities of the request made without delay.\nHaving received the request referred to in the second subparagraph, the suppliers shall provide the requested information within 30 days to the industrial downstream user or directly to the competent authority requesting it.\nWhere the supplier provides the information to the industrial downstream user, the industrial downstream user shall forward that information to the competent authorities without delay.\nWhere the supplier provides the information directly to the authority, it shall without delay inform the industrial downstream user concerned to that effect.\n15. Manufacturers, importers and industrial downstream users of products containing polymers claimed to be excluded from the designation of synthetic polymer microparticles on grounds of degradability or solubility shall provide, without delay, information proving that those polymers are degradable in accordance with Appendix 15 or soluble in accordance with Appendix 16, as applicable, to competent authorities upon their request.\n16. Paragraph 1 shall not apply to placing on the market of synthetic polymers microparticles, on their own or in mixtures, placed on the market before 17 October 2023.\nHowever, the first subparagraph shall not apply to the placing on the market of synthetic polymers microparticles for uses listed in paragraph 6.\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Synthetic polymer microparticles:"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "80",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "80",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "80. N,N-dimethylacetamide (DMAC)\nCAS No 127-19-5\nEC No 204-826-4",
+                    "1. Shall not be placed on the market as a substance on its own, as a constituent of other substances, or in mixtures in a concentration equal to or greater than 0,3 % after 23 December 2026 unless manufacturers, importers and downstream users have included in the relevant chemical safety reports and safety data sheets, derived no-effect levels (DNELs) relating to exposure of workers of 13 mg/m3 for long-term exposure by inhalation and 1,8 mg/kg bw/day for long-term dermal exposure.\n2. Shall not be manufactured, or used, as a substance on its own, as a constituent of other substances, or in mixtures in a concentration equal to or greater than 0,3 % after 23 December 2026 unless manufacturers and downstream users take the appropriate risk management measures and provide the appropriate operational conditions to ensure that exposure of workers is below the DNELs specified in paragraph 1.\n3. By way of derogation from paragraphs 1 and 2, the obligations laid down therein shall apply from 23 June 2029 in relation to placing on the market for use, or use, as a solvent in the production of man-made fibres."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127-19-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-826-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N,N-dimethylacetamide (DMAC)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "81",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "81",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "81. 1-ethylpyrrolidin-2-one (NEP)\nCAS No 2687-91-4\nEC No 220-250-6",
+                    "1. Shall not be placed on the market as a substance on its own, as a constituent of other substances, or in mixtures in a concentration equal to or greater than 0,3 % after 23 December 2026 unless manufacturers, importers and downstream users have included in the relevant chemical safety reports and safety data sheets, derived no-effect levels (DNELs) relating to exposure of workers of 4,0 mg/m3 for long-term exposure by inhalation and 2,4 mg/kg bw/day for long-term dermal exposure.\n2. Shall not be manufactured, or used, as a substance on its own, as a constituent of other substances, or in mixtures in a concentration equal to or greater than 0,3 % after 23 December 2026 unless manufacturers and downstream users take the appropriate risk management measures and provide the appropriate operational conditions to ensure that exposure of workers is below the DNELs specified in paragraph 1."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2687-91-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-250-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-ethylpyrrolidin-2-one (NEP)"
+              }
+            }
+          ],
+          "unchanged": 1957,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -225,6 +511,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
