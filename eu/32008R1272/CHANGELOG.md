@@ -3019,6 +3019,8 @@ Part C's section 1.4 (and related identification text) is updated to add referen
 
 *within* `AN VI SCT 3` · *amended by* `32022R0692`
 
+Table entries: 39 added, 17 amended, 0 removed: Index No 014-001-00-9, Index No 014-052-00-7, Index No 023-001-00-8, Index No 035-005-00-7, Index No 050-032-00-4, Index No 050-033-00-X, Index No 052-001-00-0, Index No 052-002-00-6, Index No 056-005-00-3, Index No 601-024-00-X and 46 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02008R1272-20230731`)
