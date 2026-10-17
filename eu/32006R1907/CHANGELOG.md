@@ -1497,7 +1497,9 @@ The introductory wording of paragraph 5 is also reworded from describing the Age
 
 *within* `AN XIV`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
+
+Table entries: 0 added, 1 amended (1 only in spacing, dash forms or accents), 0 removed: Entry 50
 
 The only differences visible are formatting changes in the rows for entries 47 to 50, where the latest application date and sunset date now appear on the same line instead of separate lines, and the em-dash placeholders for EC No and CAS No in entry 50 are rendered as plain hyphens. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200227#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20200428#anx_XIV)
 
