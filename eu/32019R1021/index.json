@@ -43,10 +43,10 @@
       "in_force": [
         "2026-01-01"
       ],
-      "updated_on": "2026-09-05",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32019R1021/changes/02019R1021-20260101.json",
-      "sha256": "f3f16b13539290d64624e76caf2bf148bf5a4f369bd4f97be5132f48f27c1161",
+      "sha256": "d7a0fb4a44a6c917c75b0cdfa48be4c904f32a78c19cf4feafbe389f609b5b6a",
       "diff_only": false,
       "counts": {
         "touched": 6,
@@ -61,6 +61,10 @@
         {
           "kind": "corroboration",
           "repaired_on": "2026-09-05"
+        },
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
         }
       ],
       "evidence": false,

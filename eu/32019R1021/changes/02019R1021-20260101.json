@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -54,6 +54,7 @@
           "AR 8 PA 1 ALN 1 PTA (i)",
           "AR 8 PA 1a"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -90,7 +91,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -176,6 +178,7 @@
           "AR 13 PA 2 ALN 1",
           "AR 13 PA 2 ALN 2"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -212,7 +215,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -304,6 +308,7 @@
         "changed_within": [
           "AR 15 PA 2 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -340,7 +345,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -453,6 +459,7 @@
           "AR 18 PA 3 ALN 1",
           "AR 18 PA 6 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -494,7 +501,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -571,6 +579,7 @@
         "after": "Article 21b\nReview\nTaking due account of any regulatory developments concerning the status of the resources and of the governance of the scientific committees of the European Chemicals Agency, the Commission shall monitor the situation regarding the tasks, workload and remit of the scientific committees, and, where appropriate, present a legislative proposal to amend this Regulation accordingly.",
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -608,7 +617,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -655,6 +665,383 @@
         "changed_within": [
           "AN IV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN IV",
+              "container": "AN IV",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substance",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit referred to in Article 7(4)(a)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "alkanes c10-c13, chloro (short-chain chlorinated paraffins) (sccps)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "alkanes c10-c13, chloro (short-chain chlorinated paraffins) (sccps)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)",
+                    "85535-84-8",
+                    "287-476-5",
+                    "1500 mg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85535-84-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "287-476-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "alkanes c10-c13, chloro (short-chain chlorinated paraffins) (sccps)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)",
+                    "85535-84-8",
+                    "287-476-5",
+                    "1500 mg/kg\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85535-84-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "287-476-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "hexabromocyclododecane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "hexabromocyclododecane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromocyclododecane\n",
+                    "25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8",
+                    "247-148-4\n221-695-9",
+                    "500 mg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value to not higher than 200 mg/kg no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134237-50-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-51-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-52-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25637-99-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3194-55-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-695-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-148-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromocyclododecane"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "hexabromocyclododecane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromocyclododecane\n",
+                    "25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8",
+                    "247-148-4\n221-695-9",
+                    "500 mg/kg\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value to not higher than 200 mg/kg."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "134237-50-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-51-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "134237-52-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25637-99-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3194-55-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-695-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-148-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromocyclododecane"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "perfluorohexane sulfonic acid (pfhxs), its salts and pfhxs-related compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "perfluorohexane sulfonic acid (pfhxs), its salts and pfhxs-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds",
+                    "355-46-4 and others",
+                    "206-587-1 and others",
+                    "1 mg/kg\n(PFHxS and its salts), 40 mg/kg\n(sum of PFHxS-related compounds)\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "355-46-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-587-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "perfluorohexane sulfonic acid (pfhxs), its salts and pfhxs-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds",
+                    "355-46-4 and others",
+                    "206-587-1 and others",
+                    "1 mg/kg (PFHxS and its salts),\n40 mg/kg (sum of PFHxS-related compounds)\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "355-46-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-587-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds, as set out in annex i",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds, as set out in annex i",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I",
+                    "335-67-1 and others",
+                    "206-397-9 and others",
+                    "1 mg/kg\n(PFOA and its salts),\n40 mg/kg\n(sum of PFOA-related compounds)\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds, as set out in annex i",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I",
+                    "335-67-1 and others",
+                    "206-397-9 and others",
+                    "1 mg/kg (PFOA and its salts),\n40 mg/kg (sum of PFOA-related compounds)\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "polychlorinated dibenzo-p-dioxins and dibenzofurans (pcdd/pcdf) and dioxin-like polychlorinated biphenyls (dl-pcbs)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "polychlorinated dibenzo-p-dioxins and dibenzofurans (pcdd/pcdf) and dioxin-like polychlorinated biphenyls (dl-pcbs)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)",
+                    "",
+                    "",
+                    "5 μg/kg\nThe Commission shall review that concentration limit and shall, where appropriate, adopt a legislative proposal to lower that value, where such lowering is feasible in accordance with scientific and technical progress, no later than 30 December 2027."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "polychlorinated dibenzo-p-dioxins and dibenzofurans (pcdd/pcdf) and dioxin-like polychlorinated biphenyls (dl-pcbs)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)",
+                    "",
+                    "",
+                    "5 μg/kg\nBy 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)"
+              }
+            }
+          ],
+          "unchanged": 25,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -691,7 +1078,8 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -1097,7 +1485,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -1137,6 +1526,20 @@
       "repaired_on": "2026-09-05",
       "addressed": 6,
       "repaired": 0,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

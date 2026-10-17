@@ -211,6 +211,8 @@ A new Article 21b, titled Review, has been added, directing the Commission to mo
 
 *within* `AN IV` · *amended by* `32025R2457`
 
+Table entries: 0 added, 5 amended, 0 removed: "Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)", "Hexabromocyclododecane", "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds", "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I", "Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)"
+
 In each of the five review clauses concerning concentration limits (for short-chain chlorinated paraffins, PCDD/PCDF and dl-PCBs, hexabromocyclododecane, PFOA, and PFHxS), the wording changed from stating that the Commission shall adopt a legislative proposal to lower the value, to stating that the Commission shall adopt a delegated act in accordance with Article 15(2) to lower the value. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#anx_IV)
 
 The deadline reference in each clause was also rephrased from ending with the words no later than 30 December 2027 to beginning with the words by 30 December 2027, without changing the date itself. [Annex IV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#anx_IV) [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20260101#anx_IV)
