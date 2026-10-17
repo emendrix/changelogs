@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -55,6 +55,908 @@
           "AN XVII APP 6",
           "AN XVII APP 11"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "006-015-00-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "006-015-00-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diuron (ISO); 3-(3,4-dichlorophenyl)-1,1-dimethylurea",
+                    "006-015-00-9",
+                    "206-354-4",
+                    "330-54-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "330-54-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-354-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "006-015-00-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diuron (ISO); 3-(3,4-dichlorophenyl)-1,1-dimethylurea"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "604-074-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "604-074-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,2',6,6'-tetrabromo-4,4'-isopropylidenediphenol; tetrabromobisphenol-A",
+                    "604-074-00-0",
+                    "201-236-9",
+                    "79-94-7",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "79-94-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-236-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "604-074-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,2',6,6'-tetrabromo-4,4'-isopropylidenediphenol; tetrabromobisphenol-A"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "612-296-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "612-296-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "N,N-dimethyl-p-toluidine",
+                    "612-296-00-4",
+                    "202-805-4",
+                    "99-97-8",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99-97-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-805-4"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-296-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N,N-dimethyl-p-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "613-346-00-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "613-346-00-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-nitrosomorpholine",
+                    "613-346-00-8",
+                    "-",
+                    "59-89-2",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "59-89-2"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-346-00-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-nitrosomorpholine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key": "613-349-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 2",
+                "table": 1,
+                "key": "613-349-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-methylimidazole",
+                    "613-349-00-4",
+                    "212-497-3",
+                    "822-36-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "822-36-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-497-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-349-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-methylimidazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key": "015-208-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 4",
+                "table": 1,
+                "key": "015-208-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dimethyl propylphosphonate",
+                    "015-208-00-7",
+                    "242-555-3",
+                    "18755-43-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "18755-43-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "242-555-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "015-208-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dimethyl propylphosphonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "015-203-00-X",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "015-203-00-X",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide",
+                    "015-203-00-X",
+                    "278-355-8",
+                    "75980-60-8",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75980-60-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "278-355-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "015-203-00-X"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "015-204-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "015-204-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "benzyl(diethylamino)diphenylphosphonium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate",
+                    "015-204-00-5",
+                    "479-100-5",
+                    "577705-90-9",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "577705-90-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "479-100-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "015-204-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "benzyl(diethylamino)diphenylphosphonium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "015-205-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "015-205-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "benzyltriphenylphosphonium, salt with 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis[phenol] (1:1)",
+                    "015-205-00-0",
+                    "278-305-5",
+                    "75768-65-9",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75768-65-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "278-305-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "015-205-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "benzyltriphenylphosphonium, salt with 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis[phenol] (1:1)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "015-206-00-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "015-206-00-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "reaction mass of 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol and benzyl(diethylamino)diphenylphosphonium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate (1:1)",
+                    "015-206-00-6",
+                    "-",
+                    "-",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "015-206-00-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "reaction mass of 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol and benzyl(diethylamino)diphenylphosphonium 4-[1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl]phenolate (1:1)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "015-207-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "015-207-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "reaction mass of 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol and benzyltriphenylphosphonium, salt with 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol (1:1)",
+                    "015-207-00-1",
+                    "-",
+                    "-",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "015-207-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "reaction mass of 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol and benzyltriphenylphosphonium, salt with 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol (1:1)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "015-208-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "015-208-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dimethyl propylphosphonate",
+                    "015-208-00-7",
+                    "242-555-3",
+                    "18755-43-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "18755-43-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "242-555-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "015-208-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dimethyl propylphosphonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "050-034-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "050-034-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dibutyltin maleate",
+                    "050-034-00-5",
+                    "201-077-5",
+                    "78-04-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "78-04-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-077-5"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "050-034-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutyltin maleate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "050-035-00-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "050-035-00-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dibutyltin oxide",
+                    "050-035-00-0",
+                    "212-449-1",
+                    "818-08-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "818-08-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-449-1"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "050-035-00-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutyltin oxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "603-244-00-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "603-244-00-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Reaction mass of 1-(2,3-epoxypropoxy)-2,2-bis ((2,3-epoxypropoxy)methyl) butane and 1-(2,3-epoxypropoxy)-2-((2,3-epoxypropoxy)methyl)-2-hydroxymethyl butane",
+                    "603-244-00-1",
+                    "-",
+                    "-",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "index",
+                    "value": "603-244-00-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Reaction mass of 1-(2,3-epoxypropoxy)-2,2-bis ((2,3-epoxypropoxy)methyl) butane and 1-(2,3-epoxypropoxy)-2-((2,3-epoxypropoxy)methyl)-2-hydroxymethyl butane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "604-099-00-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "604-099-00-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol; bisphenol AF",
+                    "604-099-00-7",
+                    "216-036-7",
+                    "1478-61-1",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1478-61-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-036-7"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "604-099-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]diphenol; bisphenol AF"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "612-298-00-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "612-298-00-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,4-Benzenediamine, N,N-mixed Ph and tolyl derivs.;",
+                    "612-298-00-5",
+                    "273-227-8",
+                    "68953-84-4’",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68953-84-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "273-227-8"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "612-298-00-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,4-Benzenediamine, N,N-mixed Ph and tolyl derivs.;"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key": "613-349-00-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-349-00-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-methylimidazole",
+                    "613-349-00-4",
+                    "212-497-3",
+                    "822-36-6",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "822-36-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-497-3"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "613-349-00-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-methylimidazole"
+              }
+            }
+          ],
+          "unchanged": 1960,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -246,6 +1148,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

@@ -197,6 +197,8 @@ The remainder of the Annex, including the numbered restriction entries shown, ap
 
 *within* `AN XVII APP 2`, `AN XVII APP 4`, `AN XVII APP 6`, `AN XVII APP 11` · *amended by* `32025R1731`
 
+Table entries: 18 added, 0 amended, 0 removed: Index No 006-015-00-9, Index No 604-074-00-0, Index No 612-296-00-4, Index No 613-346-00-8, Index No 613-349-00-4, Index No 015-208-00-7, Index No 015-203-00-X, Index No 015-204-00-5, Index No 015-205-00-0, Index No 015-206-00-6 and 8 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20250623`)
