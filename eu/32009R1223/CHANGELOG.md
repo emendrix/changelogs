@@ -2250,6 +2250,8 @@ The earlier version of the entry for reference number 27a did not include these 
 
 *within* `AN II` · *dates* +2019-11-22 +2020-02-22 · *amended by* `32019R0831`, `32019R0681`, `32019R1966`
 
+Table entries: 228 added, 1 amended, 0 removed: Reference number 395, Reference number 1384, Reference number 1385, Reference number 1386, Reference number 1387, Reference number 1388, Reference number 1389, Reference number 1390, Reference number 1391, Reference number 1392 and 219 more
+
 A new introductory statement has been added specifying that from 22 November 2019 hair dye, eyebrow dye and eyelash dye products containing certain substances shall not be placed on the Union market, and that from 22 February 2020 such products shall not be made available on the Union market. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20190617#anx_II)
 
 Entry 395 for Hydroxy-8-quinoline and its sulphate has been changed: the CAS number 148-24-3 is replaced with 148-24-2 for the base substance, the numbers are reformatted onto separate lines, and the qualifying phrase referencing an exception for uses under Annex III reference No 51 has been removed. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20190617#anx_II)
@@ -2302,6 +2304,8 @@ The text shown is truncated in both versions, so any further differences in the 
 
 *within* `AN III` · *dates* +2005-09-07 +2019-11-27 +2020-02-27 · *amended by* `32019R0831`, `32019R1966`, `32019R0698`
 
+Table entries: 3 added, 1 amended, 0 removed: Reference number 12, Reference number 310, Reference number 311, Reference number 312
+
 The footnote referencing Directive 2005/36/EC is expanded from a bare journal citation into a full description naming the Directive and its subject before giving the same Official Journal reference. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20190617#anx_III)
 
 Two new footnotes are added covering 1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one, one stating a placing-on-the-market cutoff of 27 November 2019 and the other a making-available cutoff of 27 February 2020, along with a new footnote pointing to Annex V, entry 32 for preservative use. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20190617#anx_III)
@@ -2351,6 +2355,8 @@ Entry 12 on hydrogen peroxide and related compounds now carries an added excepti
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN V`, `AN V SCT 2` · *dates* +2019-06-17 +2019-09-17 · *amended by* `32019R0831`, `32018R1847`
+
+Table entries: 0 added, 2 amended, 0 removed: Reference number 7, Reference number 28
 
 The preamble text about formaldehyde-releasing substances in the finished-product warning rule was reworded slightly, dropping the phrase referring to formaldehyde itself as a substance in the list, and a new paragraph was added stating transition dates for cosmetic products containing Biphenyl-2-ol that do not comply with the conditions, one for placing on the market and one for making available on the market. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20190617#anx_V)
 
@@ -2407,6 +2413,8 @@ Entry 28 was changed from identifying the substance as Poly(methylene),.alpha.,.
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32019R0680`
+
+Table entries: 1 added, 0 amended, 0 removed: Reference number 31
 
 A new entry, numbered 31, has been added to the table listing Phenylene Bis-Diphenyltriazine, identified by its chemical name, CAS number 55514-22-2 and EC number 700-823-1, with a maximum concentration of 5 % and a condition restricting use to avoid exposure of the end user's lungs by inhalation. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20190617#anx_VI)
 
