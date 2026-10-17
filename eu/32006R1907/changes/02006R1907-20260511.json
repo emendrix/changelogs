@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,215 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "83",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "83",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "83. 2,4-dinitrotoluene\nCAS No 121-14-2\nEC No 204-450-0",
+                    "1. After 10 May 2027, shall not be placed on the market, or used, as a substance in articles for professional users or the general public, in a concentration equal to or greater than 0,1 % by weight.\n2. For the purpose of this entry, professional user shall mean any worker or self-employed worker operating outside of industrial sites.\n3. Paragraph 1 shall not apply to:\n(a) explosives, as defined in Article 2, point (1), of Directive 2014/28/EU;\n(b) articles for military use;\n(c) ammunition for use, in accordance with national law, by the police or other security forces;\n(d) toys within the scope of Regulation (EU) 2025/2509 of the European Parliament and Council\n;\n(e) devices within the scope of Regulation (EU) 2017/745;\n(f) articles intended to come into contact with food, within the scope of Regulation (EC) No 1935/2004.\n4. The following shall not be covered by paragraph 3(a):\n(a) pyrotechnic articles, as defined in Article 3, point (1), of Directive 2013/29/EU;\n(b) ammunition.\n5. Paragraph 1, shall apply from 11 May 2029 to the placing on the market and use of 2,4-dinitrotoluene in the following applications, where they are placed on the market for use, or used in motor vehicles as defined in Article 3, point (16), of Regulation (EU) 2018/858 of the European Parliament and of the Council\n:\n(a) micro gas generators for seat belt pre-tensioners and bonnet actuators;\n(b) spare parts.\n6. Paragraph 1 shall not apply to motor vehicles referred to in paragraph 5, that meet the following conditions:\n(a) were placed on the market between 11 May 2027 and 11 May 2029;\n(b) contain 2,4-dinitrotoluene only in applications listed in paragraph 5, point (a) or point (b).\n7. Paragraph 1 shall not apply to 2,4-dinitrotoluene in articles placed on the market in the Union before 11 May 2027.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "121-14-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-450-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,4-dinitrotoluene"
+              }
+            }
+          ],
+          "unchanged": 1979,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -302,6 +511,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

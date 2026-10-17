@@ -93,6 +93,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN XVII` · *dates* +2018-05-30 +2025-11-26 +2027-05-10 +2027-05-11 +2029-05-11 · *amended by* `32026R0859`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 83
+
 The list of referenced Union acts that precedes the substance table has had three new entries added, citing Regulation (EU) 2025/2509 on the safety of toys (repealing Directive 2009/48/EC) and Regulation (EU) 2018/858 on the approval and market surveillance of motor vehicles. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20260511#anx_XVII)
 
 The earlier version's reference list did not include these two acts. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20251023#anx_XVII)
