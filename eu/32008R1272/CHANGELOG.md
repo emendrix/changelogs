@@ -5858,7 +5858,7 @@ Both the before and after texts are cut off before the end of the section, so an
 
 *within* `AR 14 PA 2 ALN 1 PTA (b)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only visible change is the punctuation ending point (b) of Article 14(2)(1), which switches from a semicolon to a full stop. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#art_14) [Art. 14, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#art_14)
 
@@ -5894,7 +5894,7 @@ The only visible change is the punctuation ending point (b) of Article 14(2)(1),
 
 *within* `AR 23 ALN 1 PTA (e)`, `AR 23 ALN 1 PTA (f)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The list of items to which the specific labelling provisions of section 1.3 of Annex I apply now includes an additional point (f), covering substances or mixtures classified as corrosive to metals but not corrosive to skin and/or eyes. [Art. 23, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#art_23)
 
@@ -5959,7 +5959,7 @@ A new provision was added to paragraph 2 stating that where a liquid consumer la
 
 *within* `AN I SCT 1 SCT 1.3 SCT 1.3.6`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4`, `AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.5`, `AN I SCT 2 SCT 2.1 SCT 2.1.2`, `AN I SCT 2 SCT 2.1 SCT 2.1.3`, `AN I SCT 2 SCT 2.1 SCT 2.1.4 SCT 2.1.4.2`, `AN I SCT 2 SCT 2.1 SCT 2.1.4 PTA (a)`, `AN I SCT 2 SCT 2.2`, `AN I SCT 2 SCT 2.2 SCT 2.2.1`, `AN I SCT 2 SCT 2.2 SCT 2.2.2`, `AN I SCT 2 SCT 2.2 SCT 2.2.3`, `AN I SCT 2 SCT 2.2 SCT 2.2.4`, `AN I SCT 2 SCT 2.3`, `AN I SCT 2 SCT 2.3 SCT 2.3.2`, `AN I SCT 2 SCT 2.3 SCT 2.3.3`, `AN I SCT 2 SCT 2.3 SCT 2.3.4`, `AN I SCT 2 SCT 2.4 SCT 2.4.2`, `AN I SCT 2 SCT 2.4 SCT 2.4.4`, `AN I SCT 2 SCT 2.5 SCT 2.5.1`, `AN I SCT 2 SCT 2.5 SCT 2.5.2`, `AN I SCT 2 SCT 2.5 SCT 2.5.4`, `AN I SCT 2 SCT 2.7 SCT 2.7.2`, `AN I SCT 2 SCT 2.8 SCT 2.8.2 PTA (e)`, `AN I SCT 2 SCT 2.8 SCT 2.8.2 SCT 2.8.2.4`, `AN I SCT 2 SCT 2.8 SCT 2.8.4`, `AN I SCT 2 SCT 2.8 SCT 2.8.4 PTA (a)`, `AN I SCT 2 SCT 2.8 SCT 2.8.4 PTA (b)`, `AN I SCT 2 SCT 2.9 SCT 2.9.2`, `AN I SCT 2 SCT 2.10 SCT 2.10.2`, `AN I SCT 2 SCT 2.11 SCT 2.11.2`, `AN I SCT 2 SCT 2.12 SCT 2.12.2`, `AN I SCT 2 SCT 2.13 SCT 2.13.2`, `AN I SCT 2 SCT 2.13 SCT 2.13.4`, `AN I SCT 2 SCT 2.14 SCT 2.14.2`, `AN I SCT 2 SCT 2.15 SCT 2.15.2 PTA (g)`, `AN I SCT 2 SCT 2.15 SCT 2.15.2 SCT 2.15.2.3`, `AN I SCT 2 SCT 2.15 SCT 2.15.2 SCT 2.15.2.3 PTA (b)`, `AN I SCT 2 SCT 2.15 SCT 2.15.4`, `AN I SCT 2 SCT 2.16 SCT 2.16.2`, `AN I SCT 2 SCT 2.16 SCT 2.16.3`, `AN I SCT 2 SCT 2.16 SCT 2.16.4`, `AN I SCT 3 SCT 3.1 SCT 3.1.2`, `AN I SCT 3 SCT 3.1 SCT 3.1.3 SCT 3.1.3.6 SCT 3.1.3.6.2`, `AN I SCT 3 SCT 3.1 SCT 3.1.4`, `AN I SCT 3 SCT 3.2 SCT 3.2.3 SCT 3.2.3.3`, `AN I SCT 3 SCT 3.2 SCT 3.2.4`, `AN I SCT 3 SCT 3.3 SCT 3.3.3 SCT 3.3.3.3`, `AN I SCT 3 SCT 3.4 SCT 3.4.3 SCT 3.4.3.3`, `AN I SCT 3 SCT 3.4 SCT 3.4.4`, `AN I SCT 3 SCT 3.5 SCT 3.5.3 SCT 3.5.3.1`, `AN I SCT 3 SCT 3.5 SCT 3.5.4`, `AN I SCT 3 SCT 3.6 SCT 3.6.3 SCT 3.6.3.1`, `AN I SCT 3 SCT 3.6 SCT 3.6.4`, `AN I SCT 3 SCT 3.7 SCT 3.7.3 SCT 3.7.3.1`, `AN I SCT 3 SCT 3.7 SCT 3.7.4`, `AN I SCT 3 SCT 3.8 SCT 3.8.4`, `AN I SCT 3 SCT 3.9 SCT 3.9.2 SCT 3.9.2.9`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.4 SCT 4.1.3.4.3`, `AN I SCT 4 SCT 4.1 SCT 4.1.3 SCT 4.1.3.5 SCT 4.1.3.5.5 SCT 4.1.3.5.5.5 SCT 4.1.3.5.5.5.1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 A new sub-section 1.3.6 was added covering substances or mixtures classified as corrosive to metals but not corrosive to skin and/or eyes, stating that in finished consumer packaging they do not require the GHS05 pictogram on the label. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_I)
 
@@ -6065,7 +6065,7 @@ The former section 3.2.2 provisions on tactile warning device specifications are
 
 *within* `AN III SCT 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The heading for hazard code H222/H223 was changed from "Flammable aerosols" to "Aerosols" in the physical hazards table. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_III)
 
@@ -6139,7 +6139,7 @@ In the earlier text the Croatian translation was present for H223, while in the 
 
 *within* `AN IV`, `AN IV SCT 1`, `AN IV SCT 2`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The after text adds three introductory paragraphs explaining how square brackets, the backslash/diagonal mark, and three full stops are to be read in column (2) of the precautionary statement tables, none of which appear in the before text. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_IV)
 
@@ -6197,7 +6197,7 @@ Table 6.4 storage entries such as P410, P411 and P412 and their combined codes a
 
 *within* `AN V SCT 1 SCT 1.2`, `AN V SCT 1 SCT 1.6`, `AN V SCT 3 SCT 3.1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In section 1.2 the entry for section 2.3 is renamed from "Flammable aerosols" to "Aerosols", and section 1.6 adds a new line listing section 2.3 Aerosols, hazard Category 3 as not requiring a pictogram. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_V)
 
@@ -6319,6 +6319,8 @@ In section 3.1 the aquatic environment hazard labels are reworded, changing "Acu
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.2`, `AN VI SCT 1 SCT 1.2 SCT 1.2.3`, `AN VI SCT 3` · *amended by* `32014R0605`
 
+Table entries: 28 added, 186 amended (169 only in spacing, dash forms or accents), 0 removed: Index No 006-086-00-6, Index No 015-154-00-4, Index No 015-192-00-1, Index No 050-028-00-2, Index No 050-029-00-8, Index No 601-023-00-4, Index No 601-026-00-0, Index No 601-088-00-9, Index No 601-089-00-4, Index No 603-061-00-7 and 204 more
+
 Table 1.1 in section 1.1.2.1.1 adds new hazard class and category codes, splitting the former 'Flammable aerosol' row into separate Chemically Unstable Gas categories A and B alongside the Flam. Gas 1 and 2 codes, and replacing the 'Flammable aerosol' entries with a broader 'Aerosol' class containing three categories. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VI)
 
 Section 1.1.2.1.2 rewords the sentence describing how letters are added to hazard statement codes, now saying the letters are added to the 3-digit hazard statement code for further differentiations rather than simply to the 3-digit code. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VI)
@@ -6355,7 +6357,7 @@ Section 1.2.3 rewrites its description of hazard statements H360 and H361, chang
 
 *within* `AN VII SCT 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Note 4 under Table 1.1 now describes H360 and H361 as indicating a general concern for effects on fertility and/or development rather than for reproductive properties related to fertility and developmental effects separately. [Annex VII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150101#anx_VII) [Annex VII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20150601#anx_VII)
 
