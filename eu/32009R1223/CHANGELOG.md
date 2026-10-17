@@ -3404,6 +3404,8 @@ Two new entries, numbered 30 and 30a, are added to the table for zinc oxide and 
 
 *within* `AN III` · *amended by* `32016R0314`
 
+Table entries: 1 added, 0 amended, 0 removed: Reference number x
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20150818`)
