@@ -872,6 +872,8 @@ A new line item for Dicofol, with CAS number 115-32-2, EC number 204-082-0 and n
 
 *within* `AN I` · *dates* +2017-04-05 +2020-07-04 +2020-12-03 +2022-07-05 +2023-01-01 +2023-07-04 +2025-07-04 +2026-12-31 +2036-12-31 · *amended by* `32020R0784`
 
+Table entries: 1 added, 0 amended, 0 removed: "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
+
 The list of legal acts referenced in the introductory material of Annex I now includes a citation to Regulation (EU) 2017/745 on medical devices, which was absent from the earlier version. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200704#anx_I)
 
 Part A of Annex I gains an entirely new entry for Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, including its definition, CAS and EC numbers, and a detailed set of specific exemptions and conditions covering concentration limits, derogated uses, reporting and review dates, and treatment of articles already in use, none of which appeared in the earlier text. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20190625#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200704#anx_I)
