@@ -3575,6 +3575,8 @@ In the definition of phase-in substance, points (b) and (c) both add a reference
 
 *within* `AN XIV` · *dates* +2014-10-21 +2016-03-21 +2016-04-21 +2017-09-21 · *amended by* `32013R0348`
 
+Table entries: 8 added, 0 amended, 0 removed: Entry 15, Entry 16, Entry 17, Entry 18, Entry 19, Entry 20, Entry 21, Entry 22
+
 The later text keeps all fourteen entries from the earlier list unchanged and adds eight new entries, numbered 15 through 22, covering additional substances such as Trichloroethylene, Chromium trioxide, and several chromate and dichromate compounds. [Annex XIV, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130306#anx_XIV) [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#anx_XIV)
 
 Each newly added entry sets out its own intrinsic property classification, latest application date, and sunset date, with dates in 2014 or 2016 and 2016 or 2017 respectively, and shows no exempted uses or review periods. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20130421#anx_XIV)

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,385 @@
         "changed_within": [
           "AN XIV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XIV",
+              "container": "AN XIV",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Entry Nr",
+                  "Substance",
+                  "Intrinsic property(ies) referred to in Article 57",
+                  "Transitional arrangements",
+                  null,
+                  "Exempted (categories of) uses",
+                  "Review periods"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  "Latest application date\n",
+                  "Sunset date\n",
+                  null,
+                  null
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "15",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "15",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "15.",
+                    "Trichloroethylene\nEC No: 201-167-4\nCAS No: 79-01-6",
+                    "Carcinogenic\n(category 1B)",
+                    "21 October 2014",
+                    "21 April 2016",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "79-01-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-167-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trichloroethylene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "16",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "16",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "16.",
+                    "Chromium trioxide\nEC No: 215-607-8\nCAS No: 1333-82-0",
+                    "Carcinogenic\n(category 1A)\nMutagenic\n(category 1B)",
+                    "21 March 2016",
+                    "21 September 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1333-82-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-607-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chromium trioxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "17",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "17",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "17.",
+                    "Acids generated from chromium trioxide and their oligomers\nGroup containing:\nChromic acid\nEC No: 231-801-5\nCAS No: 7738-94-5\nDichromic acid\nEC No: 236-881-5\nCAS No: 13530-68-2\nOligomers of chromic acid and dichromic acid\nEC No: not yet assigned\nCAS No: not yet assigned",
+                    "Carcinogenic\n(category 1B)",
+                    "21 March 2016",
+                    "21 September 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13530-68-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7738-94-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-801-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-881-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acids generated from chromium trioxide and their oligomers"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "18",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "18",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "18.",
+                    "Sodium dichromate\nEC No: 234-190-3\nCAS No: 7789-12-0\n10588-01-9",
+                    "Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B)",
+                    "21 March 2016",
+                    "21 September 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10588-01-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7789-12-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-190-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium dichromate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "19",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "19",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "19.",
+                    "Potassium dichromate\nEC No: 231-906-6\nCAS No: 7778-50-9",
+                    "Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B)",
+                    "21 March 2016",
+                    "21 September 2017",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7778-50-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-906-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Potassium dichromate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "20",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "20",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "20.",
+                    "Ammonium dichromate\nEC No: 232-143-1\nCAS No: 7789-09-5",
+                    "Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B)",
+                    "21 March 2016",
+                    "21 September 2017",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7789-09-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-143-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ammonium dichromate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "21",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "21",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "21.",
+                    "Potassium chromate\nEC No: 232-140-5\nCAS No: 7789-00-6",
+                    "Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)",
+                    "21 March 2016",
+                    "21 September 2017",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7789-00-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-140-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Potassium chromate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "22",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "22",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "22.",
+                    "Sodium chromate\nEC No: 231-889-5\nCAS No: 7775-11-3",
+                    "Carcinogenic\n(category 1B)\nMutagenic\n(category 1B)\nToxic for reproduction\n(category 1B)",
+                    "21 March 2016",
+                    "21 September 2017",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7775-11-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-889-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium chromate"
+              }
+            }
+          ],
+          "unchanged": 14,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -282,6 +661,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
