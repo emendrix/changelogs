@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,206 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "79",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "79",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "79. Undecafluorohexanoic acid (PFHxA), its salts and PFHxA-related substances:\n(a) having a linear or branched perfluoropentyl group with the formula C5F11- directly attached to another carbon atom as one of the structural elements; or\n(b) having a linear or branched perfluorohexyl group with the formula C6F13-.\nThe following substances are excluded from this designation:\n(a) C6F14;\n(b) C6F13-C(=O)OH, C6F13-C(=O)O-X′ or C6F13-CF2-X′ (where X′ = any group, including salts);\n(c) any substance having a perfluoroalkyl group C6F13- directly attached to an oxygen atom at one of the non-terminal carbon atoms.",
+                    "1. Shall not, from 10 October 2026 be placed on the market, or used, in a concentration equal to or greater than 25 ppb for the sum of PFHxA and its salts, or 1 000 ppb for the sum of PFHxA-related substances, measured in homogeneous material, in the following:\n(a) textiles, leather, furs and hides in clothing and related accessories for the general public;\n(b) footwear for the general public;\n(c) paper and cardboard used as food contact materials within the scope of Regulation (EC) No 1935/2004;\n(d) mixtures for the general public;\n(e) cosmetic products as defined in Article 2(1), point (a), of Regulation (EC) No 1223/2009.\n2. Shall not, from 10 October 2027 be placed on the market, or used, in a concentration equal to or greater than 25 ppb for the sum of PFHxA and its salts, or 1 000 ppb for the sum of PFHxA-related substances, measured in homogeneous material, in textiles, leather, furs and hides, other than in clothing and related accessories referred to in paragraph 1, for the general public.\n3. Paragraphs 1 and 2 shall not apply to the following:\n(a) personal protective equipment intended to protect users against risks within the scope of risk category III, points (a), (c) to (f), (h), and (l) of Annex I to Regulation (EU) 2016/425;\n(b) devices within the scope of Regulation (EU) 2017/745;\n(c) devices within the scope of Regulation (EU) 2017/746;\n(d) textiles used as construction textiles.\n4. Shall not, from 10 April 2026 be placed on the market, or used, in a concentration equal to or greater than 25 ppb for the sum of PFHxA and its salts, or 1 000 ppb for the sum of PFHxA-related substances, in:\n(a) firefighting foams and firefighting foam concentrates for training and for testing, except functional testing of the firefighting systems provided that all releases are contained;\n(b) firefighting foams and firefighting foam concentrates for public fire services, except where those services intervene at industrial fires at establishments covered by Directive 2012/18/EU of the European Parliament and of the Council\n and they use the foams and the equipment for that purpose only.\n5. Shall not, from 10 October 2029 be placed on the market, or used, in firefighting foams and firefighting foam concentrates for civil aviation (including in civilian airports) in a concentration equal to or greater than 25 ppb for the sum of PFHxA and its salts, or 1000 ppb for the sum of PFHxA-related substances.\n6. Paragraphs 1, 2, 4 and 5 shall not apply to substances having a perfluoroalkyl group C6F13- directly attached to a sulphur atom that are prohibited in Annex I to Regulation (EU) 2019/1021 of the European Parliament and of the Council\n.\n7. By way of derogation from paragraph 1, that paragraph shall not apply to articles and mixtures which were placed on the market before 10 October 2026.\n8. By way of derogation from paragraph 2, that paragraph shall not apply to articles which were placed on the market before 10 October 2027.\n9. For the purposes of this entry, PFHxA-related substances are substances that, based on their molecular structure, are considered to have the potential to degrade or be transformed to PFHxA.\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Undecafluorohexanoic acid (PFHxA), its salts and PFHxA-related substances:"
+              }
+            }
+          ],
+          "unchanged": 1956,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -316,6 +516,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

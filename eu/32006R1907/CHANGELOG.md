@@ -319,6 +319,8 @@ The remainder of the Annex, including the numbered restriction entries shown, ap
 
 *within* `AN XVII` · *dates* +2012-07-04 +2019-06-20 +2026-04-10 +2026-10-10 +2027-10-10 +2029-10-10 · *amended by* `32024R2462`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 79
+
 The list of referenced Union acts at the start of the Annex has been extended, adding Directive 2012/18/EU on the control of major-accident hazards involving dangerous substances and Regulation (EU) 2019/1021 on persistent organic pollutants to the citations that were already present. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20241010#anx_XVII)
 
 Aside from this addition to the reference list, the body of the Annex text shown, including the substance entries and their restriction conditions, appears unchanged between the two versions. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20240606#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20241010#anx_XVII)
