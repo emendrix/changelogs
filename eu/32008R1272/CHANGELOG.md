@@ -3269,6 +3269,8 @@ The remainder of the shown text, including the hazard statement tables, is uncha
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.2 SCT 1.1.2.1 SCT 1.1.2.1.1` · *amended by* `32023R0707`
 
+Table entries: none changed.
+
 The table of hazard class and category codes in section 1.1.2.1.1 now includes new rows for endocrine disruptor codes for human health (ED HH 1 and ED HH 2) and for the environment (ED ENV 1 and ED ENV 2), and it adds persistence-related codes PBT, vPvB, PMT and vPvM alongside the aspiration and aquatic hazard entries. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20230420#anx_VI)
 
 The corresponding earlier version of this table in the before text lists only the aspiration hazard and hazardous-to-the-aquatic-environment rows followed directly by the ozone layer row, without any endocrine disruptor or persistence/mobility codes. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20221217#anx_VI)
