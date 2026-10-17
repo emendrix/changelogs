@@ -1282,7 +1282,9 @@ The transitional arrangements for these same four entries have been expanded to 
 
 *within* `AN XIV` · *dates* +2017-04-05 +2022-06-22 +2023-12-22
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
+
+Table entries: 0 added, 1 amended, 0 removed: Entry 42
 
 A footnote citing Regulation (EU) 2017/746 on in vitro diagnostic medical devices has been added to the list of reference notes at the top of the Annex. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210215#anx_XIV)
 
@@ -1309,6 +1311,8 @@ Entry 42, concerning 4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated, has had it
 **MODIFIED · Annex XVII — RESTRICTIONS ON THE MANUFACTURE, PLACING ON THE MARKET AND USE OF CERTAIN DANGEROUS SUBSTANCES, MIXTURES AND ARTICLES** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN XVII`, `AN XVII APP 1`, `AN XVII APP 2`, `AN XVII APP 3`, `AN XVII APP 4`, `AN XVII APP 5`, `AN XVII APP 6`, `AN XVII APP 10`, `AN XVII APP 13` · *dates* +2009-11-30 +2021-01-04 +2021-02-15 +2021-08-15 +2022-01-04 +2023-01-04 +2023-02-15 +2023-08-15 +2024-02-15 · *amended by* `32020R2081`, `32019R1148`, `32021R0057`, `32020R2096`
+
+Table entries: 91 added, 3 amended, 0 removed: Entry 3, Entry 28, Entry 63, Entry 75, CAS No 50-32-8, 63466-71-7, CAS No 60-09-3, CAS No 60-11-7, CAS No 62-53-3, CAS No 67-56-1, CAS No 85-86-9 and 84 more
 
 A new reference to Regulation (EC) No 1223/2009 on cosmetic products has been added to the list of cited instruments at the start of the Annex. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20210215#anx_XVII)
 

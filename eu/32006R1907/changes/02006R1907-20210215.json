@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,105 @@
         "changed_within": [
           "AN XIV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XIV",
+              "container": "AN XIV",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Entry Nr",
+                  "Substance",
+                  "Intrinsic property(ies) referred to in Article 57",
+                  "Transitional arrangements",
+                  null,
+                  "Exempted (categories of) uses",
+                  "Review periods"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  "Latest application date\n",
+                  "Sunset date\n",
+                  null,
+                  null
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "42",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "42",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "42.",
+                    "4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated\n(covering well-defined substances and UVCB substances, polymers and homologues)\nEC No\n—\nCAS No\n—",
+                    "Endocrine disrupting properties (Article 57(f) — environment)",
+                    "4 July 2019\n",
+                    "4 January 2021\n",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated"
+              },
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "42",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "42.",
+                    "4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated\n(covering well-defined substances and UVCB substances, polymers and homologues)\nEC No\n—\nCAS No\n—",
+                    "Endocrine disrupting properties (Article 57(f) — environment)",
+                    "(a) 4 July 2019\n;\n(b) by way of derogation from point (a), 22 June 2022 for uses as follows:\nfor the research, development and production of medicinal products falling within the scope of Directive 2001/83/EC or medical devices or accessories to medical devices falling within the scope of Directive 93/42/EEC, Regulation (EU) 2017/745, Directive 98/79/EC or Regulation (EU) 2017/746 of the European Parliament and of the Council\n, in view of their use for the diagnosis, treatment or prevention of the coronavirus disease (COVID-19),\nin medical devices or accessories to medical devices falling within the scope of Directive 93/42/EEC, Regulation (EU) 2017/745, Directive 98/79/EC or Regulation (EU) 2017/746, for the diagnosis, treatment or prevention of COVID-19.",
+                    "(a) 4 January 2021\n;\n(b) by way of derogation from point (a), 22 December 2023 for uses as follows:\nfor the research, development and production of medicinal products falling within the scope of Directive 2001/83/EC or medical devices or accessories to medical devices falling within the scope of Directive 93/42/EEC, Regulation (EU) 2017/745, Directive 98/79/EC or Regulation (EU) 2017/746, in view of their use for the diagnosis, treatment or prevention of COVID-19,\nin medical devices or accessories to medical devices falling within the scope of Directive 93/42/EEC, Regulation (EU) 2017/745, Directive 98/79/EC or Regulation (EU) 2017/746, for the diagnosis, treatment or prevention of COVID-19.",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "4-(1,1,3,3-Tetramethylbutyl)phenol, ethoxylated"
+              }
+            }
+          ],
+          "unchanged": 53,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [
@@ -83,7 +182,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "metadata_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -170,6 +270,3666 @@
           "AN XVII APP 10",
           "AN XVII APP 13"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3. Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1999/45/EC or are fulfilling the criteria for any of the following hazard classes or categories set out in Annex I to Regulation (EC) No 1272/2008:\n(a) hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 types A and B, 2.9, 2.10, 2.12, 2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A to F;\n(b) hazard classes 3.1 to 3.6, 3.7 adverse effects on sexual function and fertility or on development, 3.8 effects other than narcotic effects, 3.9 and 3.10;\n(c) hazard class 4.1;\n(d) hazard class 5.1.",
+                    "1. Shall not be used in:\nornamental articles intended to produce light or colour effects by means of different phases, for example in ornamental lamps and ashtrays,\ntricks and jokes,\ngames for one or more participants, or any article intended to be used as such, even with ornamental aspects,\n2. Articles not complying with paragraph 1 shall not be placed on the market.\n3. Shall not be placed on the market if they contain a colouring agent, unless required for fiscal reasons, or perfume, or both, if they:\ncan be used as fuel in decorative oil lamps for supply to the general public, and,\npresent an aspiration hazard and are labelled with R65 or H304,\n4. Decorative oil lamps for supply to the general public shall not be placed on the market unless they conform to the European Standard on Decorative oil lamps (EN 14059) adopted by the European Committee for Standardisation (CEN).\n5. Without prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of dangerous substances and mixtures, suppliers shall ensure, before the placing on the market, that the following requirements are met:\n(a) lamp oils, labelled with R65 or H304, intended for supply to the general public are visibly, legibly and indelibly marked as follows: Keep lamps filled with this liquid out of the reach of children; and, by 1 December 2010, Just a sip of lamp oil — or even sucking the wick of lamps — may lead to life-threatening lung damage;\n(b) grill lighter fluids, labelled with R65 or H304, intended for supply to the general public are legibly and indelibly marked by 1 December 2010 as follows: Just a sip of grill lighter may lead to life threatening lung damage;\n(c) lamp oils and grill lighters, labelled with R65 or H304, intended for supply to the general public are packaged in black opaque containers not exceeding 1 litre by 1 December 2010.\n6. No later than 1 June 2014, the Commission shall request the European Chemicals Agency to prepare a dossier, in accordance with Article 69 of the present Regulation with a view to ban, if appropriate, grill lighter fluids and fuel for decorative lamps, labelled R65 or H304, intended for supply to the general public.\n7. Natural or legal persons placing on the market for the first time lamp oils and grill lighter fluids, labelled with R65 or H304, shall by 1 December 2011, and annually thereafter, provide data on alternatives to lamp oils and grill lighter fluids labelled R65 or H304 to the competent authority in the Member State concerned. Member States shall make those data available to the Commission."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1999/45/EC or are fulfilling the criteria for any of the following hazard classes or categories set out in Annex I to Regulation (EC) No 1272/2008:"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3. Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1999/45/EC or are fulfilling the criteria for any of the following hazard classes or categories set out in Annex I to Regulation (EC) No 1272/2008:\n(a) hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 types A and B, 2.9, 2.10, 2.12, 2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A to F;\n(b) hazard classes 3.1 to 3.6, 3.7 adverse effects on sexual function and fertility or on development, 3.8 effects other than narcotic effects, 3.9 and 3.10;\n(c) hazard class 4.1;\n(d) hazard class 5.1.",
+                    "1. Shall not be used in:\nornamental articles intended to produce light or colour effects by means of different phases, for example in ornamental lamps and ashtrays,\ntricks and jokes,\ngames for one or more participants, or any article intended to be used as such, even with ornamental aspects,\n2. Articles not complying with paragraph 1 shall not be placed on the market.\n3. Shall not be placed on the market if they contain a colouring agent, unless required for fiscal reasons, or perfume, or both, if they:\ncan be used as fuel in decorative oil lamps for supply to the general public, and\npresent an aspiration hazard and are labelled with H304.\n4. Decorative oil lamps for supply to the general public shall not be placed on the market unless they conform to the European Standard on Decorative oil lamps (EN 14059) adopted by the European Committee for Standardisation (CEN).\n5. Without prejudice to the implementation of other Union provisions relating to the classification, labelling and packaging of substances and mixtures, suppliers shall ensure, before the placing on the market, that the following requirements are met:\n(a) lamp oils, labelled with H304, intended for supply to the general public are visibly, legibly and indelibly marked as follows: Keep lamps filled with this liquid out of the reach of children; and, by 1 December 2010, Just a sip of lamp oil – or even sucking the wick of lamps – may lead to life-threatening lung damage;\n(b) grill lighter fluids, labelled with H304, intended for supply to the general public are legibly and indelibly marked by 1 December 2010 as follows: Just a sip of grill lighter fluid may lead to life threatening lung damage;\n(c) lamps oils and grill lighters, labelled with H304, intended for supply to the general public are packaged in black opaque containers not exceeding 1 litre by 1 December 2010.\n6. No later than 1 June 2014, the Commission shall request the European Chemicals Agency to prepare a dossier, in accordance with Article 69 of the present Regulation with a view to ban, if appropriate, grill lighter fluids and fuel for decorative lamps, labelled R65 or H304, intended for supply to the general public.\n7. Natural or legal persons placing on the market for the first time lamp oils and grill lighter fluids, labelled with R65 or H304, shall by 1 December 2011, and annually thereafter, provide data on alternatives to lamp oils and grill lighter fluids labelled R65 or H304 to the competent authority in the Member State concerned. Member States shall make those data available to the Commission."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Liquid substances or mixtures which are regarded as dangerous in accordance with Directive 1999/45/EC or are fulfilling the criteria for any of the following hazard classes or categories set out in Annex I to Regulation (EC) No 1272/2008:"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "28",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28. Substances which are classified as carcinogen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 1 or Appendix 2, respectively.\n29. Substances which are classified as germ cell mutagen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 3 or Appendix 4, respectively.\n30. Substances which are classified as reproductive toxicant category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 5 or Appendix 6, respectively.",
+                    "Without prejudice to the other parts of this Annex the following shall apply to entries 28 to 30:\n1. Shall not be placed on the market, or used,\nas substances,\nas constituents of other substances, or,\nin mixtures,\nfor supply to the general public when the individual concentration in the substance or mixture is equal to or greater than:\neither the relevant specific concentration limit specified in Part 3 of Annex VI to Regulation (EC) No 1272/2008, or,\nthe relevant generic concentration limit specified in Part 3 of Annex I of Regulation (EC) No 1272/2008.\nWithout prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of such substances and mixtures is marked visibly, legibly and indelibly as follows:\nRestricted to professional users.\n2. By way of derogation, paragraph 1 shall not apply to:\n(a) medicinal or veterinary products as defined by Directive 2001/82/EC and Directive 2001/83/EC;\n(b) cosmetic products as defined by Directive 76/768/EEC;\n(c) the following fuels and oil products:\nmotor fuels which are covered by Directive 98/70/EC,\nmineral oil products intended for use as fuel in mobile or fixed combustion plants,\nfuels sold in closed systems (e.g. liquid gas bottles);\n(d) artists’ paints covered by Regulation (EC) No 1272/2008;\n(e) the substances listed in Appendix 11, column 1, for the applications or uses listed in Appendix 11, column 2. Where a date is specified in column 2 of Appendix 11, the derogation shall apply until the said date."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances which are classified as carcinogen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 1 or Appendix 2, respectively."
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "28",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "28. Substances which are classified as carcinogen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 1 or Appendix 2, respectively.\n29. Substances which are classified as germ cell mutagen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 3 or Appendix 4, respectively.\n30. Substances which are classified as reproductive toxicant category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 5 or Appendix 6, respectively.",
+                    "Without prejudice to the other parts of this Annex the following shall apply to entries 28 to 30:\n1. Shall not be placed on the market, or used,\nas substances,\nas constituents of other substances, or,\nin mixtures,\nfor supply to the general public when the individual concentration in the substance or mixture is equal to or greater than:\neither the relevant specific concentration limit specified in Part 3 of Annex VI to Regulation (EC) No 1272/2008, or,\nthe relevant generic concentration limit specified in Part 3 of Annex I of Regulation (EC) No 1272/2008.\nWithout prejudice to the implementation of other Community provisions relating to the classification, packaging and labelling of substances and mixtures, suppliers shall ensure before the placing on the market that the packaging of such substances and mixtures is marked visibly, legibly and indelibly as follows:\nRestricted to professional users.\n2. By way of derogation, paragraph 1 shall not apply to:\n(a) medicinal or veterinary products as defined by Directive 2001/82/EC and Directive 2001/83/EC;\n(b) cosmetic products as defined by Directive 76/768/EEC;\n(c) the following fuels and oil products:\nmotor fuels which are covered by Directive 98/70/EC,\nmineral oil products intended for use as fuel in mobile or fixed combustion plants,\nfuels sold in closed systems (e.g. liquid gas bottles);\n(d) artists’ paints covered by Regulation (EC) No 1272/2008;\n(e) the substances listed in Appendix 11, column 1, for the applications or uses listed in Appendix 11, column 2. Where a date is specified in column 2 of Appendix 11, the derogation shall apply until the said date;\n(f) devices covered by Regulation (EU) 2017/745."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Substances which are classified as carcinogen category 1A or 1B in Part 3 of Annex VI to Regulation (EC) No 1272/2008 and are listed in Appendix 1 or Appendix 2, respectively."
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "63",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "63",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "63. Lead\nCAS No 7439-92-1\nEC No 231-100-4\nand its compounds",
+                    "1. Shall not be placed on the market or used in any individual part of jewellery articles if the concentration of lead (expressed as metal) in such a part is equal to or greater than 0,05 % by weight.\n2. For the purposes of paragraph 1:\n(i) jewellery articles shall include jewellery and imitation jewellery articles and hair accessories, including:\n(a) bracelets, necklaces and rings;\n(b) piercing jewellery;\n(c) wrist watches and wrist-wear;\n(d) brooches and cufflinks;\n(ii) any individual part shall include the materials from which the jewellery is made, as well as the individual components of the jewellery articles.\n3. Paragraph 1 shall also apply to individual parts when placed on the market or used for jewellery-making.\n4. By way of derogation, paragraph 1 shall not apply to:\n(a) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Council Directive 69/493/EEC\n;\n(b) internal components of watch timepieces inaccessible to consumers;\n(c) non-synthetic or reconstructed precious and semiprecious stones (CN code 7103, as established by Regulation (EEC) No 2658/87), unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of minerals melted at a temperature of at least 500 °C.\n5. By way of derogation, paragraph 1 shall not apply to jewellery articles placed on the market for the first time before 9 October 2013 and jewellery articles produced before 10 December 1961.\n6. By 9 October 2017, the Commission shall re-evaluate paragraphs 1 to 5 of this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 1 and, if appropriate, modify this entry accordingly.\n7. Shall not be placed on the market or used in articles supplied to the general public, if the concentration of lead (expressed as metal) in those articles or accessible parts thereof is equal to or greater than 0,05 % by weight, and those articles or accessible parts thereof may, during normal or reasonably foreseeable conditions of use, be placed in the mouth by children.\nThat limit shall not apply where it can be demonstrated that the rate of lead release from such an article or any such accessible part of an article, whether coated or uncoated, does not exceed 0,05 μg/cm2 per hour (equivalent to 0,05 μg/g/h), and, for coated articles, that the coating is sufficient to ensure that this release rate is not exceeded for a period of at least two years of normal or reasonably foreseeable conditions of use of the article.\nFor the purposes of this paragraph, it is considered that an article or accessible part of an article may be placed in the mouth by children if it is smaller than 5 cm in one dimension or has a detachable or protruding part of that size.\n8. By way of derogation, paragraph 7 shall not apply to:\n(a) jewellery articles covered by paragraph 1;\n(b) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Directive 69/493/EEC;\n(c) non-synthetic or reconstructed precious and semi-precious stones (CN code 7103 as established by Regulation (EEC) No 2658/87) unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of mineral melted at a temperature of at least 500 °C;\n(e) keys and locks, including padlocks;\n(f) musical instruments;\n(g) articles and parts of articles comprising brass alloys, if the concentration of lead (expressed as metal) in the brass alloy does not exceed 0,5 % by weight;\n(h) the tips of writing instruments;\n(i) religious articles;\n(j) portable zinc-carbon batteries and button cell batteries;\n(k) articles within the scope of:\n(i) Directive 94/62/EC;\n(ii) Regulation (EC) No 1935/2004;\n(iii) Directive 2009/48/EC of the European Parliament and of the Council\n;\n(iv) Directive 2011/65/EU of the European Parliament and of the Council\n9. By 1 July 2019, the Commission shall re-evaluate paragraphs 7 and 8(e), (f), (i) and (j) of this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 7, including the requirement on coating integrity, and, if appropriate, modify this entry accordingly.\n10. By way of derogation paragraph 7 shall not apply to articles placed on the market for the first time before 1 June 2016.\n"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "63",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "63. Lead\nCAS No 7439-92-1\nEC No 231-100-4\nand its compounds",
+                    "1. Shall not be placed on the market or used in any individual part of jewellery articles if the concentration of lead (expressed as metal) in such a part is equal to or greater than 0,05 % by weight.\n2. For the purposes of paragraph 1:\n(i) jewellery articles shall include jewellery and imitation jewellery articles and hair accessories, including:\n(a) bracelets, necklaces and rings;\n(b) piercing jewellery;\n(c) wrist watches and wrist-wear;\n(d) brooches and cufflinks;\n(ii) any individual part shall include the materials from which the jewellery is made, as well as the individual components of the jewellery articles.\n3. Paragraph 1 shall also apply to individual parts when placed on the market or used for jewellery-making.\n4. By way of derogation, paragraph 1 shall not apply to:\n(a) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Council Directive 69/493/EEC\n;\n(b) internal components of watch timepieces inaccessible to consumers;\n(c) non-synthetic or reconstructed precious and semiprecious stones (CN code 7103, as established by Regulation (EEC) No 2658/87), unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of minerals melted at a temperature of at least 500 °C.\n5. By way of derogation, paragraph 1 shall not apply to jewellery articles placed on the market for the first time before 9 October 2013 and jewellery articles produced before 10 December 1961.\n6. By 9 October 2017, the Commission shall re-evaluate paragraphs 1 to 5 of this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 1 and, if appropriate, modify this entry accordingly.\n7. Shall not be placed on the market or used in articles supplied to the general public, if the concentration of lead (expressed as metal) in those articles or accessible parts thereof is equal to or greater than 0,05 % by weight, and those articles or accessible parts thereof may, during normal or reasonably foreseeable conditions of use, be placed in the mouth by children.\nThat limit shall not apply where it can be demonstrated that the rate of lead release from such an article or any such accessible part of an article, whether coated or uncoated, does not exceed 0,05 μg/cm2 per hour (equivalent to 0,05 μg/g/h), and, for coated articles, that the coating is sufficient to ensure that this release rate is not exceeded for a period of at least two years of normal or reasonably foreseeable conditions of use of the article.\nFor the purposes of this paragraph, it is considered that an article or accessible part of an article may be placed in the mouth by children if it is smaller than 5 cm in one dimension or has a detachable or protruding part of that size.\n8. By way of derogation, paragraph 7 shall not apply to:\n(a) jewellery articles covered by paragraph 1;\n(b) crystal glass as defined in Annex I (categories 1, 2, 3 and 4) to Directive 69/493/EEC;\n(c) non-synthetic or reconstructed precious and semi-precious stones (CN code 7103 as established by Regulation (EEC) No 2658/87) unless they have been treated with lead or its compounds or mixtures containing these substances;\n(d) enamels, defined as vitrifiable mixtures resulting from the fusion, vitrification or sintering of mineral melted at a temperature of at least 500 °C;\n(e) keys and locks, including padlocks;\n(f) musical instruments;\n(g) articles and parts of articles comprising brass alloys, if the concentration of lead (expressed as metal) in the brass alloy does not exceed 0,5 % by weight;\n(h) the tips of writing instruments;\n(i) religious articles;\n(j) portable zinc-carbon batteries and button cell batteries;\n(k) articles within the scope of:\n(i) Directive 94/62/EC;\n(ii) Regulation (EC) No 1935/2004;\n(iii) Directive 2009/48/EC of the European Parliament and of the Council\n;\n(iv) Directive 2011/65/EU of the European Parliament and of the Council\n9. By 1 July 2019, the Commission shall re-evaluate paragraphs 7 and 8(e), (f), (i) and (j) of this entry in the light of new scientific information, including the availability of alternatives and the migration of lead from the articles referred to in paragraph 7, including the requirement on coating integrity, and, if appropriate, modify this entry accordingly.\n10. By way of derogation paragraph 7 shall not apply to articles placed on the market for the first time before 1 June 2016.\n11. Doing either of the following acts after 15 February 2023 in or within 100 metres of wetlands is prohibited:\n(a) discharging gunshot containing a concentration of lead (expressed as metal) equal to or greater than 1 % by weight;\n(b) carrying any such gunshot where this occurs while out wetland shooting or as part of going wetland shooting.\nFor the purposes of the first subparagraph:\n(a) within 100 metres of wetlands means within 100 metres outward from any outer boundary point of a wetland;\n(b) wetland shooting means shooting in or within 100 metres of wetlands;\n(c) if a person is found carrying gunshot in or within 100 metres of wetlands while out shooting or as part of going shooting, the shooting concerned shall be presumed to be wetland shooting unless that person can demonstrate that it was some other type of shooting.\nThe restriction laid down in the first subparagraph shall not apply in a Member State if that Member State notifies the Commission in accordance with paragraph 12 that it intends to make use of the option granted by that paragraph.\n12. If at least 20 % in total of the territory, excluding the territorial waters, of a Member State are wetlands, that Member State may, in place of the restriction laid down in the first subparagraph of paragraph 11, prohibit the following acts throughout the whole of its territory from 15 February 2024:\n(a) the placing on the market of gunshot containing a concentration of lead (expressed as metal) equal to or greater than 1 % by weight;\n(b) the discharging of any such gunshot;\n(c) carrying any such gunshot while out shooting or as part of going shooting.\nAny Member State intending to make use of the option granted by the first subparagraph shall notify the Commission of this intention by 15 August 2021. The Member State shall communicate the text of the national measures adopted by it to the Commission without delay and in any event by 15 August 2023. The Commission shall make publicly available without delay any such notices of intention and texts of national measures received by it.\n13. For the purposes of paragraphs 11 and 12:\n(a) wetlands means areas of marsh, fen, peatland or water, whether natural or artificial, permanent or temporary, with water that is static or flowing, fresh, brackish or salt, including areas of marine water the depth of which at low tide does not exceed 6 metres;\n(b) gunshot means pellets used or intended for use in a single charge or cartridge in a shotgun;\n(c) shotgun means a smooth-bore gun, excluding airguns;\n(d) shooting means any shooting with a shotgun;\n(e) carrying means any carrying on the person or carrying or transporting by any other means;\n(f) in determining whether a person found with gunshot is carrying gunshot as part of going shooting:\n(i) regard shall be had to all the circumstances of the case;\n(ii) the person found with the gunshot need not necessarily be the same person as the person shooting.\n14. Member States may maintain national provisions for protection of the environment or human health in force on 15 February 2021 and restricting lead in gunshot more severely than provided for in paragraph 11.\nThe Member State shall communicate the text of those national provisions to the Commission without delay. The Commission shall make publicly available without delay any such texts of national provisions received by it."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "75",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "75",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "75.\nSubstances falling within one or more of the following points:\n(a) substances classified as any of the following in Part 3 of Annex VI to Regulation (EC) No 1272/2008:\ncarcinogen category 1A, 1B or 2, or germ cell mutagen category 1A, 1B or 2, but excluding any such substances classified due to effects only following exposure by inhalation\nreproductive toxicant category 1A, 1B or 2 but excluding any such substances classified due to effects only following exposure by inhalation\nskin sensitiser category 1, 1A or 1B\nskin corrosive category 1, 1A, 1B or 1C or skin irritant category 2\nserious eye damage category 1 or eye irritant category 2\n(b) substances listed in Annex II to Regulation (EC) No 1223/2009 of the European Parliament and of the Council\n(c) substances listed in Annex IV to Regulation (EC) No 1223/2009 for which a condition is specified in at least one of the columns g, h and i of the table in that Annex\n(d) substances listed in Appendix 13 to this Annex.\nThe ancillary requirements in paragraphs 7 and 8 of column 2 of this entry apply to all mixtures for use for tattooing purposes, whether or not they contain a substance falling within points (a) to (d) of this column of this entry.",
+                    "1. Shall not be placed on the market in mixtures for use for tattooing purposes, and mixtures containing any such substances shall not be used for tattooing purposes, after 4 January 2022 if the substance or substances in question is or are present in the following circumstances:\n(a) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as carcinogen category 1A, 1B or 2, or germ cell mutagen category 1A, 1B or 2, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight;\n(b) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as reproductive toxicant category 1A, 1B or 2, the substance is present in the mixture in a concentration equal to or greater than 0,001 % by weight;\n(c) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as skin sensitiser category 1, 1A or 1B, the substance is present in the mixture in a concentration equal to or greater than 0,001 % by weight;\n(d) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as skin corrosive category 1, 1A, 1B or 1C or skin irritant category 2, or as serious eye damage category 1 or eye irritant category 2, the substance is present in the mixture in a concentration equal to or greater than:\n(i) 0,1 % by weight, if the substance is used solely as a pH regulator;\n(ii) 0,01 % by weight, in all other cases;\n(e) in the case of a substance listed in Annex II to Regulation (EC) No 1223/2009\n, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight;\n(f) in the case of a substance for which a condition of one or more of the following kinds is specified in column g (Product type, Body parts) of the table in Annex IV to Regulation (EC) No 1223/2009, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight:\n(i) Rinse-off products;\n(ii) Not to be used in products applied on mucous membranes;\n(iii) Not to be used in eye products;\n(g) in the case of a substance for which a condition is specified in column h (Maximum concentration in ready for use preparation) or column i (Other) of the table in Annex IV to Regulation (EC) No 1223/2009, the substance is present in the mixture in a concentration, or in some other way, that does not accord with the condition specified in that column;\n(h) in the case of a substance listed in Appendix 13 to this Annex, the substance is present in the mixture in a concentration equal to or greater than the concentration limit specified for that substance in that Appendix.\n2. For the purposes of this entry use of a mixture for tattooing purposes means injection or introduction of the mixture into a person’s skin, mucous membrane or eyeball, by any process or procedure (including procedures commonly referred to as permanent make-up, cosmetic tattooing, micro-blading and micro-pigmentation), with the aim of making a mark or design on his or her body.\n3. If a substance not listed in Appendix 13 falls within more than one of points (a) to (g) of paragraph 1, the strictest concentration limit laid down in the points in question shall apply to that substance. If a substance listed in Appendix 13 also falls within one or more of points (a) to (g) of paragraph 1, the concentration limit laid down in point (h) of paragraph 1 shall apply to that substance.\n4. By way of derogation, paragraph 1 shall not apply to the following substances until 4 January 2023:\n(a) Pigment Blue 15:3 (CI 74160, EC No 205-685-1, CAS No 147-14-8);\n(b) Pigment Green 7 (CI 74260, EC No 215-524-7, CAS No 1328-53-6).\n5. If Part 3 of Annex VI to Regulation (EC) No 1272/2008 is amended after 4 January 2021 to classify or re-classify a substance such that the substance then becomes caught by point (a), (b), (c) or (d) of paragraph 1 of this entry, or such that it then falls within a different one of those points from the one within which it fell previously, and the date of application of that new or revised classification is after the date referred to in paragraph 1 or, as the case may be, paragraph 4 of this entry, that amendment shall, for the purposes of applying this entry to that substance, be treated as taking effect on the date of application of that new or revised classification.\n6. If Annex II or Annex IV to Regulation (EC) No 1223/2009 is amended after 4 January 2021 to list or change the listing of a substance such that the substance then becomes caught by point (e), (f) or (g) of paragraph 1 of this entry, or such that it then falls within a different one of those points from the one within which it fell previously, and the amendment takes effect after the date referred to in paragraph 1 or, as the case may be, paragraph 4 of this entry, that amendment shall, for the purposes of applying this entry to that substance, be treated as taking effect from the date falling 18 months after entry into force of the act by which that amendment was made.\n7. Suppliers placing a mixture on the market for use for tattooing purposes shall ensure that, after 4 January 2022, the mixture is marked with the following information:\n(a) the statement Mixture for use in tattoos or permanent make-up;\n(b) a reference number to uniquely identify the batch;\n(c) the list of ingredients in accordance with the nomenclature established in the glossary of common ingredient names pursuant to Article 33 of Regulation (EC) No 1223/2009, or in the absence of a common ingredient name, the IUPAC name. In the absence of a common ingredient name or IUPAC name, the CAS and EC number. Ingredients shall be listed in descending order by weight or volume of the ingredients at the time of formulation. Ingredient means any substance added during the process of formulation and present in the mixture for use for tattooing purposes. Impurities shall not be regarded as ingredients. If the name of a substance, used as ingredient within the meaning of this entry, is already required to be stated on the label in accordance with Regulation (EC) No 1272/2008, that ingredient does not need to be marked in accordance with this Regulation;\n(d) the additional statement pH regulator for substances falling under point (d)(i) of paragraph 1;\n(e) the statement \"Contains nickel. Can cause allergic reactions.\" if the mixture contains nickel below the concentration limit specified in Appendix 13;\n(f) the statement \"Contains chromium (VI). Can cause allergic reactions.\" if the mixture contains chromium (VI) below the concentration limit specified in Appendix 13;\n(g) safety instructions for use insofar as they are not already required to be stated on the label by Regulation (EC) No 1272/2008.\nThe information shall be clearly visible, easily legible and marked in a way that is indelible.\nThe information shall be written in the official language(s) of the Member State(s) where the mixture is placed on the market, unless the Member State(s) concerned provide(s) otherwise.\nWhere necessary because of the size of the package, the information listed in the first subparagraph, except for point (a), shall be included instead in the instructions for use.\nBefore using a mixture for tattooing purposes, the person using the mixture shall provide the person undergoing the procedure with the information marked on the package or included in the instructions for use pursuant to this paragraph.\n8. Mixtures that do not contain the statement Mixture for use in tattoos or permanent make-up shall not be used for tattooing purposes.\n9. This entry does not apply to substances that are gases at temperature of 20 °C and pressure of 101,3 kPa, or generate a vapour pressure of more than 300 kPa at temperature of 50 °C, with the exception of formaldehyde (CAS No 50-00-0, EC No 200-001-8).\n10. This entry does not apply to the placing on the market of a mixture for use for tattooing purposes, or to the use of a mixture for tattooing purposes, when placed on the market exclusively as a medical device or an accessory to a medical device, within the meaning of Regulation (EU) 2017/745, or when used exclusively as a medical device or an accessory to a medical device, within the same meaning. Where the placing on the market or use may not be exclusively as a medical device or an accessory to a medical device, the requirements of Regulation (EU) 2017/745 and of this Regulation shall apply cumulatively."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "50-32-8, 63466-71-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "50-32-8, 63466-71-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzo[a]pyrene",
+                    "200-028-5",
+                    "50-32-8, 63466-71-7",
+                    "0,0000005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "50-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "63466-71-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-028-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzo[a]pyrene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "60-09-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "60-09-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-Aminoazobenzene\n",
+                    "200-453-6",
+                    "60-09-3",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60-09-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-453-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Aminoazobenzene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "60-11-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "60-11-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Solvent Yellow 2",
+                    "200-455-7",
+                    "60-11-7",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "60-11-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-455-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Solvent Yellow 2"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "62-53-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "62-53-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Aniline\n",
+                    "200-539-3",
+                    "62-53-3",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "62-53-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-539-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Aniline"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "67-56-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "67-56-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Methanol",
+                    "200-659-6",
+                    "67-56-1",
+                    "11 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67-56-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-659-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methanol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "85-86-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "85-86-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Solvent Red 23 (SR23)/CI 26100",
+                    "201-638-4",
+                    "85-86-9",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85-86-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-638-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Solvent Red 23 (SR23)/CI 26100"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "87-62-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "87-62-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,6-xylidine",
+                    "201-758-7",
+                    "87-62-7",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87-62-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-758-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,6-xylidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "90-04-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "90-04-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "o-Anisidine\n",
+                    "201-963-1",
+                    "90-04-0",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90-04-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-963-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "o-Anisidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "91-59-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "91-59-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-naphthylamine\n",
+                    "202-080-4",
+                    "91-59-8",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "91-59-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-080-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-naphthylamine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "91-94-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "91-94-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3,3'-dichlorobenzidine\n",
+                    "202-109-0",
+                    "91-94-1",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "91-94-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-109-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,3'-dichlorobenzidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "92-67-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "92-67-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Biphenyl-4-ylamine\n",
+                    "202-177-1",
+                    "92-67-1",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "92-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-177-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Biphenyl-4-ylamine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "92-87-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "92-87-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Benzidine\n",
+                    "202-199-1",
+                    "92-87-5",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "92-87-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-199-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "95-53-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "95-53-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "o-toluidine\n",
+                    "202-429-0",
+                    "95-53-4",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "95-53-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-429-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "o-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "95-68-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "95-68-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,4-xylidine",
+                    "202-440-0",
+                    "95-68-1",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "95-68-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-440-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,4-xylidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "95-69-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "95-69-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-chloro-o-toluidine\n",
+                    "202-441-6",
+                    "95-69-2",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "95-69-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-441-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-chloro-o-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "95-70-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "95-70-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-methyl-p-phenylenediamine\n",
+                    "202-442-1",
+                    "95-70-5",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "95-70-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-442-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-methyl-p-phenylenediamine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "95-80-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "95-80-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-methyl-m- phenylenediamine\n",
+                    "202-453-1",
+                    "95-80-7",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "95-80-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-453-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-methyl-m- phenylenediamine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "97-56-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "97-56-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-o-tolylazo-o-toluidine\n",
+                    "202-591-2",
+                    "97-56-3",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97-56-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-591-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-o-tolylazo-o-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "99-55-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "99-55-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "5-nitro-o-toluidine\n",
+                    "202-765-8",
+                    "99-55-8",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "99-55-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-765-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-nitro-o-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "101-14-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "101-14-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4,4'- methylene-bis-[2-chloro aniline]\n",
+                    "202-918-9",
+                    "101-14-4",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-14-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-918-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4,4'- methylene-bis-[2-chloro aniline]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "101-77-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "101-77-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4,4'-methylenedianiline\n",
+                    "202-974-4",
+                    "101-77-9",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-77-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-974-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4,4'-methylenedianiline"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "101-80-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "101-80-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4,4'-oxydianiline\n",
+                    "202-977-0",
+                    "101-80-4",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-80-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-977-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4,4'-oxydianiline"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "106-47-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "106-47-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-chloroaniline\n",
+                    "203-401-0",
+                    "106-47-8",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-47-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-401-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-chloroaniline"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "106-49-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "106-49-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "p-toluidine\n",
+                    "203-403-1",
+                    "106-49-0",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-49-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-403-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "p-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "106-50-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "106-50-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "p-Phenylenediamine\n",
+                    "203-404-7",
+                    "106-50-3",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-50-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-404-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "p-Phenylenediamine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "119-90-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "119-90-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "3,3'-dimethoxybenzidine\n",
+                    "204-355-4",
+                    "119-90-4",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "119-90-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-355-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3,3'-dimethoxybenzidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "119-93-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "119-93-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4,4'-bi-o-toluidine\n",
+                    "204-358-0",
+                    "119-93-7",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "119-93-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-358-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4,4'-bi-o-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "120-71-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "120-71-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "6-methoxy-m-toluidine\n",
+                    "204-419-1",
+                    "120-71-8",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-71-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-419-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "6-methoxy-m-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "121-57-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "121-57-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Sulphanilic acid\n",
+                    "204-482-5",
+                    "121-57-3",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "121-57-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-482-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sulphanilic acid"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "137-17-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "137-17-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2,4,5-trimethylaniline\n",
+                    "205-282-0",
+                    "137-17-7",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "137-17-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-282-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,4,5-trimethylaniline"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "139-65-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "139-65-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4,4'-Thiodianiline\n",
+                    "205-370-9",
+                    "139-65-1",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "139-65-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-370-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4,4'-Thiodianiline"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "399-95-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "399-95-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-amino-3-fluorophenol\n",
+                    "402-230-0",
+                    "399-95-1",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "399-95-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "402-230-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-amino-3-fluorophenol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "615-05-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "615-05-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4-methoxy-m- phenylenediamine\n",
+                    "210-406-1",
+                    "615-05-4",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "615-05-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "210-406-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-methoxy-m- phenylenediamine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "838-88-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "838-88-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "4,4'-methylenedi-o-toluidine\n",
+                    "212-658-8",
+                    "838-88-0",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "838-88-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-658-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4,4'-methylenedi-o-toluidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "989-38-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "989-38-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Basic Red 1",
+                    "213-584-9",
+                    "989-38-8",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "989-38-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "213-584-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Basic Red 1"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "1229-55-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "1229-55-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Solvent Red 1 (SR1)/CI 12150",
+                    "214-968-9",
+                    "1229-55-6",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1229-55-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-968-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Solvent Red 1 (SR1)/CI 12150"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "1320-07-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "1320-07-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Acid Orange 24 (AO24)/CI 20170",
+                    "215-296-9",
+                    "1320-07-6",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1320-07-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-296-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acid Orange 24 (AO24)/CI 20170"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "1325-82-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "1325-82-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Violet 3",
+                    "603-635-7",
+                    "1325-82-2",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1325-82-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "603-635-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Violet 3"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "2512-29-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "2512-29-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 1 (PY1)/CI 11680",
+                    "219-730-8",
+                    "2512-29-0",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2512-29-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "219-730-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Yellow 1 (PY1)/CI 11680"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "2832-40-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "2832-40-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disperse Yellow 3/CI 11855",
+                    "220-600-8",
+                    "2832-40-8",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2832-40-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-600-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disperse Yellow 3/CI 11855"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "2872-52-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "2872-52-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disperse Red 1",
+                    "220-704-3",
+                    "2872-52-8",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2872-52-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-704-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disperse Red 1"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "3179-89-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "3179-89-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disperse Red 17",
+                    "221-665-5",
+                    "3179-89-3",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3179-89-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-665-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disperse Red 17"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "3520-72-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "3520-72-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Orange 13 (PO13)/CI 21110",
+                    "222-530-3",
+                    "3520-72-7",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3520-72-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-530-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Orange 13 (PO13)/CI 21110"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "3761-53-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "3761-53-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Acid Red 26",
+                    "223-178-3",
+                    "3761-53-3",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3761-53-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-178-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acid Red 26"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "4129-84-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "4129-84-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Acid Violet 17",
+                    "223-942-6",
+                    "4129-84-4",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4129-84-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-942-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acid Violet 17"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "5280-68-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "5280-68-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 146 (PR146)/CI 12485",
+                    "226-103-2",
+                    "5280-68-2",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5280-68-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-103-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 146 (PR146)/CI 12485"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "5413-75-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "5413-75-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Acid Red 73 (AR73)/CI 27290",
+                    "226-502-1",
+                    "5413-75-2",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5413-75-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-502-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acid Red 73 (AR73)/CI 27290"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "5468-75-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "5468-75-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 14 (PY14)/CI 21095",
+                    "226-789-3",
+                    "5468-75-7",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5468-75-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-789-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Yellow 14 (PY14)/CI 21095"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "5567-15-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "5567-15-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 83 (PY83)/CI 21108",
+                    "226-939-8",
+                    "5567-15-7",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5567-15-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-939-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Yellow 83 (PY83)/CI 21108"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6041-94-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6041-94-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 2 (PR2)/CI 12310",
+                    "227-930-1",
+                    "6041-94-7",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6041-94-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "227-930-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 2 (PR2)/CI 12310"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6358-31-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6358-31-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 74 (PY74)/CI 11741",
+                    "228-768-4",
+                    "6358-31-2",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6358-31-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "228-768-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Yellow 74 (PY74)/CI 11741"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6358-37-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6358-37-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 55 (PY55)/CI 21096",
+                    "226-789-3",
+                    "6358-37-8",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6358-37-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-789-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Yellow 55 (PY55)/CI 21096"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6358-85-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6358-85-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 12 (PY12)/CI 21090",
+                    "228-787-8",
+                    "6358-85-6",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6358-85-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "228-787-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Yellow 12 (PY12)/CI 21090"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6373-73-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6373-73-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disperse Yellow 9",
+                    "228-919-4",
+                    "6373-73-5",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6373-73-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "228-919-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disperse Yellow 9"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6410-32-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6410-32-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 12 (PR12)/CI 12385",
+                    "229-102-5",
+                    "6410-32-8",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6410-32-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-102-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 12 (PR12)/CI 12385"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6410-38-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6410-38-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 9(PR9)/CI 12460",
+                    "229-104-6",
+                    "6410-38-4",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6410-38-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-104-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 9(PR9)/CI 12460"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6410-39-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6410-39-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 15 (PR15)/CI 12465",
+                    "229-105-1",
+                    "6410-39-5",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6410-39-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-105-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 15 (PR15)/CI 12465"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6448-95-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6448-95-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 22 (PR22)/CI 12315",
+                    "229-245-3",
+                    "6448-95-9",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6448-95-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-245-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 22 (PR22)/CI 12315"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6471-50-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6471-50-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 14 (PR14)/CI 12380",
+                    "229-314-8",
+                    "6471-50-7",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6471-50-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-314-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 14 (PR14)/CI 12380"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6471-51-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6471-51-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 7 (PR7)/CI 12420",
+                    "229-315-3",
+                    "6471-51-8",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6471-51-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-315-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 7 (PR7)/CI 12420"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6505-28-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6505-28-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Orange16 (PO16)/CI 21160",
+                    "229-388-1",
+                    "6505-28-8",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6505-28-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-388-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Orange16 (PO16)/CI 21160"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6528-34-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6528-34-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 65 (PY65)/CI 11740",
+                    "229-419-9",
+                    "6528-34-3",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6528-34-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-419-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Yellow 65 (PY65)/CI 11740"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6535-46-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6535-46-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 112 (PR112)/CI 12370",
+                    "229-440-3",
+                    "6535-46-2",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6535-46-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-440-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 112 (PR112)/CI 12370"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "6655-84-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "6655-84-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 17 (PR17)/CI 12390",
+                    "229-681-4",
+                    "6655-84-1",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6655-84-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "229-681-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 17 (PR17)/CI 12390"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7439-92-1",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7439-92-1",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lead",
+                    "231-100-4",
+                    "7439-92-1",
+                    "0,00007 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-92-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-100-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7439-97-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7439-97-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Mercury",
+                    "231-106-7",
+                    "7439-97-6",
+                    "0,00005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7439-97-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-106-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Mercury"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-02-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-02-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Nickel",
+                    "231-111-4",
+                    "7440-02-0",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-02-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-111-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nickel"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-31-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-31-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Organometallic tin",
+                    "231-141-8",
+                    "7440-31-5",
+                    "0,00005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-31-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-141-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Organometallic tin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-36-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-36-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Antimony",
+                    "231-146-5",
+                    "7440-36-0",
+                    "0,00005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-36-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-146-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Antimony"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-38-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-38-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Arsenic",
+                    "231-148-6",
+                    "7440-38-2",
+                    "0,00005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-38-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-148-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Arsenic"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-39-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-39-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Barium\n",
+                    "231-149-1",
+                    "7440-39-3",
+                    "0,05 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-39-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-149-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Barium"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-43-9",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-43-9",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cadmium",
+                    "231-152-8",
+                    "7440-43-9",
+                    "0,00005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-43-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-152-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cadmium"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-47-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-47-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chromium‡",
+                    "231-157-5",
+                    "7440-47-3",
+                    "0,00005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-47-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-157-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chromium‡"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-48-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-48-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cobalt",
+                    "231-158-0",
+                    "7440-48-4",
+                    "0,00005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-48-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-158-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cobalt"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-50-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-50-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Copper\n",
+                    "231-159-6",
+                    "7440-50-8",
+                    "0,025 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-50-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-159-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Copper"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7440-66-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7440-66-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Zinc\n",
+                    "231-175-3",
+                    "7440-66-6",
+                    "0,2 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-66-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-175-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Zinc"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "7782-49-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "7782-49-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Selenium",
+                    "231-957-4",
+                    "7782-49-2",
+                    "0,0002 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7782-49-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-957-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Selenium"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "12222-75-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "12222-75-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disperse Blue 35",
+                    "602-260-6",
+                    "12222-75-2",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12222-75-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "602-260-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disperse Blue 35"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "12223-01-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "12223-01-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disperse Blue 106",
+                    "602-285-2",
+                    "12223-01-7",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12223-01-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "602-285-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disperse Blue 106"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "12223-33-5",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "12223-33-5",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disperse Orange 37",
+                    "602-312-8",
+                    "12223-33-5",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12223-33-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "602-312-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disperse Orange 37"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "12225-18-2",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "12225-18-2",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 97 (PY97)/CI 11767",
+                    "235-427-3",
+                    "12225-18-2",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12225-18-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-427-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Yellow 97 (PY97)/CI 11767"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "12768-78-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "12768-78-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Acid Green 16",
+                    "603-214-8",
+                    "12768-78-4",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "12768-78-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "603-214-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acid Green 16"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "15110-84-6, 14110-84-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "15110-84-6, 14110-84-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Yellow 87 (PY87)/CI 21107:1",
+                    "239-160-3",
+                    "15110-84-6,\n14110-84-6",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15110-84-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-160-3"
+                  }
+                ],
+                "failed_check_digits": 1,
+                "name": "Pigment Yellow 87 (PY87)/CI 21107:1"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "15793-73-4",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "15793-73-4",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Orange 34 (PO34)/CI 21115",
+                    "239-898-6",
+                    "15793-73-4",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15793-73-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-898-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Orange 34 (PO34)/CI 21115"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "61932-63-6",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "61932-63-6",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 210(PR210)/CI 12477",
+                    "612-766-9",
+                    "61932-63-6",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61932-63-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "612-766-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 210(PR210)/CI 12477"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "61951-51-7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "61951-51-7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Disperse Blue 124",
+                    "612-788-9",
+                    "61951-51-7",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "61951-51-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "612-788-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Disperse Blue 124"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "64070-98-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "64070-98-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Violet 39",
+                    "264-654-0",
+                    "64070-98-0",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64070-98-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "264-654-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Violet 39"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "67990-05-0",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "67990-05-0",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Red 269 (PR269)/CI 12466",
+                    "268-028-8",
+                    "67990-05-0",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67990-05-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "268-028-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Red 269 (PR269)/CI 12466"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "85776-14-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "85776-14-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pigment Orange 74 (PO74)",
+                    "",
+                    "85776-14-3",
+                    "0,1 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "85776-14-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pigment Orange 74 (PO74)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key": "293733-21-8",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII APP 13",
+                "table": 1,
+                "key": "293733-21-8",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "6-amino-2-ethoxynaphthaline",
+                    "",
+                    "293733-21-8",
+                    "0,0005 %"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "293733-21-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "6-amino-2-ethoxynaphthaline"
+              }
+            }
+          ],
+          "unchanged": 1788,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 6,
+            "failed_check_digits": 8,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -230,7 +3990,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -534,7 +4295,8 @@
         ]
       }
     ],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -582,6 +4344,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [
