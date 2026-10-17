@@ -1512,7 +1512,7 @@ Both texts are truncated before the end of the substance table, so any further d
 
 *amended by* `32021R0850`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1522,7 +1522,9 @@ Both texts are truncated before the end of the substance table, so any further d
 
 *within* `AN III` · *amended by* `32021R0850`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 98
 
 The visible portions of Annex III in both versions are identical in wording, structure, and entries as far as the text extends before being cut off. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210526#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20210617#anx_III)
 
