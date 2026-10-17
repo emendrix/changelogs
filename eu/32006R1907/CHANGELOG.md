@@ -26,6 +26,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AN XVII`
 
+Table entries: 0 added, 1 amended, 0 removed: Entry 78
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20260511`)

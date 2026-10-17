@@ -10,10 +10,10 @@
       "from_version": "02006R1907-20260511",
       "detected_on": "2026-09-11",
       "in_force": [],
-      "updated_on": "2026-09-11",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32006R1907/changes/02006R1907-20260622.json",
-      "sha256": "f8be3fa275831817fc79e5c44914bedf2573015bca45c82d4116f84b392b4432",
+      "sha256": "e6c4e165dbbf3a87243761d38db5841cf58a1110956d3ea87f02ec35e5a5d1c4",
       "diff_only": false,
       "counts": {
         "touched": 1,
@@ -24,7 +24,12 @@
         "quoted": 0,
         "unexplained": 1
       },
-      "repairs": [],
+      "repairs": [
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
+        }
+      ],
       "evidence": true,
       "metadata_only_units": [],
       "instruction_only_units": []
