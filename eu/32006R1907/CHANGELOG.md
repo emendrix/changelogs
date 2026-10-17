@@ -2405,6 +2405,8 @@ A minor wording change also adds a colon after the phrase introducing the condit
 
 *within* `AN XVII` · *dates* +2006-05-17 +2008-02-20 +2013-02-05 +2019-03-02 +2027-03-02 · *amended by* `32017R0227`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 67
+
 The list of directives and regulations cited at the start of Annex XVII gains three additional entries in the later version: Regulation (EU) No 167/2013 on agricultural and forestry vehicles, Directive 2006/42/EC on machinery, and Regulation (EC) No 216/2008 on civil aviation. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170302#anx_XVII)
 
 The earlier version's reference list ends after the industrial emissions directive and does not include these three additional legal acts. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20170102#anx_XVII)
