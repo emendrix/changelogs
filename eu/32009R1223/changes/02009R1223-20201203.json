@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -51,6 +51,7 @@
         "after": null,
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -84,7 +85,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -111,6 +113,164 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1642",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1642",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1642",
+                    "1,2,4-Trihydroxybenzene\n when used as a substance in hair and eyelash dye products",
+                    "533-73-3",
+                    "208-575-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "533-73-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-575-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2,4-Trihydroxybenzene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1643",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1643",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1643",
+                    "4-Amino-3-hydroxytoluene\n when used as a substance in hair and eyelash dye products",
+                    "2835-98-5",
+                    "220-620-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2835-98-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-620-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Amino-3-hydroxytoluene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1644",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1644",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1644",
+                    "2-[(4-Amino-2-nitrophenyl)-amino]-benzoic acid\n when used as a substance in hair and eyelash dye products",
+                    "117907-43-4",
+                    "411-260-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117907-43-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "411-260-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-[(4-Amino-2-nitrophenyl)-amino]-benzoic acid"
+              }
+            }
+          ],
+          "unchanged": 1640,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -149,7 +309,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -228,6 +389,498 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "292",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "292",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "292",
+                    "1,4-Benzenediamine, 2-(methoxymethyl)\n1,4-Benzenediamine, 2-(methoxymethyl)-, sulfate",
+                    "2-Methoxymethyl-p-Phenylenediamine\n2-Methoxymethyl-p-Phenylenediamine Sulfate",
+                    "337906-36-2\n337906-37-3",
+                    "",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "After mixing under oxidative conditions the maximum concentration applied to hair must not exceed 1,8 % (calculated as free base)",
+                    "To be printed on the label: The mixing ratio.\nHair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "337906-36-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "337906-37-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,4-Benzenediamine, 2-(methoxymethyl)"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "292",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "292",
+                    "1,4-Benzenediamine, 2-(methoxymethyl)\n1,4-Benzenediamine, 2-(methoxymethyl)-, sulfate",
+                    "2-Methoxymethyl-p-Phenylenediamine\n2-Methoxymethyl-p-Phenylenediamine Sulfate",
+                    "337906-36-2\n337906-37-3",
+                    "679-526-3\n638-749-6",
+                    "(a) Hair dye substance in oxidative hair dye products\n(b) Products intended for colouring eyelashes",
+                    "",
+                    "(a) (b) After mixing under oxidative conditions the maximum concentration applied to hair or eyelashes must not exceed 1,8 % (calculated as free base)\n(b) Professional use",
+                    "(a) To be printed on the label:\nThe mixing ratio.\nHair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past.\n(b) To be printed on the label: The mixing ratio.\nThis product can cause severe allergic reactions. Read and follow instructions.\nThis product is not intended for use on persons under the age of 16. Temporary black henna tattoos may increase the risk of allergy.\nEyelashes shall not be coloured if the consumer:\nhas a rash on the face or sensitive, irritated and damaged scalp,\nhas experienced any reaction after colouring hair or eyelashes,\nhas experienced a reaction to a temporary black henna tattoo in the past.\nFor professional use only.\nRinse eyes immediately if product comes into contact with them."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "337906-36-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "337906-37-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "638-749-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "679-526-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,4-Benzenediamine, 2-(methoxymethyl)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "313",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "313",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "313",
+                    "2-Hydroxyethyl Methacrylate\n",
+                    "HEMA",
+                    "868-77-9",
+                    "212-782-2",
+                    "Nail products",
+                    "",
+                    "Professional use only",
+                    "For professional use only\nCan cause an allergic reaction"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "868-77-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-782-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Hydroxyethyl Methacrylate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "314",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "314",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "314",
+                    "11,14-Dioxa-2,9-diazaheptadec-16-enoic Acid, 4,4,6,16-tetramethyl-10,15-dioxo, 2-[(2-methyl-1-oxo-2-propenyl)oxy]ethyl ester\n",
+                    "DI-HEMA TRIMETHYLHEXYL DICARBAMATE",
+                    "41137-60-4/72869-86-4",
+                    "255-239-5/276-957-5",
+                    "Nail products",
+                    "",
+                    "Professional use only",
+                    "For professional use only\nCan cause an allergic reaction"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "41137-60-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "72869-86-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "255-239-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-957-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "11,14-Dioxa-2,9-diazaheptadec-16-enoic Acid, 4,4,6,16-tetramethyl-10,15-dioxo, 2-[(2-methyl-1-oxo-2-propenyl)oxy]ethyl ester"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "315",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "315",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "315",
+                    "4-(3-aminopyrazolo[1,5-A]pyridin-2-yl)-1,1-dimethylpiperazin-1-ium chloride hydrochloride",
+                    "Dimethylpiperazinium Aminopyrazolopyridine HCl",
+                    "1256553-33-9",
+                    "813-255-5",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "As from 3 June 2021, after mixing under oxidative conditions the maximum concentration applied to hair must not exceed 2 % (calculated as free base)",
+                    "As from 3 December 2021, to be printed on the label: The mixing ratio.\nHair colorants can cause severe allergic reactions. Read and follow instructions. This product is not intended for use on persons under the age of 16. Temporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1256553-33-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "813-255-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-(3-aminopyrazolo[1,5-A]pyridin-2-yl)-1,1-dimethylpiperazin-1-ium chloride hydrochloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "316",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "316",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "316",
+                    "1-(3-((4-Aminophenyl)amino)propyl)-3-methyl-1H-imidazol-3-ium chloride hydrochloride",
+                    "Methylimidazoliumpropyl p-phenylenediamine HCl",
+                    "220158-86-1",
+                    "",
+                    "Hair dye substance in oxidative hair dye products",
+                    "",
+                    "As from 3 June 2021, after mixing under oxidative conditions the maximum concentration applied to hair must not exceed 2 % (calculated as free base)",
+                    "As from 3 December 2021, to be printed on the label:\nThe mixing ratio.\nHair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "220158-86-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(3-((4-Aminophenyl)amino)propyl)-3-methyl-1H-imidazol-3-ium chloride hydrochloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "317",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "317",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "317",
+                    "Di-[2-[(E)-2-[4-[bis(2-hydroxyethyl)aminophenyl]vinyl]pyridin-1-ium]-ethyl]disulphide dimethanesulfonate",
+                    "HC Orange No 6",
+                    "1449653-83-1",
+                    "",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "As from 3 June 2021: 0,5 %",
+                    "Methanesulfonates impurities, in particular ethyl methanesulfonate shall not be present.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1449653-83-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Di-[2-[(E)-2-[4-[bis(2-hydroxyethyl)aminophenyl]vinyl]pyridin-1-ium]-ethyl]disulphide dimethanesulfonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "318",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "318",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "318",
+                    "Sodium 4-[(2-hydroxy-1-naphthyl)azo]benzene sulfonate",
+                    "Acid Orange 7",
+                    "633-96-5",
+                    "211-199-0",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "As from 3 June 2021: 0,5 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "633-96-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-199-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium 4-[(2-hydroxy-1-naphthyl)azo]benzene sulfonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "319",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "319",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "319",
+                    "Phenol, 4,4'-(4,5,6,7-tetrabromo-1,1-dioxido-3H-2,1-benzoxathiol-3-ylidene)bis[2,6-dibromo-",
+                    "Tetrabromophenol Blue",
+                    "4430-25-5",
+                    "224-622-9",
+                    "(a) Hair dye substance in oxidative hair dye products\n(b) Hair dye substance in non-oxidative hair dye products",
+                    "(b) As from 3 June 2021: 0,2 %",
+                    "(a) As from 3 June 2021, after mixing under oxidative conditions the maximum concentration applied to hair must not exceed 0,2 % (calculated as free base)",
+                    "(a) As from 3 December 2021, to be printed on the label:\nThe mixing ratio.\nHair colorants can cause severe allergic reactions.\nRead and follow instructions.\nThis product is not intended for use on persons under the age of 16.\nTemporary black henna tattoos may increase your risk of allergy.\nDo not colour your hair if:\nyou have a rash on your face or sensitive, irritated and damaged scalp,\nyou have ever experienced any reaction after colouring your hair,\nyou have experienced a reaction to a temporary black henna tattoo in the past."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "4430-25-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "224-622-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phenol, 4,4'-(4,5,6,7-tetrabromo-1,1-dioxido-3H-2,1-benzoxathiol-3-ylidene)bis[2,6-dibromo-"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "320",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "320",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "320",
+                    "Indigofera tinctoria, dried and pulverised leaves of Indigofera tinctoria L",
+                    "Indigofera tinctoria leaf Indigofera tinctoria leaf powder\nIndigofera tinctoria leaf extract\nIndigofera tinctoria extract",
+                    "84775-63-3",
+                    "283-892-6",
+                    "Hair dye substance in non-oxidative hair dye products",
+                    "As from 3 June 2021: 25 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84775-63-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "283-892-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Indigofera tinctoria, dried and pulverised leaves of Indigofera tinctoria L"
+              }
+            }
+          ],
+          "unchanged": 323,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -272,7 +925,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -370,6 +1024,110 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN VI",
+              "table": 1,
+              "key": "32",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "32",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "32",
+                    "2-ethoxyethyl (2Z)-2-cyano-2-[3-(3-methoxypropylamino) cyclohex-2-en-1-ylidene]acetate",
+                    "Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate",
+                    "1419401-88-9",
+                    "700-860-3",
+                    "",
+                    "3 %",
+                    "Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation\nDo not use with nitrosating agents – Maximum nitrosamine content: 50 μg/kg\nKeep in nitrite-free containers",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1419401-88-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "700-860-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-ethoxyethyl (2Z)-2-cyano-2-[3-(3-methoxypropylamino) cyclohex-2-en-1-ylidene]acetate"
+              }
+            }
+          ],
+          "unchanged": 34,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -404,7 +1162,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -681,7 +1440,8 @@
     ],
     "metadata_only_units": [
       "AR 2"
-    ]
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -729,6 +1489,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 3,
+      "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

@@ -1652,7 +1652,7 @@ No other part of Article 2, including paragraphs 1 to 3, differs between the two
 
 *amended by* `32017R0745`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -1661,6 +1661,8 @@ No other part of Article 2, including paragraphs 1 to 3, differs between the two
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN II` · *dates* +2021-09-03 +2022-06-03 · *amended by* `32020R1683`
+
+Table entries: 3 added, 0 amended, 0 removed: Reference number 1642, Reference number 1643, Reference number 1644
 
 The AFTER text adds two new sentences to the introductory notes stating that from 3 September 2021 hair and eyelash dye products containing those substances shall not be placed on the Union market, and that from 3 June 2022 such products shall not be made available on the Union market. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_II)
 
@@ -1704,6 +1706,8 @@ This addition follows the existing set of introductory market-restriction statem
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2021-06-03 +2021-09-03 +2021-12-03 · *amended by* `32020R1683`, `32020R1682`
+
+Table entries: 8 added, 1 amended, 0 removed: Reference number 292, Reference number 313, Reference number 314, Reference number 315, Reference number 316, Reference number 317, Reference number 318, Reference number 319, Reference number 320
 
 The later version adds two new notes, each stating that from 3 June 2021 products containing a given substance and not complying with certain conditions shall not be placed on the Union market, and that from 3 September 2021 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_III)
 
@@ -1754,6 +1758,8 @@ The remainder of the text shown is truncated, so any further differences beyond 
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32020R1684`
+
+Table entries: 1 added, 0 amended, 0 removed: Reference number 32
 
 The table of allowed UV filters gains a new entry, reference number 32, for Methoxypropylamino Cyclohexenylidene Ethoxyethylcyanoacetate, listing its CAS and EC numbers and a maximum concentration of 3 %. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20201203#anx_VI)
 
