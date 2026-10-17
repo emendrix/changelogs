@@ -4445,6 +4445,8 @@ Entry 22 on Resorcinol has been reworded so the mixing concentration limit of 1.
 
 *within* `AN II` · *amended by* `32013R0658`
 
+Table entries: 1 added, 0 amended, 0 removed: Reference number 1373
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20130711`)
@@ -4644,6 +4646,8 @@ Entry 22 on Resorcinol has been reworded so the mixing concentration limit of 1.
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unchanged
 
 *within* `AN III` · *amended by* `32013R0658`
+
+Table entries: 19 added, 9 amended, 0 removed: Reference number 16, Reference number 22, Reference number 198, Reference number 199, Reference number 200, Reference number 206, Reference number 207, Reference number 208, Reference number 209, Reference number 210 and 18 more
 
 Entry 16 changes its chemical name from 1-Naphthol to 1-Naphthalenol and raises the maximum concentration applied to hair after mixing under oxidative conditions from 1 % to 2,0 %, and also drops language previously excluding eyelash and eyebrow dyeing use. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130901#anx_III)
 
