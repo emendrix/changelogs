@@ -885,6 +885,8 @@ In section 9, the wording for points 9.2, 9.4 and 9.5.1 is revised to state that
 
 *within* `AN XIV` · *dates* +2023-11-01 +2025-05-01 · *amended by* `32022R0586`
 
+Table entries: 5 added, 0 amended, 0 removed: Entry 55, Entry 56, Entry 57, Entry 58, Entry 59
+
 Five new entries, numbered 55 to 59, have been added to the table of substances subject to authorisation, covering tetraethyllead, a Michler's ketone/base-related trityl alcohol compound, a reaction product involving 4-heptylphenol, DOTE, and a reaction mass of DOTE and MOTE. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_XIV)
 
 Each of these new entries lists 1 November 2023 as the latest application date and 1 May 2025 as the sunset date, with no exempted uses or review periods specified. [Annex XIV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20220501#anx_XIV)

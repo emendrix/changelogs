@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,243 @@
         "changed_within": [
           "AN XIV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XIV",
+              "container": "AN XIV",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Entry Nr",
+                  "Substance",
+                  "Intrinsic property(ies) referred to in Article 57",
+                  "Transitional arrangements",
+                  null,
+                  "Exempted (categories of) uses",
+                  "Review periods"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  "Latest application date\n",
+                  "Sunset date\n",
+                  null,
+                  null
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "55",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "55",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "55.",
+                    "Tetraethyllead\nEC No: 201-075-4\nCAS No: 78-00-2",
+                    "Toxic for reproduction (category 1A)",
+                    "1 November 2023",
+                    "1 May 2025",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "78-00-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-075-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetraethyllead"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "56",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "56",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "56.",
+                    "4,4'-bis(dimethylamino)-4\"-(methylamino)trityl alcohol (with ≥ 0,1 % of Michler’s ketone (EC No 202-027-5) or Michler’s base (EC No 202-959-2))\nEC No: 209-218-2\nCAS No: 561-41-1",
+                    "Carcinogenic (category 1B)",
+                    "1 November 2023",
+                    "1 May 2025",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "561-41-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-027-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-959-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-218-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4,4'-bis(dimethylamino)-4\"-(methylamino)trityl alcohol (with ≥ 0,1 % of Michler’s ketone (EC No 202-027-5) or Michler’s base (EC No 202-959-2))"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "57",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "57",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "57.",
+                    "Reaction products of 1,3,4-thiadiazolidine-2,5-dithione, formaldehyde and 4-heptylphenol, branched and linear (RP-HP) (with ≥ 0,1 % w/w 4-heptylphenol, branched and linear)\nEC No: -\nCAS No: -",
+                    "Endocrine disrupting properties (Article 57, point (f) – environment)",
+                    "1 November 2023",
+                    "1 May 2025",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Reaction products of 1,3,4-thiadiazolidine-2,5-dithione, formaldehyde and 4-heptylphenol, branched and linear (RP-HP) (with ≥ 0,1 % w/w 4-heptylphenol, branched and linear)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "58",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "58",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "58.",
+                    "2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (DOTE)\nEC No: 239-622-4\nCAS No: 15571-58-1",
+                    "Toxic for reproduction (category 1B)",
+                    "1 November 2023",
+                    "1 May 2025",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "15571-58-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-622-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (DOTE)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN XIV",
+              "table": 1,
+              "key": "59",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XIV",
+                "container": "AN XIV",
+                "table": 1,
+                "key": "59",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "59.",
+                    "Reaction mass of 2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate and 2-ethylhexyl 10-ethyl-4-[[2-[(2-ethylhexyl)oxy]-2-oxoethyl]thio]-4-octyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (reaction mass of DOTE and MOTE)\nEC No: -\nCAS No: -",
+                    "Toxic for reproduction (category 1B)",
+                    "1 November 2023",
+                    "1 May 2025",
+                    "-",
+                    "-"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Reaction mass of 2-ethylhexyl 10-ethyl-4,4-dioctyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate and 2-ethylhexyl 10-ethyl-4-[[2-[(2-ethylhexyl)oxy]-2-oxoethyl]thio]-4-octyl-7-oxo-8-oxa-3,5-dithia-4-stannatetradecanoate (reaction mass of DOTE and MOTE)"
+              }
+            }
+          ],
+          "unchanged": 54,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -330,6 +567,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
