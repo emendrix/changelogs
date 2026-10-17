@@ -263,7 +263,7 @@ The deadline reference in each clause was also rephrased from ending with the wo
 ### `02019R1021-20251015` → `02019R1021-20251203`
 
 - **Act** `eu:32019R1021` · **In force** 2025-11-17 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 29 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20251015` · `v2` = `02019R1021-20251203`
@@ -273,6 +273,8 @@ The deadline reference in each clause was also rephrased from ending with the wo
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* -2021-07-16 +2004-10-27 +2009-06-18 +2025-12-30 +2027-05-17 +2027-12-30 · *amended by* `32025R0718`, `32025R1482`
+
+Table entries: 0 added, 6 amended, 0 removed: "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE)", "Heptabromodiphenyl ether", "Hexabromodiphenyl ether", "Pentabromodiphenyl ether", "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds", "Tetrabromodiphenyl ether"
 
 The list of referenced legal instruments now also includes Regulation (EC) No 1935/2004 on food contact materials and Directive 2009/48/EC on the safety of toys, and the earlier reference to a review by 16 July 2021 of the combined tetra-, penta-, hexa-, hepta- and decaBDE limit has been removed. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20251203#anx_I)
 

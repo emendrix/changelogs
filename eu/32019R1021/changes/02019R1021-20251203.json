@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 1,
     "substantive": 1,
     "date_only": 0,
+    "textless": 0,
     "disputed": 0,
     "quoted": 0,
     "unexplained": 0
@@ -51,6 +52,593 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substance",
+                  "CAS No",
+                  "EC No",
+                  "Specific exemption on intermediate use or other specification"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether; decabde)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether; decabde)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE)",
+                    "1163-19-5",
+                    "214-604-9",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of decaBDE equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the sum of the concentrations of those substances up to 500 mg/kg where they are present in mixtures or articles, subject to review and assessment by the Commission by 16 July 2021. This review shall assess, inter alia, all relevant impacts with regard to health and the environment.\n3. By way of derogation, the manufacturing, placing on the market and use of decaBDE shall be allowed for the following purposes, provided that Member States report to the Commission by December 2019 in accordance with the Convention:\n(a) in the manufacturing of an aircraft, for which type approval has been applied for before 2 March 2019 and has been received before December 2022, until 18 December 2023, or, in cases where the continuing need is justified, until 2 March 2027;\n(b) in the manufacturing of spare parts for either of the following:\n(i) an aircraft, for which type approval has been applied for before 2 March 2019 and has been received before December 2022, produced before 18 December 2023, or, in cases where the continuing need is justified, produced before 2 March 2027, until the end of service life of that aircraft;\n(ii) motor vehicles within the scope of Directive 2007/46/EC of the European Parliament and of the Council\n, produced before 15 July 2019, either until 2036 or the end of service life of those motor vehicles, whichever date comes earlier;\n(c) electric and electronic equipment within the scope of Directive 2011/65/EU.\n4. The specific exemptions for spare parts for use in motor vehicles referred to in point 3(b)(ii) shall apply for the manufacturing and use of commercial decaBDE falling into one or more of the following categories:\n(a) powertrain and under-hood applications such as battery mass wires, battery interconnection wires, mobile air condition (MAC) pipes, powertrains, exhaust manifold bushings, under- hood insulation, wiring and harness under-hood (engine wiring, etc.), speed sensors, hoses, fan modules and knock sensors;\n(b) fuel system applications such as fuel hoses, fuel tanks and fuel tanks under body;\n(c) pyrotechnical devices and applications affected by pyrotechnical devices such as airbag ignition cables, seat covers/fabrics (only if airbag relevant) and airbags (front and side).\n5. Use of articles already in use before 15 July 2019 in the Union containing decaBDE shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.\n6. Without prejudice to the application of other Union provisions on the classification, packaging and labelling of substances and mixtures, articles in which decaBDE is used shall be identifiable by labelling or other means throughout its life cycle.\n7. The placing on the market and use of articles containing decaBDE imported for the purposes of the specific exemptions in point 3 shall be allowed until the expiry of those exemptions. Point 6 shall apply as if such articles were produced pursuant to the exemption in point 3. Such articles already in use by the date of expiry of the relevant exemption may continue to be used.\n8. For the purposes of this entry aircraft means the following:\n(a) a civil aircraft produced in accordance with a type certificate issued under Regulation (EC) No 216/2008 of the European Parliament and of the Council\n or with a design approval issued under the national regulations of a contracting state of ICAO, or for which a certificate of airworthiness has been issued by an ICAO Contracting State under Annex 8 to the Convention on International Civil Aviation;\n(b) a military aircraft."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1163-19-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-604-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE)"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether; decabde)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE)",
+                    "1163-19-5",
+                    "214-604-9",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of decaBDE equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances:\n(a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027 where they are present in toys subject to Directive 2009/48/EC, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.\n3. By way of derogation, the manufacturing, placing on the market and use of decaBDE shall be allowed for the following purposes, provided that Member States report to the Commission by December 2019 in accordance with the Convention:\n(a) in the manufacturing of an aircraft, for which type approval has been applied for before 2 March 2019 and has been received before December 2022, until 18 December 2023, or, in cases where the continuing need is justified, until 2 March 2027;\n(b) in the manufacturing of spare parts for either of the following:\n(i) an aircraft, for which type approval has been applied for before 2 March 2019 and has been received before December 2022, produced before 18 December 2023, or, in cases where the continuing need is justified, produced before 2 March 2027, until the end of service life of that aircraft;\n(ii) motor vehicles within the scope of Directive 2007/46/EC of the European Parliament and of the Council\n, produced before 15 July 2019, either until 2036 or the end of service life of those motor vehicles, whichever date comes earlier;\n(c) electric and electronic equipment within the scope of Directive 2011/65/EU.\n4. The specific exemptions for spare parts for use in motor vehicles referred to in point 3(b)(ii) shall apply for the manufacturing and use of commercial decaBDE falling into one or more of the following categories:\n(a) powertrain and under-hood applications such as battery mass wires, battery interconnection wires, mobile air condition (MAC) pipes, powertrains, exhaust manifold bushings, under- hood insulation, wiring and harness under-hood (engine wiring, etc.), speed sensors, hoses, fan modules and knock sensors;\n(b) fuel system applications such as fuel hoses, fuel tanks and fuel tanks under body;\n(c) pyrotechnical devices and applications affected by pyrotechnical devices such as airbag ignition cables, seat covers/fabrics (only if airbag relevant) and airbags (front and side).\n5. Use of articles already in use before 15 July 2019 in the Union containing decaBDE shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.\n6. Without prejudice to the application of other Union provisions on the classification, packaging and labelling of substances and mixtures, articles in which decaBDE is used shall be identifiable by labelling or other means throughout its life cycle.\n7. The placing on the market and use of articles containing decaBDE imported for the purposes of the specific exemptions in point 3 shall be allowed until the expiry of those exemptions. Point 6 shall apply as if such articles were produced pursuant to the exemption in point 3. Such articles already in use by the date of expiry of the relevant exemption may continue to be used.\n8. For the purposes of this entry aircraft means the following:\n(a) a civil aircraft produced in accordance with a type certificate issued under Regulation (EC) No 216/2008 of the European Parliament and of the Council\n or with a design approval issued under the national regulations of a contracting state of ICAO, or for which a certificate of airworthiness has been issued by an ICAO Contracting State under Annex 8 to the Convention on International Civil Aviation;\n(b) a military aircraft."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1163-19-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-604-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE)"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "heptabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "heptabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Heptabromodiphenyl ether\nC12H3Br7O",
+                    "68928-80-3 and others",
+                    "273-031-2 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of heptabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the sum of the concentration of those substances up to 500 mg/kg where they are present in mixtures or articles, subject to review and assessment by the Commission by 16 July 2021. This review shall assess, inter alia, all relevant impacts with regard to health and the environment.\n3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed:\nelectrical and electronic equipment within the scope of Directive 2011/65/EU.\n4. Use of articles already in use in the Union before 25 August 2010 containing heptabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68928-80-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "273-031-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Heptabromodiphenyl ether"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "heptabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Heptabromodiphenyl ether\nC12H3Br7O",
+                    "68928-80-3 and others",
+                    "273-031-2 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of heptabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances:\n(a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027, where they are present in toys subject to Directive 2009/48/EC, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.\n3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed:\nelectrical and electronic equipment within the scope of Directive 2011/65/EU.\n4. Use of articles already in use in the Union before 25 August 2010 containing heptabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68928-80-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "273-031-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Heptabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "hexabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "hexabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromodiphenyl ether\nC12H4Br6O",
+                    "36483-60-0 and others",
+                    "253-058-6 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of hexabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the sum of the concentration of those substances up to 500 mg/kg where they are present in mixtures or articles, subject to review and assessment by the Commission by 16 July 2021. This review shall assess, inter alia, all relevant impacts with regard to health and the environment.\n3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed:\nelectrical and electronic equipment within the scope of Directive 2011/65/EU.\n4. Use of articles already in use in the Union before 25 August 2010 containing hexabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "36483-60-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-058-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromodiphenyl ether"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "hexabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Hexabromodiphenyl ether\nC12H4Br6O",
+                    "36483-60-0 and others",
+                    "253-058-6 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of hexabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances:\n(a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027, where they are present in toys subject to Directive 2009/48/EC, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.\n3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed:\nelectrical and electronic equipment within the scope of Directive 2011/65/EU.\n4. Use of articles already in use in the Union before 25 August 2010 containing hexabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "36483-60-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-058-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "pentabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "pentabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pentabromodiphenyl ether\nC12H5Br5O",
+                    "32534-81-9 and others",
+                    "251-084-2 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of pentabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the sum of the concentration of those substances up to 500 mg/kg where they are present in mixtures or articles, subject to review and assessment by the Commission by 16 July 2021. This review shall assess, inter alia, all relevant impacts with regard to health and the environment.\n3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed:\nelectrical and electronic equipment within the scope of Directive 2011/65/EU.\n4. Use of articles already in use in the Union before 25 August 2010 containing pentabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "32534-81-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-084-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentabromodiphenyl ether"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "pentabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pentabromodiphenyl ether\nC12H5Br5O",
+                    "32534-81-9 and others",
+                    "251-084-2 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of pentabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances:\n(a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027, where they are present in toys subject to Directive 2009/48/EC, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.\n3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed:\nelectrical and electronic equipment within the scope of Directive 2011/65/EU.\n4. Use of articles already in use in the Union before 25 August 2010 containing pentabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "32534-81-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "251-084-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "perfluorooctane sulfonic acid (pfos), its salts and pfos-related compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "perfluorooctane sulfonic acid (pfos), its salts and pfos-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds\nC8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other related compounds including polymers)",
+                    "1763-23-1\n2795-39-3\n29457-72-5\n29081-56-9\n70225-14-8\n56773-42-3\n251099-16-8\n4151-50-2\n31506-32-8\n1691-99-2\n24448-09-7\n307-35-7 and others",
+                    "217-179-8\n220-527-1\n249-644-6\n249-415-0\n274-460-8\n260-375-3\n223-980-3\n250-665-8\n216-887-4\n246-262-1\n206-200-6 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOS equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances or in mixtures.\n2. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOS in semi-finished products or articles, or parts thereof, if the concentration of PFOS is lower than 0,1 % by weight calculated with reference to the mass of structurally or micro-structurally distinct parts that contain PFOS or, for textiles or other coated materials, if the amount of PFOS is lower than 1 μg/m2 of the coated material.\n3. Use of articles already in use in the Union before 25 August 2010 containing PFOS shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.\n4. If the quantity released into the environment is minimised, manufacturing and placing on the market shall be allowed until 7 September 2025 for use as mist suppressant for non-decorative hard chromium (VI) plating in closed loop systems. Provided that those Member States where PFOS is used report to the Commission by 7 September 2024 on progress made to eliminate PFOS and justify the continuing need for this use, the Commission shall review the need for a prolongation of the derogation for this use of PFOS for a maximum of five years by 7 September 2025.\nWhere such a derogation concerns production or use in an installation within the scope of Directive 2008/1/EC of the European Parliament and of the Council\n, the relevant best available techniques for the prevention and minimisation of emissions of PFOS described in the information published by the Commission pursuant to Article 17(2), second subparagraph, of Directive 2008/1/EC shall apply.\nAs soon as new information on details of uses and safer alternative substances or technologies becomes available, the Commission shall review the derogation in the second subparagraph so that:\n(a) the uses of PFOS will be phased out as soon as the use of safer alternatives is technically and economically feasible;\n(b) a derogation can only be continued for essential uses for which safer alternatives do not exist and where the efforts undertaken to find safer alternatives have been reported on;\n(c) releases of PFOS into the environment have been minimised by applying best available techniques.\n5. Once standards are adopted by the European Committee for Standardisation (CEN) they shall be used as the analytical test methods for demonstrating the conformity of substances, mixtures and articles to points 1 and 2. Any other analytical method for which the user can prove equivalent performance could be used as an alternative to the CEN standards."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1691-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1763-23-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "24448-09-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "251099-16-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2795-39-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29081-56-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29457-72-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "307-35-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "31506-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "4151-50-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56773-42-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "70225-14-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-200-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-887-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-179-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-527-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-980-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-262-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-415-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-644-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "250-665-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-375-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-460-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "perfluorooctane sulfonic acid (pfos), its salts and pfos-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds\nC8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other related compounds including polymers)",
+                    "1763-23-1\n2795-39-3\n29457-72-5\n29081-56-9\n70225-14-8\n56773-42-3\n251099-16-8\n4151-50-2\n31506-32-8\n1691-99-2\n24448-09-7\n307-35-7 and others",
+                    "217-179-8\n220-527-1\n249-644-6\n249-415-0\n274-460-8\n260-375-3\n223-980-3\n250-665-8\n216-887-4\n246-262-1\n206-200-6 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOS or any of its salts equal to or below 0,025 mg/kg (0,0000025 % by weight) where they are present in substances, mixtures or in articles.\n2. For the purposes of this entry, Article 4(1), point (b), shall apply to the sum of concentrations of all PFOS-related compounds equal to or below 1 mg/kg (0,0001 % by weight) where they are present in substances, mixtures or articles.\n3. Use of articles already in use in the Union before 25 August 2010 containing PFOS shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.\n4. If the quantity released into the environment is minimised, manufacturing and placing on the market shall be allowed until 7 September 2025 for use as mist suppressant for non-decorative hard chromium (VI) plating in closed loop systems. Provided that those Member States where PFOS is used report to the Commission by 7 September 2024 on progress made to eliminate PFOS and justify the continuing need for this use, the Commission shall review the need for a prolongation of the derogation for this use of PFOS for a maximum of five years by 7 September 2025.\nWhere such a derogation concerns production or use in an installation within the scope of Directive 2008/1/EC of the European Parliament and of the Council\n, the relevant best available techniques for the prevention and minimisation of emissions of PFOS described in the information published by the Commission pursuant to Article 17(2), second subparagraph, of Directive 2008/1/EC shall apply.\nAs soon as new information on details of uses and safer alternative substances or technologies becomes available, the Commission shall review the derogation in the second subparagraph so that:\n(a) the uses of PFOS will be phased out as soon as the use of safer alternatives is technically and economically feasible;\n(b) a derogation can only be continued for essential uses for which safer alternatives do not exist and where the efforts undertaken to find safer alternatives have been reported on;\n(c) releases of PFOS into the environment have been minimised by applying best available techniques.\n5. Once standards are adopted by the European Committee for Standardisation (CEN) they shall be used as the analytical test methods for demonstrating the conformity of substances, mixtures and articles to points 1 and 2. Any other analytical method for which the user can prove equivalent performance could be used as an alternative to the CEN standards."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1691-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1763-23-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "24448-09-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "251099-16-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2795-39-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29081-56-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29457-72-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "307-35-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "31506-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "4151-50-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56773-42-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "70225-14-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-200-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-887-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-179-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-527-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-980-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-262-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-415-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-644-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "250-665-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-375-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-460-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "tetrabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tetrabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tetrabromodiphenyl ether\nC12H6Br4O",
+                    "40088-47-9 and others",
+                    "254-787-2 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of tetrabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the sum of the concentration of those substances up to 500 mg/kg where they are present in mixtures or articles, subject to review and assessment by the Commission by 16 July 2021. This review shall assess, inter alia, all relevant impacts with regard to health and the environment.\n3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed:\nelectrical and electronic equipment within the scope of Directive 2011/65/EU of the European Parliament and of the Council\n.\n4. Use of articles already in use in the Union before 25 August 2010 containing tetrabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "40088-47-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-787-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetrabromodiphenyl ether"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "tetrabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Tetrabromodiphenyl ether\nC12H6Br4O",
+                    "40088-47-9 and others",
+                    "254-787-2 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of tetrabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances.\n2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances:\n(a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004 of the European Parliament and of the Council\n;\n(b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004;\n(c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027, where they are present in toys subject to Directive 2009/48/EC of the European Parliament and of the Council\n, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.\n3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed:\nelectrical and electronic equipment within the scope of Directive 2011/65/EU of the European Parliament and of the Council\n.\n4. Use of articles already in use in the Union before 25 August 2010 containing tetrabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "40088-47-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "254-787-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tetrabromodiphenyl ether"
+              }
+            }
+          ],
+          "unchanged": 26,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -99,7 +687,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -275,7 +864,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -308,5 +898,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
