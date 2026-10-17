@@ -3005,6 +3005,8 @@ The remainder of the visible text of Annex XVII, including the other numbered en
 
 *within* `AN XVII` · *dates* +2015-12-27 +2017-12-27 · *amended by* `32013R1272`
 
+Table entries: 0 added, 1 amended, 0 removed: Entry 50
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20150925`)
