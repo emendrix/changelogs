@@ -1132,7 +1132,7 @@ The Part 3 list of chemicals subject to the PIC procedure now also includes entr
 ### `32012R0649` → `02012R0649-20141201`
 
 - **Act** `eu:32012R0649` · **In force** 2014-03-01 · **Detected** 2026-09-04
-- **Touched** 2 provisions — 2 substantive · 0 date-only · **1 disputed**
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **1 disputed**
 - **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 37 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `32012R0649` · `v2` = `02012R0649-20141201`
@@ -1142,6 +1142,8 @@ The Part 3 list of chemicals subject to the PIC procedure now also includes entr
 **MODIFIED · Annex I — ANNEX I** · applies from: unchanged
 
 *within* `AN I` · *amended by* `32014R1078`, `32019R1701`
+
+Table entries: 22 added, 4 amended, 5 removed: "(PFOS)", "(X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers)", "Azinphos-methyl", "Azocyclotin", "Bitertanol", "C8F17SO2X", "Chlorate", "Cinidon-ethyl", "Cyclanilide", "Cyfluthrin" and 21 more
 
 Part 1 of the Annex gains a number of new chemical entries, including Azocyclotin, Bitertanol, Cinidon-ethyl, Cyclanilide, Cyhexatin, Didecyldimethylammonium chloride, Ethoxysulfuron, Oxadiargyl, Rotenone and Warfarin, alongside expanded CAS/Einecs/CN code listings for Chlorate and a revised entry for perfluorooctane sulfonates and related substances. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I)
 
@@ -1185,7 +1187,7 @@ Part 3 adds a new entry for Azinphos-methyl with its CAS number and HS codes, an
 
 *amended by* `32019R1701`
 
-**DISPUTED** — seen by corpus metadata, not by the structural diff
+**DISPUTED** — no text, named by corpus metadata alone: seen by corpus metadata, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships as `disputed`.*
 

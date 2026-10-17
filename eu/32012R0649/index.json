@@ -303,10 +303,10 @@
       "in_force": [
         "2014-03-01"
       ],
-      "updated_on": "2026-09-04",
-      "schema_version": "1.0",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32012R0649/changes/02012R0649-20141201.json",
-      "sha256": "3506a3737c26471b91b550e6599467eb02cd51d8596103e90ad6f18766f7bc15",
+      "sha256": "8a353c29278e9bdb069e63181c5b7a4569fb817eadc56c83e8169d8ec0a41feb",
       "diff_only": false,
       "counts": {
         "touched": 2,
@@ -317,7 +317,12 @@
         "quoted": 0,
         "unexplained": 1
       },
-      "repairs": [],
+      "repairs": [
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
+        }
+      ],
       "evidence": false,
       "metadata_only_units": [
         "AN V"
