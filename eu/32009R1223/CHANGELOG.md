@@ -770,6 +770,8 @@ The remainder of the visible text, including the numbered substance table, is id
 
 *within* `AN II` · *amended by* `32022R1531`
 
+Table entries: 14 added, 1 amended, 0 removed: Reference number 1680, Reference number 1681, Reference number 1682, Reference number 1683, Reference number 1684, Reference number 1685, Reference number 1686, Reference number 1687, Reference number 1688, Reference number 1689 and 5 more
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02009R1223-20221006`)
@@ -791,6 +793,8 @@ The remainder of the visible text, including the numbered substance table, is id
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2023-07-01 +2024-01-01 · *amended by* `32022R2195`, `32022R1531`
+
+Table entries: 3 added, 1 amended, 0 removed: Reference number 22, Reference number 324, Reference number 325, Reference number 326
 
 The list of introductory footnotes/explanatory statements gained two new market-restriction statements referencing 1 July 2023 and 1 January 2024 dates, one concerning a substance generally and one specifically concerning non-oxidative hair dye products. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221217#anx_III)
 
@@ -842,7 +846,9 @@ Within entry 22, the eyelash-colouring restriction wording changed from prohibit
 
 *within* `AN V`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
+
+Table entries: 0 added, 1 amended (1 only in spacing, dash forms or accents), 0 removed: Reference number 51
 
 The two texts are identical apart from a minor spacing change in entry 51, where the substance name "Sodium N-(hydroxymethyl)glycinate" has an added space before "glycinate" in the later version. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221006#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221217#anx_V)
 
@@ -885,6 +891,8 @@ The two texts are identical apart from a minor spacing change in entry 51, where
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN VI` · *dates* +2025-01-01 +2025-07-01 · *amended by* `32022R2195`
+
+Table entries: 2 added, 1 amended, 0 removed: Reference number 3, Reference number 33, Reference number 34
 
 The introductory notes for Annex VI gained a new phase-out passage stating that from 1 January 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market, and that from 1 July 2025 such non-complying products shall not be made available on the Union market, along with a new sentence limiting the combined use of Bis-(Diethylaminohydroxybenzoyl Benzoyl) Piperazine and its nano form to 10 %. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221217#anx_VI)
 
