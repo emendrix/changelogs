@@ -1088,6 +1088,8 @@ Part 2, covering mercury-related chemicals and articles, remains unchanged betwe
 
 *within* `AN I` · *amended by* `32015R2229`
 
+Table entries: 17 added, 0 amended, 0 removed: "1,1,1,2-Tetrachloroethane", "1,1,2,2-Tetrachloroethane", "1,1,2-Trichloroethane", "1,1-Dichloroethene", "Dibutyltin compounds", "Dioctyltin compounds", "Fenbutatin oxide", "Lead compounds", "Pentachloroethane", "Trichlorobenzene" and 7 more
+
 The Part 1 list of chemicals subject to export notification now includes additional entries such as 1,1-Dichloroethene, 1,1,2-Trichloroethane, 1,1,1,2-Tetrachloroethane, 1,1,2,2-Tetrachloroethane, Dibutyltin compounds, Dioctyltin compounds, Fenbutatin oxide, Lead compounds, Pentachloroethane, and Trichlorobenzene, none of which appeared in the earlier version. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20141201#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20160201#anx_I)
 
 A new explanatory note stating that an ex before a code implies that chemicals other than those referred to in the column Chemical may also fall under that subheading has been added before the tables in Part 1, Part 2 and Part 3. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0649-20160201#anx_I)

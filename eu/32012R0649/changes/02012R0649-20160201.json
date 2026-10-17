@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,820 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "Einecs No",
+                  "CN code\n",
+                  "Subcategory\n",
+                  "Use limitation\n",
+                  "Countries for which no notification is required"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 2,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "Einecs No",
+                  "CN code\n",
+                  "Category\n",
+                  "Use limitation\n"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 3,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "Relevant CAS number(s)",
+                  "HS code\nPure substance\n",
+                  "HS code\nMixtures containing substance\n",
+                  "Category"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "1,1,1,2-tetrachloroethane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1,1,1,2-tetrachloroethane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,1,1,2-Tetrachloroethane",
+                    "630-20-6",
+                    "211-135-1",
+                    "ex29031980",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "630-20-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-135-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,1,1,2-Tetrachloroethane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "1,1,2,2-tetrachloroethane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1,1,2,2-tetrachloroethane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,1,2,2-Tetrachloroethane",
+                    "79-34-5",
+                    "201-197-8",
+                    "ex29031980",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "79-34-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-197-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,1,2,2-Tetrachloroethane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "1,1,2-trichloroethane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1,1,2-trichloroethane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,1,2-Trichloroethane",
+                    "79-00-5",
+                    "201-166-9",
+                    "ex29031980",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "79-00-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-166-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,1,2-Trichloroethane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "1,1-dichloroethene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1,1-dichloroethene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,1-Dichloroethene",
+                    "75-35-4",
+                    "200-864-0",
+                    "ex29032900",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "75-35-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-864-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,1-Dichloroethene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "dibutyltin compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "dibutyltin compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dibutyltin compounds",
+                    "683-18-1\n77-58-7\n1067-33-0\nand others",
+                    "211-670-0\n201-039-8\n213-928-8\nand others",
+                    "ex29319080",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1067-33-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "683-18-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "77-58-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-039-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-670-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "213-928-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutyltin compounds"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "dioctyltin compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "dioctyltin compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dioctyltin compounds",
+                    "3542-36-7\n870-08-6\n16091-18-2\nand others",
+                    "222-583-2\n212-791-1\n240-253-6\nand others",
+                    "ex29319080",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "16091-18-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3542-36-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "870-08-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "212-791-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-583-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-253-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dioctyltin compounds"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "fenbutatin oxide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "fenbutatin oxide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fenbutatin oxide",
+                    "13356-08-6",
+                    "236-407-7",
+                    "ex29319080",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13356-08-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-407-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenbutatin oxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "lead compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "lead compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lead compounds",
+                    "598-63-0\n1319-46-6\n7446-14-2\n7784-40-9\n7758-97-6\n1344-37-2\n25808-74-6\n13424-46-9\n301-04-2\n7446-27-7\n15245-44-0\nand others",
+                    "209-943-4\n215-290-6\n231-198-9\n232-064-2\n231-846-0\n215-693-7\n247-278-1\n236-542-1\n206-104-4\n231-205-5\n239-290-0\nand others",
+                    "ex28369917\nex32064970\nex28332960\nex28429080\nex28415000\nex32062000\nex28269080\nex28500060\nex29152900\nex28352990\nex29089900",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1319-46-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13424-46-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1344-37-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "15245-44-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "25808-74-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "301-04-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "598-63-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7446-14-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7446-27-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7758-97-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7784-40-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-104-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-943-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-290-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-693-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-198-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-205-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-846-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "232-064-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-542-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-290-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-278-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lead compounds"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "pentachloroethane",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "pentachloroethane",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pentachloroethane",
+                    "76-01-7",
+                    "200-925-1",
+                    "ex29031980",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "76-01-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-925-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pentachloroethane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "trichlorobenzene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "trichlorobenzene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Trichlorobenzene",
+                    "120-82-1",
+                    "204-428-0",
+                    "ex29039990",
+                    "i(2)",
+                    "sr",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-82-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-428-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trichlorobenzene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "fenbutatin oxide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "fenbutatin oxide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fenbutatin oxide",
+                    "13356-08-6",
+                    "236-407-7",
+                    "ex29319080",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13356-08-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-407-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenbutatin oxide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "commercial octabromodiphenyl ether, including",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "commercial octabromodiphenyl ether, including",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Commercial octabromodiphenyl ether, including",
+                    "",
+                    "ex 3824.90",
+                    "ex 3824.90",
+                    "Industrial"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Commercial octabromodiphenyl ether, including"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "commercial pentabromodiphenyl ether, including",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "commercial pentabromodiphenyl ether, including",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Commercial pentabromodiphenyl ether, including",
+                    "",
+                    "ex 3824.90",
+                    "ex 3824.90",
+                    "Industrial"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Commercial pentabromodiphenyl ether, including"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "— heptabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "— heptabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "— heptabromodiphenyl ether",
+                    "68928-80-3",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68928-80-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "— heptabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "— hexabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "— hexabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "— hexabromodiphenyl ether",
+                    "36483-60-0",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "36483-60-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "— hexabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "— pentabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "— pentabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "— pentabromodiphenyl ether",
+                    "32534-81-9",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "32534-81-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "— pentabromodiphenyl ether"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "— tetrabromodiphenyl ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "— tetrabromodiphenyl ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "— tetrabromodiphenyl ether",
+                    "40088-47-9",
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "40088-47-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "— tetrabromodiphenyl ether"
+              }
+            }
+          ],
+          "unchanged": 326,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -393,6 +1207,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
