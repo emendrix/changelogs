@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,94 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1730",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1730",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1730",
+                    "3-(4'-methylbenzylidene)-camphor\n;\n[INCI: 4-Methylbenzylidene Camphor]",
+                    "36861-47-9/38102-62-4",
+                    "253-242-6/-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "36861-47-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "38102-62-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "253-242-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "3-(4'-methylbenzylidene)-camphor"
+              }
+            }
+          ],
+          "unchanged": 1728,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -189,6 +277,378 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "373",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "373",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "373",
+                    "Genisteol; 4',5,7-Trihydroxyisoflavone; 5,7-dihydroxy-3-(4-hydroxyphenyl)-4-benzopyrone\n",
+                    "Genistein",
+                    "446-72-0",
+                    "207-174-9",
+                    "",
+                    "0,007 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "446-72-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "207-174-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Genisteol; 4',5,7-Trihydroxyisoflavone; 5,7-dihydroxy-3-(4-hydroxyphenyl)-4-benzopyrone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "374",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "374",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "374",
+                    "Daidzeol; 4',7-Dihydroxyisoflavone; 7-hydroxy-3-(4-hydroxyphenyl)-4-benzopyrone\n",
+                    "Daidzein",
+                    "486-66-8",
+                    "207-635-4",
+                    "",
+                    "0,02 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "486-66-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "207-635-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Daidzeol; 4',7-Dihydroxyisoflavone; 7-hydroxy-3-(4-hydroxyphenyl)-4-benzopyrone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "375",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "375",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "375",
+                    "5-Hydroxy-2-(hydroxymethyl)-4H-pyrane-4-one\n",
+                    "Kojic Acid",
+                    "501-30-4",
+                    "207-922-4",
+                    "Face and hand products",
+                    "1 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "501-30-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "207-922-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-Hydroxy-2-(hydroxymethyl)-4H-pyrane-4-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "376",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "376",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "376",
+                    "(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraen-1-ol\n",
+                    "Retinol",
+                    "11103-57-4/\n68-26-8",
+                    "234-328-2/\n200-683-7",
+                    "(a) Body lotion\n(b) other leave-on and rinse-off products",
+                    "(a) 0,05 % Retinol Equivalent (RE)\n(b) 0,3 % RE",
+                    "",
+                    "For any cosmetic product containing Retinol, Retinyl Acetate or\nRetinyl Palmitate the following, labelling is obligatory: Contains Vitamin A. Consider your daily intake before use."
+                  ],
+                  [
+                    null,
+                    "[(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenyl] acetate\n",
+                    "Retinyl Acetate",
+                    "127-47-9",
+                    "204-844-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "[(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenyl] hexadecanoate\n",
+                    "Retinyl Palmitate",
+                    "79-81-2",
+                    "201-228-5",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "11103-57-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "127-47-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68-26-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "79-81-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-683-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-228-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-844-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-328-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraen-1-ol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "377",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "377",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "377",
+                    "4-Hydroxyphenyl-alpha-D-glucopyranoside\n",
+                    "Alpha-Arbutin",
+                    "84380-01-8",
+                    "617-561-8",
+                    "(a) Face cream\n(b) Body lotion",
+                    "(a) 2 %\n(b) 0,5 %",
+                    "Hydroquinone levels shall remain as low as possible in formulations containing alpha-Arbutin and shall not be higher than the unavoidable trace level.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84380-01-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "617-561-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Hydroxyphenyl-alpha-D-glucopyranoside"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "378",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "378",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "378",
+                    "4-Hydroxyphenyl-beta-D-glucopyranoside\n",
+                    "Arbutin",
+                    "497-76-7",
+                    "207-850-3",
+                    "Face cream",
+                    "7 %",
+                    "Hydroquinone levels shall remain as low as possible in formulations containing Arbutin and shall not be higher than the unavoidable trace level.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "497-76-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "207-850-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "4-Hydroxyphenyl-beta-D-glucopyranoside"
+              }
+            }
+          ],
+          "unchanged": 384,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -338,6 +798,227 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "23",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23",
+                    "1-(4-Chlorophenyl)-3-(3,4-dichlorophenyl) urea\n",
+                    "Triclocarban",
+                    "101-20-2",
+                    "202-924-1",
+                    "",
+                    "0,2 %",
+                    "Purity criteria:\n3,3',4,4'-Tetrachloroazobenzene <1 ppm\n3,3',4,4'-Tetrachloroazoxybenzene <1 ppm",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-20-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-924-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(4-Chlorophenyl)-3-(3,4-dichlorophenyl) urea"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "23",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "23",
+                    "1-(4-Chlorophenyl)-3-(3,4-dichlorophenyl)urea\n",
+                    "Triclocarban",
+                    "101-20-2",
+                    "202-924-1",
+                    "All cosmetic products, with the exception of mouthwash.",
+                    "0,2 %",
+                    "Purity criteria:\n3,3',4,4'-Tetrachloroazobenzene ≤ 1 ppm\n3,3',4,4'-Tetrachloroazoxybenzene ≤ 1 ppm\nNot to be used in toothpaste intended for children under 6 years of age.",
+                    "For toothpaste containing Triclocarban the following labelling is obligatory: Not to be used for children under 6 years of age."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "101-20-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-924-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(4-Chlorophenyl)-3-(3,4-dichlorophenyl)urea"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "25",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "25",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "25",
+                    "5-Chloro-2- (2,4- dichlorophenoxy) phenol",
+                    "Triclosan",
+                    "3380-34-5",
+                    "222-182-2",
+                    "(a) Toothpastes\nHand soaps\nBody soaps/Shower gels\nDeodorants (non-spray)\nFace powders and blemish concealers\nNail products for cleaning the fingernails and toenails before the application of artificial nail systems",
+                    "(a) 0,3 %",
+                    "",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Mouthwashes",
+                    "(b) 0,2 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3380-34-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-182-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-Chloro-2- (2,4- dichlorophenoxy) phenol"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "25",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "25",
+                    "5-Chloro-2- (2,4- dichlorophenoxy) phenol\n",
+                    "Triclosan",
+                    "3380-34-5",
+                    "222-182-2",
+                    "Toothpastes; Hand soaps; Body soaps/Shower gels; Deodorants (non-spray); Face powders and blemish concealers; Nail products for cleaning the fingernails and toenails before the application of artificial nail systems;",
+                    "0,3 %",
+                    "Not to be used in toothpaste intended for children under 3 years of age.",
+                    "For toothpaste containing Triclosan the following labelling is obligatory: Not to be used for children under 3 years of age."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3380-34-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "222-182-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "5-Chloro-2- (2,4- dichlorophenoxy) phenol"
+              }
+            }
+          ],
+          "unchanged": 60,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -691,6 +1372,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 3,
+      "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 3,
       "repaired": 3,
       "remaining": 0,
