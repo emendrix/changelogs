@@ -2461,6 +2461,8 @@ This entry is not present in the earlier version of the annex, which ends its li
 
 *within* `AN II` · *dates* +2019-05-01 +2019-08-01 · *amended by* `32018R0978`
 
+Table entries: 1 added, 0 amended, 0 removed: Reference number 1383
+
 The AFTER text inserts two additional sentences stating that from 1 May 2019 cosmetic products containing that substance shall not be placed on the Union market, and that from 1 August 2019 such products shall not be made available on the Union market, repeated twice, following the existing sentence about the 23 August 2019 and 23 August 2021 dates. [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_II)
 
 The BEFORE text contains only the single pair of sentences referencing 23 August 2019 and 23 August 2021, without any reference to the 1 May 2019 or 1 August 2019 dates. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180711#anx_II)
@@ -2520,6 +2522,8 @@ The remainder of the numbered substance list shown is identical between the two 
 **MODIFIED · Annex III — LIST OF SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN III` · *dates* +2019-05-01 +2019-08-01 · *amended by* `32018R0978`
+
+Table entries: 2 added, 0 amended, 0 removed: Reference number 308, Reference number 309
 
 The later version adds four new footnote-style statements, each providing that from 1 May 2019 cosmetic products containing a given substance and not complying with the restrictions shall not be placed on the Union market, and from 1 August 2019 such products shall not be made available on the Union market. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20180801#anx_III)
 

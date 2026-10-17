@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,96 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1383",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1383",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1383",
+                    "Tagetes erecta flower extract\n",
+                    "90131-43-4",
+                    "290-353-9"
+                  ],
+                  [
+                    null,
+                    "Tagetes erecta flower oil\n",
+                    "90131-43-4",
+                    "290-353-9/-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90131-43-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-353-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tagetes erecta flower extract"
+              }
+            }
+          ],
+          "unchanged": 1381,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -189,6 +279,182 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "308",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "308",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "308",
+                    "Tagetes minuta flower extract\nTagetes minuta flower oil\n",
+                    "Tagetes minuta flower extract\nTagetes minuta flower oil",
+                    "91770-75-1;\n91770-75-1/8016-84-0",
+                    "294-862-7;\n294-862-7",
+                    "(a) Leave-on products",
+                    "(a) 0,01 %",
+                    "For (a) and (b): Alpha terthienyl (terthiophen) content in the extract/oil ≤ 0,35 %.\nFor (a): Not to be used in sunscreen products and products marketed for exposure to natural/artificial UV light.\nFor (a) and (b): In case of combined use with Tagetes patula (entry 309), the total combined content of Tagetes in ready for use preparation shall not exceed the maximum concentration limits set out in column (g).",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Rinse-off products",
+                    "(b) 0,1 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8016-84-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "91770-75-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "294-862-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tagetes minuta flower extract"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "309",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "309",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "309",
+                    "Tagetes patula flower extract\nTagetes patula flower oil\n",
+                    "Tagetes patula flower extract\nTagetes patula flower oil",
+                    "91722-29-1;\n91722-29-1/8016-84-0",
+                    "294-431-3;\n294-431-3/-",
+                    "(a) Leave-on products",
+                    "(a) 0,01 %",
+                    "For (a) and (b): Alpha terthienyl (terthiophen) content in the extract/oil ≤ 0,35 %.\nFor (a): Not to be used in sunscreen products and products marketed for exposure to natural/artificial UV light.\nFor (a) and (b): In case of combined use with Tagetes minuta (entry 308), the total combined content of Tagetes in ready for use preparation shall not exceed the maximum concentration limits set out in column (g).",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Rinse-off products",
+                    "(b) 0,1 %",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8016-84-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "91722-29-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "294-431-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Tagetes patula flower extract"
+              }
+            }
+          ],
+          "unchanged": 318,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -449,6 +715,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 2,
+      "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 2,
       "repaired": 2,
       "remaining": 0,
