@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -53,6 +53,7 @@
           "AR 1 PA 1 ALN 1 PTA (e)",
           "AR 1 PA 1 ALN 1 PTA (f)"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -150,6 +151,7 @@
           "AR 2 ALN 1 PO 40",
           "AR 2 ALN 1 PO 41"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -255,6 +257,7 @@
           "AR 4 PA 3 ALN 2",
           "AR 4 PA 3 ALN 3"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -407,6 +410,7 @@
           "AR 5 PA 7",
           "AR 5 PA 8"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -542,6 +546,7 @@
           "AR 6 PA 3 ALN 2",
           "AR 6 PA 4 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -672,6 +677,7 @@
           "AR 9 PA 4 ALN 2",
           "AR 9 PA 4 ALN 3"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -813,6 +819,7 @@
           "AR 10 PA 10",
           "AR 10 PA 11"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -947,6 +954,7 @@
           "AR 13 ALN 1",
           "AR 13 ALN 1 PTA (b)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1095,6 +1103,7 @@
         "changed_within": [
           "AR 18 PA 3 ALN 1 PTA (b)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1197,6 +1206,7 @@
           "AR 23 ALN 1 PTA (f)",
           "AR 23 ALN 1 PTA (g)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1316,6 +1326,7 @@
         "changed_within": [
           "AR 24 PA 2 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1415,6 +1426,7 @@
           "AR 25 PA 6 ALN 1",
           "AR 25 PA 9"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1565,6 +1577,7 @@
           "AR 29 PA 3 ALN 1",
           "AR 29 PA 4b"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1714,6 +1727,7 @@
           "AR 30 PA 3 ALN 1",
           "AR 30 PA 4"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1874,6 +1888,7 @@
           "AR 31 PA 1 ALN 1",
           "AR 31 PA 3 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -1986,6 +2001,7 @@
         "after": null,
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2049,6 +2065,7 @@
         "changed_within": [
           "AR 35 PA 2a"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2177,6 +2194,7 @@
           "AR 36 PA 1 ALN 1 PTA (j)",
           "AR 36 PA 2 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2338,6 +2356,7 @@
           "AR 37 PA 7",
           "AR 37 PA 8"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2495,6 +2514,7 @@
         "changed_within": [
           "AR 38 PA 1 ALN 1 PTA (c)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2597,6 +2617,7 @@
           "AR 40 PA 1 ALN 1 PTA (h)",
           "AR 40 PA 2 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2747,6 +2768,7 @@
           "AR 42 PA 1 ALN 1 PTA (c)",
           "AR 42 PA 1 ALN 1 PTA (d)"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -2872,6 +2894,7 @@
           "AR 45 PA 2 ALN 1 PTA (b)",
           "AR 45 PA 3 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3020,6 +3043,7 @@
         "changed_within": [
           "AR 46 PA 1a"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3139,6 +3163,7 @@
           "AR 48 PA 3",
           "AR 48 PA 4"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3286,6 +3311,7 @@
         "after": "Article 48a\nDistance sales offers\nWhen substances or mixtures are placed on the market through distance sales, the offer shall clearly and visibly indicate the label elements referred to in Article 17.",
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3372,6 +3398,7 @@
           "AR 50 PA 3",
           "AR 50 PA 4"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3520,6 +3547,7 @@
         "changed_within": [
           "AR 52 PA 2 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3639,6 +3667,7 @@
           "AR 53 PA 2 ALN 1",
           "AR 53 PA 3"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3776,6 +3805,7 @@
           "AR 53a PA 3 ALN 1",
           "AR 53a PA 6 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -3910,6 +3940,7 @@
         "changed_within": [
           "AR 53c ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -4027,6 +4058,7 @@
           "AR 54 PA 1 ALN 1",
           "AR 54 PA 2 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -4144,6 +4176,7 @@
         "after": "Article 54a\nReporting and review\n1. By 11 December 2029, the Commission shall present a scientific report to the European Parliament and to the Council regarding the examination of the information on substances containing more than one constituent extracted from plants. The report may be accompanied, if appropriate, by a legislative proposal.\n2. By 11 December 2029, the Commission shall present an evaluation report to the European Parliament, the Council and the European Economic and Social Committee, assessing the need to extend requirements in sections 3.1 and 3.2 of Annex II on child-resistant fastenings and tactile warnings to other hazard classes. If justified by the results of the report, the Commission shall act in accordance with Article 53(1).",
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -4268,6 +4301,7 @@
           "AR 61 PA 7",
           "AR 61 PA 8"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -4420,6 +4454,7 @@
           "AN I SCT 1 SCT 1.5 SCT 1.5.2 SCT 1.5.2.4 PTA (c)",
           "AN I SCT 1 SCT 1.6"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -4567,6 +4602,7 @@
           "AN II SCT 3 SCT 3.4",
           "AN II SCT 5"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -4674,6 +4710,159 @@
           "AN VI SCT 2",
           "AN VI SCT 3"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "Chemical name",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  null,
+                  "Labelling",
+                  null,
+                  null,
+                  "Specific Conc. Limits, M-factors and ATEs\n",
+                  "Notes"
+                ],
+                [
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Hazard Class and\nCategory Code(s)",
+                  "Hazard statement Code(s)",
+                  "Pictogram, Signal Word Code(s)",
+                  "Hazard statement Code(s)",
+                  "Suppl. Hazard statement Code(s)",
+                  null,
+                  null
+                ]
+              ]
+            },
+            {
+              "unit": "AN VI",
+              "container": "AN VI SCT 3",
+              "table": 2,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Index No",
+                  "International Chemical Identification",
+                  "EC No",
+                  "CAS No",
+                  "Classification",
+                  "Labelling",
+                  "Concentration Limits",
+                  "Notes"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI SCT 3",
+              "table": 2,
+              "key": "649-207-00-3",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 2,
+                "key": "649-207-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-207-00-3",
+                    "Gases (petroleum), C2-3-;\nPetroleum gas;\n[A complex combination of hydrocarbons produced by the distillation of products from a catalytic fractionation process. It contains predominantly ethane, ethylene, propane, and propylene.]",
+                    "270-751-9",
+                    "68477-70-3",
+                    "F+; R12\nCarc. Cat. 1; R45\nMuta. Cat. 2; R46",
+                    "F+; T\nR: 45-46-12\nS: 53-45",
+                    "",
+                    "H K"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68477-70-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "270-751-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-207-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Gases (petroleum), C2-3-;"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI SCT 3",
+                "table": 2,
+                "key": "649-207-00-3",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "649-207-00-3",
+                    "Gases (petroleum), C2-3-;\nPetroleum gas;\n[A complex combination of hydrocarbons produced by the distillation of products from a catalytic fractionation process. It contains predominantly ethane, ethylene, propane, and propylene.]",
+                    "270-751-9",
+                    "68477-70-3",
+                    "F+; R12\nCarc. Cat. 1; R45\nMuta. Cat. 2; R46",
+                    "F+; T\nR: 45-46-12\nS: 53-45",
+                    "",
+                    "H"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68477-70-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "270-751-9"
+                  },
+                  {
+                    "scheme": "index",
+                    "value": "649-207-00-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Gases (petroleum), C2-3-;"
+              }
+            }
+          ],
+          "unchanged": 8587,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -4829,6 +5018,7 @@
           "AN VIII SCT 4.1",
           "AN VIII SCT 1.4"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -7074,6 +7264,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 40,
       "repaired": 2,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,

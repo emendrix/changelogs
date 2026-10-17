@@ -235,10 +235,10 @@
       "in_force": [
         "2024-12-10"
       ],
-      "updated_on": "2026-10-08",
-      "schema_version": "1.2",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32008R1272/changes/02008R1272-20241210.json",
-      "sha256": "d636bdd323176f39d979e7a9189a18b5841ecbcb75772070f3e618b7f9eb6638",
+      "sha256": "d21bf5c15c50792a2be2c8b4a17cf2309228b66ea6bceea3520e97b7005b5430",
       "diff_only": false,
       "counts": {
         "touched": 38,
@@ -257,6 +257,10 @@
         {
           "kind": "signals",
           "repaired_on": "2026-10-08"
+        },
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
         }
       ],
       "evidence": false,

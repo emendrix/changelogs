@@ -2888,6 +2888,8 @@ Part 5 has been changed from a bare list heading naming only ready mixed cement 
 
 **DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
 
+Table entries: 0 added, 1 amended, 0 removed: Index No 649-207-00-3
+
 Section 2 now adds a new dossier component requiring a scientific justification where a harmonised classification and labelling proposal is made for a group of substances, alongside the existing proposal and justification elements. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VI)
 
 The justification-for-other-effects paragraph in section 2 now lists additional excluded hazard categories, naming endocrine disruption for human health and the environment, persistent, bioaccumulative and toxic, very persistent and very bioaccumulative, persistent, mobile and toxic, and very persistent and very mobile, alongside the previously named carcinogenicity, mutagenicity, reprotoxicity and respiratory sensitisation. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20231201#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20241210#anx_VI)
