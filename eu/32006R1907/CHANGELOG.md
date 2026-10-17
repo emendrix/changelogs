@@ -2514,7 +2514,7 @@ Because the supplied texts were truncated before the body of the restriction ent
 
 *within* `AR 6 PA 1 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only change in Article 6(1) is a spacing adjustment, with the phrase "mixture(s)" rewritten as "mixture (s)". [Art. 6, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#art_6) [Art. 6, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#art_6)
 
@@ -2544,7 +2544,7 @@ The only change in Article 6(1) is a spacing adjustment, with the phrase "mixtur
 
 *within* `AR 14 PA 2 ALN 1`, `AR 14 PA 2 ALN 1 PTA (a)`, `AR 14 PA 2 ALN 1 PTA (b)`, `AR 14 PA 2 ALN 1 PTA (ba)`, `AR 14 PA 2 ALN 1 PTA (c)`, `AR 14 PA 2 ALN 1 PTA (d)`, `AR 14 PA 2 ALN 1 PTA (e)`, `AR 14 PA 2 ALN 1 PTA (ea)`, `AR 14 PA 2 ALN 1 PTA (f)` · *dates* -2008-12-16
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 Article 14(2) previously listed seven separate concentration thresholds, points (a) through (f), drawn from Directive 1999/45/EC, Regulation (EC) No 1272/2008 and the classification and labelling inventory, whichever was lowest. [Art. 14, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#art_14)
 
@@ -2582,7 +2582,7 @@ That list has been replaced with only two points: a single cut-off value referen
 
 *within* `AN I SCT 7 SCT 10`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 The only visible difference between the two versions is a formatting correction in section 7's format table, where the entry reading "emissionelease sources" is rendered as "emission/release sources." [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20160714#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20161011#anx_I)
 
@@ -2646,7 +2646,9 @@ The after text also adds a statement that in vivo skin sensitisation studies car
 
 *within* `AN XVII APP 4`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
+
+Table entries: 0 added, 1 amended (1 only in spacing, dash forms or accents), 0 removed: Index No 649-093-00-5
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
