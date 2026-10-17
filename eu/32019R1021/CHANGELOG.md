@@ -466,6 +466,8 @@ A new substance entry for Methoxychlor, including its definition and a specific 
 
 *within* `AN I` · *dates* +2026-08-28 · *amended by* `32023R1608`
 
+Table entries: 1 added, 0 amended, 0 removed: "Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds"
+
 The after text adds a new Part A entry for Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds, following the Dicofol entry, which was not present in the before text. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230828#anx_I)
 
 This new entry defines PFHxS and its related compounds, lists CAS and EC numbers, and sets out three specific exemptions concerning concentration thresholds in substances, mixtures or articles and in concentrated firefighting foam mixtures, with the third exemption noting review and assessment by the Commission no later than 28 August 2026. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20230828#anx_I)
