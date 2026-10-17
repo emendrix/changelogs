@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,822 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN II",
+              "table": 1,
+              "key": "1397",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1397",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1397",
+                    "Sodium perborate [1]\nSodium peroxometaborate; sodium peroxoborate [2]",
+                    "15120-21-5 [1]",
+                    "239-172-9 [1]"
+                  ],
+                  [
+                    null,
+                    null,
+                    "7632-04-4 [2]\n10332-33-9 [2]\n10486-00-7[2]",
+                    "231-556-4 [2]"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10332-33-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "10486-00-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "15120-21-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7632-04-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-556-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-172-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium perborate [1]"
+              },
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1397",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1397",
+                    "Perboric acid (H3BO2(O2)), monosodium salt trihydrate [1]",
+                    "13517-20-9 [1]",
+                    "239-172-9 [1]"
+                  ],
+                  [
+                    null,
+                    "Perboric acid, sodium salt, tetrahydrate [2]",
+                    "37244-98-7 [2]",
+                    "234-390-0 [2]"
+                  ],
+                  [
+                    null,
+                    "Perboric acid (HBO(O2)), sodium salt, tetrahydrate [3]",
+                    "10486-00-7 [3]",
+                    "— [3]"
+                  ],
+                  [
+                    null,
+                    "Sodium peroxoborate, hexahydrate [4]",
+                    "— [4]",
+                    "— [4]"
+                  ],
+                  [
+                    null,
+                    "Sodium perborate [5]",
+                    "15120-21-5 [5]",
+                    "239-172-9 [5]"
+                  ],
+                  [
+                    null,
+                    "Sodium peroxometaborate; sodium peroxoborate [6]",
+                    "7632-04-4/10332-33-9/10486-00-7 [6]",
+                    "231-556-4 [6]"
+                  ],
+                  [
+                    null,
+                    "Perboric acid, sodium salt [7]",
+                    "11138-47-9 [7]",
+                    "234-390-0 [7]"
+                  ],
+                  [
+                    null,
+                    "Perboric acid, sodium salt, monohydrate [8]",
+                    "12040-72-1 [8]",
+                    "234-390-0 [8]"
+                  ],
+                  [
+                    null,
+                    "Perboric acid (HBO(O2)), sodium salt, monohydrate [9]",
+                    "10332-33-9 [9]",
+                    "— [9]"
+                  ],
+                  [
+                    null,
+                    "Trimethyl borate",
+                    "121-43-7 [10]",
+                    "204-468-9 [10]"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "10332-33-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "10486-00-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "11138-47-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "12040-72-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "121-43-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13517-20-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "15120-21-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "37244-98-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "7632-04-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-468-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-556-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "234-390-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "239-172-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perboric acid (H3BO2(O2)), monosodium salt trihydrate [1]"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN II",
+              "table": 1,
+              "key": "1727",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1727",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1727",
+                    "Colloidal silver (nano) [INCI]\n",
+                    "7440-22-4",
+                    "231-131-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-22-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-131-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Colloidal silver (nano) [INCI]"
+              },
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1727",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1727",
+                    "Silver (nano) [1 nm < particle diameter ≤ 100 nm]\nSilver (massive) [particle diameter ≥ 1 mm]",
+                    "7440-22-4",
+                    "231-131-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-22-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-131-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Silver (nano) [1 nm < particle diameter ≤ 100 nm]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1752",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1752",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1752",
+                    "Multi-walled Carbon Tubes (synthetic graphite in tubular shape) with a geometric tube diameter range ≥ 30 nm to < 3 μm and a length ≥ 5 μm and aspect ratio > 3:1, including Multi-Walled Carbon Nanotubes, MWC(N)T",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Multi-walled Carbon Tubes (synthetic graphite in tubular shape) with a geometric tube diameter range ≥ 30 nm to < 3 μm and a length ≥ 5 μm and aspect ratio > 3:1, including Multi-Walled Carbon Nanotubes, MWC(N)T"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1753",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1753",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1753",
+                    "reaction mass of 1,3-dioxan-5-ol and 1,3-dioxolan-4-ylmethanol",
+                    "—",
+                    "—"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "reaction mass of 1,3-dioxan-5-ol and 1,3-dioxolan-4-ylmethanol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1754",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1754",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1754",
+                    "Acetone oxime",
+                    "127-06-0",
+                    "204-820-1"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127-06-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-820-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Acetone oxime"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1755",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1755",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1755",
+                    "2-(dimethylamino)-2-[(4-methylphenyl)methyl]-1-[4-(morpholin-4-yl)phenyl]butan-1-one",
+                    "119344-86-4",
+                    "438-340-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "119344-86-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "438-340-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(dimethylamino)-2-[(4-methylphenyl)methyl]-1-[4-(morpholin-4-yl)phenyl]butan-1-one"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1756",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1756",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1756",
+                    "2,3-epoxypropyl neodecanoate",
+                    "26761-45-5",
+                    "247-979-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "26761-45-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-979-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2,3-epoxypropyl neodecanoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1757",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1757",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1757",
+                    "Benthiavalicarb-isopropyl (ISO); isopropyl [(S)-1-{[(R)-1-(6-fluoro-1,3-benzothiazol-2-yl)ethyl]carbamoyl}-2-methylpropyl]carbamate",
+                    "177406-68-7",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "177406-68-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benthiavalicarb-isopropyl (ISO); isopropyl [(S)-1-{[(R)-1-(6-fluoro-1,3-benzothiazol-2-yl)ethyl]carbamoyl}-2-methylpropyl]carbamate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1758",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1758",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1758",
+                    "7-oxabicyclo[4.1.0]hept-3-ylmethyl 7-oxabicyclo[4.1.0]heptane-3-carboxylate",
+                    "2386-87-0",
+                    "219-207-4"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2386-87-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "219-207-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "7-oxabicyclo[4.1.0]hept-3-ylmethyl 7-oxabicyclo[4.1.0]heptane-3-carboxylate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1759",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1759",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1759",
+                    "Sodium 3-(allyloxy)-2-hydroxypropanesulphonate",
+                    "52556-42-0",
+                    "258-004-5"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "52556-42-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "258-004-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium 3-(allyloxy)-2-hydroxypropanesulphonate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1760",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1760",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1760",
+                    "1,4-dichloro-2-nitrobenzene",
+                    "89-61-2",
+                    "201-923-3"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "89-61-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-923-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,4-dichloro-2-nitrobenzene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1761",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1761",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1761",
+                    "Fenpropidin (ISO); (R,S)-1-[3-(4-tert-butylphenyl)-2-methylpropyl]piperidine",
+                    "67306-00-7",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67306-00-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenpropidin (ISO); (R,S)-1-[3-(4-tert-butylphenyl)-2-methylpropyl]piperidine"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1762",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1762",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1762",
+                    "N,N’-methylenediacrylamide",
+                    "110-26-9",
+                    "203-750-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "110-26-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-750-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "N,N’-methylenediacrylamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1763",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1763",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1763",
+                    "tert-butyl 2-ethylperoxyhexanoate",
+                    "3006-82-4",
+                    "221-110-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "3006-82-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "221-110-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "tert-butyl 2-ethylperoxyhexanoate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1764",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1764",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1764",
+                    "Trimethyl borate",
+                    "121-43-7",
+                    "204-468-9"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "121-43-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-468-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Trimethyl borate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1765",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1765",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1765",
+                    "S-metolachlor (ISO); 2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide; (RaSa)-2-chloro-N-(6-ethyl-o-tolyl)-N-[(1S)-2-methoxy-1-methylethyl]acetamide [contains 80-100 % 2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide and 0-20 % 2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2R)-1-methoxypropan-2-yl]acetamide]",
+                    "87392-12-9",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "87392-12-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "S-metolachlor (ISO); 2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide; (RaSa)-2-chloro-N-(6-ethyl-o-tolyl)-N-[(1S)-2-methoxy-1-methylethyl]acetamide [contains 80-100 % 2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2S)-1-methoxypropan-2-yl]acetamide and 0-20 % 2-chloro-N-(2-ethyl-6-methylphenyl)-N-[(2R)-1-methoxypropan-2-yl]acetamide]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1766",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1766",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1766",
+                    "Pyraclostrobin (ISO); methyl N-(2-{[1-(4-chlorophenyl)-1H-pyrazol-3-yl]oxymethyl}phenyl) N-methoxy carbamate",
+                    "175013-18-0",
+                    "—"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "175013-18-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pyraclostrobin (ISO); methyl N-(2-{[1-(4-chlorophenyl)-1H-pyrazol-3-yl]oxymethyl}phenyl) N-methoxy carbamate"
+              }
+            }
+          ],
+          "unchanged": 1748,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -114,6 +930,649 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "157",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "157",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "157",
+                    "1-(2,6,6-trimethyl-2-cyclohexen-1-yl)-2-buten-1-one\n",
+                    "Alpha-Damascone;\ncis-Rose ketone 1",
+                    "43052-87-5/\n23726-94-5",
+                    "-/\n245-845-8",
+                    "(a) Oral products\n(b) Other products",
+                    "(b) 0,02 %",
+                    "(a) (b)\nThe presence of the substance or substances shall be indicated as Rose Ketones in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "trans-Rose ketone 1",
+                    "24720-09-0",
+                    "246-430-4",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "1-(2,6,6-Trimethylcyclohexa-1,3-dien-1-yl)-2-buten-1-one\n",
+                    "Rose ketone 4 (Damascone)",
+                    "23696-85-7",
+                    "245-833-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "1-(2,6,6-Trimethyl-3-cyclohexen-1-yl)-2-buten-1-one\n",
+                    "Rose ketone 3 (delta-Damascone)",
+                    "57378-68-4",
+                    "260-709-8",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "trans-Rose ketone 3",
+                    "71048-82-3",
+                    "275-156-8",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(Z)-1-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2-buten-1-one\n",
+                    "cis-Rose ketone 2\n(cis-beta-Damascone)",
+                    "23726-92-3",
+                    "245-843-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(E)-1-(2,6,6-Trimethyl-1-cyclohexen-1-yl)-2-buten-1-one\n",
+                    "trans-Rose ketone 2\n(trans-beta-Damascone)",
+                    "23726-91-2",
+                    "245-842-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "23696-85-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-91-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-92-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-94-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "24720-09-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "43052-87-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "57378-68-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "71048-82-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-833-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-842-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-843-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-845-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-430-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-709-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "275-156-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(2,6,6-trimethyl-2-cyclohexen-1-yl)-2-buten-1-one"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "157",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "157",
+                    "1-(2,6,6-trimethyl-2- cyclohexen-1-yl)-2-buten-1-one\n",
+                    "Alpha-Damascone;",
+                    "43052-87-5/",
+                    "-/",
+                    "(a) Oral products",
+                    "(b) 0,02 %",
+                    "(a) (b)\nThe presence of the substance or substances shall be indicated as Rose Ketones in the list of ingredients referred to in Article 19(1), point (g), when the concentration of the substance or substances exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    "cis-Rose ketone 1",
+                    "23726-94-5",
+                    "245-845-8",
+                    "(b) Other products",
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "trans-Rose ketone 1",
+                    "24720-09-0",
+                    "246-430-4",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "1-(2,6,6-Trimethyl cyclohexa-1,3-dien-1-yl)-2-buten-1-one\n",
+                    "Rose ketone 4 (Damascenone)",
+                    "23696-85-7",
+                    "245-833-2",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "1-(2,6,6-Trimethyl- 3-cyclohexen-1-yl)-2-buten-1- one\n",
+                    "Rose ketone 3 (delta-Damascone)",
+                    "57378-68-4",
+                    "260-709-8",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    null,
+                    "trans-Rose ketone 3",
+                    "71048-82-3",
+                    "275-156-8",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(Z)-1-(2,6,6- trimethyl-1-cyclo hexen-1-yl)-2-buten-1-one\n",
+                    "cis-Rose ketone 2\n(cis-beta-Damascone)",
+                    "23726-92-3",
+                    "245-843-7",
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  [
+                    null,
+                    "(E)-1-(2,6,6- Trimethyl-1-cyclo hexen-1-yl)-2-buten-1-one\n",
+                    "trans-Rose ketone 2\n(trans-beta-Damascone)",
+                    "23726-91-2",
+                    "245-842-1",
+                    null,
+                    null,
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "23696-85-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-91-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-92-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "23726-94-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "24720-09-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "43052-87-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "57378-68-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "71048-82-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-833-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-842-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-843-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-845-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-430-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-709-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "275-156-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-(2,6,6-trimethyl-2- cyclohexen-1-yl)-2-buten-1-one"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "364",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "364",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "364",
+                    "Pelargonium graveolens oil\n",
+                    "Pelargonium Graveolens Flower Oil",
+                    "90082-51-2/\n8000-46-2",
+                    "290-140-0/ -",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8000-46-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90082-51-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-140-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pelargonium graveolens oil"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "364",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "364",
+                    "Pelargonium graveolens oil\n",
+                    "Pelargonium Graveolens Oil\nPelargonium Graveolens Flower Oil\nPelargonium Graveolens Leaf Oil",
+                    "90082-51-2/ 8000-46-2",
+                    "290-140-0/ -",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8000-46-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90082-51-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "290-140-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pelargonium graveolens oil"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "365",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "365",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "365",
+                    "Pogostemon cablin oil\n",
+                    "Pogostemon Cablin Oil",
+                    "8014-09-3/ 84238-39-1",
+                    "-/\n282-493-4",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8014-09-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84238-39-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "282-493-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pogostemon cablin oil"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "365",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "365",
+                    "Pogostemon cablin oil\n",
+                    "Pogostemon Cablin Oil\nPogostemon Cablin Leaf Oil",
+                    "8014-09-3/ 84238-39-1",
+                    "-/ 282-493-4",
+                    "",
+                    "",
+                    "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:\n0,001 % in leave-on products\n0,01 % in rinse-off products",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "8014-09-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "84238-39-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "282-493-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pogostemon cablin oil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "379",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "379",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "379",
+                    "Silver (powder) [100 nm < particle diameter < 1 mm]",
+                    "Silver",
+                    "7440-22-4",
+                    "231-131-3",
+                    "(a) Toothpaste\n(b) Mouthwash",
+                    "For (a) and (b): 0,05 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-22-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-131-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Silver (powder) [100 nm < particle diameter < 1 mm]"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "380",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "380",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "380",
+                    "Hexyl 2-hydroxybenzoate",
+                    "Hexyl Salicylate",
+                    "6259-76-3",
+                    "228-408-6",
+                    "(a) Hydroalcoholic-based fragrances (except hydroalcoholic-based fragrances intended for children below 3 years of age)\n(b) All rinse-off products (except shower gel/bath products, hand wash, hair conditioner and shampoo intended for children below 3 years of age)\n(c) All leave-on products (except hair conditioner, body lotion, face cream, hand cream, lipstick/lip balm and fragrance products intended for children below 3 years of age)\n(d) Toothpaste\n(e) Mouthwash\n(f) Shower gel/bath products, hand wash, shampoo, hair conditioner, body, face and hand (skin) care products, lipstick/lip balm and fragrance products intended for children below 3 years of age",
+                    "(a) 2 %\n(b) 0,5 %\n(c) 0,3 %\n(d) 0,001 %\n(e) 0,001 %\n(f) 0,1 %",
+                    "Not to be used in preparations for children under 3 years of age, with the exception of (d) Toothpaste and (f).",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6259-76-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "228-408-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Hexyl 2-hydroxybenzoate"
+              }
+            }
+          ],
+          "unchanged": 387,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -176,6 +1635,143 @@
         "changed_within": [
           "AN IV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN IV",
+              "container": "AN IV",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical Name",
+                  "Colour index Number/Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Colour",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i",
+                  "j"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "142",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "142",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "142",
+                    "Silver",
+                    "77820",
+                    "",
+                    "231-131-3",
+                    "White",
+                    "",
+                    "",
+                    "Purity criteria as set out in Commission Directive 95/45/EC (E 174)",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "231-131-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Silver"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "142",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "142",
+                    "Silver (powder) [100 nm < particle diameter < 1 mm]",
+                    "77820",
+                    "7440-22-4",
+                    "231-131-3",
+                    "White",
+                    "(a) Lip products\n(b) Eye shadow",
+                    "For (a) and (b): 0,2 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-22-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-131-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Silver (powder) [100 nm < particle diameter < 1 mm]"
+              }
+            }
+          ],
+          "unchanged": 153,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -271,6 +1867,161 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "7",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "7",
+                    "Biphenyl-2-ol\n",
+                    "o-Phenylphenol",
+                    "90-43-7",
+                    "201-993-5",
+                    "(a) Rinse-off Products",
+                    "(a) 0,2 % (as phenol)",
+                    "",
+                    "Avoid contact with eyes"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    "(b) Leave-on products",
+                    "(b) 0,15 % (as phenol)",
+                    null,
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "90-43-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-993-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Biphenyl-2-ol"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "7",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "7",
+                    "Biphenyl-2-ol; 2-phenylphenol; 2-hydroxybiphenyl\nSodium 2-biphenylate",
+                    "o-Phenylphenol\nSodium o-Phenylphenate",
+                    "90-43-7\n132-27-4",
+                    "201-993-5\n205-055-6",
+                    "(a) Rinse-off products\n(b) Leave-on products",
+                    "(a) 0,2 % (as phenol\n(b) 0,15 % (as phenol)",
+                    "When o-Phenylphenol and Sodium o-Phenylphenate are used together, the combined concentration (as phenol) shall not exceed 0,2 % in rinse-off and 0,15 % in leave-on products.\nNot to be used in applications that may lead to exposure of the end-user’s lungs by inhalation. Not to be used in oral products.",
+                    "Avoid contact with eyes"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "132-27-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "90-43-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-993-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-055-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Biphenyl-2-ol; 2-phenylphenol; 2-hydroxybiphenyl"
+              }
+            }
+          ],
+          "unchanged": 61,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -608,6 +2359,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 4,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 4,
       "repaired": 4,
       "remaining": 0,
