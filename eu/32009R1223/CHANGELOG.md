@@ -4726,7 +4726,7 @@ The text as provided is truncated, so further differences beyond entry 73 in thi
 
 *within* `AR 13 PA 3 ALN 1 PTA (d)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata
+**DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
 
 In point (d) of Article 13(3)(1), the double period that ended the sentence in the earlier text has been reduced to a single period in the later text. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#art_13)
 
@@ -4783,6 +4783,8 @@ Aside from this punctuation correction and the addition of line breaks after eac
 **MODIFIED · Annex II — LIST OF SUBSTANCES PROHIBITED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN II` · *amended by* `32013R0344`
+
+Table entries: 44 added, 6 amended (1 only in spacing, dash forms or accents), 0 removed: Reference number 167, Reference number 450, Reference number 756, Reference number 758, Reference number 1136, Reference number 1151, Reference number 1329, Reference number 1330, Reference number 1331, Reference number 1332 and 40 more
 
 Entry 167 was changed from a general reference to esters of 4-aminobenzoic acid with the free amino group, excluding an item in Annex VI, to a specific listing naming 4-Aminobenzoic acid and its esters with the free amino group, together with a CAS number and EC number. [Annex II, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_II) [Annex II, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_II)
 
@@ -4920,6 +4922,8 @@ The remainder of the visible list is otherwise unchanged in substance, and the t
 
 *within* `AN III` · *dates* -2009-12-31 · *amended by* `32013R1197`, `32013R0344`
 
+Table entries: 103 added, 75 amended, 0 removed: Reference number 8, Reference number 8a, Reference number 9, Reference number 9a, Reference number 10, Reference number 12, Reference number 14, Reference number 16, Reference number 22, Reference number 26 and 168 more
+
 Annex III adds new introductory footnotes, including references to an Official Journal citation, a note that a limit applies to the substance rather than the finished product, a note on combined-substance limits, a statement that free base and salts of a hair colouring ingredient are permitted unless prohibited under Annex II, and a new preservative cross-reference to Annex V No 58. [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III)
 
 Numerous individual entries are rewritten in substance, for example entry 8 on phenylenediamine derivatives and entry 9 on methylphenylenediamines are restructured with new split entries such as 8a and 9a, new labelling text about mixing ratios and allergy warnings, and revised maximum concentration wording, while entry 10 is emptied of its prior content and entries such as 12, 14, 26 through 43, 45, and others have their conditions of use, wording, and identifiers altered. [Annex III, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_III) [Annex III, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_III)
@@ -4978,6 +4982,8 @@ The supplied AFTER text is truncated partway through entry 73, so further differ
 **MODIFIED · Annex V — LIST OF PRESERVATIVES ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN V` · *amended by* `32013R0344`
+
+Table entries: 1 added, 1 amended, 0 removed: Reference number 34, Reference number 58
 
 The preamble notes referencing Annex III entries were updated, with the note about entry No. 45, 68 replaced by a note referencing only entry No 45, and a new footnote referencing Annex III entry No 197 was added. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_V)
 
@@ -5044,6 +5050,8 @@ The remainder of the substance list, entries 1 through 57, is unchanged in subst
 **MODIFIED · Annex VI — LIST OF UV FILTERS ALLOWED IN COSMETIC PRODUCTS** · applies from: unchanged
 
 *within* `AN VI` · *amended by* `32013R0344`
+
+Table entries: 0 added, 2 amended, 0 removed: Reference number 1, Reference number 28
 
 The table retains the same entries and values but its formatting is changed from a run-together row layout into a line-by-line layout, and entry 1 (4-Aminobenzoic acid/PABA) no longer shows any substance identification or concentration data in the row. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32009R1223#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20130711#anx_VI)
 
