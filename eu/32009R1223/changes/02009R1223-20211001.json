@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,489 @@
         "changed_within": [
           "AN II"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN II",
+              "container": "AN II",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "CAS number",
+                  "EC number"
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1645",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1645",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1645",
+                    "Cobalt",
+                    "7440-48-4",
+                    "231-158-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "7440-48-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "231-158-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cobalt"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1646",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1646",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1646",
+                    "Metaldehyde (ISO); 2,4,6,8-tetramethyl- 1,3,5,7-tetraoxacyclooctane",
+                    "108-62-3",
+                    "203-600-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "108-62-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-600-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Metaldehyde (ISO); 2,4,6,8-tetramethyl- 1,3,5,7-tetraoxacyclooctane"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1647",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1647",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1647",
+                    "Methylmercuric chloride",
+                    "115-09-3",
+                    "204-064-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "115-09-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-064-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Methylmercuric chloride"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1648",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1648",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1648",
+                    "Benzo[rst]pentaphene",
+                    "189-55-9",
+                    "205-877-5"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "189-55-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-877-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Benzo[rst]pentaphene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1649",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1649",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1649",
+                    "Dibenzo[b,def]chrysene; dibenzo[a,h]pyrene",
+                    "189-64-0",
+                    "205-878-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "189-64-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-878-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibenzo[b,def]chrysene; dibenzo[a,h]pyrene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1650",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1650",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1650",
+                    "Ethanol, 2,2'-iminobis-, N- (C13-15-branched and linear alkyl) derivs.",
+                    "97925-95-6",
+                    "308-208-6"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97925-95-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "308-208-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethanol, 2,2'-iminobis-, N- (C13-15-branched and linear alkyl) derivs."
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1651",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1651",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1651",
+                    "Cyflumetofen (ISO); 2-methoxyethyl (RS)-2- (4-tert-butylphenyl)-2-cyano-3-oxo-3-(α,α,α-trifluoro-o-tolyl)propionate",
+                    "400882-07-7",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "400882-07-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cyflumetofen (ISO); 2-methoxyethyl (RS)-2- (4-tert-butylphenyl)-2-cyano-3-oxo-3-(α,α,α-trifluoro-o-tolyl)propionate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1652",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1652",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1652",
+                    "Diisohexyl phthalate",
+                    "71850-09-4",
+                    "276-090-2"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71850-09-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-090-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisohexyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1653",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1653",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1653",
+                    "halosulfuron-methyl (ISO); methyl 3-chloro-5-{[(4,6- dimethoxypyrimidin-2-yl) carbamoyl]sulfamoyl}-1- methyl-1H-pyrazole-4- carboxylate",
+                    "100784-20-1",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "100784-20-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "halosulfuron-methyl (ISO); methyl 3-chloro-5-{[(4,6- dimethoxypyrimidin-2-yl) carbamoyl]sulfamoyl}-1- methyl-1H-pyrazole-4- carboxylate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1654",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1654",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1654",
+                    "2-methylimidazole",
+                    "693-98-1",
+                    "211-765-7"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "693-98-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-765-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-methylimidazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1655",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1655",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1655",
+                    "Metaflumizone (ISO);\n(EZ)-2'-[2-(4-cyanophenyl)-1-(α,α,α -trifluoro-m- tolyl)ethylidene]-[4-(trifluoromethoxy)phenyl] carbanilohydrazide [E-isomer ≥ 90 %, Z-isomer ≤ 10 % relative content]; [1]\n(E)-2'-[2-(4-cyanophenyl)- 1-(α,α,α -trifluoro-m-tolyl) ethylidene]-[4-(trifluoromethoxy)phenyl]carbanilohydrazide [2]",
+                    "139968-49-3 [1]\n852403-68-0 [2]",
+                    "-"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "139968-49-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "852403-68-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Metaflumizone (ISO);"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN II",
+              "table": 1,
+              "key": "1656",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN II",
+                "container": "AN II",
+                "table": 1,
+                "key": "1656",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1656",
+                    "Dibutylbis(pentane-2,4- dionato-O,O')tin",
+                    "22673-19-4",
+                    "245-152-0"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "22673-19-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "245-152-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dibutylbis(pentane-2,4- dionato-O,O')tin"
+              }
+            }
+          ],
+          "unchanged": 1644,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 3,
+            "failed_check_digits": 4,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -88,7 +571,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "kind_mismatch"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -115,6 +599,212 @@
         "changed_within": [
           "AN III"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN III",
+              "container": "AN III",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Restrictions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN III",
+              "table": 1,
+              "key": "321",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "321",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "321",
+                    "1,3-Dihydroxy-2-propanone",
+                    "Dihydroxyacetone",
+                    "96-26-4",
+                    "202-494-5",
+                    "(a) Hair dye substance in non-oxidative hair dye products\n(b) Self-tanning products\n",
+                    "(a) 6,25 %\n(b) 10 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "96-26-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-494-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,3-Dihydroxy-2-propanone"
+              },
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "321",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "321",
+                    "Titanium dioxide in powder form containing 1 % or more of particles with aerodynamic diameter ≤ 10 μm",
+                    "Titanium Dioxide",
+                    "13463-67-7/1317-70-0/1317-80-2",
+                    "236-675-5/215-280-1/215-282-2",
+                    "(a) face products in loose powder form\n(b) hair aerosol spray products\n(c) other products",
+                    "(a) 25 %;\n(b) 1,4 % for general consumers, and 1.1 % for professional use.",
+                    "(a) (b)\nOnly in the pigmentary form\n(c)\nNot to be used in\napplications that may lead to exposure of the end-user’s lungs by inhalation",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-70-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1317-80-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13463-67-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-280-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-282-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide in powder form containing 1 % or more of particles with aerodynamic diameter ≤ 10 μm"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN III",
+              "table": 1,
+              "key": "322",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN III",
+                "container": "AN III",
+                "table": 1,
+                "key": "322",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "322",
+                    "1,3-Dihydroxy-2-propanone",
+                    "Dihydroxyacetone",
+                    "96-26-4",
+                    "202-494-5",
+                    "(a) Hair dye substance in non-oxidative hair dye products\n(b) Self-tanning products\n",
+                    "(a) 6,25 %\n(b) 10 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "96-26-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-494-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,3-Dihydroxy-2-propanone"
+              }
+            }
+          ],
+          "unchanged": 332,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 4,
+            "failed_check_digits": 1,
+            "repeated_keys": [
+              {
+                "container": "AN III",
+                "table": 1,
+                "key": "51"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -149,7 +839,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -176,6 +867,139 @@
         "changed_within": [
           "AN IV"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN IV",
+              "container": "AN IV",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical Name",
+                  "Colour index Number/Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Colour",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i",
+                  "j"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN IV",
+              "table": 1,
+              "key": "143",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "143",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "143",
+                    "Titanium dioxide\n",
+                    "77891",
+                    "",
+                    "236-675-5",
+                    "White",
+                    "",
+                    "",
+                    "Purity criteria as set out in Commission Directive 95/45/EC (E 171)",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              },
+              "after": {
+                "unit": "AN IV",
+                "container": "AN IV",
+                "table": 1,
+                "key": "143",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "143",
+                    "Titanium dioxide\n",
+                    "77891",
+                    "",
+                    "236-675-5",
+                    "White",
+                    "",
+                    "",
+                    "Purity criteria as set out in Commission Directive 95/45/E (E 171)\nTitanium dioxide in powder form containing 1 % or more of particles with aerodynamic diameter ≤ 10 μm, to be used in compliance with Annex III, No 321",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              }
+            }
+          ],
+          "unchanged": 153,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -210,7 +1034,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -289,6 +1114,174 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "27",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "27",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27",
+                    "Titanium dioxide\n",
+                    "Titanium Dioxide",
+                    "13463-67-7/\n1317-70-0/\n1317-80-2",
+                    "236-675-5/\n215-280-1/\n215-282-2",
+                    "",
+                    "25 %\n",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-70-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1317-80-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13463-67-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-280-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-282-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "27",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "27",
+                    "Titanium dioxide\n",
+                    "Titanium Dioxide",
+                    "13463-67-7/1317-70-0/1317-80-2",
+                    "236-675-5/215-280-1/215-282-2",
+                    "",
+                    "25 %\n",
+                    "Titanium dioxide in powder form containing 1 % or more of particles with aerodynamic diameter ≤ 10 μm, to be used in compliance with Annex III, No 321. For the product types under letter (c) of column (f) in Annex III, No 321, the maximum concentration in ready for use preparation provided in column (g) of this entry applies.",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1317-70-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1317-80-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "13463-67-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-280-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "215-282-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "236-675-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Titanium dioxide"
+              }
+            }
+          ],
+          "unchanged": 34,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -323,7 +1316,8 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "instruction_silent"
       },
       "outcome": "passed",
       "sentences": [
@@ -613,7 +1607,8 @@
         ]
       }
     ],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -689,6 +1684,20 @@
         "schema_repairs": 0
       },
       "coordinates_checked": true
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 4,
+      "repaired": 4,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
     }
   ],
   "evidence": [

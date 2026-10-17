@@ -1292,7 +1292,9 @@ In the earlier version, entry 51 contained no such condition in the 'Other' colu
 
 *within* `AN II` · *amended by* `32021R0850`
 
-**DISPUTED** — the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says MODIFIED, the instruction parse says DELETED
+**DISPUTED** — the kinds named share nothing: the signals disagree on the kind of change — the structural diff says MODIFIED, corpus metadata says MODIFIED, the instruction parse says DELETED
+
+Table entries: 12 added, 0 amended, 0 removed: Reference number 1645, Reference number 1646, Reference number 1647, Reference number 1648, Reference number 1649, Reference number 1650, Reference number 1651, Reference number 1652, Reference number 1653, Reference number 1654 and 2 more
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -1316,7 +1318,9 @@ In the earlier version, entry 51 contained no such condition in the 'Other' colu
 
 *within* `AN III` · *amended by* `32021R0850`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
+
+Table entries: 1 added, 1 amended, 0 removed: Reference number 321, Reference number 322
 
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
@@ -1336,7 +1340,9 @@ In the earlier version, entry 51 contained no such condition in the 'Other' colu
 
 *within* `AN IV` · *amended by* `32021R0850`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 143
 
 The entry for Titanium dioxide (reference number 143) adds a new line stating that titanium dioxide in powder form containing 1% or more of particles with aerodynamic diameter of 10 micrometres or less is to be used in compliance with Annex III, No 321. [Annex IV, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_IV)
 
@@ -1372,7 +1378,9 @@ The introductory UV-filter cross-reference wording is also tightened, changing "
 
 *within* `AN VI` · *amended by* `32021R0850`
 
-**DISPUTED** — seen by the structural diff, corpus metadata, not by the instruction parse
+**DISPUTED** — the instruction parse is silent: seen by the structural diff, corpus metadata, not by the instruction parse
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 27
 
 In the entry for Titanium Dioxide (entry 27), the after text adds a new column (i) note stating that titanium dioxide in powder form containing 1% or more of particles with aerodynamic diameter of 10 micrometres or less is to be used in compliance with Annex III, No 321, and that for the product types under letter (c) of column (f) in Annex III, No 321, the maximum concentration in ready for use preparation given in column (g) of this entry applies. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20211001#anx_VI)
 
