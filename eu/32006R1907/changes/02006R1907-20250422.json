@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,351 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "50a",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "50a",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "50a. Polycyclic aromatic hydrocarbons (PAHs)\n(a) Acenaphthene, CAS No 83-32-9, EC No 201-469-6\n(b) Acenaphthylene, CAS No 208-96-8, EC No 205-917-1\n(c) Anthracene, CAS No 120-12-7, EC No 204-371-1\n(d) Benzo[a]anthracene, CAS No 56-55-3, EC No 200-280-6\n(e) Benzo[a]pyrene, CAS No 50-32-8, EC No 200-028-5 (Benzo[def]chrysene)\n(f) Benzo[b]fluoranthene, CAS No 205-99-2, EC No 205-911-9 (Benzo[e]acephenanthrylene)\n(g) Benzo[e]pyrene, CAS No 192-97-2 EC, No 205-892-7\n(h) Benzo[ghi]perylene, CAS No 191-24-2, EC No 205-883-8\n(i) Benzo[j]fluoranthene, CAS No 205-82-3, EC No 205-910-3\n(j) Benzo[k]fluoranthene, CAS No 207-08-9, EC No 205-916-6\n(k) Chrysene, CAS No 218-01-9, EC No 205-923-4\n(l) Dibenzo[a,h]anthracene, CAS No 53-70-3, EC No 200-181-8\n(m) Fluoranthene, CAS No 206-44-0, EC No 205-912-4\n(n) Fluorene, CAS No 86-73-7, EC No 201-695-5\n(o) Indeno[1,2,3cd]pyrene, CAS No 193-39-5, EC No 205-893-2\n(p) Naphthalene, CAS No 91-20-3, EC No 202-049-5\n(q) Phenanthrene, CAS No 85-01-8, EC No 201-581-5\n(r) Pyrene, CAS No 129-00-0, EC No 204-927-3",
+                    "Shall not be placed on the market or used, on their own or as constituents of other substances, in clay targets for shooting from 22 April 2026 if they contain more than 50 mg/kg (0,005 % by weight of dry mass of the clay target) of the sum of all listed PAHs."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-12-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "129-00-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "191-24-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "192-97-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "193-39-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-82-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "205-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "206-44-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "207-08-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "208-96-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "218-01-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "50-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "53-70-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56-55-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "83-32-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "85-01-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "86-73-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "91-20-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-028-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-181-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "200-280-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-469-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-581-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "201-695-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "202-049-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-371-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-927-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-883-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-892-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-893-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-910-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-911-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-912-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-916-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-917-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-923-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Polycyclic aromatic hydrocarbons (PAHs)"
+              }
+            }
+          ],
+          "unchanged": 1957,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -213,6 +558,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
