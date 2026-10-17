@@ -950,6 +950,8 @@ Two new entries, 33 and 34, were added for Bis-(Diethylaminohydroxybenzoyl Benzo
 
 *within* `AN V` · *amended by* `32022R1531`
 
+Table entries: 0 added, 1 amended, 0 removed: Reference number 51
+
 Also missing from the earlier list, entry 51's chemical name for the substance changed from Sodium hydroxymethylamino acetate to Sodium N-(hydroxymethyl)glycinate. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221006#anx_V)
 
 The condition of use for that entry changed from a prohibition applying when the maximum theoretical concentration of releasable formaldehyde is 0,1% w/w or greater, to a prohibition applying unless it can be shown that concentration is below 0,1% w/w. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221006#anx_V)
@@ -995,6 +997,8 @@ The condition of use for that entry changed from a prohibition applying when the
 *within* `AN VI`
 
 **DISPUTED** — corpus metadata is silent: seen by the structural diff, not by corpus metadata
+
+Table entries: 0 added, 1 amended, 0 removed: Reference number 10
 
 Comparing the two texts, the only visible difference is the removal of a stray letter "s" that appeared on its own line after entry 10 (Octocrylene) in the earlier version, which is absent in the later version. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20220731#anx_VI) [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20221006#anx_VI)
 

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -50,6 +50,7 @@
         "after": null,
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -111,6 +112,142 @@
         "changed_within": [
           "AN V"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN V",
+              "container": "AN V",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, Body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN V",
+              "table": 1,
+              "key": "51",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "51",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "51",
+                    "Sodium hydroxymethylamino acetate",
+                    "Sodium Hydroxymethylglycinate",
+                    "70161-44-3",
+                    "274-357-8",
+                    "",
+                    "0,5 %",
+                    "Not to be used if the maximum theoretical concentration of releasable formaldehyde, irrespective of the source, if the mixture as placed on the market is ≥ 0,1 % w/w",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "70161-44-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-357-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium hydroxymethylamino acetate"
+              },
+              "after": {
+                "unit": "AN V",
+                "container": "AN V",
+                "table": 1,
+                "key": "51",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "51",
+                    "Sodium N-(hydroxymethyl)glycinate",
+                    "Sodium Hydroxymethylglycinate",
+                    "70161-44-3",
+                    "274-357-8",
+                    "",
+                    "0,5 %",
+                    "Not to be used unless it can be shown that the maximum theoretical concentration of releasable formaldehyde, irrespective of the source, in the mixture as placed on the market is < 0,1 % w/w",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "70161-44-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-357-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Sodium N-(hydroxymethyl)glycinate"
+              }
+            }
+          ],
+          "unchanged": 61,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -238,6 +375,142 @@
         "changed_within": [
           "AN VI"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN VI",
+              "container": "AN VI",
+              "table": 1,
+              "key_label": "Reference number",
+              "header": [
+                [
+                  "Reference number",
+                  "Substance identification",
+                  null,
+                  null,
+                  null,
+                  "Conditions",
+                  null,
+                  null,
+                  "Wording of conditions of use and warnings"
+                ],
+                [
+                  null,
+                  "Chemical name/INN/XAN",
+                  "Name of Common Ingredients Glossary",
+                  "CAS number",
+                  "EC number",
+                  "Product type, body parts",
+                  "Maximum concentration in ready for use preparation",
+                  "Other",
+                  null
+                ],
+                [
+                  "a",
+                  "b",
+                  "c",
+                  "d",
+                  "e",
+                  "f",
+                  "g",
+                  "h",
+                  "i"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN VI",
+              "table": 1,
+              "key": "10",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "10",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "10",
+                    "2-Cyano-3,3-diphenyl acrylic acid, 2- ethylhexyl ester/Octocrylene\ns\n",
+                    "Octocrylene",
+                    "6197-30-4",
+                    "228-250-8",
+                    "a) Propellant spray products\nb) Other products",
+                    "a) 9 %\nb) 10 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6197-30-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "228-250-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Cyano-3,3-diphenyl acrylic acid, 2- ethylhexyl ester/Octocrylene"
+              },
+              "after": {
+                "unit": "AN VI",
+                "container": "AN VI",
+                "table": 1,
+                "key": "10",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "10",
+                    "2-Cyano-3,3-diphenyl acrylic acid, 2- ethylhexyl ester/Octocrylene\n",
+                    "Octocrylene",
+                    "6197-30-4",
+                    "228-250-8",
+                    "a) Propellant spray products\nb) Other products",
+                    "a) 9 %\nb) 10 %",
+                    "",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "6197-30-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "228-250-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-Cyano-3,3-diphenyl acrylic acid, 2- ethylhexyl ester/Octocrylene"
+              }
+            }
+          ],
+          "unchanged": 34,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -521,6 +794,20 @@
       "repaired_on": "2026-10-08",
       "addressed": 3,
       "repaired": 3,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 2,
+      "repaired": 2,
       "remaining": 0,
       "usage": {
         "input_tokens": 0,
