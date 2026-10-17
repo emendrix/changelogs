@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,306 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "70",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "70",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "70. Octamethylcyclotetrasiloxane (D4)\nCAS No 556-67-2\nEC No 209-136-7\nDecamethylcyclopentasiloxane (D5)\nCAS No 541-02-6\nEC No 208-764-9",
+                    "1. Shall not be placed on the market in wash-off cosmetic products in a concentration equal to or greater than 0,1 % by weight of either substance, after 31 January 2020.\n2. For the purposes of this entry, wash-off cosmetic products means cosmetic products as defined in Article 2(1)(a) of Regulation (EC) No 1223/2009 that, under normal conditions of use, are washed off with water after application."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "541-02-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "556-67-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-764-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-136-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Octamethylcyclotetrasiloxane (D4)"
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "70",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "70.\nOctamethylcyclotetrasiloxane (D4)\nCAS No 556-67-2\nEC No 209-136-7\nDecamethylcyclopentasiloxane (D5)\nCAS No 541-02-6\nEC No 208-764-9\nDodecamethylcyclohexasiloxane (D6)\nCAS No 540-97-6\nEC No 208-762-8",
+                    "1. Shall not be placed on the market\n(a) as a substance on its own;\n(b) as a constituent of other substances; or\n(c) in mixtures;\nin a concentration equal to or greater than 0,1 % by weight of the respective substance after 6 June 2026.\n2. Shall not be used as a solvent for the dry cleaning of textiles, leather and fur after 6 June 2026.\n3. By way of derogation:\n(a) for D4 and D5 in wash-off cosmetic products, paragraph 1, point (c), shall apply after 31 January 2020.\nFor the purposes of this point, wash-off cosmetic products means cosmetic products as defined in Article 2(1), point (a), of Regulation (EC) No 1223/2009 of the European Parliament and of the Council\n that, under normal conditions of use, are washed off with water after application;\n(b) for all cosmetic products other than the ones mentioned in paragraph 3(a), paragraph 1 shall apply after 6 June 2027;\n(c) for devices as defined in Article 1(4) of Regulation (EU) 2017/745 of the European Parliament and of the Council\n and in Article 1(2) of Regulation (EU) 2017/746 of the European Parliament and the Council\n, paragraph 1 shall apply after 6 June 2031;\n(d) for medicinal products, as defined in Article 1, point 2, of Directive 2001/83/EC, and for veterinary medicinal products, as defined in Article 4(1) of Regulation (EU) 2019/6\n, paragraph 1 shall apply after 6 June 2031;\n(e) for D5 as a solvent in the dry cleaning of textiles, leather and fur, paragraphs 1 and 2 shall apply after 6 June 2034.\n4. By way of derogation, paragraph 1 shall not apply to the:\n(a) placing on the market of D4, D5 and D6 for the following industrial uses:\nas a monomer in the production of silicone polymer,\nas an intermediate in the production of other silicon substances,\nas a monomer in polymerisation,\nin the formulation or (re)packing of mixtures,\nin the production of articles,\nin non-metal surface treatment;\n(b) placing on the market of D5 and D6 for use as devices, as defined in Article 1(4) of Regulation (EU) 2017/745, for the treatment and care of scars and wounds, the prevention of wounds and the care of stoma;\n(c) placing on the market of D5 for professional use in the cleaning or restoration of art and antiques;\n(d) placing on the market of D4, D5 and D6 for use as laboratory reagent in research and development activities carried out under controlled conditions.\n5. By way of derogation, paragraph 1, point (b), shall not apply to the placing on the market of D4, D5 and D6:\nas a constituent of a silicone polymer on its own,\nas a constituent of a silicone polymer in a mixture derogated under paragraph 6.\n6. By way of derogation, paragraph 1, point (c), shall not apply to the placing on the market of mixtures that contain D4, D5 or D6 as residues from silicone polymers, under the following conditions:\n(a) D4, D5 or D6 in a concentration equal to or less than 1 % by weight of the respective substance in the mixture, for use in adhesion, sealing, gluing and casting;\n(b) D4 in a concentration equal to or less than 0,5 % by weight, or D5 or D6 in a concentration equal to or less than 0,3 % by weight of either substance in the mixture for use as protective coatings (including marine coatings);\n(c) D4, D5 or D6 in a concentration equal to or less than 0,2 % by weight of the respective substance in the mixture, for use as devices as defined in Article 1(4) of Regulation (EU) 2017/745 and in Article 1(2) of Regulation (EU) 2017/746, other than the devices referred to in paragraph 6(d);\n(d) D5 in a concentration equal to or less than 0,3 % by weight in the mixture or D6 in a concentration equal to or less than 1 % by weight in the mixture, for use as devices as defined in Article 1(4) of Regulation (EU) 2017/745, for dental impression;\n(e) D4 in a concentration equal to or less than 0,2 % by weight in the mixture, or D5 or D6 in a concentration equal to or less than 1 % by weight of either substance in the mixture for use as silicone insoles for horses, or as horseshoes;\n(f) D4, D5 or D6 in a concentration equal to or less than 0,5 % by weight of the respective substance in the mixture, for use as adhesion promoters;\n(g) D4, D5 or D6 in a concentration equal to or less than 1 % by weight of the respective substance in the mixture, for use in 3D-printing;\n(h) D5 in a concentration equal to or less than 1 % by weight in the mixture or D6 in a concentration equal to or less than 3 % by weight in the mixture, for rapid prototyping and mould making, or high performance uses stabilised by quartz filler;\n(i) D5 or D6 in a concentration equal to or less than 1 % by weight of either substance in the mixture, for use in pad printing, or manufacturing of printing pads;\n(j) D6 in a concentration equal to or less than 1 % by weight of the mixture, for professional use in the cleaning or restoration of art and antiques.\n7. By way of derogation, paragraphs 1 and 2 shall not apply to the placing on the market for use, or to the use, of D5 as a solvent in strictly controlled closed dry cleaning systems for textile, leather and fur, where the cleaning solvent is recycled or incinerated."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "540-97-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "541-02-6"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "556-67-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-762-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "208-764-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "209-136-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "75",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "75",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "75.\nSubstances falling within one or more of the following points:\n(a) substances classified as any of the following in Part 3 of Annex VI to Regulation (EC) No 1272/2008:\ncarcinogen category 1A, 1B or 2, or germ cell mutagen category 1A, 1B or 2, but excluding any such substances classified due to effects only following exposure by inhalation\nreproductive toxicant category 1A, 1B or 2 but excluding any such substances classified due to effects only following exposure by inhalation\nskin sensitiser category 1, 1A or 1B\nskin corrosive category 1, 1A, 1B or 1C or skin irritant category 2\nserious eye damage category 1 or eye irritant category 2\n(b) substances listed in Annex II to Regulation (EC) No 1223/2009 of the European Parliament and of the Council\n(c) substances listed in Annex IV to Regulation (EC) No 1223/2009 for which a condition is specified in at least one of the columns g, h and i of the table in that Annex\n(d) substances listed in Appendix 13 to this Annex.\nThe ancillary requirements in paragraphs 7 and 8 of column 2 of this entry apply to all mixtures for use for tattooing purposes, whether or not they contain a substance falling within points (a) to (d) of this column of this entry.",
+                    "1. Shall not be placed on the market in mixtures for use for tattooing purposes, and mixtures containing any such substances shall not be used for tattooing purposes, after 4 January 2022 if the substance or substances in question is or are present in the following circumstances:\n(a) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as carcinogen category 1A, 1B or 2, or germ cell mutagen category 1A, 1B or 2, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight;\n(b) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as reproductive toxicant category 1A, 1B or 2, the substance is present in the mixture in a concentration equal to or greater than 0,001 % by weight;\n(c) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as skin sensitiser category 1, 1A or 1B, the substance is present in the mixture in a concentration equal to or greater than 0,001 % by weight;\n(d) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as skin corrosive category 1, 1A, 1B or 1C or skin irritant category 2, or as serious eye damage category 1 or eye irritant category 2, the substance is present in the mixture in a concentration equal to or greater than:\n(i) 0,1 % by weight, if the substance is used solely as a pH regulator;\n(ii) 0,01 % by weight, in all other cases;\n(e) in the case of a substance listed in Annex II to Regulation (EC) No 1223/2009\n, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight;\n(f) in the case of a substance for which a condition of one or more of the following kinds is specified in column g (Product type, Body parts) of the table in Annex IV to Regulation (EC) No 1223/2009, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight:\n(i) Rinse-off products;\n(ii) Not to be used in products applied on mucous membranes;\n(iii) Not to be used in eye products;\n(g) in the case of a substance for which a condition is specified in column h (Maximum concentration in ready for use preparation) or column i (Other) of the table in Annex IV to Regulation (EC) No 1223/2009, the substance is present in the mixture in a concentration, or in some other way, that does not accord with the condition specified in that column;\n(h) in the case of a substance listed in Appendix 13 to this Annex, the substance is present in the mixture in a concentration equal to or greater than the concentration limit specified for that substance in that Appendix.\n2. For the purposes of this entry use of a mixture for tattooing purposes means injection or introduction of the mixture into a person’s skin, mucous membrane or eyeball, by any process or procedure (including procedures commonly referred to as permanent make-up, cosmetic tattooing, micro-blading and micro-pigmentation), with the aim of making a mark or design on his or her body.\n3. If a substance not listed in Appendix 13 falls within more than one of points (a) to (g) of paragraph 1, the strictest concentration limit laid down in the points in question shall apply to that substance. If a substance listed in Appendix 13 also falls within one or more of points (a) to (g) of paragraph 1, the concentration limit laid down in point (h) of paragraph 1 shall apply to that substance.\n4. By way of derogation, paragraph 1 shall not apply to the following substances until 4 January 2023:\n(a) Pigment Blue 15:3 (CI 74160, EC No 205-685-1, CAS No 147-14-8);\n(b) Pigment Green 7 (CI 74260, EC No 215-524-7, CAS No 1328-53-6).\n5. If Part 3 of Annex VI to Regulation (EC) No 1272/2008 is amended after 4 January 2021 to classify or re-classify a substance such that the substance then becomes caught by point (a), (b), (c) or (d) of paragraph 1 of this entry, or such that it then falls within a different one of those points from the one within which it fell previously, and the date of application of that new or revised classification is after the date referred to in paragraph 1 or, as the case may be, paragraph 4 of this entry, that amendment shall, for the purposes of applying this entry to that substance, be treated as taking effect on the date of application of that new or revised classification.\n6. If Annex II or Annex IV to Regulation (EC) No 1223/2009 is amended after 4 January 2021 to list or change the listing of a substance such that the substance then becomes caught by point (e), (f) or (g) of paragraph 1 of this entry, or such that it then falls within a different one of those points from the one within which it fell previously, and the amendment takes effect after the date referred to in paragraph 1 or, as the case may be, paragraph 4 of this entry, that amendment shall, for the purposes of applying this entry to that substance, be treated as taking effect from the date falling 18 months after entry into force of the act by which that amendment was made.\n7. Suppliers placing a mixture on the market for use for tattooing purposes shall ensure that, after 4 January 2022, the mixture is marked with the following information:\n(a) the statement Mixture for use in tattoos or permanent make-up;\n(b) a reference number to uniquely identify the batch;\n(c) the list of ingredients in accordance with the nomenclature established in the glossary of common ingredient names pursuant to Article 33 of Regulation (EC) No 1223/2009, or in the absence of a common ingredient name, the IUPAC name. In the absence of a common ingredient name or IUPAC name, the CAS and EC number. Ingredients shall be listed in descending order by weight or volume of the ingredients at the time of formulation. Ingredient means any substance added during the process of formulation and present in the mixture for use for tattooing purposes. Impurities shall not be regarded as ingredients. If the name of a substance, used as ingredient within the meaning of this entry, is already required to be stated on the label in accordance with Regulation (EC) No 1272/2008, that ingredient does not need to be marked in accordance with this Regulation;\n(d) the additional statement pH regulator for substances falling under point (d)(i) of paragraph 1;\n(e) the statement \"Contains nickel. Can cause allergic reactions.\" if the mixture contains nickel below the concentration limit specified in Appendix 13;\n(f) the statement \"Contains chromium (VI). Can cause allergic reactions.\" if the mixture contains chromium (VI) below the concentration limit specified in Appendix 13;\n(g) safety instructions for use insofar as they are not already required to be stated on the label by Regulation (EC) No 1272/2008.\nThe information shall be clearly visible, easily legible and marked in a way that is indelible.\nThe information shall be written in the official language(s) of the Member State(s) where the mixture is placed on the market, unless the Member State(s) concerned provide(s) otherwise.\nWhere necessary because of the size of the package, the information listed in the first subparagraph, except for point (a), shall be included instead in the instructions for use.\nBefore using a mixture for tattooing purposes, the person using the mixture shall provide the person undergoing the procedure with the information marked on the package or included in the instructions for use pursuant to this paragraph.\n8. Mixtures that do not contain the statement Mixture for use in tattoos or permanent make-up shall not be used for tattooing purposes.\n9. This entry does not apply to substances that are gases at temperature of 20 °C and pressure of 101,3 kPa, or generate a vapour pressure of more than 300 kPa at temperature of 50 °C, with the exception of formaldehyde (CAS No 50-00-0, EC No 200-001-8).\n10. This entry does not apply to the placing on the market of a mixture for use for tattooing purposes, or to the use of a mixture for tattooing purposes, when placed on the market exclusively as a medical device or an accessory to a medical device, within the meaning of Regulation (EU) 2017/745, or when used exclusively as a medical device or an accessory to a medical device, within the same meaning. Where the placing on the market or use may not be exclusively as a medical device or an accessory to a medical device, the requirements of Regulation (EU) 2017/745 and of this Regulation shall apply cumulatively.\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": null
+              },
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "75",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "75.\nSubstances falling within one or more of the following points:\n(a) substances classified as any of the following in Part 3 of Annex VI to Regulation (EC) No 1272/2008:\ncarcinogen category 1A, 1B or 2, or germ cell mutagen category 1A, 1B or 2, but excluding any such substances classified due to effects only following exposure by inhalation\nreproductive toxicant category 1A, 1B or 2 but excluding any such substances classified due to effects only following exposure by inhalation\nskin sensitiser category 1, 1A or 1B\nskin cworrosive category 1, 1A, 1B or 1C or skin irritant category 2\nserious eye damage category 1 or eye irritant category 2\n(b) substances listed in Annex II to Regulation (EC) No 1223/2009 of the European Parliament and of the Council\n(c) substances listed in Annex IV to Regulation (EC) No 1223/2009 for which a condition is specified in at least one of the columns g, h and i of the table in that Annex\n(d) substances listed in Appendix 13 to this Annex.\nThe ancillary requirements in paragraphs 7 and 8 of column 2 of this entry apply to all mixtures for use for tattooing purposes, whether or not they contain a substance falling within points (a) to (d) of this column of this entry.",
+                    "1. Shall not be placed on the market in mixtures for use for tattooing purposes, and mixtures containing any such substances shall not be used for tattooing purposes, after 4 January 2022 if the substance or substances in question is or are present in the following circumstances:\n(a) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as carcinogen category 1A, 1B or 2, or germ cell mutagen category 1A, 1B or 2, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight;\n(b) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as reproductive toxicant category 1A, 1B or 2, the substance is present in the mixture in a concentration equal to or greater than 0,001 % by weight;\n(c) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as skin sensitiser category 1, 1A or 1B, the substance is present in the mixture in a concentration equal to or greater than 0,001 % by weight;\n(d) in the case of a substance classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 as skin corrosive category 1, 1A, 1B or 1C or skin irritant category 2, or as serious eye damage category 1 or eye irritant category 2, the substance is present in the mixture in a concentration equal to or greater than:\n(i) 0,1 % by weight, if the substance is used solely as a pH regulator;\n(ii) 0,01 % by weight, in all other cases;\n(e) in the case of a substance listed in Annex II to Regulation (EC) No 1223/2009\n, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight;\n(f) in the case of a substance for which a condition of one or more of the following kinds is specified in column g (Product type, Body parts) of the table in Annex IV to Regulation (EC) No 1223/2009, the substance is present in the mixture in a concentration equal to or greater than 0,00005 % by weight:\n(i) Rinse-off products;\n(ii) Not to be used in products applied on mucous membranes;\n(iii) Not to be used in eye products;\n(g) in the case of a substance for which a condition is specified in column h (Maximum concentration in ready for use preparation) or column i (Other) of the table in Annex IV to Regulation (EC) No 1223/2009, the substance is present in the mixture in a concentration, or in some other way, that does not accord with the condition specified in that column;\n(h) in the case of a substance listed in Appendix 13 to this Annex, the substance is present in the mixture in a concentration equal to or greater than the concentration limit specified for that substance in that Appendix.\n2. For the purposes of this entry use of a mixture for tattooing purposes means injection or introduction of the mixture into a person’s skin, mucous membrane or eyeball, by any process or procedure (including procedures commonly referred to as permanent make-up, cosmetic tattooing, micro-blading and micro-pigmentation), with the aim of making a mark or design on his or her body.\n3. If a substance not listed in Appendix 13 falls within more than one of points (a) to (g) of paragraph 1, the strictest concentration limit laid down in the points in question shall apply to that substance. If a substance listed in Appendix 13 also falls within one or more of points (a) to (g) of paragraph 1, the concentration limit laid down in point (h) of paragraph 1 shall apply to that substance.\n4. By way of derogation, paragraph 1 shall not apply to the following substances until 4 January 2023:\n(a) Pigment Blue 15:3 (CI 74160, EC No 205-685-1, CAS No 147-14-8);\n(b) Pigment Green 7 (CI 74260, EC No 215-524-7, CAS No 1328-53-6).\n5. If Part 3 of Annex VI to Regulation (EC) No 1272/2008 is amended after 4 January 2021 to classify or re-classify a substance such that the substance then becomes caught by point (a), (b), (c) or (d) of paragraph 1 of this entry, or such that it then falls within a different one of those points from the one within which it fell previously, and the date of application of that new or revised classification is after the date referred to in paragraph 1 or, as the case may be, paragraph 4 of this entry, that amendment shall, for the purposes of applying this entry to that substance, be treated as taking effect on the date of application of that new or revised classification.\n6. If Annex II or Annex IV to Regulation (EC) No 1223/2009 is amended after 4 January 2021 to list or change the listing of a substance such that the substance then becomes caught by point (e), (f) or (g) of paragraph 1 of this entry, or such that it then falls within a different one of those points from the one within which it fell previously, and the amendment takes effect after the date referred to in paragraph 1 or, as the case may be, paragraph 4 of this entry, that amendment shall, for the purposes of applying this entry to that substance, be treated as taking effect from the date falling 18 months after entry into force of the act by which that amendment was made.\n7. Suppliers placing a mixture on the market for use for tattooing purposes shall ensure that, after 4 January 2022, the mixture is marked with the following information:\n(a) the statement Mixture for use in tattoos or permanent make-up;\n(b) a reference number to uniquely identify the batch;\n(c) the list of ingredients in accordance with the nomenclature established in the glossary of common ingredient names pursuant to Article 33 of Regulation (EC) No 1223/2009, or in the absence of a common ingredient name, the IUPAC name. In the absence of a common ingredient name or IUPAC name, the CAS and EC number. Ingredients shall be listed in descending order by weight or volume of the ingredients at the time of formulation. Ingredient means any substance added during the process of formulation and present in the mixture for use for tattooing purposes. Impurities shall not be regarded as ingredients. If the name of a substance, used as ingredient within the meaning of this entry, is already required to be stated on the label in accordance with Regulation (EC) No 1272/2008, that ingredient does not need to be marked in accordance with this Regulation;\n(d) the additional statement pH regulator for substances falling under point (d)(i) of paragraph 1;\n(e) the statement \"Contains nickel. Can cause allergic reactions.\" if the mixture contains nickel below the concentration limit specified in Appendix 13;\n(f) the statement \"Contains chromium (VI). Can cause allergic reactions.\" if the mixture contains chromium (VI) below the concentration limit specified in Appendix 13;\n(g) safety instructions for use insofar as they are not already required to be stated on the label by Regulation (EC) No 1272/2008.\nThe information shall be clearly visible, easily legible and marked in a way that is indelible.\nThe information shall be written in the official language(s) of the Member State(s) where the mixture is placed on the market, unless the Member State(s) concerned provide(s) otherwise.\nWhere necessary because of the size of the package, the information listed in the first subparagraph, except for point (a), shall be included instead in the instructions for use.\nBefore using a mixture for tattooing purposes, the person using the mixture shall provide the person undergoing the procedure with the information marked on the package or included in the instructions for use pursuant to this paragraph.\n8. Mixtures that do not contain the statement Mixture for use in tattoos or permanent make-up shall not be used for tattooing purposes.\n9. This entry does not apply to substances that are gases at temperature of 20 °C and pressure of 101,3 kPa, or generate a vapour pressure of more than 300 kPa at temperature of 50 °C, with the exception of formaldehyde (CAS No 50-00-0, EC No 200-001-8).\n10. This entry does not apply to the placing on the market of a mixture for use for tattooing purposes, or to the use of a mixture for tattooing purposes, when placed on the market exclusively as a medical device or an accessory to a medical device, within the meaning of Regulation (EU) 2017/745, or when used exclusively as a medical device or an accessory to a medical device, within the same meaning. Where the placing on the market or use may not be exclusively as a medical device or an accessory to a medical device, the requirements of Regulation (EU) 2017/745 and of this Regulation shall apply cumulatively.\n"
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": null
+              }
+            }
+          ],
+          "unchanged": 1954,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -301,6 +601,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,

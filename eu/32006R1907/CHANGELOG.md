@@ -390,6 +390,8 @@ Both texts are truncated before their end, so any further differences beyond wha
 
 *within* `AN XVII` · *dates* +2026-06-06 +2027-06-06 +2031-06-06 +2034-06-06 · *amended by* `32024R1328`
 
+Table entries: 0 added, 2 amended, 0 removed: Entry 70, Entry 75
+
 The list of Union acts referenced at the start of the Annex gains one further entry, an additional citation to Regulation (EC) No 1223/2009 on cosmetic products described as a recast, alongside the earlier reference list. [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20240606#anx_XVII)
 
 The remainder of the visible text, including the numbered entries and their conditions of restriction, appears unchanged between the two versions shown. [Annex XVII, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20231201#anx_XVII) [Annex XVII, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02006R1907-20240606#anx_XVII)
