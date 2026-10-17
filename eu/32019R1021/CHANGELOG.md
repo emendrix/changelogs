@@ -359,7 +359,7 @@ The new entry sets a concentration limit of 1000 mg/kg until 15 April 2028 dropp
 ### `02019R1021-20241017` → `02019R1021-20250804`
 
 - **Act** `eu:32019R1021` · **In force** 2025-07-17 · **Detected** 2026-09-04
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 29 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `02019R1021-20241017` · `v2` = `02019R1021-20250804`
@@ -369,6 +369,8 @@ The new entry sets a concentration limit of 1000 mg/kg until 15 April 2028 dropp
 **MODIFIED · Annex I — ANNEX I** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
 
 *within* `AN I` · *dates* +2025-08-04 +2025-12-03 +2027-08-04 +2028-08-03 +2029-08-04 +2030-08-04 +2030-12-31 +2043-12-31 · *amended by* `32025R0843`, `32025R0718`, `32025R1399`
+
+Table entries: 2 added, 1 amended, 1 removed: "2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentylphenol", "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds", "Perfluorooctane sulfonic acid and its derivatives (PFOS)", "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
 
 The revised Annex I text adds a reference to Regulation (EU) 2017/746 on in vitro diagnostic medical devices among the introductory legal citations, renames the PFOS entry heading to "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds" and updates the cross-reference wording in the PFOA entry accordingly. [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20250804#anx_I)
 

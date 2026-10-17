@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -27,6 +27,7 @@
     "touched": 1,
     "substantive": 1,
     "date_only": 0,
+    "textless": 0,
     "disputed": 0,
     "quoted": 0,
     "unexplained": 0
@@ -51,6 +52,384 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substance",
+                  "CAS No",
+                  "EC No",
+                  "Specific exemption on intermediate use or other specification"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "2-(2h-benzotriazol-2-yl)-4,6-di-tert-pentylphenol",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "2-(2h-benzotriazol-2-yl)-4,6-di-tert-pentylphenol",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentylphenol\n(UV-328)",
+                    "25973-55-1",
+                    "247-384-8",
+                    "1. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of UV-328 equal to or below:\n(a) 100 mg/kg (0,01 % by weight) from 4 August 2025;\n(b) 10 mg/kg (0,001 % by weight) from 4 August 2027;\n(c) 1 mg/kg (0,0001 % by weight) from 4 August 2029;\nwhere they are present in substances, mixtures or articles.\n2. By way of derogation, the placing on the market of UV-328 present in articles and the use of such articles shall be allowed for the following purposes:\n(a) in land-based motor vehicles, until 4 August 2030;\n(b) in industrial coating for land-based motor vehicles, engineering machines, rail transportation vehicles, and in heavy-duty coatings for large steel structures, until 4 August 2030;\n(c) in mechanical separators in blood collection tubes, until 4 August 2030;\n(d) in triacetyl cellulose film in polarisers, until 4 August 2030;\n(e) in photographic paper, until 4 August 2030;\n(f) in civilian and military aircrafts, until 4 August 2030;\n(g) in spare parts for any of the following:\n(i) land-based motor vehicles;\n(ii) stationary industrial machines for use in agriculture, forestry and construction;\n(iii) liquid crystal displays in instruments for analysis, measurements, control, monitoring, testing, production and inspection, other than for medical applications;\nwhere UV-328 was initially used in their production, until the end of their service life or 31 December 2043, whichever comes earlier;\n(h) in spare parts for any of the following:\n(i) liquid crystal displays in devices within the scope of Regulation (EU) 2017/745, and within the scope of Regulation (EU) 2017/746 of the European Parliament and of the Council\n;\n(ii) liquid crystal displays in instruments for analysis, measurements, control, testing, production and inspection;\nwhere UV-328 was initially used in their production, until the end of their service life;\n(i) in spare parts for civilian and military aircrafts where UV-328 was initially used in their production, until 31 December 2030.\n3. Articles containing UV-328 already in use in the Union before or on the date of expiry of the relevant exemption laid down in point 2(a) to (i) may continue to be used."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "25973-55-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "247-384-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentylphenol"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "perfluorooctane sulfonic acid (pfos), its salts and pfos-related compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "perfluorooctane sulfonic acid (pfos), its salts and pfos-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds\nC8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other related compounds including polymers)",
+                    "1763-23-1\n2795-39-3\n29457-72-5\n29081-56-9\n70225-14-8\n56773-42-3\n251099-16-8\n4151-50-2\n31506-32-8\n1691-99-2\n24448-09-7\n307-35-7 and others",
+                    "217-179-8\n220-527-1\n249-644-6\n249-415-0\n274-460-8\n260-375-3\n223-980-3\n250-665-8\n216-887-4\n246-262-1\n206-200-6 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOS equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances or in mixtures.\n2. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOS in semi-finished products or articles, or parts thereof, if the concentration of PFOS is lower than 0,1 % by weight calculated with reference to the mass of structurally or micro-structurally distinct parts that contain PFOS or, for textiles or other coated materials, if the amount of PFOS is lower than 1 μg/m2 of the coated material.\n3. Use of articles already in use in the Union before 25 August 2010 containing PFOS shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.\n4. If the quantity released into the environment is minimised, manufacturing and placing on the market shall be allowed until 7 September 2025 for use as mist suppressant for non-decorative hard chromium (VI) plating in closed loop systems. Provided that those Member States where PFOS is used report to the Commission by 7 September 2024 on progress made to eliminate PFOS and justify the continuing need for this use, the Commission shall review the need for a prolongation of the derogation for this use of PFOS for a maximum of five years by 7 September 2025.\nWhere such a derogation concerns production or use in an installation within the scope of Directive 2008/1/EC of the European Parliament and of the Council\n, the relevant best available techniques for the prevention and minimisation of emissions of PFOS described in the information published by the Commission pursuant to Article 17(2), second subparagraph, of Directive 2008/1/EC shall apply.\nAs soon as new information on details of uses and safer alternative substances or technologies becomes available, the Commission shall review the derogation in the second subparagraph so that:\n(a) the uses of PFOS will be phased out as soon as the use of safer alternatives is technically and economically feasible;\n(b) a derogation can only be continued for essential uses for which safer alternatives do not exist and where the efforts undertaken to find safer alternatives have been reported on;\n(c) releases of PFOS into the environment have been minimised by applying best available techniques.\n5. Once standards are adopted by the European Committee for Standardisation (CEN) they shall be used as the analytical test methods for demonstrating the conformity of substances, mixtures and articles to points 1 and 2. Any other analytical method for which the user can prove equivalent performance could be used as an alternative to the CEN standards."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1691-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1763-23-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "24448-09-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "251099-16-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2795-39-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29081-56-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29457-72-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "307-35-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "31506-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "4151-50-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56773-42-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "70225-14-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-200-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-887-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-179-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-527-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-980-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-262-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-415-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-644-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "250-665-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-375-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-460-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN I",
+              "table": 1,
+              "key": "perfluorooctane sulfonic acid and its derivatives (pfos)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "perfluorooctane sulfonic acid and its derivatives (pfos)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctane sulfonic acid and its derivatives (PFOS)\nC8F17SO2X\n(X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers)",
+                    "1763-23-1\n2795-39-3\n29457-72-5\n29081-56-9\n70225-14-8\n56773-42-3\n251099-16-8\n4151-50-2\n31506-32-8\n1691-99-2\n24448-09-7\n307-35-7 and others",
+                    "217-179-8\n220-527-1\n249-644-6\n249-415-0\n274-460-8\n260-375-3\n223-980-3\n250-665-8\n216-887-4\n246-262-1\n206-200-6 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOS equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances or in mixtures.\n2. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOS in semi-finished products or articles, or parts thereof, if the concentration of PFOS is lower than 0,1 % by weight calculated with reference to the mass of structurally or micro-structurally distinct parts that contain PFOS or, for textiles or other coated materials, if the amount of PFOS is lower than 1 μg/m2 of the coated material.\n3. Use of articles already in use in the Union before 25 August 2010 containing PFOS shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.\n4. If the quantity released into the environment is minimised, manufacturing and placing on the market shall be allowed until 7 September 2025 for use as mist suppressant for non-decorative hard chromium (VI) plating in closed loop systems. Provided that those Member States where PFOS is used report to the Commission by 7 September 2024 on progress made to eliminate PFOS and justify the continuing need for this use, the Commission shall review the need for a prolongation of the derogation for this use of PFOS for a maximum of five years by 7 September 2025.\nWhere such a derogation concerns production or use in an installation within the scope of Directive 2008/1/EC of the European Parliament and of the Council\n, the relevant best available techniques for the prevention and minimisation of emissions of PFOS described in the information published by the Commission pursuant to Article 17(2), second subparagraph, of Directive 2008/1/EC shall apply.\nAs soon as new information on details of uses and safer alternative substances or technologies becomes available, the Commission shall review the derogation in the second subparagraph so that:\n(a) the uses of PFOS will be phased out as soon as the use of safer alternatives is technically and economically feasible;\n(b) a derogation can only be continued for essential uses for which safer alternatives do not exist and where the efforts undertaken to find safer alternatives have been reported on;\n(c) releases of PFOS into the environment have been minimised by applying best available techniques.\n5. Once standards are adopted by the European Committee for Standardisation (CEN) they shall be used as the analytical test methods for demonstrating the conformity of substances, mixtures and articles to points 1 and 2. Any other analytical method for which the user can prove equivalent performance could be used as an alternative to the CEN standards."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1691-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1763-23-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "24448-09-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "251099-16-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "2795-39-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29081-56-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "29457-72-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "307-35-7"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "31506-32-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "4151-50-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56773-42-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "70225-14-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-200-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-887-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "217-179-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "220-527-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-980-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "246-262-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-415-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-644-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "250-665-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-375-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "274-460-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctane sulfonic acid and its derivatives (PFOS)"
+              },
+              "after": null
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds\nPerfluorooctanoic acid (PFOA), its salts and PFOA-related compounds means the following:\n(i) perfluorooctanoic acid, including any of its branched isomers;\n(ii) its salts;\n(iii) PFOA-related compounds which, for the purposes of the Convention, are any substances that degrade to PFOA, including any substances (including salts and polymers) having a linear or branched perfluoroheptyl group with the moiety (C7F15)C as one of the structural elements.\nThe following compounds are not included as PFOA-related compounds:\n(i) C8F17-X, where X = F, Cl, Br;\n(ii) fluoropolymers that are covered by CF3[CF2]n-R’, where R’=any group, n> 16;\n(iii) perfluoroalkyl carboxylic acids (including their salts, esters, halides and anhydrides) with ≥ 8 perfluorinated carbons;\n(iv) perfluoroalkane sulfonic acids and perfluoro phosphonic acids (including their salts, esters, halides and anhydrides) with ≥ 9 perfluorinated carbons;\n(v) perfluorooctane sulfonic acid and its derivatives (PFOS), as listed in this Annex.",
+                    "335-67-1 and others",
+                    "206-397-9 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA or any of its salts equal to or below 0,025 mg/kg (0,0000025 % by weight) where they are present in substances, mixtures or articles.\n2. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of any individual PFOA-related compound or a combination of PFOA-related compounds equal to or below 1 mg/kg (0,0001 % by weight) where they are present in substances, mixtures or articles.\n3. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA-related compounds equal to or below 20 mg/kg (0,002 % by weight) where they are present in a substance to be used as a transported isolated intermediate within the meaning of Article 3 point 15(c) of Regulation (EC) No 1907/2006 and fulfilling the strictly controlled conditions set out in Article 18(4)(a) to (f) of that Regulation for the production of fluorochemicals with a perfluoro carbon chain equal to or shorter than 6 atoms. This exemption shall be reviewed and assessed by the Commission no later than 25 August 2023.\n4. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of PFOA and its salts equal to or below 1 mg/kg (0,0001 % by weight) where they are present in polytetrafluoroethylene (PTFE) micropowders produced by ionising irradiation or by thermal degradation as well as in mixtures and articles for industrial and professional uses containing PTFE micropowders until 18 August 2023. All emissions of PFOA during the manufacture and use of PTFE micropowders shall be avoided and, if not possible, reduced as far as possible. The limit of 1 mg/kg (0,0001 % by weight) shall apply only to manufacture, placing on the market and use of PFOA and its salts where they are present in PTFE micropowders that are transported or treated for the purpose to reduce the concentration of PFOA and its salts below the limit of 0,025 mg/kg (0,0000025 % by weight).\n5. By way of derogation, the manufacturing, placing on the market and use of PFOA, its salts and PFOA-related compounds shall be allowed for the following purposes:\n(a) photolithography or etch processes in semiconductor manufacturing, until 4 July 2025;\n(b) photographic coatings applied to films, until 4 July 2025;\n(c) textiles for oil- and water-repellency for the protection of workers from dangerous liquids that comprise risks to their health and safety, until 4 July 2023;\n(d) invasive and implantable medical devices, until 4 July 2025.\n(e) manufacture of polytetrafluoroethylene (PTFE) and polyvinylidene fluoride (PVDF) for the production of:\n(i) high-performance, corrosion-resistant gas filter membranes, water filter membranes and membranes for medical textiles;\n(ii) industrial waste heat exchanger equipment,\n(iii) industrial sealants capable of preventing leakage of volatile organic compounds and PM2.5 particulates;\nuntil 4 July 2023.\n6. By way of derogation, the use of PFOA, its salts and PFOA-related compounds shall be allowed in fire-fighting foam for liquid fuel vapour suppression and liquid fuel fire (Class B fires) already installed in systems, including both mobile and fixed systems, until 4 July 2025, subject to the following conditions:\n(a) fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall not be used for training;\n(b) fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall not be used for testing unless all releases are contained;\n(c) as from 1 January 2023, uses of fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall only be allowed in sites where all releases can be contained;\n(d) fire-fighting foam stockpiles that contain or may contain PFOA, its salts and/or PFOA-related compounds shall be managed in accordance with Article 5.\n7. By way of derogation, the use of perfluooroctyl bromide containing perfluoroctyl iodide for the purpose of producing pharmaceutical products shall be allowed, subject to review and assessment by the Commission by 31 December 2026, every four years thereafter and by 31 December 2036.\n8. Use of articles already in use in the Union before 4 July 2020 containing PFOA, its salts and/or PFOA-related compounds shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.\n9. By way of derogation, the manufacturing, placing on the market and use of PFOA, its salts and PFOA-related compounds shall be allowed until 3 December 2020 for the following purposes:\n(a) medical devices other than implantable ones, within the scope of Regulation (EU) 2017/745\n;\n(b) latex printing inks;\n(c) plasma nano-coatings.\n10. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA and its salts and/or PFOA-related compounds equal to or below 2 mg/kg (0,0002 % by weight) where they are present in medical devices other than invasive devices and implantable devices. This exemption shall be reviewed and assessed by the Commission no later than 22 February 2023."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds\nPerfluorooctanoic acid (PFOA), its salts and PFOA-related compounds means the following:\n(i) perfluorooctanoic acid, including any of its branched isomers;\n(ii) its salts;\n(iii) PFOA-related compounds which, for the purposes of the Convention, are any substances that degrade to PFOA, including any substances (including salts and polymers) having a linear or branched perfluoroheptyl group with the moiety (C7F15)C as one of the structural elements.\nThe following compounds are not included as PFOA-related compounds:\n(i) C8F17-X, where X = F, Cl, Br;\n(ii) fluoropolymers that are covered by CF3[CF2]n-R’, where R’=any group, n> 16;\n(iii) perfluoroalkyl carboxylic acids (including their salts, esters, halides and anhydrides) with ≥ 8 perfluorinated carbons;\n(iv) perfluoroalkane sulfonic acids and perfluoro phosphonic acids (including their salts, esters, halides and anhydrides) with ≥ 9 perfluorinated carbons;\n(v) perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds as listed in this Annex.",
+                    "335-67-1 and others",
+                    "206-397-9 and others",
+                    "1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA or any of its salts equal to or below 0,025 mg/kg (0,0000025 % by weight) where they are present in substances, mixtures or articles.\n2. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of any individual PFOA-related compound or a combination of PFOA-related compounds equal to or below 1 mg/kg (0,0001 % by weight) where they are present in substances, mixtures or articles.\n3. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA-related compounds equal to or below 20 mg/kg (0,002 % by weight) where they are present in a substance to be used as a transported isolated intermediate within the meaning of Article 3 point 15(c) of Regulation (EC) No 1907/2006 and fulfilling the strictly controlled conditions set out in Article 18(4)(a) to (f) of that Regulation for the production of fluorochemicals with a perfluoro carbon chain equal to or shorter than 6 atoms. This exemption shall be reviewed and assessed by the Commission no later than 25 August 2023.\n4. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of PFOA and its salts equal to or below 1 mg/kg (0,0001 % by weight) where they are present in polytetrafluoroethylene (PTFE) micropowders produced by ionising irradiation or by thermal degradation as well as in mixtures and articles for industrial and professional uses containing PTFE micropowders until 18 August 2023. All emissions of PFOA during the manufacture and use of PTFE micropowders shall be avoided and, if not possible, reduced as far as possible. The limit of 1 mg/kg (0,0001 % by weight) shall apply only to manufacture, placing on the market and use of PFOA and its salts where they are present in PTFE micropowders that are transported or treated for the purpose to reduce the concentration of PFOA and its salts below the limit of 0,025 mg/kg (0,0000025 % by weight).\n4a. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of PFOA or any of its salts equal to or below 1 mg/kg (0,0001 % by weight) and to concentrations of any individual PFOA-related compound or combination of PFOA-related compounds equal to or below 10 mg/kg (0,001 % by weight) where they are present in fire-fighting foam for liquid fuel vapour suppression and liquid fuel fire (Class B fires) already installed in systems. This limit value shall apply until 3 August 2028.\n4b. For the purposes of this entry, Article 4(1), point (b), shall apply to the sum of the concentration of PFOA, its salts and PFOA-related compounds equal to or below 10 mg/kg (0,001 % by weight) where they are present in fluorine-free fire-fighting foam and originate from fire-fighting equipment which has undergone cleaning in accordance with the best available techniques.\n5. By way of derogation, the manufacturing, placing on the market and use of PFOA, its salts and PFOA-related compounds shall be allowed for the following purposes:\n(a) photolithography or etch processes in semiconductor manufacturing, until 4 July 2025;\n(b) photographic coatings applied to films, until 4 July 2025;\n(c) textiles for oil- and water-repellency for the protection of workers from dangerous liquids that comprise risks to their health and safety, until 4 July 2023;\n(d) invasive and implantable medical devices, until 4 July 2025.\n(e) manufacture of polytetrafluoroethylene (PTFE) and polyvinylidene fluoride (PVDF) for the production of:\n(i) high-performance, corrosion-resistant gas filter membranes, water filter membranes and membranes for medical textiles;\n(ii) industrial waste heat exchanger equipment,\n(iii) industrial sealants capable of preventing leakage of volatile organic compounds and PM2.5 particulates;\nuntil 4 July 2023.\n6. By way of derogation, the use of PFOA, its salts and PFOA-related compounds shall be allowed in fire-fighting foam for liquid fuel vapour suppression and liquid fuel fire (Class B fires) already installed in systems, including both mobile and fixed systems, until 3 December 2025, subject to the following conditions:\n(a) fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall not be used for training;\n(b) fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall not be used for testing unless all releases are contained;\n(c) as from 1 January 2023, uses of fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall only be allowed in sites where all releases can be contained;\n(d) fire-fighting foam stockpiles that contain or may contain PFOA, its salts and/or PFOA-related compounds shall be managed in accordance with Article 5.\nfirefighting foam means any mixture to fight fires with foam and includes but is not limited to firefighting foam concentrates and firefighting foam solutions to produce the foam.\n7. By way of derogation, the use of perfluooroctyl bromide containing perfluoroctyl iodide for the purpose of producing pharmaceutical products shall be allowed, subject to review and assessment by the Commission by 31 December 2026, every four years thereafter and by 31 December 2036.\n8. Use of articles already in use in the Union before 4 July 2020 containing PFOA, its salts and/or PFOA-related compounds shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.\n9. By way of derogation, the manufacturing, placing on the market and use of PFOA, its salts and PFOA-related compounds shall be allowed until 3 December 2020 for the following purposes:\n(a) medical devices other than implantable ones, within the scope of Regulation (EU) 2017/745\n;\n(b) latex printing inks;\n(c) plasma nano-coatings.\n10. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA and its salts and/or PFOA-related compounds equal to or below 2 mg/kg (0,0002 % by weight) where they are present in medical devices other than invasive devices and implantable devices. This exemption shall be reviewed and assessed by the Commission no later than 22 February 2023.\n11. Articles containing PFOA, its salts or PFOA-related compounds already in use in the Union before or on the date of expiry of the relevant exemption laid down in points 5(a) to (d) may continue to be used."
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
+              }
+            }
+          ],
+          "unchanged": 28,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 0,
+            "failed_check_digits": 0,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -105,7 +484,8 @@
             "change_types": []
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
@@ -367,7 +747,8 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
@@ -400,5 +781,22 @@
     "citations_rejected": 0,
     "notes_dropped": 0,
     "coordinates_unsupported": 0
-  }
+  },
+  "repairs": [
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    }
+  ],
+  "evidence": []
 }
