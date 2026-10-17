@@ -3577,6 +3577,8 @@ The remainder of the visible Annex III text, including entries 2b through 67 and
 
 *within* `AN V` · *amended by* `32014R1003`
 
+Table entries: 0 added, 1 amended, 0 removed: Reference number 39
+
 Two new preamble notes were added stating that Methylisothiazolinone (entry 57) and the Methylchloroisothiazolinone/Methylisothiazolinone mixture (entry 39) are mutually exclusive and cannot both be used in the same product. [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150716#anx_V)
 
 Entry 39 was rewritten so that the substance identification column now names the ingredient as Methylchloroisothiazolinone (and) Methylisothiazolinone rather than describing it only as a mixture of the two chemical names with magnesium chloride and magnesium nitrate, and the maximum concentration condition is now restricted to rinse-off products with the same 0,0015% ratio limit, whereas before no such rinse-off restriction was stated. [Annex V, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150416#anx_V) [Annex V, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02009R1223-20150716#anx_V)
