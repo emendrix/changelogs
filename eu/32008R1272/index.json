@@ -451,10 +451,10 @@
         "2021-06-08",
         "2021-10-01"
       ],
-      "updated_on": "2026-09-04",
-      "schema_version": "1.0",
+      "updated_on": "2026-10-17",
+      "schema_version": "1.3",
       "path": "eu/32008R1272/changes/02008R1272-20211001.json",
-      "sha256": "357988c51e79a979a17c31665a098f031c86c6c30cc8e3094d6f15ace809f495",
+      "sha256": "260045d0ac82a04dc9a86dbcc45e8e3f1ae35a9b51b08ed8fd9035768529efa9",
       "diff_only": false,
       "counts": {
         "touched": 3,
@@ -465,7 +465,12 @@
         "quoted": 0,
         "unexplained": 1
       },
-      "repairs": [],
+      "repairs": [
+        {
+          "kind": "tables",
+          "repaired_on": "2026-10-17"
+        }
+      ],
       "evidence": false,
       "metadata_only_units": [],
       "instruction_only_units": []

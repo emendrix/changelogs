@@ -3473,7 +3473,7 @@ Because the provided texts are truncated partway through the table, only these c
 ### `02008R1272-20210510` → `02008R1272-20211001`
 
 - **Act** `eu:32008R1272` · **In force** 2021-06-08, 2021-10-01 · **Detected** 2026-09-04
-- **Touched** 3 provisions — 3 substantive · 0 date-only · **0 disputed**
+- **Touched** 3 provisions — 3 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 3 modified · 0 deleted · 0 renumbered · 0 deferred · 70 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
 - **Citations** `v1` = `02008R1272-20210510` · `v2` = `02008R1272-20211001`
@@ -3603,6 +3603,8 @@ A new section 2.12 has been added covering mixtures containing titanium dioxide,
 **MODIFIED · Annex VI — Harmonised classification and labelling for certain hazardous substances** · applies from: unchanged
 
 *within* `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.1`, `AN VI SCT 1 SCT 1.1 SCT 1.1.3 SCT 1.1.3.2`, `AN VI SCT 3` · *amended by* `32021R0797`, `32020R0217`, `32021R1962`
+
+Table entries: 17 added, 11 amended, 0 removed: Index No 015-189-00-5, Index No 022-006-00-2, Index No 027-001-00-9, Index No 028-018-00-4, Index No 080-012-00-0, Index No 601-090-00-X, Index No 601-091-00-5, Index No 603-023-00-X, Index No 603-236-00-8, Index No 605-005-00-7 and 18 more
 
 The list of notes on identification, classification and labelling of substances gains two new entries, Note V and Note W, which were not present before. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02008R1272-20211001#anx_VI)
 
