@@ -164,6 +164,8 @@ The remainder of the Annex, including the numbered restriction entries shown, ap
 
 *within* `AN XVII` · *dates* +2025-10-23 +2026-10-23 +2027-04-23 +2030-10-23 +2035-10-23 · *amended by* `32025R1988`
 
+Table entries: 1 added, 0 amended, 0 removed: Entry 82
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20250901`)

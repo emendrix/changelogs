@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,206 @@
         "changed_within": [
           "AN XVII"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII",
+              "table": 1,
+              "key_label": "Entry",
+              "header": [
+                [
+                  "Column 1\nDesignation of the substance, of the group of substances or of the mixture",
+                  "Column 2\nConditions of restriction"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 1",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 2",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 4",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 5",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 6",
+              "table": 1,
+              "key_label": "Index No",
+              "header": [
+                [
+                  "Substances",
+                  "Index No",
+                  "EC No",
+                  "CAS No",
+                  "Notes"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 8",
+              "table": 1,
+              "key_label": "No",
+              "header": [
+                [
+                  "",
+                  "CAS No",
+                  "Index No",
+                  "EC No",
+                  "Substances"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 12",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Substances",
+                  "Index- No",
+                  "CAS No",
+                  "EC No",
+                  "Concentration limit by weight"
+                ]
+              ]
+            },
+            {
+              "unit": "AN XVII",
+              "container": "AN XVII APP 13",
+              "table": 1,
+              "key_label": "CAS No",
+              "header": [
+                [
+                  "Substance name",
+                  "EC No",
+                  "CAS No",
+                  "Concentration limit (by weight)"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN XVII",
+              "table": 1,
+              "key": "82",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN XVII",
+                "container": "AN XVII",
+                "table": 1,
+                "key": "82",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "82. Per- and polyfluoroalkyl substances (PFAS) defined as: any substance that contains at least one fully fluorinated methyl (CF3) or methylene (CF2) carbon atom (without any H/Cl/Br/I attached to it).",
+                    "1. Shall not be placed on the market or used as of 23 October 2030 in firefighting foams in a concentration equal to or greater than 1 mg/L for the sum of all PFAS.\n2. Paragraph 1 shall not apply to:\n(a) perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds C8F17SO3X, to perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds and to perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds, covered by Annex I to Regulation (EU) 2019/1021;\n(b) linear and branched perfluorocarboxylic acids of the formula CnF2n +1-C(= O)OH where n = 8, 9, 10, 11, 12, or 13 (C9-C14 PFCAs) including their salts, and any combinations thereof, restricted under entry 68;\n(c) undecafluorohexanoic acid (PFHxA), its salts and PFHxA-related substances, for uses restricted under entry 79.\n3. When determining the concentration of the sum of all PFAS, the substances to which the derogation in paragraph 2 applies shall be included in the determination.\n4. By way of derogation from paragraph 1, the concentration of PFAS in fluorine-free firefighting foams originating from the equipment which has undergone cleaning in accordance with best available techniques, excluding portable fire extinguishers, shall not exceed 50 mg/L for the sum of all PFAS.\nThe Commission shall review this derogation no later than 23 October 2030.\n5. By way of derogation from paragraph 1, PFAS may be placed on the market in a concentration equal to or greater than 1 mg/L for the sum of all PFAS:\n(a) until 23 October 2026 in firefighting foams in portable fire extinguishers;\n(b) until 23 April 2027 in alcohol-resistant firefighting foams in portable fire extinguishers;\n(c) until 23 October 2035 in firefighting foams for:\n(i) establishments covered by Directive 2012/18/EU. Civilian aviation (including in civilian airports) shall not be covered by this derogation;\n(ii) installations belonging to the offshore oil and gas industry;\n(iii) military vessels;\n(iv) civilian ships with firefighting foams placed on board before 23 October 2025.\n6. By way of derogation from paragraph 1, PFAS may be used in firefighting foams in a concentration equal to or greater than 1 mg/L for the sum of all PFAS:\n(a) until 23 April 2027 for:\n(i) training and testing, except functional testing of the firefighting systems provided that all releases are contained;\n(ii) public fire services and private fire services exercising the function of public fire services, except where those services intervene at industrial fires at establishments covered by Directive 2012/18/EU and the use of the foams and the equipment for that purpose only;\n(b) until 31 December 2030 in portable fire extinguishers;\n(c) until 23 October 2035 for the cases referred to in paragraph 5, point (c).\nThe Commission shall review the derogations under point (c) before the end of the period of validity of that derogation.\n7. As of 23 October 2026 the use of PFAS in firefighting foams in a concentration equal to or greater than 1 mg/L for the sum of all PFAS pursuant to paragraph 1 and paragraph 6, point (c), shall be subject to the conditions of this paragraph. The user shall:\n(a) ensure that firefighting foams are only used for fires involving flammable liquids (class B fires);\n(b) reduce emissions to the environmental compartments and direct and indirect human exposure to firefighting foams to as low a level as is technically and practically possible;\n(c) ensure the separate collection of stock of not-utilised firefighting foams and PFAS-containing waste, including wastewater, originating from the use of firefighting foams, where technically and practically possible, and ensure their handling for adequate treatment in such a way that the PFAS content is destroyed or irreversibly transformed;\n(d) establish a PFAS-containing firefighting foams management plan specific for the place of use of the firefighting foams containing PFAS which shall include:\n(i) details of the use conditions and volumes of firefighting foams on site, documenting how the conditions set in point (b) are met;\n(ii) information on the collection and adequate treatment pursuant to point (c);\n(iii) details on the type and methods of cleaning and maintenance of equipment;\n(iv) plans to be implemented in the event of accidental leakage/spillage of firefighting foam including where relevant, the documentation of the follow-up actions;\n(v) a strategy for substituting firefighting foams containing PFAS with fluorine-free firefighting foams.\nThe management plan shall be reviewed annually and be kept available for at least 15 years for inspection, on request, by competent authorities.\n8. As of 23 October 2026, firefighting foams in which the concentration is equal to or greater than 1 mg/L of the sum of all PFAS, that are placed on the market, excluding portable fire extinguishers, shall be labelled in accordance with paragraph 10. Unless the Member State(s) concerned provide(s) otherwise, the label shall be written in the official language(s) of the Member State(s) where the firefighting foam is placed on the market.\n9. As of 23 October 2026, users of PFAS-containing firefighting foam shall ensure that stock of not-utilised firefighting foams and PFAS-containing waste, including wastewater, originating from the use of firefighting foams, is labelled in accordance with paragraph 10 where the concentration of the sum of all PFAS is equal to or greater than 1 mg/L. Unless the Member State(s) concerned provide(s) otherwise, the label shall be written in the official language(s) of the Member State(s) where the stock of not-utilised firefighting foams and PFAS-containing waste, including wastewater, originating from the use of firefighting foam is generated and will be treated.\n10. For the purpose of paragraphs 8 and 9, the labelling shall include the following wording: WARNING: Contains per- and polyfluoroalkyl substances (PFAS) with a concentration equal to or greater than 1 mg/L for the sum of all PFAS. This information shall be visibly, legibly and indelibly marked.\n11. For the purpose of this entry, the following definitions shall apply:\n(a) portable fire extinguisher means a fire extinguisher designed to be carried and operated by hand which in working order has a mass of not more than 20 kg, in accordance with the standard EN3-7; a mobile extinguisher of not more than 150 litres, in accordance with the standard EN-1866; and a spray can extinguisher in accordance with the standard EN-16856;\n(b) firefighting foam means any mixture to fight fires with foam and includes but is not limited to firefighting foam concentrates and firefighting foam solutions to produce the foam;\n(c) stock of not-utilised firefighting foam means firefighting foam which has not yet been used to fight fires."
+                  ]
+                ],
+                "identifiers": [],
+                "failed_check_digits": 0,
+                "name": "Per- and polyfluoroalkyl substances (PFAS) defined as: any substance that contains at least one fully fluorinated methyl (CF3) or methylene (CF2) carbon atom (without any H/Cl/Br/I attached to it)."
+              }
+            }
+          ],
+          "unchanged": 1978,
+          "whitespace_only": 0,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 7,
+            "failed_check_digits": 9,
+            "repeated_keys": [
+              {
+                "container": "AN XVII",
+                "table": 1,
+                "key": "68"
+              },
+              {
+                "container": "AN XVII APP 6",
+                "table": 1,
+                "key": "613-175-00-9"
+              }
+            ]
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -217,6 +417,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
