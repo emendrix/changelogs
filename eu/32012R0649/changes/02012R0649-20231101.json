@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -52,6 +52,3726 @@
         "changed_within": [
           "AN I"
         ],
+        "table_entries": {
+          "tables": [
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 1,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "EC No",
+                  "CN code\n",
+                  "Subcategory\n",
+                  "Use limitation\n",
+                  "Countries for which no notification is required"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 2,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "CAS No",
+                  "EC No",
+                  "CN code\n",
+                  "Category\n",
+                  "Use limitation\n"
+                ]
+              ]
+            },
+            {
+              "unit": "AN I",
+              "container": "AN I",
+              "table": 3,
+              "key_label": null,
+              "header": [
+                [
+                  "Chemical",
+                  "Relevant CAS number(s)",
+                  "HS code\nPure substance\n",
+                  "HS code\nMixtures containing substance\n",
+                  "Category"
+                ]
+              ]
+            }
+          ],
+          "changes": [
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "1,2-benzenedicarboxylic acid, di-c6-8-branched alkyl esters, c7-rich",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1,2-benzenedicarboxylic acid, di-c6-8-branched alkyl esters, c7-rich",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich\n",
+                    "71888-89-6",
+                    "276-158-1",
+                    "ex29173400",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71888-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-158-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "1,2-benzenedicarboxylic acid, di-c7-11-branched and linear alkyl esters",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1,2-benzenedicarboxylic acid, di-c7-11-branched and linear alkyl esters",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters\n",
+                    "68515-42-4",
+                    "271-084-6",
+                    "ex29173400",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68515-42-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-084-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "1,2-benzenedicarboxylic acid, dipentyl ester, branched and linear",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1,2-benzenedicarboxylic acid, dipentyl ester, branched and linear",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-Benzenedicarboxylic acid, dipentyl ester, branched and linear\n",
+                    "84777-06-0",
+                    "284-032-2",
+                    "ex29173400",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84777-06-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-032-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, dipentyl ester, branched and linear"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "1-bromopropane (n-propyl bromide)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "1-bromopropane (n-propyl bromide)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1-bromopropane (n-propyl bromide)\n",
+                    "106-94-5",
+                    "203-445-0",
+                    "ex29036919",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-94-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-445-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-bromopropane (n-propyl bromide)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "alpha-cypermethrin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "alpha-cypermethrin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Alpha-cypermethrin",
+                    "67375-30-8",
+                    "",
+                    "ex29269070",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67375-30-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Alpha-cypermethrin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "azimsulfuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "azimsulfuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Azimsulfuron\n",
+                    "120162-55-2",
+                    "",
+                    "ex29359090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120162-55-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Azimsulfuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "bis(2-methoxyethyl) phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "bis(2-methoxyethyl) phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(2-methoxyethyl) phthalate\n",
+                    "117-82-8",
+                    "204-212-6",
+                    "ex29173400",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-82-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-212-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-methoxyethyl) phthalate"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN I",
+              "table": 1,
+              "key": "bis(pentabromophenyl) ether",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "bis(pentabromophenyl) ether",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(pentabromophenyl) ether\n",
+                    "1163-19-5",
+                    "214-604-9",
+                    "ex29093038",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1163-19-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-604-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(pentabromophenyl) ether"
+              },
+              "after": null
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(pentabromophenyl) ether (decabromodiphenyl ether)\n",
+                    "1163-19-5",
+                    "214-604-9",
+                    "ex29093038",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1163-19-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "214-604-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(pentabromophenyl) ether (decabromodiphenyl ether)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "bromadiolone",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "bromadiolone",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bromadiolone",
+                    "28772-56-7",
+                    "249-205-9",
+                    "ex29322090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "28772-56-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "249-205-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bromadiolone"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN I",
+              "table": 1,
+              "key": "bromoxynil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "bromoxynil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bromoxynil\n",
+                    "1689-84-5\n3861-41-4\n56634-95-8\n1689-99-2",
+                    "216-882-7\n223-374-9\n260-300-4\n216-885-3",
+                    "ex29269070",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1689-84-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1689-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3861-41-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56634-95-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-882-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-885-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-374-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-300-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bromoxynil"
+              },
+              "after": null
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "bromoxynil and its butyryl, heptanoyl and octanoyl esters",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "bromoxynil and its butyryl, heptanoyl and octanoyl esters",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bromoxynil and its butyryl, heptanoyl and octanoyl esters\n",
+                    "1689-84-5\n3861-41-4\n56634-95-8\n1689-99-2",
+                    "216-882-7\n223-374-9\n260-300-4\n216-885-3",
+                    "ex29269070",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1689-84-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1689-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3861-41-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56634-95-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-882-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-885-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-374-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-300-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bromoxynil and its butyryl, heptanoyl and octanoyl esters"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "carbetamide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "carbetamide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carbetamide\n",
+                    "16118-49-3",
+                    "240-286-6",
+                    "ex29242970",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "16118-49-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-286-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbetamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "carboxin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "carboxin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carboxin\n",
+                    "5234-68-4",
+                    "226-031-1",
+                    "ex29349990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5234-68-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-031-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carboxin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "chlorophene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "chlorophene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chlorophene\n",
+                    "120-32-1",
+                    "204-385-8",
+                    "ex29081900",
+                    "p(2)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-32-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-385-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chlorophene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "cyproconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "cyproconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cyproconazole\n",
+                    "94361-06-5",
+                    "",
+                    "ex29339980",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "94361-06-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cyproconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "diisopentyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "diisopentyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diisopentyl phthalate\n",
+                    "605-50-5",
+                    "210-088-4",
+                    "ex29173400",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "605-50-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "210-088-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisopentyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "dipentyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "dipentyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dipentyl phthalate\n",
+                    "131-18-0",
+                    "205-017-9",
+                    "ex29173400",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131-18-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-017-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dipentyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "diuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "diuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diuron\n",
+                    "330-54-1",
+                    "206-354-4",
+                    "ex29242100",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "330-54-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-354-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diuron"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "epoxiconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "epoxiconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Epoxiconazole\n",
+                    "135319-73-2",
+                    "406-850-2",
+                    "ex29349990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "135319-73-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "406-850-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Epoxiconazole"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "epoxiconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Epoxiconazole\n",
+                    "135319-73-2\n133855-98-8",
+                    "406-850-2",
+                    "ex29349990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "133855-98-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "135319-73-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "406-850-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Epoxiconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "esbiothrin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "esbiothrin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Esbiothrin\n",
+                    "260359-57-7",
+                    "",
+                    "ex29162000",
+                    "p(2)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "260359-57-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Esbiothrin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "ethametsulfuron-methyl",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "ethametsulfuron-methyl",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Ethametsulfuron-methyl\n",
+                    "97780-06-8",
+                    "",
+                    "ex29359090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97780-06-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethametsulfuron-methyl"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "etridiazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "etridiazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Etridiazole\n",
+                    "2593-15-9",
+                    "219-991-8",
+                    "ex29349990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2593-15-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "219-991-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Etridiazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "famoxadone",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "famoxadone",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Famoxadone\n",
+                    "131807-57-3",
+                    "",
+                    "ex29349990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131807-57-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Famoxadone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "fenbuconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "fenbuconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fenbuconazole\n",
+                    "114369-43-6",
+                    "406-140-2",
+                    "ex29339980",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "114369-43-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "406-140-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenbuconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "fenoxycarb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "fenoxycarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fenoxycarb\n",
+                    "72490-01-8",
+                    "276-696-7",
+                    "ex29242970",
+                    "p(1)-p(2)",
+                    "b-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "72490-01-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-696-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenoxycarb"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "fluquinconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "fluquinconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fluquinconazole\n",
+                    "136426-54-5",
+                    "411-960-9",
+                    "ex29335995",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "136426-54-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "411-960-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fluquinconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "indoxacarb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "indoxacarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Indoxacarb\n",
+                    "173584-44-6\n144171-61-9",
+                    "",
+                    "ex29349990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "144171-61-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "173584-44-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Indoxacarb"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "isopyrazam",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "isopyrazam",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Isopyrazam\n",
+                    "881685-58-1",
+                    "",
+                    "ex29331990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "881685-58-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Isopyrazam"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "lufenuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "lufenuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lufenuron\n",
+                    "103055-07-8",
+                    "410-690-9",
+                    "ex29242100",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "103055-07-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "410-690-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lufenuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "metam-sodium",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "metam-sodium",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Metam-sodium",
+                    "137-42-8",
+                    "205-293-0",
+                    "ex29302000",
+                    "p(2)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "137-42-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-293-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Metam-sodium"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "metosulam",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "metosulam",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Metosulam\n",
+                    "139528-85-1",
+                    "410-240-1",
+                    "ex29359030",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "139528-85-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "410-240-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Metosulam"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "myclobutanil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "myclobutanil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Myclobutanil\n",
+                    "88671-89-0",
+                    "410-400-0",
+                    "ex29339980",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "88671-89-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "410-400-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Myclobutanil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "n-pentyl-isopentyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "n-pentyl-isopentyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "n-pentyl-isopentyl phthalate\n",
+                    "776297-69-9",
+                    "",
+                    "ex29173400",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "776297-69-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "n-pentyl-isopentyl phthalate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "nonylphenol ethoxylates (c2h4o)nc15h24o",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "nonylphenol ethoxylates (c2h4o)nc15h24o",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Nonylphenol ethoxylates (C2H4O)nC15H24O\n",
+                    "9016-45-9\n26027-38-3\n68412-54-4\n37205-87-1\n127087-87-0\nand others",
+                    "",
+                    "ex34024200\nex39072911\nex38249992",
+                    "i(1)-i(2)",
+                    "sr-sr",
+                    ""
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    "p(1)-p(2)",
+                    "b-b",
+                    null
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127087-87-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26027-38-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "37205-87-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68412-54-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9016-45-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nonylphenol ethoxylates (C2H4O)nC15H24O"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "nonylphenol ethoxylates (c2h4o)nc15h24o",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Nonylphenol ethoxylates (C2H4O)nC15H24O\n",
+                    "9016-45-9\n26027-38-3\n68412-54-4\n37205-87-1\n127087-87-0\nand others",
+                    "500-024-6\n500-045-0\n500-209-1\n932-337-2\n500-315-8\nand others",
+                    "ex34024200\nex39072911\nex38249992",
+                    "i(1)-i(2)\np(1)-p(2)",
+                    "sr-sr\nb-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127087-87-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26027-38-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "37205-87-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68412-54-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9016-45-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-024-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-045-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-209-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-315-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "932-337-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nonylphenol ethoxylates (C2H4O)nC15H24O"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "pencycuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "pencycuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pencycuron\n",
+                    "66063-05-6",
+                    "266-096-3",
+                    "ex29242100",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "66063-05-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-096-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pencycuron"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds\n",
+                    "335-67-1\nand others",
+                    "206-397-9\nand others",
+                    "ex29159070\nand others",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds\n",
+                    "335-67-1\nand others",
+                    "206-397-9\nand others",
+                    "ex29159070",
+                    "i(1)-i(2)",
+                    "sr-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-397-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "phosmet",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "phosmet",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Phosmet\n",
+                    "732-11-6",
+                    "211-987-4",
+                    "ex29309098",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "732-11-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-987-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phosmet"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "prochloraz",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "prochloraz",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Prochloraz\n",
+                    "67747-09-5",
+                    "266-994-5",
+                    "ex29332990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67747-09-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-994-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Prochloraz"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "profoxydim",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "profoxydim",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Profoxydim\n",
+                    "139001-49-3",
+                    "",
+                    "ex29349990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "139001-49-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Profoxydim"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "spirodiclofen",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "spirodiclofen",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Spirodiclofen\n",
+                    "148477-71-8",
+                    "",
+                    "ex29322090",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "148477-71-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Spirodiclofen"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 1,
+              "key": "triflumizole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "triflumizole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triflumizole\n",
+                    "68694-11-1",
+                    "",
+                    "ex29332990",
+                    "p(1)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68694-11-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triflumizole"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 1,
+              "key": "triflumuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "triflumuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triflumuron",
+                    "64628-44-0",
+                    "264-980-3",
+                    "ex29242100",
+                    "p(2)",
+                    "b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64628-44-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "264-980-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triflumuron"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 1,
+                "key": "triflumuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triflumuron\n",
+                    "64628-44-0",
+                    "264-980-3",
+                    "ex29242100",
+                    "p(1)-p(2)",
+                    "b-b",
+                    ""
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64628-44-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "264-980-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triflumuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "1,2-benzenedicarboxylic acid, di-c6-8-branched alkyl esters, c7-rich",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "1,2-benzenedicarboxylic acid, di-c6-8-branched alkyl esters, c7-rich",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich",
+                    "71888-89-6",
+                    "276-158-1",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "71888-89-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-158-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, di-C6-8-branched alkyl esters, C7-rich"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "1,2-benzenedicarboxylic acid, di-c7-11-branched and linear alkyl esters",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "1,2-benzenedicarboxylic acid, di-c7-11-branched and linear alkyl esters",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters",
+                    "68515-42-4",
+                    "271-084-6",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68515-42-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "271-084-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, di-C7-11-branched and linear alkyl esters"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "1,2-benzenedicarboxylic acid, dipentyl ester, branched and linear",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "1,2-benzenedicarboxylic acid, dipentyl ester, branched and linear",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1,2-Benzenedicarboxylic acid, dipentyl ester, branched and linear",
+                    "84777-06-0",
+                    "284-032-2",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "84777-06-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "284-032-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1,2-Benzenedicarboxylic acid, dipentyl ester, branched and linear"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "1-bromopropane (n-propyl bromide)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "1-bromopropane (n-propyl bromide)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "1-bromopropane (n-propyl bromide)",
+                    "106-94-5",
+                    "203-445-0",
+                    "ex29036919",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "106-94-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "203-445-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "1-bromopropane (n-propyl bromide)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "azimsulfuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "azimsulfuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Azimsulfuron",
+                    "120162-55-2",
+                    "",
+                    "ex29359090",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120162-55-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Azimsulfuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "bis(2-methoxyethyl) phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "bis(2-methoxyethyl) phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(2-methoxyethyl) phthalate",
+                    "117-82-8",
+                    "204-212-6",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "117-82-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-212-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(2-methoxyethyl) phthalate"
+              }
+            },
+            {
+              "kind": "removed",
+              "container": "AN I",
+              "table": 2,
+              "key": "bromoxynil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "bromoxynil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bromoxynil",
+                    "1689-84-5\n3861-41-4\n56634-95-8\n1689-99-2",
+                    "216-882-7\n223-374-9\n260-300-4\n216-885-3",
+                    "ex29269070",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1689-84-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1689-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3861-41-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56634-95-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-882-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-885-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-374-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-300-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bromoxynil"
+              },
+              "after": null
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "bromoxynil and its butyryl, heptanoyl and octanoyl esters",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "bromoxynil and its butyryl, heptanoyl and octanoyl esters",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bromoxynil and its butyryl, heptanoyl and octanoyl esters",
+                    "1689-84-5\n3861-41-4\n56634-95-8\n1689-99-2",
+                    "216-882-7\n223-374-9\n260-300-4\n216-885-3",
+                    "ex29269070",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1689-84-5"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "1689-99-2"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "3861-41-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "56634-95-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-882-7"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "216-885-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "223-374-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "260-300-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bromoxynil and its butyryl, heptanoyl and octanoyl esters"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "carbetamide",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "carbetamide",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carbetamide",
+                    "16118-49-3",
+                    "240-286-6",
+                    "ex29242970",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "16118-49-3"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "240-286-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carbetamide"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "carboxin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "carboxin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Carboxin",
+                    "5234-68-4",
+                    "226-031-1",
+                    "ex29349990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "5234-68-4"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "226-031-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Carboxin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "chlorfenvinphos",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "chlorfenvinphos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chlorfenvinphos",
+                    "470-90-6",
+                    "207-432-0",
+                    "ex29199000",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "470-90-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "207-432-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chlorfenvinphos"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "chlorophene",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "chlorophene",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Chlorophene",
+                    "120-32-1",
+                    "204-385-8",
+                    "ex29081900",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "120-32-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "204-385-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Chlorophene"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "cyfluthrin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "cyfluthrin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cyfluthrin",
+                    "68359-37-5",
+                    "269-855-7",
+                    "ex29269070",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68359-37-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "269-855-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cyfluthrin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "cyproconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "cyproconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Cyproconazole",
+                    "94361-06-5",
+                    "",
+                    "ex29339980",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "94361-06-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Cyproconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "diisopentyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "diisopentyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diisopentyl phthalate",
+                    "605-50-5",
+                    "210-088-4",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "605-50-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "210-088-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diisopentyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "dipentyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "dipentyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Dipentyl phthalate",
+                    "131-18-0",
+                    "205-017-9",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131-18-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "205-017-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Dipentyl phthalate"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "diuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "diuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Diuron",
+                    "330-54-1",
+                    "206-354-4",
+                    "ex29242100",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "330-54-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "206-354-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Diuron"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 2,
+              "key": "epoxiconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "epoxiconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Epoxiconazole",
+                    "135319-73-2",
+                    "406-850-2",
+                    "ex29349990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "135319-73-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "406-850-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Epoxiconazole"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "epoxiconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Epoxiconazole",
+                    "135319-73-2\n133855-98-8",
+                    "406-850-2",
+                    "ex29349990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "133855-98-8"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "135319-73-2"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "406-850-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Epoxiconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "esbiothrin",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "esbiothrin",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Esbiothrin",
+                    "260359-57-7",
+                    "",
+                    "ex29162000",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "260359-57-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Esbiothrin"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "ethametsulfuron-methyl",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "ethametsulfuron-methyl",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Ethametsulfuron-methyl",
+                    "97780-06-8",
+                    "",
+                    "ex29359090",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "97780-06-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Ethametsulfuron-methyl"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "etridiazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "etridiazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Etridiazole",
+                    "2593-15-9",
+                    "219-991-8",
+                    "ex29349990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "2593-15-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "219-991-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Etridiazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "famoxadone",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "famoxadone",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Famoxadone",
+                    "131807-57-3",
+                    "",
+                    "ex29349990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "131807-57-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Famoxadone"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "fenbuconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "fenbuconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fenbuconazole",
+                    "114369-43-6",
+                    "406-140-2",
+                    "ex29339980",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "114369-43-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "406-140-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenbuconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "fenoxycarb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "fenoxycarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fenoxycarb",
+                    "72490-01-8",
+                    "276-696-7",
+                    "ex29242970",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "72490-01-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "276-696-7"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fenoxycarb"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "fluquinconazole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "fluquinconazole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Fluquinconazole",
+                    "136426-54-5",
+                    "411-960-9",
+                    "ex29335995",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "136426-54-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "411-960-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Fluquinconazole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "indoxacarb",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "indoxacarb",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Indoxacarb",
+                    "173584-44-6\n144171-61-9",
+                    "",
+                    "ex29349990",
+                    "p",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "144171-61-9"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "173584-44-6"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Indoxacarb"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "isopyrazam",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "isopyrazam",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Isopyrazam",
+                    "881685-58-1",
+                    "",
+                    "ex29331990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "881685-58-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Isopyrazam"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "lufenuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "lufenuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Lufenuron",
+                    "103055-07-8",
+                    "410-690-9",
+                    "ex29242100",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "103055-07-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "410-690-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Lufenuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "metosulam",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "metosulam",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Metosulam",
+                    "139528-85-1",
+                    "410-240-1",
+                    "ex29359030",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "139528-85-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "410-240-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Metosulam"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "myclobutanil",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "myclobutanil",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Myclobutanil",
+                    "88671-89-0",
+                    "410-400-0",
+                    "ex29339980",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "88671-89-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "410-400-0"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Myclobutanil"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "n-pentyl-isopentyl phthalate",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "n-pentyl-isopentyl phthalate",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "n-pentyl-isopentyl phthalate",
+                    "776297-69-9",
+                    "",
+                    "ex29173400",
+                    "i",
+                    "sr"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "776297-69-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "n-pentyl-isopentyl phthalate"
+              }
+            },
+            {
+              "kind": "amended",
+              "container": "AN I",
+              "table": 2,
+              "key": "nonylphenol ethoxylates (c2h4o)nc15h24o",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "nonylphenol ethoxylates (c2h4o)nc15h24o",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Nonylphenol ethoxylates (C2H4O)nC15H24O",
+                    "9016-45-9\n26027-38-3\n68412-54-4\n37205-87-1\n127087-87-0\nand others",
+                    "",
+                    "ex34024200\nex39072911\nex38249992",
+                    "i",
+                    "sr"
+                  ],
+                  [
+                    null,
+                    null,
+                    null,
+                    null,
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127087-87-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26027-38-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "37205-87-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68412-54-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9016-45-9"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nonylphenol ethoxylates (C2H4O)nC15H24O"
+              },
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "nonylphenol ethoxylates (c2h4o)nc15h24o",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Nonylphenol ethoxylates (C2H4O)nC15H24O",
+                    "9016-45-9\n26027-38-3\n68412-54-4\n37205-87-1\n127087-87-0\nand others",
+                    "500-024-6\n500-045-0\n500-209-1\n932-337-2\n500-315-8\nand others",
+                    "ex34024200\nex39072911\nex38249992",
+                    "i\np",
+                    "sr\nb"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "127087-87-0"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "26027-38-3"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "37205-87-1"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "68412-54-4"
+                  },
+                  {
+                    "scheme": "cas",
+                    "value": "9016-45-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-024-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-045-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-209-1"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "500-315-8"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "932-337-2"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Nonylphenol ethoxylates (C2H4O)nC15H24O"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "pencycuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "pencycuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Pencycuron",
+                    "66063-05-6",
+                    "266-096-3",
+                    "ex29242100",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "66063-05-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-096-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Pencycuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "phosmet",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "phosmet",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Phosmet",
+                    "732-11-6",
+                    "211-987-4",
+                    "ex29309098",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "732-11-6"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "211-987-4"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Phosmet"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "prochloraz",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "prochloraz",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Prochloraz",
+                    "67747-09-5",
+                    "266-994-5",
+                    "ex29332990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "67747-09-5"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "266-994-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Prochloraz"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "profoxydim",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "profoxydim",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Profoxydim",
+                    "139001-49-3",
+                    "",
+                    "ex29349990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "139001-49-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Profoxydim"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "spirodiclofen",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "spirodiclofen",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Spirodiclofen",
+                    "148477-71-8",
+                    "",
+                    "ex29322090",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "148477-71-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Spirodiclofen"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "terbufos",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "terbufos",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Terbufos",
+                    "13071-79-9",
+                    "235-963-8",
+                    "ex29309098",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "13071-79-9"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "235-963-8"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Terbufos"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "triflumizole",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "triflumizole",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triflumizole",
+                    "68694-11-1",
+                    "",
+                    "ex29332990",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "68694-11-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triflumizole"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 2,
+              "key": "triflumuron",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 2,
+                "key": "triflumuron",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Triflumuron",
+                    "64628-44-0",
+                    "264-980-3",
+                    "ex29242100",
+                    "p",
+                    "b"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "64628-44-0"
+                  },
+                  {
+                    "scheme": "ec",
+                    "value": "264-980-3"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Triflumuron"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether)",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "bis(pentabromophenyl) ether (decabromodiphenyl ether)",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Bis(pentabromophenyl) ether (decabromodiphenyl ether)",
+                    "1163-19-5",
+                    "2909.30",
+                    "3824.99",
+                    "Industrial"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "1163-19-5"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Bis(pentabromophenyl) ether (decabromodiphenyl ether)"
+              }
+            },
+            {
+              "kind": "added",
+              "container": "AN I",
+              "table": 3,
+              "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds",
+              "occurrence": 1,
+              "typography_only": false,
+              "before": null,
+              "after": {
+                "unit": "AN I",
+                "container": "AN I",
+                "table": 3,
+                "key": "perfluorooctanoic acid (pfoa), its salts and pfoa-related compounds",
+                "occurrence": 1,
+                "group": null,
+                "rows": [
+                  [
+                    "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds",
+                    "335-67-1\nand others",
+                    "2915.90\nand others",
+                    "",
+                    "Industrial"
+                  ]
+                ],
+                "identifiers": [
+                  {
+                    "scheme": "cas",
+                    "value": "335-67-1"
+                  }
+                ],
+                "failed_check_digits": 0,
+                "name": "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
+              }
+            }
+          ],
+          "unchanged": 457,
+          "whitespace_only": 3,
+          "unpaired": [],
+          "gaps_before": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          },
+          "gaps_after": {
+            "unrecognised_tables": 0,
+            "unkeyed_rows": 1,
+            "failed_check_digits": 2,
+            "repeated_keys": []
+          }
+        },
         "amending_acts": [
           {
             "corpus": "eu",
@@ -350,6 +4070,20 @@
     {
       "kind": "signals",
       "repaired_on": "2026-10-08",
+      "addressed": 1,
+      "repaired": 1,
+      "remaining": 0,
+      "usage": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "requests": 0,
+        "schema_repairs": 0
+      },
+      "coordinates_checked": false
+    },
+    {
+      "kind": "tables",
+      "repaired_on": "2026-10-17",
       "addressed": 1,
       "repaired": 1,
       "remaining": 0,
