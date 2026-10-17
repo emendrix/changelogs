@@ -2960,6 +2960,8 @@ The remainder of the visible text of Annex XVII, including the other numbered en
 
 *within* `AN XVII` · *dates* +2021-02-03 · *amended by* `32016R0026`
 
+Table entries: 1 added, 1 amended (1 only in spacing, dash forms or accents), 0 removed: Entry 46a, Entry 50
+
 *No explanation shipped — the difference between the two versions lies beyond the characters this stage can show, so no explanation was requested.*
 
 *before* (`02006R1907-20151227`)
