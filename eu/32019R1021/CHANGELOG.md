@@ -776,6 +776,8 @@ The entry for Pentachlorophenol and its salts and esters, which previously carri
 
 *within* `AN I` · *dates* +2023-02-22 · *amended by* `32021R0115`
 
+Table entries: 0 added, 1 amended, 0 removed: "Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds"
+
 In point 3 of the PFOA entry, the earlier text referred to fluorochemicals with a carbon chain equal to or shorter than 6 atoms, while the later text specifies a perfluoro carbon chain equal to or shorter than 6 atoms. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200907#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20210222#anx_I)
 
 In point 4 of the PFOA entry, the earlier text limited the ionising irradiation process for producing PTFE micropowders to up to 400 kilograys, whereas the later text removes that dose limit and simply refers to ionising irradiation. [Annex I, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20200907#anx_I) [Annex I, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R1021-20210222#anx_I)
