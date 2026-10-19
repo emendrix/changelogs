@@ -1,0 +1,4916 @@
+{
+  "twins_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "method": {
+    "measure": "word-ratio",
+    "floor": 0.9,
+    "verified_on": "2026-10-19"
+  },
+  "a": {
+    "corpus": "eu",
+    "key": "32010R1093",
+    "version": "02010R1093-20251231"
+  },
+  "b": {
+    "corpus": "eu",
+    "key": "32010R1094",
+    "version": "02010R1094-20251110"
+  },
+  "pairs": [
+    {
+      "a": "AR 2",
+      "b": "AR 2",
+      "ratio": 0.949,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 2 PA 1",
+          "b": "AR 2 PA 1",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 2 PA 1 ALN 1",
+          "b": "AR 2 PA 1 ALN 1",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 2 PA 3",
+          "b": "AR 2 PA 3",
+          "ratio": 0.958
+        },
+        {
+          "a": "AR 2 PA 3 ALN 1",
+          "b": "AR 2 PA 3 ALN 1",
+          "ratio": 0.957
+        },
+        {
+          "a": "AR 2 PA 4",
+          "b": "AR 2 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 2 PA 4 ALN 1",
+          "b": "AR 2 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 2 PA 5",
+          "b": "AR 2 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 2 PA 5 ALN 1",
+          "b": "AR 2 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 2 PA 5 ALN 2",
+          "b": "AR 2 PA 5 ALN 2",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 3",
+      "b": "AR 3",
+      "ratio": 0.949,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 3 PA 2",
+          "b": "AR 3 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 2 ALN 1",
+          "b": "AR 3 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 3",
+          "b": "AR 3 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 3 ALN 1",
+          "b": "AR 3 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 4",
+          "b": "AR 3 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 4 ALN 1",
+          "b": "AR 3 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 5",
+          "b": "AR 3 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 5 ALN 1",
+          "b": "AR 3 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 6",
+          "b": "AR 3 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 6 ALN 1",
+          "b": "AR 3 PA 6 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 7",
+          "b": "AR 3 PA 7",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 7 ALN 1",
+          "b": "AR 3 PA 7 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 8",
+          "b": "AR 3 PA 8",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 8 ALN 1",
+          "b": "AR 3 PA 8 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 9",
+          "b": "AR 3 PA 9",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 3 PA 9 ALN 1",
+          "b": "AR 3 PA 9 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "European Parliament and to the Council. The European Central Bank shall be accountable to the European Parliament and to the Council with regard to the exercise of the supervisory tasks conferred on it by Regulation (EU) No 1024/2013 in accordance with that Regulation. 2. In accordance with Article 226",
+          "b": "European Parliament and to the Council. 2. In accordance with Article 226",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 5",
+      "b": "AR 5",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 5 PA 1",
+          "b": "AR 5 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 5 PA 1 ALN 1",
+          "b": "AR 5 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 5 PA 2",
+          "b": "AR 5 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 5 PA 2 ALN 1",
+          "b": "AR 5 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 5 PA 3",
+          "b": "AR 5 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 5 PA 3 ALN 1",
+          "b": "AR 5 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 6",
+      "b": "AR 6",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 6 ALN 1",
+          "b": "AR 6 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 ALN 1 PO 1",
+          "b": "AR 6 ALN 1 PO 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 ALN 1 PO 2",
+          "b": "AR 6 ALN 1 PO 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 ALN 1 PO 3",
+          "b": "AR 6 ALN 1 PO 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 ALN 1 PO 4",
+          "b": "AR 6 ALN 1 PO 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 ALN 1 PO 5",
+          "b": "AR 6 ALN 1 PO 5",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 9",
+      "b": "AR 9",
+      "ratio": 0.978,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 9 PA 1",
+          "b": "AR 9 PA 1",
+          "ratio": 0.922
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1",
+          "b": "AR 9 PA 1 ALN 1",
+          "ratio": 0.922
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1 PTA (a)",
+          "b": "AR 9 PA 1 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1 PTA (aa)",
+          "b": "AR 9 PA 1 ALN 1 PTA (aa)",
+          "ratio": 0.96
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1 PTA (ab)",
+          "b": "AR 9 PA 1 ALN 1 PTA (ab)",
+          "ratio": 0.938
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1 PTA (b)",
+          "b": "AR 9 PA 1 ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1 PTA (c)",
+          "b": "AR 9 PA 1 ALN 1 PTA (c)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1 PTA (d)",
+          "b": "AR 9 PA 1 ALN 1 PTA (d)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1 PTA (e)",
+          "b": "AR 9 PA 1 ALN 1 PTA (e)",
+          "ratio": 0.982
+        },
+        {
+          "a": "AR 9 PA 1 ALN 1 PTA (g)",
+          "b": "AR 9 PA 1 ALN 1 PTA (f)",
+          "ratio": 0.9
+        },
+        {
+          "a": "AR 9 PA 2",
+          "b": "AR 9 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 2 ALN 1",
+          "b": "AR 9 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 3",
+          "b": "AR 9 PA 3",
+          "ratio": 0.962
+        },
+        {
+          "a": "AR 9 PA 3 ALN 1",
+          "b": "AR 9 PA 3 ALN 1",
+          "ratio": 0.96
+        },
+        {
+          "a": "AR 9 PA 4",
+          "b": "AR 9 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 4 ALN 1",
+          "b": "AR 9 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 5",
+          "b": "AR 9 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 5 ALN 1",
+          "b": "AR 9 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 5 ALN 2",
+          "b": "AR 9 PA 5 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 5 ALN 3",
+          "b": "AR 9 PA 5 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9 PA 5 ALN 4",
+          "b": "AR 9 PA 5 ALN 4",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "conduct, building a common understanding of market practices in order to identify potential",
+          "b": "conduct, building a common understanding of markets practices in order to identify potential",
+          "cut": false
+        },
+        {
+          "a": "identification of potential causes of consumer harm; (b) reviewing and coordinating financial",
+          "b": "identification of potential causes of consumer and investor harm; (b) reviewing and coordinating financial",
+          "cut": false
+        },
+        {
+          "a": "access to financial services and products; (f) fostering further developments in terms",
+          "b": "access to financial services and products; and (f) coordinating mystery shopping activities of",
+          "cut": false
+        },
+        {
+          "a": "to financial services and products; (f) fostering further developments in terms of regulation and supervision which could facilitate deeper harmonisation and integration at the Union level; and (g) coordinating mystery shopping activities of competent",
+          "b": "financial services and products; and (f) coordinating mystery shopping activities of competent",
+          "cut": false
+        },
+        {
+          "a": "the objectives laid down in Article 1(5). 4. The Authority shall establish, as",
+          "b": "the objectives laid down in Article 1(6). 4. The Authority shall establish, as",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 9c",
+      "b": "AR 9a",
+      "ratio": 0.992,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 9c PA 1",
+          "b": "AR 9a PA 1",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 9c PA 1 ALN 1",
+          "b": "AR 9a PA 1 ALN 1",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 9c PA 1 ALN 1 PTA (a)",
+          "b": "AR 9a PA 1 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 1 ALN 1 PTA (b)",
+          "b": "AR 9a PA 1 ALN 1 PTA (b)",
+          "ratio": 0.979
+        },
+        {
+          "a": "AR 9c PA 1 ALN 1 PTA (c)",
+          "b": "AR 9a PA 1 ALN 1 PTA (c)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 2",
+          "b": "AR 9a PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 2 ALN 1",
+          "b": "AR 9a PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 2 ALN 2",
+          "b": "AR 9a PA 2 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 2 ALN 3",
+          "b": "AR 9a PA 2 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 2 ALN 4",
+          "b": "AR 9a PA 2 ALN 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 3",
+          "b": "AR 9a PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 3 ALN 1",
+          "b": "AR 9a PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 9c PA 4",
+          "b": "AR 9a PA 4",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 9c PA 4 ALN 1",
+          "b": "AR 9a PA 4 ALN 1",
+          "ratio": 0.986
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 9c No action letters 1. The Authority",
+          "b": "Article 9a No action letters 1. The Authority",
+          "cut": false
+        },
+        {
+          "a": "the legislative act or its proper application; (c) the absence of guidelines and",
+          "b": "the legislative act or its proper application, (c) the absence of guidelines and",
+          "cut": false
+        },
+        {
+          "a": "financial system in the Union, it shall, without undue delay, send a detailed",
+          "b": "financial system in the Union, it shall without undue delay send a detailed",
+          "cut": false
+        },
+        {
+          "a": "the Union, it shall, without undue delay, send a detailed account in writing",
+          "b": "the Union, it shall without undue delay send a detailed account in writing",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 10",
+      "b": "AR 10",
+      "ratio": 0.994,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 10 PA 1",
+          "b": "AR 10 PA 1",
+          "ratio": 0.994
+        },
+        {
+          "a": "AR 10 PA 1 ALN 1",
+          "b": "AR 10 PA 1 ALN 1",
+          "ratio": 0.994
+        },
+        {
+          "a": "AR 10 PA 2",
+          "b": "AR 10 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 10 PA 2 ALN 1",
+          "b": "AR 10 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 10 PA 3",
+          "b": "AR 10 PA 3",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 10 PA 3 ALN 1",
+          "b": "AR 10 PA 3 ALN 1",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 10 PA 4",
+          "b": "AR 10 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 10 PA 4 ALN 1",
+          "b": "AR 10 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "also request the advice of the Banking Stakeholder Group referred to in Article",
+          "b": "also request the advice of the relevant Stakeholder Group referred to in Article",
+          "cut": false
+        },
+        {
+          "a": "explaining why it does not adopt it or explaining the reasons for its",
+          "b": "explaining why it does not adopt it, or explaining the reasons for its",
+          "cut": false
+        },
+        {
+          "a": "standard with the amendments it considers relevant, or reject it. The Commission may",
+          "b": "standard with the amendments it considers relevant or reject it. The Commission may",
+          "cut": false
+        },
+        {
+          "a": "also request the advice of the Banking Stakeholder Group referred to in Article",
+          "b": "also request the advice of the relevant Stakeholder Group referred to in Article",
+          "cut": false
+        },
+        {
+          "a": "European Parliament and to the Council. If on the expiry of the six-week",
+          "b": "European Parliament and to the Council. If, on the expiry of the six-week",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 11",
+      "b": "AR 11",
+      "ratio": 0.985,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 11 PA 1",
+          "b": "AR 11 PA 1",
+          "ratio": 0.976
+        },
+        {
+          "a": "AR 11 PA 1 ALN 1",
+          "b": "AR 11 PA 1 ALN 1",
+          "ratio": 0.976
+        },
+        {
+          "a": "AR 11 PA 2",
+          "b": "AR 11 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 11 PA 2 ALN 1",
+          "b": "AR 11 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 11 PA 3",
+          "b": "AR 11 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 11 PA 3 ALN 1",
+          "b": "AR 11 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "the Commission for a period of 4 years from 16 December 2010 .",
+          "b": "the Commission for a period of four years from 16 December 2010 .",
+          "cut": false
+        },
+        {
+          "a": "months before the end of the 4-year period. The delegation of power shall",
+          "b": "months before the end of the four-year period. The delegation of power shall",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 12",
+      "b": "AR 12",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 12 PA 1",
+          "b": "AR 12 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 12 PA 1 ALN 1",
+          "b": "AR 12 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 12 PA 2",
+          "b": "AR 12 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 12 PA 2 ALN 1",
+          "b": "AR 12 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 12 PA 3",
+          "b": "AR 12 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 12 PA 3 ALN 1",
+          "b": "AR 12 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 13",
+      "b": "AR 13",
+      "ratio": 0.923,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 13 PA 2",
+          "b": "AR 13 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 13 PA 2 ALN 1",
+          "b": "AR 13 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 13 PA 3",
+          "b": "AR 13 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 13 PA 3 ALN 1",
+          "b": "AR 13 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 14",
+      "b": "AR 14",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 14 PA 1",
+          "b": "AR 14 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 14 PA 1 ALN 1",
+          "b": "AR 14 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 14 PA 2",
+          "b": "AR 14 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 14 PA 2 ALN 1",
+          "b": "AR 14 PA 2 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 15",
+      "b": "AR 15",
+      "ratio": 0.997,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 15 PA 1",
+          "b": "AR 15 PA 1",
+          "ratio": 0.996
+        },
+        {
+          "a": "AR 15 PA 1 ALN 1",
+          "b": "AR 15 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 1 ALN 2",
+          "b": "AR 15 PA 1 ALN 2",
+          "ratio": 0.986
+        },
+        {
+          "a": "AR 15 PA 1 ALN 3",
+          "b": "AR 15 PA 1 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 1 ALN 4",
+          "b": "AR 15 PA 1 ALN 4",
+          "ratio": 0.991
+        },
+        {
+          "a": "AR 15 PA 1 ALN 5",
+          "b": "AR 15 PA 1 ALN 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 1 ALN 6",
+          "b": "AR 15 PA 1 ALN 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 2",
+          "b": "AR 15 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 2 ALN 1",
+          "b": "AR 15 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 3",
+          "b": "AR 15 PA 3",
+          "ratio": 0.997
+        },
+        {
+          "a": "AR 15 PA 3 ALN 1",
+          "b": "AR 15 PA 3 ALN 1",
+          "ratio": 0.997
+        },
+        {
+          "a": "AR 15 PA 4",
+          "b": "AR 15 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 4 ALN 1",
+          "b": "AR 15 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "also request the advice of the Banking Stakeholder Group referred to in Article",
+          "b": "also request the advice of the relevant Stakeholder Group referred to in Article",
+          "cut": false
+        },
+        {
+          "a": "it does not intend to adopt it or explaining the reasons for its",
+          "b": "it does not intend to adopt it, or explaining the reasons for its",
+          "cut": false
+        },
+        {
+          "a": "also request the advice of the Banking Stakeholder Group referred to in Article",
+          "b": "also request the advice of the relevant Stakeholder Group referred to in Article",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 16",
+      "b": "AR 16",
+      "ratio": 0.971,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 16 PA 1",
+          "b": "AR 16 PA 1",
+          "ratio": 0.988
+        },
+        {
+          "a": "AR 16 PA 1 ALN 1",
+          "b": "AR 16 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 1 ALN 2",
+          "b": "AR 16 PA 1 ALN 2",
+          "ratio": 0.958
+        },
+        {
+          "a": "AR 16 PA 2a",
+          "b": "AR 16 PA 2a",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 2a ALN 1",
+          "b": "AR 16 PA 2a ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 3",
+          "b": "AR 16 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 3 ALN 1",
+          "b": "AR 16 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 4",
+          "b": "AR 16 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 4 ALN 1",
+          "b": "AR 16 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "in accordance with the empowerments conferred by the legislative acts referred to in",
+          "b": "in accordance with the empowerments conferred in the legislative acts referred to in",
+          "cut": false
+        },
+        {
+          "a": "appropriate, also request advice from the Banking Stakeholder Group referred to in Article",
+          "b": "appropriate, also request advice from the Insurance and Reinsurance Stakeholder Group and of the Occupational Pensions Stakeholder Group referred to in Article",
+          "cut": false
+        },
+        {
+          "a": "does not request advice from the Banking Stakeholder Group, the Authority shall provide",
+          "b": "does not request advice from the Insurance and Reinsurance Stakeholder Group and of the Occupational Pensions Stakeholder Group, the Authority shall provide",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 16a",
+      "b": "AR 16a",
+      "ratio": 0.908,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 16a PA 1",
+          "b": "AR 16a PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16a PA 1 ALN 1",
+          "b": "AR 16a PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16a PA 1 ALN 2",
+          "b": "AR 16a PA 1 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16a PA 1 ALN 3",
+          "b": "AR 16a PA 1 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16a PA 2",
+          "b": "AR 16a PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16a PA 2 ALN 1",
+          "b": "AR 16a PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16a PA 4",
+          "b": "AR 16a PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16a PA 4 ALN 1",
+          "b": "AR 16a PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 16b",
+      "b": "AR 16b",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 16b PA 1",
+          "b": "AR 16b PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 1 ALN 1",
+          "b": "AR 16b PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 1 ALN 2",
+          "b": "AR 16b PA 1 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 1 ALN 3",
+          "b": "AR 16b PA 1 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 2",
+          "b": "AR 16b PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 2 ALN 1",
+          "b": "AR 16b PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 3",
+          "b": "AR 16b PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 3 ALN 1",
+          "b": "AR 16b PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 4",
+          "b": "AR 16b PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 4 ALN 1",
+          "b": "AR 16b PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 5",
+          "b": "AR 16b PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16b PA 5 ALN 1",
+          "b": "AR 16b PA 5 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 17",
+      "b": "AR 17",
+      "ratio": 0.986,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 17 PA 1",
+          "b": "AR 17 PA 1",
+          "ratio": 0.988
+        },
+        {
+          "a": "AR 17 PA 1 ALN 1",
+          "b": "AR 17 PA 1 ALN 1",
+          "ratio": 0.988
+        },
+        {
+          "a": "AR 17 PA 2",
+          "b": "AR 17 PA 2",
+          "ratio": 0.979
+        },
+        {
+          "a": "AR 17 PA 2 ALN 1",
+          "b": "AR 17 PA 2 ALN 1",
+          "ratio": 0.978
+        },
+        {
+          "a": "AR 17 PA 2a",
+          "b": "AR 17 PA 2a",
+          "ratio": 0.967
+        },
+        {
+          "a": "AR 17 PA 2a ALN 1",
+          "b": "AR 17 PA 2a ALN 1",
+          "ratio": 0.967
+        },
+        {
+          "a": "AR 17 PA 3",
+          "b": "AR 17 PA 3",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 17 PA 3 ALN 1",
+          "b": "AR 17 PA 3 ALN 1",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 17 PA 4",
+          "b": "AR 17 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 4 ALN 1",
+          "b": "AR 17 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 5",
+          "b": "AR 17 PA 5",
+          "ratio": 0.976
+        },
+        {
+          "a": "AR 17 PA 5 ALN 1",
+          "b": "AR 17 PA 5 ALN 1",
+          "ratio": 0.976
+        },
+        {
+          "a": "AR 17 PA 6",
+          "b": "AR 17 PA 6",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 17 PA 6 ALN 1",
+          "b": "AR 17 PA 6 ALN 1",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 17 PA 6 ALN 2",
+          "b": "AR 17 PA 6 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 7",
+          "b": "AR 17 PA 7",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 7 ALN 1",
+          "b": "AR 17 PA 7 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 7 ALN 2",
+          "b": "AR 17 PA 7 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 8",
+          "b": "AR 17 PA 8",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 8 ALN 1",
+          "b": "AR 17 PA 8 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "the acts referred to in Article 1(2), or has applied them in a",
+          "b": "the acts referred to in Article 1(2) or has applied them in a",
+          "cut": false
+        },
+        {
+          "a": "Parliament, the Council, the Commission, the Banking Stakeholder Group, or on its own",
+          "b": "Parliament, the Council, the Commission, the relevant Stakeholder Group, or on its own",
+          "cut": false
+        },
+        {
+          "a": "including when this is based on well- substantiated information from natural or legal",
+          "b": "including when this is based on well substantiated information from natural or legal",
+          "cut": false
+        },
+        {
+          "a": "the Authority considers necessary for its investigation including as to how the acts",
+          "b": "the Authority considers necessary for its investigation, including with regard to how the",
+          "cut": false
+        },
+        {
+          "a": "considers necessary for its investigation including as to how the acts referred to",
+          "b": "considers necessary for its investigation, including with regard to how the acts referred to",
+          "cut": false
+        },
+        {
+          "a": "Without prejudice to powers under this Regulation and before issuing a recommendation as",
+          "b": "Without prejudice to powers under this Regulation, and before issuing a recommendation as",
+          "cut": false
+        },
+        {
+          "a": "shall engage with the competent authority concerned, where it considers such engagement appropriate",
+          "b": "shall engage with the competent authority concerned where it considers such engagement appropriate",
+          "cut": false
+        },
+        {
+          "a": "law. The competent authority shall, within 10 working days of receipt of the",
+          "b": "law. The competent authority shall, within ten working days of receipt of the",
+          "cut": false
+        },
+        {
+          "a": "5. The competent authority shall, within 10 working days of receipt of the",
+          "b": "5. The competent authority shall, within ten working days of receipt of the",
+          "cut": false
+        },
+        {
+          "a": "and where it is necessary to remedy, in a timely manner, such non-compliance",
+          "b": "and where it is necessary to remedy in a timely manner such non-compliance",
+          "cut": false
+        },
+        {
+          "a": "necessary to remedy, in a timely manner, such non-compliance in order to maintain",
+          "b": "necessary to remedy in a timely manner such non-compliance in order to maintain",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 17a",
+      "b": "AR 17a",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 17a PA 1",
+          "b": "AR 17a PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17a PA 1 ALN 1",
+          "b": "AR 17a PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17a PA 2",
+          "b": "AR 17a PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17a PA 2 ALN 1",
+          "b": "AR 17a PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17a PA 3",
+          "b": "AR 17a PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17a PA 3 ALN 1",
+          "b": "AR 17a PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 18",
+      "b": "AR 18",
+      "ratio": 0.993,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 18 PA 1",
+          "b": "AR 18 PA 1",
+          "ratio": 0.989
+        },
+        {
+          "a": "AR 18 PA 2",
+          "b": "AR 18 PA 2",
+          "ratio": 0.994
+        },
+        {
+          "a": "AR 18 PA 2 ALN 1",
+          "b": "AR 18 PA 2 ALN 1",
+          "ratio": 0.994
+        },
+        {
+          "a": "AR 18 PA 3",
+          "b": "AR 18 PA 3",
+          "ratio": 0.991
+        },
+        {
+          "a": "AR 18 PA 3 ALN 1",
+          "b": "AR 18 PA 3 ALN 1",
+          "ratio": 0.991
+        },
+        {
+          "a": "AR 18 PA 4",
+          "b": "AR 18 PA 4",
+          "ratio": 0.992
+        },
+        {
+          "a": "AR 18 PA 4 ALN 1",
+          "b": "AR 18 PA 4 ALN 1",
+          "ratio": 0.992
+        },
+        {
+          "a": "AR 18 PA 5",
+          "b": "AR 18 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 5 ALN 1",
+          "b": "AR 18 PA 5 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "any actions undertaken by the relevant competent supervisory authorities. In order to",
+          "b": "any actions undertaken by the relevant national competent supervisory authorities. In order to",
+          "cut": false
+        },
+        {
+          "a": "any relevant gathering by the relevant competent supervisory authorities. 2. The Council,",
+          "b": "any relevant gathering by the relevant national competent supervisory authorities. 2. The Council,",
+          "cut": false
+        },
+        {
+          "a": "renewed at the end of a 1-month period, it shall automatically expire. The",
+          "b": "renewed at the end of a one-month period, it shall automatically expire. The",
+          "cut": false
+        },
+        {
+          "a": "of the financial system in the Union or customer and consumer protection, the",
+          "b": "of the financial system in the Union, or customer and consumer protection, the",
+          "cut": false
+        },
+        {
+          "a": "to the powers of the Commission pursuant to Article 258 TFEU, where a competent",
+          "b": "to the powers of the Commission under Article 258 TFEU, where a competent",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 19",
+      "b": "AR 19",
+      "ratio": 0.994,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 19 PA 1",
+          "b": "AR 19 PA 1",
+          "ratio": 0.981
+        },
+        {
+          "a": "AR 19 PA 1 ALN 1",
+          "b": "AR 19 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1 ALN 1 PTA (a)",
+          "b": "AR 19 PA 1 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1 ALN 1 PTA (b)",
+          "b": "AR 19 PA 1 ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1 ALN 2",
+          "b": "AR 19 PA 1 ALN 2",
+          "ratio": 0.953
+        },
+        {
+          "a": "AR 19 PA 1a",
+          "b": "AR 19 PA 1a",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1a ALN 1",
+          "b": "AR 19 PA 1a ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1a ALN 1 PTA (a)",
+          "b": "AR 19 PA 1a ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1a ALN 1 PTA (a) PTI (i)",
+          "b": "AR 19 PA 1a ALN 1 PTA (a) PTI (i)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1a ALN 1 PTA (a) PTI (ii)",
+          "b": "AR 19 PA 1a ALN 1 PTA (a) PTI (ii)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1a ALN 1 PTA (b)",
+          "b": "AR 19 PA 1a ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1a ALN 1 PTA (b) PTI (i)",
+          "b": "AR 19 PA 1a ALN 1 PTA (b) PTI (i)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1a ALN 1 PTA (b) PTI (ii)",
+          "b": "AR 19 PA 1a ALN 1 PTA (b) PTI (ii)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1b",
+          "b": "AR 19 PA 1b",
+          "ratio": 0.991
+        },
+        {
+          "a": "AR 19 PA 1b ALN 1",
+          "b": "AR 19 PA 1b ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 1b ALN 2",
+          "b": "AR 19 PA 1b ALN 2",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 19 PA 2",
+          "b": "AR 19 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 2 ALN 1",
+          "b": "AR 19 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 3",
+          "b": "AR 19 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 3 ALN 1",
+          "b": "AR 19 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 3a",
+          "b": "AR 19 PA 3a",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 3a ALN 1",
+          "b": "AR 19 PA 3a ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 4",
+          "b": "AR 19 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 4 ALN 1",
+          "b": "AR 19 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 5",
+          "b": "AR 19 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 5 ALN 1",
+          "b": "AR 19 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 6",
+          "b": "AR 19 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 6 ALN 1",
+          "b": "AR 19 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "decision to be taken by competent authorities and where, in accordance with those",
+          "b": "decision to be taken by competent authorities, and where in accordance with those",
+          "cut": false
+        },
+        {
+          "a": "be taken by competent authorities and where, in accordance with those acts, the",
+          "b": "be taken by competent authorities, and where in accordance with those acts the",
+          "cut": false
+        },
+        {
+          "a": "and where, in accordance with those acts, the Authority may assist, on its",
+          "b": "and where in accordance with those acts the Authority may assist, on its",
+          "cut": false
+        },
+        {
+          "a": "Authority may assist, on its own initiative, in reaching an agreement in accordance",
+          "b": "Authority may assist, on its own initiative in reaching an agreement in accordance",
+          "cut": false
+        },
+        {
+          "a": "the procedure set out in Article 44(3a), in cases where the legislative acts",
+          "b": "the procedure set out in Article 44(4), in cases where the legislative acts",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 20",
+      "b": "AR 20",
+      "ratio": 0.907,
+      "identical": false,
+      "children": [],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 21",
+      "b": "AR 21",
+      "ratio": 0.99,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 21 PA 1",
+          "b": "AR 21 PA 1",
+          "ratio": 0.982
+        },
+        {
+          "a": "AR 21 PA 1 ALN 1",
+          "b": "AR 21 PA 1 ALN 1",
+          "ratio": 0.982
+        },
+        {
+          "a": "AR 21 PA 2",
+          "b": "AR 21 PA 2",
+          "ratio": 0.989
+        },
+        {
+          "a": "AR 21 PA 2 ALN 1",
+          "b": "AR 21 PA 2 ALN 1",
+          "ratio": 0.989
+        },
+        {
+          "a": "AR 21 PA 2 ALN 1 PTA (a)",
+          "b": "AR 21 PA 2 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 2 ALN 1 PTA (b)",
+          "b": "AR 21 PA 2 ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 2 ALN 1 PTA (c)",
+          "b": "AR 21 PA 2 ALN 1 PTA (c)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 2 ALN 1 PTA (d)",
+          "b": "AR 21 PA 2 ALN 1 PTA (d)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 2 ALN 1 PTA (e)",
+          "b": "AR 21 PA 2 ALN 1 PTA (e)",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 21 PA 3",
+          "b": "AR 21 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 3 ALN 1",
+          "b": "AR 21 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 4",
+          "b": "AR 21 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 4 ALN 1",
+          "b": "AR 21 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "Colleges of supervisors 1. The Authority shall promote and monitor, within the scope",
+          "b": "Colleges of supervisors 1. The Authority shall, promote and monitor within the scope",
+          "cut": false
+        },
+        {
+          "a": "1. The Authority shall promote and monitor, within the scope of its powers,",
+          "b": "1. The Authority shall, promote and monitor within the scope of its powers,",
+          "cut": false
+        },
+        {
+          "a": "shall lead in ensuring a consistent functioning of colleges of supervisors for",
+          "b": "shall lead in ensuring a consistent and coherent functioning of colleges of supervisors for",
+          "cut": false
+        },
+        {
+          "a": "appropriate, convene a meeting of a college. For the purpose of this paragraph",
+          "b": "appropriate, convene a meeting of a college of supervisors. For the purpose of this paragraph",
+          "cut": false
+        },
+        {
+          "a": "practices. It may also require the consolidating supervisor to schedule a meeting of",
+          "b": "practices. It may also require the group supervisor to schedule a meeting of",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 23",
+      "b": "AR 23",
+      "ratio": 0.918,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 23 PA 1",
+          "b": "AR 23 PA 1",
+          "ratio": 0.963
+        },
+        {
+          "a": "AR 23 PA 1 ALN 1",
+          "b": "AR 23 PA 1 ALN 1",
+          "ratio": 0.962
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 24",
+      "b": "AR 24",
+      "ratio": 0.989,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 24 PA 1",
+          "b": "AR 24 PA 1",
+          "ratio": 0.974
+        },
+        {
+          "a": "AR 24 PA 1 ALN 1",
+          "b": "AR 24 PA 1 ALN 1",
+          "ratio": 0.974
+        },
+        {
+          "a": "AR 24 PA 2",
+          "b": "AR 24 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 24 PA 2 ALN 1",
+          "b": "AR 24 PA 2 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "in Articles 22 and 23, in particular, with respect to institutions that pose",
+          "b": "in Articles 22 and 23, in particular with respect to institutions that pose",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 28",
+      "b": "AR 28",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 28 PA 1",
+          "b": "AR 28 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 28 PA 1 ALN 1",
+          "b": "AR 28 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 28 PA 2",
+          "b": "AR 28 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 28 PA 2 ALN 1",
+          "b": "AR 28 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 28 PA 3",
+          "b": "AR 28 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 28 PA 3 ALN 1",
+          "b": "AR 28 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 28 PA 4",
+          "b": "AR 28 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 28 PA 4 ALN 1",
+          "b": "AR 28 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 29",
+      "b": "AR 29",
+      "ratio": 0.925,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 29 PA 1",
+          "b": "AR 29 PA 1",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1",
+          "b": "AR 29 PA 1 ALN 1",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (a)",
+          "b": "AR 29 PA 1 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (aa)",
+          "b": "AR 29 PA 1 ALN 1 PTA (aa)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (ab)",
+          "b": "AR 29 PA 1 ALN 1 PTA (ab)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (b)",
+          "b": "AR 29 PA 1 ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (c)",
+          "b": "AR 29 PA 1 ALN 1 PTA (c)",
+          "ratio": 0.93
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (d)",
+          "b": "AR 29 PA 1 ALN 1 PTA (d)",
+          "ratio": 0.986
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (d) PTI (i)",
+          "b": "AR 29 PA 1 ALN 1 PTA (d) PTI (i)",
+          "ratio": 0.944
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (d) PTI (ii)",
+          "b": "AR 29 PA 1 ALN 1 PTA (d) PTI (ii)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (d) PTI (iii)",
+          "b": "AR 29 PA 1 ALN 1 PTA (d) PTI (iii)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (e)",
+          "b": "AR 29 PA 1 ALN 1 PTA (e)",
+          "ratio": 0.912
+        },
+        {
+          "a": "AR 29 PA 1 ALN 1 PTA (f)",
+          "b": "AR 29 PA 1 ALN 1 PTA (f)",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 29a",
+      "b": "AR 29a",
+      "ratio": 0.984,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 29a ALN 1",
+          "b": "AR 29a ALN 1",
+          "ratio": 0.979
+        },
+        {
+          "a": "AR 29a ALN 2",
+          "b": "AR 29a ALN 2",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "authorities, existing work by the Union Institutions, and analysis, warnings and recommendations published",
+          "b": "authorities, existing work by the Union institutions, and analysis, warnings and recommendations published",
+          "cut": false
+        },
+        {
+          "a": "conclusions. The Authority shall discuss possible follow-up which may include guidelines, recommendations to",
+          "b": "conclusions. The Authority shall discuss possible follow up which may include guidelines, recommendations to",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 30",
+      "b": "AR 30",
+      "ratio": 0.995,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 30 PA 1",
+          "b": "AR 30 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 1 ALN 1",
+          "b": "AR 30 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 2",
+          "b": "AR 30 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 2 ALN 1",
+          "b": "AR 30 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 3",
+          "b": "AR 30 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 3 ALN 1",
+          "b": "AR 30 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 3 ALN 1 PTA (a)",
+          "b": "AR 30 PA 3 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 3 ALN 1 PTA (b)",
+          "b": "AR 30 PA 3 ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 3 ALN 1 PTA (c)",
+          "b": "AR 30 PA 3 ALN 1 PTA (c)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 3 ALN 1 PTA (d)",
+          "b": "AR 30 PA 3 ALN 1 PTA (d)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 3 ALN 1 PTA (e)",
+          "b": "AR 30 PA 3 ALN 1 PTA (e)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 4",
+          "b": "AR 30 PA 4",
+          "ratio": 0.995
+        },
+        {
+          "a": "AR 30 PA 4 ALN 1",
+          "b": "AR 30 PA 4 ALN 1",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 30 PA 4 ALN 2",
+          "b": "AR 30 PA 4 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 4 ALN 3",
+          "b": "AR 30 PA 4 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 5",
+          "b": "AR 30 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 5 ALN 1",
+          "b": "AR 30 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 6",
+          "b": "AR 30 PA 6",
+          "ratio": 0.963
+        },
+        {
+          "a": "AR 30 PA 6 ALN 1",
+          "b": "AR 30 PA 6 ALN 1",
+          "ratio": 0.963
+        },
+        {
+          "a": "AR 30 PA 7",
+          "b": "AR 30 PA 7",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 7 ALN 1",
+          "b": "AR 30 PA 7 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 8",
+          "b": "AR 30 PA 8",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 30 PA 8 ALN 1",
+          "b": "AR 30 PA 8 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "of Supervisors in accordance with Article 44(3a). When drafting that report, the peer",
+          "b": "of Supervisors in accordance with Article 44(4). When drafting that report, the peer",
+          "cut": false
+        },
+        {
+          "a": "of Supervisors in accordance with Article 44(3a). When drafting that report, the peer",
+          "b": "of Supervisors in accordance with Article 44(4). When drafting that report, the peer",
+          "cut": false
+        },
+        {
+          "a": "order to maintain consistency with other follow-up reports. The follow-up report shall include",
+          "b": "order to maintain consistency with other follow up reports. The follow-up report shall include",
+          "cut": false
+        },
+        {
+          "a": "peer review in response to the follow-up measures of the peer review report.",
+          "b": "peer review in response to the follow up measures of the peer review report.",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 31",
+      "b": "AR 31",
+      "ratio": 0.934,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 31 PA 2",
+          "b": "AR 31 PA 2",
+          "ratio": 0.934
+        },
+        {
+          "a": "AR 31 PA 2 ALN 1",
+          "b": "AR 31 PA 2 ALN 1",
+          "ratio": 0.934
+        },
+        {
+          "a": "AR 31 PA 2 ALN 1 PTA (a)",
+          "b": "AR 31 PA 2 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 31 PA 2 ALN 1 PTA (c)",
+          "b": "AR 31 PA 2 ALN 1 PTA (c)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 31 PA 2 ALN 1 PTA (e)",
+          "b": "AR 31 PA 2 ALN 1 PTA (e)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 31 PA 2 ALN 1 PTA (ea)",
+          "b": "AR 31 PA 2 ALN 1 PTA (ea)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 31 PA 3",
+          "b": "AR 31 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 31 PA 3 ALN 1",
+          "b": "AR 31 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 31a",
+      "b": "AR 31a",
+      "ratio": 0.967,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 31a ALN 1",
+          "b": "AR 31a ALN 1",
+          "ratio": 0.964
+        }
+      ],
+      "passages": [
+        {
+          "a": "with the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and with the European Supervisory",
+          "b": "with the European Supervisory Authority (European Banking Authority) and with the European Supervisory",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 33",
+      "b": "AR 33",
+      "ratio": 0.959,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 33 PA 1",
+          "b": "AR 33 PA 1",
+          "ratio": 0.953
+        },
+        {
+          "a": "AR 33 PA 1 ALN 1",
+          "b": "AR 33 PA 1 ALN 1",
+          "ratio": 0.951
+        },
+        {
+          "a": "AR 33 PA 1 ALN 2",
+          "b": "AR 33 PA 1 ALN 2",
+          "ratio": 0.953
+        },
+        {
+          "a": "AR 33 PA 2",
+          "b": "AR 33 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 33 PA 2 ALN 1",
+          "b": "AR 33 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 33 PA 3",
+          "b": "AR 33 PA 3",
+          "ratio": 0.932
+        },
+        {
+          "a": "AR 33 PA 3 ALN 1",
+          "b": "AR 33 PA 3 ALN 1",
+          "ratio": 0.915
+        },
+        {
+          "a": "AR 33 PA 3 ALN 2",
+          "b": "AR 33 PA 3 ALN 2",
+          "ratio": 0.926
+        },
+        {
+          "a": "AR 33 PA 3 ALN 3",
+          "b": "AR 33 PA 3 ALN 3",
+          "ratio": 0.945
+        },
+        {
+          "a": "AR 33 PA 3 ALN 4",
+          "b": "AR 33 PA 3 ALN 4",
+          "ratio": 0.934
+        },
+        {
+          "a": "AR 33 PA 4",
+          "b": "AR 33 PA 4",
+          "ratio": 0.963
+        },
+        {
+          "a": "AR 33 PA 4 ALN 1",
+          "b": "AR 33 PA 4 ALN 1",
+          "ratio": 0.964
+        },
+        {
+          "a": "AR 33 PA 4 ALN 1 PTA (a)",
+          "b": "AR 33 PA 4 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 33 PA 4 ALN 1 PTA (b)",
+          "b": "AR 33 PA 4 ALN 1 PTA (b)",
+          "ratio": 0.96
+        },
+        {
+          "a": "AR 33 PA 4 ALN 2",
+          "b": "AR 33 PA 4 ALN 2",
+          "ratio": 0.958
+        },
+        {
+          "a": "AR 33 PA 5",
+          "b": "AR 33 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 33 PA 5 ALN 1",
+          "b": "AR 33 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 33 PA 5 ALN 2",
+          "b": "AR 33 PA 5 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 33 PA 6",
+          "b": "AR 33 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 33 PA 6 ALN 1",
+          "b": "AR 33 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "and enter into administrative arrangements with regulatory, supervisory and, where applicable, resolution authorities,",
+          "b": "and enter into administrative arrangements with regulatory and supervisory authorities, international organisations and third-country",
+          "cut": false
+        },
+        {
+          "a": "into administrative arrangements with regulatory, supervisory and, where applicable, resolution authorities, international organisations and third-country administrations.",
+          "b": "administrative arrangements with regulatory and supervisory authorities, international organisations and third-country administrations.",
+          "cut": false
+        },
+        {
+          "a": "in their national anti-money laundering and countering the financing of terrorism regimes",
+          "b": "in their national anti-money laundering and in countering the financing of terrorism regimes",
+          "cut": false
+        },
+        {
+          "a": "not conclude administrative arrangements with the regulatory, supervisory and, where applicable, resolution authorities",
+          "b": "not conclude administrative arrangements with the regulatory and supervisory authorities of that third country.",
+          "cut": false
+        },
+        {
+          "a": "administrative arrangements with the regulatory, supervisory and, where applicable, resolution authorities of that third country. This",
+          "b": "arrangements with the regulatory and supervisory authorities of that third country. This",
+          "cut": false
+        },
+        {
+          "a": "third-country authorities with a view to reduce threats to the financial system of",
+          "b": "third-country authorities with a view to reducing threats to the financial system of",
+          "cut": false
+        },
+        {
+          "a": "implications for financial stability, market integrity, investor protection and the functioning of the",
+          "b": "implications for financial stability, market integrity, policy holder protection and the functioning of the",
+          "cut": false
+        },
+        {
+          "a": "functioning of the internal market, relevant regulatory, supervisory and, where applicable, resolution developments,",
+          "b": "functioning of the internal market, relevant regulatory and supervisory developments and enforcement practices and",
+          "cut": false
+        },
+        {
+          "a": "the internal market, relevant regulatory, supervisory and, where applicable, resolution developments, and enforcement practices and market developments",
+          "b": "internal market, relevant regulatory and supervisory developments and enforcement practices and market developments",
+          "cut": false
+        },
+        {
+          "a": "Furthermore, it shall verify whether the criteria, on the basis of which those",
+          "b": "Furthermore, it shall verify whether the criteria on the basis of which those",
+          "cut": false
+        },
+        {
+          "a": "taken, and any conditions set out therein, are still fulfilled. The Authority may",
+          "b": "taken, and any conditions set out therein are still fulfilled. The Authority may",
+          "cut": false
+        },
+        {
+          "a": "to the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority",
+          "b": "to the European Supervisory Authority (European Banking Authority) and to the European Supervisory",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 8,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 34",
+      "b": "AR 34",
+      "ratio": 0.904,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 34 PA 1",
+          "b": "AR 34 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 34 PA 1 ALN 1",
+          "b": "AR 34 PA 1 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 35b",
+      "b": "AR 35b",
+      "ratio": 0.985,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 35b PA 1",
+          "b": "AR 35b PA 1",
+          "ratio": 0.992
+        },
+        {
+          "a": "AR 35b PA 1 ALN 1",
+          "b": "AR 35b PA 1 ALN 1",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 35b PA 1 ALN 2",
+          "b": "AR 35b PA 1 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 35b PA 1 ALN 2 PTA (a)",
+          "b": "AR 35b PA 1 ALN 2 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 35b PA 1 ALN 2 PTA (b)",
+          "b": "AR 35b PA 1 ALN 2 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 35b PA 1 ALN 3",
+          "b": "AR 35b PA 1 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 35b PA 2",
+          "b": "AR 35b PA 2",
+          "ratio": 0.955
+        },
+        {
+          "a": "AR 35b PA 2 ALN 1",
+          "b": "AR 35b PA 2 ALN 1",
+          "ratio": 0.953
+        }
+      ],
+      "passages": [
+        {
+          "a": "with the ESRB, the European Central Bank, AMLA, the SRB, the competent authorities",
+          "b": "with the ESRB, the European Central Bank (ECB), AMLA, the SRB, the competent authorities",
+          "cut": false
+        },
+        {
+          "a": "close cooperation with the ESRB, the European Central Bank, AMLA, the SRB and the competent",
+          "b": "close cooperation with the ESRB, the ECB, AMLA, the SRB and the competent",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 36",
+      "b": "AR 36",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 36 PA 1",
+          "b": "AR 36 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 1 ALN 1",
+          "b": "AR 36 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 2",
+          "b": "AR 36 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 2 ALN 1",
+          "b": "AR 36 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 3",
+          "b": "AR 36 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 3 ALN 1",
+          "b": "AR 36 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 4",
+          "b": "AR 36 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 4 ALN 1",
+          "b": "AR 36 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 4 ALN 2",
+          "b": "AR 36 PA 4 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 4 ALN 3",
+          "b": "AR 36 PA 4 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 5",
+          "b": "AR 36 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 5 ALN 1",
+          "b": "AR 36 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 5 ALN 2",
+          "b": "AR 36 PA 5 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 5 ALN 3",
+          "b": "AR 36 PA 5 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 6",
+          "b": "AR 36 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 36 PA 6 ALN 1",
+          "b": "AR 36 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 38",
+      "b": "AR 38",
+      "ratio": 0.983,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 38 PA 1",
+          "b": "AR 38 PA 1",
+          "ratio": 0.902
+        },
+        {
+          "a": "AR 38 PA 2",
+          "b": "AR 38 PA 2",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 38 PA 2 ALN 1",
+          "b": "AR 38 PA 2 ALN 1",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 38 PA 3",
+          "b": "AR 38 PA 3",
+          "ratio": 0.963
+        },
+        {
+          "a": "AR 38 PA 3 ALN 1",
+          "b": "AR 38 PA 3 ALN 1",
+          "ratio": 0.963
+        },
+        {
+          "a": "AR 38 PA 4",
+          "b": "AR 38 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 38 PA 4 ALN 1",
+          "b": "AR 38 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 38 PA 5",
+          "b": "AR 38 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 38 PA 5 ALN 1",
+          "b": "AR 38 PA 5 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "shall ensure that no decision adopted pursuant to Article 18 or 19 impinges in any",
+          "b": "shall ensure that no decision adopted under Articles 18 or 19 impinges in any",
+          "cut": false
+        },
+        {
+          "a": "State considers that a decision taken pursuant to Article 19(3) impinges on its fiscal",
+          "b": "State considers that a decision taken under Article 19(3) impinges on its fiscal",
+          "cut": false
+        },
+        {
+          "a": "State considers that a decision taken pursuant to Article 18(3) impinges on its fiscal",
+          "b": "State considers that a decision taken under Article 18(3) impinges on its fiscal",
+          "cut": false
+        },
+        {
+          "a": "the Authority, the Commission and the Council within 3 working days after notification",
+          "b": "the Authority, the Commission and the Council, within three working days after notification",
+          "cut": false
+        },
+        {
+          "a": "the Commission and the Council within 3 working days after notification of the",
+          "b": "the Commission and the Council, within three working days after notification of the",
+          "cut": false
+        },
+        {
+          "a": "the Authority’s decision to the competent authority that the decision will not be",
+          "b": "the Authority’s decision to the competent authority, that the decision will not be",
+          "cut": false
+        },
+        {
+          "a": "be suspended. The Council shall, within 10 working days, convene a meeting and",
+          "b": "be suspended. The Council shall, within ten working days, convene a meeting and",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 39",
+      "b": "AR 39",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 39 PA 1",
+          "b": "AR 39 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 1 ALN 1",
+          "b": "AR 39 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 2",
+          "b": "AR 39 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 2 ALN 1",
+          "b": "AR 39 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 3",
+          "b": "AR 39 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 3 ALN 1",
+          "b": "AR 39 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 4",
+          "b": "AR 39 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 4 ALN 1",
+          "b": "AR 39 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 5",
+          "b": "AR 39 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 5 ALN 1",
+          "b": "AR 39 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 6",
+          "b": "AR 39 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 39 PA 6 ALN 1",
+          "b": "AR 39 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 41",
+      "b": "AR 41",
+      "ratio": 0.949,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 41 PA 1",
+          "b": "AR 41 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 1 ALN 1",
+          "b": "AR 41 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 2",
+          "b": "AR 41 PA 2",
+          "ratio": 0.943
+        },
+        {
+          "a": "AR 41 PA 2 ALN 1",
+          "b": "AR 41 PA 2 ALN 1",
+          "ratio": 0.928
+        },
+        {
+          "a": "AR 41 PA 2 ALN 2",
+          "b": "AR 41 PA 2 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 2 ALN 3",
+          "b": "AR 41 PA 2 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 3",
+          "b": "AR 41 PA 3",
+          "ratio": 0.933
+        },
+        {
+          "a": "AR 41 PA 3 ALN 1",
+          "b": "AR 41 PA 3 ALN 1",
+          "ratio": 0.916
+        },
+        {
+          "a": "AR 41 PA 3 ALN 2",
+          "b": "AR 41 PA 3 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 3 ALN 3",
+          "b": "AR 41 PA 3 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 4",
+          "b": "AR 41 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 4 ALN 1",
+          "b": "AR 41 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 4 ALN 2",
+          "b": "AR 41 PA 4 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 4 ALN 3",
+          "b": "AR 41 PA 4 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 6",
+          "b": "AR 41 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 41 PA 6 ALN 1",
+          "b": "AR 41 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "For the purposes of Article 17, and without prejudice to the role of the committee referred to in Article 9a(7), the Chairperson shall propose a decision",
+          "b": "For the purposes of Article 17, the Chairperson shall propose a decision",
+          "cut": false
+        },
+        {
+          "a": "For the purposes of Article 19, and without prejudice to the role of the committee referred to in Article 9a(7), the Chairperson shall propose a decision",
+          "b": "For the purposes of Article 19, the Chairperson shall propose a decision",
+          "cut": false
+        },
+        {
+          "a": "not have any interest in the matter or direct links to the competent",
+          "b": "not have any interest in the conflict or direct links to the competent",
+          "cut": false
+        },
+        {
+          "a": "under Article 17, or Article 19, except on matters concerning the prevention of the use of the financial system for the purpose of money laundering or of terrorist financing, for final adoption by the Board",
+          "b": "under Article 17, or Article 19, for final adoption by the Board",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 42",
+      "b": "AR 42",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 42 PA 1",
+          "b": "AR 42 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 42 PA 1 ALN 1",
+          "b": "AR 42 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 42 PA 2",
+          "b": "AR 42 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 42 PA 2 ALN 1",
+          "b": "AR 42 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 42 PA 3",
+          "b": "AR 42 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 42 PA 3 ALN 1",
+          "b": "AR 42 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 42 PA 4",
+          "b": "AR 42 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 42 PA 4 ALN 1",
+          "b": "AR 42 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 43",
+      "b": "AR 43",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 43 PA 1",
+          "b": "AR 43 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 1 ALN 1",
+          "b": "AR 43 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 2",
+          "b": "AR 43 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 2 ALN 1",
+          "b": "AR 43 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 3",
+          "b": "AR 43 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 3 ALN 1",
+          "b": "AR 43 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 4",
+          "b": "AR 43 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 4 ALN 1",
+          "b": "AR 43 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 5",
+          "b": "AR 43 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 5 ALN 1",
+          "b": "AR 43 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 6",
+          "b": "AR 43 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 6 ALN 1",
+          "b": "AR 43 PA 6 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 7",
+          "b": "AR 43 PA 7",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 7 ALN 1",
+          "b": "AR 43 PA 7 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 8",
+          "b": "AR 43 PA 8",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 43 PA 8 ALN 1",
+          "b": "AR 43 PA 8 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 43a",
+      "b": "AR 43a",
+      "ratio": 0.989,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 43a ALN 1",
+          "b": "AR 43a ALN 1",
+          "ratio": 0.988
+        }
+      ],
+      "passages": [
+        {
+          "a": "of Supervisors, the Authority shall, at least provide the European Parliament with a",
+          "b": "of Supervisors, the Authority shall, at least, provide the European Parliament with a",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 45",
+      "b": "AR 45",
+      "ratio": 0.959,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 45 PA 1",
+          "b": "AR 45 PA 1",
+          "ratio": 0.946
+        },
+        {
+          "a": "AR 45 PA 1 ALN 1",
+          "b": "AR 45 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45 PA 3",
+          "b": "AR 45 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45 PA 3 ALN 1",
+          "b": "AR 45 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45 PA 4",
+          "b": "AR 45 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45 PA 4 ALN 1",
+          "b": "AR 45 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "the Management Board shall have an alternate, who may replace him or her",
+          "b": "the Management Board shall have an alternate who may replace him if he",
+          "cut": false
+        },
+        {
+          "a": "an alternate, who may replace him or her if he or she is prevented",
+          "b": "an alternate who may replace him if he is prevented from attending.",
+          "cut": false
+        },
+        {
+          "a": "replace him or her if he or she is prevented from attending. 2. The",
+          "b": "who may replace him if he is prevented from attending. 2. The",
+          "cut": false
+        },
+        {
+          "a": "reflect the Union as a whole. The Management Board shall include at least two representatives of non-participating Member States. Mandates shall be overlapping and an",
+          "b": "reflect the Union as a whole. Mandates shall be overlapping and an",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 45a",
+      "b": "AR 45a",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 45a PA 1",
+          "b": "AR 45a PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45a PA 1 ALN 1",
+          "b": "AR 45a PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45a PA 2",
+          "b": "AR 45a PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45a PA 2 ALN 1",
+          "b": "AR 45a PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45a PA 3",
+          "b": "AR 45a PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45a PA 3 ALN 1",
+          "b": "AR 45a PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 45b",
+      "b": "AR 45b",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 45b PA 1",
+          "b": "AR 45b PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45b PA 1 ALN 1",
+          "b": "AR 45b PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45b PA 2",
+          "b": "AR 45b PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45b PA 2 ALN 1",
+          "b": "AR 45b PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45b PA 3",
+          "b": "AR 45b PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45b PA 3 ALN 1",
+          "b": "AR 45b PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45b PA 4",
+          "b": "AR 45b PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 45b PA 4 ALN 1",
+          "b": "AR 45b PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 46",
+      "b": "AR 46",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 46 ALN 1",
+          "b": "AR 46 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 46 ALN 2",
+          "b": "AR 46 ALN 2",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 48",
+      "b": "AR 48",
+      "ratio": 0.998,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 48 PA 1",
+          "b": "AR 48 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 1 ALN 1",
+          "b": "AR 48 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 2",
+          "b": "AR 48 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 2 ALN 1",
+          "b": "AR 48 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 2 ALN 2",
+          "b": "AR 48 PA 2 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 2 ALN 3",
+          "b": "AR 48 PA 2 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 3",
+          "b": "AR 48 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 3 ALN 1",
+          "b": "AR 48 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 4",
+          "b": "AR 48 PA 4",
+          "ratio": 0.991
+        },
+        {
+          "a": "AR 48 PA 4 ALN 1",
+          "b": "AR 48 PA 4 ALN 1",
+          "ratio": 0.991
+        },
+        {
+          "a": "AR 48 PA 4 ALN 1 PTA (a)",
+          "b": "AR 48 PA 4 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 4 ALN 1 PTA (b)",
+          "b": "AR 48 PA 4 ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 5",
+          "b": "AR 48 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 48 PA 5 ALN 1",
+          "b": "AR 48 PA 5 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "months preceding the end of the 5-year term of office of the Chairperson,",
+          "b": "months preceding the end of the five-year term of office of the Chairperson,",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 49",
+      "b": "AR 49",
+      "ratio": 0.991,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 49 ALN 1",
+          "b": "AR 49 ALN 1",
+          "ratio": 0.991
+        }
+      ],
+      "passages": [
+        {
+          "a": "Member States, the Union institutions or bodies, nor any other public or private",
+          "b": "Member States, the Union institutions or bodies nor any other public or private",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 49a",
+      "b": "AR 49a",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 49a ALN 1",
+          "b": "AR 49a ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 50",
+      "b": "AR 50",
+      "ratio": 0.991,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 50 PA 1",
+          "b": "AR 50 PA 1",
+          "ratio": 0.977
+        },
+        {
+          "a": "AR 50 PA 1 ALN 1",
+          "b": "AR 50 PA 1 ALN 1",
+          "ratio": 0.977
+        },
+        {
+          "a": "AR 50 PA 2",
+          "b": "AR 50 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 50 PA 2 ALN 1",
+          "b": "AR 50 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 50 PA 3",
+          "b": "AR 50 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 50 PA 3 ALN 1",
+          "b": "AR 50 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "answer any questions put by its members, whenever so requested. 2. The Chairperson",
+          "b": "answer any questions put by its members whenever so requested. 2. The Chairperson",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 51",
+      "b": "AR 51",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 51 PA 1",
+          "b": "AR 51 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 1 ALN 1",
+          "b": "AR 51 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 2",
+          "b": "AR 51 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 2 ALN 1",
+          "b": "AR 51 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 3",
+          "b": "AR 51 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 3 ALN 1",
+          "b": "AR 51 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 4",
+          "b": "AR 51 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 4 ALN 1",
+          "b": "AR 51 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 4 ALN 1 PTA (a)",
+          "b": "AR 51 PA 4 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 4 ALN 1 PTA (b)",
+          "b": "AR 51 PA 4 ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 5",
+          "b": "AR 51 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 51 PA 5 ALN 1",
+          "b": "AR 51 PA 5 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 52",
+      "b": "AR 52",
+      "ratio": 0.992,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 52 ALN 1",
+          "b": "AR 52 ALN 1",
+          "ratio": 0.992
+        }
+      ],
+      "passages": [
+        {
+          "a": "from any government of a Member State or from any other public or",
+          "b": "from any government of a Member State, or from any other public or",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 53",
+      "b": "AR 53",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 54",
+      "b": "AR 54",
+      "ratio": 0.98,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 54 PA 1",
+          "b": "AR 54 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 54 PA 1 ALN 1",
+          "b": "AR 54 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 54 PA 2",
+          "b": "AR 54 PA 2",
+          "ratio": 0.967
+        },
+        {
+          "a": "AR 54 PA 2 ALN 1",
+          "b": "AR 54 PA 2 ALN 1",
+          "ratio": 0.966
+        },
+        {
+          "a": "AR 54 PA 2a",
+          "b": "AR 54 PA 2a",
+          "ratio": 0.982
+        },
+        {
+          "a": "AR 54 PA 2a ALN 1",
+          "b": "AR 54 PA 2a ALN 1",
+          "ratio": 0.981
+        },
+        {
+          "a": "AR 54 PA 3",
+          "b": "AR 54 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 54 PA 3 ALN 1",
+          "b": "AR 54 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 54 PA 4",
+          "b": "AR 54 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 54 PA 4 ALN 1",
+          "b": "AR 54 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "with the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority",
+          "b": "with the European Supervisory Authority (European Banking Authority) and the European Supervisory Authority",
+          "cut": false
+        },
+        {
+          "a": "other ESAs, retail financial services and depositor, consumer and investor protection issues, advice",
+          "b": "other ESAs, retail financial services and consumer and investor protection issues, advice",
+          "cut": false
+        },
+        {
+          "a": "Committee established in accordance with Article 1(6), reporting and disclosure requirements and the",
+          "b": "Committee established in accordance with Article 1(7), reporting and disclosure requirements and the",
+          "cut": false
+        },
+        {
+          "a": "procedures for ensuring secure and efficient interconnection of the centralised automated mechanisms pursuant",
+          "b": "procedures for ensuring secure and efficient inter-connection of the centralised automated mechanisms pursuant",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 55",
+      "b": "AR 55",
+      "ratio": 0.991,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 55 PA 1",
+          "b": "AR 55 PA 1",
+          "ratio": 0.941
+        },
+        {
+          "a": "AR 55 PA 1 ALN 1",
+          "b": "AR 55 PA 1 ALN 1",
+          "ratio": 0.939
+        },
+        {
+          "a": "AR 55 PA 2",
+          "b": "AR 55 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 55 PA 2 ALN 1",
+          "b": "AR 55 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 55 PA 3",
+          "b": "AR 55 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 55 PA 3 ALN 1",
+          "b": "AR 55 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 55 PA 4",
+          "b": "AR 55 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 55 PA 4 ALN 1",
+          "b": "AR 55 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 55 PA 5",
+          "b": "AR 55 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 55 PA 5 ALN 1",
+          "b": "AR 55 PA 5 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "the Chairperson of any Sub-Committee established pursuant to Article 57. 2. The Executive Director,",
+          "b": "the Chairperson of any Sub-Committee established under Article 57. 2. The Executive Director,",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 56",
+      "b": "AR 56",
+      "ratio": 0.949,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 56 ALN 1",
+          "b": "AR 56 ALN 1",
+          "ratio": 0.957
+        },
+        {
+          "a": "AR 56 ALN 2",
+          "b": "AR 56 ALN 2",
+          "ratio": 0.941
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 57",
+      "b": "AR 57",
+      "ratio": 0.977,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 57 PA 1",
+          "b": "AR 57 PA 1",
+          "ratio": 0.955
+        },
+        {
+          "a": "AR 57 PA 1 ALN 1",
+          "b": "AR 57 PA 1 ALN 1",
+          "ratio": 0.952
+        },
+        {
+          "a": "AR 57 PA 2",
+          "b": "AR 57 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 57 PA 2 ALN 1",
+          "b": "AR 57 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 57 PA 3",
+          "b": "AR 57 PA 3",
+          "ratio": 0.962
+        },
+        {
+          "a": "AR 57 PA 3 ALN 1",
+          "b": "AR 57 PA 3 ALN 1",
+          "ratio": 0.96
+        },
+        {
+          "a": "AR 57 PA 4",
+          "b": "AR 57 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 57 PA 4 ALN 1",
+          "b": "AR 57 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 57 PA 5",
+          "b": "AR 57 PA 5",
+          "ratio": 0.966
+        },
+        {
+          "a": "AR 57 PA 5 ALN 1",
+          "b": "AR 57 PA 5 ALN 1",
+          "ratio": 0.964
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 58",
+      "b": "AR 58",
+      "ratio": 0.985,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 58 PA 1",
+          "b": "AR 58 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 1 ALN 1",
+          "b": "AR 58 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 2",
+          "b": "AR 58 PA 2",
+          "ratio": 0.96
+        },
+        {
+          "a": "AR 58 PA 2 ALN 1",
+          "b": "AR 58 PA 2 ALN 1",
+          "ratio": 0.959
+        },
+        {
+          "a": "AR 58 PA 3",
+          "b": "AR 58 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 3 ALN 1",
+          "b": "AR 58 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 3 ALN 2",
+          "b": "AR 58 PA 3 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 3 ALN 3",
+          "b": "AR 58 PA 3 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 4",
+          "b": "AR 58 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 4 ALN 1",
+          "b": "AR 58 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 5",
+          "b": "AR 58 PA 5",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 58 PA 5 ALN 1",
+          "b": "AR 58 PA 5 ALN 1",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 58 PA 6",
+          "b": "AR 58 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 6 ALN 1",
+          "b": "AR 58 PA 6 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 7",
+          "b": "AR 58 PA 7",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 7 ALN 1",
+          "b": "AR 58 PA 7 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 8",
+          "b": "AR 58 PA 8",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 58 PA 8 ALN 1",
+          "b": "AR 58 PA 8 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "the Authority and members of the Banking Stakeholder Group. Members and alternates shall",
+          "b": "the Authority and members of the Insurance and Reinsurance Stakeholder Group and members of the Occupational Pensions Stakeholder Group. Members and alternates shall",
+          "cut": false
+        },
+        {
+          "a": "be removed during his term of office, unless he has been found guilty",
+          "b": "be removed during his term of office unless he has been found guilty",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 59",
+      "b": "AR 59",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 59 PA 1",
+          "b": "AR 59 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 1 ALN 1",
+          "b": "AR 59 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 2",
+          "b": "AR 59 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 2 ALN 1",
+          "b": "AR 59 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 3",
+          "b": "AR 59 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 3 ALN 1",
+          "b": "AR 59 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 4",
+          "b": "AR 59 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 4 ALN 1",
+          "b": "AR 59 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 5",
+          "b": "AR 59 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 5 ALN 1",
+          "b": "AR 59 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 6",
+          "b": "AR 59 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 59 PA 6 ALN 1",
+          "b": "AR 59 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 60",
+      "b": "AR 60",
+      "ratio": 0.995,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 60 PA 1",
+          "b": "AR 60 PA 1",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 60 PA 1 ALN 1",
+          "b": "AR 60 PA 1 ALN 1",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 60 PA 2",
+          "b": "AR 60 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 2 ALN 1",
+          "b": "AR 60 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 2 ALN 2",
+          "b": "AR 60 PA 2 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 3",
+          "b": "AR 60 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 3 ALN 1",
+          "b": "AR 60 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 4",
+          "b": "AR 60 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 4 ALN 1",
+          "b": "AR 60 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 5",
+          "b": "AR 60 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 5 ALN 1",
+          "b": "AR 60 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 6",
+          "b": "AR 60 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 6 ALN 1",
+          "b": "AR 60 PA 6 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 7",
+          "b": "AR 60 PA 7",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 60 PA 7 ALN 1",
+          "b": "AR 60 PA 7 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "to in Articles 17, 18 and 19 and any other decision taken by the",
+          "b": "to in Articles 17, 18 and 19and any other decision taken by the",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 60a",
+      "b": "AR 60a",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 60a ALN 1",
+          "b": "AR 60a ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 61",
+      "b": "AR 61",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 61 PA 1",
+          "b": "AR 61 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 61 PA 1 ALN 1",
+          "b": "AR 61 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 61 PA 2",
+          "b": "AR 61 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 61 PA 2 ALN 1",
+          "b": "AR 61 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 61 PA 3",
+          "b": "AR 61 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 61 PA 3 ALN 1",
+          "b": "AR 61 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 61 PA 4",
+          "b": "AR 61 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 61 PA 4 ALN 1",
+          "b": "AR 61 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 62",
+      "b": "AR 62",
+      "ratio": 0.997,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 62 PA 1",
+          "b": "AR 62 PA 1",
+          "ratio": 0.997
+        },
+        {
+          "a": "AR 62 PA 2",
+          "b": "AR 62 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 62 PA 2 ALN 1",
+          "b": "AR 62 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 62 PA 3",
+          "b": "AR 62 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 62 PA 3 ALN 1",
+          "b": "AR 62 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 62 PA 4",
+          "b": "AR 62 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 62 PA 4 ALN 1",
+          "b": "AR 62 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "or observers referred to in point (d) of the first sub-paragraph shall not",
+          "b": "or observers referred to in point d of the first sub-paragraph shall not",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 63",
+      "b": "AR 63",
+      "ratio": 0.996,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 63 PA 1",
+          "b": "AR 63 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 1 ALN 1",
+          "b": "AR 63 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 2",
+          "b": "AR 63 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 2 ALN 1",
+          "b": "AR 63 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 3",
+          "b": "AR 63 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 3 ALN 1",
+          "b": "AR 63 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 4",
+          "b": "AR 63 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 4 ALN 1",
+          "b": "AR 63 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 5",
+          "b": "AR 63 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 5 ALN 1",
+          "b": "AR 63 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 6",
+          "b": "AR 63 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 6 ALN 1",
+          "b": "AR 63 PA 6 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 7",
+          "b": "AR 63 PA 7",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 7 ALN 1",
+          "b": "AR 63 PA 7 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 63 PA 8",
+          "b": "AR 63 PA 8",
+          "ratio": 0.975
+        },
+        {
+          "a": "AR 63 PA 8 ALN 1",
+          "b": "AR 63 PA 8 ALN 1",
+          "ratio": 0.974
+        }
+      ],
+      "passages": [
+        {
+          "a": "which may have significant financial or long-term implications for the funding of the",
+          "b": "which may have significant financial or long- term implications for the funding of the",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 64",
+      "b": "AR 64",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 64 PA 1",
+          "b": "AR 64 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 1 ALN 1",
+          "b": "AR 64 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 2",
+          "b": "AR 64 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 2 ALN 1",
+          "b": "AR 64 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 3",
+          "b": "AR 64 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 3 ALN 1",
+          "b": "AR 64 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 4",
+          "b": "AR 64 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 4 ALN 1",
+          "b": "AR 64 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 5",
+          "b": "AR 64 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 5 ALN 1",
+          "b": "AR 64 PA 5 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 6",
+          "b": "AR 64 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 6 ALN 1",
+          "b": "AR 64 PA 6 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 6 ALN 2",
+          "b": "AR 64 PA 6 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 7",
+          "b": "AR 64 PA 7",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 7 ALN 1",
+          "b": "AR 64 PA 7 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 8",
+          "b": "AR 64 PA 8",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 8 ALN 1",
+          "b": "AR 64 PA 8 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 9",
+          "b": "AR 64 PA 9",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 9 ALN 1",
+          "b": "AR 64 PA 9 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 10",
+          "b": "AR 64 PA 10",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 10 ALN 1",
+          "b": "AR 64 PA 10 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 11",
+          "b": "AR 64 PA 11",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 64 PA 11 ALN 1",
+          "b": "AR 64 PA 11 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 65",
+      "b": "AR 65",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 65 ALN 1",
+          "b": "AR 65 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 66",
+      "b": "AR 66",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 66 PA 1",
+          "b": "AR 66 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 66 PA 1 ALN 1",
+          "b": "AR 66 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 66 PA 2",
+          "b": "AR 66 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 66 PA 2 ALN 1",
+          "b": "AR 66 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 66 PA 3",
+          "b": "AR 66 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 66 PA 3 ALN 1",
+          "b": "AR 66 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 67",
+      "b": "AR 67",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 67 ALN 1",
+          "b": "AR 67 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 68",
+      "b": "AR 68",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 68 PA 1",
+          "b": "AR 68 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 68 PA 1 ALN 1",
+          "b": "AR 68 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 68 PA 2",
+          "b": "AR 68 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 68 PA 2 ALN 1",
+          "b": "AR 68 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 68 PA 3",
+          "b": "AR 68 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 68 PA 3 ALN 1",
+          "b": "AR 68 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 68 PA 4",
+          "b": "AR 68 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 68 PA 4 ALN 1",
+          "b": "AR 68 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 69",
+      "b": "AR 69",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 69 PA 1",
+          "b": "AR 69 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 69 PA 1 ALN 1",
+          "b": "AR 69 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 69 PA 2",
+          "b": "AR 69 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 69 PA 2 ALN 1",
+          "b": "AR 69 PA 2 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 70",
+      "b": "AR 70",
+      "ratio": 0.995,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 70 PA 1",
+          "b": "AR 70 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 70 PA 1 ALN 1",
+          "b": "AR 70 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 70 PA 2",
+          "b": "AR 70 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 70 PA 2 ALN 1",
+          "b": "AR 70 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 70 PA 2a",
+          "b": "AR 70 PA 2a",
+          "ratio": 0.981
+        },
+        {
+          "a": "AR 70 PA 2a ALN 1",
+          "b": "AR 70 PA 2a ALN 1",
+          "ratio": 0.986
+        },
+        {
+          "a": "AR 70 PA 2a ALN 2",
+          "b": "AR 70 PA 2a ALN 2",
+          "ratio": 0.971
+        },
+        {
+          "a": "AR 70 PA 3",
+          "b": "AR 70 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 70 PA 3 ALN 1",
+          "b": "AR 70 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 70 PA 3 ALN 2",
+          "b": "AR 70 PA 3 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 70 PA 4",
+          "b": "AR 70 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 70 PA 4 ALN 1",
+          "b": "AR 70 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "adoption of decisions. 2a. The Management Board and the Board of Supervisors shall",
+          "b": "adoption of decisions. 2a. The Management Board, and the Board of Supervisors shall",
+          "cut": false
+        },
+        {
+          "a": "attend the meetings of the Management Board and the Board of Supervisors and",
+          "b": "attend the meetings of the Management Board, and the Board of Supervisors and",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 71",
+      "b": "AR 71",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 71 ALN 1",
+          "b": "AR 71 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 72",
+      "b": "AR 72",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 72 PA 1",
+          "b": "AR 72 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 72 PA 1 ALN 1",
+          "b": "AR 72 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 72 PA 2",
+          "b": "AR 72 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 72 PA 2 ALN 1",
+          "b": "AR 72 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 72 PA 3",
+          "b": "AR 72 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 72 PA 3 ALN 1",
+          "b": "AR 72 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 73",
+      "b": "AR 73",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 73 PA 1",
+          "b": "AR 73 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 73 PA 1 ALN 1",
+          "b": "AR 73 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 73 PA 2",
+          "b": "AR 73 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 73 PA 2 ALN 1",
+          "b": "AR 73 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 73 PA 3",
+          "b": "AR 73 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 73 PA 3 ALN 1",
+          "b": "AR 73 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 74",
+      "b": "AR 74",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 74 ALN 1",
+          "b": "AR 74 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 75",
+      "b": "AR 75",
+      "ratio": 0.995,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 75 PA 1",
+          "b": "AR 75 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 75 PA 1 ALN 1",
+          "b": "AR 75 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 75 PA 2",
+          "b": "AR 75 PA 2",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 75 PA 2 ALN 1",
+          "b": "AR 75 PA 2 ALN 1",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 75 PA 3",
+          "b": "AR 75 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 75 PA 3 ALN 1",
+          "b": "AR 75 PA 3 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "the countries referred to in paragraph 1, applying legislation which has been recognised",
+          "b": "the countries referred to in paragraph 1 applying legislation which has been recognised",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 77",
+      "b": "AR 77",
+      "ratio": 0.985,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 77 PA 1",
+          "b": "AR 77 PA 1",
+          "ratio": 0.974
+        },
+        {
+          "a": "AR 77 PA 1 ALN 1",
+          "b": "AR 77 PA 1 ALN 1",
+          "ratio": 0.974
+        },
+        {
+          "a": "AR 77 PA 2",
+          "b": "AR 77 PA 2",
+          "ratio": 0.978
+        },
+        {
+          "a": "AR 77 PA 2 ALN 1",
+          "b": "AR 77 PA 2 ALN 1",
+          "ratio": 0.978
+        },
+        {
+          "a": "AR 77 PA 3",
+          "b": "AR 77 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 77 PA 3 ALN 1",
+          "b": "AR 77 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 77 PA 4",
+          "b": "AR 77 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 77 PA 4 ALN 1",
+          "b": "AR 77 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "contracts and secondment agreements concluded by CEBS or its Secretariat and in force",
+          "b": "contracts and secondment agreements concluded by CEIOPS or its Secretariat and in force",
+          "cut": false
+        },
+        {
+          "a": "possibility of concluding temporary agent contracts pursuant to Article 2(a) of the Conditions of",
+          "b": "possibility of concluding temporary agent contracts under Article 2(a) of the Conditions of",
+          "cut": false
+        },
+        {
+          "a": "to staff who have contracts with CEBS or its Secretariat shall be carried",
+          "b": "to staff who have contracts with CEIOPS or its Secretariat shall be carried",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 78",
+      "b": "AR 78",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 78 ALN 1",
+          "b": "AR 78 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 79",
+      "b": "AR 79",
+      "ratio": 0.969,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 79 ALN 1",
+          "b": "AR 79 ALN 1",
+          "ratio": 0.966
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 82",
+      "b": "AR 82",
+      "ratio": 1.0,
+      "identical": true,
+      "children": [
+        {
+          "a": "AR 82 ALN 1",
+          "b": "AR 82 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    }
+  ],
+  "unpaired_a": [
+    {
+      "unit": "AR 1",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 4",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 7",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 8",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 9a",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 9b",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 20a",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 22",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 25",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 26",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 27",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 32",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 35",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 35a",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 37",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 40",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 44",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 47",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 52a",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 76",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 80",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 81",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 81a",
+      "best": null,
+      "ratio": null
+    }
+  ],
+  "unpaired_b": [
+    {
+      "unit": "AR 1",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 4",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 7",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 8",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 22",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 25",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 26",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 27",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 32",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 35",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 35a",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 37",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 40",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 44",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 47",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 76",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 80",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 81",
+      "best": null,
+      "ratio": null
+    }
+  ]
+}
