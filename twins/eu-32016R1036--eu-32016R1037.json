@@ -1,0 +1,1464 @@
+{
+  "twins_schema": "1.0",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "method": {
+    "measure": "word-ratio",
+    "floor": 0.9,
+    "verified_on": "2026-10-19"
+  },
+  "a": {
+    "corpus": "eu",
+    "key": "32016R1036",
+    "version": "02016R1036-20200811"
+  },
+  "b": {
+    "corpus": "eu",
+    "key": "32016R1037",
+    "version": "02016R1037-20200811"
+  },
+  "pairs": [
+    {
+      "a": "AR 4",
+      "b": "AR 9",
+      "ratio": 0.977,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 4 PA 1",
+          "b": "AR 9 PA 1",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 4 PA 2",
+          "b": "AR 9 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 4 PA 2 ALN 1",
+          "b": "AR 9 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 4 PA 2 ALN 1 PTA (a)",
+          "b": "AR 9 PA 2 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 4 PA 2 ALN 1 PTA (b)",
+          "b": "AR 9 PA 2 ALN 1 PTA (b)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 4 PA 2 ALN 1 PTA (c)",
+          "b": "AR 9 PA 2 ALN 1 PTA (c)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 4 PA 2 ALN 2",
+          "b": "AR 9 PA 2 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 4 PA 3",
+          "b": "AR 9 PA 3",
+          "ratio": 0.947
+        },
+        {
+          "a": "AR 4 PA 3 ALN 1",
+          "b": "AR 9 PA 3 ALN 1",
+          "ratio": 0.946
+        },
+        {
+          "a": "AR 4 PA 4",
+          "b": "AR 9 PA 4",
+          "ratio": 0.917
+        },
+        {
+          "a": "AR 4 PA 4 ALN 1",
+          "b": "AR 9 PA 4 ALN 1",
+          "ratio": 0.909
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 4 Definition of Union industry 1. For",
+          "b": "Article 9 Definition of Union industry 1. For",
+          "cut": false
+        },
+        {
+          "a": "are themselves importers of the allegedly dumped product, the term Union industry may",
+          "b": "are themselves importers of the allegedly subsidised product, the term Union industry may",
+          "cut": false
+        },
+        {
+          "a": "that there is a concentration of dumped imports into such an isolated market",
+          "b": "that there is a concentration of subsidised imports into such an isolated market",
+          "cut": false
+        },
+        {
+          "a": "market and provided further that the dumped imports are causing injury to the",
+          "b": "market and provided further that the subsidised imports are causing injury to the",
+          "cut": false
+        },
+        {
+          "a": "in a certain region, the exporters shall be given an opportunity to",
+          "b": "in a certain region, the exporters or the government granting countervailable subsidies shall be given an opportunity to",
+          "cut": false
+        },
+        {
+          "a": "to offer undertakings pursuant to Article 8 in respect of the region concerned.",
+          "b": "to offer undertakings pursuant to Article 13 in respect of the region concerned.",
+          "cut": false
+        },
+        {
+          "a": "undertaking is not offered promptly or the situations set out in Article",
+          "b": "undertaking is not offered promptly or if the situations set out in Article",
+          "cut": false
+        },
+        {
+          "a": "the situations set out in Article 8(9) and (10) apply, a provisional or",
+          "b": "the situations set out in Article 13(9) and (10) apply, a provisional or",
+          "cut": false
+        },
+        {
+          "a": "(10) apply, a provisional or definitive duty may be imposed in respect",
+          "b": "(10) apply, a provisional or definitive countervailing duty may be imposed in respect",
+          "cut": false
+        },
+        {
+          "a": "exporters. 4. The provisions of Article 3(8) shall be applicable to this Article.",
+          "b": "exporters. 4. The provisions of Article 8(7) shall be applicable to this Article.",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 6",
+      "b": "AR 11",
+      "ratio": 0.908,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 6 PA 2",
+          "b": "AR 11 PA 2",
+          "ratio": 0.935
+        },
+        {
+          "a": "AR 6 PA 2 ALN 1",
+          "b": "AR 11 PA 2 ALN 1",
+          "ratio": 0.935
+        },
+        {
+          "a": "AR 6 PA 3",
+          "b": "AR 11 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 PA 3 ALN 1",
+          "b": "AR 11 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 PA 3 ALN 2",
+          "b": "AR 11 PA 3 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 PA 3 ALN 3",
+          "b": "AR 11 PA 3 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 PA 4",
+          "b": "AR 11 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 PA 4 ALN 1",
+          "b": "AR 11 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 PA 4 ALN 2",
+          "b": "AR 11 PA 4 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 PA 4 ALN 3",
+          "b": "AR 11 PA 4 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 6 PA 5",
+          "b": "AR 11 PA 5",
+          "ratio": 0.959
+        },
+        {
+          "a": "AR 6 PA 5 ALN 1",
+          "b": "AR 11 PA 5 ALN 1",
+          "ratio": 0.959
+        },
+        {
+          "a": "AR 6 PA 8",
+          "b": "AR 11 PA 8",
+          "ratio": 0.954
+        },
+        {
+          "a": "AR 6 PA 8 ALN 1",
+          "b": "AR 11 PA 8 ALN 1",
+          "ratio": 0.952
+        },
+        {
+          "a": "AR 6 PA 9",
+          "b": "AR 11 PA 9",
+          "ratio": 0.944
+        },
+        {
+          "a": "AR 6 PA 9 ALN 1",
+          "b": "AR 11 PA 9 ALN 1",
+          "ratio": 0.943
+        },
+        {
+          "a": "AR 6 PA 10",
+          "b": "AR 11 PA 11",
+          "ratio": 0.917
+        },
+        {
+          "a": "AR 6 PA 10 ALN 1",
+          "b": "AR 11 PA 11 ALN 1",
+          "ratio": 0.957
+        },
+        {
+          "a": "AR 6 PA 11",
+          "b": "AR 11 PA 12",
+          "ratio": 0.976
+        },
+        {
+          "a": "AR 6 PA 11 ALN 1",
+          "b": "AR 11 PA 12 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 6 The investigation 1. Following the initiation",
+          "b": "Article 11 The investigation 1. Following the initiation",
+          "cut": false
+        },
+        {
+          "a": "Such an investigation shall cover both dumping and injury, and they shall be",
+          "b": "Such an investigation shall cover both subsidisation and injury, and they shall be",
+          "cut": false
+        },
+        {
+          "a": "selected which in the case of dumping shall, normally, cover a period of",
+          "b": "selected which in the case of subsidisation shall, normally, cover the investigation period",
+          "cut": false
+        },
+        {
+          "a": "case of dumping shall, normally, cover a period of no less than six",
+          "b": "case of subsidisation shall, normally, cover the investigation period provided for in Article 5.",
+          "cut": false
+        },
+        {
+          "a": "dumping shall, normally, cover a period of no less than six months immediately prior to the initiation of proceedings. Information relating to a period subsequent",
+          "b": "shall, normally, cover the investigation period provided for in Article 5. Information relating to a period subsequent",
+          "cut": false
+        },
+        {
+          "a": "period subsequent to the investigation period shall, normally, not be taken into account.",
+          "b": "period subsequent to the investigation period shall not, normally, be taken into account. 2.",
+          "cut": false
+        },
+        {
+          "a": "to the investigation period shall, normally, not be taken into account. 2. Parties",
+          "b": "the investigation period shall not, normally, be taken into account. 2. Parties",
+          "cut": false
+        },
+        {
+          "a": "2. Parties receiving questionnaires used in an anti-dumping investigation shall be given at least",
+          "b": "2. Parties receiving questionnaires used in a countervailing duty investigation shall be given at least",
+          "cut": false
+        },
+        {
+          "a": "which it was sent to the exporter or transmitted to the appropriate diplomatic",
+          "b": "which it was sent to the respondent or transmitted to the appropriate diplomatic",
+          "cut": false
+        },
+        {
+          "a": "the appropriate diplomatic representative of the exporting country. An extension to the 30-day period",
+          "b": "the appropriate diplomatic representative of the country of origin and/or export. An extension to the 30-day period",
+          "cut": false
+        },
+        {
+          "a": "made themselves known in accordance with Article 5(10) shall be heard if",
+          "b": "made themselves known in accordance with the second subparagraph of Article 10(12), shall be heard if",
+          "cut": false
+        },
+        {
+          "a": "themselves known in accordance with Article 5(10) shall be heard if they have,",
+          "b": "with the second subparagraph of Article 10(12), shall be heard if they have,",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 21,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 14",
+      "b": "AR 24",
+      "ratio": 0.971,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 14 PA 1",
+          "b": "AR 24 PA 1",
+          "ratio": 0.965
+        },
+        {
+          "a": "AR 14 PA 1 ALN 1",
+          "b": "AR 24 PA 1 ALN 1",
+          "ratio": 0.945
+        },
+        {
+          "a": "AR 14 PA 1 ALN 2",
+          "b": "AR 24 PA 1 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 14 PA 2",
+          "b": "AR 24 PA 2",
+          "ratio": 0.922
+        },
+        {
+          "a": "AR 14 PA 2 ALN 1",
+          "b": "AR 24 PA 2 ALN 1",
+          "ratio": 0.9
+        },
+        {
+          "a": "AR 14 PA 2 ALN 2",
+          "b": "AR 24 PA 2 ALN 2",
+          "ratio": 0.93
+        },
+        {
+          "a": "AR 14 PA 3",
+          "b": "AR 24 PA 3",
+          "ratio": 0.982
+        },
+        {
+          "a": "AR 14 PA 3 ALN 1",
+          "b": "AR 24 PA 3 ALN 1",
+          "ratio": 0.982
+        },
+        {
+          "a": "AR 14 PA 4",
+          "b": "AR 24 PA 4",
+          "ratio": 0.979
+        },
+        {
+          "a": "AR 14 PA 4 ALN 1",
+          "b": "AR 24 PA 4 ALN 1",
+          "ratio": 0.969
+        },
+        {
+          "a": "AR 14 PA 4 ALN 2",
+          "b": "AR 24 PA 4 ALN 2",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 14 PA 5",
+          "b": "AR 24 PA 5",
+          "ratio": 0.996
+        },
+        {
+          "a": "AR 14 PA 5 ALN 1",
+          "b": "AR 24 PA 5 ALN 1",
+          "ratio": 0.996
+        },
+        {
+          "a": "AR 14 PA 5a",
+          "b": "AR 24 PA 5a",
+          "ratio": 0.965
+        },
+        {
+          "a": "AR 14 PA 5a ALN 1",
+          "b": "AR 24 PA 5a ALN 1",
+          "ratio": 0.965
+        },
+        {
+          "a": "AR 14 PA 6",
+          "b": "AR 24 PA 6",
+          "ratio": 0.991
+        },
+        {
+          "a": "AR 14 PA 6 ALN 1",
+          "b": "AR 24 PA 6 ALN 1",
+          "ratio": 0.991
+        },
+        {
+          "a": "AR 14 PA 7",
+          "b": "AR 24 PA 7",
+          "ratio": 0.948
+        },
+        {
+          "a": "AR 14 PA 7 ALN 1",
+          "b": "AR 24 PA 7 ALN 1",
+          "ratio": 0.947
+        },
+        {
+          "a": "AR 14 PA 8",
+          "b": "AR 24 PA 8",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 14 PA 8 ALN 1",
+          "b": "AR 24 PA 8 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 14 General provisions 1. Provisional or definitive",
+          "b": "Article 24 General provisions 1. Provisional or definitive",
+          "cut": false
+        },
+        {
+          "a": "General provisions 1. Provisional or definitive anti-dumping duties shall be imposed by regulation,",
+          "b": "General provisions 1. Provisional or definitive countervailing duties shall be imposed by Regulation,",
+          "cut": false
+        },
+        {
+          "a": "anti-dumping duties shall be imposed by regulation, and collected by Member States in",
+          "b": "countervailing duties shall be imposed by Regulation, and collected by Member States in",
+          "cut": false
+        },
+        {
+          "a": "other criteria laid down in the regulation imposing such duties. Such duties shall",
+          "b": "other criteria laid down in the Regulation imposing such duties. Such duties shall",
+          "cut": false
+        },
+        {
+          "a": "2. Regulations imposing provisional or definitive anti-dumping duties, and regulations or decisions accepting",
+          "b": "2. Regulations imposing provisional or definitive countervailing duties, and Regulations or Decisions accepting",
+          "cut": false
+        },
+        {
+          "a": "provisional or definitive anti-dumping duties, and regulations or decisions accepting undertakings or terminating",
+          "b": "provisional or definitive countervailing duties, and Regulations or Decisions accepting undertakings or terminating",
+          "cut": false
+        },
+        {
+          "a": "definitive anti-dumping duties, and regulations or decisions accepting undertakings or terminating investigations or",
+          "b": "definitive countervailing duties, and Regulations or Decisions accepting undertakings or terminating investigations or",
+          "cut": false
+        },
+        {
+          "a": "of the European Union . Such regulations or decisions shall contain in particular,",
+          "b": "of the European Union . Such Regulations or Decisions shall contain in particular,",
+          "cut": false
+        },
+        {
+          "a": "European Union . Such regulations or decisions shall contain in particular, and with",
+          "b": "European Union . Such Regulations or Decisions shall contain in particular, and with",
+          "cut": false
+        },
+        {
+          "a": "product and a summary of the material facts and considerations relevant to the",
+          "b": "product and a summary of the facts and considerations relevant to the",
+          "cut": false
+        },
+        {
+          "a": "facts and considerations relevant to the dumping and injury determinations. In each case,",
+          "b": "facts and considerations relevant to the subsidy and injury determinations. In each case,",
+          "cut": false
+        },
+        {
+          "a": "each case, a copy of the regulation or decision shall be sent to",
+          "b": "each case, a copy of the Regulation or Decision shall be sent to",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 12,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 14a",
+      "b": "AR 24a",
+      "ratio": 0.961,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 14a PA 1",
+          "b": "AR 24a PA 1",
+          "ratio": 0.966
+        },
+        {
+          "a": "AR 14a PA 1 ALN 1",
+          "b": "AR 24a PA 1 ALN 1",
+          "ratio": 0.966
+        },
+        {
+          "a": "AR 14a PA 2",
+          "b": "AR 24a PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 14a PA 2 ALN 1",
+          "b": "AR 24a PA 2 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": false
+    },
+    {
+      "a": "AR 15",
+      "b": "AR 25",
+      "ratio": 0.908,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 15 PA 2",
+          "b": "AR 25 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 2 ALN 1",
+          "b": "AR 25 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 3",
+          "b": "AR 25 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 3 ALN 1",
+          "b": "AR 25 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 4",
+          "b": "AR 25 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 4 ALN 1",
+          "b": "AR 25 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 5",
+          "b": "AR 25 PA 5",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 15 PA 5 ALN 1",
+          "b": "AR 25 PA 5 ALN 1",
+          "ratio": 0.984
+        },
+        {
+          "a": "AR 15 PA 6",
+          "b": "AR 25 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 15 PA 6 ALN 1",
+          "b": "AR 25 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 16",
+      "b": "AR 26",
+      "ratio": 0.95,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 16 PA 1",
+          "b": "AR 26 PA 1",
+          "ratio": 0.945
+        },
+        {
+          "a": "AR 16 PA 1 ALN 1",
+          "b": "AR 26 PA 1 ALN 1",
+          "ratio": 0.944
+        },
+        {
+          "a": "AR 16 PA 2",
+          "b": "AR 26 PA 2",
+          "ratio": 0.911
+        },
+        {
+          "a": "AR 16 PA 2 ALN 1",
+          "b": "AR 26 PA 2 ALN 1",
+          "ratio": 0.91
+        },
+        {
+          "a": "AR 16 PA 3",
+          "b": "AR 26 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 3 ALN 1",
+          "b": "AR 26 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 4",
+          "b": "AR 26 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 16 PA 4 ALN 1",
+          "b": "AR 26 PA 4 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 17",
+      "b": "AR 27",
+      "ratio": 0.972,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 17 PA 1",
+          "b": "AR 27 PA 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 1 ALN 1",
+          "b": "AR 27 PA 1 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 2",
+          "b": "AR 27 PA 2",
+          "ratio": 0.972
+        },
+        {
+          "a": "AR 17 PA 2 ALN 1",
+          "b": "AR 27 PA 2 ALN 1",
+          "ratio": 0.971
+        },
+        {
+          "a": "AR 17 PA 3",
+          "b": "AR 27 PA 3",
+          "ratio": 0.945
+        },
+        {
+          "a": "AR 17 PA 3 ALN 1",
+          "b": "AR 27 PA 3 ALN 1",
+          "ratio": 0.944
+        },
+        {
+          "a": "AR 17 PA 4",
+          "b": "AR 27 PA 4",
+          "ratio": 0.985
+        },
+        {
+          "a": "AR 17 PA 4 ALN 1",
+          "b": "AR 27 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 17 PA 4 ALN 2",
+          "b": "AR 27 PA 4 ALN 2",
+          "ratio": 0.962
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 17 Sampling 1. In cases where the",
+          "b": "Article 27 Sampling 1. In cases where the",
+          "cut": false
+        },
+        {
+          "a": "of products or transactions made under these sampling provisions shall rest with the",
+          "b": "of products or transactions made under those sampling provisions shall rest with the",
+          "cut": false
+        },
+        {
+          "a": "themselves known and make sufficient information available within one week of initiation of",
+          "b": "themselves known and make sufficient information available, within one week of initiation of",
+          "cut": false
+        },
+        {
+          "a": "accordance with this Article, an individual margin of dumping shall, nevertheless, be calculated",
+          "b": "accordance with this Article, an individual amount of countervailable subsidisation shall be calculated",
+          "cut": false
+        },
+        {
+          "a": "this Article, an individual margin of dumping shall, nevertheless, be calculated for any exporter or",
+          "b": "this Article, an individual amount of countervailable subsidisation shall be calculated for any exporter or",
+          "cut": false
+        },
+        {
+          "a": "sample, the relevant provisions of Article 18 shall apply.",
+          "b": "sample, the relevant provisions of Article 28 shall apply.",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 18",
+      "b": "AR 28",
+      "ratio": 0.984,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 18 PA 1",
+          "b": "AR 28 PA 1",
+          "ratio": 0.983
+        },
+        {
+          "a": "AR 18 PA 1 ALN 1",
+          "b": "AR 28 PA 1 ALN 1",
+          "ratio": 0.979
+        },
+        {
+          "a": "AR 18 PA 1 ALN 2",
+          "b": "AR 28 PA 1 ALN 2",
+          "ratio": 0.982
+        },
+        {
+          "a": "AR 18 PA 1 ALN 3",
+          "b": "AR 28 PA 1 ALN 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 2",
+          "b": "AR 28 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 2 ALN 1",
+          "b": "AR 28 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 3",
+          "b": "AR 28 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 3 ALN 1",
+          "b": "AR 28 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 4",
+          "b": "AR 28 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 4 ALN 1",
+          "b": "AR 28 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 5",
+          "b": "AR 28 PA 5",
+          "ratio": 0.962
+        },
+        {
+          "a": "AR 18 PA 5 ALN 1",
+          "b": "AR 28 PA 5 ALN 1",
+          "ratio": 0.952
+        },
+        {
+          "a": "AR 18 PA 5 ALN 2",
+          "b": "AR 28 PA 5 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 6",
+          "b": "AR 28 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 18 PA 6 ALN 1",
+          "b": "AR 28 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 18 Non-cooperation 1. In cases in which",
+          "b": "Article 28 Non-cooperation 1. In cases in which",
+          "cut": false
+        },
+        {
+          "a": "access to, or otherwise does not provide, necessary information within the time limits",
+          "b": "access to, or otherwise does not provide necessary information within the time limits",
+          "cut": false
+        },
+        {
+          "a": "and use may be made of facts available. Interested parties shall be",
+          "b": "and use may be made of the facts available. Interested parties shall be",
+          "cut": false
+        },
+        {
+          "a": "5. If determinations, including those regarding normal value, are based on the provisions of",
+          "b": "5. If determinations, including those regarding the amount of countervailable subsidies, are based on the provisions of",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 19",
+      "b": "AR 29",
+      "ratio": 0.979,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 19 PA 1",
+          "b": "AR 29 PA 1",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 19 PA 1 ALN 1",
+          "b": "AR 29 PA 1 ALN 1",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 19 PA 2",
+          "b": "AR 29 PA 2",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 19 PA 2 ALN 1",
+          "b": "AR 29 PA 2 ALN 1",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 19 PA 3",
+          "b": "AR 29 PA 3",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 3 ALN 1",
+          "b": "AR 29 PA 3 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 19 PA 4",
+          "b": "AR 29 PA 4",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 19 PA 4 ALN 1",
+          "b": "AR 29 PA 4 ALN 1",
+          "ratio": 0.987
+        },
+        {
+          "a": "AR 19 PA 5",
+          "b": "AR 29 PA 5",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 19 PA 5 ALN 1",
+          "b": "AR 29 PA 5 ALN 1",
+          "ratio": 0.993
+        },
+        {
+          "a": "AR 19 PA 6",
+          "b": "AR 29 PA 6",
+          "ratio": 0.913
+        },
+        {
+          "a": "AR 19 PA 6 ALN 1",
+          "b": "AR 29 PA 6 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 19 Confidentiality 1. Any information which is",
+          "b": "Article 29 Confidentiality 1. Any information which is",
+          "cut": false
+        },
+        {
+          "a": "supplying the information has acquired the information) or which is provided on a",
+          "b": "supplying the information has acquired the information), or which is provided on a",
+          "cut": false
+        },
+        {
+          "a": "a statement of the reasons why such summarisation is not possible shall be",
+          "b": "a statement of the reasons why summarisation is not possible shall be",
+          "cut": false
+        },
+        {
+          "a": "the parties concerned that their business secrets not be divulged. 5. The",
+          "b": "the parties concerned that their business or governmental secrets not be divulged. 5. The",
+          "cut": false
+        },
+        {
+          "a": "be divulged. 5. The Commission and Member States, including the officials of",
+          "b": "be divulged. 5. The Commission and the Member States, including the officials of",
+          "cut": false
+        },
+        {
+          "a": "other investigations within the same proceedings in relation to the product concerned.",
+          "b": "other investigations within the same proceedings concerning the same like product.",
+          "cut": false
+        },
+        {
+          "a": "same proceedings in relation to the product concerned.",
+          "b": "within the same proceedings concerning the same like product.",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 19a",
+      "b": "AR 29a",
+      "ratio": 0.942,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 19a PA 1",
+          "b": "AR 29a PA 1",
+          "ratio": 0.935
+        },
+        {
+          "a": "AR 19a PA 1 ALN 1",
+          "b": "AR 29a PA 1 ALN 1",
+          "ratio": 0.934
+        },
+        {
+          "a": "AR 19a PA 2",
+          "b": "AR 29a PA 2",
+          "ratio": 0.978
+        },
+        {
+          "a": "AR 19a PA 2 ALN 1",
+          "b": "AR 29a PA 2 ALN 1",
+          "ratio": 0.977
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 20",
+      "b": "AR 30",
+      "ratio": 0.969,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 20 PA 1",
+          "b": "AR 30 PA 1",
+          "ratio": 0.933
+        },
+        {
+          "a": "AR 20 PA 1 ALN 1",
+          "b": "AR 30 PA 1 ALN 1",
+          "ratio": 0.932
+        },
+        {
+          "a": "AR 20 PA 2",
+          "b": "AR 30 PA 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 20 PA 2 ALN 1",
+          "b": "AR 30 PA 2 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 20 PA 3",
+          "b": "AR 30 PA 3",
+          "ratio": 0.947
+        },
+        {
+          "a": "AR 20 PA 3 ALN 1",
+          "b": "AR 30 PA 3 ALN 1",
+          "ratio": 0.947
+        },
+        {
+          "a": "AR 20 PA 4",
+          "b": "AR 30 PA 4",
+          "ratio": 0.977
+        },
+        {
+          "a": "AR 20 PA 4 ALN 1",
+          "b": "AR 30 PA 4 ALN 1",
+          "ratio": 0.965
+        },
+        {
+          "a": "AR 20 PA 4 ALN 2",
+          "b": "AR 30 PA 4 ALN 2",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 20 PA 5",
+          "b": "AR 30 PA 5",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 20 PA 5 ALN 1",
+          "b": "AR 30 PA 5 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 20 Disclosure 1. The complainants, importers and",
+          "b": "Article 30 Disclosure 1. The complainants, importers and",
+          "cut": false
+        },
+        {
+          "a": "exporters and their representative associations, and representatives of the exporting country, may request",
+          "b": "exporters and their representative associations, and the country of origin and/or export, may request",
+          "cut": false
+        },
+        {
+          "a": "their representative associations, and representatives of the exporting country, may request disclosure of the details",
+          "b": "representative associations, and the country of origin and/or export, may request disclosure of the details",
+          "cut": false
+        },
+        {
+          "a": "provisional measures. 3. Requests for final disclosure, as defined in paragraph 2, shall be addressed to the Commission",
+          "b": "provisional measures. 3. Requests for final disclosure shall be addressed to the Commission",
+          "cut": false
+        },
+        {
+          "a": "the procedures set out in Article 9. Where the Commission is not in",
+          "b": "the procedures set out in Article 14 or Article 15. Where the Commission is not in",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 21",
+      "b": "AR 31",
+      "ratio": 0.972,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 21 PA 1",
+          "b": "AR 31 PA 1",
+          "ratio": 0.954
+        },
+        {
+          "a": "AR 21 PA 1 ALN 1",
+          "b": "AR 31 PA 1 ALN 1",
+          "ratio": 0.954
+        },
+        {
+          "a": "AR 21 PA 2",
+          "b": "AR 31 PA 2",
+          "ratio": 0.986
+        },
+        {
+          "a": "AR 21 PA 2 ALN 1",
+          "b": "AR 31 PA 2 ALN 1",
+          "ratio": 0.986
+        },
+        {
+          "a": "AR 21 PA 3",
+          "b": "AR 31 PA 3",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 21 PA 3 ALN 1",
+          "b": "AR 31 PA 3 ALN 1",
+          "ratio": 0.98
+        },
+        {
+          "a": "AR 21 PA 4",
+          "b": "AR 31 PA 4",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 4 ALN 1",
+          "b": "AR 31 PA 4 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 5",
+          "b": "AR 31 PA 5",
+          "ratio": 0.949
+        },
+        {
+          "a": "AR 21 PA 5 ALN 1",
+          "b": "AR 31 PA 5 ALN 1",
+          "ratio": 0.949
+        },
+        {
+          "a": "AR 21 PA 6",
+          "b": "AR 31 PA 6",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 6 ALN 1",
+          "b": "AR 31 PA 6 ALN 1",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 21 PA 7",
+          "b": "AR 31 PA 7",
+          "ratio": 0.947
+        },
+        {
+          "a": "AR 21 PA 7 ALN 1",
+          "b": "AR 31 PA 7 ALN 1",
+          "ratio": 0.944
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 22",
+      "b": "AR 33",
+      "ratio": 0.969,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 22 ALN 1",
+          "b": "AR 33 ALN 1",
+          "ratio": 0.974
+        },
+        {
+          "a": "AR 22 ALN 1 PTA (a)",
+          "b": "AR 33 ALN 1 PTA (a)",
+          "ratio": 1.0
+        },
+        {
+          "a": "AR 22 ALN 1 PTA (b)",
+          "b": "AR 33 ALN 1 PTA (b)",
+          "ratio": 0.992
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 22 Final provisions This Regulation shall not",
+          "b": "Article 33 Final provisions This Regulation shall not",
+          "cut": false
+        },
+        {
+          "a": "thereof which preclude the application of anti-dumping duties; (c) special measures, provided that",
+          "b": "thereof which preclude the application of countervailing duties; (c) special measures, provided that",
+          "cut": false
+        },
+        {
+          "a": "run counter to obligations under the General Agreement on Tariffs and Trade 1994.",
+          "b": "run counter to obligations under the GATT 1994.",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 24",
+      "b": "AR 35",
+      "ratio": 0.914,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 24 ALN 2",
+          "b": "AR 35 ALN 2",
+          "ratio": 0.962
+        }
+      ],
+      "passages": [],
+      "passages_omitted": 0,
+      "passages_withheld": true,
+      "headings_equal": true
+    },
+    {
+      "a": "AR 25",
+      "b": "AR 36",
+      "ratio": 0.966,
+      "identical": false,
+      "children": [
+        {
+          "a": "AR 25 ALN 1",
+          "b": "AR 36 ALN 1",
+          "ratio": 1.0
+        }
+      ],
+      "passages": [
+        {
+          "a": "Article 25 Entry into force This Regulation shall",
+          "b": "Article 36 Entry into force This Regulation shall",
+          "cut": false
+        }
+      ],
+      "passages_omitted": 0,
+      "passages_withheld": false,
+      "headings_equal": true
+    }
+  ],
+  "unpaired_a": [
+    {
+      "unit": "AR 1",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 2",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 3",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 5",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 7",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 8",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 9",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 10",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 11",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 12",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 13",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 23",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 23a",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AN I",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AN II",
+      "best": null,
+      "ratio": null
+    }
+  ],
+  "unpaired_b": [
+    {
+      "unit": "AR 1",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 2",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 3",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 4",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 5",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 6",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 7",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 8",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 10",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 12",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 13",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 14",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 15",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 16",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 17",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 18",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 19",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 20",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 21",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 22",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 23",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 32",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 32a",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 32b",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AR 34",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AN I",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AN II",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AN III",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AN IV",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AN V",
+      "best": null,
+      "ratio": null
+    },
+    {
+      "unit": "AN VI",
+      "best": null,
+      "ratio": null
+    }
+  ]
+}
