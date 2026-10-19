@@ -22,6 +22,7 @@
       "b": "AR 9",
       "ratio": 0.977,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 4 PA 1",
@@ -140,6 +141,7 @@
       "b": "AR 11",
       "ratio": 0.908,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 6 PA 2",
@@ -313,6 +315,7 @@
       "b": "AR 24",
       "ratio": 0.971,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 14 PA 1",
@@ -491,6 +494,7 @@
       "b": "AR 24a",
       "ratio": 0.961,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 14a PA 1",
@@ -523,6 +527,7 @@
       "b": "AR 25",
       "ratio": 0.908,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 15 PA 2",
@@ -585,6 +590,7 @@
       "b": "AR 26",
       "ratio": 0.95,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 16 PA 1",
@@ -637,6 +643,7 @@
       "b": "AR 27",
       "ratio": 0.972,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 17 PA 1",
@@ -725,6 +732,7 @@
       "b": "AR 28",
       "ratio": 0.984,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 18 PA 1",
@@ -833,6 +841,7 @@
       "b": "AR 29",
       "ratio": 0.979,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 19 PA 1",
@@ -941,6 +950,7 @@
       "b": "AR 29a",
       "ratio": 0.942,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 19a PA 1",
@@ -973,6 +983,7 @@
       "b": "AR 30",
       "ratio": 0.969,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 20 PA 1",
@@ -1066,6 +1077,7 @@
       "b": "AR 31",
       "ratio": 0.972,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 21 PA 1",
@@ -1148,6 +1160,7 @@
       "b": "AR 33",
       "ratio": 0.969,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 22 ALN 1",
@@ -1191,6 +1204,7 @@
       "b": "AR 35",
       "ratio": 0.914,
       "identical": false,
+      "numbering_only": false,
       "children": [
         {
           "a": "AR 24 ALN 2",
@@ -1208,6 +1222,7 @@
       "b": "AR 36",
       "ratio": 0.966,
       "identical": false,
+      "numbering_only": true,
       "children": [
         {
           "a": "AR 25 ALN 1",
