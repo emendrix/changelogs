@@ -847,15 +847,15 @@
       "key": "32022R1925",
       "title": "Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance)",
       "index": "eu/32022R1925/index.json",
-      "index_sha256": "d516f870f97d8b71f2a0f5f32b41a5927781f776b8784aabe5a2de66523c3d88",
+      "index_sha256": "1b261dab18db19fbd91f13fd5bbf720a3c507b770e2bd16b0dcf13b8093a611e",
       "events": 1,
       "changes": 1,
       "provisions": 1,
       "disputed": 0,
       "newest_version": "02022R1925-20221012",
       "newest_in_force": null,
-      "first_detected_on": "2026-08-12",
-      "updated_on": "2026-08-12"
+      "first_detected_on": "2026-10-22",
+      "updated_on": "2026-10-22"
     },
     {
       "corpus": "eu",

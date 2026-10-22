@@ -14,8 +14,8 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair […]
 ### `32022R1925` → `02022R1925-20221012`
 
-- **Act** `eu:32022R1925` · **In force** not stated · **Detected** 2026-08-12
-- **Touched** 1 provisions — 1 substantive · 0 date-only · **0 disputed**
+- **Act** `eu:32022R1925` · **In force** not stated · **Detected** 2026-10-22
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 53 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
 - **Citations** `v1` = `32022R1925` · `v2` = `02022R1925-20221012`
@@ -26,7 +26,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 13 PA 8 ALN 1`
 
-In paragraph 8, the internal cross-reference was changed from paragraph 6 to paragraph 7 of the same Article. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R1925#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02022R1925-20221012#art_13)
+Paragraph 8 now refers to paragraph 7 of the Article instead of paragraph 6, with no other wording changed. [Art. 13, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R1925#art_13) [Art. 13, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02022R1925-20221012#art_13)
 
 *before* (`32022R1925`)
 
