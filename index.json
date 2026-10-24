@@ -592,7 +592,7 @@
       "key": "32017R0625",
       "title": "Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (Text with EEA relevance)",
       "index": "eu/32017R0625/index.json",
-      "index_sha256": "a5f846a1d930e7a0e9c4cc8c7c4df284f91efa78c441ff801518b6dbf76522c2",
+      "index_sha256": "c3ecff5c8a25b5a91bc098089de295a20266e968c8aa16622a58f2eab5393969",
       "events": 5,
       "changes": 20,
       "provisions": 18,
@@ -600,7 +600,7 @@
       "newest_version": "02017R0625-20250105",
       "newest_in_force": "2025-01-05",
       "first_detected_on": "2026-09-04",
-      "updated_on": "2026-09-05"
+      "updated_on": "2026-10-24"
     },
     {
       "corpus": "eu",

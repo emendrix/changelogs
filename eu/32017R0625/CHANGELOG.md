@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other […]
 ### `02017R0625-20220128` → `02017R0625-20250105`
 
-- **Act** `eu:32017R0625` · **In force** 2025-01-05 · **Detected** 2026-09-04
+- **Act** `eu:32017R0625` · **In force** 2025-01-05 · **Detected** 2026-10-24
 - **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 171 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -26,11 +26,11 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 66 PA 5a` · *amended by* `32024R3115`
 
-A new paragraph 5a has been added exempting plants, plant products or other objects covered by Article 1(2), point (g), that enter the Union in passengers' personal luggage or through postal services for personal consumption or use from the notification obligation in paragraph 5, where the non-compliance concerns the absence of the phytosanitary certificate or other official attestation referred to in Article 99(1) of Regulation (EU) 2016/2031. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66)
+A new paragraph 5a has been added exempting plants, plant products or other objects subject to the measures in Article 1(2), point (g), that enter the Union in passengers' personal luggage or via postal services for personal consumption or use, from the notification obligation in paragraph 5, where the non-compliance concerns the absence of a phytosanitary certificate or other official attestation referred to in Article 99(1) of Regulation (EU) 2016/2031. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66)
 
-The same new paragraph requires competent authorities to keep a record of such non-compliance cases and to submit an annual report summarising those records to the Commission and to the competent authorities of other Member States via the IMSOC. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66)
+The new paragraph also requires competent authorities to keep a record of such non-compliance cases and to submit an annual report summarising those records to the Commission and the competent authorities of the other Member States via the IMSOC. [Art. 66, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20250105#art_66)
 
-This paragraph 5a did not exist in the earlier version of Article 66, which moved directly from paragraph 5 to paragraph 6. [Art. 66, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20220128#art_66)
+The earlier version of Article 66 contained no such paragraph 5a or exemption from the notification duty in paragraph 5. [Art. 66, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0625-20220128#art_66)
 
 *before* (`02017R0625-20220128`)
 

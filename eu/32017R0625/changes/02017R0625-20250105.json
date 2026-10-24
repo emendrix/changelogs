@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -8,7 +8,7 @@
   },
   "from_version": "02017R0625-20220128",
   "to_version": "02017R0625-20250105",
-  "detected_on": "2026-09-04",
+  "detected_on": "2026-10-24",
   "in_force": [
     "2025-01-05"
   ],
@@ -52,6 +52,7 @@
         "changed_within": [
           "AR 66 PA 5a"
         ],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -88,12 +89,13 @@
             ]
           }
         },
-        "disputed": false
+        "disputed": false,
+        "dispute_reason": null
       },
       "outcome": "passed",
       "sentences": [
         {
-          "text": "A new paragraph 5a has been added exempting plants, plant products or other objects covered by Article 1(2), point (g), that enter the Union in passengers' personal luggage or through postal services for personal consumption or use from the notification obligation in paragraph 5, where the non-compliance concerns the absence of the phytosanitary certificate or other official attestation referred to in Article 99(1) of Regulation (EU) 2016/2031.",
+          "text": "A new paragraph 5a has been added exempting plants, plant products or other objects subject to the measures in Article 1(2), point (g), that enter the Union in passengers' personal luggage or via postal services for personal consumption or use, from the notification obligation in paragraph 5, where the non-compliance concerns the absence of a phytosanitary certificate or other official attestation referred to in Article 99(1) of Regulation (EU) 2016/2031.",
           "fallback": false,
           "citations": [
             {
@@ -112,7 +114,7 @@
           ]
         },
         {
-          "text": "The same new paragraph requires competent authorities to keep a record of such non-compliance cases and to submit an annual report summarising those records to the Commission and to the competent authorities of other Member States via the IMSOC.",
+          "text": "The new paragraph also requires competent authorities to keep a record of such non-compliance cases and to submit an annual report summarising those records to the Commission and the competent authorities of the other Member States via the IMSOC.",
           "fallback": false,
           "citations": [
             {
@@ -131,7 +133,7 @@
           ]
         },
         {
-          "text": "This paragraph 5a did not exist in the earlier version of Article 66, which moved directly from paragraph 5 to paragraph 6.",
+          "text": "The earlier version of Article 66 contained no such paragraph 5a or exemption from the notification duty in paragraph 5.",
           "fallback": false,
           "citations": [
             {
@@ -252,33 +254,34 @@
       }
     ],
     "disagreements": [],
-    "metadata_only_units": []
+    "metadata_only_units": [],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
-    "changes": 2,
+    "changes": 1,
     "explained": 1,
-    "unavailable": 1,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
     "model_failed": 0,
-    "nothing_to_explain": 1,
+    "nothing_to_explain": 0,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 5338,
+      "input_tokens": 5291,
       "output_tokens": 381,
       "requests": 1,
       "schema_repairs": 0
     }
   },
   "gate": {
-    "changes": 2,
+    "changes": 1,
     "passed_first": 1,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 1,
+    "unexplained": 0,
     "retries": 0,
     "sentences": 3,
     "citations": 3,
@@ -286,35 +289,12 @@
     "notes_dropped": 0,
     "coordinates_unsupported": 0
   },
-  "repairs": [
+  "repairs": [],
+  "evidence": [
     {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-04",
-      "addressed": 2,
-      "repaired": 2,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-05",
-      "addressed": 1,
-      "repaired": 0,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
+      "location": "AR 66",
+      "occurrence": 0,
+      "digest": "sha256:f0aaec76566af15a9c08d40d58fcc574a4e96b8e59b7b5640a941e28bf5b8541"
     }
-  ],
-  "evidence": []
+  ]
 }
