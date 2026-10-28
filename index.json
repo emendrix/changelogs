@@ -127,15 +127,15 @@
       "key": "32010R1094",
       "title": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC",
       "index": "eu/32010R1094/index.json",
-      "index_sha256": "f464ff87cac48aa9ab8c750b323b87f002354f626702002730ce9d4d101b9411",
-      "events": 4,
-      "changes": 80,
+      "index_sha256": "4506439b5ec453724b6aea8c38838293f328fc1b70c8e1a92262ec2f5367792b",
+      "events": 5,
+      "changes": 82,
       "provisions": 69,
       "disputed": 10,
-      "newest_version": "02010R1094-20251110",
-      "newest_in_force": "2025-11-10",
+      "newest_version": "02010R1094-20270130",
+      "newest_in_force": "2027-01-30",
       "first_detected_on": "2026-09-04",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-10-28"
     },
     {
       "corpus": "eu",

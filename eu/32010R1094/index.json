@@ -6,6 +6,40 @@
   "title": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC",
   "events": [
     {
+      "to_version": "02010R1094-20270130",
+      "from_version": "02010R1094-20251110",
+      "detected_on": "2026-10-28",
+      "in_force": [
+        "2027-01-30"
+      ],
+      "updated_on": "2026-10-28",
+      "schema_version": "1.3",
+      "path": "eu/32010R1094/changes/02010R1094-20270130.json",
+      "sha256": "5dac17c8d01f28e3d468930e8e5331058a622eee9fa97b31392415a088ed6f44",
+      "diff_only": false,
+      "counts": {
+        "touched": 2,
+        "substantive": 2,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": [
+        "AR 2",
+        "AR 7",
+        "AR 14",
+        "AR 81",
+        "AR 83",
+        "AR 84",
+        "AR 88"
+      ]
+    },
+    {
       "to_version": "02010R1094-20251110",
       "from_version": "02010R1094-20250701",
       "detected_on": "2026-09-04",
@@ -1255,6 +1289,36 @@
     ],
     "AR 4": [
       {
+        "version": "02010R1094-20270130",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2027-01-30",
+        "applies_from": "unknown",
+        "dates_added": [
+          "2016-01-20",
+          "2016-12-14",
+          "2024-11-27"
+        ],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32025L0001"
+        ],
+        "changed_within": [
+          "AR 4 ALN 1 PO 2 PTI (i)"
+        ],
+        "occurrence": 1
+      },
+      {
         "version": "02010R1094-20200101",
         "change_type": "MODIFIED",
         "previous_location": null,
@@ -1282,6 +1346,32 @@
       }
     ],
     "AR 40": [
+      {
+        "version": "02010R1094-20270130",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "observed"
+        },
+        "text": "both",
+        "in_force": "2027-01-30",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32025L0001"
+        ],
+        "changed_within": [
+          "AR 40 PA 6 ALN 2"
+        ],
+        "occurrence": 1
+      },
       {
         "version": "02010R1094-20250701",
         "change_type": "MODIFIED",

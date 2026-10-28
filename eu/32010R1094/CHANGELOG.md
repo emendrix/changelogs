@@ -10,6 +10,86 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02010R1094-20270130 -->
+## Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
+### `02010R1094-20251110` → `02010R1094-20270130`
+
+- **Act** `eu:32010R1094` · **In force** 2027-01-30 · **Detected** 2026-10-28
+- **Touched** 2 provisions — 2 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 2 modified · 0 deleted · 0 renumbered · 0 deferred · 93 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02010R1094-20251110` · `v2` = `02010R1094-20270130`
+
+---
+
+**MODIFIED · Art. 4 — Definitions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 4 ALN 1 PO 2 PTI (i)` · *dates* +2016-01-20 +2016-12-14 +2024-11-27 · *amended by* `32025L0001`
+
+Point (2)(i) now cites specific articles within Directive 2009/138/EC for the definition of supervisory authorities, adds resolution authorities as defined in Directive (EU) 2025/1, and replaces the references to Directives 2003/41/EC and 2002/92/EC with references to Directive (EU) 2016/2341 and Directive (EU) 2016/97. [Art. 4, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20270130#art_4)
+
+The earlier version instead referred only to supervisory authorities as defined in Directive 2009/138/EC and competent authorities as defined in Directives 2003/41/EC and 2002/92/EC, without any of these added directive citations or footnoted titles. [Art. 4, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_4)
+
+*before* (`02010R1094-20251110`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institutions means undertakings, entities and natural and legal persons subject to any of the legislative acts referred to in Article 1(2). With regard to Directive 2005/60/EC, financial institutions means only insurance undertakings and insurance intermediaries as defined in that Directive;
+> (2) competent authorities means:
+> (i) supervisory authorities as defined in Directive 2009/138/EC, and competent authorities as defined in Directive 2003/41/EC and 2002/92/EC;
+> (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by financial institutions.
+
+*after* (`02010R1094-20270130`)
+
+> Article 4
+> Definitions
+> For the purposes of this Regulation the following definitions apply:
+> (1) financial institutions means undertakings, entities and natural and legal persons subject to any of the legislative acts referred to in Article 1(2). With regard to Directive 2005/60/EC, financial institutions means only insurance undertakings and insurance intermediaries as defined in that Directive;
+> (2) competent authorities means:
+> (i) supervisory authorities as defined in Article 13, point (10), of Directive 2009/138/EC, resolution authorities as defined in Article 2, point (12), of Directive (EU) 2025/1 of the European Parliament and of the Council
+> Directive (EU) 2025/1 of the European Parliament and of the Council of 27 November 2024 establishing a framework for the recovery and resolution of insurance and reinsurance undertakings and amending Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 and Regulations (EU) No 1094/2010, (EU) No 648/2012, (EU) No 806/2014 and (EU) 2017/1129 (OJ L, 2025/1, 8.1.2025, ELI: http://data.europa.eu/eli/dir/2025/1/oj)., and competent authorities as defined in Article 6, point (8), of Directive (EU) 2016/2341 of the European Parliament and of the Council
+> Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (OJ L 354, 23.12.2016, p. 37). and as referred to in Directive (EU) 2016/97 of the E […truncated by emendrix: 350 characters omitted…]
+
+**MODIFIED · Art. 40 — Composition** · applies from: unchanged
+
+*within* `AR 40 PA 6 ALN 2` · *amended by* `32025L0001`
+
+A new sentence is added to paragraph 6 stating that, for acting within the scope of Directive (EU) 2025/1, the member of the Board of Supervisors referred to in paragraph 1, point (b), may be accompanied, where appropriate, by a representative from the resolution authority in each Member State, who shall be non-voting. [Art. 40, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20270130#art_40)
+
+This addition does not appear in the earlier version of Article 40, which ends paragraph 6 with the provision on shared consumer protection responsibility. [Art. 40, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02010R1094-20251110#art_40)
+
+*before* (`02010R1094-20251110`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson;
+> (b) the head of the national public authority competent for the supervision of financial institutions in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative of the ESRB, who shall be non-voting;
+> (e) one representative of each of the other two European Supervisory Authorities, who shall be non-voting;
+> 2. The Board of Supervisors shall convene meetings with the Stakeholder Groups regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.
+> 5. The Board of Supervisors may decide to admit observers. In particular, the Board of Supervisors shall admit a representative of the Authority for Anti-Money Laundering and […truncated by emendrix: 1151 characters omitted…]
+
+*after* (`02010R1094-20270130`)
+
+> Article 40
+> Composition
+> 1. The Board of Supervisors shall be composed of:
+> (a) the Chairperson;
+> (b) the head of the national public authority competent for the supervision of financial institutions in each Member State, who shall meet in person at least twice a year;
+> (c) one representative of the Commission, who shall be non-voting;
+> (d) one representative of the ESRB, who shall be non-voting;
+> (e) one representative of each of the other two European Supervisory Authorities, who shall be non-voting;
+> 2. The Board of Supervisors shall convene meetings with the Stakeholder Groups regularly, at least twice a year.
+> 3. Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+> 4. In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.
+> 5. The Board of Supervisors may decide to admit observers. In particular, the Board of Supervisors shall admit a representative of the Authority for Anti-Money Laundering and […truncated by emendrix: 1434 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02010R1094-20270130 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02010R1094-20251110 -->
 ## Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European […]
 ### `02010R1094-20250701` → `02010R1094-20251110`
