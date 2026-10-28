@@ -6,6 +6,32 @@
   "title": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )",
   "events": [
     {
+      "to_version": "02017R0745-20261109",
+      "from_version": "02017R0745-20260719",
+      "detected_on": "2026-10-28",
+      "in_force": [
+        "2026-11-09"
+      ],
+      "updated_on": "2026-10-28",
+      "schema_version": "1.3",
+      "path": "eu/32017R0745/changes/02017R0745-20261109.json",
+      "sha256": "4cf4a1d4ce72b596c6c1a854839c93f933a6077734bd670d9071d3018d300395",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 1,
+        "date_only": 0,
+        "textless": 0,
+        "disputed": 0,
+        "quoted": 0,
+        "unexplained": 0
+      },
+      "repairs": [],
+      "evidence": true,
+      "metadata_only_units": [],
+      "instruction_only_units": []
+    },
+    {
       "to_version": "02017R0745-20260719",
       "from_version": "02017R0745-20260101",
       "detected_on": "2026-09-11",
@@ -411,6 +437,34 @@
           "AN IX SCT 3",
           "AN IX SCT 3 SCT 3.5",
           "AN IX SCT 4 SCT 4.3"
+        ],
+        "occurrence": 1
+      }
+    ],
+    "AN VI": [
+      {
+        "version": "02017R0745-20261109",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": false,
+        "dispute_reason": null,
+        "signals": {
+          "structural_diff": "observed",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "both",
+        "in_force": "2026-11-09",
+        "applies_from": "unchanged",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "passed",
+        "unexplained_kind": "",
+        "amending_acts": [
+          "32023R2197"
+        ],
+        "changed_within": [
+          "AN VI SCT 6 SCT 6.6"
         ],
         "occurrence": 1
       }

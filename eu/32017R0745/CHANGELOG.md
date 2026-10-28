@@ -10,6 +10,61 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20261109 -->
+## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
+### `02017R0745-20260719` → `02017R0745-20261109`
+
+- **Act** `eu:32017R0745` · **In force** 2026-11-09 · **Detected** 2026-10-28
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 140 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02017R0745-20260719` · `v2` = `02017R0745-20261109`
+
+---
+
+**MODIFIED · Annex VI — INFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF DEVICES AND ECONOMIC OPERATORS IN ACCORDANCE WITH ARTICLES 29(4) AND 31, CORE DATA ELEMENTS TO BE PROVIDED TO THE UDI DATABASE TOGETHER WITH THE UDI-DI IN ACCORDANCE WITH ARTICLES 28 AND 29, AND THE UDI SYSTEM** · applies from: unchanged
+
+*within* `AN VI SCT 6 SCT 6.6` · *amended by* `32023R2197`
+
+A new subsection 6.6, titled Highly individualised devices, has been added covering contact lenses, with separate subpoints for standard contact lenses and made to order contact lenses. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20261109#anx_VI)
+
+For each of these two lens categories, the added text specifies that a UDI-DI (termed Master UDI-DI) is assigned to lenses sharing the same combination of design parameters including at least base curve and diameter, and that a new Master UDI-DI is required, in addition to the requirement in Section 3.9, whenever that combination of design parameters changes. [Annex VI, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20261109#anx_VI)
+
+This subsection and its content were absent from the earlier version of Annex VI. [Annex VI, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R0745-20260719#anx_VI)
+
+*before* (`02017R0745-20260719`)
+
+> ANNEX VI
+> INFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF DEVICES AND ECONOMIC OPERATORS IN ACCORDANCE WITH ARTICLES 29(4) AND 31, CORE DATA ELEMENTS TO BE PROVIDED TO THE UDI DATABASE TOGETHER WITH THE UDI-DI IN ACCORDANCE WITH ARTICLES 28 AND 29, AND THE UDI SYSTEM
+> PART A
+> INFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF DEVICES AND ECONOMIC OPERATORS IN ACCORDANCE WITH ARTICLES 29(4) AND 31
+> Manufacturers or, when applicable, authorised representatives, and, when applicable, importers shall submit the information referred to in Section 1 and shall ensure that the information on their devices referred to in Section 2 is complete, correct and updated by the relevant party.
+> 1. Information relating to the economic operator
+> 1.1. type of economic operator(manufacturer, authorised representative, or importer),
+> 1.2. name, address and contact details of the economic operator,
+> 1.3. where submission of information is carried out by another person on behalf of any of the economic operators mentioned under Section 1.1, the name, address and contact details of that person,
+> 1.4. name address and contact details of the person or persons responsible for regulatory compliance referred to in Article 15.
+> 2. Information relating to the device
+> 2.1. Basic UDI-DI,
+> 2.2. type, number and expiry date of the certificate issued by the notified body and the name or identification number of that notified body and the link to the information that appears on the certificate and was entered by the no […truncated by emendrix: 19690 characters omitted…]
+
+*after* (`02017R0745-20261109`)
+
+> ANNEX VI
+> INFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF DEVICES AND ECONOMIC OPERATORS IN ACCORDANCE WITH ARTICLES 29(4) AND 31, CORE DATA ELEMENTS TO BE PROVIDED TO THE UDI DATABASE TOGETHER WITH THE UDI-DI IN ACCORDANCE WITH ARTICLES 28 AND 29, AND THE UDI SYSTEM
+> PART A
+> INFORMATION TO BE SUBMITTED UPON THE REGISTRATION OF DEVICES AND ECONOMIC OPERATORS IN ACCORDANCE WITH ARTICLES 29(4) AND 31
+> Manufacturers or, when applicable, authorised representatives, and, when applicable, importers shall submit the information referred to in Section 1 and shall ensure that the information on their devices referred to in Section 2 is complete, correct and updated by the relevant party.
+> 1. Information relating to the economic operator
+> 1.1. type of economic operator(manufacturer, authorised representative, or importer),
+> 1.2. name, address and contact details of the economic operator,
+> 1.3. where submission of information is carried out by another person on behalf of any of the economic operators mentioned under Section 1.1, the name, address and contact details of that person,
+> 1.4. name address and contact details of the person or persons responsible for regulatory compliance referred to in Article 15.
+> 2. Information relating to the device
+> 2.1. Basic UDI-DI,
+> 2.2. type, number and expiry date of the certificate issued by the notified body and the name or identification number of that notified body and the link to the information that appears on the certificate and was entered by the no […truncated by emendrix: 20587 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R0745-20261109 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R0745-20260719 -->
 ## Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending […]
 ### `02017R0745-20260101` → `02017R0745-20260719`

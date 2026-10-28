@@ -607,15 +607,15 @@
       "key": "32017R0745",
       "title": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )",
       "index": "eu/32017R0745/index.json",
-      "index_sha256": "ccf37d8fd6677aacbadaef6951ba23656e42903d752287a918a9bc2e0294debf",
-      "events": 8,
-      "changes": 38,
-      "provisions": 26,
+      "index_sha256": "653e3e891e381caeb4b39919d7d13b81f16bb9a92e336d1cc9e79d8ab11b4d3b",
+      "events": 9,
+      "changes": 39,
+      "provisions": 27,
       "disputed": 0,
-      "newest_version": "02017R0745-20260719",
-      "newest_in_force": "2026-07-19",
+      "newest_version": "02017R0745-20261109",
+      "newest_in_force": "2026-11-09",
       "first_detected_on": "2026-08-12",
-      "updated_on": "2026-09-11"
+      "updated_on": "2026-10-28"
     },
     {
       "corpus": "eu",
