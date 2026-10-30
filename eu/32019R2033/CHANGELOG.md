@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential […]
 ### `02019R2033-20191205` → `02019R2033-20240109`
 
-- **Act** `eu:32019R2033` · **In force** 2024-01-09 · **Detected** 2026-08-13
+- **Act** `eu:32019R2033` · **In force** 2024-01-09 · **Detected** 2026-10-30
 - **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
 - **Diff** 1 inserted · 0 modified · 0 deleted · 0 renumbered · 0 deferred · 66 unchanged
 - **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
@@ -26,9 +26,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *amended by* `32023R2869`
 
-This is a new article requiring investment firms, when making public information referred to in Part Six of the Regulation, to also submit that information to a designated collection body so it can be made accessible on the European single access point (ESAP), along with specified formatting and metadata requirements. [Art. 46a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20240109#art_46a)
+This is a newly inserted article requiring investment firms to submit certain information, when making it public, to a collection body so that it can also be made accessible on the European single access point, along with specified accompanying metadata and format requirements. [Art. 46a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20240109#art_46a)
 
-It also designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines to ensure submitted metadata are correct. [Art. 46a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20240109#art_46a)
+It designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines on the correctness of certain submitted metadata. [Art. 46a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02019R2033-20240109#art_46a)
 
 *after* (`02019R2033-20240109`)
 

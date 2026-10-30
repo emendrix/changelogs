@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -8,7 +8,7 @@
   },
   "from_version": "02019R2033-20191205",
   "to_version": "02019R2033-20240109",
-  "detected_on": "2026-08-13",
+  "detected_on": "2026-10-30",
   "in_force": [
     "2024-01-09"
   ],
@@ -50,6 +50,7 @@
         "after": "Article 46a\nAccessibility of information on the European single access point\n1. From 10 January 2030, when making public any information referred to in Part Six of this Regulation, investment firms shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council\nRegulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj)..\nThat information shall comply with the following requirements:\n(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;\n(b) be accompanied by the following metadata:\n(i) all the names of the investment firm to which the information relates;\n(ii) the legal entity identifier of the investment firm, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;\n(iii) the size of the investment firm by category, as specified pursuant to Article 7(4), point (d), of that Regulation;\n(iv) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation;\n(v) an indication of whether the information contains personal data.\n2. For the purposes of paragraph 1, point (b)(ii), investment firms shall obtain a legal entity identifier.\n3. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be EBA.\n4. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, EBA shall develop draft implementing technical standards to specify:\n(a) any other metadata to accompany the information;\n(b) the structuring of data in the information;\n(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.\nFor the purposes of point (c), EBA, shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests for that purpose.\nEBA shall submit those draft implementing technical standards to the Commission.\nPower is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.\n5. Where necessary, EBA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 4, first subparagraph, point (a), are correct.",
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -91,7 +92,7 @@
       "outcome": "passed",
       "sentences": [
         {
-          "text": "This is a new article requiring investment firms, when making public information referred to in Part Six of the Regulation, to also submit that information to a designated collection body so it can be made accessible on the European single access point (ESAP), along with specified formatting and metadata requirements.",
+          "text": "This is a newly inserted article requiring investment firms to submit certain information, when making it public, to a collection body so that it can also be made accessible on the European single access point, along with specified accompanying metadata and format requirements.",
           "fallback": false,
           "citations": [
             {
@@ -110,7 +111,7 @@
           ]
         },
         {
-          "text": "It also designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines to ensure submitted metadata are correct.",
+          "text": "It designates EBA as the collection body, tasks EBA with developing implementing technical standards on metadata, data structuring and machine-readable formats, and allows EBA to adopt guidelines on the correctness of certain submitted metadata.",
           "fallback": false,
           "citations": [
             {
@@ -200,9 +201,9 @@
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
-    "changes": 2,
+    "changes": 1,
     "explained": 1,
-    "unavailable": 1,
+    "unavailable": 0,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
@@ -211,18 +212,18 @@
     "nothing_to_explain": 0,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 3370,
-      "output_tokens": 321,
+      "input_tokens": 3335,
+      "output_tokens": 306,
       "requests": 1,
       "schema_repairs": 0
     }
   },
   "gate": {
-    "changes": 2,
+    "changes": 1,
     "passed_first": 1,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 1,
+    "unexplained": 0,
     "retries": 0,
     "sentences": 3,
     "citations": 3,
@@ -230,64 +231,7 @@
     "notes_dropped": 1,
     "coordinates_unsupported": 0
   },
-  "repairs": [
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-04",
-      "addressed": 2,
-      "repaired": 2,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-05",
-      "addressed": 1,
-      "repaired": 1,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "evidence",
-      "repaired_on": "2026-09-05",
-      "addressed": 1,
-      "repaired": 1,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 3382,
-        "output_tokens": 392,
-        "requests": 1,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": true
-    },
-    {
-      "kind": "signals",
-      "repaired_on": "2026-10-08",
-      "addressed": 1,
-      "repaired": 1,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    }
-  ],
+  "repairs": [],
   "evidence": [
     {
       "location": "AR 46a",

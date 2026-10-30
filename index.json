@@ -802,7 +802,7 @@
       "key": "32019R2033",
       "title": "Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (Text with EEA relevance)",
       "index": "eu/32019R2033/index.json",
-      "index_sha256": "e333718f67d342bd6d0538b34bcb67aa1f8a18e56b8abe70ce85a493f0e46224",
+      "index_sha256": "ec735624468a8232df5e4b5438b29c849807c8d85c00d2924069a9c8a9dae669",
       "events": 2,
       "changes": 5,
       "provisions": 5,
@@ -810,7 +810,7 @@
       "newest_version": "02019R2033-20240109",
       "newest_in_force": "2024-01-09",
       "first_detected_on": "2026-08-13",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-10-30"
     },
     {
       "corpus": "eu",
