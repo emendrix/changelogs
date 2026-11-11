@@ -247,15 +247,15 @@
       "key": "32012R0978",
       "title": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008",
       "index": "eu/32012R0978/index.json",
-      "index_sha256": "6b0e0bb0ae1a58a0410cdf0cdb0dd20f96473e777330b1796a45ea00a60d85a0",
-      "events": 17,
-      "changes": 38,
+      "index_sha256": "3cb9df2426ad13e418d47c5d2cffda3d2204c814f395be8dc9418e656f791295",
+      "events": 18,
+      "changes": 39,
       "provisions": 11,
-      "disputed": 37,
-      "newest_version": "02012R0978-20250101",
-      "newest_in_force": "2025-01-01",
+      "disputed": 38,
+      "newest_version": "02012R0978-20270101",
+      "newest_in_force": "2027-01-01",
       "first_detected_on": "2026-08-13",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-11-11"
     },
     {
       "corpus": "eu",

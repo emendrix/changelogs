@@ -6,6 +6,34 @@
   "title": "Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008",
   "events": [
     {
+      "to_version": "02012R0978-20270101",
+      "from_version": "02012R0978-20250101",
+      "detected_on": "2026-11-11",
+      "in_force": [
+        "2027-01-01"
+      ],
+      "updated_on": "2026-11-11",
+      "schema_version": "1.3",
+      "path": "eu/32012R0978/changes/02012R0978-20270101.json",
+      "sha256": "94343afdeb1bdd9cdbe53528caca4506ff5101203d6f9402f3e4f3b19dd31dc4",
+      "diff_only": false,
+      "counts": {
+        "touched": 1,
+        "substantive": 0,
+        "date_only": 0,
+        "textless": 1,
+        "disputed": 1,
+        "quoted": 0,
+        "unexplained": 1
+      },
+      "repairs": [],
+      "evidence": true,
+      "metadata_only_units": [
+        "AN II"
+      ],
+      "instruction_only_units": []
+    },
+    {
       "to_version": "02012R0978-20250101",
       "from_version": "02012R0978-20231128",
       "detected_on": "2026-08-13",
@@ -606,6 +634,31 @@
       }
     ],
     "AN II": [
+      {
+        "version": "02012R0978-20270101",
+        "change_type": "MODIFIED",
+        "previous_location": null,
+        "disputed": true,
+        "dispute_reason": "textless_metadata_only",
+        "signals": {
+          "structural_diff": "absent",
+          "corpus_metadata": "observed",
+          "instruction_parse": "unavailable"
+        },
+        "text": "none",
+        "in_force": "2027-01-01",
+        "applies_from": "unknown",
+        "dates_added": [],
+        "dates_removed": [],
+        "outcome": "unexplained",
+        "unexplained_kind": "nothing_to_explain",
+        "amending_acts": [
+          "32025R0214",
+          "32025R1951"
+        ],
+        "changed_within": [],
+        "occurrence": 1
+      },
       {
         "version": "02012R0978-20230101",
         "change_type": "MODIFIED",
