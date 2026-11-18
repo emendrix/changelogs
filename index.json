@@ -382,7 +382,7 @@
       "key": "32014R0910",
       "title": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC",
       "index": "eu/32014R0910/index.json",
-      "index_sha256": "42663021a449fce74c57e497be9a4087e890c073947585540dadf906b84276a4",
+      "index_sha256": "7c797369763a3bac8b05e921bbce039c33b45f369a3390794a9c71dba22fb4a8",
       "events": 2,
       "changes": 82,
       "provisions": 80,
@@ -390,7 +390,7 @@
       "newest_version": "02014R0910-20241018",
       "newest_in_force": "2024-10-18",
       "first_detected_on": "2026-08-12",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-11-18"
     },
     {
       "corpus": "eu",

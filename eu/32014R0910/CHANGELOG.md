@@ -14,7 +14,7 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 ## Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification […]
 ### `02014R0910-20240520` → `02014R0910-20241018`
 
-- **Act** `eu:32014R0910` · **In force** 2024-10-18 · **Detected** 2026-08-12
+- **Act** `eu:32014R0910` · **In force** 2024-10-18 · **Detected** 2026-11-18
 - **Touched** 3 provisions — 2 substantive · 0 date-only · 1 with no text · **3 disputed**
 - **Diff** 0 inserted · 2 modified · 1 deleted · 0 renumbered · 0 deferred · 90 unchanged
 - **Gate** 0 sentences quoted verbatim · 1 changes shipped without an explanation
@@ -26,9 +26,9 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 
 *within* `AR 5a PA 16 ALN 1 PTA (b)`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
-In point (b) of paragraph 16, the word describing the privacy-preserving property that must be ensured was changed from unlikeability to unlinkability. [Art. 5a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a) [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_5a)
+In paragraph 16, point (b), the word describing the privacy-preserving property changes from "unlikeability" to "unlinkability". [Art. 5a, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_5a) [Art. 5a, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_5a)
 
 *before* (`02014R0910-20240520`)
 
@@ -60,7 +60,7 @@ In point (b) of paragraph 16, the word describing the privacy-preserving propert
 
 *amended by* `32022L2555`
 
-**DISPUTED** — seen by corpus metadata, the instruction parse, not by the structural diff
+**DISPUTED** — no text, named by both signals that carry none: seen by corpus metadata, the instruction parse, not by the structural diff
 
 *No explanation shipped — the structural diff did not see this change, so it carries no text; another signal named the unit and the disagreement ships marked disputed.*
 
@@ -70,11 +70,11 @@ In point (b) of paragraph 16, the word describing the privacy-preserving propert
 
 *within* `AR 47 PA 2 ALN 1`, `AR 47 PA 3 ALN 1`, `AR 47 PA 5 ALN 1`
 
-**DISPUTED** — seen by the structural diff, not by corpus metadata, the instruction parse
+**DISPUTED** — found by the structural diff alone: seen by the structural diff, not by corpus metadata, the instruction parse
 
-In paragraphs 2, 3, and 5, the cross-reference to Article 5c(7) is replaced with a cross-reference to Article 5c(8), while the references to Article 24(4b) and Article 30(4) remain unchanged. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_47)
+In paragraphs 2, 3 and 5, the cross-reference to Article 5c(7) has been changed to Article 5c(8) in each place it appears. [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_47)
 
-No other wording in these paragraphs, or in paragraphs 1 and 4, differs between the two versions. [Art. 47, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_47) [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_47)
+All other wording in these paragraphs, including the references to Article 24(4b) and Article 30(4), remains the same as before. [Art. 47, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20240520#art_47) [Art. 47, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02014R0910-20241018#art_47)
 
 *before* (`02014R0910-20240520`)
 

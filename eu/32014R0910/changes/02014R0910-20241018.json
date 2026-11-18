@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
   "act": {
     "corpus": "eu",
@@ -8,7 +8,7 @@
   },
   "from_version": "02014R0910-20240520",
   "to_version": "02014R0910-20241018",
-  "detected_on": "2026-08-12",
+  "detected_on": "2026-11-18",
   "in_force": [
     "2024-10-18"
   ],
@@ -52,6 +52,7 @@
         "changed_within": [
           "AR 5a PA 16 ALN 1 PTA (b)"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -78,12 +79,13 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
         {
-          "text": "In point (b) of paragraph 16, the word describing the privacy-preserving property that must be ensured was changed from unlikeability to unlinkability.",
+          "text": "In paragraph 16, point (b), the word describing the privacy-preserving property changes from \"unlikeability\" to \"unlinkability\".",
           "fallback": false,
           "citations": [
             {
@@ -136,6 +138,7 @@
         "after": null,
         "previous_location": null,
         "changed_within": [],
+        "table_entries": null,
         "amending_acts": [
           {
             "corpus": "eu",
@@ -171,7 +174,8 @@
             ]
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "textless_both_others"
       },
       "outcome": "unexplained",
       "sentences": [],
@@ -200,6 +204,7 @@
           "AR 47 PA 3 ALN 1",
           "AR 47 PA 5 ALN 1"
         ],
+        "table_entries": null,
         "amending_acts": [],
         "dates_removed": [],
         "dates_added": [],
@@ -226,12 +231,13 @@
             "change_types": []
           }
         },
-        "disputed": true
+        "disputed": true,
+        "dispute_reason": "both_others_silent"
       },
       "outcome": "passed",
       "sentences": [
         {
-          "text": "In paragraphs 2, 3, and 5, the cross-reference to Article 5c(7) is replaced with a cross-reference to Article 5c(8), while the references to Article 24(4b) and Article 30(4) remain unchanged.",
+          "text": "In paragraphs 2, 3 and 5, the cross-reference to Article 5c(7) has been changed to Article 5c(8) in each place it appears.",
           "fallback": false,
           "citations": [
             {
@@ -250,7 +256,7 @@
           ]
         },
         {
-          "text": "No other wording in these paragraphs, or in paragraphs 1 and 4, differs between the two versions.",
+          "text": "All other wording in these paragraphs, including the references to Article 24(4b) and Article 30(4), remains the same as before.",
           "fallback": false,
           "citations": [
             {
@@ -451,33 +457,34 @@
     ],
     "metadata_only_units": [
       "AR 19"
-    ]
+    ],
+    "instruction_only_units": []
   },
   "explain": {
     "model_id": "openrouter:anthropic/claude-sonnet-5",
-    "changes": 4,
+    "changes": 3,
     "explained": 2,
-    "unavailable": 2,
+    "unavailable": 1,
     "replayed": 0,
     "synthetic": 0,
     "truncated": 0,
     "no_evidence": 0,
     "model_failed": 0,
-    "nothing_to_explain": 0,
+    "nothing_to_explain": 1,
     "provider_unavailable": 0,
     "usage": {
-      "input_tokens": 13965,
-      "output_tokens": 373,
+      "input_tokens": 13939,
+      "output_tokens": 339,
       "requests": 2,
       "schema_repairs": 0
     }
   },
   "gate": {
-    "changes": 4,
+    "changes": 3,
     "passed_first": 2,
     "passed_on_retry": 0,
     "fallback": 0,
-    "unexplained": 2,
+    "unexplained": 1,
     "retries": 0,
     "sentences": 3,
     "citations": 5,
@@ -485,55 +492,22 @@
     "notes_dropped": 0,
     "coordinates_unsupported": 0
   },
-  "repairs": [
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-04",
-      "addressed": 4,
-      "repaired": 2,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "corroboration",
-      "repaired_on": "2026-09-05",
-      "addressed": 3,
-      "repaired": 3,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "requests": 0,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": false
-    },
-    {
-      "kind": "evidence",
-      "repaired_on": "2026-09-05",
-      "addressed": 1,
-      "repaired": 1,
-      "remaining": 0,
-      "usage": {
-        "input_tokens": 10547,
-        "output_tokens": 135,
-        "requests": 1,
-        "schema_repairs": 0
-      },
-      "coordinates_checked": true
-    }
-  ],
+  "repairs": [],
   "evidence": [
     {
       "location": "AR 5a",
       "occurrence": 0,
       "digest": "sha256:e7a671243c40dfd6627e96e05fe9fa80b64155adfcd3edcba4734b1ff560fd95"
+    },
+    {
+      "location": "AR 19",
+      "occurrence": 0,
+      "digest": "sha256:2838b0027693e902716701bdd62b9a7a134341dabbe386def0388468955caf3c"
+    },
+    {
+      "location": "AR 47",
+      "occurrence": 0,
+      "digest": "sha256:714778d8ec8ae11a761b0432799649c7099e012cb1728526ee73959ab9828f3d"
     }
   ]
 }
