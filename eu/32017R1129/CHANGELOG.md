@@ -10,6 +10,55 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20270130 -->
+## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
+### `02017R1129-20260605` → `02017R1129-20270130`
+
+- **Act** `eu:32017R1129` · **In force** 2027-01-30 · **Detected** 2026-11-19
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 62 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02017R1129-20260605` · `v2` = `02017R1129-20270130`
+
+---
+
+**MODIFIED · Art. 1 — Subject matter, scope and exemptions** · applies from: unknown (the text changed beyond its dates, so no date that moved can be read as the application date)
+
+*within* `AR 1 PA 5 ALN 1 PTA (c)` · *dates* +2024-11-27 · *amended by* `32025L0001`
+
+Point (c) of Article 1(5) now also covers securities resulting from the conversion or exchange of own funds or eligible liabilities through the exercise of a power referred to in Article 39(2) or Article 42(1) or (2) of Directive (EU) 2025/1, in addition to the previously referenced powers under Directive 2014/59/EU. [Art. 1, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20270130#art_1)
+
+The earlier version referred only to powers under Article 53(2), 59(2) or 63(1) or (2) of Directive 2014/59/EU, without any mention of Directive (EU) 2025/1. [Art. 1, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_1)
+
+*before* (`02017R1129-20260605`)
+
+> Article 1
+> Subject matter, scope and exemptions
+> 1. This Regulation lays down requirements for the drawing up, approval and distribution of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market situated or operating within a Member State.
+> 2. This Regulation shall not apply to the following types of securities:
+> (a) units issued by collective investment undertakings other than the closed-end type;
+> (b) non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States;
+> (c) shares in the capital of central banks of the Member States;
+> (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
+> (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
+> (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 19408 characters omitted…]
+
+*after* (`02017R1129-20270130`)
+
+> Article 1
+> Subject matter, scope and exemptions
+> 1. This Regulation lays down requirements for the drawing up, approval and distribution of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market situated or operating within a Member State.
+> 2. This Regulation shall not apply to the following types of securities:
+> (a) units issued by collective investment undertakings other than the closed-end type;
+> (b) non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States;
+> (c) shares in the capital of central banks of the Member States;
+> (d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;
+> (e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;
+> (f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.
+> 3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not app […truncated by emendrix: 20006 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02017R1129-20270130 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02017R1129-20260605 -->
 ## Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be […]
 ### `02017R1129-20260305` → `02017R1129-20260605`

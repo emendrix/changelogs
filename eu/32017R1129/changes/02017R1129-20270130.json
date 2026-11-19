@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.3",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32017R1129",
+    "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+  },
+  "from_version": "02017R1129-20260605",
+  "to_version": "02017R1129-20270130",
+  "detected_on": "2026-11-19",
+  "in_force": [
+    "2027-01-30"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 62,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "textless": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32017R1129",
+            "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+          },
+          "version": "02017R1129-20270130",
+          "location": "AR 1"
+        },
+        "heading": "Subject matter, scope and exemptions",
+        "before": "Article 1\nSubject matter, scope and exemptions\n1. This Regulation lays down requirements for the drawing up, approval and distribution of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market situated or operating within a Member State.\n2. This Regulation shall not apply to the following types of securities:\n(a) units issued by collective investment undertakings other than the closed-end type;\n(b) non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States;\n(c) shares in the capital of central banks of the Member States;\n(d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;\n(e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;\n(f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.\n3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not apply to an offer of securities to the public with a total consideration in the Union of less than EUR 1000000, which shall be calculated over a period of 12 months.\nMember States shall not extend the obligation to draw up a prospectus in accordance with this Regulation to offers of securities to the public referred to in the first subparagraph of this paragraph. However, in those cases, Member States may require other disclosure requirements at national level to the extent that such requirements do not constitute a disproportionate or unnecessary burden.\n4. The obligation to publish a prospectus set out in Article 3(1) shall not apply to any of the following types of offers of securities to the public:\n(a) an offer of securities addressed solely to qualified investors;\n(b) an offer of securities addressed to fewer than 150 natural or legal persons per Member State, other than qualified investors;\n(c) an offer of securities whose denomination per unit amounts to at least EUR 100000;\n(d) an offer of securities addressed to investors who acquire securities for a total consideration of at least EUR 100000 per investor, for each separate offer;\n(da) an offer of securities to be admitted to trading on a regulated market or an SME growth market and that are fungible with securities already admitted to trading on the same market, provided that all of the following conditions are met:\n(i) the securities represent, over a period of 12 months, less than 30 % of the number of securities already admitted to trading on the same market;\n(ii) the issuer of the securities is not subject to a restructuring or to insolvency proceedings;\n(iii) a document containing the information set out in Annex IX is filed, in electronic format, with the competent authority of the home Member State and made available to the public in accordance with the arrangements set out in Article 21(2) at the same time as it is filed with that competent authority;\n(db) an offer of securities fungible with securities that have been admitted to trading on a regulated market or an SME growth market continuously for at least the 18 months preceding the offer of the new securities, provided that all of the following conditions are met:\n(i) the securities offered to the public are not issued in connection with a takeover by means of an exchange offer, a merger or a division;\n(ii) the issuer of the securities is not subject to a restructuring or to insolvency proceedings;\n(iii) a document containing the information set out in Annex IX is filed, in electronic format, with the competent authority of the home Member State and made available to the public in accordance with the arrangements set out in Article 21(2) at the same time as it is filed with that competent authority;\n(e) shares issued in substitution for shares of the same class already issued, if the issuing of such new shares does not involve any increase in the issued capital;\n(f) securities offered in connection with a takeover by means of an exchange offer, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(g) securities offered, allotted or to be allotted in connection with a merger or division, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(h) dividends paid out to existing shareholders in the form of shares of the same class as the shares in respect of which such dividends are paid, provided that a document is made available containing information on the number and nature of the shares and the reasons for and details of the offer;\n(i) securities offered, allotted or to be allotted to existing or former directors or employees by their employer or by an affiliated undertaking provided that a document is made available containing information on the number and nature of the securities and the reasons for and details of the offer or allotment;\n(j) non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument;\n(k) an offer of securities to the public from a crowdfunding service provider authorised under Regulation (EU) 2020/1503 of the European Parliament and of the Council\nRegulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 on European crowdfunding service providers for business and amending Regulation (EU) 2017/1129 and Directive (EU) 2019/1937 (OJ L 347, 20.10.2020, p. 1)., provided that it does not exceed the threshold laid down in point (c) of Article 1(2) of that Regulation.\n(l) from 18 March 2021 to 31 December 2022, non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument.\nThe document referred to in the first subparagraph, point (da)(iii) and point (db)(iii), shall have a maximum length of 11 sides of A4-sized paper when printed, shall be presented and laid out in a way that is easy to read, using characters of readable size and shall be drawn up in the official language of the home Member State, or at least one of its official languages, or in another language accepted by the competent authority of that Member State.\nThe total aggregated consideration of the offers of securities to the public referred to in the first subparagraph, point (j), shall take into account the total aggregated consideration of all ongoing offers of securities to the public and offers of securities to the public made within the 12 months preceding the start date of a new offer of securities to the public, except for those offers of securities to the public for which a prospectus was published or that were subject to any other exemption from the obligation to publish a prospectus in accordance with the first subparagraph, or pursuant to Article 3(2) or pursuant to Article 3(2a).\n5. The obligation to publish a prospectus set out in Article 3(3) shall not apply to the admission to trading on a regulated market of any of the following:\n(a) securities fungible with securities already admitted to trading on the same regulated market, provided that they represent, over a period of 12 months, less than 30 % of the number of securities already admitted to trading on the same regulated market;\n(b) shares resulting from the conversion or exchange of other securities or from the exercise of the rights conferred by other securities, where the resulting shares are of the same class as the shares already admitted to trading on the same regulated market, provided that the resulting shares represent, over a period of 12 months, less than 30 % of the number of shares of the same class already admitted to trading on the same regulated market, subject to the second subparagraph of this paragraph;\n(ba) securities fungible with securities that have been admitted to trading on a regulated market continuously for at least the last 18 months before the admission to trading of the new securities, provided that all of the following conditions are met:\n(i) the securities to be admitted to trading on a regulated market are not issued in connection with a takeover by means of an exchange offer, a merger or a division;\n(ii) the issuer of the securities is not subject to a restructuring or to insolvency proceedings;\n(iii) a document containing the information set out in Annex IX is filed, in electronic format, with the competent authority of the home Member State and made available to the public in accordance with the arrangements set out in Article 21(2) at the same time as it is filed with that competent authority;\n(c) securities resulting from the conversion or exchange of other securities, own funds or eligible liabilities by a resolution authority due to the exercise of a power referred to in Article 53(2), 59(2) or Article 63(1) or (2) of Directive 2014/59/EU;\n(d) shares issued in substitution for shares of the same class already admitted to trading on the same regulated market, where the issuing of such shares does not involve any increase in the issued capital;\n(e) securities offered in connection with a takeover by means of an exchange offer, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(f) securities offered, allotted or to be allotted in connection with a merger or a division, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(g) shares offered, allotted or to be allotted free of charge to existing shareholders, and dividends paid out in the form of shares of the same class as the shares in respect of which such dividends are paid, provided that the said shares are of the same class as the shares already admitted to trading on the same regulated market and that a document is made available containing information on the number and nature of the shares and the reasons for and details of the offer or allotment;\n(h) securities offered, allotted or to be allotted to existing or former directors or employees by their employer or an affiliated undertaking, provided that the said securities are of the same class as the securities already admitted to trading on the same regulated market and that a document is made available containing information on the number and nature of the securities and the reasons for and detail of the offer or allotment;\n(i) non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument;\n(j) securities already admitted to trading on another regulated market, on the following conditions:\n(i) that those securities, or securities of the same class, have been admitted to trading on that other regulated market for more than 18 months;\n(ii) that, for securities first admitted to trading on a regulated market after 1 July 2005, the admission to trading on that other regulated market was subject to a prospectus approved and published in accordance with Directive 2003/71/EC;\n(iii) that, except where point (ii) applies, for securities first admitted to listing after 30 June 1983, listing particulars were approved in accordance with the requirements of Council Directive 80/390/EEC\nCouncil Directive 80/390/EEC of 17 March 1980 coordinating the requirements for the drawing up, scrutiny and distribution of the listing particulars to be published for the admission of securities to official stock exchange listing (OJ L 100, 17.4.1980, p. 1). or Directive 2001/34/EC of the European Parliament and of the Council\nDirective 2001/34/EC of the European Parliament and of the Council of 28 May 2001 on the admission of securities to official stock exchange listing and on information to be published on those securities (OJ L 184, 6.7.2001, p. 1).;\n(iv) that the ongoing obligations for trading on that other regulated market have been fulfilled;\n(v) that the person seeking the admission of a security to trading on a regulated market under the exemption set out in this point (j) makes available to the public in the Member State of the regulated market where admission to trading is sought, in accordance with the arrangements set out in Article 21(2), a document the content of which complies with Article 7, except that the maximum length set out in Article 7(3) shall be extended by two additional sides of A4-sized paper, drawn up in a language accepted by the competent authority of the Member State of the regulated market where admission is sought; and\n(vi) that the document referred to in point (v) states where the most recent prospectus can be obtained and where the financial information published by the issuer pursuant to ongoing disclosure obligations is available;\n(k) from 18 March 2021 to 31 December 2022, non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument.\nThe requirement that the resulting shares represent, over a period of 12 months, less than 30 % of the number of shares of the same class already admitted to trading on the same regulated market as referred to in the first subparagraph, point (b), shall not apply in any of the following cases:\n(a) where a prospectus was drawn up in accordance with either this Regulation or Directive 2003/71/EC upon the offer to the public or admission to trading on a regulated market of the securities giving access to the shares;\n(b) where the securities giving access to the shares were issued before 20 July 2017;\n(c) where the shares qualify as Common Equity Tier 1 items as laid down in Article 26 of Regulation (EU) No 575/2013 of the European Parliament and of the Council\nRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1). of an institution as defined in point (3) of Article 4(1) of that Regulation and result from the conversion of Additional Tier 1 instruments issued by that institution due to the occurrence of a trigger event as laid down in point (a) of Article 54(1) of that Regulation;\n(d) where the shares qualify as eligible own funds or eligible basic own funds as defined in Section 3 of Chapter VI of Title I of Directive 2009/138/EC of the European Parliament and of the Council\nDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1)., and result from the conversion of other securities which was triggered for the purposes of fulfilling the obligations to comply with the Solvency Capital Requirement or Minimum Capital Requirement as laid down in Sections 4 and 5 of Chapter VI of Title I of Directive 2009/138/EC or the group solvency requirement as laid down in Title III of Directive 2009/138/EC.\nThe document referred to in the first subparagraph, point (ba)(iii), shall have a maximum length of 11 sides of A4-sized paper when printed, shall be presented and laid out in a way that is easy to read, using characters of readable size and shall be drawn up in the official language of the home Member State, or at least one of its official languages, or in another language accepted by the competent authority of that Member State.\nThe total aggregated consideration of the offers of securities to the public referred to in the first subparagraph, point (i), shall take into account the total aggregated consideration of all ongoing offers of securities to the public and offers of securities to the public made within the 12 months preceding the start date of a new offer of securities to the public, except for those offers of securities to the public for which a prospectus was published or that were subject to any other exemption from the obligation to publish a prospectus in accordance with the first subparagraph.\n6. The exemptions from the obligation to publish a prospectus that are set out in paragraphs 4 and 5 may be combined together. However, the exemptions in paragraph 5, first subparagraph, points (a) and (b), shall not be combined together where such combination could lead to the immediate or deferred admission to trading on a regulated market over a period of 12 months of more than 30 % of the number of shares of the same class already admitted to trading on the same regulated market, without a prospectus being published.\n6a. The exemptions set out in point (f) of paragraph 4 and in point (e) of paragraph 5 shall only apply to equity securities, and only in the following cases:\n(a) the equity securities offered are fungible with existing securities already admitted to trading on a regulated market prior to the takeover and its related transaction, and the takeover is not considered to be a reverse acquisition transaction within the meaning of paragraph B19 of international financial reporting standard (IFRS) 3, Business Combinations, adopted by Commission Regulation (EC) No 1126/2008\nCommission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1).; or\n(b) the supervisory authority that has the competence, where applicable, to review the offer document under Directive 2004/25/EC of the European Parliament and of the Council\nDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12). has issued a prior approval of the document referred to in point (f) of paragraph 4 or point (e) of paragraph 5 of this Article.\n6b. The exemptions set out in point (g) of paragraph 4 and in point (f) of paragraph 5 shall apply only to equity securities in respect of which the transaction is not considered to be a reverse acquisition transaction within the meaning of paragraph B19 of IFRS 3, Business Combinations, and only in the following cases:\n(a) the equity securities of the acquiring entity have already been admitted to trading on a regulated market prior to the transaction; or\n(b) the equity securities of the entities subject to the division have already been admitted to trading on a regulated market prior to the transaction.\n7. The Commission is empowered to adopt delegated acts in accordance with Article 44 supplementing this Regulation by setting out the minimum information content of the documents referred to in points (f) and (g) of paragraph 4 and points (e) and (f) of the first subparagraph of paragraph 5 of this Article.",
+        "after": "Article 1\nSubject matter, scope and exemptions\n1. This Regulation lays down requirements for the drawing up, approval and distribution of the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market situated or operating within a Member State.\n2. This Regulation shall not apply to the following types of securities:\n(a) units issued by collective investment undertakings other than the closed-end type;\n(b) non-equity securities issued by a Member State or by one of a Member State’s regional or local authorities, by public international bodies of which one or more Member States are members, by the European Central Bank or by the central banks of the Member States;\n(c) shares in the capital of central banks of the Member States;\n(d) securities unconditionally and irrevocably guaranteed by a Member State or by one of a Member State’s regional or local authorities;\n(e) securities issued by associations with legal status or non-profit-making bodies, recognised by a Member State, for the purposes of obtaining the funding necessary to achieve their non-profit-making objectives;\n(f) non-fungible shares of capital whose main purpose is to provide the holder with a right to occupy an apartment, or other form of immovable property or a part thereof and where the shares cannot be sold on without that right being given up.\n3. Without prejudice to the second subparagraph of this paragraph and to Article 4, this Regulation shall not apply to an offer of securities to the public with a total consideration in the Union of less than EUR 1000000, which shall be calculated over a period of 12 months.\nMember States shall not extend the obligation to draw up a prospectus in accordance with this Regulation to offers of securities to the public referred to in the first subparagraph of this paragraph. However, in those cases, Member States may require other disclosure requirements at national level to the extent that such requirements do not constitute a disproportionate or unnecessary burden.\n4. The obligation to publish a prospectus set out in Article 3(1) shall not apply to any of the following types of offers of securities to the public:\n(a) an offer of securities addressed solely to qualified investors;\n(b) an offer of securities addressed to fewer than 150 natural or legal persons per Member State, other than qualified investors;\n(c) an offer of securities whose denomination per unit amounts to at least EUR 100000;\n(d) an offer of securities addressed to investors who acquire securities for a total consideration of at least EUR 100000 per investor, for each separate offer;\n(da) an offer of securities to be admitted to trading on a regulated market or an SME growth market and that are fungible with securities already admitted to trading on the same market, provided that all of the following conditions are met:\n(i) the securities represent, over a period of 12 months, less than 30 % of the number of securities already admitted to trading on the same market;\n(ii) the issuer of the securities is not subject to a restructuring or to insolvency proceedings;\n(iii) a document containing the information set out in Annex IX is filed, in electronic format, with the competent authority of the home Member State and made available to the public in accordance with the arrangements set out in Article 21(2) at the same time as it is filed with that competent authority;\n(db) an offer of securities fungible with securities that have been admitted to trading on a regulated market or an SME growth market continuously for at least the 18 months preceding the offer of the new securities, provided that all of the following conditions are met:\n(i) the securities offered to the public are not issued in connection with a takeover by means of an exchange offer, a merger or a division;\n(ii) the issuer of the securities is not subject to a restructuring or to insolvency proceedings;\n(iii) a document containing the information set out in Annex IX is filed, in electronic format, with the competent authority of the home Member State and made available to the public in accordance with the arrangements set out in Article 21(2) at the same time as it is filed with that competent authority;\n(e) shares issued in substitution for shares of the same class already issued, if the issuing of such new shares does not involve any increase in the issued capital;\n(f) securities offered in connection with a takeover by means of an exchange offer, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(g) securities offered, allotted or to be allotted in connection with a merger or division, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(h) dividends paid out to existing shareholders in the form of shares of the same class as the shares in respect of which such dividends are paid, provided that a document is made available containing information on the number and nature of the shares and the reasons for and details of the offer;\n(i) securities offered, allotted or to be allotted to existing or former directors or employees by their employer or by an affiliated undertaking provided that a document is made available containing information on the number and nature of the securities and the reasons for and details of the offer or allotment;\n(j) non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument;\n(k) an offer of securities to the public from a crowdfunding service provider authorised under Regulation (EU) 2020/1503 of the European Parliament and of the Council\nRegulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 on European crowdfunding service providers for business and amending Regulation (EU) 2017/1129 and Directive (EU) 2019/1937 (OJ L 347, 20.10.2020, p. 1)., provided that it does not exceed the threshold laid down in point (c) of Article 1(2) of that Regulation.\n(l) from 18 March 2021 to 31 December 2022, non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument.\nThe document referred to in the first subparagraph, point (da)(iii) and point (db)(iii), shall have a maximum length of 11 sides of A4-sized paper when printed, shall be presented and laid out in a way that is easy to read, using characters of readable size and shall be drawn up in the official language of the home Member State, or at least one of its official languages, or in another language accepted by the competent authority of that Member State.\nThe total aggregated consideration of the offers of securities to the public referred to in the first subparagraph, point (j), shall take into account the total aggregated consideration of all ongoing offers of securities to the public and offers of securities to the public made within the 12 months preceding the start date of a new offer of securities to the public, except for those offers of securities to the public for which a prospectus was published or that were subject to any other exemption from the obligation to publish a prospectus in accordance with the first subparagraph, or pursuant to Article 3(2) or pursuant to Article 3(2a).\n5. The obligation to publish a prospectus set out in Article 3(3) shall not apply to the admission to trading on a regulated market of any of the following:\n(a) securities fungible with securities already admitted to trading on the same regulated market, provided that they represent, over a period of 12 months, less than 30 % of the number of securities already admitted to trading on the same regulated market;\n(b) shares resulting from the conversion or exchange of other securities or from the exercise of the rights conferred by other securities, where the resulting shares are of the same class as the shares already admitted to trading on the same regulated market, provided that the resulting shares represent, over a period of 12 months, less than 30 % of the number of shares of the same class already admitted to trading on the same regulated market, subject to the second subparagraph of this paragraph;\n(ba) securities fungible with securities that have been admitted to trading on a regulated market continuously for at least the last 18 months before the admission to trading of the new securities, provided that all of the following conditions are met:\n(i) the securities to be admitted to trading on a regulated market are not issued in connection with a takeover by means of an exchange offer, a merger or a division;\n(ii) the issuer of the securities is not subject to a restructuring or to insolvency proceedings;\n(iii) a document containing the information set out in Annex IX is filed, in electronic format, with the competent authority of the home Member State and made available to the public in accordance with the arrangements set out in Article 21(2) at the same time as it is filed with that competent authority;\n(c) securities resulting from the conversion or exchange of other securities, own funds, or eligible liabilities by a resolution authority due to the exercise of a power referred to in Article 53(2), Article 59(2) or Article 63(1) or (2) of Directive 2014/59/EU or the exercise of a power referred to in Article 39(2) or Article 42(1) or (2) of Directive (EU) 2025/1 of the European Parliament and of the Council\nDirective (EU) 2025/1 of the European Parliament and of the Council of 27 November 2024 establishing a framework for the recovery and resolution of insurance and reinsurance undertakings and amending Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 and Regulations (EU) No 1094/2010, (EU) No 648/2012, (EU) No 806/2014 and (EU) 2017/1129 (OJ L, 2025/1, 8.1.2025, ELI: http://data.europa.eu/eli/dir/2025/1/oj).;\n(d) shares issued in substitution for shares of the same class already admitted to trading on the same regulated market, where the issuing of such shares does not involve any increase in the issued capital;\n(e) securities offered in connection with a takeover by means of an exchange offer, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(f) securities offered, allotted or to be allotted in connection with a merger or a division, provided that a document is made available to the public in accordance with the arrangements set out in Article 21(2), containing information describing the transaction and its impact on the issuer;\n(g) shares offered, allotted or to be allotted free of charge to existing shareholders, and dividends paid out in the form of shares of the same class as the shares in respect of which such dividends are paid, provided that the said shares are of the same class as the shares already admitted to trading on the same regulated market and that a document is made available containing information on the number and nature of the shares and the reasons for and details of the offer or allotment;\n(h) securities offered, allotted or to be allotted to existing or former directors or employees by their employer or an affiliated undertaking, provided that the said securities are of the same class as the securities already admitted to trading on the same regulated market and that a document is made available containing information on the number and nature of the securities and the reasons for and detail of the offer or allotment;\n(i) non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument;\n(j) securities already admitted to trading on another regulated market, on the following conditions:\n(i) that those securities, or securities of the same class, have been admitted to trading on that other regulated market for more than 18 months;\n(ii) that, for securities first admitted to trading on a regulated market after 1 July 2005, the admission to trading on that other regulated market was subject to a prospectus approved and published in accordance with Directive 2003/71/EC;\n(iii) that, except where point (ii) applies, for securities first admitted to listing after 30 June 1983, listing particulars were approved in accordance with the requirements of Council Directive 80/390/EEC\nCouncil Directive 80/390/EEC of 17 March 1980 coordinating the requirements for the drawing up, scrutiny and distribution of the listing particulars to be published for the admission of securities to official stock exchange listing (OJ L 100, 17.4.1980, p. 1). or Directive 2001/34/EC of the European Parliament and of the Council\nDirective 2001/34/EC of the European Parliament and of the Council of 28 May 2001 on the admission of securities to official stock exchange listing and on information to be published on those securities (OJ L 184, 6.7.2001, p. 1).;\n(iv) that the ongoing obligations for trading on that other regulated market have been fulfilled;\n(v) that the person seeking the admission of a security to trading on a regulated market under the exemption set out in this point (j) makes available to the public in the Member State of the regulated market where admission to trading is sought, in accordance with the arrangements set out in Article 21(2), a document the content of which complies with Article 7, except that the maximum length set out in Article 7(3) shall be extended by two additional sides of A4-sized paper, drawn up in a language accepted by the competent authority of the Member State of the regulated market where admission is sought; and\n(vi) that the document referred to in point (v) states where the most recent prospectus can be obtained and where the financial information published by the issuer pursuant to ongoing disclosure obligations is available;\n(k) from 18 March 2021 to 31 December 2022, non-equity securities issued in a continuous or repeated manner by a credit institution, where the total aggregated consideration in the Union for the securities offered is less than EUR 150000000 per credit institution calculated over a period of 12 months, provided that those securities:\n(i) are not subordinated, convertible or exchangeable; and\n(ii) do not give a right to subscribe for or acquire other types of securities and are not linked to a derivative instrument.\nThe requirement that the resulting shares represent, over a period of 12 months, less than 30 % of the number of shares of the same class already admitted to trading on the same regulated market as referred to in the first subparagraph, point (b), shall not apply in any of the following cases:\n(a) where a prospectus was drawn up in accordance with either this Regulation or Directive 2003/71/EC upon the offer to the public or admission to trading on a regulated market of the securities giving access to the shares;\n(b) where the securities giving access to the shares were issued before 20 July 2017;\n(c) where the shares qualify as Common Equity Tier 1 items as laid down in Article 26 of Regulation (EU) No 575/2013 of the European Parliament and of the Council\nRegulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1). of an institution as defined in point (3) of Article 4(1) of that Regulation and result from the conversion of Additional Tier 1 instruments issued by that institution due to the occurrence of a trigger event as laid down in point (a) of Article 54(1) of that Regulation;\n(d) where the shares qualify as eligible own funds or eligible basic own funds as defined in Section 3 of Chapter VI of Title I of Directive 2009/138/EC of the European Parliament and of the Council\nDirective 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1)., and result from the conversion of other securities which was triggered for the purposes of fulfilling the obligations to comply with the Solvency Capital Requirement or Minimum Capital Requirement as laid down in Sections 4 and 5 of Chapter VI of Title I of Directive 2009/138/EC or the group solvency requirement as laid down in Title III of Directive 2009/138/EC.\nThe document referred to in the first subparagraph, point (ba)(iii), shall have a maximum length of 11 sides of A4-sized paper when printed, shall be presented and laid out in a way that is easy to read, using characters of readable size and shall be drawn up in the official language of the home Member State, or at least one of its official languages, or in another language accepted by the competent authority of that Member State.\nThe total aggregated consideration of the offers of securities to the public referred to in the first subparagraph, point (i), shall take into account the total aggregated consideration of all ongoing offers of securities to the public and offers of securities to the public made within the 12 months preceding the start date of a new offer of securities to the public, except for those offers of securities to the public for which a prospectus was published or that were subject to any other exemption from the obligation to publish a prospectus in accordance with the first subparagraph.\n6. The exemptions from the obligation to publish a prospectus that are set out in paragraphs 4 and 5 may be combined together. However, the exemptions in paragraph 5, first subparagraph, points (a) and (b), shall not be combined together where such combination could lead to the immediate or deferred admission to trading on a regulated market over a period of 12 months of more than 30 % of the number of shares of the same class already admitted to trading on the same regulated market, without a prospectus being published.\n6a. The exemptions set out in point (f) of paragraph 4 and in point (e) of paragraph 5 shall only apply to equity securities, and only in the following cases:\n(a) the equity securities offered are fungible with existing securities already admitted to trading on a regulated market prior to the takeover and its related transaction, and the takeover is not considered to be a reverse acquisition transaction within the meaning of paragraph B19 of international financial reporting standard (IFRS) 3, Business Combinations, adopted by Commission Regulation (EC) No 1126/2008\nCommission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1).; or\n(b) the supervisory authority that has the competence, where applicable, to review the offer document under Directive 2004/25/EC of the European Parliament and of the Council\nDirective 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12). has issued a prior approval of the document referred to in point (f) of paragraph 4 or point (e) of paragraph 5 of this Article.\n6b. The exemptions set out in point (g) of paragraph 4 and in point (f) of paragraph 5 shall apply only to equity securities in respect of which the transaction is not considered to be a reverse acquisition transaction within the meaning of paragraph B19 of IFRS 3, Business Combinations, and only in the following cases:\n(a) the equity securities of the acquiring entity have already been admitted to trading on a regulated market prior to the transaction; or\n(b) the equity securities of the entities subject to the division have already been admitted to trading on a regulated market prior to the transaction.\n7. The Commission is empowered to adopt delegated acts in accordance with Article 44 supplementing this Regulation by setting out the minimum information content of the documents referred to in points (f) and (g) of paragraph 4 and points (e) and (f) of the first subparagraph of paragraph 5 of this Article.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 1 PA 5 ALN 1 PTA (c)"
+        ],
+        "table_entries": null,
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32025L0001",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [
+          "2024-11-27"
+        ],
+        "in_force": "2027-01-30",
+        "applies_from": {
+          "kind": "unknown",
+          "reason": "the text changed beyond its dates, so no date that moved can be read as the application date"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32025L0001 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 095",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false,
+        "dispute_reason": null
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Point (c) of Article 1(5) now also covers securities resulting from the conversion or exchange of own funds or eligible liabilities through the exercise of a power referred to in Article 39(2) or Article 42(1) or (2) of Directive (EU) 2025/1, in addition to the previously referenced powers under Directive 2014/59/EU.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20270130",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20270130#art_1",
+              "label": "Art. 1, 02017R1129-20270130"
+            }
+          ]
+        },
+        {
+          "text": "The earlier version referred only to powers under Article 53(2), 59(2) or 63(1) or (2) of Directive 2014/59/EU, without any mention of Directive (EU) 2025/1.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32017R1129",
+                  "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+                },
+                "version": "02017R1129-20260605",
+                "location": "AR 1"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02017R1129-20260605#art_1",
+              "label": "Art. 1, 02017R1129-20260605"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": "",
+      "unexplained_kind": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32017R1129",
+      "display_name": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)"
+    },
+    "from_version": "02017R1129-20260605",
+    "to_version": "02017R1129-20270130",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "1 annotations in (2026-06-05, 2027-01-30]",
+        "claims": [
+          {
+            "location": "AR 1 PA 5 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": "2027-01-30",
+            "source": "32025L0001 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025L0001",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 1"
+        ],
+        "note": "32025L0001, 1.000 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
+        "claims": [
+          {
+            "location": "AR 1 PA 5 PTA (c)",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 095",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32025L0001",
+              "display_name": "Directive (EU) 2025/1 of the European Parliament and of the Council of 27 November 2024 establishing a framework for the recovery and resolution of insurance and reinsurance undertakings and amending Directives 2002/47/EC, 2004/25/EC, 2007/36/EC, 2014/59/EU and (EU) 2017/1132 and Regulations (EU) No 1094/2010, (EU) No 648/2012, (EU) No 806/2014 and (EU) 2017/1129 (Text with EEA relevance)"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": [],
+    "instruction_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
+    "usage": {
+      "input_tokens": 15370,
+      "output_tokens": 277,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 2,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  },
+  "repairs": [],
+  "evidence": [
+    {
+      "location": "AR 1",
+      "occurrence": 0,
+      "digest": "sha256:1d6554513b749510fdfc5be19b956a2018adace262269567785db63def524a2c"
+    }
+  ]
+}

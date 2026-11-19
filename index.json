@@ -667,15 +667,15 @@
       "key": "32017R1129",
       "title": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)",
       "index": "eu/32017R1129/index.json",
-      "index_sha256": "3d8af15fc33479a3057bfd64c2839b1d0def08c5a39d4c91724eb6ac19e5e187",
-      "events": 7,
-      "changes": 60,
+      "index_sha256": "9c9b08e96ba5c82344d5d159f7d4a314599b093ddcab3b27eeb9ca3874d7bdbb",
+      "events": 8,
+      "changes": 61,
       "provisions": 40,
       "disputed": 15,
-      "newest_version": "02017R1129-20260605",
-      "newest_in_force": "2026-06-05",
+      "newest_version": "02017R1129-20270130",
+      "newest_in_force": "2027-01-30",
       "first_detected_on": "2026-08-13",
-      "updated_on": "2026-10-08"
+      "updated_on": "2026-11-19"
     },
     {
       "corpus": "eu",
