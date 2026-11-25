@@ -10,6 +10,57 @@ Generated — do not edit by hand. Entries are delimited by `<!-- emendrix:entry
 > Not legal advice: this output is machine-computed from published texts, carries no lawyer's
 > review, and is engineering assistance only.
 
+<!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20261123 -->
+## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
+### `02012R0528-20260819` → `02012R0528-20261123`
+
+- **Act** `eu:32012R0528` · **In force** 2026-11-23 · **Detected** 2026-11-25
+- **Touched** 1 provisions — 1 substantive · 0 date-only · 0 with no text · **0 disputed**
+- **Diff** 0 inserted · 1 modified · 0 deleted · 0 renumbered · 0 deferred · 103 unchanged
+- **Gate** 0 sentences quoted verbatim · 0 changes shipped without an explanation
+- **Citations** `v1` = `02012R0528-20260819` · `v2` = `02012R0528-20261123`
+
+---
+
+**MODIFIED · Art. 2 — Scope** · applies from: unchanged
+
+*within* `AR 2 PA 8 ALN 1` · *amended by* `32026R2382`
+
+Paragraph 8 no longer limits the exemption Member States may allow to "specific cases for certain biocidal products"; it now refers simply to exemptions for biocidal products. [Art. 2, v1](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260819#art_2) [Art. 2, v2](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20261123#art_2)
+
+*before* (`02012R0528-20260819`)
+
+> Article 2
+> Scope
+> 1. This Regulation shall apply to biocidal products and treated articles. A list of the types of biocidal products covered by this Regulation and their descriptions is set out in Annex V.
+> 2. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall not apply to biocidal products or treated articles that are within the scope of the following instruments:
+> (a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the Community
+> OJ L 92, 7.4.1990, p. 42.;
+> (b) Directive 90/385/EEC, Directive 93/42/EEC and Directive 98/79/EC;
+> (c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products
+> OJ L 311, 28.11.2001, p. 1., Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use
+> OJ L 311, 28.11.2001, p. 67. and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency
+> OJ L 136, 30.4.2004, p. 1.;
+> (d) Regulation (EC) No 1831/2003;
+> (e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the h […truncated by emendrix: 5717 characters omitted…]
+
+*after* (`02012R0528-20261123`)
+
+> Article 2
+> Scope
+> 1. This Regulation shall apply to biocidal products and treated articles. A list of the types of biocidal products covered by this Regulation and their descriptions is set out in Annex V.
+> 2. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall not apply to biocidal products or treated articles that are within the scope of the following instruments:
+> (a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the Community
+> OJ L 92, 7.4.1990, p. 42.;
+> (b) Directive 90/385/EEC, Directive 93/42/EEC and Directive 98/79/EC;
+> (c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products
+> OJ L 311, 28.11.2001, p. 1., Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use
+> OJ L 311, 28.11.2001, p. 67. and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency
+> OJ L 136, 30.4.2004, p. 1.;
+> (d) Regulation (EC) No 1831/2003;
+> (e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the h […truncated by emendrix: 5691 characters omitted…]
+<!-- emendrix:entry-end b7f4a1c2-9e3d 02012R0528-20261123 -->
+
 <!-- emendrix:entry b7f4a1c2-9e3d 02012R0528-20260819 -->
 ## Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making […]
 ### `02012R0528-20260615` → `02012R0528-20260819`

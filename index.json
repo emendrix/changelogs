@@ -202,15 +202,15 @@
       "key": "32012R0528",
       "title": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance",
       "index": "eu/32012R0528/index.json",
-      "index_sha256": "de3f9b9139cd5f8cac1d221601c4db4ba8d62fe3459bea8341382850d7707892",
-      "events": 10,
-      "changes": 44,
+      "index_sha256": "1900677a8c0f9f99fafbc612ec56ee9c22e1ee7ba3b915329025d85e65d93bcc",
+      "events": 11,
+      "changes": 45,
       "provisions": 30,
       "disputed": 8,
-      "newest_version": "02012R0528-20260819",
-      "newest_in_force": "2026-08-19",
+      "newest_version": "02012R0528-20261123",
+      "newest_in_force": "2026-11-23",
       "first_detected_on": "2026-09-04",
-      "updated_on": "2026-10-17"
+      "updated_on": "2026-11-25"
     },
     {
       "corpus": "eu",

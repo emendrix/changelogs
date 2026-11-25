@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.3",
+  "disclaimer": "Not legal advice: this output is machine-computed from published texts, carries no lawyer's review, and is engineering assistance only.",
+  "act": {
+    "corpus": "eu",
+    "key": "32012R0528",
+    "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+  },
+  "from_version": "02012R0528-20260819",
+  "to_version": "02012R0528-20261123",
+  "detected_on": "2026-11-25",
+  "in_force": [
+    "2026-11-23"
+  ],
+  "diff_only": false,
+  "summary": {
+    "inserted": 0,
+    "modified": 1,
+    "deleted": 0,
+    "renumbered": 0,
+    "deferred": 0,
+    "touched_units": 1,
+    "unchanged_units": 103,
+    "disputed": 0
+  },
+  "counts": {
+    "touched": 1,
+    "substantive": 1,
+    "date_only": 0,
+    "textless": 0,
+    "disputed": 0,
+    "quoted": 0,
+    "unexplained": 0
+  },
+  "changes": [
+    {
+      "change": {
+        "change_type": "MODIFIED",
+        "provision": {
+          "act": {
+            "corpus": "eu",
+            "key": "32012R0528",
+            "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+          },
+          "version": "02012R0528-20261123",
+          "location": "AR 2"
+        },
+        "heading": "Scope",
+        "before": "Article 2\nScope\n1. This Regulation shall apply to biocidal products and treated articles. A list of the types of biocidal products covered by this Regulation and their descriptions is set out in Annex V.\n2. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall not apply to biocidal products or treated articles that are within the scope of the following instruments:\n(a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the Community\nOJ L 92, 7.4.1990, p. 42.;\n(b) Directive 90/385/EEC, Directive 93/42/EEC and Directive 98/79/EC;\n(c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products\nOJ L 311, 28.11.2001, p. 1., Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use\nOJ L 311, 28.11.2001, p. 67. and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency\nOJ L 136, 30.4.2004, p. 1.;\n(d) Regulation (EC) No 1831/2003;\n(e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs\nOJ L 139, 30.4.2004, p. 1. and Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin\nOJ L 139, 30.4.2004, p. 55.;\n(f) Regulation (EC) No 1333/2008;\n(g) Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods\nOJ L 354, 31.12.2008, p. 34.;\n(h) Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed\nOJ L 229, 1.9.2009, p. 1.;\n(i) Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market\nOJ L 309, 24.11.2009, p. 1.;\n(j) Regulation (EC) No 1223/2009;\n(k) Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys\nOJ L 170, 30.6.2009, p. 1..\nNotwithstanding the first subparagraph, when a biocidal product falls within the scope of one of the abovementioned instruments and is intended to be used for purposes not covered by those instruments, this Regulation shall also apply to that biocidal product insofar as those purposes are not addressed by those instruments.\n3. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall be without prejudice to the following instruments:\n(a) Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances\nOJ 196, 16.8.1967, p. 1.;\n(b) Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work\nOJ L 183, 29.6.1989, p. 1.;\n(c) Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work\nOJ L 131, 5.5.1998, p. 11.;\n(d) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption\nOJ L 330, 5.12.1998, p. 32.;\n(e) Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations\nOJ L 200, 30.7.1999, p. 1.;\n(f) Directive 2000/54/EC of the European Parliament and of the Council of 18 September 2000 on the protection of workers from risks related to exposure to biological agents at work\nOJ L 262, 17.10.2000, p. 21.;\n(g) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy\nOJ L 327, 22.12.2000, p. 1.;\n(h) Directive 2004/37/EC of the European Parliament and of the Council of 29 April 2004 on the protection of workers from the risks related to exposure to carcinogens or mutagens at work\nOJ L 158, 30.4.2004, p. 50.;\n(i) Regulation (EC) No 850/2004 of the European Parliament and of the Council of 29 April 2004 on persistent organic pollutants\nOJ L 158, 30.4.2004, p. 7.;\n(j) Regulation (EC) No 1907/2006;\n(k) Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising\nOJ L 376, 27.12.2006, p. 21.;\n(l) Regulation (EC) No 689/2008 of the European Parliament and of the Council of 17 June 2008 concerning the export and import of dangerous chemicals\nOJ L 204, 31.7.2008, p. 1.;\n(m) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures\nOJ L 353, 31.12.2008, p. 1.;\n(n) Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides\nOJ L 309, 24.11.2009, p. 71.;\n(o) Regulation (EC) No 1005/2009 of the European Parliament and of the Council of 16 September 2009 on substances that deplete the ozone layer\nOJ L 286, 31.10.2009, p. 1.;\n(p) Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes\nOJ L 276, 20.10.2010, p. 33.;\n(q) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions\nOJ L 334, 17.12.2010, p. 17..\n4. Article 69 shall not apply to the carriage of biocidal products by rail, road, inland waterway, sea or air.\n5. This Regulation shall not apply to:\n(a) food or feed used as repellents or attractants;\n(b) biocidal products when used as processing aids within the meaning of Regulation (EC) No 1831/2003 and Regulation (EC) No 1333/2008.\n6. Biocidal products which obtained final approval under the International Convention for the Control and Management of Ships’ Ballast Water and Sediments shall be considered as authorised under Chapter VIII of this Regulation. Articles 47 and 68 shall apply accordingly.\n7. Nothing in this Regulation shall prevent Member States from restricting or banning the use of biocidal products in the public supply of drinking water.\n8. Member States may allow for exemptions from this Regulation in specific cases for certain biocidal products, on their own or in a treated article, where necessary in the interests of defence.\n9. The disposal of active substances and biocidal products shall be carried out in accordance with the Union and national waste legislation in force.",
+        "after": "Article 2\nScope\n1. This Regulation shall apply to biocidal products and treated articles. A list of the types of biocidal products covered by this Regulation and their descriptions is set out in Annex V.\n2. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall not apply to biocidal products or treated articles that are within the scope of the following instruments:\n(a) Council Directive 90/167/EEC of 26 March 1990 laying down the conditions governing the preparation, placing on the market and use of medicated feedingstuffs in the Community\nOJ L 92, 7.4.1990, p. 42.;\n(b) Directive 90/385/EEC, Directive 93/42/EEC and Directive 98/79/EC;\n(c) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products\nOJ L 311, 28.11.2001, p. 1., Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use\nOJ L 311, 28.11.2001, p. 67. and Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency\nOJ L 136, 30.4.2004, p. 1.;\n(d) Regulation (EC) No 1831/2003;\n(e) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs\nOJ L 139, 30.4.2004, p. 1. and Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin\nOJ L 139, 30.4.2004, p. 55.;\n(f) Regulation (EC) No 1333/2008;\n(g) Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods\nOJ L 354, 31.12.2008, p. 34.;\n(h) Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed\nOJ L 229, 1.9.2009, p. 1.;\n(i) Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market\nOJ L 309, 24.11.2009, p. 1.;\n(j) Regulation (EC) No 1223/2009;\n(k) Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys\nOJ L 170, 30.6.2009, p. 1..\nNotwithstanding the first subparagraph, when a biocidal product falls within the scope of one of the abovementioned instruments and is intended to be used for purposes not covered by those instruments, this Regulation shall also apply to that biocidal product insofar as those purposes are not addressed by those instruments.\n3. Subject to any explicit provision to the contrary in this Regulation or other Union legislation, this Regulation shall be without prejudice to the following instruments:\n(a) Council Directive 67/548/EEC of 27 June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances\nOJ 196, 16.8.1967, p. 1.;\n(b) Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work\nOJ L 183, 29.6.1989, p. 1.;\n(c) Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work\nOJ L 131, 5.5.1998, p. 11.;\n(d) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption\nOJ L 330, 5.12.1998, p. 32.;\n(e) Directive 1999/45/EC of the European Parliament and of the Council of 31 May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations\nOJ L 200, 30.7.1999, p. 1.;\n(f) Directive 2000/54/EC of the European Parliament and of the Council of 18 September 2000 on the protection of workers from risks related to exposure to biological agents at work\nOJ L 262, 17.10.2000, p. 21.;\n(g) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy\nOJ L 327, 22.12.2000, p. 1.;\n(h) Directive 2004/37/EC of the European Parliament and of the Council of 29 April 2004 on the protection of workers from the risks related to exposure to carcinogens or mutagens at work\nOJ L 158, 30.4.2004, p. 50.;\n(i) Regulation (EC) No 850/2004 of the European Parliament and of the Council of 29 April 2004 on persistent organic pollutants\nOJ L 158, 30.4.2004, p. 7.;\n(j) Regulation (EC) No 1907/2006;\n(k) Directive 2006/114/EC of the European Parliament and of the Council of 12 December 2006 concerning misleading and comparative advertising\nOJ L 376, 27.12.2006, p. 21.;\n(l) Regulation (EC) No 689/2008 of the European Parliament and of the Council of 17 June 2008 concerning the export and import of dangerous chemicals\nOJ L 204, 31.7.2008, p. 1.;\n(m) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures\nOJ L 353, 31.12.2008, p. 1.;\n(n) Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides\nOJ L 309, 24.11.2009, p. 71.;\n(o) Regulation (EC) No 1005/2009 of the European Parliament and of the Council of 16 September 2009 on substances that deplete the ozone layer\nOJ L 286, 31.10.2009, p. 1.;\n(p) Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes\nOJ L 276, 20.10.2010, p. 33.;\n(q) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions\nOJ L 334, 17.12.2010, p. 17..\n4. Article 69 shall not apply to the carriage of biocidal products by rail, road, inland waterway, sea or air.\n5. This Regulation shall not apply to:\n(a) food or feed used as repellents or attractants;\n(b) biocidal products when used as processing aids within the meaning of Regulation (EC) No 1831/2003 and Regulation (EC) No 1333/2008.\n6. Biocidal products which obtained final approval under the International Convention for the Control and Management of Ships’ Ballast Water and Sediments shall be considered as authorised under Chapter VIII of this Regulation. Articles 47 and 68 shall apply accordingly.\n7. Nothing in this Regulation shall prevent Member States from restricting or banning the use of biocidal products in the public supply of drinking water.\n8. Member States may allow for exemptions from this Regulation for biocidal products, on their own or in a treated article, where necessary in the interests of defence.\n9. The disposal of active substances and biocidal products shall be carried out in accordance with the Union and national waste legislation in force.",
+        "previous_location": null,
+        "changed_within": [
+          "AR 2 PA 8 ALN 1"
+        ],
+        "table_entries": null,
+        "amending_acts": [
+          {
+            "corpus": "eu",
+            "key": "32026R2382",
+            "display_name": null
+          }
+        ],
+        "dates_removed": [],
+        "dates_added": [],
+        "in_force": "2026-11-23",
+        "applies_from": {
+          "kind": "unchanged"
+        },
+        "signals": {
+          "structural_diff": {
+            "status": "observed",
+            "detail": "structural_diff",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "corpus_metadata": {
+            "status": "observed",
+            "detail": "32026R2382 R",
+            "change_types": [
+              "MODIFIED"
+            ]
+          },
+          "instruction_parse": {
+            "status": "observed",
+            "detail": "AR 003",
+            "change_types": [
+              "MODIFIED"
+            ]
+          }
+        },
+        "disputed": false,
+        "dispute_reason": null
+      },
+      "outcome": "passed",
+      "sentences": [
+        {
+          "text": "Paragraph 8 no longer limits the exemption Member States may allow to \"specific cases for certain biocidal products\"; it now refers simply to exemptions for biocidal products.",
+          "fallback": false,
+          "citations": [
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20260819",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20260819#art_2",
+              "label": "Art. 2, 02012R0528-20260819"
+            },
+            {
+              "ref": {
+                "act": {
+                  "corpus": "eu",
+                  "key": "32012R0528",
+                  "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+                },
+                "version": "02012R0528-20261123",
+                "location": "AR 2"
+              },
+              "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02012R0528-20261123#art_2",
+              "label": "Art. 2, 02012R0528-20261123"
+            }
+          ]
+        }
+      ],
+      "applicability_note": null,
+      "unexplained": "",
+      "unexplained_kind": ""
+    }
+  ],
+  "corroboration": {
+    "act": {
+      "corpus": "eu",
+      "key": "32012R0528",
+      "display_name": "Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products  Text with EEA relevance"
+    },
+    "from_version": "02012R0528-20260819",
+    "to_version": "02012R0528-20261123",
+    "signals": [
+      {
+        "signal": "structural_diff",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": null,
+        "claims": []
+      },
+      {
+        "signal": "corpus_metadata",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": "1 annotations in (2026-08-19, 2026-11-23]",
+        "claims": [
+          {
+            "location": "AR 2 PA 8",
+            "change_type": "MODIFIED",
+            "in_force": "2026-11-23",
+            "source": "32026R2382 R",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2382",
+              "display_name": null
+            }
+          }
+        ]
+      },
+      {
+        "signal": "instruction_parse",
+        "available": true,
+        "units": [
+          "AR 2"
+        ],
+        "note": "32026R2382, 0.958 of its instruction clauses read, 0 dated outside the window, 1 undated and claimed",
+        "claims": [
+          {
+            "location": "AR 2 PA 8",
+            "change_type": "MODIFIED",
+            "in_force": null,
+            "source": "AR 003",
+            "amending_act": {
+              "corpus": "eu",
+              "key": "32026R2382",
+              "display_name": "Regulation (EU) 2026/2382 of the European Parliament and of the Council of 21 October 2026 amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012, (EU) 2019/1021 and (EU) 2021/697 as regards defence readiness and facilitating defence investments and conditions for defence industry"
+            }
+          }
+        ]
+      }
+    ],
+    "agreements": [
+      {
+        "left": "structural_diff",
+        "right": "corpus_metadata",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "structural_diff",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      },
+      {
+        "left": "corpus_metadata",
+        "right": "instruction_parse",
+        "left_units": 1,
+        "right_units": 1,
+        "shared": 1,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "kind_mismatches": 0
+      }
+    ],
+    "disagreements": [],
+    "metadata_only_units": [],
+    "instruction_only_units": []
+  },
+  "explain": {
+    "model_id": "openrouter:anthropic/claude-sonnet-5",
+    "changes": 1,
+    "explained": 1,
+    "unavailable": 0,
+    "replayed": 0,
+    "synthetic": 0,
+    "truncated": 0,
+    "no_evidence": 0,
+    "model_failed": 0,
+    "nothing_to_explain": 0,
+    "provider_unavailable": 0,
+    "usage": {
+      "input_tokens": 7972,
+      "output_tokens": 144,
+      "requests": 1,
+      "schema_repairs": 0
+    }
+  },
+  "gate": {
+    "changes": 1,
+    "passed_first": 1,
+    "passed_on_retry": 0,
+    "fallback": 0,
+    "unexplained": 0,
+    "retries": 0,
+    "sentences": 1,
+    "citations": 2,
+    "citations_rejected": 0,
+    "notes_dropped": 0,
+    "coordinates_unsupported": 0
+  },
+  "repairs": [],
+  "evidence": [
+    {
+      "location": "AR 2",
+      "occurrence": 0,
+      "digest": "sha256:5e713cdb9aecf2efb21095340f3a48aecbae9fc9351e50e7bad8eff28a858971"
+    }
+  ]
+}
